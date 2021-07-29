@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: anjuta-extras master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=anjuta&component=unknown\n"
+"PO-Revision-Date: 2020-04-06 10:15+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:29+0000\n"
+
+msgid "Add line number every:"
+msgstr "添加行号的间隔："
+
+msgid "Add page header"
+msgstr "添加页眉"
+
+msgid "An alternate editor based on Scintilla"
+msgstr "基于 Scintilla 的另一个编辑器"
+
+msgid "Attributes:"
+msgstr "属性："
+
+msgid "Autocomplete XML/HTML closing tags"
+msgstr "自动补全 XML/HTML 关闭标签"
+
+msgid "Autocompletion pop up choices"
+msgstr "自动补全弹出选择"
+
+msgid "Background color:"
+msgstr "背景色："
+
+msgid "Bold"
+msgstr "粗体"
+
+msgid "Calltip background:"
+msgstr "插字符背景:"
+
+msgid ""
+"Cannot load Global defaults and configuration files:\n"
+"%s.\n"
+"This may result in improper behaviour or instabilities.\n"
+"Anjuta will fall back to built in (limited) settings"
+msgstr ""
+"无法载入全局默认值和配置文件：\n"
+"%s。\n"
+"这可能导致行为不正常或者不稳定。\n"
+"Anjuta 将回设为内建设置"
+
+msgid "Caret (cursor) color:"
+msgstr "插入点(光标)号颜色："
+
+msgid "Change build commands to use scratchbox 1 or 2"
+msgstr "更改构建命令以使用 scratchbox 1 或 2"
+
+msgid "Choose autocomplete for single match"
+msgstr "为单次匹配选择自动补全"
+
+msgid "Collapse all code folds on file open"
+msgstr "打开文件时将全部代码折叠"
+
+msgid "Colors & Fonts"
+msgstr "颜色和字体"
+
+msgid "Colour"
+msgstr "彩色"
+
+msgid "Compact folding"
+msgstr "紧凑折叠"
+
+msgid "Could not get file info"
+msgstr "无法获取文件信息文件"
+
+msgid ""
+"Could not load file: %s\n"
+"\n"
+"Details: %s"
+msgstr ""
+"无法载入文件：%s\n"
+"\n"
+"详细信息：%s"
+
+msgid "Could not open file"
+msgstr "无法打开文件进行写入"
+
+msgid "Could not save intermediate file %s: %s"
+msgstr "无法保存中介文件 %s：%s。"
+
+msgid "Disable syntax highlighting"
+msgstr "禁用语法高亮"
+
+msgid "Draw line below folded lines"
+msgstr "在折起行下方绘制一条线"
+
+msgid "Editor"
+msgstr "编辑器"
+
+msgid "Editor caret (cursor) width in pixels"
+msgstr "编辑器插入点(光标)的宽度(像素)"
+
+msgid "Editor view settings"
+msgstr "编辑器视图设置"
+
+msgid "Enable HTML tags folding"
+msgstr "充许 HTML 标签折叠"
+
+msgid "Enable automatic indentation"
+msgstr "启用自动缩进"
+
+msgid "Enable braces check"
+msgstr "启用括号检查"
+
+msgid "Enable code folding"
+msgstr "允许代码折叠"
+
+msgid "Enable comments folding"
+msgstr "允许注释折叠"
+
+msgid "Enable line wrap"
+msgstr "允许自动换行"
+
+msgid "Enable/disable line wrapping"
+msgstr "启用/禁用自动换行"
+
+msgid "Error while reading from file"
+msgstr "读取文件时出错。"
+
+msgid "File loaded successfully"
+msgstr "成功载入文件。"
+
+msgid "File saved successfully"
+msgstr "文件成功保存"
+
+msgid "File: %s"
+msgstr "文件：%s"
+
+msgid "Filter extraneous characters in DOS mode"
+msgstr "过滤 DOS 模式下的扩展字符"
+
+msgid "Fold style:"
+msgstr "折叠样式："
+
+msgid "Font:"
+msgstr "字体："
+
+msgid "Foreground color:"
+msgstr "前景色："
+
+msgid "Indent closing braces"
+msgstr "缩进右括号"
+
+msgid "Indent opening braces"
+msgstr "缩进左括号"
+
+msgid "Indentation size in spaces:"
+msgstr "缩进的空白长度："
+
+msgid "Italic"
+msgstr "斜体"
+
+msgid "Line _Wrapping"
+msgstr "自动换行(_W)"
+
+msgid "Line numbers margin width in pixels"
+msgstr "行号区的宽度(像素单位)"
+
+msgid "Lines"
+msgstr "行"
+
+msgid "Loading file..."
+msgstr "正在载入文件..."
+
+msgid "Mode:"
+msgstr "模式："
+
+msgid "Monochrome"
+msgstr "单色"
+
+msgid "No file to print!"
+msgstr "没有要打印的文件！"
+
+msgid "Pressing backspace un-indents"
+msgstr "按退格键取消缩进"
+
+msgid "Printing"
+msgstr "打印"
+
+msgid "Program '%s' does not exists"
+msgstr "程序“%s”不存在"
+
+msgid "Sample Plugin"
+msgstr "示例插件"
+
+msgid "Sample Plugin for Anjuta."
+msgstr "Anjuta 示例插件"
+
+msgid "Saving file..."
+msgstr "正在保存文件"
+
+msgid "Scratchbox"
+msgstr "Scracthbox"
+
+msgid "Select highlight style to edit:"
+msgstr "选择高亮样式："
+
+msgid "Selection background:"
+msgstr "选区背景："
+
+msgid "Selection foreground:"
+msgstr "选区前景："
+
+msgid "Show/Hide code fold margin"
+msgstr "显示/隐藏代码展叠区"
+
+msgid "Show/Hide indentation guides"
+msgstr "显示/隐藏缩进导线"
+
+msgid "Show/Hide line end characters"
+msgstr "显示/隐藏行尾字符"
+
+msgid "Show/Hide line numbers"
+msgstr "显示/隐藏行号区"
+
+msgid "Show/Hide marker margin"
+msgstr "显示/隐藏标号区"
+
+msgid "Show/Hide white spaces"
+msgstr "显示/隐藏空白字符"
+
+msgid "Tab size in spaces:"
+msgstr "Tab 字符长度："
+
+msgid ""
+"The file does not look like a text file or the file encoding is not "
+"supported. Please check if the encoding of file is in the supported "
+"encodings list. If not, add it from the preferences."
+msgstr ""
+"该文件看上去不是一个文本文件，或者不支持该文件编码格式。清检查该文件的编码格式是否在编码格式支持列表中。如果不在，请从首选项中加入对这种编码格式的支持。"
+
+msgid "This file is too big. Unable to allocate memory."
+msgstr "文件太大，无法分配内存。"
+
+msgid "Unable to get text buffer for printing"
+msgstr "无法获取打印的文本缓冲区"
+
+msgid "Underlined"
+msgstr "下划线"
+
+msgid "Use default"
+msgstr "使用默认值"
+
+msgid "Use tabs for indentation"
+msgstr "缩进时使用 Tab 字符"
+
+msgid "_Code Fold Margin"
+msgstr "代码展叠区(_C)"
+
+msgid "_Indentation Guides"
+msgstr "缩进导线(_I)"
+
+msgid "_Line End Characters"
+msgstr "行尾字符(_L)"
+
+msgid "_Line Number Margin"
+msgstr "行号区(_L)"
+
+msgid "_Marker Margin"
+msgstr "标号区(_M)"
+
+msgid "_White Space"
+msgstr "空白字符(_W)"

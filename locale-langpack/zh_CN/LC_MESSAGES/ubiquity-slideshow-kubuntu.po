@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-10-06 13:44+0000\n"
+"Last-Translator: Luo Yufan <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:20+0000\n"
+"X-Poedit-Language: zh_CN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Document Viewer"
+msgstr "文档查看器"
+
+msgid "Dolphin"
+msgstr "Dolphin"
+
+msgid "File Manager"
+msgstr "文件管理器"
+
+msgid "Find everything you need on your new install"
+msgstr "在新安装的系统中找到您所需的任何内容。"
+
+msgid "Getting help with Kubuntu"
+msgstr "获得 Kubuntu 的使用帮助"
+
+msgid "Getting involved with Kubuntu"
+msgstr "加入 Kubuntu"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid ""
+"Kubuntu Community: <a "
+"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</a>"
+msgstr ""
+"Kubuntu 社区：<a "
+"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</a>"
+
+msgid ""
+"Kubuntu Manual: <a "
+"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+msgstr ""
+"Kubuntu 手册：<a "
+"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+
+msgid ""
+"Kubuntu Support: <a "
+"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+msgstr ""
+"Kubuntu 支持：<a "
+"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+
+msgid ""
+"Kubuntu comes with most of the applications that you need on a daily basis."
+msgstr "Kubuntu 预装了大部分您每天所需的应用程序。"
+
+msgid "Kubuntu: for all users"
+msgstr "Kubuntu：为了所有用户"
+
+msgid "LibreOffice"
+msgstr "LibreOffice"
+
+msgid "Media Player"
+msgstr "媒体播放器"
+
+msgid "Office Suite"
+msgstr "办公套件"
+
+msgid "Okular"
+msgstr "Okular"
+
+msgid "Software Center"
+msgstr "软件中心"
+
+msgid "Text Editor"
+msgstr "文本编辑器"
+
+msgid "Thanks for picking Kubuntu!"
+msgstr "感谢您选择了 Kubuntu！"
+
+msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
+msgstr "安装即将完成。我们希望您能喜欢 Kubuntu！"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "We want Kubuntu to work for everyone."
+msgstr "我们希望 Kbuntu 为每一个人工作。"
+
+msgid "Web Browser"
+msgstr "网络浏览器"
+
+msgid "Welcome to Kubuntu"
+msgstr "欢迎使用 Kubuntu"

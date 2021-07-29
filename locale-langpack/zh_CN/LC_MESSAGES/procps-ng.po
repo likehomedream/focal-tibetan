@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: procps-ng 3.3.10-rc1\n"
+"Report-Msgid-Bugs-To: procps@freelists.org\n"
+"PO-Revision-Date: 2018-06-06 01:08+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:39+0000\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid ""
+"\n"
+"For more details see %s.\n"
+msgstr ""
+"\n"
+"欲了解更多详细信息，请参见 %s。\n"
+
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+"\n"
+"选项：\n"
+
+msgid ""
+"\n"
+"Usage:\n"
+msgstr ""
+"\n"
+"用法：\n"
+
+msgid ""
+"              total        used        free      shared     buffers       "
+"cache   available"
+msgstr ""
+"              总计         已用        空闲      共享       缓冲          缓存    可用"
+
+msgid ""
+"              total        used        free      shared  buff/cache   "
+"available"
+msgstr "              总计         已用        空闲      共享    缓冲/缓存    可用"
+
+msgid "     --help     display this help and exit\n"
+msgstr "     --help     显示此帮助信息并退出\n"
+
+msgid "     --tera          show output in terabytes\n"
+msgstr "     --tera          以太字节显示输出\n"
+
+msgid "   IDLE WHAT\n"
+msgstr "   空闲等待\n"
+
+msgid ""
+"  k,r       Manipulate tasks: '~1k~2' kill; '~1r~2' renice\n"
+"  d or s    Set update interval\n"
+msgstr ""
+"  k,r       操作进程：'~1k~2' 杀死；'~1r~2' 设置优先级\n"
+"  d or s    设定更新间隔\n"
+
+msgid " %s [options]\n"
+msgstr " %s [选项]\n"
+
+msgid " -V, --version  output version information and exit\n"
+msgstr " -V, --version  显示程序版本然后离开\n"
+
+msgid " -b, --bytes         show output in bytes\n"
+msgstr " -b, --bytes         以字节显示输出\n"
+
+msgid " -h, --help     display this help and exit\n"
+msgstr " -h, --help     显示此帮助然后离开\n"
+
+msgid " -w, --wide          wide output\n"
+msgstr " -w, --wide          宽版输出\n"
+
+msgid "%-*s TTY      "
+msgstr "%-*s TTY      "
+
+msgid "Address"
+msgstr "住址"
+
+msgid "COMMAND"
+msgstr "COMMAND"
+
+msgid "EiB"
+msgstr "EiB"
+
+msgid "FROM"
+msgstr "来自"
+
+msgid "Flags"
+msgstr "标志"
+
+msgid "GROUP"
+msgstr "GROUP"
+
+msgid "GiB"
+msgstr "GiB"
+
+msgid "High:"
+msgstr "高："
+
+msgid "Invalid signal"
+msgstr "无效的信号"
+
+msgid "KiB"
+msgstr "KiB"
+
+msgid "Low:"
+msgstr "低："
+
+msgid "Mem:"
+msgstr "内存："
+
+msgid "MiB"
+msgstr "MiB"
+
+msgid "Only 1 cpu detected"
+msgstr "仅探测到 1 个 CPU"
+
+msgid "PID"
+msgstr "进程号"
+
+msgid "PR"
+msgstr "PR"
+
+msgid "PiB"
+msgstr "PiB"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "S"
+msgstr "日"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Swap:"
+msgstr "交换："
+
+msgid "TIME"
+msgstr "时间"
+
+msgid "Tasks"
+msgstr "任务"
+
+msgid "TiB"
+msgstr "TiB"
+
+msgid "Total"
+msgstr "总共"
+
+msgid "Total:"
+msgstr "总量："
+
+msgid "USER"
+msgstr "USER"
+
+msgid "active"
+msgstr "活动"
+
+msgid "buff"
+msgstr "缓冲"
+
+msgid "cache"
+msgstr "缓存"
+
+msgid "cannot stat %s"
+msgstr "无法获取%s 的文件状态(stat)"
+
+msgid "case sensitive"
+msgstr "大小写敏感"
+
+msgid "command exit with a non-zero status, press a key to exit"
+msgstr "命令以非零状态退出，按任意键退出"
+
+msgid "fdopen"
+msgstr "fdopen"
+
+msgid "free"
+msgstr "空闲"
+
+msgid "help"
+msgstr "help"
+
+msgid "inact"
+msgstr "不活动"
+
+msgid "s"
+msgstr "s"
+
+msgid "sectors"
+msgstr "扇区"
+
+msgid "swpd"
+msgstr "交换"
+
+msgid "too many arguments"
+msgstr "实参太多"
+
+msgid "total"
+msgstr "总用量"
+
+msgid "unable to fork process"
+msgstr "无法创建 (fork) 进程"
+
+msgid "unicode handling error (malloc)\n"
+msgstr "unicode 处理错误 (malloc)\n"
+
+msgid "unsupported SysV option"
+msgstr "不支持的 SysV 选项"
+
+msgid "write error"
+msgstr "写入错误"
+
+msgid ""
+"your kernel does not support slabinfo or your permissions are insufficient"
+msgstr "您的内核不支持 slabinfo 或您的权限不够"

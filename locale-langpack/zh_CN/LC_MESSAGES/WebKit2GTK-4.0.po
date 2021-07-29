@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webkit HEAD\n"
+"Report-Msgid-Bugs-To: http://bugs.webkit.org/\n"
+"PO-Revision-Date: 2018-05-25 08:34+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:06+0000\n"
+
+msgid "Check Spelling While _Typing"
+msgstr "输入时检查拼写(_T)"
+
+msgid "Check _Grammar With Spelling"
+msgstr "检查拼写时检查语法(_G)"
+
+msgid "Choose File"
+msgstr "选择文件"
+
+msgid "Cop_y Image"
+msgstr "复制图像(_Y)"
+
+msgid "Copy Link Loc_ation"
+msgstr "复制链接地址(_A)"
+
+msgid "Determines the current progress of the download"
+msgstr "显示当前下载进度"
+
+msgid "Editable"
+msgstr "可编辑"
+
+msgid "Enable Caret Browsing"
+msgstr "启用光标导航"
+
+msgid "Enable Site Specific Quirks"
+msgstr "启用特定站点设置"
+
+msgid "Enable embedded plugin objects."
+msgstr "启用嵌入式插件对象。"
+
+msgid "Enable offline web application cache"
+msgstr "启用离线 Web 应用程序缓存"
+
+msgid "Enable page cache"
+msgstr "启用页面缓存"
+
+msgid "Enables the site-specific compatibility workarounds"
+msgstr "启用针对特定站点的兼容性临时解决办法"
+
+msgid "Ignore _Grammar"
+msgstr "忽略语法(_G)"
+
+msgid "Input _Methods"
+msgstr "输入方式(_M)"
+
+msgid "Inspect _Element"
+msgstr "检查元素(_E)"
+
+msgid "Inspected URI"
+msgstr "已检查的 URI"
+
+msgid "JavaScript can open windows automatically"
+msgstr "JavaScript 可以自动打开窗口"
+
+msgid "LRE Left-to-right _embedding"
+msgstr "LRE 左至右嵌入(_E)"
+
+msgid "LRM _Left-to-right mark"
+msgstr "LRM 左至右标记"
+
+msgid "LRO Left-to-right _override"
+msgstr "LRO 左至右覆盖(_O)"
+
+msgid "Live Broadcast"
+msgstr "直播"
+
+msgid "Load images automatically."
+msgstr "自动载入图像。"
+
+msgid "No Guesses Found"
+msgstr "没有找到拼写建议"
+
+msgid "No recent searches"
+msgstr "无最近搜索"
+
+msgid "Open Link in New _Window"
+msgstr "在新窗口打开链接(_W)"
+
+msgid "Open _Frame in New Window"
+msgstr "在新窗口打开框架(_F)"
+
+msgid "Open _Image in New Window"
+msgstr "在新窗口打开图像(_I)"
+
+msgid "PDF _Pop directional formatting"
+msgstr "PDF 顶部方向格式(_P)"
+
+msgid "Print Backgrounds"
+msgstr "打印背景"
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr "RLE 右至左嵌入(_M)"
+
+msgid "RLM _Right-to-left mark"
+msgstr "RLM 右至左标记"
+
+msgid "RLO Right-to-left o_verride"
+msgstr "RLO 右至左覆盖(_V)"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Sa_ve Image As"
+msgstr "保存图像(_V)"
+
+msgid "Spelling and _Grammar"
+msgstr "拼写和语法(_G)"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Suggested Filename"
+msgstr "建议文件名"
+
+msgid "The URI that is currently being inspected"
+msgstr "当前已经被检查的 URI"
+
+msgid "The default font size used to display monospace text."
+msgstr "用以显示等宽文本的默认字号。"
+
+msgid "The default font size used to display text."
+msgstr "用以显示文本的默认字号。"
+
+msgid "The minimum font size used to display text."
+msgstr "用以显示文本的最小字号。"
+
+msgid "This is a searchable index. Enter search keywords: "
+msgstr "这是一个可搜索的索引。请输入搜索关键字： "
+
+msgid "Title"
+msgstr "标题"
+
+msgid "URI"
+msgstr "URI"
+
+msgid "User cancelled the download"
+msgstr "用户取消了下载"
+
+msgid "Web Inspector"
+msgstr "Web Inspector"
+
+msgid "Web View"
+msgstr "Web View"
+
+msgid "Whether the page cache should be used"
+msgstr "是否使用页面缓存"
+
+msgid "Whether to enable accessibility enhanced keyboard navigation"
+msgstr "是否启用辅助功能增强型键盘导航"
+
+msgid "ZWJ Zero width _joiner"
+msgstr "ZWJ 零宽度连接符(_J)"
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr "ZWNJ 零宽度非连接符(_N)"
+
+msgid "ZWS _Zero width space"
+msgstr "ZWS 零宽度空格(_Z)"
+
+msgid "Zoom level"
+msgstr "缩放级别"
+
+msgid "_Check Document Now"
+msgstr "立即检查文档(_C)"
+
+msgid "_Download Linked File"
+msgstr "下载目标文件(_D)"
+
+msgid "_Font"
+msgstr "字体(_F)"
+
+msgid "_Hide Spelling and Grammar"
+msgstr "隐藏拼写和语法(_H)"
+
+msgid "_Ignore Spelling"
+msgstr "忽略拼写(_I)"
+
+msgid "_Insert Unicode Control Character"
+msgstr "插入 Unicode 控制字符(_I)"
+
+msgid "_Learn Spelling"
+msgstr "记录特例(_L)"
+
+msgid "_Open Link"
+msgstr "打开链接(_O)"
+
+msgid "_Outline"
+msgstr "概要(_O)"
+
+msgid "_Reload"
+msgstr "重载(_R)"
+
+msgid "_Remember password"
+msgstr "记住密码(_R)"
+
+msgid "_Search the Web"
+msgstr "搜索互联网(_S)"
+
+msgid "_Show Spelling and Grammar"
+msgstr "显示拼写和语法(_S)"
+
+msgid "activate"
+msgstr "激活"
+
+msgid "audio element playback controls and status display"
+msgstr "音频元素回放控制和状态显示"
+
+msgid "back 30 seconds"
+msgstr "后退 30 秒"
+
+msgid "begin playback"
+msgstr "开始回放"
+
+msgid "check"
+msgstr "勾选"
+
+msgid "current movie status"
+msgstr "当前影片状态"
+
+msgid "current movie time in seconds"
+msgstr "以秒显示当前影片时间"
+
+msgid "definition"
+msgstr "定义"
+
+msgid "elapsed time"
+msgstr "播放时间"
+
+msgid "fast forward"
+msgstr "快进"
+
+msgid "fast reverse"
+msgstr "快退"
+
+msgid "hide closed captions"
+msgstr "隐藏常闭式字幕"
+
+msgid "indefinite time"
+msgstr "模糊时间"
+
+msgid "jump"
+msgstr "跳转"
+
+msgid "movie time"
+msgstr "影片时长"
+
+msgid "movie time scrubber"
+msgstr "影片时间刷"
+
+msgid "movie time scrubber thumb"
+msgstr "影片时间刷缩略图"
+
+msgid "mute"
+msgstr "静音"
+
+msgid "mute audio tracks"
+msgstr "静音音轨"
+
+msgid "number of seconds of movie remaining"
+msgstr "影片剩余秒数"
+
+msgid "pause"
+msgstr "暂停"
+
+msgid "pause playback"
+msgstr "暂停回放"
+
+msgid "play"
+msgstr "播放"
+
+msgid "press"
+msgstr "按"
+
+msgid "range overflow"
+msgstr "范围上溢"
+
+msgid "range underflow"
+msgstr "范围下溢"
+
+msgid "remaining time"
+msgstr "剩余时间"
+
+msgid "return to realtime"
+msgstr "返回实时状态"
+
+msgid "seek movie back 30 seconds"
+msgstr "向前 30 秒查找影片"
+
+msgid "seek quickly back"
+msgstr "快退查找"
+
+msgid "seek quickly forward"
+msgstr "快进查找"
+
+msgid "select"
+msgstr "选择"
+
+msgid "show closed captions"
+msgstr "显示常闭式字幕"
+
+msgid "start displaying closed captions"
+msgstr "开始显示常闭式字幕"
+
+msgid "status"
+msgstr "状态"
+
+msgid "stop displaying closed captions"
+msgstr "停止显示常闭式字幕"
+
+msgid "term"
+msgstr "术语"
+
+msgid "timeline slider thumb"
+msgstr "时间轴滑动预览"
+
+msgid "uncheck"
+msgstr "反选"
+
+msgid "unmute"
+msgstr "解除静音"
+
+msgid "unmute audio tracks"
+msgstr "解除音轨静音"
+
+msgid "video element playback controls and status display"
+msgstr "视频元素回访控制和状态显示"

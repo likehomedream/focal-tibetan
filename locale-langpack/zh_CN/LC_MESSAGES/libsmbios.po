@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libsmbios 2.2.0\n"
+"Report-Msgid-Bugs-To: libsmbios-devel@lists.us.dell.com\n"
+"PO-Revision-Date: 2018-02-23 09:42+0000\n"
+"Last-Translator: Michael Brown <Michael_E_Brown@dell.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:27+0000\n"
+
+msgid "ASCII"
+msgstr "ASCII"
+
+msgid "Admin password"
+msgstr "管理垣密码"
+
+msgid "BIOS Version"
+msgstr "BIOS版本"
+
+msgid "Current tag value:"
+msgstr "当前标签值："
+
+msgid "ERROR: Could not parse system SMBIOS table."
+msgstr "错误：不能解析系统SMBIOS表"
+
+msgid "Keyboard Scancodes"
+msgstr "键盘扫描码"
+
+msgid "Libsmbios version"
+msgstr "Libsmbios版本"
+
+msgid "Owner password"
+msgstr "所有者密码"
+
+msgid "Product Name"
+msgstr "产品名称"
+
+msgid "Service Tag"
+msgstr "服务标签"
+
+msgid "Setting new tag value: %s"
+msgstr "设置新的标签值：%s"
+
+msgid "Show or set asset tag"
+msgstr "显示或设置资产标签"
+
+msgid "Show or set service tag"
+msgstr "显示或设置服务标签"
+
+msgid "Show password information"
+msgstr "显示密码信息"
+
+msgid "System ID"
+msgstr "系统ID"
+
+msgid "The error message was: %s"
+msgstr "错误信息是：%s"
+
+msgid "The smbios library returned this error:"
+msgstr "smbios库返回此项错误："
+
+msgid "User password"
+msgstr "用户密码"
+
+msgid "Vendor"
+msgstr "厂商"
+
+msgid "unknown"
+msgstr "未知"

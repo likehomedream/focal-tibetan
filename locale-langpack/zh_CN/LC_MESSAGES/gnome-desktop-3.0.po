@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-desktop master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-desktop/issues\n"
+"PO-Revision-Date: 2019-08-26 12:49+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:38+0000\n"
+
+msgid "%R"
+msgstr "%R"
+
+msgid "%R:%S"
+msgstr "%R:%S"
+
+msgid "%a %R"
+msgstr "%A %R"
+
+msgid "%a %R:%S"
+msgstr "%A %R:%S"
+
+msgid "%a %b %-e_%R"
+msgstr "%-m月%-e日 %A，%R"
+
+msgid "%a %b %-e_%R:%S"
+msgstr "%-m月%-e日 %A，%R:%S"
+
+msgid "%a %b %-e_%l:%M %p"
+msgstr "%-m月%-e日 %A，%p %-l:%M"
+
+msgid "%a %b %-e_%l:%M:%S %p"
+msgstr "%-m月%-e日 %A，%p %-l:%M:%S"
+
+msgid "%a %l:%M %p"
+msgstr "%A %p %-l:%M"
+
+msgid "%a %l:%M:%S %p"
+msgstr "%A %p %-l:%M:%S"
+
+msgid "%b %-e_%R"
+msgstr "%-m月%-e日 %A，%R"
+
+msgid "%b %-e_%R:%S"
+msgstr "%-m月%-e日 %A，%R:%S"
+
+msgid "%b %-e_%l:%M %p"
+msgstr "%-m月%-e日 %A，%p %-l:%M"
+
+msgid "%b %-e_%l:%M:%S %p"
+msgstr "%-m月%-e日 %A，%p %-l:%M:%S"
+
+msgid "%l:%M %p"
+msgstr "%p %-l:%M"
+
+msgid "%l:%M:%S %p"
+msgstr "%p %-l:%M:%S"
+
+msgid "CRTC %d cannot drive output %s"
+msgstr "CRTC %d 不能驱动输出 %s"
+
+msgid "CRTC %d does not support rotation=%d"
+msgstr "CRTC %d 不支持旋转=%d"
+
+msgid "CRTC %d: trying mode %dx%d@%dHz with output at %dx%d@%dHz (pass %d)\n"
+msgstr "CRTC %d: 正在尝试 %dx%d@%dHz 模式，使用 %dx%d@%dHz 输出(第 %d 回)\n"
+
+msgid "Trying modes for CRTC %d\n"
+msgstr "正在尝试 CRTC %d 的各种模式\n"
+
+msgid "Unspecified"
+msgstr "未指定"
+
+msgid "cannot clone to output %s"
+msgstr "不能克隆到输出 %s"
+
+msgid ""
+"could not assign CRTCs to outputs:\n"
+"%s"
+msgstr ""
+"无法指定 CRTC 到输出：\n"
+"%s"
+
+msgid ""
+"none of the selected modes were compatible with the possible modes:\n"
+"%s"
+msgstr ""
+"所选模式均不匹配可能的模式：\n"
+"%s"
+
+msgid ""
+"output %s does not have the same parameters as another cloned output:\n"
+"existing mode = %d, new mode = %d\n"
+"existing coordinates = (%d, %d), new coordinates = (%d, %d)\n"
+"existing rotation = %d, new rotation = %d"
+msgstr ""
+"输出 %s 和另一个克隆输出的参数不相同:\n"
+"当前模式= %d，新模式= %d\n"
+"当前坐标= (%d, %d)，新坐标= (%d, %d)当前旋转= %d，新旋转= %d"
+
+msgid "output %s does not support mode %dx%d@%dHz"
+msgstr "输出 %s 不支持 %dx%d@%dHz 模式"
+
+msgid ""
+"required virtual size does not fit available size: requested=(%d, %d), "
+"minimum=(%d, %d), maximum=(%d, %d)"
+msgstr "要求的虚拟尺寸不符合可用尺寸： 要求=(%d, %d)， 最小=(%d, %d)，最大=(%d, %d)"

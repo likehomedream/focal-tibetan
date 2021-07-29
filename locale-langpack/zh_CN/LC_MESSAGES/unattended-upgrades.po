@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: unattended-upgrades\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2009-09-23 14:19+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:27+0000\n"
+
+msgid "All upgrades installed"
+msgstr "安装了所有的更新"
+
+msgid "Allowed origins are: %s"
+msgstr "允许的源：%s"
+
+msgid "Cache has broken packages, exiting"
+msgstr "缓存存在不完整的软件包，退出"
+
+msgid "Cache lock can not be acquired, exiting"
+msgstr "无法获取缓存锁，退出"
+
+msgid "Installing the upgrades failed!"
+msgstr "安装更新失败！"
+
+msgid "Lock could not be acquired (another package manager running?)"
+msgstr "无法获取锁(另一个软件包管理器在运行？)"
+
+msgid "Package installation log:"
+msgstr "软件包安装日志："
+
+msgid "Packages with upgradable origin but kept back:\n"
+msgstr "可更新但保留了原始版本的软件包:\n"
+
+msgid "Simulation, download but do not install"
+msgstr "模拟，下载但不安装"
+
+msgid "Starting unattended upgrades script"
+msgstr "启动无人照管的更新脚本"
+
+msgid "Unattended-upgrades log:\n"
+msgstr "无人照管更新日志：\n"
+
+msgid "You need to be root to run this application"
+msgstr "您需要 roo t的权限来运行这个程序"
+
+msgid "error message: '%s'"
+msgstr "错误信息：‘%s’"
+
+msgid "print debug messages"
+msgstr "打印调试信息"

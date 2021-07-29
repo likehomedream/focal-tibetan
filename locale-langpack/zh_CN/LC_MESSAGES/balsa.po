@@ -1,0 +1,2848 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: balsa master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=balsa&component=general\n"
+"PO-Revision-Date: 2020-04-05 11:48+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:59+0000\n"
+
+msgid ""
+"\n"
+"<b>This certificate was issued by:</b>\n"
+msgstr ""
+"\n"
+"<b>证书颁发者：</b>\n"
+
+msgid ""
+"\n"
+"Key fingerprint: %s"
+msgstr ""
+"\n"
+"密钥指纹：%s"
+
+msgid ""
+"\n"
+"Signed on: %s"
+msgstr ""
+"\n"
+"签发于：%s"
+
+msgid ""
+"\n"
+"detailed permissions are available only for open folders"
+msgstr ""
+"\n"
+"只能显示已打开文件夹的详细权限"
+
+msgid ""
+" Whoever provides your email account should be able to give you the "
+"following information (if you have a Network Administrator, they may already"
+" have set this up for you):"
+msgstr " 您的电子邮箱提供方应该能够向您提供以下信息(如果您有网络管理员，也许他们已经为您设置好了)："
+
+msgid " address book: "
+msgstr " 地址簿： "
+
+msgid "%s (default)"
+msgstr "%s(默认)"
+
+msgid "%s message part"
+msgstr "%s 邮件区段"
+
+msgid "%s of %s (%.1f%%) used"
+msgstr "%s / %s (%.1f%%) 已使用"
+
+msgid "%s wrote:\n"
+msgstr "%s 写道：\n"
+
+msgid "%s: %s is not in mbox format."
+msgstr "%s：%s 不是 mbox 格式。"
+
+msgid "%s: Opening %s Refcount: %d\n"
+msgstr "%s： 打开 %s 引用计数：%d\n"
+
+msgid "%s: could not open %s."
+msgstr "%s：无法打开 %s。"
+
+msgid "(No name)"
+msgstr "(无名称)"
+
+msgid "(No sender)"
+msgstr "(没有发信人)"
+
+msgid "(No subject)"
+msgstr "(无主题)"
+
+msgid "(URL)"
+msgstr "(URL)"
+
+msgid "(no subject)"
+msgstr "(无主题)"
+
+msgid "*** ERROR: Mailbox Stream Closed: %s ***\n"
+msgstr "*** 错误：邮箱流被关闭：%s ***\n"
+
+msgid ", %d hidden"
+msgid_plural ", %d hidden"
+msgstr[0] "，%d 封隐藏"
+
+msgid ", %d new"
+msgid_plural ", %d new"
+msgstr[0] "，%d 封新"
+
+msgid "------forwarded message from %s------\n"
+msgstr "------转发的邮件，来自 %s------\n"
+
+msgid ""
+"<b>This certificate is valid</b>\n"
+"from %s\n"
+"to %s\n"
+"<b>Fingerprint:</b> %s"
+msgstr ""
+"<b>该证书是有效的</b>\n"
+"来自 %s\n"
+"发给 %s\n"
+"<b>指纹：</b> %s"
+
+msgid "AND"
+msgstr "和"
+
+msgid "A_dd"
+msgstr "添加(_D)"
+
+msgid "A_ddress Book Name:"
+msgstr "地址簿名称(_D)："
+
+msgid "A_pply Now!"
+msgstr "现在应用(_P)！"
+
+msgid "About Balsa"
+msgstr "关于 Balsa"
+
+msgid "Accept"
+msgstr "接受"
+
+msgid "Accept tentatively"
+msgstr "临时接受"
+
+msgid "Access type: %s\n"
+msgstr "访问类型：%s\n"
+
+msgid "Access type: URL\n"
+msgstr "访问类型：URL\n"
+
+msgid "Access type: local-file\n"
+msgstr "访问类型：本地文件\n"
+
+msgid "Access type: mail-server\n"
+msgstr "访问类型：邮件服务器\n"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Action to perform:"
+msgstr "要执行的动作："
+
+msgid "Add %s Address Book"
+msgstr "添加 %s 地址簿"
+
+msgid "Add the current word to your personal dictionary"
+msgstr "把当前词添加到您的个人词典中"
+
+msgid "Address Book"
+msgstr "地址簿"
+
+msgid "Address book could not be accessed."
+msgstr "无法访问地址簿。"
+
+msgid "Address book name"
+msgstr "地址簿名称"
+
+msgid "Address books"
+msgstr "地址簿"
+
+msgid "Address could not be written to this address book."
+msgstr "地址无法写入此地址簿。"
+
+msgid "After moving a message:"
+msgstr "在移动邮件后："
+
+msgid ""
+"All\n"
+"headers"
+msgstr ""
+"所有\n"
+"信头"
+
+msgid "All Done!"
+msgstr "全部完成！"
+
+msgid "All _Headers"
+msgstr "全部信头(_H)"
+
+msgid "Always"
+msgstr "总是"
+
+msgid ""
+"An IMAP folder that is not a mailbox\n"
+"has no properties that can be changed."
+msgstr ""
+"不是邮箱的 IMAP 文件夹没有可以\n"
+"更改的属性。"
+
+msgid "Appending message to %s failed: %s"
+msgstr "将邮件附加到 %s 失败：%s"
+
+msgid "Applying filter rules to %s"
+msgstr "正在向 %s 应用过滤规则"
+
+msgid "Ask me"
+msgstr "询问"
+
+msgid "Ask me before selecting a different mailbox to show an unread message"
+msgstr "在选择另一个邮箱来显示未读邮件时询问我"
+
+msgid "Attach"
+msgstr "附加"
+
+msgid "Attach as MIME type:"
+msgstr "添加为 MIME 类型的附件："
+
+msgid "Attach file"
+msgstr "粘附文件"
+
+msgid ""
+"Attaching message failed.\n"
+"Possible reason: not enough temporary space"
+msgstr ""
+"附加邮件失败。\n"
+"可能的原因：没有足够的临时空间"
+
+msgid "Attachment"
+msgstr "附件"
+
+msgid "Attempt to apply an invalid filter"
+msgstr "试图应用一个无效的过滤规则"
+
+msgid ""
+"Authenticity of this certificate could not be verified.\n"
+"<b>Reason:</b> %s\n"
+"<b>This certificate belongs to:</b>\n"
+msgstr ""
+"该证书的有效性无法验证。\n"
+"<b>原因</b> %s\n"
+"<b>此证书属于：</b>\n"
+
+msgid "Auto-complete"
+msgstr "自动完成"
+
+msgid "Automatically quote original when replying"
+msgstr "回复时自动引用原文"
+
+msgid "Automatically view message when mailbox opened"
+msgstr "当打开邮箱时自动查看邮件"
+
+msgid "Available buttons"
+msgstr "可用的按钮"
+
+msgid "B_ody Font:"
+msgstr "主体字体(_O)："
+
+msgid "Background"
+msgstr "背景"
+
+msgid "Bad X-Face data"
+msgstr "X-Face 数据有误"
+
+msgid "Bad mailbox name for filter: %s"
+msgstr "过滤规则的邮箱名错误：%s"
+
+msgid "Balsa"
+msgstr "Balsa"
+
+msgid "Balsa Preferences"
+msgstr "Balsa 首选项"
+
+msgid ""
+"Balsa is sending a mail now.\n"
+"Abort sending?"
+msgstr ""
+"Balsa 正在发送邮件。\n"
+"中止发送？"
+
+msgid "Balsa passwords"
+msgstr "Balsa 密码"
+
+msgid "Balsa: %s"
+msgstr "Balsa：%s"
+
+msgid "Base Domain _Name"
+msgstr "基域名(_N)"
+
+msgid "Body Contains:"
+msgstr "邮件主体包含："
+
+msgid "C_heck Spelling"
+msgstr "检查拼写(_H)"
+
+msgid "C_lear"
+msgstr "清除(_L)"
+
+msgid "C_reate"
+msgstr "创建(_R)"
+
+msgid "Cache file for mailbox %s will be created"
+msgstr "将创建邮箱 %s 的缓存文件"
+
+msgid "Cache file for mailbox %s will be repaired"
+msgstr "将修复邮箱 %s 的缓存文件"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot access message %u to pass to %s"
+msgstr "无法访问邮件 %u 以传递到 %s"
+
+msgid "Cannot add duplicate entry"
+msgstr "无法添加重复的条目"
+
+msgid "Cannot connect to %s"
+msgstr "无法连接到 %s"
+
+msgid "Cannot connect to the server"
+msgstr "无法连接到服务器"
+
+msgid "Cannot connect to the server: %s"
+msgstr "无法连接到服务器：%s"
+
+msgid "Cannot create file URI object for %s"
+msgstr "无法为 %s 创建文件 URI"
+
+msgid "Cannot create message"
+msgstr "无法创建邮件"
+
+msgid "Cannot create temporary file"
+msgstr "无法创建临时文件"
+
+msgid "Cannot find address in address book"
+msgstr "在地址簿中找不到地址"
+
+msgid "Cannot get IMAP handle"
+msgstr "无法获得 IMAP 句柄"
+
+msgid "Cannot launch, missing application"
+msgstr "无法启动，缺少应用程序"
+
+msgid "Cannot load mailbox %s"
+msgstr "无法载入邮箱 %s"
+
+msgid "Cannot lock mailbox."
+msgstr "无法锁定邮箱。"
+
+msgid "Cannot open %s: %s"
+msgstr "无法打开 %s：%s"
+
+msgid "Cannot open %s: is a symbolic link"
+msgstr "无法打开 %s：是一个符号链接"
+
+msgid "Cannot open mailbox."
+msgstr "无法打开邮箱。"
+
+msgid "Cannot process the message: %s"
+msgstr "无法处理邮件：%s"
+
+msgid "Cannot read %s"
+msgstr "无法读取 %s"
+
+msgid "Cannot read %s: %s"
+msgstr "无法读取 %s：%s"
+
+msgid "Cannot read from address book"
+msgstr "无法读取地址簿"
+
+msgid "Cannot read message %u to pass to %s"
+msgstr "无法读取邮件 %u 以传递到 %s"
+
+msgid "Cannot search in the address book"
+msgstr "无法搜索地址簿"
+
+msgid "Cannot write to address book"
+msgstr "无法写入地址簿"
+
+msgid "Cannot write to temporary file %s"
+msgstr "无法写入临时文件 %s"
+
+msgid "Change _All"
+msgstr "全部修改(_A)"
+
+msgid "Check"
+msgstr "检查"
+
+msgid "Check _IMAP mailboxes"
+msgstr "检查 _IMAP 邮箱"
+
+msgid "Check cryptographic signature"
+msgstr "检查加密签名"
+
+msgid "Check quoted"
+msgstr "检查引用"
+
+msgid "Check signature"
+msgstr "检查签名"
+
+msgid "Checking"
+msgstr "检查"
+
+msgid "Choose destination folder"
+msgstr "选择目标文件夹"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close mailbox if unused more than"
+msgstr "自动关闭邮箱，如果未使用时间超过"
+
+msgid "Close message window"
+msgstr "关闭邮件窗口"
+
+msgid "Colorize"
+msgstr "使用彩色"
+
+msgid "Colors"
+msgstr "颜色"
+
+msgid "Compose"
+msgstr "写信"
+
+msgid "Compose a new email to EMAIL@ADDRESS"
+msgstr "撰写给 EMAIL@ADDRESS 的新邮件"
+
+msgid "Compose window"
+msgstr "撰写窗口"
+
+msgid "Configure Balsa"
+msgstr "配置 Balsa"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Contain/Does _Not Contain"
+msgstr "包含/不包含(_N)"
+
+msgid "Content"
+msgstr "正文"
+
+msgid "Content Type: %s"
+msgstr "内容类型：%s"
+
+msgid "Content Type: external-body\n"
+msgstr "内容类型：外部邮件\n"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Copy link"
+msgstr "复制链接"
+
+msgid "Copy outgoing messages to sentbox"
+msgstr "正在将邮件复制到发件箱"
+
+msgid "Copy to folder:"
+msgstr "复制到文件夹："
+
+msgid "Copying from %s to %s"
+msgstr "正在从 %s 向 %s 复制邮件"
+
+msgid "Could not attach the file %s: %s."
+msgstr "无法附加 %s 文件：%s。"
+
+msgid "Could not create MH directory at %s (%s)"
+msgstr "无法在 %s 创建 MH 目录 (%s)"
+
+msgid "Could not create MH structure at %s (%s)"
+msgstr "无法在 %s 创建 MH 结构 (%s)"
+
+msgid "Could not create URI for %s"
+msgstr "无法为 %s 创建 URI"
+
+msgid "Could not create a mailbox of type %s"
+msgstr "无法创建类型为 %s 的邮箱"
+
+msgid "Could not get a part: %s"
+msgstr "无法获取区段：%s"
+
+msgid "Could not get an HTML part: %s"
+msgstr "无法获取 HTML 区段：%s"
+
+msgid "Could not launch %s: %s"
+msgstr "无法启动 %s：%s"
+
+msgid "Could not launch application: %s"
+msgstr "无法启动应用程序：%s"
+
+msgid "Could not load Face header file %s: %s"
+msgstr "无法载入 Face 信头文件 %s：%s"
+
+msgid "Could not load X-Face header file %s: %s"
+msgstr "无法载入 X-Face 信头文件 %s：%s"
+
+msgid "Could not postpone message."
+msgstr "无法延期发送邮件。"
+
+msgid "Could not postpone message: %s"
+msgstr "无法延期发送邮件：%s"
+
+msgid "Could not read embedded message"
+msgstr "无法读取嵌入邮件"
+
+msgid ""
+"Could not remove %s:\n"
+"%s"
+msgstr ""
+"无法删除 %s：\n"
+"%s"
+
+msgid ""
+"Could not remove contents of %s:\n"
+"%s"
+msgstr ""
+"无法删除 %s 的内容：\n"
+"%s"
+
+msgid "Could not save %s: %s"
+msgstr "无法保存 %s：%s"
+
+msgid "Could not save a text part: %s"
+msgstr "无法保存文本区段：%s"
+
+msgid "Could not save attachment: %s"
+msgstr "无法保存附件：%s"
+
+msgid "Could not save message."
+msgstr "无法保存邮件。"
+
+msgid "Could not unlink file %s: %s"
+msgstr "无法取消链接文件 %s ：%s"
+
+msgid "Could not write file %s: %s"
+msgstr "无法写文件 %s：%s"
+
+msgid "Cu_t"
+msgstr "剪切(_T)"
+
+msgid "Current"
+msgstr "当前"
+
+msgid "Current toolbar"
+msgstr "当前工具栏"
+
+msgid "Customize Toolbars"
+msgstr "定制工具栏"
+
+msgid "D_isplayed Name:"
+msgstr "显示名(_I)："
+
+msgid "Data copy error"
+msgstr "数据复制错误"
+
+msgid "Date"
+msgstr "时间"
+
+msgid "Date encoding (for strftime):"
+msgstr "日期编码(strftime 使用)："
+
+msgid "Date interval"
+msgstr "日期间隔"
+
+msgid "Date:"
+msgstr "时间："
+
+msgid "Debug"
+msgstr "调试"
+
+msgid "Debug messages:"
+msgstr "调试消息："
+
+msgid "Decline"
+msgstr "拒绝"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default Client"
+msgstr "默认客户端"
+
+msgid "Default Identity"
+msgstr "默认身份"
+
+msgid "Default layout"
+msgstr "默认布局"
+
+msgid "Default sort column:"
+msgstr "默认排序列："
+
+msgid "Deleted"
+msgstr "已删除"
+
+msgid "Deleting messages"
+msgstr "删除邮件"
+
+msgid "Description"
+msgstr "描述性"
+
+msgid "Detected a good signature"
+msgstr "检测到一个有效的签名"
+
+msgid "Directory: %s\n"
+msgstr "目录：%s\n"
+
+msgid "Disable _APOP"
+msgstr "禁用 _APOP"
+
+msgid "Display message"
+msgstr "显示邮件"
+
+msgid "Display of multipart/alternative parts"
+msgstr "显示多个区段/可选区段"
+
+msgid "Display options"
+msgstr "显示选项"
+
+msgid "Display progress dialog"
+msgstr "显示进度对话框"
+
+msgid "Disposition-Notification-To:"
+msgstr "发送阅读通告至："
+
+msgid "Do background check quietly (no messages in status bar)"
+msgstr "后台检查(状态栏不显示邮件)"
+
+msgid "Do you really want to delete the selected identity?"
+msgstr "您确认要删除选中的身份？"
+
+msgid "Do you want to select %s?"
+msgstr "您想选择 %s 吗？"
+
+msgid "Downloading %ld kB"
+msgstr "下载 %ld kB"
+
+msgid "Downloading %u kB"
+msgstr "下载 %u kB"
+
+msgid "Draftbox"
+msgstr "草稿箱"
+
+msgid "ERROR: "
+msgstr "错误： "
+
+msgid "E_xpand All"
+msgstr "全部展开(_X)"
+
+msgid "E_xpunge Deleted Messages"
+msgstr "清除已删除的邮件(_X)"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit condition for filter: "
+msgstr "编辑过滤条件： "
+
+msgid "Edit headers in external editor"
+msgstr "在外部编辑器中编辑信头"
+
+msgid "Email Address"
+msgstr "邮件地址"
+
+msgid "Empty _Trash"
+msgstr "清空废件箱(_T)"
+
+msgid "Enable _TLS"
+msgstr "启用 _TLS"
+
+msgid "Encrypt"
+msgstr "加密"
+
+msgid "Error appending message %d from %s to %s: %s"
+msgstr "将邮件 %d 从 %s 追加到 %s 出错：%s"
+
+msgid "Error displaying condition help: %s\n"
+msgstr "显示条件帮助出错：%s\n"
+
+msgid "Error displaying config help: %s\n"
+msgstr "显示配置帮助时出错：%s\n"
+
+msgid "Error displaying filter help: %s\n"
+msgstr "显示过滤规则帮助时出错：%s\n"
+
+msgid "Error displaying help for identities: %s\n"
+msgstr "显示身份帮助出错：%s\n"
+
+msgid "Error displaying help: %s\n"
+msgstr "显示帮助出错：%s\n"
+
+msgid "Error displaying run filters help: %s\n"
+msgstr "显示运行过滤规则帮助时出错：%s\n"
+
+msgid "Error displaying server help: %s\n"
+msgstr "显示服务器帮助出错：%s\n"
+
+msgid "Error displaying toolbar help: %s\n"
+msgstr "显示工具栏帮助出错：%s\n"
+
+msgid "Error during filters loading: "
+msgstr "载入过滤规则时出错： "
+
+msgid ""
+"Error during filters loading: %s\n"
+"Filters may not be correct."
+msgstr ""
+"在载入过滤规则时出错：%s\n"
+"过滤规则可能不正确。"
+
+msgid "Error fetching message from IMAP server: %s"
+msgstr "从 IMAP 服务器取回邮件出错：%s"
+
+msgid "Error in regular expression syntax"
+msgstr "正则表达式中有语法错误"
+
+msgid "Error loading Face: %s"
+msgstr "载入 Face 出错：%s"
+
+msgid "Error loading attached image: %s\n"
+msgstr "载入图像附件出错：%s\n"
+
+msgid "Error messages:"
+msgstr "错误消息："
+
+msgid "Error printing message: %s"
+msgstr "打印邮件时发生错误：%s"
+
+msgid "Error reading file %s: %s"
+msgstr "读取 %s 文件出错：%s"
+
+msgid "Error reading message part: %s"
+msgstr "读取邮件区段时发生错误：%s"
+
+msgid "Error showing %s: %s\n"
+msgstr "显示 %s 出错：%s\n"
+
+msgid "Error starting spell checker: %s"
+msgstr "在启动拼写检查器时出错：%s"
+
+msgid "Error when applying filters"
+msgstr "应用过滤规则时发生错误"
+
+msgid "Error when copying messages: %s"
+msgstr "复制邮件时发生错误：%s"
+
+msgid "Error when moving messages: %s"
+msgstr "移动邮件时发生错误：%s"
+
+msgid "Error when trashing messages: %s"
+msgstr "删除邮件时发生错误：%s"
+
+msgid "Error: An identity with that name already exists"
+msgstr "错误：具有同名的身份已存在"
+
+msgid "Error: The identity does not have a name"
+msgstr "错误：该身份没有名字"
+
+msgid "Event Cancellation"
+msgstr "事件取消"
+
+msgid "Event Notification"
+msgstr "事件通知"
+
+msgid "Event Request"
+msgstr "事件请求"
+
+msgid "Exceeded the number of connections per server %s"
+msgstr "超过每个服务器的连接数 %s"
+
+msgid "Exchange"
+msgstr "交换"
+
+msgid "Expunge deleted messages when mailbox is closed"
+msgstr "在关闭邮箱时清除删除的邮件"
+
+msgid "External query (a program)"
+msgstr "外部请求(一个程序)"
+
+msgid "FATAL: "
+msgstr "严重错误： "
+
+msgid "FTP site: %s\n"
+msgstr "FTP 站点：%s\n"
+
+msgid "F_ilter:"
+msgstr "过滤规则(_I)："
+
+msgid "F_orward string:"
+msgstr "转发字符串(_O)："
+
+msgid "F_rom"
+msgstr "来自(_R)"
+
+msgid "F_rom:"
+msgstr "发件人(_R)："
+
+msgid "Face header file %s contains binary data."
+msgstr "Face 信头文件 %s 包含二进制数据。"
+
+msgid "Face header file %s is too long (%lu bytes)."
+msgstr "Face 信头文件 %s 太长(%lu 字节)。"
+
+msgid "Failed to create output stream"
+msgstr "创建输出流失败"
+
+msgid "Failed to decrypt MIME part: parse error"
+msgstr "解密 MIME 区段失败：解析错误"
+
+msgid "Failed to find mailbox"
+msgstr "查找邮箱失败"
+
+msgid "Failed to read cache file %s: %s"
+msgstr "读取缓存文件 %s 失败：%s"
+
+msgid "Fatal error messages:"
+msgstr "致命错误消息："
+
+msgid "Fi_lter Command:"
+msgstr "过滤规则命令(_L)："
+
+msgid "File already exists. Overwrite?"
+msgstr "文件已经存在。要覆盖吗？"
+
+msgid "File name:"
+msgstr "文件名："
+
+msgid "File name: %s"
+msgstr "文件名：%s"
+
+msgid "Filter has matched"
+msgstr "过滤规则匹配"
+
+msgid "Filter must have conditions."
+msgstr "过滤规则必须有条件。"
+
+msgid "Filter with no condition was omitted"
+msgstr "没有条件的过滤规则被忽略"
+
+msgid "Filtering %s"
+msgstr "正在过滤 %s"
+
+msgid "Filtering using regular expressions is not yet implemented."
+msgstr "使用正则表达式进行过滤还没有实现。"
+
+msgid "Find Ne_xt"
+msgstr "查找下一个(_X)"
+
+msgid "Find in _Message"
+msgstr "在邮件中查找(_M)"
+
+msgid "Find:"
+msgstr "查找："
+
+msgid "Finding duplicate messages in source mailbox failed"
+msgstr "在源邮箱中查找重复邮件失败"
+
+msgid "Finish spell checking"
+msgstr "完成拼写检查"
+
+msgid "First Name"
+msgstr "名"
+
+msgid "Flag condition"
+msgstr "标记条件"
+
+msgid "Flagged"
+msgstr "标记的"
+
+msgid "Folder creation failed. Reason: %s"
+msgstr "创建文件夹失败。原因：%s"
+
+msgid "Folder deletion failed. Reason: %s"
+msgstr "删除文件夹失败。原因：%s"
+
+msgid "Folder rename failed. Reason: %s"
+msgstr "文件夹重命名失败。原因：%s"
+
+msgid "Folder scanning"
+msgstr "文件夹扫描"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Foreground"
+msgstr "前景"
+
+msgid "Format"
+msgstr "格式"
+
+msgid "Forward"
+msgstr "转发"
+
+msgid "Forward a mail as attachment instead of quoting it"
+msgstr "将邮件作为附件转发而不是引用它"
+
+msgid "Forward message to %s: %s"
+msgstr "转发邮件给 %s：%s"
+
+msgid "From"
+msgstr "发件人"
+
+msgid "From:"
+msgstr "发件人："
+
+msgid "Full Name"
+msgstr "全名"
+
+msgid "Fwd:"
+msgstr "转发："
+
+msgid "GPE Address Book"
+msgstr "GPE 地址簿"
+
+msgid "General"
+msgstr "常规"
+
+msgid "GnomeCard Address Book"
+msgstr "GnomeCard 地址簿"
+
+msgid "GnuPG MIME mode"
+msgstr "GnuPG MIME 模式"
+
+msgid "GnuPG OpenPGP mode"
+msgstr "GnuPG OpenPGP 模式"
+
+msgid "GnuPG is rebuilding the trust database and is currently unavailable."
+msgstr "GnuPG 正在重建信任数据库，现在不能用。"
+
+msgid "GpgSM S/MIME mode"
+msgstr "GpgSM S/MIME 模式"
+
+msgid "Hide messages marked as deleted"
+msgstr "隐藏标记为删除的邮件"
+
+msgid "Highlight _cited text"
+msgstr "高亮显示引用文本(_C)"
+
+msgid "Highlighting"
+msgstr "高亮"
+
+msgid "Host:"
+msgstr "主机："
+
+msgid "Hyperlink color"
+msgstr "超链接颜色"
+
+msgid ""
+"IMAP SEARCH command failed for mailbox %s\n"
+"falling back to default searching method"
+msgstr ""
+"对邮箱 %s 的 IMAP SEARCH 命令失败\n"
+"退回到默认的搜索方法"
+
+msgid "IMAP mailbox: %s"
+msgstr "IMAP 邮箱：%s"
+
+msgid ""
+"IMAP server %s alert:\n"
+"%s"
+msgstr ""
+"IMAP 服务器 %s 警告：\n"
+"%s"
+
+msgid "IMAP server %s error: %s"
+msgstr "SMTP 服务器 %s 错误：%s"
+
+msgid "Identity"
+msgstr "身份"
+
+msgid "If Possible"
+msgstr "如果可能"
+
+msgid "If you would like to provide one, enter it below."
+msgstr "如果您要提供一个，请在下面输入。"
+
+msgid "In:"
+msgstr "位于："
+
+msgid "Inbox"
+msgstr "收件箱"
+
+msgid "Incl_ude signature"
+msgstr "包含签名(_U)"
+
+msgid "Include HTML parts as text when replying or forwarding"
+msgstr "当回复或转发以文本格式包含 HTML 区段"
+
+msgid "Include file"
+msgstr "包含文件"
+
+msgid "Include signature when for_warding"
+msgstr "转发时包含签名(_W)"
+
+msgid "Include signature when rep_lying"
+msgstr "回复时包含签名(_L)"
+
+msgid "Incoming"
+msgstr "接收"
+
+msgid "Information messages"
+msgstr "通知消息"
+
+msgid "Information messages:"
+msgstr "通知消息："
+
+msgid "Insert Si_gnature"
+msgstr "插入签名(_N)"
+
+msgid "Inside/outside the date interval"
+msgstr "在该时间段内/外"
+
+msgid "Internal buffer overrun"
+msgstr "超出内部缓存"
+
+msgid "Invalid filter: %s"
+msgstr "无效的过滤规则：%s"
+
+msgid "Invalid filters %s for mailbox %s"
+msgstr "邮箱 %s 的过滤规则 %s 无效"
+
+msgid "Invalid input format"
+msgstr "无效的输入格式"
+
+msgid "JWZ"
+msgstr "JWZ"
+
+msgid "LDAP Address Book"
+msgstr "LDAP 地址簿"
+
+msgid "LDAP Directory for %s"
+msgstr "%s 的 LDAP 目录"
+
+msgid "LDIF Address Book"
+msgstr "LDIF 地址簿"
+
+msgid "Last Name"
+msgstr "姓"
+
+msgid "Link color"
+msgstr "链接颜色"
+
+msgid "Load program location:"
+msgstr "载入程序位置："
+
+msgid ""
+"Local Mail Problem\n"
+"%s"
+msgstr ""
+"本地邮件问题\n"
+"%s"
+
+msgid "Local folder %s\n"
+msgstr "本地文件夹 %s\n"
+
+msgid "Local mail directory"
+msgstr "本地邮件文件夹"
+
+msgid "Local mailbox %s loaded as: %s\n"
+msgstr "本地邮箱 %s 载入为：%s\n"
+
+msgid "Local mailbox: %s"
+msgstr "本地邮箱：%s"
+
+msgid "MAILBOXNAME"
+msgstr "MAILBOXNAME"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "M_ove"
+msgstr "移动(_O)"
+
+msgid "Mail Files"
+msgstr "邮件文件"
+
+msgid "Mail options"
+msgstr "邮件选项"
+
+msgid "Mail server: %s\n"
+msgstr "邮件服务器：%s\n"
+
+msgid "Mail_box"
+msgstr "邮箱(_B)"
+
+msgid "Mailbox"
+msgstr "邮件箱"
+
+msgid "Mailbox %s does not appear to be a Maildir mailbox."
+msgstr "邮箱“%s”不是有效的 Maildir 邮箱。"
+
+msgid "Mailbox closed"
+msgstr "邮箱已关闭"
+
+msgid "Mailbox does not exist."
+msgstr "邮箱不存在。"
+
+msgid "Mailbox is not in mbox format."
+msgstr "邮箱不是 mbox 格式。"
+
+msgid "Mailbox name"
+msgstr "邮箱名"
+
+msgid "Main window"
+msgstr "主窗口"
+
+msgid "Manage Identities"
+msgstr "管理身份"
+
+msgid "Margins"
+msgstr "页边距"
+
+msgid "Mark all"
+msgstr "标记全部"
+
+msgid "Mark as D_raftbox"
+msgstr "标记为草稿(_R)"
+
+msgid "Mark as _Inbox"
+msgstr "标记为收件箱(_I)"
+
+msgid "Mark as _Trash"
+msgstr "标记为已删除(_T)"
+
+msgid "Mark quoted text"
+msgstr "标记引用文本"
+
+msgid "Match"
+msgstr "匹配"
+
+msgid "Match Fields"
+msgstr "匹配字段"
+
+msgid "Match when date is in the interval:"
+msgstr "当日期在间隔中时匹配："
+
+msgid "Match when date is outside the interval:"
+msgstr "当日期不在间隔中时匹配："
+
+msgid "Match when message date is in the interval:"
+msgstr "匹配以下时间段中的邮件："
+
+msgid "Match when none of these flags is set:"
+msgstr "当任何一个标志都没有设置时匹配："
+
+msgid "Match when one flag is set/when no flag is set"
+msgstr "匹配设置了一个标记/未设定标记的邮件"
+
+msgid "Match when one of these flags is set:"
+msgstr "当设置了任意一个标志时匹配："
+
+msgid "Message"
+msgstr "邮件"
+
+msgid "Message Source"
+msgstr "邮件来源"
+
+msgid "Message colors"
+msgstr "邮件颜色"
+
+msgid "Message could not be created"
+msgstr "无法创建邮件"
+
+msgid "Message could not be encrypted"
+msgstr "无法加密邮件"
+
+msgid "Message could not be sent"
+msgstr "无法发送邮件"
+
+msgid "Message could not be signed"
+msgstr "无法签名邮件"
+
+msgid "Message font:"
+msgstr "邮件字体："
+
+msgid "Message from %s: %s"
+msgstr "邮件发自 %s：%s"
+
+msgid "Message parts"
+msgstr "邮件区段"
+
+msgid "Message postponed."
+msgstr "邮件已延期。"
+
+msgid "Message rename error"
+msgstr "重命名邮件出错"
+
+msgid "Message saved."
+msgstr "邮件已保存。"
+
+msgid "Message window"
+msgstr "邮件窗口"
+
+msgid "Message-ID: %s\n"
+msgstr "邮件标识：%s\n"
+
+msgid "Messages"
+msgstr "邮件"
+
+msgid "Miscellaneous"
+msgstr "杂项"
+
+msgid "Miscellaneous spelling settings"
+msgstr "其他拼写设置"
+
+msgid "Mode"
+msgstr "模式"
+
+msgid "Modify %s Address Book"
+msgstr "修改 %s 地址簿"
+
+msgid "Move To _Trash"
+msgstr "移到废件箱(_T)"
+
+msgid "Move to Trash failed: %s"
+msgstr "移动到废件箱失败：%s"
+
+msgid "Move to folder:"
+msgstr "移动到文件夹："
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name of mail server for incoming _mail:"
+msgstr "接收邮件的邮件服务器名称(_M)："
+
+msgid "Never"
+msgstr "从不"
+
+msgid "New Identity"
+msgstr "新建身份"
+
+msgid "New filter"
+msgstr "新建过滤规则"
+
+msgid "New mail notification"
+msgstr "新邮件通知"
+
+msgid "New message to %s: %s"
+msgstr "新建邮件给 %s：%s"
+
+msgid "Next"
+msgstr "下一个"
+
+msgid ""
+"Next\n"
+"flagged"
+msgstr ""
+"下一封\n"
+"带标记的"
+
+msgid ""
+"Next\n"
+"part"
+msgstr ""
+"下一\n"
+"区段"
+
+msgid ""
+"Next\n"
+"unread"
+msgstr ""
+"下一封\n"
+"未读"
+
+msgid "Next Flagged Message"
+msgstr "下一做标记邮件"
+
+msgid "Next Message"
+msgstr "下一邮件"
+
+msgid "Next Unread Message"
+msgstr "下一未读邮件"
+
+msgid "Nick Name"
+msgstr "昵称"
+
+msgid "No duplicates found"
+msgstr "未找到重复邮件"
+
+msgid "No error"
+msgstr "没有错误"
+
+msgid "No filter name specified."
+msgstr "没有指定过滤规则名。"
+
+msgid "No image data"
+msgstr "没有图像数据"
+
+msgid "No mailbox selected."
+msgstr "没有选择邮箱。"
+
+msgid "No open or view action defined for this content type"
+msgstr "没有定义针对该内容类型的打开或查看操作"
+
+msgid "No subject"
+msgstr "无主题"
+
+msgid "No such mailbox type: %s"
+msgstr "没有这种邮箱类型：%s"
+
+msgid "No, type it in every time"
+msgstr "不，每次都输入"
+
+msgid "No-Id"
+msgstr "无标识"
+
+msgid "No-Name"
+msgstr "没有名字"
+
+msgid "None of the regular expressions matches"
+msgstr "没有正则表达式匹配"
+
+msgid "None of the specified fields contains:"
+msgstr "所有指定的字段都不包含："
+
+msgid "Not found"
+msgstr "未找到"
+
+msgid "Notification:"
+msgstr "通知："
+
+msgid "OR"
+msgstr "或"
+
+msgid "O_rganization:"
+msgstr "组织(_R)："
+
+msgid "Old at most (days):"
+msgstr "最早(天数)："
+
+msgid "Older than (days):"
+msgstr "早于(天数)："
+
+msgid "On %s, %s wrote:\n"
+msgstr "在 %s，%s 写道：\n"
+
+msgid "On exit"
+msgstr "退出时"
+
+msgid "On reception"
+msgstr "接收时"
+
+msgid "One _Matches/None Matches"
+msgstr "一个匹配/没有匹配(_M)"
+
+msgid "One of the regular expressions matches"
+msgstr "一个正则表达式匹配"
+
+msgid "One of the specified f_ields contains"
+msgstr "指定的一个字段包含(_I)："
+
+msgid "One of the specified fields contains:"
+msgstr "指定的字段之一包含："
+
+msgid "Open _part with %s"
+msgstr "用 %s 打开区段(_P)"
+
+msgid "Open link"
+msgstr "打开链接"
+
+msgid "Open next matching message"
+msgstr "打开下一封匹配的邮件"
+
+msgid "Open of %s failed. Errno = %d, "
+msgstr "打开 %s 失败。Errno = %d， "
+
+msgid "Open with %s"
+msgstr "用 %s 打开"
+
+msgid "OpenPGP"
+msgstr "OpenPGP"
+
+msgid "Opening %s"
+msgstr "正在打开 %s"
+
+msgid "Opens MAILBOXNAME"
+msgstr "打开 MAILBOXNAME"
+
+msgid "Opens first unread mailbox"
+msgstr "打开第一个未读的邮箱"
+
+msgid "Organization"
+msgstr "组织"
+
+msgid "Other options"
+msgstr "其他选项"
+
+msgid "Outbox"
+msgstr "发件箱"
+
+msgid "Outgoing"
+msgstr "发送"
+
+msgid "Outgoing mail servers"
+msgstr "发送邮件服务器"
+
+msgid "PGP"
+msgstr "PGP"
+
+msgid "Page %d of %d"
+msgstr "页 %d / %d"
+
+msgid "Page _Setup"
+msgstr "页面设置(_S)"
+
+msgid "Parsing a message part failed: %s"
+msgstr "解析邮件区段失败： %s"
+
+msgid "Password needed"
+msgstr "需要密码"
+
+msgid "Permissions:"
+msgstr "权限："
+
+msgid "Pipe message through a program"
+msgstr "通过程序用管道传递邮件"
+
+msgid "Play sound"
+msgstr "播放声音"
+
+msgid "Play sound:"
+msgstr "演奏声音："
+
+msgid "Possible disk space problem."
+msgstr "可能是磁盘空间问题。"
+
+msgid "Postpone"
+msgstr "延期"
+
+msgid "Pr_efix:"
+msgstr "前缀(_E):"
+
+msgid "Preparing %s"
+msgstr "正在准备 %s"
+
+msgid "Prepend si_gnature"
+msgstr "预附签名(_G)"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Previous"
+msgstr "上一个"
+
+msgid ""
+"Previous\n"
+"part"
+msgstr ""
+"上一\n"
+"区段"
+
+msgid "Previous Message"
+msgstr "上一邮件"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Print on printer:"
+msgstr "在打印机上打印："
+
+msgid "Print to console"
+msgstr "打印到控制台"
+
+msgid "Priority Text Be_side Icons"
+msgstr "优先将文字显示在图标旁(_S)"
+
+msgid "Question"
+msgstr "问题"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Quota:"
+msgstr "配额："
+
+msgid "Quote level %d color"
+msgstr "引用级别 %d 颜色"
+
+msgid "R_eply To"
+msgstr "回复到(_E)"
+
+msgid "Re:"
+msgstr "回复："
+
+msgid "Reading embedded message failed: %s"
+msgstr "读取嵌入邮件失败：%s"
+
+msgid "Reconstructing message"
+msgstr "重组邮件"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Reference"
+msgstr "引用"
+
+msgid "Regular Expression"
+msgstr "正则表达式"
+
+msgid "Remember open mailboxes between sessions"
+msgstr "在会话中记住打开的邮件箱"
+
+msgid "Remote IMAP folder"
+msgstr "远程 IMAP 文件夹"
+
+msgid "Remote IMAP subfolder"
+msgstr "远程 IMAP 子文件夹"
+
+msgid "Remote Mailbox Configurator"
+msgstr "远程邮箱配置工具"
+
+msgid "Remote mailbox servers"
+msgstr "远程邮箱服务器"
+
+msgid "Remove"
+msgstr "删除"
+
+msgid "Remove from _list"
+msgstr "从列表中移除(_L)"
+
+msgid "Remove from list and _disk"
+msgstr "从列表和磁盘中删除(_D)"
+
+msgid "Removed %d duplicate"
+msgid_plural "Removed %d duplicates"
+msgstr[0] "移除了 %d 封重复邮件`"
+
+msgid "Removing duplicates failed: %s"
+msgstr "移除重复邮件失败：%s"
+
+msgid "Removing messages from source mailbox failed"
+msgstr "从源邮箱中移除邮件失败"
+
+msgid ""
+"Rename of %s to %s failed:\n"
+"%s"
+msgstr ""
+"重命名 %s 到 %s 失败：\n"
+"%s"
+
+msgid "Replace the current word with the selected suggestion"
+msgstr "把当前词替换为选中的建议词"
+
+msgid "Replied"
+msgstr "已回复"
+
+msgid "Reply"
+msgstr "回复"
+
+msgid ""
+"Reply\n"
+"to all"
+msgstr ""
+"回复\n"
+"全部"
+
+msgid ""
+"Reply\n"
+"to group"
+msgstr ""
+"回复\n"
+"给组"
+
+msgid "Reply To:"
+msgstr "回复给："
+
+msgid "Reply _string:"
+msgstr "回复字符串(_S)："
+
+msgid "Reply _to:"
+msgstr "回复到(_T)："
+
+msgid "Reply prefix:"
+msgstr "回复前缀："
+
+msgid "Reply to %s: %s"
+msgstr "回复给 %s：%s"
+
+msgid "Reply to Event Request"
+msgstr "回复事件请求"
+
+msgid "Reply-To:"
+msgstr "回复给："
+
+msgid ""
+"Request\n"
+"MDN"
+msgstr ""
+"请求\n"
+"MDN"
+
+msgid "Revert all changes and finish spell checking"
+msgstr "恢复所有更改，完成拼写检查"
+
+msgid "Rubrica2 Address Book"
+msgstr "Rubrica2 地址簿"
+
+msgid "Run program:"
+msgstr "运行程序："
+
+msgid "S/MIME"
+msgstr "S/MIME"
+
+msgid "SMTP Server"
+msgstr "SMTP服务器"
+
+msgid "SMT_P server:"
+msgstr "SMTP服务器(_P)："
+
+msgid "SSL/TLS certificate"
+msgstr "SSL/TLS 证书"
+
+msgid "S_ave part"
+msgstr "保存区段(_A)"
+
+msgid "S_elected Headers"
+msgstr "选择的信头(_E)"
+
+msgid "S_ubject"
+msgstr "主题(_U)"
+
+msgid "S_ubject:"
+msgstr "主题(_U)："
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save %s MIME Part"
+msgstr "保存%s MIME 区段"
+
+msgid "Save program location:"
+msgstr "保存程序位置："
+
+msgid "Saving sent message to %s failed: %s"
+msgstr "将已发送邮件保存到 %s 失败：%s"
+
+msgid "Scan IMAP folders to depth"
+msgstr "IMAP 文件夹扫描深度"
+
+msgid "Scan local folders to depth"
+msgstr "搜索本地文件夹的深度"
+
+msgid "Scanning of %s failed: %s"
+msgstr "扫描 %s 失败：%s"
+
+msgid ""
+"Scanning of %s failed: %s\n"
+"Check network connectivity."
+msgstr ""
+"扫描 %s 失败：%s\n"
+"请检查网络连接。"
+
+msgid "Se_nd message to obtain this part"
+msgstr "发送邮件以获取该区段(_N)"
+
+msgid "Search T_ype:"
+msgstr "搜索类型(_Y)："
+
+msgid "Search mailbox"
+msgstr "搜索邮箱"
+
+msgid "Searching %s for partial messages"
+msgstr "正在搜索 %s 查找部分邮件"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Select Identity"
+msgstr "选择身份"
+
+msgid "Select _All"
+msgstr "全部选中(_A)"
+
+msgid "Select _Thread"
+msgstr "选择线索(_T)"
+
+msgid "Select folder for saving selected parts"
+msgstr "选择用于保存选择区段的文件夹"
+
+msgid "Select key"
+msgstr "选中密钥"
+
+msgid "Select load program for address book"
+msgstr "选择地址簿载入程序"
+
+msgid "Select message part to display"
+msgstr "显示要显示的邮件区段"
+
+msgid "Select parent folder"
+msgstr "选择父文件夹"
+
+msgid "Select parts for quotation"
+msgstr "选择要引用的区段"
+
+msgid "Select save program for address book"
+msgstr "选择地址簿保存程序"
+
+msgid "Select the parts of the message which shall be quoted in the reply"
+msgstr "选择邮件中要在回复中引用的区段"
+
+msgid "Select your local mail directory"
+msgstr "选择本地邮件文件夹"
+
+msgid "Selected headers:"
+msgstr "选择的信头："
+
+msgid "Send"
+msgstr "发送"
+
+msgid "Send _encrypted"
+msgstr "加密发送(_E)"
+
+msgid "Send _unencrypted"
+msgstr "不加密发送(_U)"
+
+msgid "Send and _Receive Mail"
+msgstr "发送和接收邮件(_R)"
+
+msgid "Send as plain text and _HTML"
+msgstr "以纯文本和 _HTML 发送"
+
+msgid "Send button always queues outgoing mail in outbox"
+msgstr "发送按钮总是将发送邮件缓存到发件箱中"
+
+msgid "Send failed: %s"
+msgstr "发送失败：%s"
+
+msgid ""
+"Send failed: %s\n"
+"%s"
+msgstr ""
+"发送失败：%s\n"
+"%s"
+
+msgid "Send to Trash"
+msgstr "移到已删除邮件"
+
+msgid "Send-To"
+msgstr "发送至"
+
+msgid "Sender"
+msgstr "发信人"
+
+msgid "Sentbox"
+msgstr "已发送邮件"
+
+msgid "Separator"
+msgstr "分隔符"
+
+msgid "Server name"
+msgstr "服务器名称"
+
+msgid "Show Mailbox _Tabs"
+msgstr "显示邮箱标签页(_T)"
+
+msgid "Show St_atus Bar"
+msgstr "显示状态栏(_A)"
+
+msgid "Show Too_lbar"
+msgstr "显示工具栏(_L)"
+
+msgid "Show _Index Filter"
+msgstr "显示索引过滤规则(_I)"
+
+msgid "Show _Recipient column instead of Sender"
+msgstr "显示收件人列而非发信人(_R)"
+
+msgid "Show dialog"
+msgstr "显示对话"
+
+msgid "Show icon"
+msgstr "显示图标"
+
+msgid "Show in list"
+msgstr "在列表中显示"
+
+msgid "Show in status bar"
+msgstr "在状态栏中显示"
+
+msgid "Show next message"
+msgstr "显示下一封邮件"
+
+msgid "Show next unread message"
+msgstr "显示下一封未读邮件"
+
+msgid "Show nothing"
+msgstr "不显示"
+
+msgid "Show only matching messages"
+msgstr "只显示匹配的邮件"
+
+msgid "Shown mailbox: %s "
+msgstr "已显示邮箱：%s "
+
+msgid "Sign"
+msgstr "签名"
+
+msgid "Signature"
+msgstr "签名"
+
+msgid "Signature _path"
+msgstr "签名路径(_P)"
+
+msgid "Simple"
+msgstr "简单"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Skip the current word"
+msgstr "跳过当前词"
+
+msgid "Sp_lit message larger than"
+msgstr "分割邮件，若其尺寸大于(_L)"
+
+msgid "Specify the program to run:"
+msgstr "指定要运行的程序"
+
+msgid "Spell check"
+msgstr "拼写检查"
+
+msgid "Spelling"
+msgstr "拼写"
+
+msgid "Status messages"
+msgstr "状态消息"
+
+msgid "Store Address"
+msgstr "保存地址"
+
+msgid "Store address: no addresses"
+msgstr "保存地址：没有地址"
+
+msgid "Subfolder of:"
+msgstr "子文件夹："
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Subject Contains:"
+msgstr "主题包含："
+
+msgid "Subject font:"
+msgstr "主题字体："
+
+msgid "Subject or Recipient Contains:"
+msgstr "主题或收信人中包含："
+
+msgid "Subject or Sender Contains:"
+msgstr "主题或发信人中包含："
+
+msgid "Subject:"
+msgstr "主题："
+
+msgid "Subject: %s\n"
+msgstr "主题：%s\n"
+
+msgid "Subscribed _folders only"
+msgstr "仅订阅的文件夹(_F)"
+
+msgid "Suggest complete addresses:"
+msgstr "建议完整的地址："
+
+msgid "Syntax error in the filter configuration file"
+msgstr "在过滤规则配置文件中有语法错误"
+
+msgid "TLS requested but not compiled in"
+msgstr "需要 TLS，但程序编译时未加入"
+
+msgid "T_oggle"
+msgstr "切换(_O)"
+
+msgid "Text Be_low Icons"
+msgstr "文字在图标下方(_L)"
+
+msgid "The Balsa email client is part of the GNOME desktop environment."
+msgstr "Balsa 电子邮件客户端是 GNOME 桌面环境的组成部分。"
+
+msgid ""
+"The filters dialog is opened, close it before you can run filters on any "
+"mailbox"
+msgstr "过滤规则对话框已打开，关闭它之后您才能对邮箱执行过滤规则"
+
+msgid "The following settings are global:"
+msgstr "以下设置是全局的："
+
+msgid "The message contains attachments, which cannot be signed or encrypted.\n"
+msgstr "邮件包含的附件不能签名或加密。\n"
+
+msgid "The message header looks suspicious."
+msgstr "邮件的信头可疑。"
+
+msgid ""
+"The message text will be sent as plain text and as HTML, but only the plain "
+"part can be signed.\n"
+msgstr "邮件文字会以纯文本和 HTML 发送，但只有纯文本区段可以签名。\n"
+
+msgid "The next unread message is in %s"
+msgstr "下一封未读邮件位于 %s 中"
+
+msgid "The path %s must be relative to the filesystem root (start with /)."
+msgstr "路径 %s 必须相对于根文件系统 (开始于 /)。"
+
+msgid "The signature could not be verified due to a missing key."
+msgstr "无法验证签名，因为缺少密钥。"
+
+msgid "The signature could not be verified due to an invalid crypto engine."
+msgstr "无法验证签名，因为加密引擎无效。"
+
+msgid "The signature is invalid."
+msgstr "该签名是有效的。"
+
+msgid "The signature is valid but expired."
+msgstr "签名有效，但已过期。"
+
+msgid ""
+"The signature is valid but the key used to verify the signature has been "
+"revoked."
+msgstr "签名有效，但用于验证签名的密钥已撤销。"
+
+msgid ""
+"The signature is valid but the key used to verify the signature has expired."
+msgstr "签名有效，蛤用于验证签名的密钥已过期。"
+
+msgid "The signature is valid."
+msgstr "该签名有效。"
+
+msgid "The user ID is fully valid."
+msgstr "用户标识完全有效。"
+
+msgid "The user ID is never valid."
+msgstr "用户标识从未有效。"
+
+msgid "The user ID is of unknown validity."
+msgstr "用户标识的有效性未知。"
+
+msgid "The user ID is ultimately valid."
+msgstr "用户标识彻底有效。"
+
+msgid "The validity of the user ID is undefined."
+msgstr "用户标识的有效性没有定义。"
+
+msgid ""
+"There are opened filter run dialogs, close them before you can modify "
+"filters."
+msgstr "有打开的过滤规则运行对话框。关闭它们之后才能修改过滤规则。"
+
+msgid "This mail address is already in this address book."
+msgstr "此邮件地址已经在该地址簿中。"
+
+msgid ""
+"This message part contains images from a remote server. To protect your "
+"privacy, Balsa has not downloaded them. You may choose to download them if "
+"you trust the server."
+msgstr "这个邮件块区段有来自外部服务器的图像。为了保护您的隐私，Balsa 没有下载它们。如果您信任该服务器，可以选择下载它们。"
+
+msgid "This message will not be encrypted for the BCC: recipient."
+msgid_plural "This message will not be encrypted for the BCC: recipients."
+msgstr[0] "密送给收件人的消息将不加密。"
+
+msgid ""
+"This will exit Balsa.\n"
+"Do you really want to do this?"
+msgstr ""
+"这将退出 Balsa。\n"
+"您真的想这样做？"
+
+msgid "Timeout exceeded while attempting fcntl lock!"
+msgstr "在试图进行 fcntl 锁的时候超时！"
+
+msgid "Timeout exceeded while attempting flock lock!"
+msgstr "在试图进行 flock 锁的时候超时！"
+
+msgid "To"
+msgstr "收件人"
+
+msgid "To:"
+msgstr "收件人："
+
+msgid "Toolbar options"
+msgstr "工具栏选项"
+
+msgid "Treat multiple addresses as:"
+msgstr "将多个地址对待为："
+
+msgid "Try again later."
+msgstr "稍后重试。"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "Type: %s (%s)"
+msgstr "类型：%s (%s)"
+
+msgid "URL: %s"
+msgstr "URL：%s"
+
+msgid "Un_answered"
+msgstr "未回复(_A)"
+
+msgid "Un_flagged"
+msgstr "取消标记(_F)"
+
+msgid "Un_read"
+msgstr "未读(_R)"
+
+msgid ""
+"Unable to Open Mailbox!\n"
+"%s."
+msgstr ""
+"无法打开邮箱！\n"
+"%s。"
+
+msgid "Unable to allocate memory"
+msgstr "无法分配内存"
+
+msgid "Unable to export filter %s, an error occurred."
+msgstr "无法导出过滤规则 %s，发生了错误。"
+
+msgid "Unable to load message body to match filter"
+msgstr "无法载入邮件正文来匹配过滤规则"
+
+msgid "Undefined location of user address book"
+msgstr "用户地址簿位置没有定义"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Unexpected address book error. Report it."
+msgstr "意外的地址簿错误。请报告给我们。"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown error"
+msgstr "未知错误"
+
+msgid "Unlink %s: %s"
+msgstr "取消链接 %s：%s"
+
+msgid "Unread"
+msgstr "未读"
+
+msgid "Until closed"
+msgstr "直到关闭时"
+
+msgid "Uploading %ld kB"
+msgstr "上传 %ld kB"
+
+msgid "Use Desktop _Default (%s)"
+msgstr "使用桌面默认(%s)(_D)"
+
+msgid "Use IDLE command"
+msgstr "使用 IDLE 命令"
+
+msgid "Use STATUS for mailbox checking"
+msgstr "邮箱检查时使用 STATUS"
+
+msgid "Use default font size"
+msgstr "使用默认字体大小"
+
+msgid "Use preview pane"
+msgstr "使用预览面板"
+
+msgid "User ID"
+msgstr "用户标识"
+
+msgid "User Settings"
+msgstr "用户设置"
+
+msgid "WARNING: "
+msgstr "警告： "
+
+msgid "Warning messages:"
+msgstr "警告消息："
+
+msgid "Welcome to Balsa!"
+msgstr "欢迎使用 Balsa！"
+
+msgid "When mail arrives:"
+msgstr "在邮件到达时："
+
+msgid "While retrieving messages"
+msgstr "在下载邮件时"
+
+msgid "Wide message layout"
+msgstr "宽幅邮件布局"
+
+msgid "Wide screen layout"
+msgstr "宽屏布局"
+
+msgid "Word wrap"
+msgstr "单词换行"
+
+msgid "Wrap outgoing text at"
+msgstr "发出的邮件自动换行于"
+
+msgid "Wrap text at"
+msgstr "文本自动换行位置"
+
+msgid "Wrapped"
+msgstr "已换行"
+
+msgid "Yes, remember it"
+msgstr "是的，记住"
+
+msgid "You can apply filters only on mailbox\n"
+msgstr "您只能对邮箱应用过滤规则\n"
+
+msgid ""
+"You did not select encryption for this message, although %s public keys are "
+"available for all recipients. In order to protect your privacy, the message "
+"could be %s encrypted."
+msgstr "您没有选择加密此邮件，尽管有针对所有收信人的 %s 个公钥。为了保护您的隐私，建议您用 %s 加密该邮件。"
+
+msgid "You did not specify a subject for this message"
+msgstr "这封邮件您没有填写主题"
+
+msgid "You have new mail."
+msgstr "您有新邮件。"
+
+msgid "You have received %d new message."
+msgid_plural "You have received %d new messages."
+msgstr[0] "您已收到 %d 封新邮件。"
+
+msgid "You must provide a sound to play"
+msgstr "您必须提供要播放的声音"
+
+msgid "You must provide a string"
+msgstr "您必须提供一个字符串"
+
+msgid "You must provide at least one regular expression"
+msgstr "您必须提供至少一个正则表达式"
+
+msgid "You must specify at least one field for matching"
+msgstr "您至少要指定一个要匹配的字段"
+
+msgid "You must specify the name of the user header to match on"
+msgstr "您必须指定要匹配的用户信头名称"
+
+msgid "You selected OpenPGP security for this message.\n"
+msgstr "您选择了 OpenPGP 作为此邮件的安全保障。\n"
+
+msgid ""
+"You should select MIME mode if the complete message shall be protected. Do "
+"you really want to proceed?"
+msgstr "如果想保护整个邮件，您应该选择 MIME 模式。您真的要继续吗？"
+
+msgid "Your _password:"
+msgstr "您的密码(_P)："
+
+msgid "Your email _login name:"
+msgstr "您的电子邮箱登录名(_L)："
+
+msgid "Your real _name:"
+msgstr "您的真实姓名(_N)："
+
+msgid "Zoom _100%"
+msgstr "缩放到_100%"
+
+msgid "Zoom _In"
+msgstr "放大(_I)"
+
+msgid "Zoom _Out"
+msgstr "缩小(_O)"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Accept Once"
+msgstr "接受一次(_A)"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Add signature separator"
+msgstr "添加签名分隔符(_A)"
+
+msgid "_Address"
+msgstr "地址簿(_A)"
+
+msgid "_Advanced"
+msgstr "高级(_A)"
+
+msgid "_All"
+msgstr "全部(_A)"
+
+msgid "_Answered"
+msgstr "已回复(_A)"
+
+msgid "_Attachments:"
+msgstr "附件(_A)："
+
+msgid "_Basic"
+msgstr "基本(_B)"
+
+msgid "_Body"
+msgstr "信体(_B)"
+
+msgid "_Bottom"
+msgstr "底部(_B)"
+
+msgid "_Check mail automatically every"
+msgstr "自动检查邮件间隔(_C)"
+
+msgid "_Chinese Simplified"
+msgstr "简体中文(_C)"
+
+msgid "_Chinese Traditional"
+msgstr "繁体中文(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Collapse All"
+msgstr "全部折叠(_C)"
+
+msgid "_Contents"
+msgstr "内容(_C)"
+
+msgid "_Continue"
+msgstr "继续(_C)"
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Create"
+msgstr "创建(_C)"
+
+msgid ""
+"_Decrypt and check\n"
+"signatures automatically:"
+msgstr ""
+"自动解密并\n"
+"检查签名(_D)："
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Delete Entry"
+msgstr "删除条目(_D)"
+
+msgid "_Delete messages from server after download"
+msgstr "在下载后从服务器删除邮件(_D)"
+
+msgid "_Deleted"
+msgstr "已删除(_D)"
+
+msgid "_Descriptive Name:"
+msgstr "描述性名字(_D)："
+
+msgid "_Domain:"
+msgstr "域(_D)："
+
+msgid "_Done"
+msgstr "完成(_D)"
+
+msgid "_Download images"
+msgstr "下载图像(_D)"
+
+msgid "_Draftbox:"
+msgstr "草稿箱(_D)："
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_Edit/Apply filters"
+msgstr "编辑/应用过滤规则(_E)"
+
+msgid "_Email Address:"
+msgstr "电子邮件地址(_E)："
+
+msgid "_Empty trash"
+msgstr "清空废件箱(_E)"
+
+msgid "_Enable check for new mail"
+msgstr "启用新邮件检查(_E)"
+
+msgid "_Encrypt Message"
+msgstr "加密邮件(_E)"
+
+msgid "_English (American)"
+msgstr "英语(美国)(_E)"
+
+msgid "_English (British)"
+msgstr "英语(英国)(_E)"
+
+msgid "_Entry"
+msgstr "条目(_E)"
+
+msgid "_Escape Special Characters"
+msgstr "忽略特殊字符(_E)"
+
+msgid "_Esperanto"
+msgstr "世界语(_E)"
+
+msgid "_Execute signature"
+msgstr "执行签名(_E)"
+
+msgid "_Face Path"
+msgstr "_Face 路径"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_Filter messages through procmail"
+msgstr "用 procmail 过滤(_F)"
+
+msgid "_Filter name:"
+msgstr "过滤规则名称(_F)："
+
+msgid "_Find"
+msgstr "查找(_F)"
+
+msgid "_First Name:"
+msgstr "名(_F)："
+
+msgid "_Flagged"
+msgstr "带标记的(_F)"
+
+msgid "_Folder name:"
+msgstr "文件夹名(_F)："
+
+msgid "_Footer Font:"
+msgstr "页脚字体(_F)："
+
+msgid "_Format = Flowed"
+msgstr "_Format = Flowed"
+
+msgid "_From:"
+msgstr "发件人(_F)："
+
+msgid "_Full name:"
+msgstr "全名(_F)："
+
+msgid "_Generic UTF-8"
+msgstr "通用 UTF-8(_G)"
+
+msgid "_German (Austrian)"
+msgstr "德语(奥地利)(_G)"
+
+msgid "_Get New Mail"
+msgstr "获取新邮件(_G)"
+
+msgid "_Header Font:"
+msgstr "信头字体(_H)："
+
+msgid "_Hebrew"
+msgstr "希伯来语(_H)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Hide"
+msgstr "隐藏(_H)"
+
+msgid "_Hide Messages"
+msgstr "隐藏邮件(_H)"
+
+msgid "_Icons Only"
+msgstr "仅图标(_I)"
+
+msgid "_Identity name:"
+msgstr "身份名(_I)："
+
+msgid "_Identity:"
+msgstr "身份名(_I)："
+
+msgid "_Ignore"
+msgstr "忽略(_I)"
+
+msgid "_Inbox:"
+msgstr "收件箱(_I)："
+
+msgid "_Kazakh"
+msgstr "哈萨克语(_K)"
+
+msgid "_Language"
+msgstr "语言(_L)"
+
+msgid "_Last Name:"
+msgstr "姓(_L)："
+
+msgid "_Learn"
+msgstr "学习(_L)"
+
+msgid "_Left"
+msgstr "左侧(_L)"
+
+msgid "_Local mail directory:"
+msgstr "本地邮件文件夹(_L)："
+
+msgid "_Mailbox Name:"
+msgstr "邮箱名(_M)："
+
+msgid "_Mailing address:"
+msgstr "邮件地址(_M)："
+
+msgid "_Mark as Sentbox"
+msgstr "标记为已发(_M)"
+
+msgid "_Max number of connections:"
+msgstr "最大连接数(_M)："
+
+msgid "_Message"
+msgstr "邮件(_M)"
+
+msgid "_Modify"
+msgstr "修改(_M)"
+
+msgid "_Move to"
+msgstr "移动到(_M)"
+
+msgid "_Move to Trash"
+msgstr "移到已删除邮件(_M)"
+
+msgid "_Name"
+msgstr "名字(_N)"
+
+msgid "_New"
+msgstr "新建(_N)"
+
+msgid "_New Entry"
+msgstr "新条目(_N)"
+
+msgid "_Next Part"
+msgstr "下一区段(_N)"
+
+msgid "_Nickname:"
+msgstr "昵称(_N)："
+
+msgid "_No"
+msgstr "否(_N)"
+
+msgid "_No Headers"
+msgstr "没有信头(_N)"
+
+msgid "_One of the regular expressions matches"
+msgstr "一个正则表达式匹配(_O)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Options"
+msgstr "选项(_O)"
+
+msgid "_Outbox:"
+msgstr "发件箱(_O)："
+
+msgid "_POP message size limit:"
+msgstr "_POP 邮件大小限制："
+
+msgid "_Pass Phrase:"
+msgstr "口令(_P):"
+
+msgid "_Password"
+msgstr "密码(_P)"
+
+msgid "_Paste"
+msgstr "粘贴(_P)"
+
+msgid "_Previous Part"
+msgstr "上一区段(_P)"
+
+msgid "_Properties"
+msgstr "属性(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Quote Message(s)"
+msgstr "引用邮件(_Q)"
+
+msgid "_Read"
+msgstr "已读(_R)"
+
+msgid "_Reject"
+msgstr "拒绝(_R)"
+
+msgid "_Remember password"
+msgstr "记住口令(_R)"
+
+msgid "_Remember your password:"
+msgstr "记住您的密码(_R)："
+
+msgid "_Remove"
+msgstr "移除(_R)"
+
+msgid "_Remove Duplicates"
+msgstr "移除重复邮件(_R)"
+
+msgid "_Remove from list"
+msgstr "从列表中移除(_R)"
+
+msgid "_Remove from server"
+msgstr "从服务器上删除(_R)"
+
+msgid "_Request Disposition Notification"
+msgstr "要求阅读通知(_R)"
+
+msgid "_Rescan"
+msgstr "重新扫描(_R)"
+
+msgid "_Reset Filter"
+msgstr "重置过滤规则(_R)"
+
+msgid "_Restore toolbar to standard buttons"
+msgstr "恢复工具栏默认按钮(_R)"
+
+msgid "_Reverse search"
+msgstr "反向搜索(_R)"
+
+msgid "_Right"
+msgstr "右侧(_R)"
+
+msgid "_Run"
+msgstr "运行(_R)"
+
+msgid "_SMTP Server:"
+msgstr "SMTP服务器(_S)："
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Search for Name:"
+msgstr "搜索名称(_S)："
+
+msgid "_Search for:"
+msgstr "搜索内容(_S)："
+
+msgid "_Select Text"
+msgstr "选中文字(_S)"
+
+msgid "_Send"
+msgstr "发送(_S)"
+
+msgid "_Send Queued Mail"
+msgstr "发送队列中的邮件(_S)"
+
+msgid "_Sentbox:"
+msgstr "已发送(_S)："
+
+msgid "_Serbian (Latin)"
+msgstr "塞尔维亚语(拉丁)(_S)"
+
+msgid "_Server:"
+msgstr "服务器(_S)："
+
+msgid "_Set as default"
+msgstr "设为默认值(_S)"
+
+msgid "_Show"
+msgstr "显示(_S)"
+
+msgid "_Show Mailbox Tree"
+msgstr "显示邮箱树(_S)"
+
+msgid "_Sign Message"
+msgstr "签名邮件(_S)"
+
+msgid "_Subject"
+msgstr "主题(_S)"
+
+msgid "_Subscribe for new mail check"
+msgstr "新邮件检查订阅(_S)"
+
+msgid "_Tatar"
+msgstr "鞑靼语(_T)"
+
+msgid "_Text Only"
+msgstr "仅文字(_T)"
+
+msgid "_To:"
+msgstr "收件人(_T)："
+
+msgid "_Top"
+msgstr "顶部(_T)"
+
+msgid "_Trash:"
+msgstr "废件箱(_T)："
+
+msgid "_Type of mail server:"
+msgstr "邮件服务器类型(_T)："
+
+msgid "_Undelete"
+msgstr "取消删除(_U)"
+
+msgid "_Unread"
+msgstr "未读(_U)"
+
+msgid "_Update"
+msgstr "更新(_U)"
+
+msgid "_User Address Book DN"
+msgstr "用户地址簿域名(_U)"
+
+msgid "_User Name (Bind DN)"
+msgstr "用户名(绑定域名)(_U)"
+
+msgid "_User Name:"
+msgstr "用户名(_U)："
+
+msgid "_User header:"
+msgstr "用户信头(_U)："
+
+msgid "_View"
+msgstr "察看(_V)"
+
+msgid "_View Source"
+msgstr "查看源代码(_V)"
+
+msgid "_Wrap"
+msgstr "自动换行(_W)"
+
+msgid "_Wrap Body"
+msgstr "邮件自动换行(_W)"
+
+msgid "_Wrap around"
+msgstr "自动换行(_W)"
+
+msgid "_Wrap button labels"
+msgstr "按钮标签换行(_W)"
+
+msgid "_X-Face Path"
+msgstr "_X-Face 路径"
+
+msgid "_Yes"
+msgstr "是(_Y)"
+
+msgid "a distribution list"
+msgstr "分发列表"
+
+msgid "accepted"
+msgstr "已接受"
+
+msgid "admin"
+msgstr "管理员"
+
+msgid "alternative addresses for the same person"
+msgstr "同一个人的其他地址"
+
+msgid "alternative parts"
+msgstr "可选区段"
+
+msgid "append"
+msgstr "附加"
+
+msgid "as I type"
+msgstr "在我输入时"
+
+msgid "attached %s part"
+msgstr "已附加 %s 区段"
+
+msgid "bad validity"
+msgstr "有效性有问题"
+
+msgid "characters"
+msgstr "字符"
+
+msgid "combined signing and encryption is defined only for RFC 2440"
+msgstr "只有 RFC 2440 定义了联合的签名和加密"
+
+msgid "complete message"
+msgstr "完整邮件"
+
+msgid "completed"
+msgstr "已完成"
+
+msgid "could not create context"
+msgstr "无法创建正文"
+
+msgid "could not create new data object"
+msgstr "无法创建新数据对象"
+
+msgid "could not get data from stream"
+msgstr "无法从流获取数据"
+
+msgid "declined"
+msgstr "已拒绝"
+
+msgid "decryption and signature verification failed"
+msgstr "解密和签名验证失败"
+
+msgid "decryption failed"
+msgstr "解密失败"
+
+msgid "default protocol"
+msgstr "默认协议"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "delegated"
+msgstr "已授权"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "display in codeset"
+msgstr "显示在字符集中"
+
+msgid "does not exist"
+msgstr "不存在"
+
+msgid "encrypt messages by default"
+msgstr "默认对邮件加密"
+
+msgid "encrypted parts"
+msgstr "加密的区段"
+
+msgid "encrypted: "
+msgstr "已加密： "
+
+msgid "encryption failed"
+msgstr "加密失败"
+
+msgid "forwarded message"
+msgstr "已转发邮件"
+
+msgid "from unknown"
+msgstr "发送方未知"
+
+msgid "full"
+msgstr "完全"
+
+msgid "in process"
+msgstr "进行中"
+
+msgid "inch"
+msgstr "英寸"
+
+msgid "libbalsa_mailbox_get_message: mailbox %s is closed"
+msgstr "libbalsa_mailbox_get_message：邮箱 %s 已关闭"
+
+msgid "mine: "
+msgstr "我的： "
+
+msgid "minutes"
+msgstr "分钟"
+
+msgid "mixed parts"
+msgstr "混合区段"
+
+msgid "mm"
+msgstr "毫米"
+
+msgid "needs action"
+msgstr "需要操作"
+
+msgid "never"
+msgstr "从不"
+
+msgid "no limits"
+msgstr "无限制"
+
+msgid "not a regular file"
+msgstr "不是常规文件"
+
+msgid "not an absolute path"
+msgstr "不是一个绝对路径"
+
+msgid "not in current directory"
+msgstr "不在当前文件夹中"
+
+msgid "part %s: %s"
+msgstr "%s 区段：%s"
+
+msgid "part %s: %s (file %s)"
+msgstr "%s 区段：%s (%s 文件)"
+
+msgid "percent"
+msgstr "百分比"
+
+msgid "post"
+msgstr "发送"
+
+msgid "quoted"
+msgstr "引用的"
+
+msgid "quoted attachment"
+msgstr "引用的附件"
+
+msgid "read-only"
+msgstr "只读"
+
+msgid "read-write"
+msgstr "读写"
+
+msgid "remind me if messages can be encrypted"
+msgstr "如果邮件可以加密则提醒我"
+
+msgid "request _Message Disposition Notification by default"
+msgstr "默认要求邮件处理通知(_M)"
+
+msgid "send messages in both plain text and _HTML format"
+msgstr "同时以纯文本和 _HTML 格式发送邮件"
+
+msgid "sign messages by default"
+msgstr "默认对邮件签名"
+
+msgid "signature verification failed"
+msgstr "签名验证失败"
+
+msgid "signed parts"
+msgstr "签名的区段"
+
+msgid "signing and encryption failed"
+msgstr "签名和加密失败"
+
+msgid "signing failed"
+msgstr "签名失败"
+
+msgid "special"
+msgstr "特殊"
+
+msgid "tentatively accepted"
+msgstr "暂时接受"
+
+msgid "translator-credits"
+msgstr ""
+"开源软件国际化简体中文组\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard"
+
+msgid "ultimate"
+msgstr "彻底"
+
+msgid "undefined"
+msgstr "未定义"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown error"
+msgstr "未知错误"
+
+msgid "when I hit the Escape key"
+msgstr "在我按下 Escape 键时"
+
+msgid "with %d message"
+msgid_plural "with %d messages"
+msgstr[0] "含 %d 封邮件"
+
+msgid "you"
+msgstr "您"

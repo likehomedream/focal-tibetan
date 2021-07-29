@@ -1,0 +1,307 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bootloader\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2018-03-26 08:26+0000\n"
+"Last-Translator: Rockworld <sumoisrock@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:26+0000\n"
+
+msgid "Accessibility"
+msgstr "辅助功能"
+
+msgid "Boot Options"
+msgstr "引导选项"
+
+msgid "Boot loader"
+msgstr "引导程序"
+
+msgid "Braille Terminal"
+msgstr "布莱叶盲文终端"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Change Boot Disk"
+msgstr "更换引导盘"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "DVD Error"
+msgstr "DVD 错误"
+
+msgid ""
+"Enter your password:   \n"
+"\n"
+"\n"
+msgstr ""
+"输入您的密码：   \n"
+"\n"
+"\n"
+
+msgid "Everything"
+msgstr "所有内容"
+
+msgid "Exiting..."
+msgstr "正在退出..."
+
+msgid "Expert mode"
+msgstr "专家模式"
+
+msgid "Free software only"
+msgstr "仅自由软件"
+
+msgid "Halt the system now?"
+msgstr "是否立即暂停系统？"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "High Contrast"
+msgstr "高对比度"
+
+msgid "I/O error"
+msgstr "I/O 错误"
+
+msgid "Insert boot disk %u."
+msgstr "插入引导盘 %u。"
+
+msgid "Install a Diskless Image Server"
+msgstr "安装无盘映像服务器"
+
+msgid "Install a LAMP server"
+msgstr "安装 LAMP (Linux, Apache, MySQL, PHP)服务器"
+
+msgid "Install a command-line system"
+msgstr "安装命令行系统"
+
+msgid "Install a minimal system"
+msgstr "最小化安装"
+
+msgid "Install a minimal virtual machine"
+msgstr "安装一个最小的虚拟机"
+
+msgid "Install a server"
+msgstr "安装服务器"
+
+msgid "Install a workstation"
+msgstr "安装工作站"
+
+msgid "Install an LTSP server"
+msgstr "安装LTSP (Linux Terminal Server Project)服务器"
+
+msgid "Keyboard Modifiers"
+msgstr "自定义组合键"
+
+msgid "Keymap"
+msgstr "键盘布局"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Magnifier"
+msgstr "放大镜"
+
+msgid "Modes"
+msgstr "模式"
+
+msgid "Motor Difficulties - switch devices"
+msgstr "运动障碍 - 开关设备"
+
+msgid "None"
+msgstr "无"
+
+msgid "Normal"
+msgstr "正常模式"
+
+msgid "OEM install (for manufacturers)"
+msgstr "OEM 安装(供制造商使用)"
+
+msgid "OK"
+msgstr "确定"
+
+msgid "On-Screen Keyboard"
+msgstr "屏幕键盘"
+
+msgid "Other Options"
+msgstr "其他选项"
+
+msgid "Password"
+msgstr "口令"
+
+msgid "Password\n"
+msgstr "口令\n"
+
+msgid "Power Off"
+msgstr "关机"
+
+msgid "Reboot"
+msgstr "重启"
+
+msgid "Screen Reader"
+msgstr "屏幕阅读器"
+
+msgid "Test ^memory"
+msgstr "测试内存(^M)"
+
+msgid ""
+"This is a two-sided DVD. You have booted from the second side.\n"
+"\n"
+"Turn the DVD over then continue."
+msgstr ""
+"这是双面 DVD，您是从第二面引导的。\n"
+"\n"
+"请将 DVD 翻转后继续。"
+
+msgid ""
+"This is boot disk %u.\n"
+"Insert boot disk %u."
+msgstr ""
+"这是引导盘 %u。\n"
+"插入引导盘 %u。"
+
+msgid ""
+"This is not a suitable boot disk.\n"
+"Please insert boot disk %u."
+msgstr ""
+"这不是正确的引导盘。\n"
+"请插入正确的引导盘 %u。"
+
+msgid "Use driver update disc"
+msgstr "使用驱动程序更新盘"
+
+msgid ""
+"You are leaving the graphical boot menu and\n"
+"starting the text mode interface."
+msgstr ""
+"您将离开图形引导菜单\n"
+"并启动文本方式界面。"
+
+msgid "^Boot from first hard disk"
+msgstr "从第一硬盘引导(^B)"
+
+msgid "^Check disc for defects"
+msgstr "检测盘片是否有错误(^C)"
+
+msgid "^Dell Automatic Reinstall"
+msgstr "戴尔自动重新安装(^D)"
+
+msgid "^Install Edubuntu"
+msgstr "安装 Edubuntu (^I)"
+
+msgid "^Install Edubuntu in text mode"
+msgstr "在文本模式下安装 Edubuntu (^I)"
+
+msgid "^Install Kubuntu"
+msgstr "安装 Kubuntu (^I)"
+
+msgid "^Install Kubuntu Netbook"
+msgstr "安装 Kubuntu Netbook(^I)"
+
+msgid "^Install Kubuntu in text mode"
+msgstr "在文本模式下安装 Kubuntu (^I)"
+
+msgid "^Install Lubuntu"
+msgstr "^安装 Lubuntu"
+
+msgid "^Install Mythbuntu"
+msgstr "安装 Mythbuntu (^I)"
+
+msgid "^Install Ubuntu"
+msgstr "安装 Ubuntu (^I)"
+
+msgid "^Install Ubuntu GNOME"
+msgstr "安装 Ubuntu GNOME (_I)"
+
+msgid "^Install Ubuntu Kylin"
+msgstr "安装 Ubuntu Kylin (^I)"
+
+msgid "^Install Ubuntu Kylin Netbook"
+msgstr "安装 Ubuntu Kylin Netbook(^I)"
+
+msgid "^Install Ubuntu Kylin in text mode"
+msgstr "在文本模式下安装 Ubuntu Kylin (^I)"
+
+msgid "^Install Ubuntu MATE"
+msgstr "安装 Ubuntu MATE(^I)"
+
+msgid "^Install Ubuntu MID"
+msgstr "安装 Ubuntu MID (^I)"
+
+msgid "^Install Ubuntu Netbook"
+msgstr "安装 Ubuntu Netbook (^I)"
+
+msgid "^Install Ubuntu Server"
+msgstr "安装 Ubuntu 服务器版 (^I)"
+
+msgid "^Install Ubuntu Studio"
+msgstr "安装 Ubuntu Studio (^I)"
+
+msgid "^Install Ubuntu in text mode"
+msgstr "在文本模式下安装 Ubuntu (^I)"
+
+msgid "^Install Xubuntu"
+msgstr "安装 Xubuntu (^I)"
+
+msgid "^Install Xubuntu in text mode"
+msgstr "在文本模式下安装 Xubuntu (^I)"
+
+msgid "^Multiple server install with MAAS"
+msgstr "使用 MAAS 安装多台服务器(^M)"
+
+msgid "^Rescue a broken system"
+msgstr "修复损坏的系统(^R)"
+
+msgid "^Start Kubuntu"
+msgstr "启动 Kubuntu(^S)"
+
+msgid "^Start Ubuntu Kylin"
+msgstr "启动 Ubuntu Kylin(^S)"
+
+msgid "^Try Edubuntu without installing"
+msgstr "试用 Edubuntu 而不安装(^T)"
+
+msgid "^Try Kubuntu Netbook without installing"
+msgstr "试用 Kubuntu Netbook 而不安装(^T)"
+
+msgid "^Try Kubuntu without installing"
+msgstr "试用 Kubuntu 而不安装(^T)"
+
+msgid "^Try Lubuntu without installing"
+msgstr "^试用 Lubuntu 而不安装(^T)"
+
+msgid "^Try Mythbuntu without installing"
+msgstr "试用 Mythbuntu 而不安装(^T)"
+
+msgid "^Try Ubuntu GNOME without installing"
+msgstr "试用 Ubuntu GNOME 而不安装(^T)"
+
+msgid "^Try Ubuntu Kylin Netbook without installing"
+msgstr "试用 Ubuntu Kylin Netbook 而不安装(^T)"
+
+msgid "^Try Ubuntu Kylin without installing"
+msgstr "试用 Ubuntu Kylin 而不安装(^T)"
+
+msgid "^Try Ubuntu MATE without installing"
+msgstr "试用 Ubuntu MATE 而不安装(^T)"
+
+msgid "^Try Ubuntu MID without installing"
+msgstr "试用 Ubuntu MID 而不安装(^T)"
+
+msgid "^Try Ubuntu Netbook without installing"
+msgstr "试用 Ubuntu Netbook 而不安装(^T)"
+
+msgid "^Try Ubuntu Studio without installing"
+msgstr "在不安装的情况下试用 Ubuntu Studio(^T)"
+
+msgid "^Try Ubuntu without installing"
+msgstr "试用 Ubuntu 而不安装(^T)"
+
+msgid "^Try Xubuntu without installing"
+msgstr "试用 Xubuntu 而不安装(^T)"

@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libvisual-plugins\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2009-10-18 14:10+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:27+0000\n"
+
+msgid " frames/sec"
+msgstr " 帧/秒"
+
+msgid "Cannot configure this PCM device"
+msgstr "无法配置此 PCM 设备"
+
+msgid "Could not close file descriptor %d: %s"
+msgstr "无法关闭文件描述符 %d: %s"
+
+msgid "Could not open file '%s': %s"
+msgstr "无法打开文件'%s'：%s"
+
+msgid "Dennis Smit <ds@nerds-incorporated.org>"
+msgstr "Dennis Smit <ds@nerds-incorporated.org>"
+
+msgid "ESD: Error while reading data"
+msgstr "ESD: 读数据时出错"
+
+msgid "ESD: Select error (%d, %s)"
+msgstr "ESD: 选择错误 (%d, %s)"
+
+msgid "GdkPixbuf image loader for libvisual"
+msgstr "libvisual 的 GdkPixbuf 图像载入器"
+
+msgid "No audio channel available"
+msgstr "没有可用的声道"
+
+msgid "Record open error: %s"
+msgstr "打开记录出错：%s"
+
+msgid "Show names OFF"
+msgstr "关闭显示姓名"
+
+msgid "Show names ON"
+msgstr "打开显示姓名"
+
+msgid "Speed:"
+msgstr "速度:"
+
+msgid "State stored."
+msgstr "状态已保存"
+
+msgid "The color of the light"
+msgstr "光的颜色"
+
+msgid "The size of the light"
+msgstr "光的大小"
+
+msgid "This plugin can be used to show images"
+msgstr "这个插件可用于显示图像"
+
+msgid "This plugin uses data exported from 'mplayer -af export'"
+msgstr "此插件使用从 'mplayer -af export' 导出的数据"
+
+msgid "Use data exported from MPlayer"
+msgstr "使用 MPlayer 导出的数据"
+
+msgid "Wrong file descriptor %d"
+msgstr "错误的文件描述符 %d"

@@ -1,0 +1,883 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ibus 1.5.20\n"
+"Report-Msgid-Bugs-To: https://github.com/ibus/ibus/issues\n"
+"PO-Revision-Date: 2019-09-17 04:31+0000\n"
+"Last-Translator: Tiansworld <Unknown>\n"
+"Language-Team: Chinese (China) <trans-zh_cn@lists.fedoraproject.org>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:12+0000\n"
+
+msgid "%s is unknown command!\n"
+msgstr "%s 是未知命令！\n"
+
+msgid "(Not implemented)"
+msgstr "(暂不可用)"
+
+msgid "..."
+msgstr "..."
+
+msgid "<b>Font and Style</b>"
+msgstr "<b>字体和风格</b>"
+
+msgid "<b>Global input method settings</b>"
+msgstr "<b>全局输入法设置</b>"
+
+msgid "<b>Keyboard Layout</b>"
+msgstr "<b>键盘布局</b>"
+
+msgid "<b>Keyboard Shortcuts</b>"
+msgstr "<b>快捷键</b>"
+
+msgid "<b>Startup</b>"
+msgstr "<b>启动</b>"
+
+msgid ""
+"<big><b>IBus</b></big>\n"
+"<small>The intelligent input bus</small>\n"
+"Homepage: https://github.com/ibus/ibus/wiki\n"
+"\n"
+"\n"
+"\n"
+msgstr ""
+"<big><b>IBus</b></big>\n"
+"<small>智能输入平台</small>\n"
+"主页：https://github.com/ibus/ibus/wiki\n"
+"\n"
+"\n"
+"\n"
+
+msgid ""
+"<small><i>The active input method can be switched around from the selected "
+"ones in the above list by pressing the keyboard shortcut keys or clicking "
+"the panel icon.</i></small>"
+msgstr "<small><i>可以通过敲击键盘快捷键或者点击面板图标来在上述列表中切换选中的输入法</i></small>"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Activities"
+msgstr "活动"
+
+msgid "Add the selected input method into the enabled input methods"
+msgstr "添加选中的输入法到启用输入法列表"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Alias: %s"
+msgstr "别名：%s"
+
+msgid "Always"
+msgstr "总是"
+
+msgid "Animals & Nature"
+msgstr "动物和自然"
+
+msgid "Annotations: %s"
+msgstr "释义：%s"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Armenian"
+msgstr "亚美尼亚语"
+
+msgid "Arrows"
+msgstr "箭头"
+
+msgid "Author: %s\n"
+msgstr "作者：%s\n"
+
+msgid "Auto hide"
+msgstr "自动隐藏"
+
+msgid "Basic Latin"
+msgstr "基本拉丁语"
+
+msgid "Bottom left corner"
+msgstr "左下角"
+
+msgid "Bottom right corner"
+msgstr "右下角"
+
+msgid "CJK Compatibility"
+msgstr "汉日韩字符兼容"
+
+msgid "CJK Strokes"
+msgstr "汉、日、韩语笔画"
+
+msgid "CJK Symbols and Punctuation"
+msgstr "汉、日、韩语符号和标点"
+
+msgid "Can't connect to IBus.\n"
+msgstr "无法连接 IBus。\n"
+
+msgid "Canceled to choose an emoji."
+msgstr "已取消选择一个 emoji"
+
+msgid "Candidates orientation:"
+msgstr "候选词排列方向："
+
+msgid "Chess Symbols"
+msgstr "象棋符号"
+
+msgid "Choose a condition to match emoji annotations partially"
+msgstr "选择一种条件来部分匹配表情注释"
+
+msgid ""
+"Choose a default language of emoji dictionaries on the emoji dialog. The "
+"value $lang is applied to /usr/share/ibus/dicts/emoji-$lang.dict"
+msgstr ""
+"在表情输入对话框中选择默认表情输入语言。设定值 $lang 会应用于 /usr/share/ibus/dicts/emoji-$lang.dict"
+
+msgid ""
+"Choose one of the following conditions to match emoji annotations partially:"
+" 0 == Prefix match, 1 == Suffix match, 2 == Containing match"
+msgstr "选择以下条件来部分匹配表情注释：0 == 字首匹配, 1 == 字尾匹配, 2 == 包含匹配"
+
+msgid "Click to view a warning message"
+msgstr "点击查看警告信息"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Commands:\n"
+msgstr "命令：\n"
+
+msgid "Component"
+msgstr "组件"
+
+msgid "Containing match"
+msgstr "包含匹配"
+
+msgid "Control Pictures"
+msgstr "控制图"
+
+msgid "Copied an emoji to your clipboard."
+msgstr "已将 emoji 复制到你的剪贴板"
+
+msgid ""
+"Copyright (c) 2007-2010 Peng Huang\n"
+"Copyright (c) 2007-2010 Red Hat, Inc."
+msgstr ""
+"版权所有 (c) 2007-2010 黄鹏\n"
+"版权所有 (c) 2007-2010 Red Hat, Inc."
+
+msgid "Create registry cache"
+msgstr "创建注册缓存"
+
+msgid "Currency Symbols"
+msgstr "货币符号"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Custom font"
+msgstr "自定义字体"
+
+msgid "Custom font name for emoji characters on emoji dialog"
+msgstr "表情符号对话框中用于表情符号的自定义字体名称"
+
+msgid "Custom font name for language panel"
+msgstr "自定义语言栏字体"
+
+msgid "Cyrillic"
+msgstr "西里尔语"
+
+msgid "Cyrillic Supplement"
+msgstr "西里尔语补充"
+
+msgid "DConf preserve name prefixes"
+msgstr "DConf 保留名称前缀"
+
+msgid "Default language for emoji dictionary"
+msgstr "emoji 字典的默认语言"
+
+msgid "Description:\n"
+msgstr "描述：\n"
+
+msgid "Description: %s"
+msgstr "描述：%s"
+
+msgid "Disable shortcut keys"
+msgstr "禁用快捷键"
+
+msgid "Disable:"
+msgstr "禁用："
+
+msgid "Do not show"
+msgstr "不再显示"
+
+msgid "Domino Tiles"
+msgstr "多米诺骨牌"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Embed Preedit Text"
+msgstr "内嵌编辑模式"
+
+msgid "Embed Preedit Text in Application Window"
+msgstr "在应用程序窗口中启用内嵌编辑模式"
+
+msgid "Embed preedit text in application window"
+msgstr "在应用程序窗口中启用内嵌编辑模式"
+
+msgid "Embed the preedit text of input method in the application window"
+msgstr "在应用程序窗口中启用输入法的内嵌编辑模式"
+
+msgid "Emoji"
+msgstr "表情符号"
+
+msgid "Emoji annotation language:"
+msgstr "Emoji 释文语言："
+
+msgid "Emoji annotation:"
+msgstr "表情符号注释"
+
+msgid "Enable input method by default"
+msgstr "默认启动输入法"
+
+msgid "Enable input method by default when the application gets input focus"
+msgstr "当应用程序需要使用输入时自动启用输入法"
+
+msgid "Enable or disable:"
+msgstr "开关："
+
+msgid "Enable shortcut keys"
+msgstr "应用快捷键"
+
+msgid "Enable:"
+msgstr "启用："
+
+msgid "Engines order"
+msgstr "引擎顺序"
+
+msgid "Exit ibus-daemon"
+msgstr "退出 ibus-daemon"
+
+msgid "FONT"
+msgstr "字体"
+
+msgid ""
+"Failed to get the current text application. Please re-focus your "
+"application. E.g. Press Esc key several times to release the emoji typing "
+"mode, click your desktop and click your text application again."
+msgstr "无法捕捉当前文字应用程序。请重新让该应用程序获得焦点。比如多次按 Esc 键来释放表情输入模式，点击桌面然后再点击该文字应用程序。"
+
+msgid "Favorites"
+msgstr "最爱"
+
+msgid "Flags"
+msgstr "旗帜"
+
+msgid "Follow the input cursor in case the panel is always shown"
+msgstr "在始终显示的情况下面板跟随输入光标"
+
+msgid "Food & Drink"
+msgstr "食物饮料"
+
+msgid "General"
+msgstr "常规"
+
+msgid "General Punctuation"
+msgstr "通用标点"
+
+msgid "Geometric Shapes"
+msgstr "几何形状"
+
+msgid "Get global engine failed.\n"
+msgstr "获取全局引擎失败。\n"
+
+msgid "Greek Extended"
+msgstr "希腊语扩展"
+
+msgid "Greek and Coptic"
+msgstr "希腊和古埃及语"
+
+msgid "Has emoji variants"
+msgstr "有表情符号变体"
+
+msgid "Hebrew"
+msgstr "希伯来语"
+
+msgid "Hide automatically"
+msgstr "自动隐藏"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "IBus Panel"
+msgstr "IBus 面板"
+
+msgid "IBus Preferences"
+msgstr "IBus 首选项"
+
+msgid "IBus daemon could not be started in %d seconds"
+msgstr "IBus 守护在 %d 秒内无法启动"
+
+msgid ""
+"IBus has been started! If you cannot use IBus, add the following lines to your $HOME/.bashrc; then relog into your desktop.\n"
+"  export GTK_IM_MODULE=ibus\n"
+"  export XMODIFIERS=@im=ibus\n"
+"  export QT_IM_MODULE=ibus"
+msgstr ""
+"IBus 已经启动！如果您无法使用 IBus，添加以下行至 $HOME/.bashrc；然后请重新登录您的桌面。\n"
+"  export GTK_IM_MODULE=ibus\n"
+"  export XMODIFIERS=@im=ibus\n"
+"  export QT_IM_MODULE=ibus"
+
+msgid "IBus is an intelligent input bus for Linux/Unix."
+msgstr "IBus 是一个用于 Linux/Unix 平台上的智能输入法(intelligent input bus) 。"
+
+msgid "IPA Extensions"
+msgstr "IPA 扩展"
+
+msgid ""
+"If true, the panel follows the input cursor in case the panel is always "
+"shown. If false, the panel is shown at a fixed location."
+msgstr "若为真，当面板设为始终显示时面板将跟随输入光标。若为假，面板将在固定位置显示。"
+
+msgid "Input Method"
+msgstr "输入法"
+
+msgid "Kbd"
+msgstr "Kbd"
+
+msgid "Key code:"
+msgstr "按键："
+
+msgid "Keyboard layout: %s\n"
+msgstr "键盘布局：%s\n"
+
+msgid "Keyboard shortcuts"
+msgstr "快捷键"
+
+msgid "Language panel position"
+msgstr "语言栏位置"
+
+msgid "Language panel position:"
+msgstr "语言栏位置："
+
+msgid "Language: %s\n"
+msgstr "语言：%s\n"
+
+msgid "Latin Extended Additional"
+msgstr "拉丁语扩展附加"
+
+msgid "Latin Extended-A"
+msgstr "拉丁语扩展-A"
+
+msgid "Latin Extended-B"
+msgstr "拉丁语扩展-B"
+
+msgid "Latin layouts which have no ASCII"
+msgstr "无 ASCII 的拉丁语布局"
+
+msgid "Latin-1 Supplement"
+msgstr "拉丁-1 补充"
+
+msgid "Letterlike Symbols"
+msgstr "类似字母的符号"
+
+msgid "List engine name only"
+msgstr "仅列出引擎名称"
+
+msgid "Load the Unicode data at the time of startup"
+msgstr "在启动时加载 Unicode 数据"
+
+msgid ""
+"Load the Unicode data at the time of startup if true. About 15MB memory is "
+"needed to load the data. Load the Unicode data when open the emoji dialog at"
+" the beginning if false. The Unicode data is always loaded after the emoji "
+"data is loaded even if true."
+msgstr ""
+"如果设为“True”，则在启动时加载 Unicode 数据。加载数据大约需要 15MB 内存。如果设为“False”，则当打开表情符号对话框时加载 "
+"Unicode 数据。Unicode 数据总是会在表情符号数据加载之后加载，即使设置为“True”也是如此。"
+
+msgid "Load the emoji data at the time of startup"
+msgstr "在启动时加载 emoji 数据"
+
+msgid ""
+"Load the emoji data at the time of startup if true. About 10MB memory is "
+"needed to load the data. Load the emoji data when open the emoji dialog at "
+"the beginning if false."
+msgstr ""
+"如果设定为真 (True)，则在启动时载入表情数据。大概需要 10MB 内存来载入数据。如果设定为假 (False)，则在打开表情对话框时加载表情数据。"
+
+msgid "Loading a Unicode dictionary:"
+msgstr "正在加载 Unicode 字典"
+
+msgid "Mahjong Tiles"
+msgstr "麻将块"
+
+msgid ""
+"Match emoji annotations partially with more than the specified number of "
+"characters instead of the exact match."
+msgstr "使用超过特定长度字符对表情注释进行匹配，而非完全匹配。"
+
+msgid "Match emoji annotations with the specified length"
+msgstr "使用特定长度字符匹配表情注释"
+
+msgid "Mathematical Operators"
+msgstr "数学运算符"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Miscellaneous Symbols"
+msgstr "其它各种符号"
+
+msgid "Miscellaneous Technical"
+msgstr "各种技术类符号"
+
+msgid "Modifiers:"
+msgstr "修饰符："
+
+msgid "Mongolian"
+msgstr "蒙语"
+
+msgid "More…"
+msgstr "更多..."
+
+msgid "Move down the selected input method in the enabled input methods"
+msgstr "下移选中的输入法"
+
+msgid "Move up the selected input method in the enabled input methods list"
+msgstr "上移选中的输入法"
+
+msgid "Name: %s"
+msgstr "名称：%s"
+
+msgid "Next engine shortcut keys"
+msgstr "下一个引擎快捷键"
+
+msgid "Next input method:"
+msgstr "下一输入法："
+
+msgid "No engine is set.\n"
+msgstr "尚未设置引擎。\n"
+
+msgid "None"
+msgstr "无"
+
+msgid "Number Forms"
+msgstr "数字形式"
+
+msgid "Objects"
+msgstr "实体"
+
+msgid "Orientation of lookup table"
+msgstr "候选词表方向"
+
+msgid "Orientation of lookup table. 0 = Horizontal, 1 = Vertical"
+msgstr "候选词表方向。0 = 水平，1 = 竖直。"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Others"
+msgstr "其他"
+
+msgid "Page Down"
+msgstr "下一页"
+
+msgid "Page Up"
+msgstr "上一页"
+
+msgid "People & Body"
+msgstr "人物和身体"
+
+msgid "Playing Cards"
+msgstr "纸牌"
+
+msgid "Please press a key (or a key combination)"
+msgstr "请按一个键盘按键（或者一个组合按键）"
+
+msgid ""
+"Please press a key (or a key combination).\n"
+"The dialog will be closed when the key is released."
+msgstr ""
+"请按一个键盘按键（或者一个组合按键）\n"
+"当您松开任意按键时，对话框会自动关闭。"
+
+msgid "Popup delay milliseconds for IME switcher window"
+msgstr "输入法切换窗口弹出延时微秒数"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Prefix match"
+msgstr "字首匹配"
+
+msgid "Prefixes of DConf keys to stop name conversion"
+msgstr "用来停止名称转换的 DConf 键前缀"
+
+msgid "Preload engines"
+msgstr "预加载引擎"
+
+msgid "Preload engines during ibus starts up"
+msgstr "IBus 启动时预加载的引擎"
+
+msgid "Prev engine shortcut keys"
+msgstr "上一个引擎快捷键"
+
+msgid "Previous input method:"
+msgstr "上一输入法："
+
+msgid "Print the D-Bus address of ibus-daemon"
+msgstr "输出 ibus-daemon 位于 D-Bus 中的地址"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "RGBA value of XKB icon"
+msgstr "XKB 图标的 RGBA 值"
+
+msgid "Read the registry cache FILE."
+msgstr "读取注册缓存 FILE。"
+
+msgid "Read the system registry cache."
+msgstr "读取系统注册缓存。"
+
+msgid "Remove the selected input method from the enabled input methods"
+msgstr "从启用输入法列表删除选中的输入法"
+
+msgid "Reset the configuration values"
+msgstr "重置配置"
+
+msgid "Resetting…"
+msgstr "正在重置"
+
+msgid "Restart"
+msgstr "重新启动"
+
+msgid "Restart ibus-daemon"
+msgstr "重启 ibus-daemon"
+
+msgid ""
+"Run xmodmap if .xmodmap or .Xmodmap exists when ibus engines are switched."
+msgstr "若 .xmodmap 或者 .Xmodmap 存在则当 ibus 框架启动时执行 xmodmap"
+
+msgid "Save emoji on dialog to clipboard "
+msgstr "将面板中的 emoji 保存到剪贴板 "
+
+msgid "Saved engines order in input method list"
+msgstr "保存在输入法选单中的引擎顺序"
+
+msgid "Saved version number"
+msgstr "已储存的版本号"
+
+msgid "Select a language"
+msgstr "选择语言"
+
+msgid "Select an input method"
+msgstr "选择输入法"
+
+msgid "Select keyboard shortcut for %s"
+msgstr "选择 %s 的快捷键"
+
+msgid "Set IBus Preferences"
+msgstr "设定 IBus 首选项"
+
+msgid "Set a font of Unicode candidates on the emoji dialog"
+msgstr "设置表情符号对话框中 Unicode 候选字的字体"
+
+msgid "Set a language of emoji annotations on the emoji dialog"
+msgstr "设置 emoji 面板中 emoji 释文的语言"
+
+msgid "Set global engine failed.\n"
+msgstr "设定全局引擎失败。\n"
+
+msgid "Set or get engine"
+msgstr "设定或获取引擎"
+
+msgid "Set the behavior of ibus how to show or hide language bar"
+msgstr "设置如何显示或隐藏语言栏的方式"
+
+msgid "Set the orientation of candidates in lookup table"
+msgstr "设置候选词表方向"
+
+msgid "Share the same input method among all applications"
+msgstr "在所有应用程序中共享同一个输入法"
+
+msgid "Show available engines"
+msgstr "显示可用引擎"
+
+msgid "Show emoji variants"
+msgstr "显示表情变体"
+
+msgid "Show icon on system tray"
+msgstr "在系统托盘上显示图标"
+
+msgid "Show information of the selected input method"
+msgstr "显示选中输入法的信息"
+
+msgid "Show input method name"
+msgstr "显示输入法名称"
+
+msgid "Show input method name on language bar"
+msgstr "语言栏上显示输入法名称"
+
+msgid "Show input method's name on language bar when check the checkbox"
+msgstr "选中该项将在语言栏上显示输入法的名字"
+
+msgid "Show property panel:"
+msgstr "显示属性栏："
+
+msgid "Show setup of the selected input method"
+msgstr "显示选中输入法的设置界面"
+
+msgid "Show the configuration values"
+msgstr "显示配置值"
+
+msgid "Show the content of registry cache"
+msgstr "显示注册缓存内容。"
+
+msgid "Show this information"
+msgstr "显示本信息"
+
+msgid "Show version"
+msgstr "显示版本号"
+
+msgid "Smileys & Emotion"
+msgstr "笑脸和情绪"
+
+msgid "Start ibus on login"
+msgstr "登录时运行 IBus"
+
+msgid "Suffix match"
+msgstr "字尾匹配"
+
+msgid "Superscripts and Subscripts"
+msgstr "上标和下标"
+
+msgid "Symbols"
+msgstr "符号"
+
+msgid "Tags"
+msgstr "标签"
+
+msgid "The IBus daemon is not running. Do you wish to start it?"
+msgstr "IBus 守护进程尚未运行。您希望启动它吗？"
+
+msgid ""
+"The behavior of property panel. 0 = Do not show, 1 = Auto hide, 2 = Always "
+"show"
+msgstr "属性面板的行为。 0 = 不再显示，1 = 自动隐藏，2 = 始终显示"
+
+msgid "The milliseconds to show property panel"
+msgstr "以毫秒为单位显示属性面板的时间"
+
+msgid ""
+"The milliseconds to show property panel after focus-in or properties are "
+"changed."
+msgstr "在离开焦点或属性变更后，以毫秒为单位显示属性面板的时间"
+
+msgid "The registry cache is invalid.\n"
+msgstr "注册缓存无效。\n"
+
+msgid ""
+"The saved version number will be used to check the difference between the "
+"version of the previous installed ibus and one of the current ibus."
+msgstr "已保存的版本号将被用作检查之前安装的 ibus 版本和当前版本间的区别。"
+
+msgid "The shortcut keys for switching to next input method in the list"
+msgstr "切换下一个输入法快捷键"
+
+msgid "The shortcut keys for switching to previous input method in the list"
+msgstr "切换上一个输入法快捷键"
+
+msgid "The shortcut keys for switching to the next input method in the list"
+msgstr "切换到列表中下一个输入法快捷键"
+
+msgid "The shortcut keys for switching to the previous input method"
+msgstr "切换到列表中上一个输入法快捷键"
+
+msgid "The shortcut keys for turning Unicode typing on or off"
+msgstr "开启或关闭 Unicode 输入的快捷键"
+
+msgid "The shortcut keys for turning emoji typing on or off"
+msgstr "用于开启或关闭表情输入的快捷键"
+
+msgid "The shortcut keys for turning input method off"
+msgstr "关闭输入法的快捷键"
+
+msgid "The shortcut keys for turning input method on"
+msgstr "开启输入法的快捷键"
+
+msgid "The shortcut keys for turning input method on or off"
+msgstr "打开关闭输入法的快捷键"
+
+msgid "Top left corner"
+msgstr "左上角"
+
+msgid "Top right corner"
+msgstr "右上角"
+
+msgid "Travel & Places"
+msgstr "交通工具和场所"
+
+msgid "Trigger shortcut keys"
+msgstr "触发快捷键"
+
+msgid "Trigger shortcut keys for gtk_accelerator_parse"
+msgstr "为 gtk_accelerator_parse 触发快捷键"
+
+msgid "Unicode font:"
+msgstr "Unicode 字体"
+
+msgid "Unicode shortcut keys for gtk_accelerator_parse"
+msgstr "用于 gtk_accelerator_parse 的 Unicode 快捷键"
+
+msgid ""
+"Usage: %s COMMAND [OPTION...]\n"
+"\n"
+msgstr ""
+"用法：%s 命令 [选项...]\n"
+"\n"
+
+msgid "Use custom font"
+msgstr "使用自定义字体"
+
+msgid "Use custom font name for language panel"
+msgstr "语言栏上使用自定义字体"
+
+msgid "Use custom font:"
+msgstr "使用自定义字体："
+
+msgid "Use global input method"
+msgstr "使用全局输入法"
+
+msgid "Use shortcut with shift to switch to the previous input method"
+msgstr "和 SHIFT 一起使用快捷键来切换到先前的输入法"
+
+msgid "Use system keyboard (XKB) layout"
+msgstr "使用系统键盘（XKB）布局"
+
+msgid "Use system keyboard layout"
+msgstr "使用系统键盘布局"
+
+msgid "Use xmodmap"
+msgstr "使用 xmodmap"
+
+msgid "Vertical"
+msgstr "竖直"
+
+msgid "Whether emoji annotations can be match partially or not"
+msgstr "表情符号注释是否可以部分匹配"
+
+msgid ""
+"Whether emoji annotations can be matched with a partial string instead of "
+"the exact match or not."
+msgstr "是否使用部分字符而非完整字符匹配表情注释。"
+
+msgid "Write the registry cache FILE."
+msgstr "写入注册缓存 FILE。"
+
+msgid "Write the system registry cache."
+msgstr "写入系统注册缓存。"
+
+msgid ""
+"XKB icon shows the layout string and the string is rendered with the RGBA "
+"value. The RGBA value can be 1. a color name from X11, 2. a hex value in "
+"form '#rrggbb' where 'r', 'g' and 'b' are hex digits of the red, green, and "
+"blue, 3. a RGB color in form 'rgb(r,g,b)' or 4. a RGBA color in form "
+"'rgba(r,g,b,a)' where 'r', 'g', and 'b' are either integers in the range 0 "
+"to 255 or percentage values in the range 0% to 100%, and 'a' is a floating "
+"point value in the range 0 to 1 of the alpha."
+msgstr ""
+"XKB 图标显示键盘布局字符串并依据 RGBA 值进行渲染。RGBA 值可以是 1. X11 中的颜色名；2. '#rrggbb' "
+"形式的十六进制数，其中 'r', 'g' 和 'b' 分别代表十六进制数字的红、绿和蓝；3. 'rgb(r,g,b)' 形式的 RGB 颜色；或者 4."
+" 'rgba(r,g,b,a)' 形式的 RGBA 颜色，其中 'r', 'g' 和 'b' 分别为 0 到 255 之间的整数值，或者 0% 到 "
+"100% 之间的百分比值，而 'a' 为 0 到 1 之间的浮点透明度。"
+
+msgid "Yijing Hexagram Symbols"
+msgstr "易经六边形符号"
+
+msgid "You can assign an annotation for a favorite emoji in this list."
+msgstr "您可在此列表中为喜欢的表情符号添加注释。"
+
+msgid ""
+"You can show the favorite emojis on emoji list if this list has any "
+"characters."
+msgstr "可在表情符号列表中显示最喜爱的表情符号，但前提是该列表中存在字符。"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Apply"
+msgstr "应用(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Down"
+msgstr "向下(_D)"
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Remove"
+msgstr "删除(_R)"
+
+msgid "_Up"
+msgstr "向上(_U)"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "favorite emoji annotation list on emoji dialog"
+msgstr "表情符号对话框中的最喜爱表情符号注释列表"
+
+msgid "favorite emoji list on emoji dialog"
+msgstr "emoji 面板中的最喜爱的 emoji 列表"
+
+msgid "language: %s\n"
+msgstr "语言： %s\n"
+
+msgid "switching input methods"
+msgstr "切换输入法"
+
+msgid "translator-credits"
+msgstr ""
+"黄鹏 <shawn.p.huang@gmail.com>\n"
+"Fedora 简体中文组 <trans-zh_cn@lists.fedoraproject.org>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Boyuan Yang https://launchpad.net/~hosiet\n"
+"  Christopher Meng https://launchpad.net/~cicku\n"
+"  Copied by Zanata https://launchpad.net/~copied-by-zanata\n"
+"  Heling Yao https://launchpad.net/~hyao\n"
+"  Leah Liu https://launchpad.net/~lliu-redhat\n"
+"  Luo Lei https://launchpad.net/~luolei\n"
+"  Peng Huang https://launchpad.net/~shawn-p-huang\n"
+"  Richard Ma https://launchpad.net/~richard-ma\n"
+"  TeliuTe https://launchpad.net/~teliute\n"
+"  Tiansworld https://launchpad.net/~tiansworld-3\n"
+"  Young Hua https://launchpad.net/~your1friend\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  dengjy https://launchpad.net/~dengjiayin\n"
+"  lovenemesis https://launchpad.net/~lovenemesis\n"
+"  peaceman https://launchpad.net/~zengchang1985\n"
+"  simonyanix https://launchpad.net/~simonyan\n"
+"  sxdhaoren https://launchpad.net/~hupengnihao\n"
+"  wangyu https://launchpad.net/~nameiswangyu"

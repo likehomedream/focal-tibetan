@@ -1,0 +1,560 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cpplib 4.6.0\n"
+"Report-Msgid-Bugs-To: https://gcc.gnu.org/bugs/\n"
+"PO-Revision-Date: 2020-04-13 02:31+0000\n"
+"Last-Translator: Meng Jie <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:34+0000\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-Language: Chinese\n"
+
+msgid "\"%s\" after # is not a positive integer"
+msgstr "# 后的“%s”不是一个正整数"
+
+msgid "\"%s\" after #line is not a positive integer"
+msgstr "#line 后的“%s”不是一个正整数"
+
+msgid "\"%s\" cannot be used as a macro name as it is an operator in C++"
+msgstr "“%s”不能被用作宏名，因为它是 C++ 中的一个操作符"
+
+msgid "\"%s\" is not a valid filename"
+msgstr "“%s”不是一个有效的文件名"
+
+msgid "\"%s\" re-asserted"
+msgstr "重断言“%s”"
+
+msgid "\"%s\" redefined"
+msgstr "“%s”重定义"
+
+msgid "\"/*\" within comment"
+msgstr "“/*”出现在注释中"
+
+msgid "#%s expects \"FILENAME\" or <FILENAME>"
+msgstr "#%s 需要 \"FILENAME\" 或 <FILENAME>"
+
+msgid "#%s is a GCC extension"
+msgstr "#%s 是一个 GCC 扩展"
+
+msgid "#%s is a deprecated GCC extension"
+msgstr "#%s 是一个已过时的 GCC 扩展"
+
+msgid "#elif after #else"
+msgstr "#elif 出现在 #else 后"
+
+msgid "#elif without #if"
+msgstr "#elif 没有匹配的 #if"
+
+msgid "#else after #else"
+msgstr "#else 出现在 #else 后"
+
+msgid "#else without #if"
+msgstr "#else 没有匹配的 #if"
+
+msgid "#endif without #if"
+msgstr "#endif 没有匹配的 #if"
+
+msgid "#include_next in primary source file"
+msgstr "#include_next 出现在主源文件中"
+
+msgid "#pragma %s %s is already registered"
+msgstr "#pragma %s %s 已经被注册"
+
+msgid "#pragma %s is already registered"
+msgstr "#pragma %s 已经被注册"
+
+msgid "#pragma once in main file"
+msgstr "#pragma once 出现在主文件中"
+
+msgid "#pragma system_header ignored outside include file"
+msgstr "#pragma system_heade 在包含文件外被忽略"
+
+msgid "%.*s is not a valid universal character"
+msgstr "%.*s 不是一个有效的 Unicode 字符"
+
+msgid "%s"
+msgstr "%s"
+
+msgid "%s in preprocessing directive"
+msgstr "预处理指示中出现 %s"
+
+msgid "%s: %s"
+msgstr "%s：%s"
+
+msgid "%s: not used because `%.*s' defined as `%s' not `%.*s'"
+msgstr "%s：未使用因为‘%.*s’被定义为‘%s’而非‘%*.s’"
+
+msgid "%s: not used because `%.*s' is poisoned"
+msgstr "%s：未使用因为‘%.*s’已被投毒"
+
+msgid "%s: not used because `%.*s' not defined"
+msgstr "%s：未使用因为‘%.*s’未定义"
+
+msgid "%s: not used because `%s' is defined"
+msgstr "%s：未使用因为‘%s’已定义"
+
+msgid "%s: not used because `__COUNTER__' is invalid"
+msgstr "%s：未使用因为‘__COUNTER__’无效"
+
+msgid "'##' cannot appear at either end of a macro expansion"
+msgstr "‘##’不能出现在宏展开的两端"
+
+msgid "'#' is not followed by a macro parameter"
+msgstr "‘#’后没有宏参数"
+
+msgid "'$' in identifier or number"
+msgstr "‘$’出现在标识符或数字中"
+
+msgid "'?' without following ':'"
+msgstr "‘?’后没有‘:’"
+
+msgid "(\"%s\" is an alternative token for \"%s\" in C++)"
+msgstr "(在 C++ 中“%s”会是“%s”的替代标识符)"
+
+msgid "(this will be reported only once per input file)"
+msgstr "(此警告为每个输入文件只报告一次)"
+
+msgid "C++ style comments are not allowed in ISO C90"
+msgstr "C++ 风格的注释在 ISO C90 中不被允许"
+
+msgid "CPP arithmetic must be at least as precise as a target int"
+msgstr "CPP 算术必须至少具有目标 int 的精度"
+
+msgid "CPP half-integer narrower than CPP character"
+msgstr "CPP 半整数短于 CPP 字符"
+
+msgid ""
+"CPP on this host cannot handle wide character constants over %lu bits, but "
+"the target requires %lu bits"
+msgstr "在此宿主机上，CPP 不能处理长于 %lu 位的宽字符常量，但目标需要 %lu 位"
+
+msgid "ISO C does not permit named variadic macros"
+msgstr "ISO C 不允许有名的可变参数宏"
+
+msgid "ISO C99 requires whitespace after the macro name"
+msgstr "ISO C99 要求宏名后必须有空白"
+
+msgid "In _cpp_valid_ucn but not a UCN"
+msgstr "在 _cpp_valid_ucn 中但不是一个 UCN"
+
+msgid "Multiple include guards may be useful for:\n"
+msgstr "多个防止重包含可能对其有用：\n"
+
+msgid "\\x used with no following hex digits"
+msgstr "\\x 后没有 16 进制数字"
+
+msgid "_Pragma takes a parenthesized string literal"
+msgstr "_Pragma 需要一个括起的字符串字面常量"
+
+msgid "__COUNTER__ expanded inside directive with -fdirectives-only"
+msgstr "带 -fdirectives-only 时 __COUNTER__ 在指示中扩展"
+
+msgid "__VA_ARGS__ can only appear in the expansion of a C99 variadic macro"
+msgstr "__VA_ARGS__ 只能出现在 C99 可变参数宏的展开中"
+
+msgid "`%.*s' is not in NFC"
+msgstr "‘%.*s’不在 NFC 中"
+
+msgid "`%.*s' is not in NFKC"
+msgstr "‘%.*s’不在 NFKC 中"
+
+msgid "anonymous variadic macros were introduced in C99"
+msgstr "匿名可变参数宏在 C99 中被引入"
+
+msgid "assertion without predicate"
+msgstr "断言后没有谓词"
+
+msgid "assertions are a GCC extension"
+msgstr "断言是一个 GCC 扩展"
+
+msgid "assertions are a deprecated extension"
+msgstr "断言是一个已过时的 GCC 扩展"
+
+msgid "attempt to use poisoned \"%s\""
+msgstr "试图使用有毒的“%s”"
+
+msgid "backslash and newline separated by space"
+msgstr "反斜杠和换行为空格所分隔"
+
+msgid "backslash-newline at end of file"
+msgstr "反斜杠续行出现在文件末尾"
+
+msgid "binary constants are a GCC extension"
+msgstr "二进制常量是一个 GCC 扩展"
+
+msgid "cannot find source file %s"
+msgstr "找不到源文件 %s"
+
+msgid "character 0x%lx is not in the basic source character set\n"
+msgstr "字符 0x%lx 不在基本源字符集中\n"
+
+msgid "character 0x%lx is not unibyte in execution character set"
+msgstr "字符 0x%lx 在执行字符集中不是单字节的"
+
+msgid "character constant too long for its type"
+msgstr "字符常量大小超出其类型"
+
+msgid "comma operator in operand of #if"
+msgstr "#if 操作数中出现逗号"
+
+msgid "conversion from %s to %s not supported by iconv"
+msgstr "iconv 不支持从 %s 到 %s 的转换"
+
+msgid "converting UCN to execution character set"
+msgstr "将 UCN 转换到执行字符集"
+
+msgid "converting UCN to source character set"
+msgstr "将 UCN 转换到源字符集"
+
+msgid "converting escape sequence to execution character set"
+msgstr "将转义序列转换到执行字符集"
+
+msgid "converting to execution character set"
+msgstr "转换到可执行文件的字符集"
+
+msgid "could not determine date and time"
+msgstr "无法决定日期与时间"
+
+msgid "could not determine file timestamp"
+msgstr "无法决定文件的时间戳"
+
+msgid "cppchar_t must be an unsigned type"
+msgstr "cppchar_t 必须是无符号型"
+
+msgid "current file is older than %s"
+msgstr "当前文件早于 %s"
+
+msgid "detected recursion whilst expanding macro \"%s\""
+msgstr "展开宏“%s”时检测到递归"
+
+msgid "division by zero in #if"
+msgstr "#if 中用零做除数"
+
+msgid "duplicate macro parameter \"%s\""
+msgstr "重复的宏参数“%s”"
+
+msgid "embedding a directive within macro arguments is not portable"
+msgstr "将一个指示嵌入宏参数中是不可移植的"
+
+msgid "empty character constant"
+msgstr "空的字符常量"
+
+msgid "empty filename in #%s"
+msgstr "#%s 中文件名为空"
+
+msgid "extra tokens at end of #%s directive"
+msgstr "#%s 指示的末尾有多余的标识符"
+
+msgid "failure to convert %s to %s"
+msgstr "无法从 %s 转换到 %s"
+
+msgid "fixed-point constants are a GCC extension"
+msgstr "定点常量是一个 GCC 扩展"
+
+msgid "floating constant in preprocessor expression"
+msgstr "浮点常量出现在预处理表达式中"
+
+msgid "function-like macro \"%s\" must be used with arguments in traditional C"
+msgstr "类似函数的宏“%s”在传统 C 中必须与参数一起使用"
+
+msgid "hex escape sequence out of range"
+msgstr "16 进制转义序列越界"
+
+msgid "iconv_open"
+msgstr "iconv_open"
+
+msgid "identifier \"%s\" is a special operator name in C++"
+msgstr "标识符“%s”是 C++ 中的一个特殊操作符"
+
+msgid "imaginary constants are a GCC extension"
+msgstr "虚数常量是一个 GCC 扩展"
+
+msgid "imaginary number in preprocessor expression"
+msgstr "预处理表达式中出现虚数"
+
+msgid "impossible operator '%u'"
+msgstr "不可能的操作‘%u’"
+
+msgid "incomplete universal character name %.*s"
+msgstr "不完全的 Unicode 字符名 %.*s"
+
+msgid "integer constant is so large that it is unsigned"
+msgstr "整数常量太大，认定为 unsigned"
+
+msgid "integer constant is too large for its type"
+msgstr "整数常量值超出其类型"
+
+msgid "integer overflow in preprocessor expression"
+msgstr "预处理表达式中整数溢出"
+
+msgid "invalid #%s directive"
+msgstr "无效的 #%s 指示"
+
+msgid "invalid #pragma GCC poison directive"
+msgstr "无效的 #pragma GCC poison 指示"
+
+msgid "invalid #pragma pop_macro directive"
+msgstr "无效的 #pragma pop_macro 指示"
+
+msgid "invalid #pragma push_macro directive"
+msgstr "无效的 #pragma push_macro 指示"
+
+msgid "invalid built-in macro \"%s\""
+msgstr "无效的内建宏“%s”"
+
+msgid "invalid character '%c' in raw string delimiter"
+msgstr "原始字符串分隔符中有无效字符‘%c’"
+
+msgid "invalid flag \"%s\" in line directive"
+msgstr "line 指示中有无效的标记“%s”"
+
+msgid "invalid prefix \"0b\" for floating constant"
+msgstr "浮点常量的“0b”前缀无效"
+
+msgid "invalid preprocessing directive #%s"
+msgstr "无效的预处理指示 #%s"
+
+msgid "invalid string literal, ignoring final '\\'"
+msgstr "无效的字面字符串，忽略最后的‘\\’"
+
+msgid "invalid suffix \"%.*s\" on floating constant"
+msgstr "浮点常量的“%.*s”后缀无效"
+
+msgid "invalid suffix \"%.*s\" on integer constant"
+msgstr "整数常量的“%.*s”后缀无效"
+
+msgid "invalid suffix \"%.*s\" with hexadecimal floating constant"
+msgstr "十六进制浮点常量的“%.*s”后缀无效"
+
+msgid "line number out of range"
+msgstr "行号超出范围"
+
+msgid "macro \"%s\" is not used"
+msgstr "宏“%s”未被使用"
+
+msgid "macro \"%s\" passed %u arguments, but takes just %u"
+msgstr "宏“%s”传递了 %u 个参数，但只需要 %u 个"
+
+msgid "macro \"%s\" requires %u arguments, but only %u given"
+msgstr "宏“%s”需要 %u 个参数，但只给出了 %u 个"
+
+msgid "macro argument \"%s\" would be stringified in traditional C"
+msgstr "宏参数“%s”将在传统 C 中被字符串化"
+
+msgid "macro names must be identifiers"
+msgstr "宏名必须是标识符"
+
+msgid "missing '(' after predicate"
+msgstr "谓词后缺少‘(’"
+
+msgid "missing '(' in expression"
+msgstr "表达式中缺少‘(’"
+
+msgid "missing ')' after \"defined\""
+msgstr "“defined” 后出现‘)’"
+
+msgid "missing ')' in expression"
+msgstr "表达式中缺少‘)’"
+
+msgid "missing ')' to complete answer"
+msgstr "完整的答案缺少‘)’"
+
+msgid "missing terminating %c character"
+msgstr "缺少结尾的 %c 字符"
+
+msgid "missing terminating > character"
+msgstr "缺少结尾的 > 字符"
+
+msgid "missing whitespace after the macro name"
+msgstr "宏名后缺少空白"
+
+msgid "multi-character character constant"
+msgstr "多字节字符常量"
+
+msgid "multi-line comment"
+msgstr "多行注释"
+
+msgid "no iconv implementation, cannot convert from %s to %s"
+msgstr "没有 iconv 的实现，无法从 %s 转换到 %s"
+
+msgid "no include path in which to search for %s"
+msgstr "没有包含路径可供搜索 %s"
+
+msgid "no macro name given in #%s directive"
+msgstr "#%s 指示中未给出宏名"
+
+msgid "non-ISO-standard escape sequence, '\\%c'"
+msgstr "非 ISO 标准的转义序列，‘\\%c’"
+
+msgid "null character(s) ignored"
+msgstr "忽略空字符"
+
+msgid "null character(s) preserved in literal"
+msgstr "空字符将保留在字面字符串中"
+
+msgid "octal escape sequence out of range"
+msgstr "8 进制转义序列越界"
+
+msgid "one or more PCH files were found, but they were invalid"
+msgstr "找到一个或多个 PCH 文件，但它们是无效的"
+
+msgid "operator \"defined\" requires an identifier"
+msgstr "操作符“defined”需要一个标识符"
+
+msgid "pasting \"%s\" and \"%s\" does not give a valid preprocessing token"
+msgstr "毗连“%s”和“%s”不能给出一个有效的预处理标识符"
+
+msgid "poisoning existing macro \"%s\""
+msgstr "对已存在的宏“%s”投毒"
+
+msgid "predicate must be an identifier"
+msgstr "谓词必须是一个标识符"
+
+msgid "predicate's answer is empty"
+msgstr "谓词的答案为空"
+
+msgid ""
+"preprocessor arithmetic has maximum precision of %lu bits; target requires "
+"%lu bits"
+msgstr "预处理算术的最高精度为 %lu 位；目标需要 %lu 位"
+
+msgid "raw string delimiter longer than 16 characters"
+msgstr "原始字符串分隔符长过 16 个字符"
+
+msgid "registering \"%s\" as both a pragma and a pragma namespace"
+msgstr "“%s”既被注册为一个pragma 又被注册为一个 pragma 命名空间"
+
+msgid "registering pragma \"%s\" with name expansion and no namespace"
+msgstr "pragma “%s”被注册为一个命名扩展，而没有命名空间"
+
+msgid "registering pragma with NULL handler"
+msgstr "pragma 注册为被 NULL 处理"
+
+msgid "registering pragmas in namespace \"%s\" with mismatched name expansion"
+msgstr "在命名空间“%s”中注册 pragma 时名称扩展不匹配"
+
+msgid "stdout"
+msgstr "stdout"
+
+msgid "style of line directive is a GCC extension"
+msgstr "line 指示的风格是一个 GCC 扩展"
+
+msgid "suffix for double constant is a GCC extension"
+msgstr "双精度常量后缀是一个 GCC 扩展"
+
+msgid "suggest hiding #%s from traditional C with an indented #"
+msgstr "建议使用缩进的 # 以让 #%s 对传统 C 不可见"
+
+msgid "suggest not using #elif in traditional C"
+msgstr "建议在传统 C 中不使用 #elif"
+
+msgid "syntax error in macro parameter list"
+msgstr "宏参数列表语法错误"
+
+msgid "target char is less than 8 bits wide"
+msgstr "目标 char 短于 8 位"
+
+msgid "target int is narrower than target char"
+msgstr "目标 int 短于目标 char"
+
+msgid "target wchar_t is narrower than target char"
+msgstr "目录 wchar_t 短于目标 char"
+
+msgid "the conditional began here"
+msgstr "条件自此开始"
+
+msgid "the left operand of \"%s\" changes sign when promoted"
+msgstr "“%s”的左操作数在提升时变换了符号"
+
+msgid "the meaning of '\\%c' is different in traditional C"
+msgstr "‘\\%c’的意义与在传统 C 中不同"
+
+msgid "the meaning of '\\a' is different in traditional C"
+msgstr "‘\\a’的意义与在传统 C 中不同"
+
+msgid "the meaning of '\\x' is different in traditional C"
+msgstr "‘\\x’的意义与在传统 C 中不同"
+
+msgid "the right operand of \"%s\" changes sign when promoted"
+msgstr "“%s”的右操作数在提升时变换了符号"
+
+msgid "this is the location of the previous definition"
+msgstr "这是先前定义的位置"
+
+msgid "this use of \"defined\" may not be portable"
+msgstr "使用“defined”可能不利于移植"
+
+msgid "traditional C ignores #%s with the # indented"
+msgstr "当 # 有缩进时传统 C 忽略 #%s"
+
+msgid "traditional C rejects the \"%.*s\" suffix"
+msgstr "传统 C 不接受“%.*s”后缀"
+
+msgid "traditional C rejects the unary plus operator"
+msgstr "传统 C 不接受单目 + 运算符"
+
+msgid "trigraph ??%c converted to %c"
+msgstr "三元符 ??%c 转换为 %c"
+
+msgid "trigraph ??%c ignored, use -trigraphs to enable"
+msgstr "三元符 ??%c 被忽略，请使用 -trigraphs 来启用"
+
+msgid "unbalanced stack in %s"
+msgstr "%s 中堆栈不平衡"
+
+msgid "undefining \"%s\""
+msgstr "取消对“%s”的定义"
+
+msgid "unexpected end of file after #line"
+msgstr "#line 后未预期的文件结束"
+
+msgid "universal character %.*s is not valid at the start of an identifier"
+msgstr "Unicode 字符 %.*s 在标识符开头无效"
+
+msgid "universal character %.*s is not valid in an identifier"
+msgstr "Unicode 字符 %.*s 在标识符中无效"
+
+msgid "universal character names are only valid in C++ and C99"
+msgstr "Unicode 字符名只在 C++ 和 C99 中有效"
+
+msgid "unknown escape sequence: '\\%c'"
+msgstr "未知的转义序列：‘\\%c’"
+
+msgid "unknown escape sequence: '\\%s'"
+msgstr "未知的转义序列：‘\\%s’"
+
+msgid "unspellable token %s"
+msgstr "无法拼出的标识符 %s"
+
+msgid "unterminated #%s"
+msgstr "未终止的 #%s"
+
+msgid "unterminated argument list invoking macro \"%s\""
+msgstr "调用宏“%s”时参数列表未终止"
+
+msgid "unterminated comment"
+msgstr "未结束的注释"
+
+msgid "unterminated raw string"
+msgstr "未终止的原始字符串"
+
+msgid "use -Winvalid-pch for more information"
+msgstr "使用 -Winvalid-pch 以获得更多信息"
+
+msgid "use of C99 hexadecimal floating constant"
+msgstr "使用 C99 式的 16 进制浮点常量"
+
+msgid "use of C99 long long integer constant"
+msgstr "使用 C99 long long 整数常量"
+
+msgid "while reading precompiled header"
+msgstr "在读取预编译头时"
+
+msgid "while writing precompiled header"
+msgstr "在写入预编译头时"

@@ -1,0 +1,597 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: polari master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/polari/issues\n"
+"PO-Revision-Date: 2020-04-16 04:07+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:03+0000\n"
+
+msgid "%A, %H∶%M"
+msgstr "%A，%H:%M"
+
+msgid "%A, %l∶%M %p"
+msgstr "%A，%p %l:%M"
+
+msgid "%B %d %Y, %H∶%M"
+msgstr "%Y年%-m月%-d日，%H:%M"
+
+msgid "%B %d %Y, %l∶%M %p"
+msgstr "%Y年%-m月%-d日，%p %l:%M"
+
+msgid "%B %d, %H∶%M"
+msgstr "%-m月%-d日，%H:%M"
+
+msgid "%B %d, %l∶%M %p"
+msgstr "%-m月%-d日，%p %l:%M"
+
+msgid "%H∶%M"
+msgstr "%H:%M"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d 天前"
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d 小时前"
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d 分钟前"
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] "%d 个月前"
+
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] "%d 秒前"
+
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] "%d 个用户"
+
+msgid "%d user joined"
+msgid_plural "%d users joined"
+msgstr[0] "%d 个用户已加入"
+
+msgid "%d user left"
+msgid_plural "%d users left"
+msgstr[0] "%d 个用户已离开"
+
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] "%d 周前"
+
+msgid "%l∶%M %p"
+msgstr "%p %l:%M"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s has been banned"
+msgstr "%s 已被禁言"
+
+msgid "%s has been banned by %s"
+msgstr "%s 已被 %s 禁言"
+
+msgid "%s has been kicked"
+msgstr "%s 已被踢出"
+
+msgid "%s has been kicked by %s"
+msgstr "%s 已被 %s 踢出"
+
+msgid "%s has disconnected"
+msgstr "%s 已断开连接"
+
+msgid "%s is now known as %s"
+msgstr "%s 现在已改名为 %s"
+
+msgid "%s joined"
+msgstr "%s 已加入"
+
+msgid "%s left"
+msgstr "%s 已离开"
+
+msgid "%s removed."
+msgstr "%s 已移除。"
+
+msgid "%s requires a password."
+msgstr "%s 需要密码。"
+
+msgid ""
+"/CLOSE [<channel>] [<reason>] — closes <channel>, by default the current one"
+msgstr "/CLOSE [<聊天室>] [<原因>]——关闭 <聊天室>，默认为当前聊天室"
+
+msgid ""
+"/HELP [<command>] — displays help for <command>, or a list of available "
+"commands"
+msgstr "/HELP [<命令>]——显示 <命令> 的帮助，或是列出可用的命令"
+
+msgid ""
+"/INVITE <nick> [<channel>] — invites <nick> to <channel>, or the current one"
+msgstr "/INVITE <昵称> [<聊天室>]——邀请 <昵称> 到 <聊天室> 或当前的聊天室"
+
+msgid "/JOIN <channel> — joins <channel>"
+msgstr "/JOIN <聊天室>——加入 <聊天室>"
+
+msgid "/KICK <nick> — kicks <nick> from current channel"
+msgstr "/KICK <昵称>——将 <昵称> 从当前聊天室踢出"
+
+msgid "/ME <action> — sends <action> to the current channel"
+msgstr "/ME <动作>——发送 <动作> 到当前的聊天室"
+
+msgid "/MSG <nick> [<message>] — sends a private message to <nick>"
+msgstr "/MSG <昵称> [<消息>]——向 <昵称> 发送一条私人消息"
+
+msgid "/NAMES — lists users on the current channel"
+msgstr "/NAMES——列出当前聊天室的用户"
+
+msgid "/NICK <nickname> — sets your nick to <nickname>"
+msgstr "/NICK <昵称>——将您的昵称设为 <昵称>"
+
+msgid ""
+"/PART [<channel>] [<reason>] — leaves <channel>, by default the current one"
+msgstr "/PART [<聊天室>] [<原因>]——离开 <聊天室>，默认为当前聊天室"
+
+msgid "/QUERY <nick> — opens a private conversation with <nick>"
+msgstr "/QUERY <昵称>——开启一个和 <昵称> 的私人对话"
+
+msgid "/QUIT [<reason>] — disconnects from the current server"
+msgstr "/QUIT [<原因>]——从当前服务器断开连接"
+
+msgid "/SAY <text> — sends <text> to the current room/contact"
+msgstr "/SAY <文本>——发送 <文本> 到当前的聊天室/联系人"
+
+msgid "/TOPIC <topic> — sets the topic to <topic>, or shows the current one"
+msgstr "/TOPIC <话题>——设置话题到 <话题> 或显示当前的话题"
+
+msgid ""
+"A simple Internet Relay Chat (IRC) client that is designed to integrate "
+"seamlessly with GNOME; it features a simple and beautiful interface which "
+"allows you to focus on your conversations."
+msgstr "一款简单的网络中继聊天（IRC）客户端，与 GNOME 无缝整合；它的特性是界面简洁美观，使您可以专注于聊天。"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Add Network"
+msgstr "添加网络"
+
+msgid "Add rooms and networks"
+msgstr "添加聊天室和网络"
+
+msgid "Allow running alongside another instance"
+msgstr "允许与另一实例同时运行"
+
+msgid "Already added"
+msgstr "已经加入"
+
+msgid "An Internet Relay Chat Client for GNOME"
+msgstr "GNOME 的 IRC 客户端"
+
+msgid "Available in another room."
+msgstr "在另一聊天室在线。"
+
+msgid "C_onnection"
+msgstr "连接(_O)"
+
+msgid "Change nickname"
+msgstr "更改昵称"
+
+msgid "Change nickname:"
+msgstr "更改昵称："
+
+msgid "Command used to identify with bot"
+msgstr "与机器人进行 IDENTIFY 所用的命令"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connected"
+msgstr "已连接"
+
+msgid "Connecting…"
+msgstr "正在连接…"
+
+msgid "Connection Problem"
+msgstr "连接问题"
+
+msgid "Copy Link Address"
+msgstr "复制链接地址"
+
+msgid "Could not connect to %s in a safe way."
+msgstr "无法建立到 %s 的安全连接。"
+
+msgid "Could not connect to %s."
+msgstr "无法连接到 %s。"
+
+msgid "Could not connect to %s. The server is busy."
+msgstr "无法建立到 %s 的连接。服务器正忙。"
+
+msgid "Disconnect"
+msgstr "断开连接"
+
+msgid "End conversation"
+msgstr "结束对话"
+
+msgid "Enter room name to add"
+msgstr "输入要添加的聊天室名称"
+
+msgid "Failed to open link"
+msgstr "无法打开链接"
+
+msgid "Good Bye"
+msgstr "再见"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "IRC;Internet;Relay;Chat;"
+msgstr "IRC;Internet;Relay;Chat;网络;互联网;中继;聊天;聊天室;"
+
+msgid ""
+"Identification will happen automatically the next time you connect to %s"
+msgstr "下次连接到 %s 时会自动进行身份鉴别"
+
+msgid "Identify botname"
+msgstr "IDENTIFY 机器人名称"
+
+msgid "Identify command"
+msgstr "IDENTIFY 命令"
+
+msgid "Identify username"
+msgstr "IDENTIFY 用户名"
+
+msgid "Identify username supported"
+msgstr "支持 IDENTIFY 用户名"
+
+msgid "Join Chat Room"
+msgstr "加入聊天室"
+
+msgid "Join a room using the + button."
+msgstr "使用 + 按钮加入聊天室。"
+
+msgid "Keep running in background when closed."
+msgstr "关闭时保持在后台运行。"
+
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+msgid "Known commands:"
+msgstr "已知命令："
+
+msgid "Last Activity:"
+msgstr "最近活动："
+
+msgid "Last active (selected) channel"
+msgstr "最后活动（选中）的聊天室"
+
+msgid "Last active channel"
+msgstr "最近活跃的聊天室"
+
+msgid "Learn more about Polari"
+msgstr "了解关于 Polari 的更多信息"
+
+msgid "Leave chatroom"
+msgstr "离开聊天室"
+
+msgid "List of channels to restore on startup"
+msgstr "启动时恢复的聊天室列表"
+
+msgid "Loading details"
+msgstr "正在加载详情"
+
+msgid "Net_work Name"
+msgstr "网络名称(_W)"
+
+msgid "Network %s has an error"
+msgstr "连接 %s 存在错误"
+
+msgid "New Messages"
+msgstr "新消息"
+
+msgid "Nickname of the bot to identify with"
+msgstr "用于 IDENTIFY 命令的机器人名称"
+
+msgid "No results."
+msgstr "无结果。"
+
+msgid "No topic set"
+msgstr "未设置话题"
+
+msgid "Not connected"
+msgstr "未连接"
+
+msgid "Offline"
+msgstr "离线"
+
+msgid "Online"
+msgstr "在线"
+
+msgid "Open Link"
+msgstr "打开链接"
+
+msgid "Paste %s line of text to public paste service?"
+msgid_plural "Paste %s lines of text to public paste service?"
+msgstr[0] "要将 %s 行文本粘贴到公共剪贴板服务吗？"
+
+msgid "Paste from %s"
+msgstr "从 %s 粘贴"
+
+msgid "Please connect to the internet to continue the setup."
+msgstr "请连接到互联网以继续设置。"
+
+msgid "Polari"
+msgstr "Polari"
+
+msgid "Polari NickServ password for %s"
+msgstr "%s 的 Polari 昵称服务 (NickServ) 密码"
+
+msgid "Polari Setup"
+msgstr "Polari 设置"
+
+msgid ""
+"Polari disconnected due to a network error. Please check if the address "
+"field is correct."
+msgstr "Polari 因网络错误断开了连接。请检查是否正确填入了地址。"
+
+msgid ""
+"Polari is an easy way to chat using IRC. Select a network to get started."
+msgstr "Polari 是个使用 IRC 聊天的简单方式。请选择一个网络以开始。"
+
+msgid "Polari server password for %s"
+msgstr "%s 的 Polari 服务器密码"
+
+msgid "Print version and exit"
+msgstr "显示版本并退出"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Reconnect"
+msgstr "重新连接"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Run in Background"
+msgstr "后台运行"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Saved channel list"
+msgstr "已保存的聊天室列表"
+
+msgid ""
+"Select rooms you want to connect to. You can add more networks and rooms "
+"later, by clicking the + button."
+msgstr "选择您想连接的聊天室。您可以通过点击“+”按钮，稍后添加更多的网络和聊天室。"
+
+msgid "Should the password be saved?"
+msgstr "是否保存该密码？"
+
+msgid "Show connected users"
+msgstr "显示已连接的用户"
+
+msgid "Start Conversation"
+msgstr "开始对话"
+
+msgid "Start Telepathy client"
+msgstr "启动 Telepathy 客户端"
+
+msgid "Undo"
+msgstr "撤消"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown command — try /HELP for a list of available commands"
+msgstr "未知命令——使用 /HELP 列出可用的命令"
+
+msgid "Upload image to public paste service?"
+msgstr "要将图像上传到公共剪贴板服务吗？"
+
+msgid "Upload “%s” to public paste service?"
+msgstr "要将“%s”上传到公共剪贴板服务吗？"
+
+msgid "Uploading %s line of text to public paste service…"
+msgid_plural "Uploading %s lines of text to public paste service…"
+msgstr[0] "正在将 %s 行文本上传到公共剪贴板服务…"
+
+msgid "Uploading image to public paste service…"
+msgstr "正在将图像上传到公共剪贴板服务…"
+
+msgid "Uploading “%s” to public paste service…"
+msgstr "正在将“%s”上传到公共剪贴板服务…"
+
+msgid "Usage: %s"
+msgstr "用法：%s"
+
+msgid "Use secure c_onnection"
+msgstr "使用安全连接(_O)"
+
+msgid "User %s is now online."
+msgstr "用户 %s 现在在线。"
+
+msgid "User is online"
+msgstr "用户在线"
+
+msgid "Username to use in identify command"
+msgstr "用于 IDENTIFY 命令的用户名"
+
+msgid "Users on %s:"
+msgstr "%s 上的用户："
+
+msgid "Welcome to Polari"
+msgstr "欢迎使用 Polari"
+
+msgid ""
+"Whether the identify command is known to support the username parameter"
+msgstr "IDENTIFY 命令是否支持用户名参数"
+
+msgid "Will notify if user appears online."
+msgstr "将通知用户是否在线。"
+
+msgid "Window maximized"
+msgstr "窗口最大化"
+
+msgid "Window maximized state"
+msgstr "窗口最大化状态"
+
+msgid "Window size"
+msgstr "窗口大小"
+
+msgid "Window size (width and height)."
+msgstr "窗口大小（宽和高）。"
+
+msgid "Yesterday, %H∶%M"
+msgstr "昨天，%H:%M"
+
+msgid "Yesterday, %l∶%M %p"
+msgstr "昨天，%p %l:%M"
+
+msgid ""
+"You can use Polari to publicly chat with people in a channel, and to have "
+"private one-to-one conversations. Notifications make sure that you never "
+"miss an important message — for private conversations, they even allow you "
+"to reply instantly without switching back to the application!"
+msgstr ""
+"您可以使用 Polari 在聊天室里与大家交谈，也可以进行一对一的私人谈话。通知推送可以确保您不会漏掉任何重要的消息——您甚至可以不切换回 Polari"
+" 即可及时回复私人信息！"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Add Network"
+msgstr "添加网络(_A)"
+
+msgid "_Apply"
+msgstr "应用(_A)"
+
+msgid "_Back"
+msgstr "返回(_B)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Change"
+msgstr "更改(_C)"
+
+msgid "_Custom Network"
+msgstr "自定义网络(_C)"
+
+msgid "_Done"
+msgstr "完成(_D)"
+
+msgid "_Join"
+msgstr "加入(_J)"
+
+msgid "_Next"
+msgstr "前进(_N)"
+
+msgid "_Nickname"
+msgstr "昵称(_N)"
+
+msgid "_Paste"
+msgstr "粘贴(_P)"
+
+msgid "_Real Name"
+msgstr "真名(_R)"
+
+msgid "_Save Password"
+msgstr "保存密码(_S)"
+
+msgid "_Server Address"
+msgstr "服务器地址(_S)"
+
+msgid "optional"
+msgstr "可选"
+
+msgid "org.gnome.Polari"
+msgstr "org.gnome.Polari"
+
+msgctxt "shortcut window"
+msgid "First Room"
+msgstr "第一个聊天室"
+
+msgctxt "shortcut window"
+msgid "First – Ninth Room"
+msgstr "第 1～9 个聊天室"
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr "常规"
+
+msgctxt "shortcut window"
+msgid "Join Room"
+msgstr "加入聊天室"
+
+msgctxt "shortcut window"
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+msgctxt "shortcut window"
+msgid "Last Room"
+msgstr "最后一个聊天室"
+
+msgctxt "shortcut window"
+msgid "Leave Room"
+msgstr "离开聊天室"
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr "导航"
+
+msgctxt "shortcut window"
+msgid "Next Room"
+msgstr "下一个聊天室"
+
+msgctxt "shortcut window"
+msgid "Next Room with Unread Messages"
+msgstr "下一个有未读消息的聊天室"
+
+msgctxt "shortcut window"
+msgid "Previous Room"
+msgstr "上一个聊天室"
+
+msgctxt "shortcut window"
+msgid "Previous Room with Unread Messages"
+msgstr "上一个有未读消息的聊天室"
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "退出"
+
+msgctxt "shortcut window"
+msgid "Show Emoji Picker"
+msgstr "显示表情选择器"
+
+msgctxt "shortcut window"
+msgid "Show Userlist"
+msgstr "显示用户列表"
+
+msgid "translator-credits"
+msgstr ""
+"tuhaihe <1132321739qq@gmail.com>, 2013\n"
+"Sphinx Jiang <yishanj13@gmail.com>, 2014\n"
+"Mandy Wang <wangmychn@gmail.com>, 2016\n"
+"Mingcong Bai <jeffbai@aosc.xyz>, 2016, 2017, 2018\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2017, 2018\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Jeff Bai https://launchpad.net/~jeffbai"
+
+msgid "“%s” Properties"
+msgstr "“%s”属性"

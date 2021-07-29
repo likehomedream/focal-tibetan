@@ -1,0 +1,338 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtksourceview master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gtksourceview\n"
+"PO-Revision-Date: 2018-05-30 06:07+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese Simplified <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:39+0000\n"
+
+msgid "After"
+msgstr "之后"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All _Lower Case"
+msgstr "全部小写(_L)"
+
+msgid "All _Upper Case"
+msgstr "全部大写(_U)"
+
+msgid "Always"
+msgstr "总是"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Armenian"
+msgstr "亚美尼亚语"
+
+msgid "Baltic"
+msgstr "波罗的海语"
+
+msgid "Before"
+msgstr "之前"
+
+msgid "Blue based color scheme"
+msgstr "蓝色经典配色方案"
+
+msgid "C++ Header"
+msgstr "C++ 头文件"
+
+msgid "C/ObjC Header"
+msgstr "C/C++/ObjC 头文件"
+
+msgid "CG Shader Language"
+msgstr "CG Shader 语言"
+
+msgid "C_hange Case"
+msgstr "更改大小写(_H)"
+
+msgid ""
+"Cannot create a regex for all the transitions, the syntax highlighting process will be slower than usual.\n"
+"The error was: %s"
+msgstr ""
+"无法为所有的转换创建正则表达式，语法加亮进程将会比正常情况慢。\n"
+"错误是：%s"
+
+msgid "Celtic"
+msgstr "凯尔特语"
+
+msgid "Central European"
+msgstr "中欧"
+
+msgid "Chinese Simplified"
+msgstr "简体中文"
+
+msgid "Chinese Traditional"
+msgstr "繁体中文"
+
+msgid "Classic"
+msgstr "经典"
+
+msgid "Classic color scheme"
+msgstr "经典配色方案"
+
+msgid "Cobalt"
+msgstr "Cobalt"
+
+msgid "Color scheme used in the Kate text editor"
+msgstr "使用 Kate 调色板中的配色方案"
+
+msgid "Color scheme using Solarized dark color palette"
+msgstr "使用 Solarized dark 调色板的配色方案"
+
+msgid "Color scheme using Solarized light color palette"
+msgstr "使用 Solarized light 调色板的配色方案"
+
+msgid "Color scheme using Tango color palette"
+msgstr "使用 Tango 调色板中配色方案"
+
+msgid "Completion Info"
+msgstr "关于补全的信息"
+
+msgid "Conversion from character set “%s” to “UTF-8” is not supported"
+msgstr "不支持从字符集“%s”向“UTF-8”转换"
+
+msgid "Could not open converter from “%s” to “UTF-8”"
+msgstr "无法打开从“%s”向“UTF-8”的转换器"
+
+msgid "Cyrillic"
+msgstr "西里尔文"
+
+msgid "Cyrillic/Russian"
+msgstr "西里尔文/俄文"
+
+msgid "Cyrillic/Ukrainian"
+msgstr "西里尔文/乌克兰语"
+
+msgid "DOS Batch"
+msgstr "DOS 批处理"
+
+msgid "Dark color scheme using the Tango color palette"
+msgstr "使用 Tango 调色板的暗配色方案"
+
+msgid "Disabled"
+msgstr "禁用"
+
+msgid "Django Template"
+msgstr "Django 模板"
+
+msgid "Document Words"
+msgstr "文档字数"
+
+msgid "Error during conversion: %s"
+msgstr "转换时出错：%s"
+
+msgid "File too big."
+msgstr "文件过大。"
+
+msgid "GDB Log"
+msgstr "GDB 日志"
+
+msgid "Georgian"
+msgstr "格鲁吉亚语"
+
+msgid "Greek"
+msgstr "希腊语"
+
+msgid "Hebrew"
+msgstr "希伯来文"
+
+msgid "Hebrew Visual"
+msgstr "希伯来视觉"
+
+msgid ""
+"Highlighting a single line took too much time, syntax highlighting will be "
+"disabled"
+msgstr "加亮一整行花费的时间太多，语法加亮将被禁用"
+
+msgid "Incomplete UTF-8 sequence in input"
+msgstr "输入中含有不完整的 UTF-8 序列"
+
+msgid "Invalid byte sequence in conversion input"
+msgstr "转换输入中的无效字节序列"
+
+msgid "Invalid object, not initialized"
+msgstr "无效对象，无法初始化"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "Kate"
+msgstr "Kate"
+
+msgid "Korean"
+msgstr "韩语"
+
+msgid "LLVM IR"
+msgstr "LLVM IR"
+
+msgid "Leading"
+msgstr "前导"
+
+msgid "Markup"
+msgstr "标记"
+
+msgid "Missing main language definition (id = \"%s\".)"
+msgstr "缺少主要语言定义(id = “%s”)。"
+
+msgid "Newline"
+msgstr "新行"
+
+msgid "Non Breaking Whitespace"
+msgstr "无间断空格"
+
+msgid "Nordic"
+msgstr "北欧语"
+
+msgid "Not a regular file."
+msgstr "不是普通文件"
+
+msgid "Oblivion"
+msgstr "Oblivion"
+
+msgid "OpenGL Shading Language"
+msgstr "OpenGL 着色语言"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Others"
+msgstr "其他"
+
+msgid "Provider"
+msgstr "提供者"
+
+msgid "RPM spec"
+msgstr "RPM spec"
+
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+msgid "Scientific"
+msgstr "科学"
+
+msgid "Script"
+msgstr "脚本"
+
+msgid "Select a Style"
+msgstr "选择风格"
+
+msgid "Show detailed proposal information"
+msgstr "显示详细建议信息"
+
+msgid "Solarized Dark"
+msgstr "Solarized Dark"
+
+msgid "Solarized Light"
+msgstr "Solarized Light"
+
+msgid "Source"
+msgstr "源代码"
+
+msgid "South European"
+msgstr "南欧"
+
+msgid "Space"
+msgstr "空格"
+
+msgid "Tab"
+msgstr "标签"
+
+msgid "Tango"
+msgstr "Tango"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Thai"
+msgstr "泰语"
+
+msgid "The buffer contains invalid characters."
+msgstr "缓存中包含错误字符。"
+
+msgid "The file is externally modified."
+msgstr "文件被其他程序修改。"
+
+msgid ""
+"There was a character encoding conversion error and it was needed to use a "
+"fallback character."
+msgstr "发生了字符编码转换错误，需要使用回退字符。"
+
+msgid "Trailing"
+msgstr "尾随"
+
+msgid "Turkish"
+msgstr "土耳其语"
+
+msgid "Unicode"
+msgstr "万国码"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown id “%s” in regex “%s”"
+msgstr "正则表达式“%2$s”中的未知 ID “%1$s”"
+
+msgid "Vietnamese"
+msgstr "越南语"
+
+msgid "Western"
+msgstr "西文"
+
+msgid "['UTF-8', 'CURRENT', 'ISO-8859-15', 'UTF-16']"
+msgstr "['CURRENT', 'GBK', 'UTF-8', 'UTF-16']"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Details…"
+msgstr "详情(_D)…"
+
+msgid "_Invert Case"
+msgstr "反转大小写(_I)"
+
+msgid "_Redo"
+msgstr "重做(_R)"
+
+msgid "_Select"
+msgstr "选择(_S)"
+
+msgid "_Title Case"
+msgstr "词首字母大写(_T)"
+
+msgid "_Undo"
+msgstr "撤销(_U)"
+
+msgid "context “%s” cannot contain a \\%%{...@start} command"
+msgstr "上下文“%s”不能包含一个 \\%%{...@start} 命令"
+
+msgid "duplicated context id “%s”"
+msgstr "重复的上下文 id “%s”"
+
+msgid "gettext translation"
+msgstr "gettext 翻译"
+
+msgid "in regex “%s”: backreferences are not supported"
+msgstr "在正则表达式“%s”中：不支持向后引用"
+
+msgid "invalid context reference “%s”"
+msgstr "无效的上下文引用“%s”"
+
+msgid ""
+"style override used with wildcard context reference in language “%s” in ref "
+"“%s”"
+msgstr "语言“%s”在参考“%s”中与通配符上下文引用一同使用的样式覆盖"
+
+msgid "unknown context “%s”"
+msgstr "未知的上下文“%s”"
+
+msgid "using \\C is not supported in language definitions"
+msgstr "语言定义中不支持使用 \\C"

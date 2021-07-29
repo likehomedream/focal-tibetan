@@ -1,0 +1,5464 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: e2fsprogs-1.45.3\n"
+"Report-Msgid-Bugs-To: tytso@alum.mit.edu\n"
+"PO-Revision-Date: 2020-04-04 14:38+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:52+0000\n"
+"X-Poedit-Bookmarks: -1,591,-1,-1,-1,-1,-1,-1,-1,-1\n"
+
+msgid "\t%Q (@i #%i, mod time %IM)\n"
+msgstr "\t%Q（@i #%i，修改时间 %IM）\n"
+
+msgid "\t<@f metadata>\n"
+msgstr "\t<@f元数据>\n"
+
+msgid "\tUsing %s\n"
+msgstr "\t使用 %s\n"
+
+msgid "\tUsing %s, %s\n"
+msgstr "\t使用 %s，%s\n"
+
+msgid "\tcreated on %s"
+msgstr "\t创建于 %s"
+
+msgid "\tea_ver=<ea_version (1 or 2)>\n"
+msgstr "\tea_ver=<ea_version (1 或 2)>\n"
+
+msgid "\tlast modified on %s"
+msgstr "\t上一次修改于 %s"
+
+msgid "\tlast mounted on %s"
+msgstr "\t上一次挂载于%s"
+
+msgid "\tlast mounted on %s on %s"
+msgstr "\t上一次挂载于 %s， 时间 %s"
+
+msgid "\treadahead_kb=<buffer size>\n"
+msgstr "\treadahead_kb=<缓冲大小>\n"
+
+msgid ""
+"\n"
+"\twhile converting subcluster bitmap"
+msgstr ""
+"\n"
+"\t转换子簇位图时"
+
+msgid ""
+"\n"
+"\twhile trying to add journal to device %s"
+msgstr ""
+"\n"
+"\t尝试将日志添加到设备 %s时"
+
+msgid ""
+"\n"
+"\twhile trying to create journal"
+msgstr ""
+"\n"
+"\t尝试创建日志时"
+
+msgid ""
+"\n"
+"\twhile trying to create journal file"
+msgstr ""
+"\n"
+"\t尝试创建日志文件时"
+
+msgid ""
+"\n"
+"\twhile trying to open journal on %s\n"
+msgstr ""
+"\n"
+"\t尝试打开位于 %s 的日志时\n"
+
+msgid ""
+"\n"
+"\n"
+"%s: UNEXPECTED INCONSISTENCY; RUN fsck MANUALLY.\n"
+"\t(i.e., without -a or -p options)\n"
+msgstr ""
+"\n"
+"\n"
+"%s：未预期的不一致性；请手动运行fsck\n"
+"\t（即不使用 -a 或 -p 选项）。\n"
+
+msgid ""
+"\n"
+"\n"
+"WARNING!!!  The filesystem is mounted.   If you continue you ***WILL***\n"
+"cause ***SEVERE*** filesystem damage.\n"
+"\n"
+msgstr ""
+"\n"
+"\n"
+"警告！！！该文件系统已被挂载。如果你继续操作将会\n"
+"使文件系统遭受 *** 严重损坏 ***！\n"
+"\n"
+
+msgid ""
+"\n"
+" "
+msgstr ""
+"\n"
+" "
+
+msgid ""
+"\n"
+"  %u free %s, %u free inodes, %u directories%s"
+msgstr ""
+"\n"
+"  %u 个可用 %s，%u 个可用inode，%u 个目录 %s"
+
+msgid ""
+"\n"
+"  Inode table at "
+msgstr ""
+"\n"
+"  Inode表位于 "
+
+msgid ""
+"\n"
+"  Reserved GDT blocks at "
+msgstr ""
+"\n"
+"  保留的GDT块位于 "
+
+msgid ""
+"\n"
+"%11Lu: finished with errno %d\n"
+msgstr ""
+"\n"
+"%11Lu：已结束，错误号为 %d\n"
+
+msgid ""
+"\n"
+"%12u inode used (%2.2f%%, out of %u)\n"
+msgid_plural ""
+"\n"
+"%12u inodes used (%2.2f%%, out of %u)\n"
+msgstr[0] ""
+"\n"
+"%12u 个已使用的inode（%2.2f%%，总共 %u）\n"
+
+msgid ""
+"\n"
+"%12u regular file\n"
+msgid_plural ""
+"\n"
+"%12u regular files\n"
+msgstr[0] ""
+"\n"
+"%12u 个普通文件\n"
+
+msgid ""
+"\n"
+"%s: ***** FILE SYSTEM ERRORS CORRECTED *****\n"
+msgstr ""
+"\n"
+"%s：***** 文件系统错误已修正 *****\n"
+
+msgid ""
+"\n"
+"%s: ***** FILE SYSTEM WAS MODIFIED *****\n"
+msgstr ""
+"\n"
+"%s：***** 文件系统已修改 *****\n"
+
+msgid ""
+"\n"
+"%s: ********** WARNING: Filesystem still has errors **********\n"
+"\n"
+msgstr ""
+"\n"
+"%s：********** 警告：文件系统上仍有错误 **********\n"
+"\n"
+
+msgid ""
+"\n"
+"*** journal has been regenerated ***\n"
+msgstr ""
+"\n"
+"*** 日志已被重建 ***\n"
+
+msgid ""
+"\n"
+"Bad extended option(s) specified: %s\n"
+"\n"
+"Extended options are separated by commas, and may take an argument which\n"
+"\tis set off by an equals ('=') sign.\n"
+"\n"
+"Valid extended options are:\n"
+"\tsuperblock=<superblock number>\n"
+"\tblocksize=<blocksize>\n"
+msgstr ""
+"\n"
+"指定了错误的扩展属性：%s\n"
+"\n"
+"扩展属性由逗号分隔，有些需要通过等号（“=”）传递参数。\n"
+"\n"
+"有效的参数有：\n"
+"\tsuperblock=<超级块编号>\n"
+"\tblocksize=<块大小>\n"
+
+msgid ""
+"\n"
+"Bad journal options specified.\n"
+"\n"
+"Journal options are separated by commas, and may take an argument which\n"
+"\tis set off by an equals ('=') sign.\n"
+"\n"
+"Valid journal options are:\n"
+"\tsize=<journal size in megabytes>\n"
+"\tdevice=<journal device>\n"
+"\tlocation=<journal location>\n"
+"\n"
+"The journal size must be between 1024 and 10240000 filesystem blocks.\n"
+"\n"
+msgstr ""
+"\n"
+"给定的日志选项有误。\n"
+"\n"
+"日志选项由逗号分隔，有些还需要通过等号（“=”）传递参数。\n"
+"\n"
+"有效的日志选项为：\n"
+"\tsize=<日志大小（MB）>\n"
+"\tdevice=<日志设备>\n"
+"\tlocation=<日志所在位置>\n"
+"\n"
+"\n"
+"日志尺寸必须介于1024至10240000个块之间（块的大小由文件系统决定）。\n"
+"\n"
+
+msgid ""
+"\n"
+"Bad quota options specified.\n"
+"\n"
+"Following valid quota options are available (pass by separating with comma):\n"
+"\t[^]usr[quota]\n"
+"\t[^]grp[quota]\n"
+"\t[^]prj[quota]\n"
+"\n"
+"\n"
+msgstr ""
+"\n"
+"指定了错误的配额选项。\n"
+"\n"
+"可以使用下列配额选项（通过逗号分割）：\n"
+"\t[^]usr[quota\n"
+"\t[^]grp[quota\n"
+"\t[^]prj[quota]\n"
+"\n"
+"\n"
+
+msgid ""
+"\n"
+"Clearing the sparse superblock flag not supported.\n"
+msgstr ""
+"\n"
+"移除不被支持的分散式超级块标志。\n"
+
+msgid ""
+"\n"
+"Could not find journal device matching %s\n"
+msgstr ""
+"\n"
+"无法找到匹配 %s 的日志设备\n"
+
+msgid ""
+"\n"
+"Could not write %d blocks in inode table starting at %llu: %s\n"
+msgstr ""
+"\n"
+"无法写入 %d 个块到起始于%llu的inode表：%s\n"
+
+msgid ""
+"\n"
+"Emergency help:\n"
+" -p                   Automatic repair (no questions)\n"
+" -n                   Make no changes to the filesystem\n"
+" -y                   Assume \"yes\" to all questions\n"
+" -c                   Check for bad blocks and add them to the badblock list\n"
+" -f                   Force checking even if filesystem is marked clean\n"
+msgstr ""
+"\n"
+"重要提示：\n"
+" -p                   自动修复（不询问）\n"
+" -n                   不对文件系统做任何更改\n"
+" -y                   对所有询问都回答“是”\n"
+" -c                   检查可能的坏块，并将它们加入坏块列表\n"
+" -f                   强制进行检查，即使文件系统被标记为“没有问题”\n"
+
+msgid ""
+"\n"
+"Error while enabling multiple mount protection feature."
+msgstr ""
+"\n"
+"启用MMP特性失败。"
+
+msgid ""
+"\n"
+"Filesystem too small for a journal\n"
+msgstr ""
+"\n"
+"文件系统太小，无法容纳日志\n"
+
+msgid ""
+"\n"
+"If the @b is really bad, the @f can not be fixed.\n"
+msgstr ""
+"\n"
+"如果该@b确实为坏@b，则文件系统将无法被修复。\n"
+
+msgid ""
+"\n"
+"Interrupt caught, cleaning up\n"
+msgstr ""
+"\n"
+"收到中断通知，正在进行后续清理工作\n"
+
+msgid ""
+"\n"
+"Invalid non-numeric argument to -%c (\"%s\")\n"
+"\n"
+msgstr ""
+"\n"
+"-%c 接收到无效的非数值参数（“%s”）\n"
+"\n"
+
+msgid ""
+"\n"
+"Journal size too big for filesystem.\n"
+msgstr ""
+"\n"
+"日志大小超过文件系统自身。\n"
+
+msgid ""
+"\n"
+"Resizing bigalloc file systems has not been fully tested.  Proceed at\n"
+"your own risk!  Use the force option if you want to go ahead anyway.\n"
+"\n"
+msgstr ""
+"\n"
+"改变bigalloc文件系统的大小尚未被充分测试。你需要承担可能的风险！\n"
+"如果你希望继续，请使用强制选项。\n"
+"\n"
+
+msgid ""
+"\n"
+"Running additional passes to resolve @bs claimed by more than one @i...\n"
+"Pass 1B: Rescanning for @m @bs\n"
+msgstr ""
+"\n"
+"执行额外的步骤来处理被多个@i引用的@b...\n"
+"第 1B 步：重新扫描@m @b\n"
+
+msgid ""
+"\n"
+"Running e2image on a R/W mounted filesystem can result in an\n"
+"inconsistent image which will not be useful for debugging purposes.\n"
+"Use -f option if you really want to do that.\n"
+msgstr ""
+"\n"
+"对可读写的文件系统上运行e2image可能导致镜像不连续，\n"
+"这样的镜像也无法用于调试。如果你确实需要这样做，请使用 -f 选项。\n"
+
+msgid ""
+"\n"
+"Setting the sparse superblock flag not supported\n"
+"for filesystems with the meta_bg feature enabled.\n"
+msgstr ""
+"\n"
+"启用了meta_bg特性的文件系统不支持设置分散式\n"
+"超级块标志。\n"
+
+msgid ""
+"\n"
+"Sparse superblock flag set.  %s"
+msgstr ""
+"\n"
+"已设置分散式超级块标志。  %s"
+
+msgid ""
+"\n"
+"The @S could not be read or does not describe a valid ext2/ext3/ext4\n"
+"@f.  If the @v is valid and it really contains an ext2/ext3/ext4\n"
+"@f (and not swap or ufs or something else), then the @S\n"
+"is corrupt, and you might try running e2fsck with an alternate @S:\n"
+"    e2fsck -b 8193 <@v>\n"
+" or\n"
+"    e2fsck -b 32768 <@v>\n"
+"\n"
+msgstr ""
+"\n"
+"@S无法被读取，或它未能正确地描述一个有效的ext2/ext3/ext4@f。\n"
+"如果@v有效并确实为ext2/ext3/ext4@f （而非swap或ufs等格式），\n"
+"这说明@S已经损坏，你可能需要指定备选@S来运行e2fsck：\n"
+"    e2fsck -b 8193 <@v>\n"
+" 或\n"
+"    e2fsck -b 32768 <@v>\n"
+"\n"
+
+msgid ""
+"\n"
+"The bad @b @i has probably been corrupted.  You probably\n"
+"should stop now and run e2fsck -c to scan for bad blocks\n"
+"in the @f.\n"
+msgstr ""
+"\n"
+"坏@b@i可能已经损坏。你可能需要立刻停止执行此任务，\n"
+"并运行e2fsck -c来扫描@f中的坏块。\n"
+
+msgid ""
+"\n"
+"The device apparently does not exist; did you specify it correctly?\n"
+msgstr ""
+"\n"
+"设备不存在。请确认所给设备名是否正确。\n"
+
+msgid ""
+"\n"
+"The filesystem already has sparse superblocks.\n"
+msgstr ""
+"\n"
+"文件系统已经含有分散式超级块\n"
+
+msgid ""
+"\n"
+"The requested journal size is %d blocks; it must be\n"
+"between 1024 and 10240000 blocks.  Aborting.\n"
+msgstr ""
+"\n"
+"给定的日志大小为 %d 个块；但该值必须\n"
+"介于1024至10240000块之间。终止执行。\n"
+
+msgid ""
+"\n"
+"Warning: '^quota' option overrides '-Q'arguments.\n"
+msgstr ""
+"\n"
+"警告：“^quota”选项将覆盖“-Q”的参数。\n"
+
+msgid ""
+"\n"
+"Warning: RAID stripe-width %u not an even multiple of stride %u.\n"
+"\n"
+msgstr ""
+"\n"
+"警告：RAID带宽 %u 不是步长 %u 的偶数倍。\n"
+"\n"
+
+msgid ""
+"\n"
+"Warning: offset specified without an explicit file system size.\n"
+"Creating a file system with %llu blocks but this might\n"
+"not be what you want.\n"
+"\n"
+msgstr ""
+"\n"
+"警告：指定了偏移量，但没有指定文件系统大小。\n"
+"将创建含有 %llu 个块的文件系统，这可能与您的预期不服。\n"
+"\n"
+
+msgid ""
+"\n"
+"Warning: the bigalloc feature is still under development\n"
+"See https://ext4.wiki.kernel.org/index.php/Bigalloc for more information\n"
+"\n"
+msgstr ""
+"\n"
+"警告：bigalloc特性仍然在开发中\n"
+"更多详情请参见 https://ext4.wiki.kernel.org/index.php/Bigalloc\n"
+"\n"
+
+msgid ""
+"\n"
+"Warning: the fs_type %s is not defined in mke2fs.conf\n"
+"\n"
+msgstr ""
+"\n"
+"警告：mke2fs.conf中未定义文件系统类型 %s\n"
+"\n"
+
+msgid ""
+"\n"
+"Your mke2fs.conf file does not define the %s filesystem type.\n"
+msgstr ""
+"\n"
+"你的mke2fs.conf文件中没有定义类型 %s 的文件系统。\n"
+
+msgid "             # of inodes with ind/dind/tind blocks: %u/%u/%u\n"
+msgstr "             # 一次/二次/三次链接块数：%u/%u/%u\n"
+
+msgid "             Extent depth histogram: "
+msgstr "             Extent深度直方图： "
+
+msgid "       %s -I device image-file\n"
+msgstr "       %s -I 设备 镜像文件\n"
+
+msgid "       %s -k\n"
+msgstr "       %s -k\n"
+
+msgid "       %s [-r|t] [-n num] [-s socketpath]\n"
+msgstr "       %s [-r|t] [-n 数量] [-s 套接字路径]\n"
+
+msgid "  %s superblock at "
+msgstr "  %s 超级块位于 "
+
+msgid "  Block bitmap at "
+msgstr "  块位图位于 "
+
+msgid "  Free blocks: "
+msgstr "  可用块数： "
+
+msgid "  Free inodes: "
+msgstr "  可用inode数： "
+
+msgid " %s remaining at %.2f MB/s"
+msgstr " 剩余 %s，速度 %.2f MB/s"
+
+msgid " (%u fast symbolic link)\n"
+msgid_plural " (%u fast symbolic links)\n"
+msgstr[0] " （%u 个直接符号链接）\n"
+
+msgid " ('a' enables 'yes' to all) "
+msgstr " （“a” 表示全部回答“yes”） "
+
+msgid " (EXPECTED 0x%04x)"
+msgstr " （应为 0x%04x）"
+
+msgid " (check after next mount)"
+msgstr " （将于下次挂载时进行检查）"
+
+msgid " (check deferred; on battery)"
+msgstr " （正在使用电池；已推迟检查）"
+
+msgid " (check in %ld mounts)"
+msgstr " （每挂载 %ld 次就进行检查）"
+
+msgid " (y/n)"
+msgstr " （y/n）"
+
+msgid ""
+" -v                   Be verbose\n"
+" -b superblock        Use alternative superblock\n"
+" -B blocksize         Force blocksize when looking for superblock\n"
+" -j external_journal  Set location of the external journal\n"
+" -l bad_blocks_file   Add to badblocks list\n"
+" -L bad_blocks_file   Set badblocks list\n"
+" -z undo_file         Create an undo file\n"
+msgstr ""
+" -v                   显示更多信息\n"
+" -b superblock        使用备选超级块\n"
+" -B blocksize         使用指定块大小来查找超级块\n"
+" -j external_journal  指定外部日志的位置\n"
+" -l bad_blocks_file   添加到指定的坏块列表（文件）\n"
+" -L bad_blocks_file   指定坏块列表（文件）\n"
+" -z undo_file         创建一个撤销文件\n"
+
+msgid " -z \"%s\""
+msgstr " -z \"%s\""
+
+msgid " Done.\n"
+msgstr " 完毕。\n"
+
+msgid " Group descriptor at "
+msgstr " 组描述符位于 "
+
+msgid " Inode bitmap at "
+msgstr " Inode 位图位于 "
+
+msgid " contains a file system with errors"
+msgstr " 有一个含有错误的文件系统"
+
+msgid " csum 0x%04x"
+msgstr " 校验值 0x%04x"
+
+msgid " has been mounted %u times without being checked"
+msgstr " 已被挂载 %u 次，但尚未被检查"
+
+msgid " has filesystem last checked time in the future"
+msgstr " 上一次检查的时间在未来"
+
+msgid " has gone %u days without being checked"
+msgstr " 已超过 %u 未被检查"
+
+msgid " primary superblock features different from backup"
+msgstr " 主超级块与备份超级块有差异"
+
+msgid " was not cleanly unmounted"
+msgstr " 未被彻底卸载"
+
+msgid "#\tNum=%llu, Size=%llu, Cursor=%llu, Sorted=%llu\n"
+msgstr "#\t数量=%llu，大小=%llu，指针=%llu，按序=%llu\n"
+
+msgid "# Extent dump:\n"
+msgstr "# Extent转储：\n"
+
+msgid "%12llu block used (%2.2f%%, out of %llu)\n"
+msgid_plural "%12llu blocks used (%2.2f%%, out of %llu)\n"
+msgstr[0] "%12llu 个已使用的块（%2.2f%%，总共 %llu）\n"
+
+msgid "%12u bad block\n"
+msgid_plural "%12u bad blocks\n"
+msgstr[0] "%12u 个坏块\n"
+
+msgid "%12u block device file\n"
+msgid_plural "%12u block device files\n"
+msgstr[0] "%12u 个块设备文件\n"
+
+msgid "%12u character device file\n"
+msgid_plural "%12u character device files\n"
+msgstr[0] "%12u 个字符设备文件\n"
+
+msgid "%12u directory\n"
+msgid_plural "%12u directories\n"
+msgstr[0] "%12u 个文件夹\n"
+
+msgid "%12u fifo\n"
+msgid_plural "%12u fifos\n"
+msgstr[0] "%12u 个队列文件\n"
+
+msgid "%12u file\n"
+msgid_plural "%12u files\n"
+msgstr[0] "%12u 个文件\n"
+
+msgid "%12u large file\n"
+msgid_plural "%12u large files\n"
+msgstr[0] "%12u 个大文件\n"
+
+msgid "%12u link\n"
+msgid_plural "%12u links\n"
+msgstr[0] "%12u 个链接\n"
+
+msgid "%12u non-contiguous directory (%0d.%d%%)\n"
+msgid_plural "%12u non-contiguous directories (%0d.%d%%)\n"
+msgstr[0] "%12u 个不连续的目录（%0d.%d%%）\n"
+
+msgid "%12u non-contiguous file (%0d.%d%%)\n"
+msgid_plural "%12u non-contiguous files (%0d.%d%%)\n"
+msgstr[0] "%12u 个不连续的文件（%0d.%d%%）\n"
+
+msgid "%12u socket\n"
+msgid_plural "%12u sockets\n"
+msgstr[0] "%12u 个套接字文件\n"
+
+msgid "%12u symbolic link"
+msgid_plural "%12u symbolic links"
+msgstr[0] "%12u 个符号链接"
+
+msgid "%6.2f%% done, %s elapsed. (%d/%d/%d errors)"
+msgstr "进度 %6.2f%%，用时 %s。(%d/%d/%d 个错误)"
+
+msgid "%6lu(%c): expecting %6lu got phys %6lu (blkcnt %lld)\n"
+msgstr "%6lu（%c）：应为 %6lu 但实际为 %6lu （块 %lld）\n"
+
+msgid "%B (%b) causes @d to be too big.  "
+msgstr "%B（%b）造成@d过大。  "
+
+msgid "%B (%b) causes file to be too big.  "
+msgstr "%B（%b）造成文件过大。  "
+
+msgid "%B (%b) causes symlink to be too big.  "
+msgstr "%B（%b）造成符号链接过大。  "
+
+msgid "%B (%b) overlaps @f metadata in @i %i.  "
+msgstr "%B（%b）与@i %i 记录元数据的位置重叠。  "
+
+msgid "%d blocks already contained the data to be copied\n"
+msgstr "%d 个块已包含需要被拷贝的数据\n"
+
+msgid "%d byte inodes are too small for inline data; specify larger size"
+msgstr "%d 字节的 inode 对于内联数据来说太小；请指定一个更大的值"
+
+msgid "%d-byte blocks too big for system (max %d)"
+msgstr "%d字节的块对于系统来说太大（最大为 %d）"
+
+msgid "%llu / %llu blocks (%d%%)"
+msgstr "%llu / %llu 块（%d%%）"
+
+msgid "%llu blocks (%2.2f%%) reserved for the super user\n"
+msgstr "%llu 个块（%2.2f%%）为超级用户保留\n"
+
+msgid "%s %s: status is %x, should never happen.\n"
+msgstr "%s %s：状态为 %x，这不应当发生。\n"
+
+msgid "%s @o @i %i (uid=%Iu, gid=%Ig, mode=%Im, size=%Is)\n"
+msgstr "@s@o@i %i（uid=%lu，gid=%lg，mode=%lm，size=%ls）\n"
+
+msgid "%s alignment is offset by %lu bytes.\n"
+msgstr "%s 未对齐，偏移了 %lu 个字节。\n"
+
+msgid "%s and subsequent UUID\n"
+msgid_plural "%s and subsequent %d UUIDs\n"
+msgstr[0] "%s 和后续 %d 个UUID\n"
+
+msgid "%s contains `%s' data\n"
+msgstr "%s 含有“%s”数据\n"
+
+msgid "%s contains a %s file system\n"
+msgstr "%s 有一个 %s 文件系统\n"
+
+msgid "%s contains a %s file system labelled '%s'\n"
+msgstr "%1$s 有一个标签为“%3$s”的 %2$s 文件系统\n"
+
+msgid "%s has unsupported encoding: %0x\n"
+msgstr "%s 有不被支持的编码：%0x\n"
+
+msgid "%s has unsupported feature(s):"
+msgstr "%s 有不被支持的特性："
+
+msgid "%s is apparently in use by the system; "
+msgstr "%s 显然正被系统使用； "
+
+msgid "%s is in use.\n"
+msgstr "%s正被使用。\n"
+
+msgid "%s is mounted.\n"
+msgstr "%s 已挂载。\n"
+
+msgid "%s is mounted; "
+msgstr "%s 已经挂载； "
+
+msgid "%s is not a block special device.\n"
+msgstr "错误：%s 不是块设备。\n"
+
+msgid "%s is not a journal device.\n"
+msgstr "%s 不是日志设备。\n"
+
+msgid "%s may be further corrupted by superblock rewrite\n"
+msgstr "%s 可能因超级块被改写而损\n"
+
+msgid "%s requires '-O 64bit'\n"
+msgstr "%s 需要“-O 64bit”选项\n"
+
+msgid "%s: %s filename nblocks blocksize\n"
+msgstr "%s：%s  文件名  块数  块大小\n"
+
+msgid "%s: %s trying backup blocks...\n"
+msgstr "%s：%s 尝试备份块\n"
+
+msgid "%s: %s while reading bad blocks inode\n"
+msgstr "%s：读取坏块inode时%s\n"
+
+msgid "%s: %s while using the backup blocks"
+msgstr "%s：尝试备份块时 %s"
+
+msgid "%s: %s.\n"
+msgstr "%s：%s。\n"
+
+msgid "%s: %u/%u files (%0d.%d%% non-contiguous), %llu/%llu blocks\n"
+msgstr "%s：%u/%u 文件（%0d.%d%% 为非连续的）， %llu/%llu 块\n"
+
+msgid "%s: ***** REBOOT SYSTEM *****\n"
+msgstr "%s：***** 请重新启动系统 *****\n"
+
+msgid "%s: Allowing users to allocate all blocks. This is dangerous!\n"
+msgstr "%s：允许用户分配所有块。这样做很危险！\n"
+
+msgid "%s: Corrupt undo file header.\n"
+msgstr "%s：撤销文件头损坏。\n"
+
+msgid "%s: Error %d while executing fsck.%s for %s\n"
+msgstr "%1$s：执行fsck.%3$s %4$s 时出错， 退出状态码 %2$d\n"
+
+msgid "%s: File system was modified.\n"
+msgstr "%s：文件系统已被修改。\n"
+
+msgid "%s: Header checksum doesn't match.\n"
+msgstr "%s：头部校验值与自身不符。\n"
+
+msgid "%s: MMP feature not enabled.\n"
+msgstr "%s: MMP 特性未启用。\n"
+
+msgid "%s: Not an undo file.\n"
+msgstr "%s：不是撤销文件。\n"
+
+msgid ""
+"%s: Size of device (0x%llx blocks) %s too big to be expressed\n"
+"\tin 32 bits using a blocksize of %d.\n"
+msgstr ""
+"%1$s：设备 %3$s 的尺寸（0x%2$llx 个块）太大，无法用32位数表示\n"
+"\t改为使用 %4$d 的块大小。\n"
+
+msgid ""
+"%s: The -n and -w options are mutually exclusive.\n"
+"\n"
+msgstr ""
+"%s：-n 和 -w 选项是相互排斥的。\n"
+"\n"
+
+msgid "%s: Trying to load superblock despite errors...\n"
+msgstr "%s：尽管有错误，仍然尝试读取超级块...\n"
+
+msgid "%s: Undo block size too large.\n"
+msgstr "%s：撤销块过小。\n"
+
+msgid "%s: Undo block size too small.\n"
+msgstr "%s：撤销块过大。\n"
+
+msgid "%s: Unknown undo file feature set.\n"
+msgstr "%s：设置了未知的撤销文件属性。\n"
+
+msgid "%s: Writing to the journal is not supported.\n"
+msgstr "%s：不支持写入日志。\n"
+
+msgid "%s: block %llu is too long."
+msgstr "%s：块 %llu 太长。"
+
+msgid "%s: clean, %u/%u files, %llu/%llu blocks"
+msgstr "%s：没有问题，%u/%u 文件，%llu/%llu 块"
+
+msgid "%s: e2fsck canceled.\n"
+msgstr "%s：e2fsck被取消。\n"
+
+msgid "%s: going back to original superblock\n"
+msgstr "%s：回到原先的超级块\n"
+
+msgid "%s: h=%3d s=%3d c=%4d   start=%8d size=%8lu end=%8d\n"
+msgstr "%s：磁头=%3d 扇区=%3d 柱面=%4d   起始=%8d 大小=%8lu 终止=%8d\n"
+
+msgid "%s: journal too short\n"
+msgstr "%s： 日志过短\n"
+
+msgid "%s: key block checksum error at %llu.\n"
+msgstr "%s：%llu 中的键块的校验值有错。\n"
+
+msgid "%s: no valid journal superblock found\n"
+msgstr "%s： 没有发现日志超级块\n"
+
+msgid "%s: recovering journal\n"
+msgstr "%s：正在修复日志\n"
+
+msgid ""
+"%s: skipping bad line in /etc/fstab: bind mount with nonzero fsck pass "
+"number\n"
+msgstr "%s：跳过/etc/fstab中的错误行：传递给fsck非零值的bind挂载项\n"
+
+msgid "%s: too many arguments\n"
+msgstr "%s：参数过多\n"
+
+msgid "%s: too many devices\n"
+msgstr "%s：设备过多\n"
+
+msgid "%s: wait: No more child process?!?\n"
+msgstr "%s：等待中：没有子进程了吗？！？\n"
+
+msgid "%s: won't do journal recovery while read-only\n"
+msgstr "%s：使用只读模式时不会进行日志修复\n"
+
+msgid "%s: wrong key magic at %llu\n"
+msgstr "%s：%llu 中的键幻数有错\n"
+
+msgid ""
+"%s? no\n"
+"\n"
+msgstr ""
+"%s? no\n"
+"\n"
+
+msgid ""
+"%s? yes\n"
+"\n"
+msgstr ""
+"%s? yes\n"
+"\n"
+
+msgid "%u block group\n"
+msgstr "%u 个块组\n"
+
+msgid "%u block groups\n"
+msgstr "%u 个块组\n"
+
+msgid "%u blocks per group, %u clusters per group\n"
+msgstr "每组 %u 个块，%u 个簇\n"
+
+msgid "%u blocks per group, %u fragments per group\n"
+msgstr "每组 %u 个块，%u 个碎片\n"
+
+msgid "%u inodes per group\n"
+msgstr "每组 %u 个inode\n"
+
+msgid "%u inodes scanned.\n"
+msgstr "已扫描 %u 个inode。\n"
+
+msgid "%u inodes, %llu blocks\n"
+msgstr "%u 个inode，%llu 个块\n"
+
+msgid "' to disable 64-bit mode.\n"
+msgstr "”来禁用 64 位模式。\n"
+
+msgid "' to enable 64-bit mode.\n"
+msgstr "”来启用 64 位模式。\n"
+
+msgid "'%s' must be before 'resize=%u'\n"
+msgstr "“%s”选项必须位于“resize=%u”之前\n"
+
+msgid "'-R' is deprecated, use '-E' instead"
+msgstr "“-R” 选项已被废弃，请使用“-E”选项"
+
+msgid "'.' @d @e in @d @i %i is not NULL terminated\n"
+msgstr "@d@i %i 中的“.”@d@e 没有以NULL终止\n"
+
+msgid "'..' @d @e in @d @i %i is not NULL terminated\n"
+msgstr "@d@i %i 中的“..”@d@e 没有以NULL终止\n"
+
+msgid "'..' in %Q (%i) is %P (%j), @s %q (%d).\n"
+msgstr "%Q（%i）中的“..”为 %P（%j），@s %q（%d）\n"
+
+msgid "(NONE)"
+msgstr "（空）"
+
+msgid ""
+"(There are %N @is containing @m @bs.)\n"
+"\n"
+msgstr ""
+"（共有 %N 含有@m@b的@i）\n"
+"\n"
+
+msgid "(and reboot afterwards!)\n"
+msgstr "（并且过后重启！）\n"
+
+msgid "(no prompt)"
+msgstr "（没有提示）"
+
+msgid ""
+"*** Run e2fsck now!\n"
+"\n"
+msgstr ""
+"*** 请立刻运行 e2fsck！\n"
+"\n"
+
+msgid ","
+msgstr "，"
+
+msgid ", %u unused inodes\n"
+msgstr "，%u个未使用的inodes\n"
+
+msgid ", Group descriptors at "
+msgstr "，组描述符位于 "
+
+msgid ", check forced.\n"
+msgstr "，强制进行检查。\n"
+
+msgid ", csum 0x%08x"
+msgstr "，校验值 0x%08x"
+
+msgid "--waiting-- (pass %d)\n"
+msgstr "--请稍候-- （第 %d 步）n\n"
+
+msgid "-O may only be specified once"
+msgstr "-O只能被指定一次"
+
+msgid "-a option can only be used with raw or QCOW2 images."
+msgstr "-a 选项只能用于原始或 QCOW2 镜像。"
+
+msgid "-b option can only be used with raw or QCOW2 images."
+msgstr "-b 选项只能用于原始或 QCOW2 镜像。"
+
+msgid "-o may only be specified once"
+msgstr "-o只能被指定一次"
+
+msgid "/@l has inline data\n"
+msgstr "/@l 含有内联数据\n"
+
+msgid "/@l is encrypted\n"
+msgstr "/@l 已被加密\n"
+
+msgid "/@l is not a @d (ino=%i)\n"
+msgstr "/@l 不是一个@d（ino=%i）\n"
+
+msgid "/@l not found.  "
+msgstr "/@l未找到。  "
+
+msgid ""
+"64-bit filesystem support is not enabled.  The larger fields afforded by "
+"this feature enable full-strength checksumming.  Pass -O 64bit to rectify.\n"
+msgstr "未启用 64 位文件系统支持，将无法使用更大的字段来进行更完整的校验。可以使用参数“-O 64bit”来进行纠正。\n"
+
+msgid ""
+"64-bit filesystem support is not enabled.  The larger fields afforded by "
+"this feature enable full-strength checksumming.  Run resize2fs -b to "
+"rectify.\n"
+msgstr "未启用 64 位文件系统支持，将无法使用更大的字段来进行更完整的校验。可以运行“resize2fs -b”来纠正这一问题。\n"
+
+msgid "<Reserved inode 10>"
+msgstr "<保留的 inode 10>"
+
+msgid "<Reserved inode 9>"
+msgstr "<保留的 inode 9>"
+
+msgid "<The NULL inode>"
+msgstr "<空的 inode>"
+
+msgid "<The bad blocks inode>"
+msgstr "<坏块 inode>"
+
+msgid "<The boot loader inode>"
+msgstr "<启动器 inode>"
+
+msgid "<The group descriptor inode>"
+msgstr "<组描述符inode>"
+
+msgid "<The group quota inode>"
+msgstr "<组配额inode>"
+
+msgid "<The journal inode>"
+msgstr "<日志 inode>"
+
+msgid "<The undelete directory inode>"
+msgstr "<未删除的目录 inode>"
+
+msgid "<The user quota inode>"
+msgstr "<用户配额inode>"
+
+msgid "<n>"
+msgstr "<n>"
+
+msgid "<proceeding>\n"
+msgstr "<处理中>\n"
+
+msgid "<y>"
+msgstr "<y>"
+
+msgid "= is incompatible with - and +\n"
+msgstr "= 与 - / + 选项不相容\n"
+
+msgid "@A %N contiguous @b(s) in @b @g %g for %s: %m\n"
+msgstr "在@b@g %g 中为 %s 分配 %N 个连续的@b时出错：%m\n"
+
+msgid "@A @a region allocation structure.  "
+msgstr "构建外部属性区域的分配结构体时出错。  "
+
+msgid "@A @b @B (%N): %m\n"
+msgstr "分配@b@B（%N）时出错：%m\n"
+
+msgid "@A @b buffer for relocating %s\n"
+msgstr "重定位 %s 时分配@b缓存出错\n"
+
+msgid "@A @d @b array: %m\n"
+msgstr "分配@d@b数组时出错：%m\n"
+
+msgid "@A @i @B (%N): %m\n"
+msgstr "分配@i@B（%N）时出错：%m\n"
+
+msgid "@A @i @B (@i_dup_map): %m\n"
+msgstr "分配@i@B时出错（inode_dup_map）：%m\n"
+
+msgid "@A @x region allocation structure.  "
+msgstr "构建extent区域的分配结构体时出错。  "
+
+msgid "@A icount link information: %m\n"
+msgstr "分配icount链接信息时出错：%m\n"
+
+msgid "@A icount structure: %m\n"
+msgstr "分配icount结构体时出错：%m\n"
+
+msgid "@A memory for encrypted @d list\n"
+msgstr "为加密@d列表分配内存时出错\n"
+
+msgid "@A new @d @b for @i %i (%s): %m\n"
+msgstr "为@i %i（%s）分配新@d@b时出错：%m\n"
+
+msgid "@A refcount structure (%N): %m\n"
+msgstr "分配refcount结构体（%N）时出错：%m\n"
+
+msgid "@D @i %i has zero dtime.  "
+msgstr "@D@i %i 的删除时间为零。  "
+
+msgid "@E @L to '.'  "
+msgstr "@E是一个指向“.”的链接  "
+
+msgid "@E @L to @d %P (%Di).\n"
+msgstr "@E是一个指向@d %P（%Di）的链接。\n"
+
+msgid "@E @L to the @r.\n"
+msgstr "@E是一个指向@r的链接。\n"
+
+msgid "@E has @D/unused @i %Di.  "
+msgstr "@E含有@D或未使用的@ %Di。  "
+
+msgid "@E has @n @i #: %Di.\n"
+msgstr "@E含有@n@i #：%Di\n"
+
+msgid "@E has a @z name.\n"
+msgstr "@E含有长度为零的名称。\n"
+
+msgid ""
+"@E has a non-unique filename.\n"
+"Rename to %s"
+msgstr ""
+"@E含有一个非唯一的文件名。\n"
+"已重命名为%s"
+
+msgid "@E has an incorrect filetype (was %Dt, @s %N).\n"
+msgstr "@E含有错误的文件类型（%Dt，@s %N）。\n"
+
+msgid "@E has filetype set.\n"
+msgstr "@E被设置了文件类型。\n"
+
+msgid "@E has illegal characters in its name.\n"
+msgstr "@E的名称中有无效字符。\n"
+
+msgid "@E has rec_len of %Dr, @s %N.\n"
+msgstr "@E的rec_len为 %Dr，@s %N。\n"
+
+msgid "@E is duplicate '.' @e.\n"
+msgstr "@E为重复的“.”目录@e。\n"
+
+msgid "@E is duplicate '..' @e.\n"
+msgstr "@E为重复的“..”目录@e。\n"
+
+msgid "@E points to @i (%Di) located in a bad @b.\n"
+msgstr "@E指向位于坏@b的@i（%Di）。\n"
+
+msgid "@E references @i %Di found in @g %g's unused inodes area.\n"
+msgstr "@E引用了@g %g 中的@i %Di，但该@i位于未使用inode区。\n"
+
+msgid "@E references @i %Di in @g %g where _INODE_UNINIT is set.\n"
+msgstr "@E引用了@g %g 中的@i %Di，但该@g被设置了_INODE_UNINIT标志。\n"
+
+msgid "@I %B (%b) found in @o @i %i.\n"
+msgstr "@o@i %i 中发现 @I %B（%b）。\n"
+
+msgid "@I %B (%b) in @i %i.  "
+msgstr "@I %B（%b）于@i %i。  "
+
+msgid "@I %B (%b) in bad @b @i.  "
+msgstr "@I %B（%b）于坏@b@i。  "
+
+msgid "@I @i %i in @o @i list.\n"
+msgstr "@o@i中发现@I@i %i。\n"
+
+msgid "@I @o @i %i in @S.\n"
+msgstr "@S中有@I@o@i %i。\n"
+
+msgid ""
+"@S @b_size = %b, fragsize = %c.\n"
+"This version of e2fsck does not support fragment sizes different\n"
+"from the @b size.\n"
+msgstr ""
+"@S@b大小 = %b，碎片大小 = %c。\n"
+"此版本的e2fsck不允许碎片大小与\n"
+"@b大小不同。\n"
+
+msgid "@S @bs_per_group = %b, should have been %c\n"
+msgstr "每组的@S@b数 = %b，应当为 %c。\n"
+
+msgid "@S MMP @b checksum does not match.  "
+msgstr "@S MMP @b 校验值不符。  "
+
+msgid "@S first_data_@b = %b, should have been %c\n"
+msgstr "@S的第一个数据块 = %b，应当为 %c\n"
+
+msgid "@S has an @n @j (@i %i).\n"
+msgstr "@S含有一个@n@j（@i %i）。\n"
+
+msgid "@S has invalid MMP block.  "
+msgstr "@S含有无效的MMP块。  "
+
+msgid "@S has invalid MMP magic.  "
+msgstr "@S含有无效的MMP幻数。  "
+
+msgid "@S has_@j flag is clear, but a @j is present.\n"
+msgstr "@S不具有has_journal标志，但发现了@j。\n"
+
+msgid "@S hint for external superblock @s %X.  "
+msgstr "外部超级块的@S标记@s %X。  "
+
+msgid ""
+"@S last mount time (%t,\n"
+"\tnow = %T) is in the future.\n"
+msgstr ""
+"@S上一次的挂载时间（%t，\n"
+"\t当前：%T）在未来。\n"
+
+msgid ""
+"@S last mount time is in the future.\n"
+"\t(by less than a day, probably due to the hardware clock being incorrectly set)\n"
+msgstr ""
+"@S上一次挂载时间在未来。\n"
+"\t（相差不到一天，可能是硬件时钟设定错误所致）\n"
+
+msgid ""
+"@S last write time (%t,\n"
+"\tnow = %T) is in the future.\n"
+msgstr ""
+"@S上一次的写入时间（%t，\n"
+"\t当前：%T）在未来。\n"
+
+msgid ""
+"@S last write time is in the future.\n"
+"\t(by less than a day, probably due to the hardware clock being incorrectly set)\n"
+msgstr ""
+"@S上一次写入时间在未来。\n"
+"\t（相差不到一天，可能是硬件时钟设定错误所致）\n"
+
+msgid ""
+"@S metadata_csum supersedes uninit_bg; both feature bits cannot be set "
+"simultaneously."
+msgstr "@S 的 metadata_csum 特性将取代 uninit_bg 特性，因此不能同时将二者开启。"
+
+msgid "@S metadata_csum_seed is not necessary without metadata_csum."
+msgstr "只有同时开启了@S的 metadata_csum 特性，metadata_csum_seed 特性才有意义。"
+
+msgid "@S needs_recovery flag is clear, but @j has data.\n"
+msgstr "@S不具有的恢复标志，然而在@j中找到了恢复数据。\n"
+
+msgid "@S needs_recovery flag is set, but no @j is present.\n"
+msgstr "@S被设置了needs_recovery标志，但找不到相应的@j。\n"
+
+msgid "@S would have too many inodes (%N).\n"
+msgstr "@S 将含有过多 inode（%N）。\n"
+
+msgid "@a @b %b has h_@bs > 1.  "
+msgstr "@a@b %b 的h_blocks >1。  "
+
+msgid "@a @b %b has reference count %r, @s %N.  "
+msgstr "@a@b %b 的引用计数为 %r，@s %N。  "
+
+msgid "@a @b %b is corrupt (@n name).  "
+msgstr "@a@b %b 已损坏（@n名称）。  "
+
+msgid "@a @b %b is corrupt (@n value).  "
+msgstr "@a@b %b 已损坏（@n值）。  "
+
+msgid "@a @b %b is corrupt (allocation collision).  "
+msgstr "@a@b %b 已损坏（分配冲突）。  "
+
+msgid "@a @b @F @n (%If).\n"
+msgstr "@i %i 的@a@b无效（%lf）。\n"
+
+msgid "@a in @i %i has a hash (%N) which is @n\n"
+msgstr "@i %i 中的@a有一个@nhash值（%N）\n"
+
+msgid "@a in @i %i has a namelen (%N) which is @n\n"
+msgstr "@i %i 中的@a有一个名称长度%lS（@n值）\n"
+
+msgid "@a in @i %i has a value @b (%N) which is @n (must be 0)\n"
+msgstr "@i %i 中的@a含有一个@n的数值块（%N），应当为0\n"
+
+msgid "@a in @i %i has a value offset (%N) which is @n\n"
+msgstr "@i %i 中的@a含有一个@n的偏移量（%N）\n"
+
+msgid "@a in @i %i has a value size (%N) which is @n\n"
+msgstr "@i %i 中的@a含有一个@n的大小（%N）\n"
+
+msgid "@b @B differences: "
+msgstr "@b@B的差异： "
+
+msgid "@b @B for @g %g is not in @g.  (@b %b)\n"
+msgstr "@g %g 的@b@B并不在 @g 中。（@b %b）\n"
+
+msgid "@d @e for '.' in %p (%i) is big.\n"
+msgstr "%p（%i）中“.”的@d@e太大。\n"
+
+msgid "@d @i %i @b %b should be at @b %c.  "
+msgstr "@d@i %i @b %b 应为@b %c。  "
+
+msgid "@d @i %i has @x marked uninitialized at @b %c.  "
+msgstr "@d@i %i 含有被标记为未初始化的@x，位于@b %c。  "
+
+msgid "@d @i %i has an unallocated %B.  "
+msgstr "@d@i %i 含有未分配的 %B。  "
+
+msgid "@d @i %i, %B, offset %N: @d corrupted\n"
+msgstr "@d@i %i，%B，偏移量 %N：@d已损坏\n"
+
+msgid "@d @i %i, %B, offset %N: @d has no checksum.\n"
+msgstr "@d@i %i，%B，偏移量 %N：@d缺少校验值。\n"
+
+msgid "@d @i %i, %B, offset %N: filename too long\n"
+msgstr "@d@i %i，%B，偏移量 %N：文件名过长\n"
+
+msgid "@d @i %i, %B: @d passes checks but fails checksum.\n"
+msgstr "@d@i %i，%B：@d通过了检验，但校验值错误。\n"
+
+msgid ""
+"@f @j @S is unknown type %N (unsupported).\n"
+"It is likely that your copy of e2fsck is old and/or doesn't support this @j format.\n"
+"It is also possible the @j @S is corrupt.\n"
+msgstr ""
+"@f@j@S为未知类型 %N（不支持此特性）。\n"
+"可能你的e2fsck版本太低，不支持这种@j的格式。\n"
+"也有可能@j@S已经损坏。\n"
+
+msgid "@f contains large files, but lacks LARGE_FILE flag in @S.\n"
+msgstr "@f含有大文件，但@S中未设置LARGE_FILE标志。\n"
+
+msgid ""
+"@f did not have a UUID; generating one.\n"
+"\n"
+msgstr ""
+"@f没有UUID；正在创建新的UUID。\n"
+"\n"
+
+msgid ""
+"@f does not have resize_@i enabled, but s_reserved_gdt_@bs\n"
+"is %N; @s zero.  "
+msgstr ""
+"@f不支持更改@i大小，故s_reserved_gdt_blocks应为0\n"
+"（但实际为%N）。  "
+
+msgid "@f has feature flag(s) set, but is a revision 0 @f.  "
+msgstr "@f被设置了特性标志，但特性版本号为0。  "
+
+msgid "@g %g @b @B does not match checksum.\n"
+msgstr "@g %g @b @B 与自身校验值不符。\n"
+
+msgid "@g %g @b(s) in use but @g is marked BLOCK_UNINIT\n"
+msgstr "@g %g @b已被使用，但@g被标记为BLOCK_UNINIT\n"
+
+msgid "@g %g @i @B does not match checksum.\n"
+msgstr "@g %g @i @B 与自身校验值不符。\n"
+
+msgid "@g %g @i(s) in use but @g is marked INODE_UNINIT\n"
+msgstr "@g %g @i已被使用，但@g被标记为INODE_UNINIT\n"
+
+msgid "@g %g's @b @B (%b) is bad.  "
+msgstr "@g %g 的@b@B无效。  "
+
+msgid "@g %g's @b @B at %b @C.\n"
+msgstr "位于 %b 的@g %g的@b@B@C。\n"
+
+msgid "@g %g's @i @B (%b) is bad.  "
+msgstr "@g %g 的@i@B无效。  "
+
+msgid "@g %g's @i @B at %b @C.\n"
+msgstr "位于 %b 的@g %g的@i@B@C。\n"
+
+msgid "@g %g's @i table at %b @C.\n"
+msgstr "位于 %b 的@g %g的@i表@C。\n"
+
+msgid "@g descriptor %g checksum is %04x, should be %04y.  "
+msgstr "@g描述符 %g 的校验值为%04x，应当为 %04y。  "
+
+msgid "@g descriptor %g has invalid unused inodes count %b.  "
+msgstr "@g描述符 %g 中的未使用inode数 %b 为无效值。  "
+
+msgid "@g descriptor %g marked uninitialized without feature set.\n"
+msgstr "@g描述符 %g被标记为未初始化，并且没有设定特性。\n"
+
+msgid "@h %i has a tree depth (%N) which is too big\n"
+msgstr "@h %i 树的深度过大（%N）\n"
+
+msgid "@h %i has an @n root node.\n"
+msgstr "@h %i 有一个@n根节点。\n"
+
+msgid "@h %i has an unsupported hash version (%N)\n"
+msgstr "@h %i 有一个无效的hash版本（%N）\n"
+
+msgid "@h %i uses an incompatible htree root node flag.\n"
+msgstr "@h %i 使用了一个不兼容的htree根节点标志。\n"
+
+msgid "@i %i (%Q) has @n mode (%Im).\n"
+msgstr "@i %i（%Q）有@n模式 （%Im）。\n"
+
+msgid "@i %i (%Q) is an @I @b @v.\n"
+msgstr "@i %i（%Q）是一个@I的@b@v。\n"
+
+msgid "@i %i (%Q) is an @I FIFO.\n"
+msgstr "@i %i（%Q）是一个@I队列。\n"
+
+msgid "@i %i (%Q) is an @I character @v.\n"
+msgstr "@i %i（%Q）是一个@I的字符@v。\n"
+
+msgid "@i %i (%Q) is an @I socket.\n"
+msgstr "@i %i（%Q）是一个@I套接字。\n"
+
+msgid "@i %i @a @b %b passes checks, but checksum does not match @b.  "
+msgstr "@i %i 的@a @b %b 通过检验，但其校验值与自身不符。  "
+
+msgid "@i %i @a is corrupt (allocation collision).  "
+msgstr "@i %i @a 已损坏（分配冲突）。  "
+
+msgid "@i %i @x tree (at level %b) could be narrower.  "
+msgstr "@i %i 的@x树（位于第 %b 层）可以更窄。  "
+
+msgid "@i %i @x tree (at level %b) could be shorter.  "
+msgstr "@i %i 的@x树（位于第 %b 层）的深度可以更小。  "
+
+msgid "@i %i @x tree could be more shallow (%b; could be <= %c)\n"
+msgstr "@i %i @x树的深度可以更小（当前为%b；可以 <= %c）\n"
+
+msgid ""
+"@i %i block %b conflicts with critical metadata, skipping block checks.\n"
+msgstr "@i %i 块 %b 与关键元数据冲突，跳过对块的检查。\n"
+
+msgid ""
+"@i %i extent block passes checks, but checksum does not match extent\n"
+"\t(logical @b %c, physical @b %b, len %N)\n"
+msgstr ""
+"@i %i 外部块通过检验，但其校验值与自身不符\n"
+"\t（逻辑@b %c，物理@b %b，长度 %N）\n"
+
+msgid "@i %i has @I @a value @i %N.\n"
+msgstr "@i %i 有一个 @I @a 值 @i %N。\n"
+
+msgid "@i %i has @x header but inline data flag is set.\n"
+msgstr "@i %i 含有@x头部，但被设置了内联数据标志。\n"
+
+msgid "@i %i has EXTENTS_FL flag set on @f without extents support.\n"
+msgstr "@i %i 被设置了EXTENTS_FL标志，但文件系统不支持extent。\n"
+
+msgid "@i %i has INDEX_FL flag set but is not a @d.\n"
+msgstr "@i %i 被设置了INDEX_FL标志，但它并非目录。\n"
+
+msgid "@i %i has INDEX_FL flag set on @f without htree support.\n"
+msgstr "@i %i 被设置了INDEX_FL标志，但文件系统不支持htree。\n"
+
+msgid "@i %i has INLINE_DATA_FL flag but @a not found.  "
+msgstr "@i %i 被设置了INDEX_DATA_FL标志，但找不到相应的@a。  "
+
+msgid "@i %i has INLINE_DATA_FL flag on @f without inline data support.\n"
+msgstr "@i %i 被设置了 INLINE_DATA_FL 标志，但文件系统不支持内联数据。\n"
+
+msgid "@i %i has a bad @a @b %b.  "
+msgstr "@i %i 有一个 @a@b %b。  "
+
+msgid ""
+"@i %i has a duplicate @x mapping\n"
+"\t(logical @b %c, @n physical @b %b, len %N)\n"
+msgstr ""
+"@i %i 含有重复的@x映射\n"
+"\t（逻辑块 %c，@n物理块@b %b，长度 %N）\n"
+
+msgid "@i %i has a extra size (%IS) which is @n\n"
+msgstr "@i %i 有一个额外的大小 %lS（@n值）\n"
+
+msgid ""
+"@i %i has an @n extent\n"
+"\t(logical @b %c, @n physical @b %b, len %N)\n"
+msgstr ""
+"@i %i 有一个@nextent\n"
+"\t（逻辑块 %c，@n物理块@b %b，长度 %N）\n"
+
+msgid ""
+"@i %i has an @n extent\n"
+"\t(logical @b %c, physical @b %b, @n len %N)\n"
+msgstr ""
+"@i %i 有一个@nextent\n"
+"\t（逻辑块 %c，物理块@b %b，长度 %N）\n"
+
+msgid "@i %i has an invalid extent node (blk %b, lblk %c)\n"
+msgstr "@i %i 是一个无效的extent节点（块 %b，lblk %c）\n"
+
+msgid "@i %i has corrupt @x header.  "
+msgstr "@i %i 含有损坏的@x头部。  "
+
+msgid "@i %i has illegal @b(s).  "
+msgstr "@i %i 中包含非法@b。  "
+
+msgid "@i %i has imagic flag set.  "
+msgstr "@i %i 被设置了imagic标志。  "
+
+msgid "@i %i has inline data and @x flags set but i_block contains junk.\n"
+msgstr "@i %i 含有内联数据且被设置了@x标志，但 i_block 中含有无效数据。\n"
+
+msgid "@i %i has inline data, but @S is missing INLINE_DATA feature\n"
+msgstr "@i %i 含有内联数据，但@S不具有 INLINE_DATA 特性\n"
+
+msgid ""
+"@i %i has out of order extents\n"
+"\t(@n logical @b %c, physical @b %b, len %N)\n"
+msgstr ""
+"@i %i 含有乱序的extent\n"
+"\t（@n 逻辑@b %c，物理@b %b，长度 %N）\n"
+
+msgid ""
+"@i %i has zero length extent\n"
+"\t(@n logical @b %c, physical @b %b)\n"
+msgstr ""
+"@i %i 含有零长度的extent\n"
+"\t（@n 逻辑@b %c，物理@b %b）\n"
+
+msgid "@i %i is a %It but it looks like it is really a directory.\n"
+msgstr "@i %i 是一个@lt，但它实际上可能是一个目录。\n"
+
+msgid "@i %i is a @z @d.  "
+msgstr "@i %i 为@z@d。  "
+
+msgid "@i %i is in extent format, but @S is missing EXTENTS feature\n"
+msgstr "@i %i 为extent格式，但@S不具有EXTENTS特性\n"
+
+msgid "@i %i is in use, but has dtime set.  "
+msgstr "使用中的@i %i 被设置了删除时间。  "
+
+msgid "@i %i is too big.  "
+msgstr "@i %i 过大。  "
+
+msgid ""
+"@i %i logical @b %b (physical @b %c) violates cluster allocation rules.\n"
+"Will fix in pass 1B.\n"
+msgstr ""
+"@i %i 逻辑@b %b（物理@b %c）违反了块分配原则。\n"
+"将会在第 1B 步中进行修复。\n"
+
+msgid "@i %i missing EXTENT_FL, but is in extents format\n"
+msgstr "@i %i 不具有EXTENT_FL标志，但却为EXTENTS格式\n"
+
+msgid "@i %i on bigalloc @f cannot be @b mapped.  "
+msgstr "位于 bigalloc @f 的@i %i on bigalloc @f 无法被@b映射。  "
+
+msgid "@i %i passes checks, but checksum does not match @i.  "
+msgstr "@i %i 通过检验，但其校验值与自身不符。  "
+
+msgid "@i %i ref count is %Il, @s %N.  "
+msgstr "@i %i 的引用计数为 %Il，@s %N。  "
+
+msgid "@i %i seems to contain garbage.  "
+msgstr "@i %i 含有无效数据。  "
+
+msgid "@i %i seems to have @b map but inline data and @x flags set.\n"
+msgstr "@i %i 似乎含有@b位图，但被设置了内联数据标志和@x标志。\n"
+
+msgid "@i %i seems to have inline data but @x flag is set.\n"
+msgstr "@i %i 似乎含有内联数据，但被设置了@x标志。\n"
+
+msgid "@i %i was part of the @o @i list.  "
+msgstr "@i %i 位于@o@i列表中。  "
+
+msgid ""
+"@i %i, end of extent exceeds allowed value\n"
+"\t(logical @b %c, physical @b %b, len %N)\n"
+msgstr ""
+"@i %i，extent结尾超过了允许范围\n"
+"\t（逻辑@b %c，物理块@b %b，长度 %N）\n"
+
+msgid "@i %i, i_@bs is %Ib, @s %N.  "
+msgstr "@i %i的i_blocks为 %ls，@s %N。  "
+
+msgid "@i %i, i_size is %Is, @s %N.  "
+msgstr "@i %i的大小为 %ls，@s %N。  "
+
+msgid "@i @B differences: "
+msgstr "@i@B的差异： "
+
+msgid "@i @B for @g %g is not in @g.  (@b %b)\n"
+msgstr "@g %g 的@i@B 并不在 @g 中。（@b %b）\n"
+
+msgid "@i count in @S is %i, @s %j.\n"
+msgstr "@S中的@i个数为 %i，@s %j。\n"
+
+msgid ""
+"@i table for @g %g is not in @g.  (@b %b)\n"
+"WARNING: SEVERE DATA LOSS POSSIBLE.\n"
+msgstr ""
+"@g %g 的@i表并不在 @g 中。（@b %b）\n"
+"警告：这可能导致严重的数据丢失。\n"
+
+msgid "@is that were part of a corrupted orphan linked list found.  "
+msgstr "发现了可能属于损坏的孤立链接表的@i。  "
+
+msgid "@j @S has an unknown incompatible feature flag set.\n"
+msgstr "@j@S被设置了未知的不兼容属性标签。\n"
+
+msgid "@j @S has an unknown read-only feature flag set.\n"
+msgstr "@j@S被设置了未知的只读属性标签。\n"
+
+msgid "@j @S is corrupt.\n"
+msgstr "@j@S被损坏。\n"
+
+msgid "@j @i is not in use, but contains data.  "
+msgstr "@j @i 未被使用，但含有数据。  "
+
+msgid "@j is not regular file.  "
+msgstr "@j不是普通文件。  "
+
+msgid "@j version not supported by this e2fsck.\n"
+msgstr "e2fsck不支持此@j版本。\n"
+
+msgid "@m @b(s) in @i %i:"
+msgstr "@m@b位于@i %i："
+
+msgid ""
+"@m @bs already reassigned or cloned.\n"
+"\n"
+msgstr ""
+"@m@b已被重新分配或克隆。\n"
+"\n"
+
+msgid "@n @h %d (%q).  "
+msgstr "@n@h %d（%q）。  "
+
+msgid "@n @i number for '.' in @d @i %i.\n"
+msgstr "@d@i %i 中“.”的@n@i编号无效。\n"
+
+msgid "@p @h %d (%q): bad @b number %b.\n"
+msgstr "@h %d（%q）中发现问题：@b编号 %b 无效。\n"
+
+msgid "@p @h %d: %B has @n count (%N)\n"
+msgstr "@h %d 中发现问题：%B 含有@n计数（%N）\n"
+
+msgid "@p @h %d: %B has @n depth (%N)\n"
+msgstr "@h %d 中发现问题：%B 含有@n深度（%N）\n"
+
+msgid "@p @h %d: %B has @n limit (%N)\n"
+msgstr "@h %d 中发现问题：%B 含有@n限制（%N）\n"
+
+msgid "@p @h %d: %B has an unordered hash table\n"
+msgstr "@h %d 中发现问题：%B 含有未排序的hash表\n"
+
+msgid "@p @h %d: %B has bad max hash\n"
+msgstr "@h %d 中发现问题：%B 含有错误的最大hash值\n"
+
+msgid "@p @h %d: %B has bad min hash\n"
+msgstr "@h %d 中发现问题：%B 含有错误的最小hash值\n"
+
+msgid "@p @h %d: %B not referenced\n"
+msgstr "@h %d 中发现问题：%B\n"
+
+msgid "@p @h %d: %B referenced twice\n"
+msgstr "@h %d 中发现问题：%B 被引用了两次\n"
+
+msgid "@p @h %d: internal node fails checksum.\n"
+msgstr "@p@h %d：内部结点的校验值错误。\n"
+
+msgid "@p @h %d: root node fails checksum.\n"
+msgstr "@p@h %d：根结点的校验值错误。\n"
+
+msgid "@p @h %d: root node is @n\n"
+msgstr "@p@h %d：结点@n\n"
+
+msgid "@q @i is not a regular file.  "
+msgstr "@q @i 不是普通文件。  "
+
+msgid "@q @i is not in use, but contains data.  "
+msgstr "@q @i 未被使用，但含有数据。  "
+
+msgid "@q @i is visible to the user.  "
+msgstr "使用中的@q@i被对用户可见。  "
+
+msgid "@r has dtime set (probably due to old mke2fs).  "
+msgstr "@r被设置了删除时间（可能由老版本的mke2fs导致）。  "
+
+msgid "@r is not a @d.  "
+msgstr "@r不是一个@d。  "
+
+msgid "@r is not a @d; aborting.\n"
+msgstr "@r不是一个@d；已终止执行。\n"
+
+msgid "@r not allocated.  "
+msgstr "@r未被分配。  "
+
+msgid "@u @i %i\n"
+msgstr "@u@i %i。\n"
+
+msgid "@u @z @i %i.  "
+msgstr "@u@z@i %i。  "
+
+msgid "A block group is missing an inode table"
+msgstr "Inode表中缺少一个块组"
+
+msgid "A profile section header has a non-zero value"
+msgstr "某个配置区段的头部含有非零值"
+
+msgid "ABORTED"
+msgstr "已中断"
+
+msgid "ALLOCATED"
+msgstr "已分配"
+
+msgid "Abort"
+msgstr "中断"
+
+msgid "Aborting...\n"
+msgstr "正在终止...\n"
+
+msgid "Aborting....\n"
+msgstr "正在终止...\n"
+
+msgid ""
+"Adding dirhash hint to @f.\n"
+"\n"
+msgstr ""
+"正在将dirhash标记添加到@f。\n"
+"\n"
+
+msgid "Adding journal to device %s: "
+msgstr "将日志添加到设备 %s： "
+
+msgid "Aerror allocating"
+msgstr "A分配出错"
+
+msgid "After running e2fsck, please run `resize2fs %s %s"
+msgstr "在运行 e2fsck 后，请运行“resize2fs %s %s"
+
+msgid "Allocate"
+msgstr "分配"
+
+msgid "Allocating group tables: "
+msgstr "正在分配组表： "
+
+msgid "Already cleared %B (%b) found in @o @i %i.\n"
+msgstr "@o@i %i 中发现已清除的 %B（%b）。\n"
+
+msgid "Attempt to add a relation to node which is not a section"
+msgstr "企图将关联添加到非区段的node"
+
+msgid "Attempt to fudge end of block bitmap past the real end"
+msgstr "尝试填充块位图尾部时超过了真实边界"
+
+msgid "Attempt to fudge end of inode bitmap past the real end"
+msgstr "尝试填充inode位图尾部时超过了真实边界"
+
+msgid "Attempt to modify a block mapping via a read-only block iterator"
+msgstr "企图通过只读的块迭代器修改块映射"
+
+msgid "Attempt to modify read-only profile"
+msgstr "企图修改该只读的配置"
+
+msgid "Attempt to read block from filesystem resulted in short read"
+msgstr "尝试读取文件系统块的操作过早结束"
+
+msgid "Attempt to write block to filesystem resulted in short write"
+msgstr "尝试x文件系统块的操作过早结束"
+
+msgid "Attempt to write to filesystem opened read-only"
+msgstr "尝试写入到只读的文件系统"
+
+msgid "BLKFLSBUF ioctl not supported!  Can't flush buffers.\n"
+msgstr "不支持对BLKFLSBUF进行 ioctl 调用！  无法刷新缓存。\n"
+
+msgid ""
+"Backing up @j @i @b information.\n"
+"\n"
+msgstr ""
+"正在备份@j@i@b的信息。\n"
+"\n"
+
+msgid "Backup"
+msgstr "备份"
+
+msgid "Bad @b %b used as bad @b @i indirect @b.  "
+msgstr "坏@b %b 被用作坏@b@i的链接@b。  "
+
+msgid ""
+"Bad @b @i has an indirect @b (%b) that conflicts with\n"
+"@f metadata.  "
+msgstr "坏@b@i含有一个与@f元数据冲突的连接@b（%b）。  "
+
+msgid "Bad @b @i has illegal @b(s).  "
+msgstr "坏@b@i含有无效的@b。  "
+
+msgid "Bad CRC detected in file system"
+msgstr "在文件系统中检测到错误的 CRC 值"
+
+msgid "Bad block %u out of range; ignored.\n"
+msgstr "坏块 %u 超出范围；已忽略。\n"
+
+msgid "Bad block list says the bad block list @i is bad.  "
+msgstr "坏块列表中的数据表明，坏块列表@i 已损坏。  "
+
+msgid "Bad blocks: %u"
+msgstr "坏块数：%u"
+
+msgid "Bad group level in profile structures"
+msgstr "配置结构体中有错误的组级别"
+
+msgid "Bad linked list in profile structures"
+msgstr "配置结构体中有错误的链表"
+
+msgid "Bad magic number in super-block"
+msgstr "超级块中的幻数有错"
+
+msgid "Bad magic value in profile iterator"
+msgstr "配置迭代器中的幻数有错"
+
+msgid "Bad magic value in profile_file_data_t"
+msgstr "profile_file_data_t中的幻数有误"
+
+msgid "Bad magic value in profile_file_t"
+msgstr "profile_file_t中的幻数有错"
+
+msgid "Bad magic value in profile_node"
+msgstr "profile_node中的幻数有错"
+
+msgid "Bad magic value in profile_section_t"
+msgstr "profile_section_t中的幻数有错"
+
+msgid "Bad magic value in profile_t"
+msgstr "profile_t中的幻数有错"
+
+msgid "Bad nameset passed to query routine"
+msgstr "传给了查询程序错误的名称集"
+
+msgid "Bad number: %s\n"
+msgstr "错误的数量：%s\n"
+
+msgid "Bad or non-existent /@l.  Cannot reconnect.\n"
+msgstr "错误或不存在的/@l。无法重新连接。\n"
+
+msgid "Bad parent pointer in profile structures"
+msgstr "配置结构体中有错误的父指针"
+
+msgid "Bbitmap"
+msgstr "B位图"
+
+msgid "Begin pass %d (max = %lu)\n"
+msgstr "开始第 %d 步（共 %lu 步）\n"
+
+msgid "Block %b in the primary @g descriptors is on the bad @b list\n"
+msgstr "主@g描述符中的块 %b 位于坏@b列表中\n"
+
+msgid "Block %d in primary superblock/group descriptor area bad.\n"
+msgstr "主超级块/组描述符中的块 %d 为坏块。\n"
+
+msgid "Block bitmap checksum does not match bitmap"
+msgstr "块位图校验值与位图自身不符"
+
+msgid "Block bitmap not loaded"
+msgstr "未加载块位图"
+
+msgid "Block bitmaps are not the same"
+msgstr "块位图不相同"
+
+msgid "Block group descriptor size incorrect"
+msgstr "块组描述符大小错误"
+
+msgid "Block size=%u (log=%u)\n"
+msgstr "块大小=%u（log=%u）\n"
+
+msgid "Blocks %u through %u must be good in order to build a filesystem.\n"
+msgstr "若要创建文件系统，块 %u 至 %u 必须为好块。\n"
+
+msgid "CLEARED"
+msgstr "已清除"
+
+msgid "CONTINUING"
+msgstr "继续"
+
+msgid "CREATED"
+msgstr "已创建"
+
+msgid "Can not continue."
+msgstr "无法继续。"
+
+msgid "Can not stat output\n"
+msgstr "无法对输出进行stat操作\n"
+
+msgid "Can't allocate block buffer"
+msgstr "无法为块缓存分配内存"
+
+msgid "Can't check if filesystem is mounted due to missing mtab file"
+msgstr "由于mtab文件缺失，无法检验文件系统是否已挂载"
+
+msgid "Can't find external @j\n"
+msgstr "无法找到外部@j\n"
+
+msgid "Can't read a block bitmap"
+msgstr "无法读取块位图"
+
+msgid "Can't read an inode bitmap"
+msgstr "无法读取inode位图"
+
+msgid "Can't read an inode table"
+msgstr "无法读取inode表"
+
+msgid "Can't read group descriptors"
+msgstr "无法读取组描述符"
+
+msgid "Can't read next inode"
+msgstr "无法读取下一个inode"
+
+msgid "Can't set value on section node"
+msgstr "无法设置区段节点"
+
+msgid "Can't support bigalloc feature without extents feature"
+msgstr "无法在缺乏extent特性的情况下支持bigalloc特性"
+
+msgid "Can't write a block bitmap"
+msgstr "无法写入块位图"
+
+msgid "Can't write an inode bitmap"
+msgstr "无法写入inode位图"
+
+msgid "Can't write an inode table"
+msgstr "无法写入inode表"
+
+msgid "Can't write group descriptors"
+msgstr "无法写入组描述符"
+
+msgid ""
+"Cannot allocate space for /@l.\n"
+"Place lost files in root directory instead"
+msgstr ""
+"无法为 /@l 分配空间。\n"
+"请将丢失的文件置于根目录下"
+
+msgid ""
+"Cannot change the 64bit feature on a filesystem that is larger than 2^32 "
+"blocks.\n"
+msgstr "无法在含有超过 2^32 个块的文件系统上改变 64 位特性。\n"
+
+msgid "Cannot change the 64bit feature while the filesystem is mounted.\n"
+msgstr "无法在已挂载的文件系统上改变 64 位特性。\n"
+
+msgid ""
+"Cannot continue, aborting.\n"
+"\n"
+msgstr ""
+"无法继续，已中止。\n"
+"\n"
+
+msgid "Cannot create filesystem with requested number of inodes"
+msgstr "无法创建含有指定inode数的文件系统"
+
+msgid "Cannot disable 64-bit mode while mounted!\n"
+msgstr "无法在已挂载的文件系统上禁用 64 位模式！\n"
+
+msgid "Cannot disable metadata_csum on a mounted filesystem!\n"
+msgstr "无法在已挂载的文件系统上禁用元数据校验特性！\n"
+
+msgid "Cannot enable 64-bit mode while mounted!\n"
+msgstr "无法在已挂载的文件系统上启用 64 位模式！\n"
+
+msgid "Cannot enable metadata_csum on a mounted filesystem!\n"
+msgstr "无法在已挂载的文件系统上启用元数据校验特性！\n"
+
+msgid "Cannot get geometry of %s: %s"
+msgstr "无法获取 %s 的布局：%s"
+
+msgid "Cannot get size of %s: %s"
+msgstr "无法获得 %s 的大小：%s"
+
+msgid "Cannot iterate data blocks of an inode containing inline data"
+msgstr "无法对含有内联数据的 inode 中的数据块进行迭代"
+
+msgid ""
+"Cannot locate journal device. It was NOT removed\n"
+"Use -f option to remove missing journal device.\n"
+msgstr ""
+"无法定位日志设备。设备未被移除\n"
+"请使用 -f 选项来移除丢失的日志设备。\n"
+
+msgid "Cannot modify a journal device.\n"
+msgstr "无法修改日志设备。\n"
+
+msgid "Cannot open %s: %s"
+msgstr "无法打开 %s：%s"
+
+msgid "Cannot proceed with file system check"
+msgstr "无法在系统检查时进行"
+
+msgid "Cannot proceed without a @r.\n"
+msgstr "无法在没有@r的情况下继续。\n"
+
+msgid "Cannot set and unset 64bit feature.\n"
+msgstr "无法设置/取消设置 64 位特性。\n"
+
+msgid "Cconflicts with some other fs @b"
+msgstr "C与其他文件系统@b冲突"
+
+msgid ""
+"Changing the inode size not supported for filesystems with the flex_bg\n"
+"feature enabled.\n"
+msgstr "启用了弹性组特性的文件系统不支持改变inode大小\n"
+
+msgid "Checking all file systems.\n"
+msgstr "正在检查所有文件系统。\n"
+
+msgid "Checking blocks %lu to %lu\n"
+msgstr "正在检查从 %lu 到 %lu的块\n"
+
+msgid "Checking for bad blocks (non-destructive read-write test)\n"
+msgstr "正在检验坏块（非破坏性读写测试）\n"
+
+msgid "Checking for bad blocks (read-only test): "
+msgstr "检查坏块（只读测试）： "
+
+msgid "Checking for bad blocks in non-destructive read-write mode\n"
+msgstr "使用非破坏性读写模式进行坏块检验\n"
+
+msgid "Checking for bad blocks in read-only mode\n"
+msgstr "在只读模式中检查坏块\n"
+
+msgid "Checking for bad blocks in read-write mode\n"
+msgstr "在读写模式中检查坏块\n"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Clear @j"
+msgstr "清除@j"
+
+msgid "Clear HTree index"
+msgstr "清除HTree索引"
+
+msgid "Clear inode"
+msgstr "清除inode"
+
+msgid "Clearing"
+msgstr "正在清除"
+
+msgid "Clearing filesystem feature '%s' not supported.\n"
+msgstr "移除不被支持的文件系统特性“%s”。\n"
+
+msgid ""
+"Clearing the flex_bg flag would cause the the filesystem to be\n"
+"inconsistent.\n"
+msgstr "清除弹性组标志将会导致文件系统出现前后不一致的情况。\n"
+
+msgid "Clone multiply-claimed blocks"
+msgstr "克隆重叠块"
+
+msgid "Cluster size=%u (log=%u)\n"
+msgstr "簇大小=%u（log=%u）\n"
+
+msgid "Connect to /lost+found"
+msgstr "连接到 /lost+found"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Converting the filesystem to 32-bit.\n"
+msgstr "将文件系统转换为 32 位。\n"
+
+msgid "Converting the filesystem to 64-bit.\n"
+msgstr "将文件系统转换为 64 位。\n"
+
+msgid "Copied %llu / %llu blocks (%d%%) in %s "
+msgstr "已复制 %llu / %llu 块（%d%%），用时 %s "
+
+msgid "Copying "
+msgstr "正在拷贝 "
+
+msgid "Copying files into the device: "
+msgstr "将文件复制到设备： "
+
+msgid "Corrupt directory block %llu: bad name_len (%d)\n"
+msgstr "损坏的目录块 %llu：name_len（%d）错误\n"
+
+msgid "Corrupt directory block %llu: bad rec_len (%d)\n"
+msgstr "损坏的目录块 %llu：rec_len（%d）错误\n"
+
+msgid "Corrupt extent"
+msgstr "extent损坏"
+
+msgid "Corrupt extent header"
+msgstr "extent头损坏"
+
+msgid "Corrupt extent index"
+msgstr "extent索引损坏"
+
+msgid "Corrupt group descriptor: bad block for block bitmap"
+msgstr "组描述符损坏：块位图中有坏块"
+
+msgid "Corrupt group descriptor: bad block for inode bitmap"
+msgstr "组描述符损坏：inode位图中有坏块"
+
+msgid "Corrupt group descriptor: bad block for inode table"
+msgstr "组描述符损坏：inode表中有坏块"
+
+msgid "Corruption found in @S.  (%s = %N).\n"
+msgstr "在@S中发现错误。（%s = %N）。\n"
+
+msgid "Could not allocate block in ext2 filesystem"
+msgstr "无法为ext2文件系统分配块"
+
+msgid "Could not allocate inode in ext2 filesystem"
+msgstr "无法为ext2文件系统分配inode"
+
+msgid "Could not expand /@l: %m\n"
+msgstr "无法扩充/@l：%m\n"
+
+msgid "Could not open %s: %s\n"
+msgstr "无法打开 %s：%s\n"
+
+msgid "Could not reconnect %i: %m\n"
+msgstr "无法重新连接%i：%m\n"
+
+msgid "Could this be a zero-length partition?\n"
+msgstr "分区长度为零吗？\n"
+
+msgid "Couldn't allocate block buffer (size=%d)\n"
+msgstr "无法为块缓存分配内存（大小=%d）\n"
+
+msgid "Couldn't allocate header buffer\n"
+msgstr "无法为头缓冲区分配内存\n"
+
+msgid "Couldn't allocate memory for filesystem types\n"
+msgstr "无法为创建指定文件系统类型分配内存\n"
+
+msgid "Couldn't allocate memory for new PATH.\n"
+msgstr "无法为新路径分配内存。\n"
+
+msgid "Couldn't allocate memory to parse journal options!\n"
+msgstr "无法为解析日志选项获取内存！\n"
+
+msgid "Couldn't allocate memory to parse options!\n"
+msgstr "无法为解析选项获取内存！\n"
+
+msgid "Couldn't allocate path variable in chattr_dir_proc"
+msgstr "无法在chattr_dir_proc中为路径变量分配内存"
+
+msgid "Couldn't bind unix socket %s: %s\n"
+msgstr "无法绑定unix套接字%s：%s\n"
+
+msgid "Couldn't clone file: %m\n"
+msgstr "无法克隆文件：%m\n"
+
+msgid "Couldn't create unix stream socket: %s"
+msgstr "无法创建unix流套接字：%s"
+
+msgid ""
+"Couldn't determine device size; you must specify\n"
+"the size manually\n"
+msgstr "无法确定设备大小；你必须手动指定大小\n"
+
+msgid ""
+"Couldn't determine device size; you must specify\n"
+"the size of the filesystem\n"
+msgstr "无法确定设备大小；你必须手动指定大小\n"
+
+msgid "Couldn't find journal superblock magic numbers"
+msgstr "无法找到日志超级块的幻数"
+
+msgid "Couldn't find valid filesystem superblock.\n"
+msgstr "找不到有效的文件系统超级块。\n"
+
+msgid ""
+"Couldn't fix parent of @i %i: %m\n"
+"\n"
+msgstr ""
+"无法修改@i %i的父节点：%m\n"
+"\n"
+
+msgid ""
+"Couldn't fix parent of @i %i: Couldn't find parent @d @e\n"
+"\n"
+msgstr ""
+"无法修改@i %i的父节点：无法找到其父@d@e\n"
+"\n"
+
+msgid "Couldn't init profile successfully (error: %ld).\n"
+msgstr "无法成功初始化配置（错误：%ld）。\n"
+
+msgid "Couldn't kill uuidd running at pid %d: %s\n"
+msgstr "无法杀死pid为 %d 的uuidd进程：%s\n"
+
+msgid "Couldn't listen on unix socket %s: %s\n"
+msgstr "无法监听unix套接字%s：%s\n"
+
+msgid "Couldn't open profile file"
+msgstr "无法打开配置文件"
+
+msgid "Couldn't parse date/time specifier: %s"
+msgstr "无法解析日期/时间描述符：%s"
+
+msgid "Create"
+msgstr "创建"
+
+msgid "Creating %lu huge file(s) "
+msgstr "创建 %lu 个大文件 "
+
+msgid "Creating filesystem with %llu %dk blocks and %u inodes\n"
+msgstr "创建含有 %llu 个块（每块 %dk）和 %u 个inode的文件系统\n"
+
+msgid "Creating journal (%d blocks): "
+msgstr "创建日志（%d 个块）： "
+
+msgid "Creating journal (%u blocks): "
+msgstr "创建日志（%u 个块） "
+
+msgid "Creating journal inode: "
+msgstr "创建日志inode： "
+
+msgid "Creating journal on device %s: "
+msgstr "在设备 %s 上创建日志： "
+
+msgid "Creating regular file %s\n"
+msgstr "创建一般文件 %s\n"
+
+msgid "Ddeleted"
+msgstr "D删除"
+
+msgid "Delete file"
+msgstr "删除文件"
+
+msgid ""
+"Device size reported to be zero.  Invalid partition specified, or\n"
+"\tpartition table wasn't reread after running fdisk, due to\n"
+"\ta modified partition being busy and in use.  You may need to reboot\n"
+"\tto re-read your partition table.\n"
+msgstr ""
+"设备大小为零。可能是指定了无效的设备，或是分区表在\n"
+"\t执行fdisk后未被重新加载（分区正被占用）导致的。\n"
+"\t你可能需要重启后重新读取分区表。\n"
+
+msgid "Directories count wrong for @g #%g (%i, counted=%j).\n"
+msgstr "@g #%g的目录计数错误（%i，实际为%j）\n"
+
+msgid "Directory block checksum does not match directory block"
+msgstr "目录块校验值与目录块自身不符"
+
+msgid "Directory block does not have space for checksum"
+msgstr "目录块中没有用于存储校验值的空间"
+
+msgid "Directory hash unsupported"
+msgstr "不支持目录hash"
+
+msgid "Disabling checksums could take some time."
+msgstr "禁用校验值需要花费一段时间。"
+
+msgid "Discard succeeded and will return 0s - skipping inode table wipe\n"
+msgstr "舍弃成功，将会返回0值 - 跳过擦除inode表\n"
+
+msgid "Discarding device blocks: "
+msgstr "丢弃设备块： "
+
+msgid ""
+"Disk write-protected; use the -n option to do a read-only\n"
+"check of the device.\n"
+msgstr "磁盘写保护；请使用 -n 选项进行只读检查。\n"
+
+msgid "Do you really want to continue"
+msgstr "你真的想要继续吗"
+
+msgid "Duplicate @E found.  "
+msgstr "发现%p（%i）中有重复项“%Dn”。  "
+
+msgid ""
+"Duplicate @e '%Dn' found.\n"
+"\tMarking %p (%i) to be rebuilt.\n"
+"\n"
+msgstr ""
+"发现了重复的@e”@Dn“。\n"
+"\t将 %p（%i）标记为需要重建的。\n"
+"\n"
+
+msgid "Duplicate or bad @b in use!\n"
+msgstr "使用了重复@b或坏@b！\n"
+
+msgid ""
+"E2FSCK_JBD_DEBUG \"%s\" not an integer\n"
+"\n"
+msgstr ""
+"E2FSCK_JBD_DEBUG “%s”不是整数\n"
+"\n"
+
+msgid "E2image snapshot not in use"
+msgstr "未使用e2image快照"
+
+msgid "E@e '%Dn' in %p (%i)"
+msgstr "E%p（%i）中的@e “%Dn”"
+
+msgid "ERROR: Couldn't open /dev/null (%s)\n"
+msgstr "错误：无法打开/dev/null（%s）\n"
+
+msgid "EXPANDED"
+msgstr "已扩充"
+
+msgid "EXT2 directory corrupted"
+msgstr "EXT2目录损坏"
+
+msgid ""
+"Either all or none of the filesystem types passed to -t must be prefixed\n"
+"with 'no' or '!'.\n"
+msgstr ""
+"所有通过 -t 选项指定的文件系统类型必须都含有（或都不含有）\n"
+"“no”或“！”前缀。\n"
+
+msgid "Empty directory block %u (#%d) in inode %u\n"
+msgstr "空目录块 %u（#%d）于 inode %u 中\n"
+
+msgid "Enabling checksums could take some time."
+msgstr "启用校验值需要花费一段时间。"
+
+msgid "Encrypted @E is too short.\n"
+msgstr "加密的@E太短。\n"
+
+msgid "Error adjusting refcount for @a @b %b (@i %i): %m\n"
+msgstr "为@aB %b（@i %i）调整refcount时出错：%m\n"
+
+msgid "Error calling uuidd daemon (%s): %s\n"
+msgstr "调用uuidd守护进程（%s）时出错：%s\n"
+
+msgid "Error converting subcluster @b @B: %m\n"
+msgstr "转换子簇的@d@b时出错：%m\n"
+
+msgid "Error copying in replacement @b @B: %m\n"
+msgstr "替换@b@B时拷贝错误：%m\n"
+
+msgid "Error copying in replacement @i @B: %m\n"
+msgstr "替换@i@B时拷贝错误：%m\n"
+
+msgid "Error creating /@l @d (%s): %m\n"
+msgstr "创建/@l@d（%s）时出错：%m\n"
+
+msgid "Error creating root @d (%s): %m\n"
+msgstr "创建根@d（%s）时出错：%m\n"
+
+msgid "Error deallocating @i %i: %m\n"
+msgstr "取消分配@i %i时出错：%m\n"
+
+msgid "Error determining size of the physical @v: %m\n"
+msgstr "决定物理@v的大小出错 %m\n"
+
+msgid "Error flushing writes to storage device: %m\n"
+msgstr "将缓冲写入到存储设备：%m\n"
+
+msgid ""
+"Error in resizing the inode size.\n"
+"Run e2undo to undo the file system changes. \n"
+msgstr ""
+"改变inode大小时出错。\n"
+"请运行e2undo来撤销对文件系统的更改。 \n"
+
+msgid "Error in using clear_mmp. It must be used with -f\n"
+msgstr "clear_mmp选项使用错误，必须和 -f 选项一起使用\n"
+
+msgid "Error initializing quota context in support library: %m\n"
+msgstr "初始化支持库中的引用上下文时出错：%m\n"
+
+msgid "Error iterating over @d @bs: %m\n"
+msgstr "迭代@d@b时出错：%m\n"
+
+msgid "Error loading external journal"
+msgstr "尝试打开外部日志时"
+
+msgid ""
+"Error moving @j: %m\n"
+"\n"
+msgstr ""
+"移动@j出错：%m\n"
+"\n"
+
+msgid "Error reading @a @b %b (%m).  "
+msgstr "读取@a@b %b 时出错（%m）。  "
+
+msgid "Error reading @a @b %b for @i %i.  "
+msgstr "读取@i %i 的@a@b %b 时出错。  "
+
+msgid "Error reading @d @b %b (@i %i): %m\n"
+msgstr "读取@d@b %b（@i %i）时出错：%m\n"
+
+msgid "Error reading @i %i: %m\n"
+msgstr "读取@i %i出错：%m\n"
+
+msgid "Error reading block %lu (%s) while %s.  "
+msgstr "%3$s 时读取块 %1$lu（%2$s）错误。  "
+
+msgid "Error reading block %lu (%s).  "
+msgstr "读取块 %lu（%s）错误。  "
+
+msgid "Error reading from client, len = %d\n"
+msgstr "读取客户端内容出错，内容长度 = %d\n"
+
+msgid "Error setting @b @g checksum info: %m\n"
+msgstr "设置@b@g的校验信息时出错：%m\n"
+
+msgid "Error storing @d @b information (@i=%i, @b=%b, num=%N): %m\n"
+msgstr "写入@d@b信息时出错（@i %i，@b %b，数量=%N）\n"
+
+msgid "Error storing @i count information (@i=%i, count=%N): %m\n"
+msgstr "写入@i计数信息时出错（@i %i，计数=%N）：%m\n"
+
+msgid "Error validating file descriptor %d: %s\n"
+msgstr "验证文件描述符 %d 时出错：%s\n"
+
+msgid "Error while adjusting @i count on @i %i\n"
+msgstr "调整@i %i的inode计数时出错\n"
+
+msgid "Error while determining whether %s is mounted."
+msgstr "确定 %s 是否已挂载时出错。"
+
+msgid "Error while iterating over @bs in @i %i (%s): %m\n"
+msgstr "迭代@i %i中的@b时出错（%s）：%m\n"
+
+msgid "Error while iterating over @bs in @i %i: %m\n"
+msgstr "迭代@i %i 中的@b时出错：%m\n"
+
+msgid "Error while reading bitmaps\n"
+msgstr "读取位图时发生错误\n"
+
+msgid "Error while reading over @x tree in @i %i: %m\n"
+msgstr "读取@i %i 中的@x树时出错：%m\n"
+
+msgid "Error while scanning @is (%i): %m\n"
+msgstr "扫描@i（%i）时出错：%m\n"
+
+msgid "Error while scanning inodes (%i): %m\n"
+msgstr "扫描Inode（%i\\）时出错：%m\n"
+
+msgid "Error while trying to find /@l: %m\n"
+msgstr "尝试查找/@l时出错：%m\n"
+
+msgid "Error writing @a @b %b (%m).  "
+msgstr "写入@a@b %b 时出错（%m）。  "
+
+msgid "Error writing @d @b %b (@i %i): %m\n"
+msgstr "写入@d@b %b（@i %i）时出错：%m\n"
+
+msgid "Error writing block %lu (%s) while %s.  "
+msgstr "%3$s 时写入块 %1$lu （%2$s）出错。  "
+
+msgid "Error writing block %lu (%s).  "
+msgstr "写块 %lu（%s）出错。  "
+
+msgid "Error writing file system info: %m\n"
+msgstr "写入文件系统信息时出错：%m\n"
+
+msgid "Error writing quota info for quota type %N: %m\n"
+msgstr "写入配额类型 %N 的配额信息时出错：%m\n"
+
+msgid "Error: ext2fs library version out of date!\n"
+msgstr "错误：ext2fs库版本过旧！\n"
+
+msgid "Error: header size is bigger than wrt_size\n"
+msgstr "错误：头部大小超过wrt_size\n"
+
+msgid "Errors detected; running e2fsck is required.\n"
+msgstr "检测到错误；请运行 e2fsck。\n"
+
+msgid "Estimated minimum size of the filesystem: %llu\n"
+msgstr "预计文件系统的最小尺寸：%llu\n"
+
+msgid "Expand"
+msgstr "扩充"
+
+msgid "Ext2 directory already exists"
+msgstr "ext2目录块已存在"
+
+msgid "Ext2 directory block not found"
+msgstr "未找到ext2目录块"
+
+msgid "Ext2 file already exists"
+msgstr "Ext2 文件已存在"
+
+msgid "Ext2 file too big"
+msgstr "ext2文件太大"
+
+msgid "Ext2 inode is not a directory"
+msgstr "ext2 inode不为目录"
+
+msgid "Ext2fs directory block list is empty"
+msgstr "ext2文件系统目录块列表为空"
+
+msgid "Ext2fs operation not supported"
+msgstr "ext2文件系统操作不支持"
+
+msgid "Extended attribute block checksum does not match block"
+msgstr "扩展属性块校验值与属性块自身不符"
+
+msgid "Extended attribute block has a bad header"
+msgstr "扩展属性块的头部有误"
+
+msgid "Extended attribute has an incorrect hash"
+msgstr "扩展属性块的校验值错误"
+
+msgid "Extended attribute has an invalid name length"
+msgstr "扩展属性名的长度无效"
+
+msgid "Extended attribute has an invalid value length"
+msgstr "扩展属性名的值无效"
+
+msgid "Extended attribute has an invalid value offset"
+msgstr "扩增属性中含有无效的偏移量"
+
+msgid "Extended attribute key not found"
+msgstr "找不到扩展属性的键"
+
+msgid "Extending the inode table"
+msgstr "正在扩充inode表"
+
+msgid "Extent block checksum does not match extent block"
+msgstr "extent块校验值与extent块自身不符"
+
+msgid "Extent length is invalid"
+msgstr "extent长度无效"
+
+msgid "Extent not found"
+msgstr "未找到extent"
+
+msgid ""
+"Extents MUST be enabled for a 64-bit filesystem.  Pass -O extents to "
+"rectify.\n"
+msgstr "64位系统必须启用extent特性。请使用“-O extents”选项来修正。\n"
+
+msgid ""
+"Extents are not enabled.  The file extent tree can be checksummed, whereas "
+"block maps cannot.  Not enabling extents reduces the coverage of metadata "
+"checksumming.  Pass -O extents to rectify.\n"
+msgstr ""
+"未启用 extent 特性，所以仅对文件 extent 树进行校验，而不会对块位图进行校验。不启用 extent "
+"将降低元数据校验值的覆盖范围。可以使用参数“-O extents”来进行纠正。\n"
+
+msgid ""
+"Extents are not enabled.  The file extent tree can be checksummed, whereas "
+"block maps cannot.  Not enabling extents reduces the coverage of metadata "
+"checksumming.  Re-run with -O extent to rectify.\n"
+msgstr ""
+"未启用 extent 特性，所以仅对文件 extent 树进行校验，而不会对块位图进行校验。不启用 extent "
+"将降低元数据校验值的覆盖范围。可以加上参数“-O extents”重新运行来纠正这一问题。\n"
+
+msgid "External @j @S checksum does not match @S.  "
+msgstr "外部@j@S校验值与@S自身不符  "
+
+msgid "External @j does not support this @f\n"
+msgstr "外部@j不支持此@f\n"
+
+msgid "External @j has bad @S\n"
+msgstr "外部@j有坏@S\n"
+
+msgid "External @j has multiple @f users (unsupported).\n"
+msgstr "外部@j含有多个@f用户（不支持此特性）。\n"
+
+msgid "Extra closing brace in profile"
+msgstr "配置中发现额外的右括号"
+
+msgid "FILE DELETED"
+msgstr "文件已删除"
+
+msgid "FIXED"
+msgstr "已处理"
+
+msgid "Failed to allocate block bitmap when increasing inode size\n"
+msgstr "增加inode大小时为分配块位图失败\n"
+
+msgid "Failed to change inode size\n"
+msgstr "改变inode大小失败\n"
+
+msgid "Failed to create dirs_to_hash iterator: %m\n"
+msgstr "创建dirs_to_hash迭代器出错：%m\n"
+
+msgid ""
+"Failed to iterate extents in @i %i\n"
+"\t(op %s, blk %b, lblk %c): %m\n"
+msgstr ""
+"递归@i %i 中的extent失败\n"
+"\t（选项 %s，块 %b，lblk %c）：%m\n"
+
+msgid "Failed to optimize @x tree %p (%i): %m\n"
+msgstr "优化@x树 %p（%i）失败：%m\n"
+
+msgid "Failed to optimize directory %q (%d): %m\n"
+msgstr "优化目录 %q（%d）失败：%m\n"
+
+msgid "Failed to parse fs types list\n"
+msgstr "解析文件系统类型列表失败\n"
+
+msgid "Failed to read block bitmap\n"
+msgstr "读取块位图失败\n"
+
+msgid "Failed to read inode bitmap\n"
+msgstr "读取inode位图失败\n"
+
+msgid "Failed to relocate blocks during inode resize \n"
+msgstr "改变块大小时重定位块失败 \n"
+
+msgid "Fast symlink %i has EXTENT_FL set.  "
+msgstr "直接符号链接 %i 被设置了EXTENT_FL标志。  "
+
+msgid "Ffor @i %i (%Q) is"
+msgstr "F关于@i %i （%Q）为"
+
+msgid ""
+"File %Q (@i #%i, mod time %IM) \n"
+"  has %r @m @b(s), shared with %N file(s):\n"
+msgstr ""
+"文件 %Q（@i #%i，修改时间 %IM）\n"
+"与 %N 个文件共享 %r 个@m@b\n"
+
+msgid "File not found by ext2_lookup"
+msgstr "ext2_lookup未发现文件"
+
+msgid "File open read-only"
+msgstr "文件以只读模式打开"
+
+msgid "File system is corrupted"
+msgstr "文件系统已损坏"
+
+msgid "Filesystem UUID: %s\n"
+msgstr "文件系统UUID：%s\n"
+
+msgid ""
+"Filesystem at %s is mounted on %s, and on-line resizing is not supported on "
+"this system.\n"
+msgstr "文件系统 %s 被挂载在 %s，并且这个系统不支持在线调整大小。\n"
+
+msgid "Filesystem at %s is mounted on %s; on-line resizing required\n"
+msgstr "%s 上的文件系统已被挂载于 %s；需要进行在线调整大小\n"
+
+msgid "Filesystem does not support online resizing"
+msgstr "文件系统不支持在线调整大小"
+
+msgid "Filesystem features not supported with revision 0 filesystems\n"
+msgstr "版本为0的文件系统不支持这些特性\n"
+
+msgid "Filesystem has unexpected block size"
+msgstr "文件系统的块大小异常"
+
+msgid "Filesystem has unsupported feature(s)"
+msgstr "文件系统有不被支持的特性"
+
+msgid "Filesystem has unsupported read-only feature(s)"
+msgstr "文件系统有不被支持的只读特性"
+
+msgid "Filesystem is missing ext_attr or inline_data feature"
+msgstr "文件系统缺少 ext_attr 或 inline_data feature 特性"
+
+msgid "Filesystem label=%s\n"
+msgstr "文件系统标签=%s\n"
+
+msgid "Filesystem larger than apparent device size."
+msgstr "文件系统大小超过设备的实际大小。"
+
+msgid "Filesystem mounted or opened exclusively by another program?\n"
+msgstr "文件系统可能已挂载，或正被其他程序独占使用？\n"
+
+msgid "Filesystem revision too high"
+msgstr "文件系统版本太高"
+
+msgid "Filesystem too large to use legacy bitmaps"
+msgstr "文件系统太大，无法使用传统位图"
+
+msgid "Filesystem's UUID not found on journal device.\n"
+msgstr "日志设备中未找到文件系统的UUID。\n"
+
+msgid "Finished with %s (exit status %d)\n"
+msgstr "已完成 %s （退出状态码 %d）\n"
+
+msgid "First @e '%Dn' (@i=%Di) in @d @i %i (%p) @s '.'\n"
+msgstr "@d@i %i 中的第一个@e“%Dn”（@i=%Di）@s“.”\n"
+
+msgid "First data block=%u\n"
+msgstr "第一个数据块=%u\n"
+
+msgid "First_meta_bg is too big.  (%N, max value %g).  "
+msgstr "第一个meta_bg太大。（%N，最大值 %g）  "
+
+msgid "Fix"
+msgstr "处理"
+
+msgid "Fixing size of inline @d @i %i failed.\n"
+msgstr "修复内联@d @i %i 的大小失败。\n"
+
+msgid "Flags of %s set as "
+msgstr "%s的标志被设为 "
+
+msgid "Flex_bg feature not enabled, so flex_bg size may not be specified"
+msgstr "弹性组特性未启用，所以无法指定弹性组尺寸"
+
+msgid "Force rewrite"
+msgstr "强制覆盖"
+
+msgid ""
+"Found @n V2 @j @S fields (from V1 @j).\n"
+"Clearing fields beyond the V1 @j @S...\n"
+"\n"
+msgstr ""
+"在V1@j中发现@nV2@j@S区域。\n"
+"正在清除V1@j@S以外的区域...\n"
+"\n"
+
+msgid "Found a %s partition table in %s\n"
+msgstr "在 %s 中发现一个 %s 分区表\n"
+
+msgid "Fragment size=%u (log=%u)\n"
+msgstr "分块大小=%u（log=%u）\n"
+
+msgid "Free @bs count wrong (%b, counted=%c).\n"
+msgstr "可用@b数错误（%i，实际为%j）\n"
+
+msgid "Free @bs count wrong for @g #%g (%b, counted=%c).\n"
+msgstr "@g #%g的可用@b计数错误（%i，实际为%j）。\n"
+
+msgid "Free @is count wrong (%i, counted=%j).\n"
+msgstr "可用@i数错误（%i，实际为%j）\n"
+
+msgid "Free @is count wrong for @g #%g (%i, counted=%j).\n"
+msgstr "@g #%g的可用@i计数错误（%i，实际为%j）。\n"
+
+msgid "From block %lu to %lu\n"
+msgstr "从块 %lu 至 %lu\n"
+
+msgid "Generated %d UUID's:\n"
+msgstr "已生成 %d 个UUID：\n"
+
+msgid "Generated random UUID: %s\n"
+msgstr "已生成随机数UUID：%s\n"
+
+msgid "Generated time UUID %s and subsequent UUID\n"
+msgid_plural "Generated time UUID %s and %d subsequent UUIDs\n"
+msgstr[0] "已生成时间UUID %s 和 %d 个后续的UUID\n"
+
+msgid "Generated time UUID: %s\n"
+msgstr "已生成时间UUID：%s\n"
+
+msgid "Get a newer version of e2fsck!"
+msgstr "请获取新版本的e2fsck！"
+
+msgid "Group %lu: (Blocks "
+msgstr "组 %lu：(块 "
+
+msgid "Group descriptors look bad..."
+msgstr "组描述符似乎是错误的..."
+
+msgid "HTREE INDEX CLEARED"
+msgstr "HTree索引已清除"
+
+msgid "Huge files will be zero'ed\n"
+msgstr "将对大文件填零\n"
+
+msgid "I/O Channel does not support 64-bit block numbers"
+msgstr "I/O通道不支持64位表示的块数"
+
+msgid "IGNORED"
+msgstr "已忽略"
+
+msgid "INODE CLEARED"
+msgstr "INODE 已清除"
+
+msgid "IO Channel failed to seek on read or write"
+msgstr "I/O通道定位读取/写入位置时失败"
+
+msgid "IO error during replay; run e2fsck NOW!\n"
+msgstr "执行重做操作时出现输入/输出错误；请立即运行 e2fsck！\n"
+
+msgid ""
+"If you are sure the filesystem is not in use on any node, run:\n"
+"'tune2fs -f -E clear_mmp %s'\n"
+msgstr ""
+"如果您确定文件系统并没有挂载到任何节点上，请运行：\n"
+"“tune2fs -f -E clear_mmp %s”\n"
+
+msgid ""
+"If you are sure the filesystem is not in use on any node, run:\n"
+"'tune2fs -f -E clear_mmp {device}'\n"
+msgstr ""
+"如果你确定文件系统并没有挂载到任何节点上，请运行：\n"
+"“tune2fs -f -E clear_mmp {设备}”\n"
+
+msgid ""
+"If you only use kernels newer than v4.4, run 'tune2fs -O metadata_csum_seed'"
+" and re-run this command.\n"
+msgstr "若您仅使用 Linux 4.4 以上的内核，请运行“tune2fs -O metadata_csum_seed”，然后重新运行此命令。\n"
+
+msgid "Ignore error"
+msgstr "忽略错误"
+
+msgid "Iillegal"
+msgstr "I非法的"
+
+msgid "Illegal block number"
+msgstr "非法的块数"
+
+msgid "Illegal block number passed to ext2fs_mark_block_bitmap"
+msgstr "传递给ext2fs_mark_block_bitmap的块数为非法值"
+
+msgid "Illegal block number passed to ext2fs_test_block_bitmap"
+msgstr "传递给ext2fs_test_block_bitmap的块数为非法值"
+
+msgid "Illegal block number passed to ext2fs_unmark_block_bitmap"
+msgstr "传递给ext2fs_unmark_block_bitmap的块数为非法值"
+
+msgid "Illegal doubly indirect block found"
+msgstr "发现了非法的二次链接块"
+
+msgid "Illegal extended attribute block number"
+msgstr "非法的扩展属性块号"
+
+msgid "Illegal generic bit number passed to ext2fs_mark_generic_bitmap"
+msgstr "传递给ext2fs_mark_generic_bitmap的通用位数为为非法值"
+
+msgid "Illegal generic bit number passed to ext2fs_test_generic_bitmap"
+msgstr "传递给ext2fs_test_generic_bitmap的通用位数为为非法值"
+
+msgid "Illegal generic bit number passed to ext2fs_unmark_generic_bitmap"
+msgstr "传递给ext2fs_unmark_generic_bitmap的通用位数为为非法值"
+
+msgid "Illegal indirect block found"
+msgstr "发现非法的链接块"
+
+msgid "Illegal inode number"
+msgstr "非法的inode数"
+
+msgid "Illegal inode number passed to ext2fs_mark_inode_bitmap"
+msgstr "传递给ext2fs_mark_inode_bitmap的块数为非法值"
+
+msgid "Illegal inode number passed to ext2fs_test_inode_bitmap"
+msgstr "传递给ext2fs_test_inode_bitmap的块数为非法值"
+
+msgid "Illegal inode number passed to ext2fs_unmark_inode_bitmap"
+msgstr "传递给ext2fs_unmark_inode_bitmap的块数为非法值"
+
+msgid "Illegal number for blocks per group"
+msgstr "非法的每组块数"
+
+msgid "Illegal number for flex_bg size"
+msgstr "非法的弹性组大小"
+
+msgid "Illegal number of blocks!\n"
+msgstr "非法的块数量！\n"
+
+msgid "Illegal or malformed device name"
+msgstr "设备名非法或格式错误"
+
+msgid "Illegal triply indirect block found"
+msgstr "发现非法的三次链接块"
+
+msgid "Image (%s) is compressed\n"
+msgstr "镜像（%s）已被压缩\n"
+
+msgid "Image (%s) is corrupted\n"
+msgstr "镜像（%s）已损坏\n"
+
+msgid "Image (%s) is encrypted\n"
+msgstr "镜像（%s）已被加密\n"
+
+msgid "Incomplete undo record; run e2fsck.\n"
+msgstr "撤销记录不完整；请运行 e2fsck。\n"
+
+msgid "Inline @d @i %i size (%N) must be a multiple of 4.\n"
+msgstr "内联@d @i %i 的大小（%N）必须为4的整数倍。\n"
+
+msgid "Inode bitmap checksum does not match bitmap"
+msgstr "inode位图校验值与位图自身不符"
+
+msgid "Inode bitmap not loaded"
+msgstr "未加载inode位图"
+
+msgid "Inode bitmaps are not the same"
+msgstr "inode位图不相同"
+
+msgid "Inode checksum does not match inode"
+msgstr "inode校验值与inode自身不符"
+
+msgid "Inode does not use extents"
+msgstr "inode未使用extent"
+
+msgid "Inode doesn't have inline data"
+msgstr "Inode 中不含内联数据"
+
+msgid "Inode is corrupted"
+msgstr "Inode 已损坏"
+
+msgid "Inode seems to contain garbage"
+msgstr "Inode 中含有无效数据"
+
+msgid "Inode size must be a power of two- %s"
+msgstr "Inode 大小必须是2的次方- %s"
+
+msgid ""
+"Insufficient space to recover lost files!\n"
+"Move data off the @f and re-run e2fsck.\n"
+"\n"
+msgstr ""
+"没有足够的空间来回复丢失文件！\n"
+"请将数据从@f中移出，然后重新运行 e2fsck。\n"
+"\n"
+
+msgid "Insufficient space to store extended attribute data"
+msgstr "用于存储扩增属性数据的空间不足"
+
+msgid ""
+"Interior @x node level %N of @i %i:\n"
+"Logical start %b does not match logical start %c at next level.  "
+msgstr ""
+"@i %i 的子@x节点等级 %N：\n"
+"逻辑起始位点 %b 与下一等级的逻辑起始位点 %c 不匹配。  "
+
+msgid "Internal error in ext2fs_expand_dir"
+msgstr "ext2fs_expand_dir中出现内部错误"
+
+msgid "Internal error: couldn't find dir_info for %i.\n"
+msgstr "内部错误：无法找到 %i 的dir_info。\n"
+
+msgid "Internal error: fudging end of bitmap (%N)\n"
+msgstr "内部错误：虚构的位图端点\n"
+
+msgid "Internal error: max extent tree depth too large (%b; expected=%c).\n"
+msgstr "内部错误：extent树的最大深度过大（当前为 %b；应为 %c）。\n"
+
+msgid "Invalid # of backup superblocks: %s\n"
+msgstr "备份超级块编号无效：%s\n"
+
+msgid "Invalid %U @q @i %i.  "
+msgstr "无效的 %U @q @i %i。  "
+
+msgid "Invalid EA version.\n"
+msgstr "无效的EA版本号。\n"
+
+msgid "Invalid RAID stride: %s\n"
+msgstr "无效的RAID带宽：%s\n"
+
+msgid "Invalid RAID stripe-width: %s\n"
+msgstr "无效的带宽参数：%s\n"
+
+msgid "Invalid UUID format\n"
+msgstr "无效的 UUID 格式\n"
+
+msgid "Invalid argument passed to ext2 library"
+msgstr "传给了ext2库无效的参数"
+
+msgid "Invalid argument passed to profile library"
+msgstr "传给了配置库无效的参数"
+
+msgid "Invalid blocksize parameter: %s\n"
+msgstr "无效的块大小参数：%s\n"
+
+msgid "Invalid boolean value"
+msgstr "无效的布尔值"
+
+msgid "Invalid completion information file descriptor"
+msgstr "无效的文件描述符信息"
+
+msgid "Invalid desc_size: '%s'\n"
+msgstr "desc_size值无效：“%s”\n"
+
+msgid "Invalid encoding: %s"
+msgstr "无效的编码：%s"
+
+msgid "Invalid filesystem option set: %s\n"
+msgstr "设置了无效的文件系统选项：%s\n"
+
+msgid "Invalid hash algorithm: %s\n"
+msgstr "无效的hash算法：%s\n"
+
+msgid "Invalid inode size %lu (max %d)\n"
+msgstr "无效的inode大小 %lu（最大 %d）\n"
+
+msgid "Invalid integer value"
+msgstr "无效的整数值"
+
+msgid "Invalid mmp_update_interval: %s\n"
+msgstr "无效mmp更新间隔：%s\n"
+
+msgid "Invalid mount option set: %s\n"
+msgstr "设置了无效的挂载选项：%s\n"
+
+msgid "Invalid new size: %s\n"
+msgstr "无效的新大小： %s\n"
+
+msgid "Invalid offset: %s\n"
+msgstr "无效的偏移量： %s\n"
+
+msgid "Invalid operation %d\n"
+msgstr "操作 %d 无效\n"
+
+msgid "Invalid profile_section object"
+msgstr "无效的配置区段对象"
+
+msgid "Invalid readahead buffer size.\n"
+msgstr "预读取缓冲区大小无效。\n"
+
+msgid "Invalid resize parameter: %s\n"
+msgstr "无效的改变大小参数：%s\n"
+
+msgid "Invalid root_owner: '%s'\n"
+msgstr "无效的根目录所有者：“%s”\n"
+
+msgid "Invalid stride length"
+msgstr "无效的步长度"
+
+msgid "Invalid stride parameter: %s\n"
+msgstr "无效的步长参数：%s\n"
+
+msgid "Invalid stripe-width parameter: %s\n"
+msgstr "无效的带宽参数：%s\n"
+
+msgid "Invalid superblock parameter: %s\n"
+msgstr "无效的超级块参数：%s\n"
+
+msgid "Iteration through all top level section not supported"
+msgstr "不支持迭代所有顶级区段"
+
+msgid "Journal checksum error found in %s\n"
+msgstr "在 %s 中发现日志校验值错误\n"
+
+msgid "Journal corrupted in %s\n"
+msgstr "%s 中的日志已损坏\n"
+
+msgid "Journal dev blocksize (%d) smaller than minimum blocksize %d\n"
+msgstr "日志设备的块大小（%d）不能低于最小的块大小 %d\n"
+
+msgid "Journal flags inconsistent"
+msgstr "日志标志不一致"
+
+msgid "Journal must be at least 1024 blocks"
+msgstr "日志大小至少为1024个块"
+
+msgid "Journal needs recovery; running `e2fsck -E journal_only' is required.\n"
+msgstr "日志需要恢复；请运行“e2fsck -E journal_only”。\n"
+
+msgid "Journal not found"
+msgstr "日志未找到"
+
+msgid "Journal removed\n"
+msgstr "日志已删除\n"
+
+msgid ""
+"Journal superblock is corrupted, nr_users\n"
+"is too high (%d).\n"
+msgstr ""
+"日志超级块已损坏，nr_users\n"
+"过高（%d）。\n"
+
+msgid "Journal superblock magic number invalid!\n"
+msgstr "日志超级块的幻数有错！\n"
+
+msgid "Journal superblock not found"
+msgstr "日志超级块未找到"
+
+msgid "Journal superblock not found!\n"
+msgstr "日志超级块未找到！\n"
+
+msgid "Journal transaction %i was corrupt, replay was aborted.\n"
+msgstr "日志事务 %i 损坏，撤销过程已终止。\n"
+
+msgid "Journals not supported with revision 0 filesystems\n"
+msgstr "版本为0的文件系统不支持日志\n"
+
+msgid "Kernel does not support online resizing"
+msgstr "内核不支持在线调整大小"
+
+msgid "Kernel does not support resizing a file system this large"
+msgstr "内核不支持调整如此之大的文件系统"
+
+msgid "Killed uuidd running at pid %d\n"
+msgstr "已杀死pid为 %d 的uuidd进程\n"
+
+msgid "Last @g @b @B uninitialized.  "
+msgstr "最后一个@g的@b@B未初始化。  "
+
+msgid "Last mount time does not match.\n"
+msgstr "上一次的挂载时间不匹配。\n"
+
+msgid "Last write time does not match.\n"
+msgstr "上一次的写入时间不匹配。\n"
+
+msgid "Lifetime write counter does not match.\n"
+msgstr "写入计数不匹配。\n"
+
+msgid "Lis a link"
+msgstr "L是一个链接"
+
+msgid "List of UUID's:\n"
+msgstr "UUID列表：\n"
+
+msgid "MMP block checksum does not match"
+msgstr "MMP 块校验值不符"
+
+msgid ""
+"MMP block magic is bad. Try to fix it by running:\n"
+"'e2fsck -f %s'\n"
+msgstr ""
+"MMP块幻数错误。请尝试运行一下命令来修复：\n"
+"“e2fsck -f %s”\n"
+
+msgid ""
+"MMP interval is %u seconds and total wait time is %u seconds. Please "
+"wait...\n"
+msgstr "MMP间隔为 %u 秒，总等候时间为 %u 秒。请稍候...\n"
+
+msgid "MMP: block number beyond filesystem range"
+msgstr "MMP：块编号超出文件系统边界"
+
+msgid "MMP: device currently active"
+msgstr "MMP：设备当前为活动状态"
+
+msgid "MMP: e2fsck being run"
+msgstr "MMP：e2fsck 正在运行"
+
+msgid "MMP: filesystem still in use"
+msgstr "MMP：文件系统正在被使用"
+
+msgid "MMP: invalid magic number"
+msgstr "MMP：无效的幻数"
+
+msgid "MMP: open with O_DIRECT failed"
+msgstr "MMP：使用O_DIRECT标志打开失败"
+
+msgid "MMP: undergoing an unknown operation"
+msgstr "MMP：正在进行未知的操作"
+
+msgid "MULTIPLY-CLAIMED BLOCKS CLONED"
+msgstr "重叠块已克隆"
+
+msgid "Magic number in MMP block does not match. expected: %x, actual: %x\n"
+msgstr "MMP块的幻数不匹配。期望值：%x，实际：%x\n"
+
+msgid "Maximum filesystem blocks=%lu\n"
+msgstr "文件系统块的最大值=%lu\n"
+
+msgid "Maximum of one test_pattern may be specified in read-only mode"
+msgstr "只读测试中最多只能指定一种测试模式"
+
+msgid "Memory allocation failed"
+msgstr "内存分配出错"
+
+msgid "Memory used: %d, elapsed time: %6.3f/%6.3f/%6.3f\n"
+msgstr "内存用量：%d，持续时间：%6.3f/%6.3f/%6.3f\n"
+
+msgid "Memory used: %lu, "
+msgstr "已使用内存：%lu， "
+
+msgid "Memory used: %luk/%luk (%luk/%luk), "
+msgstr "内存使用量：%luk/%luk（%luk/%luk）， "
+
+msgid "Missing '.' in @d @i %i.\n"
+msgstr "@d@i %i 中缺少“.”。\n"
+
+msgid "Missing '..' in @d @i %i.\n"
+msgstr "@d@i %i 中缺少“..”。\n"
+
+msgid "Missing open brace in profile"
+msgstr "配置中缺少左括号"
+
+msgid "Mounting read-only.\n"
+msgstr "以只读模式挂载。\n"
+
+msgid "Move mode is only allowed with raw images."
+msgstr "移动模式只能用于原始镜像"
+
+msgid "Move mode requires all data mode."
+msgstr "原始镜像需要完全数据模式。"
+
+msgid ""
+"Moving @j from /%s to hidden @i.\n"
+"\n"
+msgstr ""
+"将@j从 /%s 移动到隐藏的@i。\n"
+"\n"
+
+msgid "Moving inode table"
+msgstr "正在移动inode表"
+
+msgid "Multiple mount protection has been enabled with update interval %ds.\n"
+msgstr "MMP（多重挂载保护）已被启用，更新间隔为 %ds。\n"
+
+msgid "Multiple mount protection is enabled with update interval %d seconds.\n"
+msgstr "MMP（多重挂载保护）已被启用，更新间隔为 %d 秒。\n"
+
+msgid "Must use '-v', =, - or +\n"
+msgstr "必须使用“-v”、=、- 或 + 其中之一\n"
+
+msgid "Need to update journal superblock.\n"
+msgstr "需要更新日志超级块。\n"
+
+msgid "New size smaller than minimum (%llu)\n"
+msgstr "新大小不能低于此最小值：%llu\n"
+
+msgid "New size too large to be expressed in 32 bits\n"
+msgstr "新大小太大，无法用32位数表示\n"
+
+msgid "No 'down' extent"
+msgstr "找不到“下一个”extent"
+
+msgid "No 'next' extent"
+msgstr "找不到“后一个”extent"
+
+msgid "No 'previous' extent"
+msgstr "找不到“前一个”extent"
+
+msgid "No 'up' extent"
+msgstr "找不到“上一个”extent"
+
+msgid "No block for an inode with inline data"
+msgstr "含有内联数据的 inode 不含块"
+
+msgid "No current node"
+msgstr "当前节点不存在"
+
+msgid "No free space in extent map"
+msgstr "extent映射中没有可用空间"
+
+msgid "No free space in inline data"
+msgstr "没有足够空间用于存储内联数据"
+
+msgid "No free space in the directory"
+msgstr "目录中没有可用空间"
+
+msgid "No more sections"
+msgstr "没有更多的区段"
+
+msgid "No profile file open"
+msgstr "未打开任何配置文件"
+
+msgid "No room in @l @d.  "
+msgstr "@l@d中没有空间。  "
+
+msgid "No room to insert extent in node"
+msgstr "没有足够空间用于插入extent到节点"
+
+msgid "Not enough reserved gdt blocks for resizing"
+msgstr "没有足够的保留gdt块用于改变文件系统大小"
+
+msgid "Not enough space to build proposed filesystem"
+msgstr "没有足够的空间用于建立指定的文件系统"
+
+msgid "Not enough space to increase inode size \n"
+msgstr "没有足够的空间用于增加inode大小 \n"
+
+msgid ""
+"Note: if several inode or block bitmap blocks or part\n"
+"of the inode table require relocation, you may wish to try\n"
+"running e2fsck with the '-b %S' option first.  The problem\n"
+"may lie only with the primary block group descriptors, and\n"
+"the backup block group descriptors may be OK.\n"
+"\n"
+msgstr ""
+"注意：如果有数个inode、块位图或inode表\n"
+"需要重定位，你可以用“-b %S”选项运行\n"
+"e2fsck。如果问题出在组描述符的主块，\n"
+"那么可以尝试它们的备份块。\n"
+"\n"
+
+msgid "OS type: %s\n"
+msgstr "操作系统： %s\n"
+
+msgid "Offsets are only allowed with raw images."
+msgstr "偏移量只能用于原始镜像"
+
+msgid "Old resize interface requested.\n"
+msgstr "使用旧版本的改变大小操作接口。\n"
+
+msgid "On-line resizing not supported with revision 0 filesystems\n"
+msgstr "版本为0的文件系统不支持在线改变大小。\n"
+
+msgid "On-line shrinking not supported"
+msgstr "不支持在线缩小块"
+
+msgid "One or more @b @g descriptor checksums are invalid.  "
+msgstr "一个或多个@b@g描述符的校验值无效。  "
+
+msgid "Only one of the options -p/-a, -n or -y may be specified."
+msgstr "只能使用选项 -p/-a、-n 或 -y 其中之一。"
+
+msgid "Operation not supported for inodes containing extents"
+msgstr "含有extent的inode不支持此操作"
+
+msgid "Optimize"
+msgstr "优化"
+
+msgid "Optimizing @x trees: "
+msgstr "优化@x树： "
+
+msgid "Optimizing directories: "
+msgstr "优化目录： "
+
+msgid "Orphans detected; running e2fsck is recommended.\n"
+msgstr "检测到孤立块；建议您运行 e2fsck。\n"
+
+msgid "Out of memory erasing sectors %d-%d\n"
+msgstr "擦除扇区 %d-%d 时内存耗尽\n"
+
+msgid ""
+"Overwriting existing filesystem; this can be undone using the command:\n"
+"    e2undo %s %s\n"
+"\n"
+msgstr ""
+"正在覆盖现有的文件系统；可以用下列命令来撤销该操作：\n"
+"    e2undo %s %s\n"
+"\n"
+
+msgid ""
+"PROGRAMMING ERROR: @f (#%N) @B endpoints (%b, %c) don't match calculated @B "
+"endpoints (%i, %j)\n"
+msgstr "程序错误：@f（# %n）@B端点（%b，%c）与计算值（%i，%j）不符\n"
+
+msgid "Padding at end of @b @B is not set. "
+msgstr "@b@B末尾的填充值未设置。 "
+
+msgid "Padding at end of @i @B is not set. "
+msgstr "@i@B末尾的填充值未设置。 "
+
+msgid ""
+"Partition offset of %llu (%uk) blocks not compatible with cluster size %u.\n"
+msgstr "分区偏移量 %llu（%uk）块与簇大小 %u 不相容。\n"
+
+msgid "Pass 1"
+msgstr "第 1 步"
+
+msgid "Pass 1: Checking @is, @bs, and sizes\n"
+msgstr "第 1 步：检查@i、@b和大小\n"
+
+msgid "Pass 1C: Scanning directories for @is with @m @bs\n"
+msgstr "第 1C 步：扫描含有@m@b的目录@i\n"
+
+msgid "Pass 1D: Reconciling @m @bs\n"
+msgstr "第 1C 步：调整@m@b\n"
+
+msgid "Pass 1E: Optimizing @x trees\n"
+msgstr "第 1E 步：优化@x树\n"
+
+msgid "Pass 2"
+msgstr "第 2 步"
+
+msgid "Pass 2: Checking @d structure\n"
+msgstr "第 2 步：检查目录结构\n"
+
+msgid "Pass 3"
+msgstr "第 3 步"
+
+msgid "Pass 3: Checking @d connectivity\n"
+msgstr "第 3 步：检查目录连接性\n"
+
+msgid "Pass 3A: Optimizing directories\n"
+msgstr "第 3A 步：优化目录\n"
+
+msgid "Pass 4"
+msgstr "第 4 步"
+
+msgid "Pass 4: Checking reference counts\n"
+msgstr "第 4 步：检查引用计数\n"
+
+msgid "Pass 5"
+msgstr "第 5 步"
+
+msgid "Pass 5: Checking @g summary information\n"
+msgstr "第 5 步：检查@g概要信息\n"
+
+msgid "Pass completed, %u bad blocks found. (%d/%d/%d errors)\n"
+msgstr "此步已完成，发现了 %u 个坏块。（%d/%d/%d 个错误）\n"
+
+msgid "Peak memory"
+msgstr "内存峰值"
+
+msgid "Performing an on-line resize of %s to %llu (%dk) blocks.\n"
+msgstr "在线调整 %s 的大小为 %llu 块（每块为 %dk）\n"
+
+msgid "Permission denied to resize filesystem"
+msgstr "没有调整文件系统大小的权限"
+
+msgid ""
+"Please enable the extents feature with tune2fs before enabling the 64bit "
+"feature.\n"
+msgstr "在启用 64 位特性前，请先执行 tune2fs 来启用 extent。\n"
+
+msgid ""
+"Please run 'e2fsck -f %s' first.\n"
+"\n"
+msgstr ""
+"请先运行“e2fsck -f %s”。\n"
+"\n"
+
+msgid ""
+"Please run 'e2fsck -fy %s' to fix the filesystem\n"
+"after the aborted resize operation.\n"
+msgstr ""
+"请在终止调整操作后运行“e2fsck -fy %s”\n"
+"来修复文件系统。\n"
+
+msgid "Please run `resize2fs %s %s"
+msgstr "请运行“resize2fs %s %s"
+
+msgid "Please run e2fsck -fy %s.\n"
+msgstr "请先运行“e2fsck -fy %s”。\n"
+
+msgid "Possibly non-existent device?\n"
+msgstr "可能该设备不存在？\n"
+
+msgid "Possibly non-existent or swap device?\n"
+msgstr "可能为swap分区，或该设备不存在？\n"
+
+msgid "Primary"
+msgstr "主"
+
+msgid "Proceed anyway (or wait %d seconds to proceed) ? (y,N) "
+msgstr "无论如何也要继续（或等待 %d 秒）?（y,N） "
+
+msgid "Proceed anyway? (y,N) "
+msgstr "无论如何也要继续?（y,N) "
+
+msgid "Profile relation not found"
+msgstr "未找到配置关系"
+
+msgid "Profile section header not at top level"
+msgstr "配置区段头部不处于顶级"
+
+msgid "Profile section not found"
+msgstr "未找到配置区段"
+
+msgid "Profile version 0.0"
+msgstr "配置版本 0.0"
+
+msgid "Programming error: multiple sequential refcount blocks created!\n"
+msgstr "程序错误：创建了多重序列的引用计数块！\n"
+
+msgid "Programming error?  @b #%b claimed for no reason in process_bad_@b.\n"
+msgstr "检测到@b #%b 为坏@b，但原因未知（可能是程序错误导致的）。\n"
+
+msgid "Project of %s set as %lu\n"
+msgstr "%s 的项目被设置为 %lu\n"
+
+msgid "QCOW2 image can not be written to the stdout!\n"
+msgstr "无法写入qcow2镜像到标准输出！\n"
+
+msgid "RECONNECTED"
+msgstr "已重新连接"
+
+msgid "RELOCATED"
+msgstr "已重定位"
+
+msgid "Random test_pattern is not allowed in read-only mode"
+msgstr "只读测试中不允许使用随机测试模式"
+
+msgid "Raw and qcow2 images cannot be installed"
+msgstr "原始镜像和qcow2镜像无法被安装"
+
+msgid "Reading and comparing: "
+msgstr "正在读取并比较： "
+
+msgid "Recalculating checksums could take some time."
+msgstr "重新计算校验值需要花费一段时间。"
+
+msgid "Recovering journal.\n"
+msgstr "正在修复日志。\n"
+
+msgid "Recovery flag not set in backup @S, so running @j anyway.\n"
+msgstr "备份@S中未设置恢复标志，继续处理日志。\n"
+
+msgid "Recreate"
+msgstr "重建"
+
+msgid "Recreate @j"
+msgstr "重建@j"
+
+msgid "Relocate"
+msgstr "重定位"
+
+msgid "Relocating @g %g's %s from %b to %c...\n"
+msgstr "正在将@g %g 的 %s 从 %b 重定位至 %c...\n"
+
+msgid "Relocating @g %g's %s to %c...\n"
+msgstr "正在将@g %g 的 %s 重定位至 %c...\n"
+
+msgid "Relocating blocks"
+msgstr "正在重定位块"
+
+msgid "Reserved @i %i (%Q) has @n mode.  "
+msgstr "保留的@i %i（%Q）的模式无效。  "
+
+msgid "Resize @i (re)creation failed: %m."
+msgstr "改变@i大小失败：%m。"
+
+msgid "Resize @i not valid.  "
+msgstr "改变@i大小的值无效。  "
+
+msgid "Resize inode is corrupt"
+msgstr "改变inode大小时有数据损坏"
+
+msgid "Resize_@i not enabled, but the resize @i is non-zero.  "
+msgstr "不支持更改@i大小，但所给的变更值非零。  "
+
+msgid "Resizing inodes could take some time."
+msgstr "改变 inode 大小需要花费一段时间。"
+
+msgid "Resizing the filesystem on %s to %llu (%dk) blocks.\n"
+msgstr "将 %s 上的文件系统调整为 %llu 个块（每块 %dk）。\n"
+
+msgid "Restarting e2fsck from the beginning...\n"
+msgstr "正在从头开始e2fsck...\n"
+
+msgid "Root directory owner=%u:%u\n"
+msgstr "根目录的所有者=%u:%u\n"
+
+msgid "Run @j anyway"
+msgstr "强制@j"
+
+msgid "Running command: %s\n"
+msgstr "正在执行命令：%s\n"
+
+msgid "SALVAGED"
+msgstr "已修复"
+
+msgid "SPLIT"
+msgstr "分割"
+
+msgid "SUPPRESSED"
+msgstr "禁止"
+
+msgid "Salvage"
+msgstr "修复"
+
+msgid "Scanning inode table"
+msgstr "正在扫描inode表"
+
+msgid "Scanning inodes...\n"
+msgstr "扫描inode中...\n"
+
+msgid "Second @e '%Dn' (@i=%Di) in @d @i %i @s '..'\n"
+msgstr "@d@i %i 中的第二个@e“%Dn”（@i=%Di）@s“..”\n"
+
+msgid "Section already exists"
+msgstr "区段已存在"
+
+msgid "Setting current mount count to %d\n"
+msgstr "设置当前挂载次数为 %d\n"
+
+msgid "Setting default hash algorithm to %s (%d)\n"
+msgstr "将默认hash算法设置为 %s （%d）\n"
+
+msgid "Setting error behavior to %d\n"
+msgstr "将出错行为设置为 %d\n"
+
+msgid "Setting extended default mount options to '%s'\n"
+msgstr "设置默认挂载的扩展选项为 “%s”\n"
+
+msgid ""
+"Setting feature 'metadata_csum_seed' is only supported\n"
+"on filesystems with the metadata_csum feature enabled.\n"
+msgstr ""
+"只有在启用了元数据校验值特性的文件系统才支持\n"
+"“metadata_csum_seed”特性。\n"
+
+msgid "Setting filesystem error flag to force fsck.\n"
+msgstr "设置文件系统错误标志以强制 fsck。\n"
+
+msgid "Setting filesystem feature '%s' not supported.\n"
+msgstr "设置不被支持的文件系统特性“%s”。\n"
+
+msgid ""
+"Setting filesystem feature 'sparse_super' not supported\n"
+"for filesystems with the meta_bg feature enabled.\n"
+msgstr ""
+"启用了meta_bg特性的文件系统不支持“sparse_super”\n"
+"特性。\n"
+
+msgid "Setting filetype for @E to %N.\n"
+msgstr "将@E的文件类型设置为 %N。\n"
+
+msgid "Setting free @bs count to %c (was %b)\n"
+msgstr "设置未使用的@b数为 %c（曾为%b）\n"
+
+msgid "Setting free @is count to %j (was %i)\n"
+msgstr "设置未使用的@i数为 %j（曾为%i）\n"
+
+msgid "Setting inode size %lu\n"
+msgstr "正在将inode大小设置为 %lu\n"
+
+msgid "Setting interval between checks to %lu seconds\n"
+msgstr "将检查间隔设置为 %lu 秒\n"
+
+msgid "Setting maximal mount count to %d\n"
+msgstr "设置最大挂载次数为 %d\n"
+
+msgid "Setting multiple mount protection update interval to %lu second\n"
+msgid_plural ""
+"Setting multiple mount protection update interval to %lu seconds\n"
+msgstr[0] "设置MMP更新间隔为 %lu 秒\n"
+
+msgid "Setting reserved blocks count to %llu\n"
+msgstr "设置保留块数为 %llu\n"
+
+msgid "Setting reserved blocks gid to %lu\n"
+msgstr "设置保留块的gid为 %lu\n"
+
+msgid "Setting reserved blocks percentage to %g%% (%llu blocks)\n"
+msgstr "将保留块所占百分比设置为 %g%%（%llu 个块）\n"
+
+msgid "Setting reserved blocks uid to %lu\n"
+msgstr "设置保留块的uid为 %lu\n"
+
+msgid "Setting stride size to %d\n"
+msgstr "设置步长为 %d\n"
+
+msgid "Setting stripe width to %d\n"
+msgstr "设置带宽为 %d\n"
+
+msgid "Setting the UUID on this filesystem could take some time."
+msgstr "在此文件系统上设置 UUID 需要花费一段时间。"
+
+msgid "Setting time filesystem last checked to %s\n"
+msgstr "设置上一次检查的时间为 %s\n"
+
+msgid "Should never happen!  No sb in last super_sparse bg?\n"
+msgstr "不应当出现的情况：最后一个分散式超级块块组中没有超级块！\n"
+
+msgid "Should never happen!  Unexpected old_desc in super_sparse bg?\n"
+msgstr "不应当出现的情况：分散式超级块块组中有未预期的old_desc！\n"
+
+msgid "Should never happen: resize inode corrupt!\n"
+msgstr "不应出现的错误：改变inode大小时发现有数据损坏！\n"
+
+msgid "Shrinking inode size is not supported\n"
+msgstr "不支持缩小inode大小\n"
+
+msgid "Skipping journal creation in super-only mode\n"
+msgstr "跳过创建日志的步骤（唯超级块模式）\n"
+
+msgid "Sparse superblocks not supported with revision 0 filesystems\n"
+msgstr "版本为0的文件系统不支持分散式超级块\n"
+
+msgid "Special (@v/socket/fifo) @i %i has non-zero size.  "
+msgstr "特殊文件（@v/套接字/队列）@i %i 为非零大小。  "
+
+msgid ""
+"Special (@v/socket/fifo) file (@i %i) has extents\n"
+"or inline-data flag set.  "
+msgstr ""
+"特殊文件（@v/套接字/队列）（@i %i）被设置了\n"
+"extents 或内联数据标志。  "
+
+msgid ""
+"Special (@v/socket/fifo/symlink) file (@i %i) has immutable\n"
+"or append-only flag set.  "
+msgstr ""
+"特殊文件（@v/套接字/队列/ 符号链接）（@i %i）由chattr设置了 i\n"
+"（保护）或 a（仅追加） 标志。  "
+
+msgid "Split"
+msgstr "分割"
+
+msgid "Splitting would result in empty node"
+msgstr "分割操作将导致空节点产生"
+
+msgid "Ssuper@b"
+msgstr "S超级@b"
+
+msgid ""
+"Stopping now will destroy the filesystem, interrupt again if you are sure\n"
+msgstr "现在终止将会损坏文件系统；如果你确定要终止，请再次进行打断\n"
+
+msgid "Stride=%u blocks, Stripe width=%u blocks\n"
+msgstr "步长=%u 块，带宽=%u 块\n"
+
+msgid ""
+"Suggestion: Use Linux kernel >= 3.18 for improved stability of the metadata "
+"and journal checksum features.\n"
+msgstr "建议：使用 3.18 以上的 Linux 内核以提高元数据稳定性，以及使用日志校验值特性。\n"
+
+msgid "Superblock backups stored on blocks: "
+msgstr "超级块的备份存储于下列块： "
+
+msgid "Superblock checksum does not match superblock"
+msgstr "i超级块校验值与超级块自身不符"
+
+msgid "Superblock invalid,"
+msgstr "超级块无效，"
+
+msgid "Supplied journal device not a block device"
+msgstr "指定的日志设备不是块设备"
+
+msgid "Suppress messages"
+msgstr "不显示消息"
+
+msgid "Symlink %Q (@i #%i) is @n.\n"
+msgstr "符号链接 %Q（@i #%i）无效。\n"
+
+msgid ""
+"Syntax error in e2fsck config file (%s, line #%d)\n"
+"\t%s\n"
+msgstr ""
+"e2fsck 配置文件中语法错误（%s，第 %d 行）\n"
+"\t%s\n"
+
+msgid ""
+"Syntax error in mke2fs config file (%s, line #%d)\n"
+"\t%s\n"
+msgstr ""
+"mke2fs配置文件中有语法错误（%s，第 %d 行）\n"
+"\t%s\n"
+
+msgid "Syntax error in profile relation"
+msgstr "配置关系中有语法错误"
+
+msgid "Syntax error in profile section header"
+msgstr "配置区段头部中有语法错误"
+
+msgid "TDB: Corrupt database"
+msgstr "TDB：数据库损坏"
+
+msgid "TDB: IO Error"
+msgstr "TDB：I/O错误"
+
+msgid "TDB: Invalid parameter"
+msgstr "TDB：无效的参数"
+
+msgid "TDB: Lock exists on other keys"
+msgstr "TDB：锁已存在于其他键"
+
+msgid "TDB: Locking error"
+msgstr "TDB：锁定错误"
+
+msgid "TDB: Out of memory"
+msgstr "TDB：内存耗尽"
+
+msgid "TDB: Record does not exist"
+msgstr "TDB：记录不存在"
+
+msgid "TDB: Record exists"
+msgstr "TDB：记录已存在"
+
+msgid "TDB: Success"
+msgstr "TDB：成功"
+
+msgid "TDB: Write not permitted"
+msgstr "TDB：不允许写入"
+
+msgid "TRUNCATED"
+msgstr "截断"
+
+msgid "Testing with pattern 0x"
+msgstr "现在测试模式 0x"
+
+msgid "Testing with random pattern: "
+msgstr "现在测试随机模式： "
+
+msgid "The -D and -E fixes_only options are incompatible."
+msgstr "-D 和 -E fixes_only 选项是互相排斥的。"
+
+msgid "The -E bmap2extent and fixes_only options are incompatible."
+msgstr "-E bmap2extent 和 fixes_only 选项是互相排斥的。"
+
+msgid "The -T option may only be used once"
+msgstr "-T 选项只能被指定一次"
+
+msgid "The -c and the -l/-L options may not be both used at the same time.\n"
+msgstr "-c 和 -l/-L 选项不能同时使用。\n"
+
+msgid "The -c option not supported when writing to stdout\n"
+msgstr "写入到标准输出时无法使用 -c 选项\n"
+
+msgid "The -c option only supported in raw mode\n"
+msgstr "只有原始模式支持 -c 选项\n"
+
+msgid "The -n and -D options are incompatible."
+msgstr "%s：-n 和 -D 选项是互相排斥的。"
+
+msgid "The -n and -c options are incompatible."
+msgstr "%s：-n 和 -c 选项是互相排斥的。"
+
+msgid "The -n and -l/-L options are incompatible."
+msgstr "%s：-n 和 -l/-L 选项是相互排斥的。"
+
+msgid "The -p option only supported in raw mode\n"
+msgstr "只有原始模式支持 -p 选项\n"
+
+msgid "The -t option is not supported on this version of e2fsck.\n"
+msgstr "此版本的e2fsck不支持 -t 选项。\n"
+
+msgid "The -t option may only be used once"
+msgstr "-t 选项只能被指定一次"
+
+msgid ""
+"The @f size (according to the @S) is %b @bs\n"
+"The physical size of the @v is %c @bs\n"
+"Either the @S or the partition table is likely to be corrupt!\n"
+msgstr ""
+"根据@S，@f的大小应为 %b @bs\n"
+"但@v的实际大小是 %c @bs\n"
+"@S或分区表可能已经损坏！\n"
+
+msgid "The HURD does not support the ea_inode feature.\n"
+msgstr "HURD 不支持 ea_inode 特性。\n"
+
+msgid "The HURD does not support the filetype feature.\n"
+msgstr "HURD 不支持文件类型。\n"
+
+msgid "The HURD does not support the huge_file feature.\n"
+msgstr "HURD 不支持大文件特性。\n"
+
+msgid "The HURD does not support the metadata_csum feature.\n"
+msgstr "HURD 不支持元数据校验值特性。\n"
+
+msgid "The Hurd does not support the filetype feature.\n"
+msgstr "Hurd内核不支持文件类型\n"
+
+msgid "The UUID may only be changed when the filesystem is unmounted.\n"
+msgstr "只有当文件系统被卸载时才能改变UUID。\n"
+
+msgid "The bad @b @i looks @n.  "
+msgstr "坏@b@i似乎是@n。  "
+
+msgid "The callback function will not handle this case"
+msgstr "回调函数将不会处理这个情况"
+
+msgid "The cluster size may not be smaller than the block size.\n"
+msgstr "簇大小不能小于块大小。\n"
+
+msgid ""
+"The containing partition (or device) is only %llu (%dk) blocks.\n"
+"You requested a new size of %llu blocks.\n"
+"\n"
+msgstr ""
+"指定的分区（或设备）仅有 %llu 个块（每块为 %dk），\n"
+"但你却指定新大小为 %llu 个块。\n"
+"\n"
+
+msgid "The ext2 superblock is corrupt"
+msgstr "ext2超级块损坏"
+
+msgid "The file %s does not exist and no size was specified.\n"
+msgstr "文件 %s 不存在，也没有指定大小。\n"
+
+msgid "The file system superblock doesn't match the undo file.\n"
+msgstr "文件系统的超级块与撤销文件不匹配\n"
+
+msgid "The filesystem already has a journal.\n"
+msgstr "文件系统已有日志。\n"
+
+msgid ""
+"The filesystem is already %llu (%dk) blocks long.  Nothing to do!\n"
+"\n"
+msgstr ""
+"文件系统已经为 %llu 个块（每块 %dk）。无需进一步处理！\n"
+"\n"
+
+msgid "The filesystem is already 32-bit.\n"
+msgstr "文件系统已经为 32 位模式。\n"
+
+msgid "The filesystem is already 64-bit.\n"
+msgstr "文件系统已经为 64 位模式。\n"
+
+msgid ""
+"The filesystem on %s is now %llu (%dk) blocks long.\n"
+"\n"
+msgstr ""
+"%s 上的文件系统现在为 %llu 个块（每块 %dk）。\n"
+"\n"
+
+msgid ""
+"The filesystem revision is apparently too high for this version of e2fsck.\n"
+"(Or the filesystem superblock is corrupt)\n"
+"\n"
+msgstr ""
+"文件系统的版本高于此e2fsck所支持的版本。\n"
+"（也有可能超级块已损坏）\n"
+"\n"
+
+msgid ""
+"The has_journal feature may only be cleared when the filesystem is\n"
+"unmounted or mounted read-only.\n"
+msgstr "只有当文件系统被卸载，或以只读模式挂载时才能移除其has_journal特性。\n"
+
+msgid ""
+"The huge_file feature may only be cleared when the filesystem is\n"
+"unmounted or mounted read-only.\n"
+msgstr "只有当文件系统被卸载，或以只读模式挂载时才能移除其huge_file特性。\n"
+
+msgid "The inode is from a bad block in the inode table"
+msgstr "该inode来自inode表中的一个坏块"
+
+msgid "The inode size is already %lu\n"
+msgstr "inode大小已经为 %lu\n"
+
+msgid "The inode size may only be changed when the filesystem is unmounted.\n"
+msgstr "只有当文件系统被卸载时才能改变inode大小。\n"
+
+msgid "The journal superblock is corrupt"
+msgstr "日志超级块已损坏"
+
+msgid ""
+"The multiple mount protection feature can't\n"
+"be set if the filesystem is mounted or\n"
+"read-only.\n"
+msgstr "文件系统被挂载或为只读属性时无法设置MMP特性。\n"
+
+msgid ""
+"The multiple mount protection feature cannot\n"
+"be disabled if the filesystem is readonly.\n"
+msgstr "文件系统为只读状态时无法禁用MMP特性。\n"
+
+msgid ""
+"The needs_recovery flag is set.  Please run e2fsck before clearing\n"
+"the has_journal flag.\n"
+msgstr "发现needs_recovery标志。请在移除has_journal特性前运行e2fsck。\n"
+
+msgid "The primary @S (%b) is on the bad @b list.\n"
+msgstr "主@S（%b）位于坏@b列表中。\n"
+
+msgid ""
+"The quota feature may only be changed when the filesystem is unmounted.\n"
+msgstr "只有当文件系统被卸载时才能修改配额特性。\n"
+
+msgid "The resize maximum must be greater than the filesystem size.\n"
+msgstr "所需改变的大小必须大于当前文件系统的大小。\n"
+
+msgid ""
+"The resize_inode and meta_bg features are not compatible.\n"
+"They can not be both enabled simultaneously.\n"
+msgstr ""
+"resize_inode 和 meta_bg 特性不兼容。\n"
+"无法同时启用它们。\n"
+
+msgid "The test_fs flag is set (and ext4 is available).  "
+msgstr "设置了 test_fs 标志（并且ext4可用）。  "
+
+msgid "This doesn't bode well, but we'll try to go on...\n"
+msgstr "这并不是一个好预兆，然而我们将继续进行...\n"
+
+msgid ""
+"This filesystem will be automatically checked every %d mounts or\n"
+"%g days, whichever comes first.  Use tune2fs -c or -i to override.\n"
+msgstr ""
+"该文件系统在每挂载%d次或每隔%g天都会进行自动检查。\n"
+"使用tune2fs -c 或-i选项来覆盖这一特性。\n"
+
+msgid "This may result in very poor performance, (re)-partitioning suggested.\n"
+msgstr "这可能导致性能下降，建议重新进行分区。\n"
+
+msgid "Timestamp(s) on @i %i beyond 2310-04-04 are likely pre-1970.\n"
+msgstr "@i %i 的时间戳超过了 2310-04-04，可能应为 1970 年之前。\n"
+
+msgid "Too big max bad blocks count %u - maximum is %u"
+msgstr "最大坏块数（%u）过大 - 最大值为 %u"
+
+msgid "Too many bad blocks, aborting test\n"
+msgstr "坏块太多，终止测试\n"
+
+msgid "Too many illegal @bs in @i %i.\n"
+msgstr "@i %i 中包含了过多的非法@b。\n"
+
+msgid "Too many references in table"
+msgstr "表中有太多的引用"
+
+msgid "Too many reserved group descriptor blocks"
+msgstr "组描述符的保留块太多"
+
+msgid "Too many symbolic links encountered."
+msgstr "发现了过多的符号链接。"
+
+msgid "Tried to set block bmap with missing indirect block"
+msgstr "尝试在块位图中设置丢失的链接块"
+
+msgid "Truncate"
+msgstr "截断"
+
+msgid "Truncating"
+msgstr "正在截断"
+
+msgid ""
+"UNEXPECTED INCONSISTENCY: the filesystem is being modified while fsck is "
+"running.\n"
+msgstr "未预期的不连续性：文件系统在运行fsck时被修改。\n"
+
+msgid "UNLINKED"
+msgstr "已解除链接"
+
+msgid "UUID does not match.\n"
+msgstr "UUID 不匹配。\n"
+
+msgid ""
+"UUID has changed since enabling metadata_csum.  Filesystem must be unmounted \n"
+"to safely rewrite all metadata to match the new UUID.\n"
+msgstr ""
+"启用元数据校验值特性后UUID被改变。必须卸载文件系统并安全改写所有元数据，以便\n"
+"与新的 UUID 相匹配。\n"
+
+msgid "Unable to resolve '%s'"
+msgstr "无法解析“%s”"
+
+msgid "Unconnected @d @i %i (%p)\n"
+msgstr "未被连接的@d@i %i（%p）\n"
+
+msgid "Undo file corrupt"
+msgstr "撤销文件损坏"
+
+msgid "Undo file corruption; run e2fsck NOW!\n"
+msgstr "撤销文件损坏；请立即运行 e2fsck！\n"
+
+msgid "Undo file superblock checksum doesn't match.\n"
+msgstr "撤销文件的超级块的校验值与超级块自身不符。\n"
+
+msgid "Unexpected @b in @h %d (%q).\n"
+msgstr "@h %d（%q）中有额外的@b。\n"
+
+msgid "Unexpected reply length from server %d\n"
+msgstr "服务器 %d 返回了长度异常的内容\n"
+
+msgid "Unhandled error code (0x%x)!\n"
+msgstr "未处理的错误码 （0x%x）！\n"
+
+msgid "Unimplemented ext2 library function"
+msgstr "未实现的ext2库函数"
+
+msgid "Unknown checksum algorithm"
+msgstr "位置的校验值算法"
+
+msgid "Unknown extended option: %s\n"
+msgstr "未知的扩展属性：%s\n"
+
+msgid "Unknown pass?!?"
+msgstr "其他步骤"
+
+msgid "Unlink"
+msgstr "解除链接"
+
+msgid "Unsupported journal version"
+msgstr "不支持的日志版本"
+
+msgid "Update quota info for quota type %N"
+msgstr "更新配额类型 %N 的配额信息"
+
+msgid "Updating inode references"
+msgstr "正在更新inode引用"
+
+msgid ""
+"Usage:  %s device...\n"
+"\n"
+"Prints out the partition information for each given device.\n"
+"For example: %s /dev/hda\n"
+"\n"
+msgstr ""
+"用法：%s 设备...\n"
+"\n"
+"输出每个给定设备的分区信息.\n"
+"例如：%s /dev/hda\n"
+"\n"
+
+msgid "Usage:  findsuper device [skipbytes [startkb]]\n"
+msgstr "用法：findsuper 设备 [跳过字节数 [起始kb数]]\n"
+
+msgid "Usage: %s -r device\n"
+msgstr "用法：%s  -r 磁盘名\n"
+
+msgid "Usage: %s [-F] [-I inode_buffer_blocks] device\n"
+msgstr "用法：%s [-F] [-I inode缓冲块] 设备\n"
+
+msgid "Usage: %s [-RVadlpv] [files...]\n"
+msgstr "用法：%s [-RVadlpv] [文件...]\n"
+
+msgid ""
+"Usage: %s [-b block_size] [-i input_file] [-o output_file] [-svwnfBX]\n"
+"       [-c blocks_at_once] [-d delay_factor_between_reads] [-e max_bad_blocks]\n"
+"       [-p num_passes] [-t test_pattern [-t test_pattern [...]]]\n"
+"       device [last_block [first_block]]\n"
+msgstr ""
+"用法：%s [-b 块大小] [-i 输入文件] [-o 输出文件] [-svwnfBX]\n"
+"       [-c 立即块数] [-d 读取延迟因子] [-e 最大坏块数]\n"
+"       [-p 需要通过测试的块数] [-t 测试模式 [-t 测试模式 [...]]]\n"
+"       设备 [末块 [首块]]\n"
+
+msgid ""
+"Usage: %s [-bfghimxV] [-o superblock=<num>] [-o blocksize=<num>] device\n"
+msgstr "用法：%s [-bfghimxV] [-o superblock=<超级块编号>] [-o blocksize=<块大小>] 设备\n"
+
+msgid ""
+"Usage: %s [-c|-l filename] [-b block-size] [-C cluster-size]\n"
+"\t[-i bytes-per-inode] [-I inode-size] [-J journal-options]\n"
+"\t[-G flex-group-size] [-N number-of-inodes] [-d root-directory]\n"
+"\t[-m reserved-blocks-percentage] [-o creator-os]\n"
+"\t[-g blocks-per-group] [-L volume-label] [-M last-mounted-directory]\n"
+"\t[-O feature[,...]] [-r fs-revision] [-E extended-option[,...]]\n"
+"\t[-t fs-type] [-T usage-type ] [-U UUID] [-e errors_behavior][-z undo_file]\n"
+"\t[-jnqvDFSV] device [blocks-count]\n"
+msgstr ""
+"用法：%s [-c|-l 文件名] [-b 块大小] [-C 簇大小]\n"
+"\t[-i 每inode的字节数] [-I inode大小] [-J 日志选项]\n"
+"\t[-G 弹性组大小] [-N inode数] [-d 根目录]\n"
+"\t[-m 保留块所占百分比] [-o 创始系统名]\n"
+"\t[-g 每组的块数] [-L 卷标] [-M 上一次挂载点]\n"
+"\t[-O 特性[,...]] [-r 文件系统版本] [-E 扩展选项[,...]]\n"
+"\t[-t 文件系统类型] [-T 用法类型] [-U UUID] [-e 错误行为][-z 撤销文件]\n"
+"\t[-jnqvDFKSV] 设备 [块数]\n"
+
+msgid ""
+"Usage: %s [-d debug_flags] [-f] [-F] [-M] [-P] [-p] device [-b|-s|new_size] [-S RAID-stride] [-z undo_file]\n"
+"\n"
+msgstr ""
+"用法：%s [-d 调试标志] [-f] [-F] [-M] [-P] [-p] 设备 [-b|-s|新大小] [S RAID-stride] [-z 撤销文件]\n"
+"\n"
+
+msgid "Usage: %s [-d] [-p pidfile] [-s socketpath] [-T timeout]\n"
+msgstr "用法：%s [-d] [-p pid文件] [-s 套接字路径] [-T 超时时长]\n"
+
+msgid ""
+"Usage: %s [-f] [-h] [-n] [-o offset] [-v] [-z undo_file] <transaction file> "
+"<filesystem>\n"
+msgstr "用法：%s [-f] [-h] [-n] [-o offset] [-v] [-z undo_file] <事务文件> <文件系统>\n"
+
+msgid "Usage: %s [-pRVf] [-+=aAcCdDeijPsStTuF] [-v version] files...\n"
+msgstr "用法：%s [-pRVf] [-+=aAcCdDeijPsStTuF] [-v 版本] 文件...\n"
+
+msgid ""
+"Usage: %s [-panyrcdfktvDFV] [-b superblock] [-B blocksize]\n"
+"\t\t[-l|-L bad_blocks_file] [-C fd] [-j external_journal]\n"
+"\t\t[-E extended-options] [-z undo_file] device\n"
+msgstr ""
+"用法：%s [-panyrcdfktvDFV] [-b 超级块] [-B 块大小]\n"
+"\t\t[-l|-L 坏块文件] [-C fd] [-j 外部日志]\n"
+"\t\t[-E 扩展选项]  [-z 撤销文件] 设备\n"
+
+msgid "Usage: %s [-r] [-t]\n"
+msgstr "用法：%s [-r] [-t]\n"
+
+msgid "Usage: %s disk\n"
+msgstr "用法：%s  磁盘名\n"
+
+msgid "Usage: e2label device [newlabel]\n"
+msgstr "用法：e2label 设备 [新卷标]\n"
+
+msgid ""
+"Usage: fsck [-AMNPRTV] [ -C [ fd ] ] [-t fstype] [fs-options] [filesys "
+"...]\n"
+msgstr "用法：fsck [-AMNPRTV] [ -C [ fd ] ] [-t 文件系统类型] [文件系统选项] [文件系统 ...]\n"
+
+msgid "Usage: mklost+found\n"
+msgstr "用法：mklost+found\n"
+
+msgid "User cancel requested"
+msgstr "用户取消了操作"
+
+msgid "Using journal device's blocksize: %d\n"
+msgstr "根据日志设备确定块大小：%d\n"
+
+msgid "Version of %s set as %lu\n"
+msgstr "%s 的版本被设置为 %lu\n"
+
+msgid ""
+"WARNING: Could not confirm kernel support for metadata_csum_seed.\n"
+"  This requires Linux >= v4.4.\n"
+msgstr ""
+"警告：无法确定内核是否支持 metadata_csum_seed 特性。\n"
+"  该特性仅被 4.4 以上的 Linux 内核支持。\n"
+
+msgid ""
+"WARNING: PROGRAMMING BUG IN E2FSCK!\n"
+"\tOR SOME BONEHEAD (YOU) IS CHECKING A MOUNTED (LIVE) FILESYSTEM.\n"
+"@i_link_info[%i] is %N, @i.i_links_count is %Il.  They @s the same!\n"
+msgstr ""
+"警告：e2fsck中出现程序错误！\n"
+"\t或者是（粗心大意的）你正在检查一个被挂载的（活动的）文件系统。\n"
+"@i_link_info[%i] 为 %N，@i.i_links_count 为 %Il。它们应当相同！\n"
+
+msgid ""
+"WARNING: Your /etc/fstab does not contain the fsck passno\n"
+"\tfield.  I will kludge around things for you, but you\n"
+"\tshould fix your /etc/fstab file as soon as you can.\n"
+"\n"
+msgstr ""
+"警告：你的/etc/fstab中缺少passno字段。\n"
+"\t我将会设法完成任务，但你应当尽快修复/etc/fstab。\n"
+"\n"
+
+msgid "WARNING: bad format on line %d of %s\n"
+msgstr "警告：%2$s 的第 %1$d 中格式错误\n"
+
+msgid "WARNING: couldn't open %s: %s\n"
+msgstr "警告：无法打开 %s：%s\n"
+
+msgid "WILL OPTIMIZE"
+msgstr "将会优化"
+
+msgid "WILL RECREATE"
+msgstr "将会重建"
+
+msgid "Warning!  %s is in use.\n"
+msgstr "警告！ %s正被使用。\n"
+
+msgid "Warning!  %s is mounted.\n"
+msgstr "警告！ %s已被挂载。\n"
+
+msgid "Warning... %s for device %s exited with signal %d.\n"
+msgstr "警告... 设备%s 的 %s 操作收到 %d 信号后退出。\n"
+
+msgid ""
+"Warning: %d-byte blocks too big for system (max %d), forced to continue\n"
+msgstr "警告：%d字节的块对于系统来说太大（最大为 %d），但仍然强制进行操作\n"
+
+msgid ""
+"Warning: -K option is deprecated and should not be used anymore. Use '-E "
+"nodiscard' extended option instead!\n"
+msgstr ""
+"警告：-K 选项已被废弃，今后也不应当被使用。请使用扩展选项\n"
+"“-E nodiscard”作为替代！\n"
+
+msgid "Warning: Check time reached; running e2fsck is recommended.\n"
+msgstr "警告：检查超时，建议您运行 e2fsck。\n"
+
+msgid "Warning: Group %g's @S (%b) is bad.\n"
+msgstr "警告：组 %g 的@S（%b）为坏块。\n"
+
+msgid "Warning: Group %g's copy of the @g descriptors has a bad @b (%b).\n"
+msgstr "警告：组 %g 描述符的备份含有一个坏@b（%b）。\n"
+
+msgid "Warning: Maximal mount count reached, running e2fsck is recommended.\n"
+msgstr "警告：尝试挂载次数超过最大值，建议您运行 e2fsck。\n"
+
+msgid "Warning: Mounting unchecked fs, running e2fsck is recommended.\n"
+msgstr "警告：正在挂载未经检查的文件系统，建议您先运行 e2fsck。\n"
+
+msgid ""
+"Warning: The journal is dirty. You may wish to replay the journal like:\n"
+"\n"
+"\te2fsck -E journal_only %s\n"
+"\n"
+"then rerun this command.  Otherwise, any changes made may be overwritten\n"
+"by journal recovery.\n"
+msgstr ""
+"警告：日志存在错误。您可能需要重做日志，如：\n"
+"\n"
+"e2fsck -E journal_only %s\n"
+"\n"
+"然后重新运行本命令。否则，任何所做更改都可能被日志恢复操作所覆盖。\n"
+
+msgid ""
+"Warning: There are still tables in the cache while putting the cache, data "
+"will be lost so the image may not be valid.\n"
+msgstr "警告：当put缓存时，这些表仍然储存在缓存中，这将导致数据丢失，镜像文件也可能无效。\n"
+
+msgid "Warning: blocksize %d not usable on most systems.\n"
+msgstr "警告：块大小 %d 在很多系统中不可用。\n"
+
+msgid "Warning: could not erase sector %d: %s\n"
+msgstr "警告：无法擦除块 %d：%s\n"
+
+msgid "Warning: could not read @b %b of %s: %m\n"
+msgstr "警告：无法从%s中读取@b %b：%m\n"
+
+msgid "Warning: could not read block 0: %s\n"
+msgstr "警告：无法读取块 0：%s\n"
+
+msgid "Warning: could not write @b %b for %s: %m\n"
+msgstr "警告：无法向%s中写入@b %b：%m\n"
+
+msgid "Warning: illegal block %u found in bad block inode.  Cleared.\n"
+msgstr "警告：在坏块inode中发现非法的块%u。已清除。\n"
+
+msgid "Warning: label too long, truncating.\n"
+msgstr "警告：卷标太长，已截短。\n"
+
+msgid ""
+"Warning: label too long; will be truncated to '%s'\n"
+"\n"
+msgstr ""
+"警告：卷标太长，已截短为“%s”\n"
+"\n"
+
+msgid ""
+"Warning: skipping journal recovery because doing a read-only filesystem "
+"check.\n"
+msgstr "警告：由于只读系统检查，跳过日志恢复流程。\n"
+
+msgid ""
+"Warning: specified blocksize %d is less than device physical sectorsize %d\n"
+msgstr "警告：指定的块大小 %d 小于设备物理扇区大小%d\n"
+
+msgid ""
+"Warning: the backup superblock/group descriptors at block %u contain\n"
+"\tbad blocks.\n"
+"\n"
+msgstr ""
+"警告：备份超级块/组描述符中发现坏块（%u）\n"
+"\n"
+
+msgid "Weird value (%ld) in do_read\n"
+msgstr "do_read中遇到异常值（%ld）\n"
+
+msgid "While checking for on-line resizing support"
+msgstr "检查是否支持在线调整文件系统大小时"
+
+msgid "While reading flags on %s"
+msgstr "读取 %s 的标志时"
+
+msgid "While reading project on %s"
+msgstr "读取 %s 的项目时"
+
+msgid "While reading version on %s"
+msgstr "设置 %s 的版本时"
+
+msgid "While trying to add group #%d"
+msgstr "尝试添加组 #%d 时"
+
+msgid "While trying to extend the last group"
+msgstr "尝试扩展最后一个组时"
+
+msgid "Will not write to an undo file while replaying it.\n"
+msgstr "在进行重做操作时，不会写入到撤销文件。\n"
+
+msgid "Writing block %llu\n"
+msgstr "正在写入到块 %llu\n"
+
+msgid "Writing inode tables: "
+msgstr "正在写入inode表： "
+
+msgid "Writing superblocks and filesystem accounting information: "
+msgstr "写入超级块和文件系统账户统计信息： "
+
+msgid "Wrong magic number --- RESERVED_13"
+msgstr "幻数错误（保留编号：13）"
+
+msgid "Wrong magic number --- RESERVED_14"
+msgstr "幻数错误（保留编号：14）"
+
+msgid "Wrong magic number --- RESERVED_15"
+msgstr "幻数错误（保留编号：15）"
+
+msgid "Wrong magic number --- RESERVED_16"
+msgstr "幻数错误（保留编号：16）"
+
+msgid "Wrong magic number --- RESERVED_17"
+msgstr "幻数错误（保留编号：17）"
+
+msgid "Wrong magic number --- RESERVED_18"
+msgstr "幻数错误（保留编号：18）"
+
+msgid "Wrong magic number --- RESERVED_19"
+msgstr "幻数错误（保留编号：19）"
+
+msgid "Wrong magic number for 64-bit block bitmap"
+msgstr "64位块通用位图中的幻数有错"
+
+msgid "Wrong magic number for 64-bit generic bitmap"
+msgstr "64位通用位图中的幻数有错"
+
+msgid "Wrong magic number for 64-bit inode bitmap"
+msgstr "64位inode通用位图中的幻数有错"
+
+msgid "Wrong magic number for Ext2 Image Header"
+msgstr "ext2镜像头中的幻数有错"
+
+msgid "Wrong magic number for Powerquest io_channel structure"
+msgstr "Powerquest io_channel结构体中的幻数有错"
+
+msgid "Wrong magic number for badblocks_iterate structure"
+msgstr "badblocks_iterate结构体中的幻数有错"
+
+msgid "Wrong magic number for badblocks_list structure"
+msgstr "badblocks_list结构体中的幻数有错"
+
+msgid "Wrong magic number for block_bitmap structure"
+msgstr "block_bitmap结构体中的幻数有错"
+
+msgid "Wrong magic number for directory block list structure"
+msgstr "目录块列表结构体中的幻数有错"
+
+msgid "Wrong magic number for ext2 file structure"
+msgstr "ext2文件结构体中的幻数有错"
+
+msgid "Wrong magic number for ext2_filsys structure"
+msgstr "ext2_filsys结构体中的幻数有错"
+
+msgid "Wrong magic number for ext4 extent handle"
+msgstr "ext4 extent句柄中的幻数有错"
+
+msgid "Wrong magic number for ext4 extent saved path"
+msgstr "ext4 extent保存路径的幻数有错"
+
+msgid "Wrong magic number for extended attribute structure"
+msgstr "扩增属性结构体中的幻数有错"
+
+msgid "Wrong magic number for generic_bitmap structure"
+msgstr "generic_bitmap结构体中的幻数有错"
+
+msgid "Wrong magic number for icount structure"
+msgstr "icount结构体中的幻数有错"
+
+msgid "Wrong magic number for inode io_channel structure"
+msgstr "inode io_channel结构体中的幻数有错"
+
+msgid "Wrong magic number for inode_bitmap structure"
+msgstr "inode_bitmap结构体中的幻数有错"
+
+msgid "Wrong magic number for inode_scan structure"
+msgstr "inode_scan结构体中的幻数有错"
+
+msgid "Wrong magic number for io_channel structure"
+msgstr "io_channel结构体中的幻数有错"
+
+msgid "Wrong magic number for io_manager structure"
+msgstr "io_manager结构体中的幻数有错"
+
+msgid "Wrong magic number for test io_channel structure"
+msgstr "测试io_channel结构体中的幻数有错"
+
+msgid "Wrong magic number for unix io_channel structure"
+msgstr "unix io_channel结构体中的幻数有错"
+
+msgid "Wrong undo file for this filesystem"
+msgstr "此文件系统的撤销文件有误"
+
+msgid ""
+"You can remove this @b from the bad @b list and hope\n"
+"that the @b is really OK.  But there are no guarantees.\n"
+"\n"
+msgstr ""
+"你可以将该@b从坏@b列表中移除，并期望\n"
+"它能够正常表现。但我们并不提供任何保证。\n"
+"\n"
+
+msgid "You must have %s access to the filesystem or be root\n"
+msgstr "你必须具有对该文件系统的 %s 权限，或者为root\n"
+
+msgid ""
+"You probably need to install an updated mke2fs.conf file.\n"
+"\n"
+msgstr ""
+"你可能需要升级mke2fs.conf文件。\n"
+"\n"
+
+msgid "Zeroing journal device: "
+msgstr "正在对日志设备填零： "
+
+msgid ""
+"[*] probably superblock written in the ext3 journal superblock,\n"
+"\tso start/end/grp wrong\n"
+msgstr ""
+"[*] ext3 日志中的超级块中可能被写入了文件系统的超级块，\n"
+"\t因此 start/end/grp 出错\n"
+
+msgid "aA"
+msgstr "aA"
+
+msgid "aborted"
+msgstr "已中止"
+
+msgid "aextended attribute"
+msgstr "a扩展属性"
+
+msgid "at %.2f MB/s"
+msgstr "速度 %.2f MB/s"
+
+msgid "bad arguments"
+msgstr "参数错误"
+
+msgid "bad error behavior - %s"
+msgstr "出错行为有误 - %s"
+
+msgid "bad error behavior in profile - %s"
+msgstr "配置中的出错行为有误 - %s"
+
+msgid "bad gid/group name - %s"
+msgstr "错误的gid/组名 - %s"
+
+msgid "bad inode map"
+msgstr "坏块映射"
+
+msgid "bad inode size - %s"
+msgstr "无效的inode大小 - %s"
+
+msgid "bad interval - %s"
+msgstr "错误的间隔 - %s"
+
+msgid "bad mounts count - %s"
+msgstr "错误挂载计数 - %s"
+
+msgid "bad num inodes - %s"
+msgstr "错误的inode数 - %s"
+
+msgid "bad project - %s\n"
+msgstr "项目错误 - %s\n"
+
+msgid "bad reserved block ratio - %s"
+msgstr "错误的保留块比 - %s"
+
+msgid "bad reserved blocks count - %s"
+msgstr "错误的保留块数 - %s"
+
+msgid "bad response length"
+msgstr "错误的响应长度"
+
+msgid "bad revision level - %s"
+msgstr "错误的版本号 - %s"
+
+msgid "bad uid/user name - %s"
+msgstr "错误的uid/用户名 - %s"
+
+msgid "bad version - %s\n"
+msgstr "版本错误 - %s\n"
+
+msgid "badblocks forced anyway.\n"
+msgstr "强制进行坏块检验。\n"
+
+msgid "badblocks forced anyway.  Hope /etc/mtab is incorrect.\n"
+msgstr "强制进行坏块处理。期望/etc/mtab中反映的并非真实情况。\n"
+
+msgid "bblock"
+msgstr "b块"
+
+msgid "block #"
+msgstr "块 #"
+
+msgid "block bitmap"
+msgstr "块位图"
+
+msgid "block device"
+msgstr "块设备"
+
+msgid "blocks"
+msgstr "块"
+
+msgid "blocks per group count out of range"
+msgstr "每组块数超过允许范围"
+
+msgid "blocks per group must be multiple of 8"
+msgstr "每组块数必须是8的倍数"
+
+msgid "blocks to be moved"
+msgstr "需要移动的块"
+
+msgid ""
+"byte_offset  byte_start     byte_end  fs_blocks blksz  grp  mkfs/mount_time"
+"           sb_uuid label\n"
+msgstr ""
+"偏移字节     起始字节      结束字节   块数      块大小  grp  创建/挂载时间             超级块 UUID "
+"标签\n"
+
+msgid "can't allocate memory for test_pattern - %s"
+msgstr "无法使用测试模式分配内存 - %s"
+
+msgid "cancelled!\n"
+msgstr "已取消！\n"
+
+msgid "ccompress"
+msgstr "c压缩"
+
+msgid "character device"
+msgstr "字符设备"
+
+msgid "check aborted.\n"
+msgstr "检查被中止。\n"
+
+msgid "check_block_bitmap_checksum: Memory allocation error"
+msgstr "check_block_bitmap_checksum：内存分配出错"
+
+msgid "check_inode_bitmap_checksum: Memory allocation error"
+msgstr "check_inode_bitmap_checksum：内存分配出错"
+
+msgid "checking if mounted"
+msgstr "检测其是否已挂载"
+
+msgid "checksum error in filesystem block %llu (undo blk %llu)\n"
+msgstr "文件系统块 %llu 中的校验值有误（undo blk %llu）\n"
+
+msgid "clusters"
+msgstr "簇"
+
+msgid "connect"
+msgstr "连接"
+
+msgid "ddirectory"
+msgstr "d目录"
+
+msgid "directory"
+msgstr "文件夹"
+
+msgid "directory inode map"
+msgstr "目录inode映射"
+
+msgid "done\n"
+msgstr "完成\n"
+
+msgid ""
+"done\n"
+"\n"
+msgstr ""
+"已完成\n"
+"\n"
+
+msgid "done                            \n"
+msgstr "完成                            \n"
+
+msgid "done                                                 \n"
+msgstr "已完成                                                 \n"
+
+msgid "double indirect block"
+msgstr "二次链接块"
+
+msgid "during ext2fs_sync_device"
+msgstr "执行ext2fs_sync_device时"
+
+msgid "during seek"
+msgstr "定位过程中"
+
+msgid "during test data write, block %lu"
+msgstr "正在测试数据写入，位于块 %lu"
+
+msgid "e2fsck_read_bitmaps: illegal bitmap block(s) for %s"
+msgstr "e2fsck_read_bitmaps：%s 含有非法的位图块"
+
+msgid "e2label: cannot open %s\n"
+msgstr "e2label：无法打开 %s\n"
+
+msgid "e2label: cannot seek to superblock\n"
+msgstr "e2label：无法定位到superblock\n"
+
+msgid "e2label: cannot seek to superblock again\n"
+msgstr "e2label：无法定位到superblock\n"
+
+msgid "e2label: error reading superblock\n"
+msgstr "e2label：读取superblock出错\n"
+
+msgid "e2label: error writing superblock\n"
+msgstr "e2label：写入超级块时出错\n"
+
+msgid "e2label: not an ext2 filesystem\n"
+msgstr "e2label：不是一个ex2文件系统\n"
+
+msgid "e2undo should only be run on unmounted filesystems"
+msgstr "e2undo 只能用于未挂载的文件系统"
+
+msgid "eentry"
+msgstr "e项"
+
+msgid "elapsed time: %6.3f\n"
+msgstr "持续时间：%6.3f\n"
+
+msgid "empty dir map"
+msgstr "空ACL映射"
+
+msgid "empty dirblocks"
+msgstr "空目录块"
+
+msgid "error in generic_write()"
+msgstr "generic_write() 函数出错"
+
+msgid "error reading bitmaps"
+msgstr "读取位图时发生错误"
+
+msgid "error reading block %llu"
+msgstr "读取块 %llu 错误"
+
+msgid "error writing block %llu"
+msgstr "写块 %llu 出错"
+
+msgid "ext attr block map"
+msgstr "扩展属性块映射"
+
+msgid "ext2fs_check_desc: %m\n"
+msgstr "ext2fs_check_desc: %m\n"
+
+msgid "ext2fs_new_@b: %m while trying to create /@l @d\n"
+msgstr "ext2fs_new_block：尝试创建/@l@d时%m\n"
+
+msgid "ext2fs_new_@i: %m while trying to create /@l @d\n"
+msgstr "ext2fs_new_inode：尝试创建/@l@d时%m\n"
+
+msgid "ext2fs_new_dir_@b: %m while creating new @d @b\n"
+msgstr "ext2fs_new_dir_block：创建新的@d@b时%m\n"
+
+msgid "ext2fs_open2: %m\n"
+msgstr "ext2fs_open2: %m\n"
+
+msgid "ext2fs_write_dir_@b: %m while writing the @d @b for /@l\n"
+msgstr "ext2fs_new_dir_block：为/@l创建新的@d@b时%m\n"
+
+msgid "extent rebuild inode map"
+msgstr "extent 重建 inode 映射"
+
+msgid "failed - "
+msgstr "已失败 - "
+
+msgid "failed to alloc MMP buffer\n"
+msgstr "分配 MMP 缓冲失败\n"
+
+msgid "ffilesystem"
+msgstr "f文件系统"
+
+msgid "filesystem"
+msgstr "文件系统"
+
+msgid "first block"
+msgstr "第一个块"
+
+msgid "flex_bg size (%lu) must be less than or equal to 2^31"
+msgstr "弹性组的大小（%lu）必须小于等于2^31"
+
+msgid "flex_bg size must be a power of 2"
+msgstr "弹性组的大小必须是2的次方"
+
+msgid "fs_types for mke2fs.conf resolution: "
+msgstr "mke2fs.conf中有关文件系统类型的解释： "
+
+msgid "fsck: %s: not found\n"
+msgstr "fsck：%s：未找到\n"
+
+msgid "fsck: cannot check %s: fsck.%s not found\n"
+msgstr "fsck：无法检查 %s：找不到fsck.%s\n"
+
+msgid "getting next inode from scan"
+msgstr "从扫描进度中获取下一个 inode"
+
+msgid "ggroup"
+msgstr "g组"
+
+msgid "group"
+msgstr "组"
+
+msgid "hHTREE @d @i"
+msgstr "hHTREE@d@i"
+
+msgid "i_blocks_hi @F %N, @s zero.\n"
+msgstr "@i %i（%Q）的i_blocks_hi为 %N，@s0。\n"
+
+msgid "i_faddr @F %IF, @s zero.\n"
+msgstr "@i %i （%Q）的i_faddr为 %IF，@s0。\n"
+
+msgid "i_file_acl @F %If, @s zero.\n"
+msgstr "@i %i （%Q）的i_file_acl为 %IF，@s0。\n"
+
+msgid "i_file_acl_hi @F %N, @s zero.\n"
+msgstr "@i %i （%Q）的i_file_acl_hi为 %N，@s0。\n"
+
+msgid "i_frag @F %N, @s zero.\n"
+msgstr "@i %i （%Q）的i_frag为 %N，@s0。\n"
+
+msgid "i_fsize @F %N, @s zero.\n"
+msgstr "@i %i （%Q）的i_size为 %N，@s0。\n"
+
+msgid "ignoring entry \"%s\""
+msgstr "忽略项“%s”"
+
+msgid "iinode"
+msgstr "iinode"
+
+msgid "illegal offset - %s"
+msgstr "偏移量无效 - %s"
+
+msgid "imagic inode map"
+msgstr "inode的imagic映射"
+
+msgid "in malloc for android_sparse_params"
+msgstr "为 android_sparse_params 分配内存时"
+
+msgid "in malloc for bad_blocks_filename"
+msgstr "为bad_blocks_filename分配内存时"
+
+msgid "in move_quota_inode"
+msgstr "于 move_quota_inode 中"
+
+msgid "in-use block map"
+msgstr "使用中的块映射"
+
+msgid "in-use inode map"
+msgstr "使用中的inode映射"
+
+msgid "indirect block"
+msgstr "链接块"
+
+msgid "inode bitmap"
+msgstr "inode 位图"
+
+msgid "inode done bitmap"
+msgstr "已完成的inode位图"
+
+msgid "inode in bad block map"
+msgstr "更新坏块映射时"
+
+msgid "inode loop detection bitmap"
+msgstr "循环inode检测位图"
+
+msgid "inode table"
+msgstr "inode表"
+
+msgid ""
+"inode_size (%u) * inodes_count (%u) too big for a\n"
+"\tfilesystem with %llu blocks, specify higher inode_ratio (-i)\n"
+"\tor lower inode count (-N).\n"
+msgstr ""
+"inode大小（%u）×inode数（%u）对于含有 %llu 个块\n"
+"\t的系统来说太大，请指定更高的inode比（使用 -i 选项）\n"
+"\t或更少的inode数（-N）。\n"
+
+msgid "inodes (%llu) must be less than %u\n"
+msgstr "inode数（%llu）必须小于 %u\n"
+
+msgid "input file - bad format"
+msgstr "输入文件 - 格式错误"
+
+msgid "internal error: can't find dup_blk for %llu\n"
+msgstr "内部错误：无法找到 %llu 的dup_blk信息\n"
+
+msgid "internal error: couldn't lookup EA block record for %llu"
+msgstr "内部错误：无法查找 %llu 的EA块记录"
+
+msgid "internal error: couldn't lookup EA inode record for %u"
+msgstr "内部错误：无法查找 %u 的EA inode块记录"
+
+msgid "interval between checks is too big (%lu)"
+msgstr "检查间隔太长（%lu）"
+
+msgid "invalid %s - %s"
+msgstr "无效的%s - %s"
+
+msgid "invalid block size - %s"
+msgstr "无效的块大小 - %s"
+
+msgid "invalid blocks '%s' on device '%s'"
+msgstr "无效的块数“%s”于设备“%s”"
+
+msgid "invalid cluster size - %s"
+msgstr "无效的簇大小 - %s"
+
+msgid "invalid end block (%llu): must be 32-bit value"
+msgstr "起始块（%llu）无效：必须为32位数"
+
+msgid "invalid inode ratio %s (min %d/max %d)"
+msgstr "无效的inode比 %s（最小 %d /最大 %d）"
+
+msgid "invalid inode size %d (min %d/max %d)"
+msgstr "无效的inode大小 %d（最小 %d /最大 %d）"
+
+msgid "invalid inode size - %s"
+msgstr "无效的inode大小 - %s"
+
+msgid "invalid reserved blocks percent - %lf"
+msgstr "无效的保留块百分比 - %lf"
+
+msgid "invalid reserved blocks percent - %s"
+msgstr "无效的保留块百分比 - %s"
+
+msgid "invalid starting block (%llu): must be less than %llu"
+msgstr "起始块（%llu）无效：必须小于 %llu"
+
+msgid "it's not safe to run badblocks!\n"
+msgstr "进行坏块处理有风险！\n"
+
+msgid "jjournal"
+msgstr "j日志"
+
+msgid "journal"
+msgstr "日志"
+
+msgid "kernel does not support online resize with sparse_super2"
+msgstr "内核不支持在线调整启用了sparse_super2特性的文件系统的大小"
+
+msgid "last block"
+msgstr "最后一个块"
+
+msgid "llost+found"
+msgstr "llost+found"
+
+msgid "malloc failed"
+msgstr "内存分配失败"
+
+msgid "meta-data blocks"
+msgstr "元数据块"
+
+msgid "metadata block map"
+msgstr "元数据块映射"
+
+msgid "mke2fs forced anyway.\n"
+msgstr "mke2fs 强制执行。\n"
+
+msgid "mke2fs forced anyway.  Hope /etc/mtab is incorrect.\n"
+msgstr "强制执行mke2fs。期望/etc/mtab中反映的并非真实情况。\n"
+
+msgid "mmp_update_interval too big: %lu\n"
+msgstr "MMP更新间隔太长：%lu\n"
+
+msgid "mmultiply-claimed"
+msgstr "m重复引用的"
+
+msgid "multiply claimed block map"
+msgstr "重叠块映射"
+
+msgid "multiply claimed inode map"
+msgstr "重叠块映射"
+
+msgid "nN"
+msgstr "nN"
+
+msgid "named pipe"
+msgstr "命名管道"
+
+msgid "need terminal for interactive repairs"
+msgstr "需要在终端中进行交互式修复"
+
+msgid "new meta blocks"
+msgstr "新的元数据块"
+
+msgid "ninvalid"
+msgstr "n无效的"
+
+msgid "no"
+msgstr "no"
+
+msgid "no\n"
+msgstr "否\n"
+
+msgid "oorphaned"
+msgstr "o孤立的"
+
+msgid "opening inode scan"
+msgstr "开始 inode 扫描"
+
+msgid "operation %d, incoming num = %d\n"
+msgstr "操作 %d，传入值 = %d\n"
+
+msgid "pproblem in"
+msgstr "p问题出于"
+
+msgid "qquota"
+msgstr "q配额"
+
+msgid "read count"
+msgstr "读取计数"
+
+msgid "reading directory block"
+msgstr "正在读取目录块"
+
+msgid "reading indirect blocks of inode %u"
+msgstr "读取inode为 %u 的链接块时"
+
+msgid "reading inode and block bitmaps"
+msgstr "读取inode和块位图"
+
+msgid "reading journal superblock\n"
+msgstr "读取日志超级块\n"
+
+msgid "regular file"
+msgstr "一般文件"
+
+msgid "regular file inode map"
+msgstr "普通文件inode映射"
+
+msgid "reserved blocks"
+msgstr "保留块"
+
+msgid "reserved blocks count is too big (%llu)"
+msgstr "保留块的数量太大（%llu）"
+
+msgid "reserved online resize blocks not supported on non-sparse filesystem"
+msgstr "非分散式文件系统不支持为在线调整大小设置保留块"
+
+msgid "returned from clone_file_block"
+msgstr "从clone_file_block返回"
+
+msgid "rroot @i"
+msgstr "r根@i"
+
+msgid "size of inode=%d\n"
+msgstr "inode大小=%d\n"
+
+msgid "skipbytes must be a multiple of the sector size\n"
+msgstr "“跳过字节数”应当是扇区大小的整数倍\n"
+
+msgid "skipbytes should be a number, not %s\n"
+msgstr "“跳过字节数”应当为一个数字，而不是 %s\n"
+
+msgid "socket"
+msgstr "套接字"
+
+msgid "specified offset is too large"
+msgstr "指定的偏移量太大"
+
+msgid "specifying a cluster size requires the bigalloc feature"
+msgstr "指定簇大小需要启用bigalloc特性"
+
+msgid "sshould be"
+msgstr "s应为"
+
+msgid "starting at %llu, with %u byte increments\n"
+msgstr "在 %llu 处开始，增量为 %u 字节\n"
+
+msgid "startkb should be a number, not %s\n"
+msgstr "“起始kb数”应当为一个数字，而不是 %s\n"
+
+msgid "startkb should be positive, not %llu\n"
+msgstr "“起始kb数”应当为正数，而不是 %llu\n"
+
+msgid "symbolic link"
+msgstr "符号链接"
+
+msgid "symlink increased in size between lstat() and readlink()"
+msgstr "在执行 lstat() 和 readlink() 期间，符号链接的大小发生改变"
+
+msgid "time: %5.2f/%5.2f/%5.2f\n"
+msgstr "时间：%5.2f/%5.2f/%5.2f\n"
+
+msgid "too many inodes (%llu), raise inode ratio?"
+msgstr "inode太多（%llu），是否提高inode比？"
+
+msgid "too many inodes (%llu), specify < 2^32 inodes"
+msgstr "inode数量太多（%llu），请指定小于 2^32 的inode数"
+
+msgid "translator block"
+msgstr "翻译块"
+
+msgid "triple indirect block"
+msgstr "三次链接块"
+
+msgid "unable to set superblock flags on %s\n"
+msgstr "无法设置 %s 的超级块标志。\n"
+
+msgid "unknown file type with mode 0%o"
+msgstr "模式为 0%o 的未知文件类型"
+
+msgid "unknown os - %s"
+msgstr "未知操作系统 - %s"
+
+msgid "unknown quota type"
+msgstr "未知配额类型"
+
+msgid "user"
+msgstr "用户"
+
+msgid "uuidd daemon already running at pid %s\n"
+msgstr "uuidd守护进程已经在运行，pid %s\n"
+
+msgid "uunattached"
+msgstr "u独立的"
+
+msgid "vdevice"
+msgstr "v设备"
+
+msgid ""
+"warning: %llu blocks unused.\n"
+"\n"
+msgstr ""
+"警告：%llu 块未使用。\n"
+"\n"
+
+msgid "warning: Unable to get device geometry for %s\n"
+msgstr "警告：无法获取 %s 的设备布局\n"
+
+msgid "while adding filesystem to journal on %s"
+msgstr "将文件系统添加到 %s 上的日志"
+
+msgid "while adding to in-memory bad block list"
+msgstr "向内存中的坏块列表中添加记录时"
+
+msgid "while allocating block bitmap"
+msgstr "写入块位图时"
+
+msgid "while allocating buffer"
+msgstr "为缓冲区分配内存时"
+
+msgid "while allocating buffers"
+msgstr "分配缓冲区时"
+
+msgid "while allocating check_buf"
+msgstr "为check_buf分配内存时"
+
+msgid "while allocating ext2_qcow2_image"
+msgstr "为ext2_qcow2_image分配内存时"
+
+msgid "while allocating fs_feature string"
+msgstr "分配 fs_feature 字符串时"
+
+msgid "while allocating inode \"%s\""
+msgstr "分配 inode“%s”时"
+
+msgid "while allocating l1 table"
+msgstr "分配l1表时"
+
+msgid "while allocating l2 cache"
+msgstr "分配l2表时"
+
+msgid "while allocating memory"
+msgstr "分配内存时"
+
+msgid "while allocating scramble block bitmap"
+msgstr "写入加扰块位图时"
+
+msgid "while beginning bad block list iteration"
+msgstr "迭代坏块列表时"
+
+msgid "while calling ext2fs_adjust_ea_refcount2 for inode %u"
+msgstr "为 inode %u 调用 ext2fs_adjust_ea_refcount2 时"
+
+msgid "while calling ext2fs_block_iterate for inode %u"
+msgstr "为 inode %u 调用 ext2fs_block_iterate 时"
+
+msgid "while changing directory"
+msgstr "改变目录时"
+
+msgid "while changing working directory to \"%s\""
+msgstr "改变工作目录为“%s”时"
+
+msgid "while checking MMP block"
+msgstr "检测 MMP 块时"
+
+msgid "while checking journal for %s"
+msgstr "检查 %s 的日志时"
+
+msgid "while clearing journal inode"
+msgstr "读取坏块inode时"
+
+msgid "while closing inode %u"
+msgstr "关闭 inode %u 时"
+
+msgid "while creating /lost+found"
+msgstr "创建/lost+found目录时"
+
+msgid "while creating directory \"%s\""
+msgstr "创建目录“%s”时"
+
+msgid "while creating huge file %lu"
+msgstr "创建大文件 %lu 时"
+
+msgid "while creating in-memory bad blocks list"
+msgstr "在内存中创建坏块列表时"
+
+msgid "while creating inode \"%s\""
+msgstr "创建 inode “%s”时"
+
+msgid "while creating root dir"
+msgstr "创建根目录时"
+
+msgid "while creating special file \"%s\""
+msgstr "创建特殊文件“%s”时"
+
+msgid "while creating symlink \"%s\""
+msgstr "创建符号链接“%s”时"
+
+msgid "while determining whether %s is mounted."
+msgstr "确定 %s 是否已挂载时"
+
+msgid "while doing inode scan"
+msgstr "进行inode扫描时"
+
+msgid "while expanding /lost+found"
+msgstr "扩充/lost+found目录时"
+
+msgid "while expanding directory"
+msgstr "扩充目录时"
+
+msgid "while fetching block %llu."
+msgstr "获取块 %llu 时。"
+
+msgid "while fetching superblock"
+msgstr "获取超级块时"
+
+msgid "while freeing dir_info tdb file"
+msgstr "释放 dir_info tdb 文件时"
+
+msgid "while getting next inode"
+msgstr "获取下一个inode时"
+
+msgid "while getting stat information for %s"
+msgstr "获取%s的stat信息时出错。"
+
+msgid "while initializing ext2_qcow2_image"
+msgstr "初始化ext2_qcow2_image时"
+
+msgid "while initializing journal superblock"
+msgstr "初始化日志超级块时"
+
+msgid "while initializing quota context"
+msgstr "初始化配额上下文时"
+
+msgid "while initializing quota context in support library"
+msgstr "初始化支持库中的引用上下文时"
+
+msgid "while iterating over inode %u"
+msgstr "获取遍历inode %u 时"
+
+msgid "while linking \"%s\""
+msgstr "链接“%s”时"
+
+msgid "while listing attributes of \"%s\""
+msgstr "尝试列出“%s”的属性时"
+
+msgid "while looking up \"%s\""
+msgstr "查找“%s”时"
+
+msgid "while looking up /lost+found"
+msgstr "查找/lost+found目录时"
+
+msgid "while lstat \"%s\""
+msgstr "对“%s”进行lstat调用时"
+
+msgid "while making dir \"%s\""
+msgstr "创建目录“%s”时"
+
+msgid "while marking bad blocks as used"
+msgstr "将坏块标记为已使用的"
+
+msgid "while opening \"%s\" to copy"
+msgstr "打开“%s”并拷贝时"
+
+msgid "while opening %s"
+msgstr "打开%s时"
+
+msgid "while opening %s for flushing"
+msgstr "打开并刷新 %s 时"
+
+msgid "while opening `%s'"
+msgstr "打开“%s”时"
+
+msgid "while opening device file"
+msgstr "打开设备文件时"
+
+msgid "while opening inode %u"
+msgstr "打开 inode %u 时"
+
+msgid "while opening inode scan"
+msgstr "进行inode扫描时"
+
+msgid "while opening journal inode"
+msgstr "打开日志inode时"
+
+msgid "while opening undo file `%s'\n"
+msgstr "打开撤销文件“%s”时\n"
+
+msgid "while populating file system"
+msgstr "于填充文件系统时"
+
+msgid "while printing bad block list"
+msgstr "输出坏块列表时"
+
+msgid "while processing list of bad blocks from program"
+msgstr "处理从badblocks获取的坏块列表时"
+
+msgid "while reading MMP block"
+msgstr "读取 MMP 块时"
+
+msgid "while reading MMP block."
+msgstr "读取MMP块时"
+
+msgid "while reading attribute \"%s\" of \"%s\""
+msgstr "读取 %s 的“%s”标志时"
+
+msgid "while reading bitmaps"
+msgstr "读取位图时"
+
+msgid "while reading filesystem superblock."
+msgstr "读取文件系统的超级块时"
+
+msgid "while reading flags on %s"
+msgstr "读取 %s 的标志时"
+
+msgid "while reading in list of bad blocks from file"
+msgstr "从文件中读取坏块表时"
+
+msgid "while reading inode %lu in %s"
+msgstr "读取 %2$s 中的inode %1$lu 时"
+
+msgid "while reading inode %u"
+msgstr "读取 inode %u 时"
+
+msgid "while reading journal inode"
+msgstr "读取日志inode时"
+
+msgid "while reading journal super block"
+msgstr "读取日志超级块时"
+
+msgid "while reading journal superblock"
+msgstr "读取日志超级块时"
+
+msgid "while reading keys"
+msgstr "读取键时"
+
+msgid "while reading root inode"
+msgstr "读取坏块inode时"
+
+msgid "while reading the bad blocks inode"
+msgstr "读取坏块inode时"
+
+msgid "while reading undo file"
+msgstr "读取坏撤销文件时"
+
+msgid "while recovering journal of %s"
+msgstr "恢复 %s 的日志时"
+
+msgid "while removing quota file (%d)"
+msgstr "移除配额文件（%d）时"
+
+msgid "while reserving blocks for online resize"
+msgstr "为在线改变大小保留块时"
+
+msgid "while resetting context"
+msgstr "重置上下文时"
+
+msgid "while restoring the image table"
+msgstr "存储镜像表时"
+
+msgid "while retrying to read bitmaps for %s"
+msgstr "重新尝试读取 %s 的位图时"
+
+msgid "while rewriting block and inode bitmaps for %s"
+msgstr "重写 %s  的block和inode位图时"
+
+msgid "while sanity checking the bad blocks inode"
+msgstr "进行坏块inode的健全性检查时"
+
+msgid "while saving inode data"
+msgstr "保存 inode 数据时"
+
+msgid "while scanning directory \"%s\""
+msgstr "扫描目录“%s”时"
+
+msgid "while setting bad block inode"
+msgstr "设置坏块inode时"
+
+msgid "while setting blocksize; too small for device\n"
+msgstr "设置块大小时；对于设备来说太小\n"
+
+msgid "while setting flags on %s"
+msgstr "设置 %s 的标志时"
+
+msgid "while setting inode for \"%s\""
+msgstr "为“%s”设置 inode 时"
+
+msgid "while setting project on %s"
+msgstr "设置 %s 的项目时"
+
+msgid "while setting root inode ownership"
+msgstr "设置根目录的所有者时"
+
+msgid "while setting up superblock"
+msgstr "设置superblock时"
+
+msgid "while setting version on %s"
+msgstr "设置 %s 的版本时"
+
+msgid "while setting xattrs for \"%s\""
+msgstr "设置“%s”的 xattrs 时"
+
+msgid "while starting inode scan"
+msgstr "开始inode扫描时"
+
+msgid "while trying popen '%s'"
+msgstr "尝试管道执行 %s 时"
+
+msgid "while trying to allocate filesystem tables"
+msgstr "尝试分配文件系统表时"
+
+msgid "while trying to convert qcow2 image (%s) into raw image (%s)"
+msgstr "尝试将qcow2镜像（%s）转换为raw镜像（%s）时"
+
+msgid "while trying to create revision %d"
+msgstr "尝试创建版本 %d 时"
+
+msgid "while trying to delete %s"
+msgstr "尝试删除 %s 时"
+
+msgid "while trying to determine device size"
+msgstr "尝试确定设备大小时"
+
+msgid "while trying to determine filesystem size"
+msgstr "尝试确定文件系统大小时"
+
+msgid "while trying to determine hardware sector size"
+msgstr "尝试确定硬件扇区大小时"
+
+msgid "while trying to determine physical sector size"
+msgstr "尝试确定物理扇区大小时"
+
+msgid "while trying to flush %s"
+msgstr "尝试刷新 %s 时"
+
+msgid "while trying to initialize program"
+msgstr "尝试初始化程序时"
+
+msgid "while trying to open %s"
+msgstr "尝试打开 %s 时"
+
+msgid "while trying to open '%s'"
+msgstr "尝试打开 “%s” 时"
+
+msgid "while trying to open external journal"
+msgstr "尝试打开外部日志时"
+
+msgid "while trying to open journal device %s\n"
+msgstr "尝试打开日志设备 %s 时\n"
+
+msgid "while trying to open mountpoint %s"
+msgstr "尝试打开挂载点 %s 时"
+
+msgid "while trying to re-open %s"
+msgstr "尝试重新打开 %s 时"
+
+msgid "while trying to read '%s' bitmaps\n"
+msgstr "尝试读取“%s”位图时\n"
+
+msgid "while trying to read link \"%s\""
+msgstr "尝试读取链接“%s”时"
+
+msgid "while trying to resize %s"
+msgstr "尝试调整%s的大小时"
+
+msgid "while trying to run '%s'"
+msgstr "尝试运行“%s”时"
+
+msgid "while trying to setup undo file\n"
+msgstr "尝试创建撤销记录时\n"
+
+msgid "while trying to stat %s"
+msgstr "尝试对%s进行stat调用时"
+
+msgid "while trying to truncate %s"
+msgstr "尝试截断 %s 时"
+
+msgid "while updating bad block inode"
+msgstr "更新坏块inode时"
+
+msgid "while updating quota limits (%d)"
+msgstr "更新配额限制（%d）时"
+
+msgid "while writing attribute \"%s\" to inode %u"
+msgstr "写入标志“%s”到 inode %u 时"
+
+msgid "while writing block %llu."
+msgstr "写块 %llu 时。"
+
+msgid "while writing block bitmap"
+msgstr "写入块位图时"
+
+msgid "while writing file \"%s\""
+msgstr "写入文件“%s”时"
+
+msgid "while writing inode %lu in %s"
+msgstr "写入 %2$s 中的inode %1$lu 时"
+
+msgid "while writing inode %u"
+msgstr "写入 inode %u 时"
+
+msgid "while writing inode bitmap"
+msgstr "写入inode位图时"
+
+msgid "while writing inode table"
+msgstr "写入inode表时"
+
+msgid "while writing journal inode"
+msgstr "写入日志inode时"
+
+msgid "while writing journal superblock"
+msgstr "写入日志超级块时"
+
+msgid "while writing out and closing file system"
+msgstr "写出并关闭文件系统时"
+
+msgid "while writing quota file (%d)"
+msgstr "写入配额文件（%d）时"
+
+msgid "while writing quota inodes"
+msgstr "写入配额 inode 时"
+
+msgid "while writing reserved inodes"
+msgstr "写入预留 inode 时"
+
+msgid "while writing superblock"
+msgstr "写入超级块时"
+
+msgid "while writing symlink\"%s\""
+msgstr "写入符号链接“%s”时"
+
+msgid "while zeroing block %llu at end of filesystem"
+msgstr "对文件系统末尾的块 %llu 填零时"
+
+msgid "while zeroing journal device (block %llu, count %d)"
+msgstr "对日志设备填零时（块 %llu，计数 %d）"
+
+msgid "will not make a %s here!\n"
+msgstr "取消建立 %s ！\n"
+
+msgid "with %llu blocks each"
+msgstr "每个使用 %llu 个块"
+
+msgid "write"
+msgstr "写入"
+
+msgid "writing block and inode bitmaps"
+msgstr "写入块和inode位图"
+
+msgid "xextent"
+msgstr "xextent"
+
+msgid "yY"
+msgstr "yY"
+
+msgid "yes"
+msgstr "yes"
+
+msgid "yes\n"
+msgstr "是\n"
+
+msgid "yes to all\n"
+msgstr "全部回答“yes”\n"
+
+msgid "zzero-length"
+msgstr "z零长度"

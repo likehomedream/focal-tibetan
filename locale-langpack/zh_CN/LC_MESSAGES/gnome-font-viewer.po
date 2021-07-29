@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-utils master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-font-viewer&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-03 14:07+0000\n"
+"Last-Translator: Cheng Lu <chenglu1990@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:49+0000\n"
+
+msgid "%s %g — %g, default %g"
+msgstr "%s %g — %g，默认值 %g"
+
+msgid "About Fonts"
+msgstr "关于字体"
+
+msgid "All Fonts"
+msgstr "全部字体"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Copyright"
+msgstr "版权"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Designer"
+msgstr "设计师"
+
+msgid "FONT-FILE OUTPUT-FILE"
+msgstr "字体文件 输出文件"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "GNOME Fonts"
+msgstr "GNOME 字体"
+
+msgid ""
+"GNOME Fonts also supports installing new font files downloaded in the .ttf "
+"and other formats. Fonts may be installed only for your use or made "
+"available to all users on the computer."
+msgstr "GNOME 字体也支持安装 .ttf 和其他格式的字体下载文件。字体安装可能只为你生效使用或计算机上的所有用户生效使用。"
+
+msgid ""
+"GNOME Fonts shows you the fonts installed on your computer for your use as "
+"thumbnails. Selecting any thumbnails shows the full view of how the font "
+"would look under various sizes."
+msgstr "GNOME 字体使用缩略图为你展示在你计算机上安装的字体。选择任意缩略图会展示字体各种尺寸的外观。"
+
+msgid "Glyph Count"
+msgstr "字形数"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "Instance %d"
+msgstr "实例 %d"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Manufacturer"
+msgstr "制造商"
+
+msgid "Name"
+msgstr "名称"
+
+msgctxt "OpenType layout"
+msgid "Capital Spacing"
+msgstr "大写间隔"
+
+msgctxt "OpenType layout"
+msgid "Case-Sensitive Forms"
+msgstr "大小写区分形"
+
+msgctxt "OpenType layout"
+msgid "Contextual Alternates"
+msgstr "上下文替代"
+
+msgctxt "OpenType layout"
+msgid "Contextual Ligatures"
+msgstr "上下文组合"
+
+msgctxt "OpenType layout"
+msgid "Contextual Swash"
+msgstr "上下文泼溅"
+
+msgctxt "OpenType layout"
+msgid "Denominators"
+msgstr "分母"
+
+msgctxt "OpenType layout"
+msgid "Discretionary Ligatures"
+msgstr "按需组合"
+
+msgctxt "OpenType layout"
+msgid "Expert Forms"
+msgstr "专业形"
+
+msgctxt "OpenType layout"
+msgid "Fractions"
+msgstr "比例"
+
+msgctxt "OpenType layout"
+msgid "Full Widths"
+msgstr "全宽"
+
+msgctxt "OpenType layout"
+msgid "Halant Forms"
+msgstr "Halant Forms"
+
+msgctxt "OpenType layout"
+msgid "Half Forms"
+msgstr "半形"
+
+msgctxt "OpenType layout"
+msgid "Half Widths"
+msgstr "半宽"
+
+msgctxt "OpenType layout"
+msgid "Hangul"
+msgstr "Hangul"
+
+msgctxt "OpenType layout"
+msgid "Historical Forms"
+msgstr "历史形"
+
+msgctxt "OpenType layout"
+msgid "Initial Forms"
+msgstr "本形"
+
+msgctxt "OpenType layout"
+msgid "Isolated Forms"
+msgstr "分立形"
+
+msgctxt "OpenType layout"
+msgid "Italics"
+msgstr "斜体"
+
+msgctxt "OpenType layout"
+msgid "Kerning"
+msgstr "字距调整"
+
+msgctxt "OpenType layout"
+msgid "Left Bounds"
+msgstr "左边界"
+
+msgctxt "OpenType layout"
+msgid "Terminal Forms"
+msgstr "终端形"
+
+msgctxt "OpenType layout"
+msgid "Terminal Forms #2"
+msgstr "终端形 #2"
+
+msgctxt "OpenType layout"
+msgid "Terminal Forms #3"
+msgstr "终端形 #3"
+
+msgid "SIZE"
+msgstr "大小"
+
+msgid "Show the application's version"
+msgstr "显示应用版本"
+
+msgid "Style"
+msgstr "样式"
+
+msgid "TEXT"
+msgstr "文字"
+
+msgid "Text to thumbnail (default: Aa)"
+msgstr "生成缩略图所用的文字(默认：Aa)"
+
+msgid "This font could not be displayed."
+msgstr "该字体无法显示。"
+
+msgid "Thumbnail size (default: 128)"
+msgstr "缩略图大小(默认：128)"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "View fonts on your system"
+msgstr "查看您系统中的字体"
+
+msgid "fonts;fontface;"
+msgstr "fonts;fontface;字体;"
+
+msgid "no"
+msgstr "否"
+
+msgid "translator-credits"
+msgstr ""
+"Cheng Lu <chenglu1990@gmail.com>, 2012, 2014\n"
+"tuhaihe <1132321739qq@gmail.com>, 2013\n"
+"Tong Hui <tonghuix@gmail.com>, 2013, 2014\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Alan Luo https://launchpad.net/~iltcio\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Cheng Lu https://launchpad.net/~dawndiy\n"
+"  Dingyuan Wang https://launchpad.net/~gumblex\n"
+"  Nancy Yang https://launchpad.net/~nan19\n"
+"  TeliuTe https://launchpad.net/~teliute\n"
+"  Tong Hui https://launchpad.net/~tonghuix\n"
+"  Wesley Gao https://launchpad.net/~wesleygao\n"
+"  blurhy https://launchpad.net/~blurhy"
+
+msgid "yes"
+msgstr "是"

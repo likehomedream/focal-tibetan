@@ -1,0 +1,758 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-chess master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-chess/issues\n"
+"PO-Revision-Date: 2020-04-05 02:57+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:08+0000\n"
+
+msgid "A classic game of positional strategy"
+msgstr "一个很古老的有关位置战略的游戏"
+
+msgid "A flag to enable board numbering"
+msgstr "显示棋盘坐标模式的标记"
+
+msgid "A flag to enable maximized mode"
+msgstr "启用最大化模式的标记"
+
+msgid "A flag to enable move hints"
+msgstr "启用提示模式的标记"
+
+msgid "All files"
+msgstr "所有文件"
+
+msgid "Are you sure you want to resign?"
+msgstr "您真的想要认输吗？"
+
+msgid "Black Wins"
+msgstr "黑方获胜"
+
+msgid "Black bishop at %1$s takes the white bishop at %2$s"
+msgstr "在 %1$s 的黑象吃掉在 %2$s 的白象"
+
+msgid "Black bishop at %1$s takes the white knight at %2$s"
+msgstr "在 %1$s 的黑象吃掉在 %2$s 的白马"
+
+msgid "Black bishop at %1$s takes the white pawn at %2$s"
+msgstr "在 %1$s 的黑象吃掉在 %2$s 的白兵"
+
+msgid "Black bishop at %1$s takes the white queen at %2$s"
+msgstr "在 %1$s 的黑象吃掉在 %2$s 的白后"
+
+msgid "Black bishop at %1$s takes the white rook at %2$s"
+msgstr "在 %1$s 的黑象吃掉在 %2$s 的白车"
+
+msgid "Black bishop moves from %1$s to %2$s"
+msgstr "黑象从 %1$s 移动到 %2$s"
+
+msgid "Black castles kingside"
+msgstr "黑棋王翼易位"
+
+msgid "Black castles queenside"
+msgstr "黑棋后翼易位"
+
+msgid "Black has resigned."
+msgstr "黑方已认输。"
+
+msgid "Black has run out of time."
+msgstr "黑方超时。"
+
+msgid "Black is Thinking…"
+msgstr "黑方正在思索中……"
+
+msgid "Black is in Check"
+msgstr "黑方被将"
+
+msgid "Black is in check and cannot move."
+msgstr "黑方正被将军且无子可走。"
+
+msgid "Black king at %1$s takes the white bishop at %2$s"
+msgstr "在 %1$s 的黑王吃掉在 %2$s 的白象"
+
+msgid "Black king at %1$s takes the white knight at %2$s"
+msgstr "在 %1$s 的黑王吃掉在 %2$s 的白马"
+
+msgid "Black king at %1$s takes the white pawn at %2$s"
+msgstr "在 %1$s 的黑王吃掉在 %2$s 的白兵"
+
+msgid "Black king at %1$s takes the white queen at %2$s"
+msgstr "在 %1$s 的黑王吃掉在 %2$s 的白后"
+
+msgid "Black king at %1$s takes the white rook at %2$s"
+msgstr "在 %1$s 的黑王吃掉在 %2$s 的白车"
+
+msgid "Black king moves from %1$s to %2$s"
+msgstr "黑王从 %1$s 移动到 %2$s"
+
+msgid "Black knight at %1$s takes the white bishop at %2$s"
+msgstr "在 %1$s 的黑马吃掉在 %2$s 的白象"
+
+msgid "Black knight at %1$s takes the white knight at %2$s"
+msgstr "在 %1$s 的黑马吃掉在 %2$s 的白马"
+
+msgid "Black knight at %1$s takes the white pawn at %2$s"
+msgstr "在 %1$s 的黑马吃掉在 %2$s 的白兵"
+
+msgid "Black knight at %1$s takes the white queen at %2$s"
+msgstr "在 %1$s 的黑马吃掉在 %2$s 的白后"
+
+msgid "Black knight at %1$s takes the white rook at %2$s"
+msgstr "在 %1$s 的黑马吃掉在 %2$s 的白车"
+
+msgid "Black knight moves from %1$s to %2$s"
+msgstr "黑马从 %1$s 移动到 %2$s"
+
+msgid "Black pawn at %1$s takes the white bishop at %2$s"
+msgstr "在 %1$s 的黑兵吃掉在 %2$s 的白象"
+
+msgid "Black pawn at %1$s takes the white knight at %2$s"
+msgstr "在 %1$s 的黑兵吃掉在 %2$s 的白马"
+
+msgid "Black pawn at %1$s takes the white pawn at %2$s"
+msgstr "在 %1$s 的黑兵吃掉在 %2$s 的白兵"
+
+msgid "Black pawn at %1$s takes the white queen at %2$s"
+msgstr "在 %1$s 的黑兵吃掉在 %2$s 的白后"
+
+msgid "Black pawn at %1$s takes the white rook at %2$s"
+msgstr "在 %1$s 的黑兵吃掉在 %2$s 的白车"
+
+msgid "Black pawn captures white pawn en passant"
+msgstr "黑兵吃掉过路白兵"
+
+msgid "Black pawn moves from %1$s to %2$s"
+msgstr "黑兵从 %1$s 移动到 %2$s"
+
+msgid "Black performed an en passant capture"
+msgstr "黑方执行了吃过路兵"
+
+msgid "Black queen at %1$s takes the white bishop at %2$s"
+msgstr "在 %1$s 的黑后吃掉在 %2$s 的白象"
+
+msgid "Black queen at %1$s takes the white knight at %2$s"
+msgstr "在 %1$s 的黑后吃掉在 %2$s 的白马"
+
+msgid "Black queen at %1$s takes the white pawn at %2$s"
+msgstr "在 %1$s 的黑后吃掉在 %2$s 的白兵"
+
+msgid "Black queen at %1$s takes the white queen at %2$s"
+msgstr "在 %1$s 的黑后吃掉在 %2$s 的白后"
+
+msgid "Black queen at %1$s takes the white rook at %2$s"
+msgstr "在 %1$s 的黑后吃掉在 %2$s 的白车"
+
+msgid "Black queen moves from %1$s to %2$s"
+msgstr "黑后从 %1$s 移动到 %2$s"
+
+msgid "Black rook at %1$s takes the white bishop at %2$s"
+msgstr "在 %1$s 的黑车吃掉在 %2$s 的白象"
+
+msgid "Black rook at %1$s takes the white knight at %2$s"
+msgstr "在 %1$s 的黑车吃掉在 %2$s 的白马"
+
+msgid "Black rook at %1$s takes the white pawn at %2$s"
+msgstr "在 %1$s 的黑车吃掉在 %2$s 的白兵"
+
+msgid "Black rook at %1$s takes the white queen at %2$s"
+msgstr "在 %1$s 的黑车吃掉在 %2$s 的白后"
+
+msgid "Black rook at %1$s takes the white rook at %2$s"
+msgstr "在 %1$s 的黑车吃掉在 %2$s 的白车"
+
+msgid "Black rook moves from %1$s to %2$s"
+msgstr "黑车从 %1$s 移动到 %2$s"
+
+msgid "Black to Move"
+msgstr "黑方执子"
+
+msgid "Board _orientation:"
+msgstr "盘面方向(_O)："
+
+msgid ""
+"Can be 'human' (play against another human player), '' (use the first "
+"available chess engine) or the name of a specific engine to play against"
+msgstr "可以是“human”（和另一个人类玩家对战)，“”（第一个可用的象棋引擎）或者要指定与之对战的引擎名称"
+
+msgid "Changes will take effect for the next game."
+msgstr "改动将在下一盘游戏中生效。"
+
+msgid "Chess"
+msgstr "国际象棋"
+
+msgid "Chess Game"
+msgstr "国际象棋游戏"
+
+msgid ""
+"Computer chess enthusiasts will appreciate GNOME Chess’s compatibility with "
+"nearly all modern computer chess engines, and its ability to detect several "
+"popular engines automatically if installed."
+msgstr "GNOME 国际象棋与几乎所有的现代计算机象棋引擎兼容，也能自动检测常用的引擎。"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Difficulty of the opponent chess engine"
+msgstr "与之对战的国际象棋引擎的难度"
+
+msgid "Failed to load PGN: move %s is invalid."
+msgstr "无法载入 PGN: 移动 %s 是无效的。"
+
+msgid "Failed to save game: %s"
+msgstr "保存游戏失败：%s"
+
+msgid "Fancy"
+msgstr "花俏"
+
+msgid "Five minutes"
+msgstr "5 分钟"
+
+msgid "GNOME Chess"
+msgstr "GNOME 国际象棋"
+
+msgid "GNOME Chess can only open one PGN at a time."
+msgstr "GNOME 国际象棋一次只能打开一个PGN。"
+
+msgid ""
+"GNOME Chess is a simple chess game. You can play against your computer at "
+"three different difficulty levels, or against a friend at your computer."
+msgstr "GNOME 国际象棋是一款简单的国际象棋游戏。您可以与三种难度级别的电脑对弈，或与朋友在您的计算机上对弈。"
+
+msgid "Game Start"
+msgstr "游戏开始"
+
+msgid "Game is Drawn"
+msgstr "和棋"
+
+msgid "Invalid %s : %s in PGN, setting timer to infinity."
+msgstr "无效的 %s：%s 于 PGN，将会设定计时器为无限大。"
+
+msgid "Invalid clock type in PGN: %s, using a simple clock."
+msgstr "PGN 中无效的时钟类型: %s，将会使用简单时钟。"
+
+msgid "Invalid timer increment in PGN: %s, using a simple clock."
+msgstr "PGN 中无效的的计时器增量：%s，将会使用简单时钟。"
+
+msgid "Load Chess Game"
+msgstr "加载象棋游戏"
+
+msgid "Move _format:"
+msgstr "移动格式(_F)："
+
+msgid "Neither player can checkmate."
+msgstr "双方都无法将死对方。"
+
+msgid ""
+"No chess engine is installed. You will not be able to play against the "
+"computer."
+msgstr "尚未安装国际象棋引擎。您将无法与电脑对战。"
+
+msgid "No limit"
+msgstr "无限"
+
+msgid "No piece was taken or pawn moved in 75 moves."
+msgstr "过去 75 步内没有子被吃且兵没有移动。"
+
+msgid "No piece was taken or pawn moved in fifty moves."
+msgstr "过去十五步内没有子被吃且兵没有移动。"
+
+msgid "One hour"
+msgstr "1 小时"
+
+msgid "Oops! Something has gone wrong."
+msgstr "噢！出问题了。"
+
+msgid "Opponent cannot move."
+msgstr "对方无子可走。"
+
+msgid "PGN files"
+msgstr "PGN 文件"
+
+msgid "Pause the game"
+msgstr "暂停游戏"
+
+msgid "Paused"
+msgstr "暂停"
+
+msgid "Play the classic two-player board game of chess"
+msgstr "经典的两人国际象棋对弈"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Rewind to the game start"
+msgstr "定位到游戏开始"
+
+msgid "Save Chess Game"
+msgstr "保存象棋游戏"
+
+msgid "Save this game before loading another one?"
+msgstr "载入另一游戏前保存当前游戏？"
+
+msgid "Save this game before starting a new one?"
+msgstr "开始新游戏前保存当前游戏？"
+
+msgid "Select Promotion Type"
+msgstr "选择升变类型"
+
+msgid "Show release version"
+msgstr "显示发布版本"
+
+msgid "Show the current move"
+msgstr "显示当前移动"
+
+msgid "Show the next move"
+msgstr "显示下一着"
+
+msgid "Show the previous move"
+msgstr "显示上一着"
+
+msgid "Simple"
+msgstr "简单"
+
+msgid "Ten minutes"
+msgstr "10 分钟"
+
+msgid "The board side to play as"
+msgstr "要玩的棋盘方为"
+
+msgid "The computer player is confused. The game cannot continue."
+msgstr "计算机棋手已经陷入混乱。游戏无法继续下去了。"
+
+msgid "The directory to open the load game dialog in"
+msgstr "载入游戏对话框打开时所在的目录"
+
+msgid "The directory to open the save game dialog in"
+msgstr "保存游戏对话框打开时所在的目录"
+
+msgid "The duration of a game in seconds (0 for no limit)"
+msgstr "游戏的时间限制（以秒为单位，0 表示无限制）"
+
+msgid "The format to display moves in"
+msgstr "着法显示格式"
+
+msgid "The game has been abandoned."
+msgstr "已放弃游戏。"
+
+msgid "The game log says a player died!"
+msgstr "游戏日志显示有一名玩家已经死了！"
+
+msgid "The height of the main window in pixels."
+msgstr "主窗口的高度，以像素计。"
+
+msgid "The height of the window"
+msgstr "窗口的高度"
+
+msgid "The last side the player played as"
+msgstr "上次玩家玩的顏色"
+
+msgid "The opponent player"
+msgstr "对手"
+
+msgid "The piece theme to use"
+msgstr "使用的棋子主题"
+
+msgid "The same board state has occurred five times."
+msgstr "同一局面已出现五次。"
+
+msgid "The same board state has occurred three times."
+msgstr "对局中同一局面已出现三次。"
+
+msgid "The side of the board that is in the foreground"
+msgstr "前景上的板边缘"
+
+msgid "The timer increment set corresponding to clock type (1 second minimum)"
+msgstr "计时器增量设置对应的时钟类型（最小 1 秒）"
+
+msgid "The type of clock (simple/fischer/bronstein)"
+msgstr "时钟类型（简单/菲舍尔/布龙斯坦）"
+
+msgid "The width of the main window in pixels."
+msgstr "主窗口的宽度，以像素计。"
+
+msgid "The width of the window"
+msgstr "窗口的宽度"
+
+msgid "Thirty minutes"
+msgstr "30 分钟"
+
+msgid "This does not look like a valid PGN game."
+msgstr "这看起来不像有效的 PGN 游戏。"
+
+msgid ""
+"This is needed when play-as is set to alternate. This should only be set to "
+"black or white."
+msgstr "当玩家扮演设为轮流制时是需要的。这应该只设定为黑方或白方。"
+
+msgid ""
+"This makes sense if you plan to save the game as a record of your loss."
+msgstr "如果你打算保存，这将会留下你一次败局的记录。"
+
+msgid "Three hours"
+msgstr "3 小时"
+
+msgid "Timer _increment:"
+msgstr "计时器增量(_I)："
+
+msgid "Two hours"
+msgstr "2 小时"
+
+msgid "Undo your most recent move"
+msgstr "撤销您最近的走子"
+
+msgid "Unpause the game"
+msgstr "继续游戏"
+
+msgid "Untitled Chess Game"
+msgstr "未命名的国际象棋游戏"
+
+msgid "White Wins"
+msgstr "白方获胜"
+
+msgid "White bishop at %1$s takes the black bishop at %2$s"
+msgstr "在 %1$s 的白象吃掉在 %2$s 的黑象"
+
+msgid "White bishop at %1$s takes the black knight at %2$s"
+msgstr "在 %1$s 的白象吃掉在 %2$s 的黑马"
+
+msgid "White bishop at %1$s takes the black pawn at %2$s"
+msgstr "在 %1$s 的白象吃掉在 %2$s 的黑兵"
+
+msgid "White bishop at %1$s takes the black queen at %2$s"
+msgstr "在 %1$s 的白象吃掉在 %2$s 的黑后"
+
+msgid "White bishop at %1$s takes the black rook at %2$s"
+msgstr "在 %1$s 的白象吃掉在 %2$s 的黑车"
+
+msgid "White bishop moves from %1$s to %2$s"
+msgstr "白象从 %1$s 移动到 %2$s"
+
+msgid "White castles kingside"
+msgstr "白棋王翼易位"
+
+msgid "White castles queenside"
+msgstr "白棋后翼易位"
+
+msgid "White has resigned."
+msgstr "白方已认输。"
+
+msgid "White has run out of time."
+msgstr "白方超时。"
+
+msgid "White is Thinking…"
+msgstr "白方正在思索中……"
+
+msgid "White is in Check"
+msgstr "白方被将"
+
+msgid "White is in check and cannot move."
+msgstr "白方正被将军且无子可走。"
+
+msgid "White king at %1$s takes the black bishop at %2$s"
+msgstr "在 %1$s 的白王吃掉在 %2$s 的黑象"
+
+msgid "White king at %1$s takes the black knight at %2$s"
+msgstr "在 %1$s 的白王吃掉在 %2$s 的黑马"
+
+msgid "White king at %1$s takes the black pawn at %2$s"
+msgstr "在 %1$s 的白王吃掉在 %2$s 的黑兵"
+
+msgid "White king at %1$s takes the black queen at %2$s"
+msgstr "在 %1$s 的白王掉在 %2$s 的黑后"
+
+msgid "White king at %1$s takes the black rook at %2$s"
+msgstr "在 %1$s 的白王吃掉在 %2$s 的黑车"
+
+msgid "White king moves from %1$s to %2$s"
+msgstr "白王从 %1$s 移动到 %2$s"
+
+msgid "White knight at %1$s takes the black bishop at %2$s"
+msgstr "在 %1$s 的白马吃掉在 %2$s 的黑象"
+
+msgid "White knight at %1$s takes the black knight at %2$s"
+msgstr "在 %1$s 的白马吃掉在 %2$s 的黑马"
+
+msgid "White knight at %1$s takes the black pawn at %2$s"
+msgstr "在 %1$s 的白马吃掉在 %2$s 的黑兵"
+
+msgid "White knight at %1$s takes the black queen at %2$s"
+msgstr "在 %1$s 的白马吃掉在 %2$s 的黑后"
+
+msgid "White knight at %1$s takes the black rook at %2$s"
+msgstr "在 %1$s 的白马吃掉在 %2$s 的黑车"
+
+msgid "White knight moves from %1$s to %2$s"
+msgstr "白马从 %1$s 移动到 %2$s"
+
+msgid "White pawn at %1$s takes the black bishop at %2$s"
+msgstr "在 %1$s 的白兵吃掉在 %2$s 的黑象"
+
+msgid "White pawn at %1$s takes the black knight at %2$s"
+msgstr "在 %1$s 的白兵吃掉在 %2$s 的黑马"
+
+msgid "White pawn at %1$s takes the black pawn at %2$s"
+msgstr "在 %1$s 的白兵吃掉在 %2$s 的黑兵"
+
+msgid "White pawn at %1$s takes the black queen at %2$s"
+msgstr "在 %1$s 的白兵吃掉在 %2$s 的黑后"
+
+msgid "White pawn at %1$s takes the black rook at %2$s"
+msgstr "在 %1$s 的白兵吃掉在 %2$s 的黑车"
+
+msgid "White pawn captures black pawn en passant"
+msgstr "白兵吃掉过路黑兵"
+
+msgid "White pawn moves from %1$s to %2$s"
+msgstr "白兵从 %1$s 移动到 %2$s"
+
+msgid "White performed an en passant capture"
+msgstr "白方执行了吃过路兵"
+
+msgid "White queen at %1$s takes the black bishop at %2$s"
+msgstr "在 %1$s 的白后吃掉在 %2$s 的黑象"
+
+msgid "White queen at %1$s takes the black knight at %2$s"
+msgstr "在 %1$s 的白后吃掉在 %2$s 的黑马"
+
+msgid "White queen at %1$s takes the black pawn at %2$s"
+msgstr "在 %1$s 的白后吃掉在 %2$s 的黑兵"
+
+msgid "White queen at %1$s takes the black queen at %2$s"
+msgstr "在 %1$s 的白后吃掉在 %2$s 的黑后"
+
+msgid "White queen at %1$s takes the black rook at %2$s"
+msgstr "在 %1$s 的白后吃掉在 %2$s 的黑车"
+
+msgid "White queen moves from %1$s to %2$s"
+msgstr "白后从 %1$s 移动到 %2$s"
+
+msgid "White rook at %1$s takes the black bishop at %2$s"
+msgstr "在 %1$s 的白车吃掉在 %2$s 的黑象"
+
+msgid "White rook at %1$s takes the black knight at %2$s"
+msgstr "在 %1$s 的白车吃掉在 %2$s 的黑马"
+
+msgid "White rook at %1$s takes the black pawn at %2$s"
+msgstr "在 %1$s 的白车吃掉在 %2$s 的黑兵"
+
+msgid "White rook at %1$s takes the black queen at %2$s"
+msgstr "在 %1$s 的白车吃掉在 %2$s 的黑后"
+
+msgid "White rook at %1$s takes the black rook at %2$s"
+msgstr "在 %1$s 的白车吃掉在 %2$s 的黑车"
+
+msgid "White rook moves from %1$s to %2$s"
+msgstr "白车从 %1$s 移动到 %2$s"
+
+msgid "White to Move"
+msgstr "白方执子"
+
+msgid "Would you like to claim a draw?"
+msgstr "您想要求和棋吗？"
+
+msgid "_Abandon game"
+msgstr "放弃游戏(_A)"
+
+msgid "_Appearance"
+msgstr "外观(_A)"
+
+msgid "_Bishop"
+msgstr "象(_B)"
+
+msgid "_Board numbering"
+msgstr "棋盘编号(_B)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Claim Draw"
+msgstr "要求和棋(_C)"
+
+msgid "_Clock type:"
+msgstr "时钟样式(_C)："
+
+msgid "_Difficulty:"
+msgstr "难度(_D)"
+
+msgid "_Discard game"
+msgstr "放弃游戏(_D)"
+
+msgid "_Game"
+msgstr "游戏(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Keep Playing"
+msgstr "继续游戏(_K)"
+
+msgid "_Knight"
+msgstr "马(_K)"
+
+msgid "_Move hints"
+msgstr "走子提示(_M)"
+
+msgid "_New Game"
+msgstr "新建游戏(_N)"
+
+msgid "_OK"
+msgstr "确认(_O)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Opposing player:"
+msgstr "对手(_O)："
+
+msgid "_Piece style:"
+msgstr "棋子样式(_P)："
+
+msgid "_Play as:"
+msgstr "玩家(_P)："
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Queen"
+msgstr "后(_Q)"
+
+msgid "_Resign"
+msgstr "认输(_R)"
+
+msgid "_Rook"
+msgstr "车(_R)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Save game for later"
+msgstr "保存游戏以后再玩(_S)"
+
+msgid "_Save game log"
+msgstr "保存游戏日志(_S)"
+
+msgid "_Time limit:"
+msgstr "时间限制(_T)："
+
+msgctxt "chess-move-format"
+msgid "Figurine"
+msgstr "雕像格式"
+
+msgctxt "chess-move-format"
+msgid "Human"
+msgstr "易读格式"
+
+msgctxt "chess-move-format"
+msgid "Long Algebraic"
+msgstr "长代数格式"
+
+msgctxt "chess-move-format"
+msgid "Standard Algebraic"
+msgstr "标准代数格式"
+
+msgctxt "chess-opponent"
+msgid "Human"
+msgstr "人类玩家"
+
+msgctxt "chess-player"
+msgid "Alternate"
+msgstr "替代"
+
+msgctxt "chess-player"
+msgid "Black"
+msgstr "黑方"
+
+msgctxt "chess-player"
+msgid "White"
+msgstr "白方"
+
+msgctxt "chess-side"
+msgid "Black Side"
+msgstr "黑方"
+
+msgctxt "chess-side"
+msgid "Current Player"
+msgstr "当前玩家"
+
+msgctxt "chess-side"
+msgid "Human Side"
+msgstr "人类玩家方"
+
+msgctxt "chess-side"
+msgid "White Side"
+msgstr "白方"
+
+msgctxt "custom_duration_units"
+msgid "Bronstein"
+msgstr "布龙斯坦"
+
+msgctxt "custom_duration_units"
+msgid "Fischer"
+msgstr "费雪"
+
+msgctxt "custom_duration_units"
+msgid "Simple"
+msgstr "简单"
+
+msgctxt "custom_duration_units"
+msgid "hours"
+msgstr "小时"
+
+msgctxt "custom_duration_units"
+msgid "minutes"
+msgstr "分钟"
+
+msgctxt "custom_duration_units"
+msgid "seconds"
+msgstr "秒"
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr "简单"
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr "困难"
+
+msgctxt "difficulty"
+msgid "Normal"
+msgstr "正常"
+
+msgid "game;strategy;"
+msgstr "game;strategy;游戏;策略;棋;"
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] "小时"
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] "分"
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] "秒"
+
+msgid "translator-credits"
+msgstr ""
+"Yang Zhang <zyangmath@gmail.com>, 2007\n"
+"Ping Z <zpsigma@gmail.com>, 2007\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"Aron Xu <aronxu@gnome.org>, 2011.\n"
+"YunQiang Su <wzssyqa@gmail.com>, 2011, 2012.\n"
+"甘露(Gan Lu) <rhythm.gan@gmail.com>, 2013.\n"
+"Sphinx Jiang <yishanj13@gmail.com>, 2014.\n"
+"Tong Hui <tonghuix@gmail.com>, 2014\n"
+"Bin Li <libin.charles@gmail.com>, 2016.\n"
+"Mingcong Bai <jeffbai@aosc.xyz>, 2018.\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2018.\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Jeff Bai https://launchpad.net/~jeffbai\n"
+"  wsxy162 https://launchpad.net/~wsxy162"

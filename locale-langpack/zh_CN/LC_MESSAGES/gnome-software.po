@@ -1,0 +1,2230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-software master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-software/issues\n"
+"PO-Revision-Date: 2020-04-13 19:19+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:07+0000\n"
+
+msgid " and "
+msgstr " 且 "
+
+msgid "%R"
+msgstr "%R"
+
+msgid "%e %B %Y"
+msgstr "%Y年%-m月%-d日"
+
+msgid "%l:%M %p"
+msgstr "%p %l:%M"
+
+msgid "%s %s Now Available"
+msgstr "%s %s 现在可用"
+
+msgid "%s %s Ready to be Installed"
+msgstr "%s %s 已经可以安装"
+
+msgid "%s %s is no longer supported."
+msgstr "不再支持 %s %s。"
+
+msgid "%s (Installed)"
+msgstr "%s（已安装）"
+
+msgid "%s (Installing)"
+msgstr "%s（安装中）"
+
+msgid "%s (Removing)"
+msgstr "%s（移除中）"
+
+msgid "%s Controller"
+msgstr "%s 控制器"
+
+msgid "%s Device"
+msgstr "%s 设备"
+
+msgid "%s System"
+msgstr "%s 系统"
+
+msgid "%s Thunderbolt Controller"
+msgstr "%s Thunderbolt 控制器"
+
+msgid "%s and %s installed"
+msgid_plural "%s and %s installed"
+msgstr[0] "%s 和 %s 已安装"
+
+msgid "%s file format"
+msgstr "%s 文件格式"
+
+msgid ""
+"%s is not <a href=\"https://en.wikipedia.org/wiki/Free_and_open-"
+"source_software\">free and open source software</a>, and is provided by "
+"“%s”."
+msgstr ""
+"%s 不是 <a href=\"https://en.wikipedia.org/wiki/Free_and_open-"
+"source_software\">自由开源软件</a>，它由 “%s” 提供。"
+
+msgid "%s is not available."
+msgstr "%s 不可用。"
+
+msgid "%s is now installed"
+msgstr "%s 已安装"
+
+msgid "%s is provided by “%s”."
+msgstr "%s 由 %s 提供。"
+
+msgid "%s is requesting additional file format support."
+msgstr "%s 需要额外的文件格式的支持。"
+
+msgid "%s is requesting additional fonts."
+msgstr "%s 需要额外的字体。"
+
+msgid "%s is requesting additional multimedia codecs."
+msgstr "%s 需要额外的多媒体编解码器。"
+
+msgid "%s is requesting additional packages."
+msgstr "%s 需要额外的软件包。"
+
+msgid "%s is requesting additional printer drivers."
+msgstr "%s 需要额外的打印机驱动程序。"
+
+msgid "%s needs to be restarted to use new plugins."
+msgstr "%s 需要重启才能使用新插件。"
+
+msgid "%s not found"
+msgstr "未找到 %s"
+
+msgid "%s will be removed, and you will have to install it to use it again."
+msgstr "%s 将被移除，想再次使用它您必须重新安装。"
+
+msgid "%u add-on"
+msgid_plural "%u add-ons"
+msgstr[0] "%u 个附加组件"
+
+msgid "%u add-on installed"
+msgid_plural "%u add-ons installed"
+msgstr[0] "已安装 %u 个附加组件"
+
+msgid "%u application"
+msgid_plural "%u applications"
+msgstr[0] "%u 款应用程序"
+
+msgid "%u application installed"
+msgid_plural "%u applications installed"
+msgstr[0] "已安装 %u 款应用程序"
+
+msgid "%u more match"
+msgid_plural "%u more matches"
+msgstr[0] "还有 %u 个匹配项"
+
+msgid "'https://en.wikipedia.org/wiki/Proprietary_software'"
+msgstr "'https://zh.wikipedia.org/wiki/专有软件'"
+
+msgid "(This could take a while)"
+msgstr "（该过程会持续一会儿）"
+
+msgid ", "
+msgstr "、 "
+
+msgid ""
+"A list of URLs pointing to appstream files that will be downloaded into an "
+"app-info folder"
+msgstr "指向将下载到 app-info 文件夹的 AppStream 文件的 URL 列表"
+
+msgid "A list of applications to use, overriding the system defined ones."
+msgstr "要使用的应用程序列表，覆盖系统定义。"
+
+msgid "A list of compatible projects"
+msgstr "兼容项目的列表"
+
+msgid ""
+"A list of official repositories that should be considered free software"
+msgstr "应当作自由软件的官方源列表"
+
+msgid ""
+"A list of official repositories that should not be considered 3rd party"
+msgstr "不应当作第三方的源的官方源列表"
+
+msgid "A list of popular applications"
+msgstr "热门应用程序列表"
+
+msgid "A major upgrade, with new features and added polish."
+msgstr "主要更新，附带新特性并添加优化。"
+
+msgid "A new version of %s is available to install"
+msgstr "%s 有新版本可用"
+
+msgid "A nice way to manage the software on your system."
+msgstr "一种管理您系统中软件的好方法。"
+
+msgid "A snap is a universal Linux package"
+msgstr "Snap 是个通用的 Linux 程序包"
+
+msgid "AC power is required"
+msgstr "需要交流电源"
+
+msgid "About %s"
+msgstr "关于 %s"
+
+msgid "Access additional software from selected third party sources."
+msgstr "从选中的第三方软件源获取更多软件。"
+
+msgid "Add, remove or update software on this computer"
+msgstr "添加、移除或更新计算机软件"
+
+msgid "Add-ons"
+msgstr "附加组件"
+
+msgid ""
+"Adding this software repository will give you access to additional software "
+"and upgrades."
+msgstr "添加此软件源以获取其他软件和更新。"
+
+msgid "Additional Fonts Required"
+msgstr "需要额外的字体"
+
+msgid "Additional MIME Types Required"
+msgstr "需要额外的 MIME 类型"
+
+msgid "Additional Multimedia Codecs Required"
+msgstr "需要额外的多媒体编解码器"
+
+msgid "Additional Packages Required"
+msgstr "需要额外的软件包"
+
+msgid "Additional Printer Drivers Required"
+msgstr "需要额外的打印机驱动程序"
+
+msgid "Additions"
+msgstr "添加"
+
+msgid "Age Rating"
+msgstr "年龄分级"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Allow access to the Software Repositories dialog"
+msgstr "允许访问软件源对话框"
+
+msgid "An application"
+msgstr "应用程序"
+
+msgid "An important OS update failed to be installed."
+msgstr "重要的操作系统更新安装失败。"
+
+msgid "An important OS update has been installed."
+msgid_plural "Important OS updates have been installed."
+msgstr[0] "重要的系统更新已安装。"
+
+msgid "Application Updates"
+msgstr "应用程序更新"
+
+msgid "Application is ready to be used."
+msgstr "应用程序已就绪。"
+
+msgid "Application manager for GNOME"
+msgstr "GNOME 应用程序管理器"
+
+msgid "Are you sure you want to remove %s?"
+msgstr "您确定要移除 %s 吗？"
+
+msgid "Audio & Video"
+msgstr "影音"
+
+msgid "Available fonts for the %s script"
+msgid_plural "Available fonts for the %s scripts"
+msgstr[0] "%s 书写系统可用的字体"
+
+msgid "Available software for %s"
+msgid_plural "Available software for %s"
+msgstr[0] "%s 可用的软件"
+
+msgid "Brief artistic nudity"
+msgstr "短暂且艺术性的裸体"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cartoon characters in aggressive conflict"
+msgstr "动画角色处于激烈冲突"
+
+msgid "Cartoon characters in unsafe situations"
+msgstr "动画角色处于危险境地"
+
+msgid "Categories"
+msgstr "软件分类"
+
+msgid "Category"
+msgstr "软件分类"
+
+msgid "Channel"
+msgstr "通道"
+
+msgid "Characters in aggressive conflict easily distinguishable from reality"
+msgstr "角色参与易于与现实区分的激烈冲突"
+
+msgid "Characters in unsafe situations easily distinguishable from reality"
+msgstr "角色处于易于与现实区分的危险境地"
+
+msgid "Check for updates"
+msgstr "检查更新"
+
+msgid "Checking for the latest application version"
+msgstr "正在检查最新应用程序版本"
+
+msgid ""
+"Checking for updates when using mobile broadband could cause you to incur "
+"charges"
+msgstr "使用移动宽带检查更新可能会花费流量"
+
+msgid ""
+"Checking for updates while using mobile broadband could cause you to incur "
+"charges."
+msgstr "使用移动宽带检查更新可能会花费流量。"
+
+msgid "Choose an application:"
+msgstr "选择一个应用程序："
+
+msgid ""
+"Choosing a larger value will mean less round-trips to the remote server but "
+"updates to the screenshots may take longer to show to the user. A value of 0"
+" means to never check the server if the image already exists in the cache."
+msgstr ""
+"选择更大的数值意味着更少往返远程服务器，但是屏幕截图的更新可能需要更长时间才能显示给用户。数值 0 代表从不检查服务器如果图像已经存在于缓存中。"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Codecs page"
+msgstr "编解码器页面"
+
+msgid "Communication & News"
+msgstr "通信与新闻"
+
+msgid "Could not create cache"
+msgstr "无法创建缓存"
+
+msgid "Dead human remains that are exposed to the elements"
+msgstr "有死亡人类尸体并展示其内容物"
+
+msgid "Depictions of bloodshed and the mutilation of body parts"
+msgstr "描写流血及肢体伤害"
+
+msgid "Depictions of modern-day human desecration"
+msgstr "对当代人类亵渎的描写"
+
+msgid "Depictions of modern-day slavery"
+msgstr "对当代奴役行为的描写"
+
+msgid "Depictions of realistic characters in aggressive conflict"
+msgstr "描写逼真角色参与激烈冲突"
+
+msgid "Detailed errors from the package manager follow:"
+msgstr "包管理器提供的详细错误如下："
+
+msgid "Details"
+msgstr "详细信息"
+
+msgid "Details page"
+msgstr "详细信息页面"
+
+msgid "Details panel"
+msgstr "详情面板"
+
+msgid "Developer"
+msgstr "开发者"
+
+msgid "Developer Tools"
+msgstr "开发工具"
+
+msgid "Device Firmware"
+msgstr "设备固件"
+
+msgid "Device cannot be used during update."
+msgstr "升级期间设备无法被使用。"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Disable “%s”?"
+msgstr "确定要禁用“%s”吗？"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Disabling"
+msgstr "正在禁用"
+
+msgid "Discrimination designed to cause emotional harm"
+msgstr "伤害情感的歧视性语言"
+
+msgid "Documentation"
+msgstr "演示文稿"
+
+msgid "Don't know how to handle ‘%s’"
+msgstr "未知如何处理 %s"
+
+msgid "Don’t Warn Again"
+msgstr "不再提醒"
+
+msgid "Don’t like it"
+msgstr "反感"
+
+msgid "Downgrades"
+msgstr "降级"
+
+msgid "Download Size"
+msgstr "下载大小"
+
+msgid "Download updates automatically when required"
+msgstr "当需要时自动下载更新"
+
+msgid "Downloading %s %s"
+msgstr "正在下载 %s %s"
+
+msgid "Downloading application ratings…"
+msgstr "正在下载应用程序评分…"
+
+msgid "Downloading change information…"
+msgstr "正在下载变更信息…"
+
+msgid "Downloading extra metadata files…"
+msgstr "正在下载额外的元数据文件…"
+
+msgid "Downloading featured images…"
+msgstr "正在下载特别推荐的图像…"
+
+msgid "Downloading firmware update metadata…"
+msgstr "正在下载固件更新元数据…"
+
+msgid "Downloading firmware update signature…"
+msgstr "正在下载固件更新签名…"
+
+msgid "Downloading upgrade information…"
+msgstr "正在下载升级信息…"
+
+msgid "Editor’s Picks"
+msgstr "编辑精选"
+
+msgid "Education & Science"
+msgstr "教育与科学"
+
+msgid "Email address"
+msgstr "电子邮件地址"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Enable GNOME Shell extensions repository"
+msgstr "启用 GNOME Shell 扩展源"
+
+msgid "Enable Third Party Software Repositories?"
+msgstr "要启用第三方软件源吗？"
+
+msgid "Enable Third-Party Software Repository?"
+msgstr "要启用第三方软件源吗？"
+
+msgid "Enable and Install"
+msgstr "安装并启用"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Enabling"
+msgstr "正在启用"
+
+msgid "Examine Disk"
+msgstr "检查磁盘"
+
+msgid "Explicit discrimination based on gender, sexuality, race or religion"
+msgstr "针对性别、性向、种族或宗教的歧视性语言"
+
+msgid "Explicit references to specific brands or trademarked products"
+msgstr "对特定产品的品牌或商标的明显暗示"
+
+msgid "FILENAME"
+msgstr "文件名"
+
+msgid "Failed To Update"
+msgstr "更新失败"
+
+msgid "Failed to copy"
+msgstr "复制失败"
+
+msgid "Failed to find any search results"
+msgstr "未找到任何搜索结果"
+
+msgid "Failed to install file: authentication failed"
+msgstr "无法安装文件：身份验证失败"
+
+msgid "Failed to install file: not supported"
+msgstr "无法安装文件：不支持"
+
+msgid "Failed to install: authentication failed"
+msgstr "无法安装：身份认证失败"
+
+msgid "Failed to install: not supported"
+msgstr "无法安装：不支持"
+
+msgid "Failed to load image"
+msgstr "加载图片失败"
+
+msgid "Failed to parse command line arguments"
+msgstr "解析命令行参数失败"
+
+msgid "Failed to validate content type"
+msgstr "验证内容类型失败"
+
+msgid "Featured"
+msgstr "特色软件"
+
+msgid "Featured %s"
+msgstr "特色 %s 软件"
+
+msgid "Filter applications based on the default branch set for the remote"
+msgstr "基于远程设置的默认分支筛选应用程序"
+
+msgid "Find in Software"
+msgstr "在“软件”中查找"
+
+msgid "Find out more…"
+msgstr "了解更多…"
+
+msgid "Firmware Upgrade Support"
+msgstr "固件升级支持"
+
+msgid "Five days ago"
+msgstr "五天前"
+
+msgid "Fix dark theme support"
+msgstr "修复深色模式支持"
+
+msgid "Flatpak Support"
+msgstr "Flatpak 支持"
+
+msgid "Flatpak is a framework for desktop applications on Linux"
+msgstr "Flatpak 是用于 Linux 上桌面应用程序的框架"
+
+msgid "Four days ago"
+msgstr "四天前"
+
+msgid "Free"
+msgstr "自由"
+
+msgid "Free Software"
+msgstr "自由软件"
+
+msgid "GNOME Software"
+msgstr "GNOME 软件"
+
+msgid "GNOME Software AppStream system-wide installer"
+msgstr "GNOME 软件 AppStream 系统级安装器"
+
+msgid ""
+"GNOME Software showcases featured and popular applications with useful "
+"descriptions and multiple screenshots per application. Applications can be "
+"found either through browsing the list of categories or by searching. It "
+"also allows you to update your system using an offline update."
+msgstr ""
+"GNOME 软件 "
+"向您展示特色和流行的应用程序，并提供每个应用程序的描述、截图等有用信息。您可以通过浏览分类列表或搜索来找到应用程序。您还可以用它离线更新您的系统。"
+
+msgid "Gambling on random events using tokens or credits"
+msgstr "通过随机事件使用游戏票券赌博"
+
+msgid "Gambling using real money"
+msgstr "使用真实货币赌博"
+
+msgid "Gambling using “play” money"
+msgstr "使用游戏货币赌博"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid "Getting flatpak metadata for %s…"
+msgstr "正在获取 %s 的 flatpak 元数据…"
+
+msgid ""
+"Give a short summary of your review, for example: “Great app, would "
+"recommend”."
+msgstr "给您的评论一段简短的摘要，例如：“很棒的应用，推荐使用”。"
+
+msgid "Go back"
+msgstr "返回"
+
+msgid "Go online to check for updates"
+msgstr "上线以检查更新"
+
+msgid "Graphic depictions of desecration of human bodies"
+msgstr "对亵渎人体行为的图像描写"
+
+msgid "Graphic depictions of modern-day desecration"
+msgstr "亵渎当代社会的图像描写"
+
+msgid "Graphic depictions of modern-day slavery"
+msgstr "对当代奴役行为的图片描写"
+
+msgid "Graphic depictions of the act of adultery"
+msgstr "通奸行为的图像描写"
+
+msgid "Graphic depictions of the act of prostitution"
+msgstr "卖淫行为的图像描写"
+
+msgid "Graphic sexual behavior"
+msgstr "生动的性行为"
+
+msgid "Graphic sexual behavior between people of the same gender"
+msgstr "含有同性别人类之间性行为的图像"
+
+msgid "Graphic violence easily distinguishable from reality"
+msgstr "角色参与易于与现实区分的写实暴力"
+
+msgid "Graphic violence involving cartoon characters"
+msgstr "包含动画角色的写实暴力"
+
+msgid "Graphic violence involving realistic characters"
+msgstr "逼真角色参与的写实暴力"
+
+msgid "Graphics & Photography"
+msgstr "图像与摄影"
+
+msgid "Hate it"
+msgstr "差评"
+
+msgid "History"
+msgstr "历史"
+
+msgid "I have forgotten my password"
+msgstr "我忘记了密码"
+
+msgid "I want to register for an account now"
+msgstr "我希望现在注册帐号"
+
+msgid "ID"
+msgstr "ID"
+
+msgid ""
+"If disabled, GNOME Software will hide the updates panel, not perform any "
+"automatic updates actions or prompt for upgrades."
+msgstr "如果禁用，GNOME 软件 将隐藏更新面板，且不执行任何自动更新的操作或提示用户进行更新。"
+
+msgid ""
+"If enabled, GNOME Software automatically refreshes in the background even "
+"when using a metered connection (eventually downloading some metadata, "
+"checking for updates, etc., which may incur in costs for the user)."
+msgstr "如果启用，GNOME 软件 将在后台自动刷新，即使使用的是计量连接（最终会下载一些元数据、检查更新等，可能对用户产生费用）。"
+
+msgid "Important OS and application updates are ready to be installed"
+msgstr "重要系统和应用程序更新安装准备就绪"
+
+msgid "Includes performance, stability and security improvements."
+msgstr "包括性能、稳定性及安全改进。"
+
+msgid "Incompatible Software"
+msgstr "不兼容的软件"
+
+msgid "Indirect references to adultery"
+msgstr "对通奸的间接暗示"
+
+msgid "Indirect references to homosexuality"
+msgstr "对同性恋的间接暗示"
+
+msgid "Indirect references to prostitution"
+msgstr "对卖淫的间接暗示"
+
+msgid ""
+"Information about %s, as well as options for how to get a codec that can "
+"play this format might be found %s."
+msgstr "%s 的相关信息，以及如何获取播放该格式的解码器的选项有可能在 %s 找到。"
+
+msgid ""
+"Information about %s, as well as options for how to get a driver that "
+"supports this printer might be found %s."
+msgstr "%s 的相关信息，以及如何获取支持此打印机的驱动的选项有可能在 %s 找到。"
+
+msgid ""
+"Information about %s, as well as options for how to get additional Plasma "
+"resources might be found %s."
+msgstr "%s 的相关信息，以及如何获取附加 Plsama 资源的选项有可能在 %s 找到。"
+
+msgid ""
+"Information about %s, as well as options for how to get additional fonts "
+"might be found %s."
+msgstr "%s 的相关信息，以及如何获取额外字体的选项有可能在 %s 找到。"
+
+msgid ""
+"Information about %s, as well as options for how to get an application that "
+"can support this format might be found %s."
+msgstr "%s 的相关信息，以及如何获取支持此格式的应用程序的选项有可能在 %s 找到。"
+
+msgid ""
+"Information about %s, as well as options for how to get missing applications"
+" might be found %s."
+msgstr "%s 的相关信息，以及如何获取缺失的应用程序的选项有可能在 %s 找到。"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Install Third-Party Software?"
+msgstr "安装第三方软件？"
+
+msgid ""
+"Install bundled applications for all users on the system where possible"
+msgstr "尝试为系统上所有的用户安装套装软件"
+
+msgid "Install selected software on the system"
+msgstr "安装选中的软件到系统上"
+
+msgid "Install the AppStream files to a system-wide location for all users"
+msgstr "为所有用户安装 AppStream 文件到系统级位置"
+
+msgid "Install the application (using application ID)"
+msgstr "安装应用程序（使用应用程序 ID）"
+
+msgid "Installed"
+msgstr "已安装"
+
+msgid "Installed Size"
+msgstr "安装大小"
+
+msgid "Installed Updates"
+msgstr "已安装的更新"
+
+msgid "Installed on %s"
+msgstr "已在 %s 上安装"
+
+msgid "Installed page"
+msgstr "已安装页面"
+
+msgid "Installed panel"
+msgstr "已安装面板"
+
+msgid "Installing"
+msgstr "正在安装"
+
+msgid "Install…"
+msgstr "安装…"
+
+msgid "Integrated Firmware"
+msgstr "集成固件"
+
+msgid "Internet access is required to check for updates."
+msgstr "检查更新需要可访问网络。"
+
+msgid ""
+"Internet access was required but wasn’t available. Please make sure that you"
+" have internet access and try again."
+msgstr "需要互联网连接但是未发现有效连接。请确认您有接入互联网并在此尝试。"
+
+msgid ""
+"It is recommended that you back up your data and files before upgrading."
+msgstr "建议您在更新前备份数据和文件。"
+
+msgid "It is recommended that you install important updates now"
+msgstr "建议您现在安装重要更新"
+
+msgid "It is recommended that you upgrade to a more recent version."
+msgstr "建议您升级到更新的版本。"
+
+msgid "It may be illegal to install or use %s in some countries."
+msgstr "在一些国家安装或使用 %s 是非法的。"
+
+msgid "It may be illegal to install or use this codec in some countries."
+msgstr "在一些国家安装或使用此编码解码器是非法的。"
+
+msgid "It’s OK"
+msgstr "一般"
+
+msgid "Kissing between people of the same gender"
+msgstr "同性别人类之间的亲吻"
+
+msgid "Last checked: %s"
+msgstr "上次检查：%s"
+
+msgid "Launch"
+msgstr "启动"
+
+msgid "License"
+msgstr "许可协议"
+
+msgid "Like it"
+msgstr "喜欢"
+
+msgid "Loading page"
+msgstr "正在载入页面"
+
+msgid "Localized in your Language"
+msgstr "本地化为您的语言"
+
+msgid "Looking for new updates…"
+msgstr "正在查找新更新…"
+
+msgid "Love it"
+msgstr "最喜欢了"
+
+msgid "MODE"
+msgstr "模式"
+
+msgid "Mature or sexual humor"
+msgstr "荤笑话"
+
+msgid "Meh"
+msgstr "随便"
+
+msgctxt "Menu of Add-ons"
+msgid "Codecs"
+msgstr "编解码器"
+
+msgctxt "Menu of Add-ons"
+msgid "Fonts"
+msgstr "字体"
+
+msgctxt "Menu of Add-ons"
+msgid "Hardware Drivers"
+msgstr "硬件驱动"
+
+msgctxt "Menu of Add-ons"
+msgid "Input Sources"
+msgstr "输入源"
+
+msgctxt "Menu of Add-ons"
+msgid "Language Packs"
+msgstr "语言包"
+
+msgctxt "Menu of Add-ons"
+msgid "Localization"
+msgstr "本地化"
+
+msgctxt "Menu of Art"
+msgid "Art"
+msgstr "艺术"
+
+msgctxt "Menu of Audio & Video"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Audio & Video"
+msgid "Audio Creation & Editing"
+msgstr "音频创建与编辑"
+
+msgctxt "Menu of Audio & Video"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Audio & Video"
+msgid "Music Players"
+msgstr "音乐播放器"
+
+msgctxt "Menu of Communication & News"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Communication & News"
+msgid "Chat"
+msgstr "聊天"
+
+msgctxt "Menu of Communication & News"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Communication & News"
+msgid "News"
+msgstr "新闻"
+
+msgctxt "Menu of Communication & News"
+msgid "Web Browsers"
+msgstr "Web 浏览器"
+
+msgctxt "Menu of Developer Tools"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Developer Tools"
+msgid "Debuggers"
+msgstr "调试器"
+
+msgctxt "Menu of Developer Tools"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Developer Tools"
+msgid "IDEs"
+msgstr "集成开发环境"
+
+msgctxt "Menu of Education & Science"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Education & Science"
+msgid "Artificial Intelligence"
+msgstr "人工智能"
+
+msgctxt "Menu of Education & Science"
+msgid "Astronomy"
+msgstr "天文学"
+
+msgctxt "Menu of Education & Science"
+msgid "Chemistry"
+msgstr "化学"
+
+msgctxt "Menu of Education & Science"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Education & Science"
+msgid "Languages"
+msgstr "语言学"
+
+msgctxt "Menu of Education & Science"
+msgid "Math"
+msgstr "数学"
+
+msgctxt "Menu of Education & Science"
+msgid "Robotics"
+msgstr "机器人学"
+
+msgctxt "Menu of Games"
+msgid "Action"
+msgstr "动作"
+
+msgctxt "Menu of Games"
+msgid "Adventure"
+msgstr "冒险"
+
+msgctxt "Menu of Games"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Games"
+msgid "Arcade"
+msgstr "街机"
+
+msgctxt "Menu of Games"
+msgid "Blocks"
+msgstr "益智"
+
+msgctxt "Menu of Games"
+msgid "Board"
+msgstr "棋类"
+
+msgctxt "Menu of Games"
+msgid "Card"
+msgstr "纸牌"
+
+msgctxt "Menu of Games"
+msgid "Emulators"
+msgstr "模拟器"
+
+msgctxt "Menu of Games"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Games"
+msgid "Kids"
+msgstr "儿童"
+
+msgctxt "Menu of Games"
+msgid "Logic"
+msgstr "逻辑"
+
+msgctxt "Menu of Games"
+msgid "Role Playing"
+msgstr "角色扮演"
+
+msgctxt "Menu of Games"
+msgid "Sports"
+msgstr "体育"
+
+msgctxt "Menu of Games"
+msgid "Strategy"
+msgstr "策略"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "3D Graphics"
+msgstr "3D 图形"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "Photography"
+msgstr "摄影"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "Scanning"
+msgstr "扫描"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "Vector Graphics"
+msgstr "矢量图形"
+
+msgctxt "Menu of Graphics & Photography"
+msgid "Viewers"
+msgstr "查看器"
+
+msgctxt "Menu of Productivity"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Productivity"
+msgid "Calendar"
+msgstr "日历"
+
+msgctxt "Menu of Productivity"
+msgid "Database"
+msgstr "数据库"
+
+msgctxt "Menu of Productivity"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Productivity"
+msgid "Finance"
+msgstr "财务"
+
+msgctxt "Menu of Productivity"
+msgid "Word Processor"
+msgstr "文字处理"
+
+msgctxt "Menu of Reference"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Reference"
+msgid "Biography"
+msgstr "传记"
+
+msgctxt "Menu of Reference"
+msgid "Comics"
+msgstr "漫画"
+
+msgctxt "Menu of Reference"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Reference"
+msgid "Fiction"
+msgstr "小说"
+
+msgctxt "Menu of Reference"
+msgid "Health"
+msgstr "健康"
+
+msgctxt "Menu of Reference"
+msgid "History"
+msgstr "历史"
+
+msgctxt "Menu of Reference"
+msgid "Lifestyle"
+msgstr "生活"
+
+msgctxt "Menu of Reference"
+msgid "Politics"
+msgstr "政治"
+
+msgctxt "Menu of Reference"
+msgid "Sports"
+msgstr "体育"
+
+msgctxt "Menu of Utilities"
+msgid "All"
+msgstr "全部"
+
+msgctxt "Menu of Utilities"
+msgid "Featured"
+msgstr "特别推荐"
+
+msgctxt "Menu of Utilities"
+msgid "Text Editors"
+msgstr "文本编辑器"
+
+msgid "Mild or infrequent use of profanity"
+msgstr "少量粗俗语言"
+
+msgid "Mildly realistic characters in unsafe situations"
+msgstr "较逼真角色处于危险境地"
+
+msgid "Moderate page"
+msgstr "管理页面"
+
+msgid "Moderate use of profanity"
+msgstr "中等数量的粗俗语言"
+
+msgid "Moderated chat functionality between users"
+msgstr "在用户之间受监控的聊天功能"
+
+msgid "More Information"
+msgstr "更多信息"
+
+msgid "More information"
+msgstr "更多信息"
+
+msgid "More…"
+msgstr "更多…"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Negativity towards a specific group of people"
+msgstr "对特定人群负面的语言"
+
+msgid "Network Settings"
+msgstr "网络设置"
+
+msgid "No"
+msgstr "不是"
+
+msgid "No Additional Repositories"
+msgstr "没有更多软件源"
+
+msgid "No Application Data Found"
+msgstr "未找到应用程序数据"
+
+msgid "No Application Found"
+msgstr "未找到应用程序"
+
+msgid "No Network"
+msgstr "无网络连接"
+
+msgid "No Plasma resources are available for %s support."
+msgstr "没有支持 %s 的可用 Plasma 资源。"
+
+msgid "No Software Repository Included"
+msgstr "不含软件源"
+
+msgid "No ability to spend money"
+msgstr "无花钱的功能"
+
+msgid "No addon codecs are available for the %s format."
+msgstr "没有对应 %s 格式的附加编解码器。"
+
+msgid "No advertising of any kind"
+msgstr "无任何种类的广告"
+
+msgid "No applications are available for %s support."
+msgstr "没有支持 %s 的可用程序。"
+
+msgid "No applications are available that provide the file %s."
+msgstr "没有提供 %s 文件的可用程序。"
+
+msgid "No bloodshed"
+msgstr "无流血"
+
+msgid "No cartoon violence"
+msgstr "无动画角色暴力"
+
+msgid "No details were available for this rating."
+msgstr "没有对应此分级可用的详细信息。"
+
+msgid "No discriminatory language of any kind"
+msgstr "无任何种类的歧视性语言"
+
+msgid "No fantasy violence"
+msgstr "无幻想的暴力"
+
+msgid "No fonts are available for the %s script support."
+msgstr "没有支持 %s 书写系统的可用字体。"
+
+msgid "No gambling of any kind"
+msgstr "无任何种类的赌博"
+
+msgid "No inappropriate humor"
+msgstr "无不适当的笑话"
+
+msgid "No nudity of any sort"
+msgstr "无任何形式的裸体"
+
+msgid "No printer drivers are available for %s."
+msgstr "没有对 %s 可用的打印机驱动。"
+
+msgid "No profanity of any kind"
+msgstr "无任何种类的粗俗语言"
+
+msgid "No realistic violence"
+msgstr "无逼真的暴力"
+
+msgid "No references to adultery"
+msgstr "无对通奸的暗示"
+
+msgid "No references to alcohol"
+msgstr "无对酒精的暗示"
+
+msgid "No references to desecration"
+msgstr "无对亵渎行为的暗示"
+
+msgid "No references to homosexuality"
+msgstr "无对同性恋的暗示"
+
+msgid "No references to illicit drugs"
+msgstr "无对非法药物的暗示"
+
+msgid "No references to prostitution"
+msgstr "无对卖淫的暗示"
+
+msgid "No references to slavery"
+msgstr "无对奴役的暗示"
+
+msgid "No screenshot provided"
+msgstr "没有截图"
+
+msgid "No sexual violence"
+msgstr "无性暴力"
+
+msgid "No sexualized characters"
+msgstr "无性暗示角色"
+
+msgid "No sharing of social network usernames or email addresses"
+msgstr "不共享社交网络的用户名或电子邮件地址"
+
+msgid "No update description available."
+msgstr "没有可用的更新描述。"
+
+msgid "No updates have been installed on this system."
+msgstr "此系统未安装过更新。"
+
+msgid "No visible dead human remains"
+msgstr "无可见死亡人类尸体"
+
+msgid "No way to chat with other users"
+msgstr "没有与其他用户聊天的功能"
+
+msgid "No way to talk with other users"
+msgstr "无与其他用户沟通的方式"
+
+msgid "Non-free applications show a warning dialog before install"
+msgstr "在安装非自由应用程序前显示警告对话框"
+
+msgid "Not Now"
+msgstr "现在不"
+
+msgid "Not enough disk space — free up some space and try again"
+msgstr "磁盘空间不足——释放一些空间后再试一次"
+
+msgid "ODRS is a service providing user reviews of applications"
+msgstr "ODRS 是一款提供应用程序用户评价的服务"
+
+msgid "OS Updates"
+msgstr "操作系统更新"
+
+msgid "OS updates are now installed"
+msgstr "操作系统更新现已安装"
+
+msgid "Offer upgrades for pre-releases"
+msgstr "为预发行版本提供更新"
+
+msgid ""
+"Once reported, a review will be hidden until it has been checked by an "
+"administrator."
+msgstr "一旦被举报，该评价在管理员检查之前将被隐藏。"
+
+msgid "One week ago"
+msgstr "一周前"
+
+msgid "Only use software repositories that you trust."
+msgstr "仅使用您信任的软件源。"
+
+msgid "Open Desktop Ratings Support"
+msgstr "开放桌面评分 (ODRS) 支持"
+
+msgid "Open a local package file"
+msgstr "打开一个本地的软件包文件"
+
+msgid "Operating System Updates Unavailable"
+msgstr "操作系统更新不再提供"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Overtly sexualized human characters"
+msgstr "具有明显性暗示的人类角色"
+
+msgid "Overview page"
+msgstr "概览页"
+
+msgid "Overview panel"
+msgstr "概览面板"
+
+msgid "PKGNAME"
+msgstr "软件包名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Pending"
+msgstr "正在等待"
+
+msgid "Pending installation…"
+msgstr "等待安装…"
+
+msgid "Pending update…"
+msgstr "等待更新…"
+
+msgid "Permissions"
+msgstr "权限"
+
+msgid "Please choose a star rating"
+msgstr "请选择一个星级评分"
+
+msgid "Please enter a number from 1 to %u: "
+msgstr "请输入 1-%u 的数字： "
+
+msgid "Please take more time writing the review"
+msgstr "请花多点时间来编写评论"
+
+msgid "Post Review"
+msgstr "发布评论"
+
+msgid "Prefer local file sources to AppStream"
+msgstr "对 AppStream 优先使用本地文件源"
+
+msgid "Prepare %s"
+msgstr "准备 %s"
+
+msgid "Product placement"
+msgstr "植入式广告"
+
+msgid "Productivity"
+msgstr "生产力"
+
+msgid "Prolonged nudity"
+msgstr "长时间的裸体描写"
+
+msgid "Proprietary"
+msgstr "专有软件"
+
+msgid "Proprietary Software"
+msgstr "专有软件"
+
+msgid "Provides support for firmware upgrades"
+msgstr "提供固件升级的支持"
+
+msgid "Provocative references or depictions"
+msgstr "挑衅性暗示或描写"
+
+msgid "Public domain"
+msgstr "公有领域"
+
+msgid "Quit the running instance"
+msgstr "退出运行中的实例"
+
+msgid "Rape or other violent sexual behavior"
+msgstr "强奸及其他暴力的性行为"
+
+msgid "Rating"
+msgstr "评分"
+
+msgid "Re_move shortcut"
+msgstr "移除快捷方式(_M)"
+
+msgid "Realistic bloodshed"
+msgstr "逼真的血"
+
+msgid "Recent Releases"
+msgstr "最近发布版本"
+
+msgid "Recently installed updates are available to review"
+msgstr "可以查看最近安装的更新"
+
+msgid "Recommended Audio & Video Applications"
+msgstr "推荐的影音应用"
+
+msgid "Recommended Games"
+msgstr "推荐的游戏"
+
+msgid "Recommended Graphics Applications"
+msgstr "推荐的图形类应用"
+
+msgid "Recommended Productivity Applications"
+msgstr "推荐的生产力应用"
+
+msgid "Reference"
+msgstr "参考"
+
+msgid "References to alcoholic beverages"
+msgstr "对酒精饮料的暗示"
+
+msgid "References to illicit drugs"
+msgstr "对非法药物的暗示"
+
+msgid "References to tobacco products"
+msgstr "对烟草产品的暗示"
+
+msgid "Release Activity"
+msgstr "发行活动"
+
+msgid "Removals"
+msgstr "移除"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Remove “%s”?"
+msgstr "确定要移除“%s”吗？"
+
+msgid "Remove…"
+msgstr "移除…"
+
+msgid "Removing"
+msgstr "正在移除"
+
+msgid "Removing…"
+msgstr "正在移除…"
+
+msgid "Report"
+msgstr "举报"
+
+msgid "Report Review?"
+msgstr "要举报评论吗？"
+
+msgid "Report…"
+msgstr "举报…"
+
+msgid "Requires Restart"
+msgstr "重新启动"
+
+msgid "Restart"
+msgstr "重新启动"
+
+msgid "Restart & Install"
+msgstr "重启并安装"
+
+msgid "Restart & Update"
+msgstr "重启并更新"
+
+msgid "Restart Now"
+msgstr "立即重启"
+
+msgid "Reviews"
+msgstr "评论"
+
+msgid "Reviews with karma less than this number will not be shown."
+msgstr "低于此 Karma 值的评论将被隐藏。"
+
+msgid "SEARCH"
+msgstr "搜索"
+
+msgid "Sandboxed"
+msgstr "隔离环境"
+
+msgid "Scantily clad human characters"
+msgstr "穿着暴露的人类角色"
+
+msgid "Screenshot"
+msgstr "截图"
+
+msgid "Screenshot not available"
+msgstr "截图不可用"
+
+msgid "Screenshot not found"
+msgstr "未找到截图"
+
+msgid "Screenshot not valid"
+msgstr "截图无效"
+
+msgid "Screenshot size not found"
+msgstr "未找到截图尺寸"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search for applications"
+msgstr "搜索应用程序"
+
+msgid "Search page"
+msgstr "搜索页"
+
+msgid "Security Updates Pending"
+msgstr "待定的安全更新"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select None"
+msgstr "全不选"
+
+msgid "Selected add-ons will be installed with the application."
+msgstr "选中的附加组件将随应用程序一起安装。"
+
+msgid "Setting up updates…"
+msgstr "正在设置更新…"
+
+msgid "Sexual references or depictions"
+msgstr "性暗示或描写"
+
+msgid "Sharing diagnostic data that does not let others identify the user"
+msgstr "分享无法识别用户身份的诊断数据"
+
+msgid "Sharing information that lets others identify the user"
+msgstr "分享可以识别用户身份的信息"
+
+msgid "Sharing social network usernames or email addresses"
+msgstr "共享社交网络的用户名或电子邮件地址"
+
+msgid "Show"
+msgstr "显示"
+
+msgid "Show Details"
+msgstr "显示详细信息"
+
+msgid "Show application details (using application ID)"
+msgstr "显示应用程序详情（使用应用程序 ID）"
+
+msgid "Show application details (using package name)"
+msgstr "显示应用程序详情（使用软件包名）"
+
+msgid "Show some UI elements informing the user that an app is non-free"
+msgstr "通过显示某些界面元素来通知用户软件为非自由"
+
+msgid "Show star ratings next to applications"
+msgstr "在应用程序旁显示星级评分"
+
+msgid "Show the installed size for apps in the list of installed applications"
+msgstr "显示已安装应用程序列表里应用的安装大小"
+
+msgid "Show the prompt to install nonfree software repositories"
+msgstr "显示安装非自由软件源的提示"
+
+msgid "Show verbose debugging information"
+msgstr "显示详细的调试信息"
+
+msgid "Show version number"
+msgstr "显示版本号"
+
+msgid "Six days ago"
+msgstr "六天前"
+
+msgid "Slapstick humor"
+msgstr "闹剧式笑话"
+
+msgid "Snap Store"
+msgstr "Snap 商店"
+
+msgid "Snap Support"
+msgstr "Snap 支持"
+
+msgid "Software"
+msgstr "软件"
+
+msgid "Software & Updates"
+msgstr "软件和更新"
+
+msgid "Software Install"
+msgstr "软件安装"
+
+msgid "Software Repositories"
+msgstr "软件源"
+
+msgid "Software Repository Identified"
+msgstr "探测到软件源"
+
+msgid "Software Repository Included"
+msgstr "包含软件源"
+
+msgid "Software Update Installed"
+msgid_plural "Software Updates Installed"
+msgstr[0] "软件更新已安装"
+
+msgid "Software Updates Available"
+msgstr "有可用的软件更新"
+
+msgid "Software Updates Failed"
+msgstr "软件更新失败"
+
+msgid "Software Upgrade Available"
+msgstr "有可用的软件更新"
+
+msgid ""
+"Software allows you to find and install new applications and system "
+"extensions and remove existing installed applications."
+msgstr "“软件”允许您查找并安装新的应用程序和系统扩展，移除已安装的应用程序。"
+
+msgid "Software catalog is being downloaded"
+msgstr "正在下载软件目录"
+
+msgid "Software is up to date"
+msgstr "软件已为最新"
+
+msgid ""
+"Software lets you install all the software you need, all from one place. See"
+" our recommendations, browse the categories, or search for the applications "
+"you want."
+msgstr "“软件”让您在一个地方安装所有软件。请查看我们的推荐，浏览分类或者搜索想要的软件。"
+
+msgid ""
+"Software that has been installed from this repository will no longer receive"
+" updates, including security fixes."
+msgstr "从该软件源获取的软件将不再收到更新，包括安全更新。"
+
+msgid ""
+"Some of the currently installed software is not compatible with %s. If you "
+"continue, the following will be automatically removed during the upgrade:"
+msgstr "当前已安装的一些软件与 %s 不兼容。如果您想继续，更新过程中下列软件将被自动移除："
+
+msgid ""
+"Some of this software is proprietary and therefore has restrictions on use, "
+"sharing, and access to source code."
+msgstr "某些软件使用专有协议，因而对使用、分享及源代码访问有限制。"
+
+msgid "Sorry, something went wrong"
+msgstr "抱歉，出现了问题"
+
+msgid "Sort"
+msgstr "排序"
+
+msgid "Source"
+msgstr "源"
+
+msgid "Source: %s"
+msgstr "来源：%s"
+
+msgid "Start up mode: either ‘updates’, ‘updated’, ‘installed’ or ‘overview’"
+msgstr "启动模式：可选“updates”、“updated”、“installed”或“overview”"
+
+msgid "Starting up…"
+msgstr "正在启动…"
+
+msgid "Stop snaps from being automatically updated"
+msgstr "禁止 snap 包自动更新"
+
+msgid "Strong or frequent use of profanity"
+msgstr "大量粗俗语言"
+
+msgid "Subcategories filter menu"
+msgstr "子分类过滤菜单"
+
+msgid "Subcategories sorting menu"
+msgstr "子分类排序菜单"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "System Applications"
+msgstr "系统应用程序"
+
+msgid "System Integration"
+msgstr "系统集合"
+
+msgid "System Upgrade Complete"
+msgstr "系统升级完成"
+
+msgid "The GNOME Project"
+msgstr "GNOME 项目"
+
+msgid "The URI that explains nonfree and proprietary software"
+msgstr "解释非自由和专有软件的 URI"
+
+msgid "The age in seconds to verify the upstream screenshot is still valid"
+msgstr "以秒计算的时长，用于验证上游的屏幕截图是否仍然有效"
+
+msgid "The application was rated this way because it features:"
+msgstr "该应用程序被分到此级因为它包含："
+
+msgid "The description is too long"
+msgstr "描述太长了"
+
+msgid "The description is too short"
+msgstr "描述太短了"
+
+msgid ""
+"The kind of interaction expected for this action: either ‘none’, ‘notify’, "
+"or ‘full’"
+msgstr "此操作期望的交互类型：可选“none”、“notify”或“full”"
+
+msgid "The last update check timestamp"
+msgstr "最近更新检查的时间戳"
+
+msgid "The last update timestamp"
+msgstr "上次更新的时间戳"
+
+msgid "The last upgrade notification timestamp"
+msgstr "上次更新通知的时间戳"
+
+msgid ""
+"The licence URL to use when an application should be considered free "
+"software"
+msgstr "应用程序为自由软件时要使用的许可 URL"
+
+msgid "The license terms of this software are unknown."
+msgstr "该软件的发行协议未知。"
+
+msgid "The minimum karma score for reviews"
+msgstr "评论的最小 Karma 值"
+
+msgid "The server to use for application reviews"
+msgstr "应用程序评价使用的服务器"
+
+msgid "The summary is too long"
+msgstr "摘要太长了"
+
+msgid "The summary is too short"
+msgstr "摘要太短了"
+
+msgid "The system was already up to date."
+msgstr "该系统已是最新的。"
+
+msgid "The timestamp of the first security update, cleared after update"
+msgstr "第一次安全更新的时间戳，更新后清空"
+
+msgid "The update details"
+msgstr "更新详情"
+
+msgid "The update was cancelled."
+msgstr "更新被取消。"
+
+msgid "There are no reviews to moderate"
+msgstr "没有需要管理的评价"
+
+msgid ""
+"There wasn’t enough disk space. Please free up some space and try again."
+msgstr "没有足够的磁盘空间。请释放一些空间后再试一次。"
+
+msgid ""
+"There were security issues with the update. Please consult your software "
+"provider for more details."
+msgstr "本次更新有安全性问题。请联系您的软件提供商以获取更多信息。"
+
+msgid "These repositories supplement the default software provided by %s."
+msgstr "该软件源内的软件可替代 %s 提供的默认软件。"
+
+msgid "Third Party Repositories"
+msgstr "第三方软件源"
+
+msgid ""
+"This application can only be used when there is an active internet "
+"connection."
+msgstr "这个应用只能在联网情况下使用。"
+
+msgid ""
+"This application does not include a software repository. It will not be "
+"updated with new versions."
+msgstr "该应用不包括软件源。不会自动更新到新版本。"
+
+msgid ""
+"This application includes a software repository which provides updates, as "
+"well as access to other software."
+msgstr "该应用程序中包含了提供更新和其他软件的软件源。"
+
+msgid ""
+"This application is unconfined. It can access all personal files and system "
+"resources."
+msgstr "此应用程序未受限制，可以访问所有个人文件和系统资源。"
+
+msgid "This application needs to be restarted to use new plugins."
+msgstr "此应用程序需要重启才能使用新插件。"
+
+msgid ""
+"This is a list of compatible projects we should show such as GNOME, KDE and "
+"XFCE."
+msgstr "这是一个应显示的兼容项目的列表，如 GNOME，KDE 和 XFCE。"
+
+msgid "This means that it does not receive security updates."
+msgstr "这意味着它不会收到安全更新。"
+
+msgid ""
+"This means that the software can be freely run, copied, distributed, studied"
+" and modified."
+msgstr "这表示该软件可以被自由地运行、复制、分发、研究和修改。"
+
+msgid ""
+"This means that the software is owned by an individual or a company. There "
+"are often restrictions on its use and its source code cannot usually be "
+"accessed."
+msgstr "这表示该软件由个人或公司拥有。对该软件的使用常常伴有限制而且它的源码通常也无法被获取。"
+
+msgid "This program can only be used by the root user"
+msgstr "该程序只能被 root 用户使用"
+
+msgid ""
+"This software is already provided by your distribution and should not be "
+"replaced."
+msgstr "该软件已由您的发行版提供，而且不应被替换。"
+
+msgid "This software repository must be enabled to continue installation."
+msgstr "要继续安装，必须启用此软件源。"
+
+msgid "Three days ago"
+msgstr "三天前"
+
+msgid "Two days ago"
+msgstr "两天前"
+
+msgid "Two weeks ago"
+msgstr "两周前"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Unable to Find Requested Software"
+msgstr "未找到相应的软件"
+
+msgid "Unable to contact %s"
+msgstr "无法联系 %s"
+
+msgid "Unable to download firmware updates from %s"
+msgstr "无法从 %s 下载固件"
+
+msgid "Unable to download updates"
+msgstr "无法下载更新"
+
+msgid "Unable to download updates from %s"
+msgstr "无法从 %s 下载更新"
+
+msgid "Unable to download updates from %s: not enough disk space"
+msgstr "无法从 %s 下载更新：磁盘空间不足"
+
+msgid "Unable to download updates: authentication was invalid"
+msgstr "无法下载更新：身份验证无效"
+
+msgid "Unable to download updates: authentication was required"
+msgstr "无法下载更新：需要身份验证"
+
+msgid ""
+"Unable to download updates: internet access was required but wasn’t "
+"available"
+msgstr "无法下载更新：需要互联网连接，但互联网连接不可用"
+
+msgid "Unable to download updates: not enough disk space"
+msgstr "无法下载更新：磁盘空间不足"
+
+msgid ""
+"Unable to download updates: you do not have permission to install software"
+msgstr "无法下载更新：您没有安装软件的权限"
+
+msgid "Unable to find “%s”"
+msgstr "无法找到“%s”"
+
+msgid "Unable to get list of updates"
+msgstr "无法获取更新列表"
+
+msgid "Unable to install %s"
+msgstr "无法安装 %s"
+
+msgid "Unable to install %s as download failed"
+msgstr "无法安装 %s 由于下载失败"
+
+msgid "Unable to install %s as download failed from %s"
+msgstr "无法安装 %s 由于从 %s 下载失败"
+
+msgid "Unable to install %s as not supported"
+msgstr "无法安装 %s 由于不支持"
+
+msgid "Unable to install %s as runtime %s not available"
+msgstr "无法安装 %s 由于运行库 %s 不可用"
+
+msgid "Unable to install %s: AC power is required"
+msgstr "无法安装 %s：需要交流电源"
+
+msgid "Unable to install %s: authentication was invalid"
+msgstr "无法安装 %s：身份验证无效"
+
+msgid "Unable to install %s: authentication was required"
+msgstr "无法安装 %s：需要身份验证"
+
+msgid "Unable to install %s: not enough disk space"
+msgstr "无法安装 %s：磁盘空间不足"
+
+msgid "Unable to install %s: you do not have permission to install software"
+msgstr "无法安装 %s：您没有安装软件的权限"
+
+msgid "Unable to install: internet access was required but wasn’t available"
+msgstr "无法安装：需要互联网连接，但互联网连接不可用"
+
+msgid "Unable to install: the application has an invalid format"
+msgstr "无法安装：该应用程序为无效的格式"
+
+msgid "Unable to launch %s: %s is not installed"
+msgstr "无法启动 %s：%s 还未安装"
+
+msgid "Unable to remove %s"
+msgstr "无法移除 %s"
+
+msgid "Unable to remove %s: AC power is required"
+msgstr "无法移除 %s：需要交流电源"
+
+msgid "Unable to remove %s: authentication was invalid"
+msgstr "无法移除 %s：身份验证无效"
+
+msgid "Unable to remove %s: authentication was required"
+msgstr "无法移除 %s：需要身份验证"
+
+msgid "Unable to remove %s: you do not have permission to remove software"
+msgstr "无法移除 %s：您没有移除软件的权限"
+
+msgid "Unable to update %s"
+msgstr "无法更新 %s"
+
+msgid "Unable to update %s as download failed"
+msgstr "无法更新 %s 由于下载失败"
+
+msgid "Unable to update %s: AC power is required"
+msgstr "无法更新 %s：需要交流电源"
+
+msgid "Unable to update %s: authentication was invalid"
+msgstr "无法更新 %s：身份验证无效"
+
+msgid "Unable to update %s: authentication was required"
+msgstr "无法更新 %s：需要身份验证"
+
+msgid "Unable to update %s: not enough disk space"
+msgstr "无法更新 %s：磁盘空间不足"
+
+msgid "Unable to update %s: you do not have permission to update software"
+msgstr "无法更新 %s：您没有更新软件的权限"
+
+msgid "Unable to update: internet access was required but wasn’t available"
+msgstr "无法更新：需要互联网连接，但互联网连接不可用"
+
+msgid "Unable to upgrade to %s"
+msgstr "无法升级到 %s"
+
+msgid "Unable to upgrade to %s as download failed"
+msgstr "无法升级到 %s 由于下载失败"
+
+msgid "Unable to upgrade to %s from %s"
+msgstr "无法从 %2$s 升级到 %1$s"
+
+msgid "Unable to upgrade to %s: AC power is required"
+msgstr "无法升级到 %s：需要交流电源"
+
+msgid "Unable to upgrade to %s: authentication was invalid"
+msgstr "无法升级到 %s：身份验证无效"
+
+msgid "Unable to upgrade to %s: authentication was required"
+msgstr "无法升级到 %s：需要身份验证"
+
+msgid "Unable to upgrade to %s: not enough disk space"
+msgstr "无法升级到 %s：磁盘空间不足"
+
+msgid "Unable to upgrade to %s: you do not have permission to upgrade"
+msgstr "无法升级到 %s：您没有升级的权限"
+
+msgid "Uncontrolled audio or video chat functionality between users"
+msgstr "在用户之间不受控制的音频或视频聊天功能"
+
+msgid "Uncontrolled chat functionality between users"
+msgstr "在用户之间不受控制的聊天功能"
+
+msgid ""
+"Unfortunately, the %s you were searching for could not be found. Please see "
+"%s for more information."
+msgid_plural ""
+"Unfortunately, the %s you were searching for could not be found. Please see "
+"%s for more information."
+msgstr[0] "很抱歉，没有找到与 %s 相关的内容。请访问 %s 获取更多相关信息。"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown Software License"
+msgstr "未知的软件许可证"
+
+msgid "Unrealistic bloodshed"
+msgstr "不逼真的血"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Update All"
+msgstr "全部更新"
+
+msgid "Updated"
+msgstr "已更新"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Updates are automatically managed"
+msgstr "更新将被自动管理"
+
+msgid "Updates page"
+msgstr "更新页面"
+
+msgid "Updates panel"
+msgstr "更新面板"
+
+msgid ""
+"Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;"
+msgstr ""
+"Updates;Upgrade;Sources;Repositories;Preferences;Install;Uninstall;Program;Software;App;Store;更新;升级;源;仓库;首选项;安装;卸载;程序;软件;应用;商店;"
+
+msgid "Upgrade to continue receiving security updates."
+msgstr "升级以继续接收安全更新。"
+
+msgid "Use of alcoholic beverages"
+msgstr "饮用酒精饮料"
+
+msgid "Use of illicit drugs"
+msgstr "吸食非法药物"
+
+msgid "Use of tobacco products"
+msgstr "吸食烟草产品"
+
+msgid "Users are bound by the following license:"
+msgid_plural "Users are bound by the following licenses:"
+msgstr[0] "用户受以下许可证的约束："
+
+msgid "Users are encouraged to donate real money"
+msgstr "鼓励用户捐赠真实货币"
+
+msgid "Users are encouraged to purchase specific real-world items"
+msgstr "鼓励用户购买特定的真实商品"
+
+msgid "Utilities"
+msgstr "实用工具"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "View"
+msgstr "查看"
+
+msgid "Visible dead human remains"
+msgstr "有可见死亡人类尸体"
+
+msgid "Visit website"
+msgstr "访问网站"
+
+msgid "Vulgar or bathroom humor"
+msgstr "粗俗或浴室笑话"
+
+msgid "Was this review useful to you?"
+msgstr "这条评论对您有用吗？"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Welcome to %s %s!"
+msgstr "欢迎使用 %s %s！"
+
+msgid "Welcome to Software"
+msgstr "欢迎使用"
+
+msgid ""
+"We’re sorry: the update failed to install. Please wait for another update "
+"and try again. If the problem persists, contact your software provider."
+msgstr "很抱歉：更新安装失败。请等待下一次更新时再试一次。如果问题仍存在，请联系您的软件提供商。"
+
+msgid "What do you think of the app? Try to give reasons for your views."
+msgstr "您认为该应用怎么样？尝试为您的意见列出理由。"
+
+msgid ""
+"When non-free applications are installed a warning dialog can be shown. This"
+" controls if that dialog is suppressed."
+msgstr "在安装非自由应用程序时显示警告对话框。该选项控制是否禁用此对话框。"
+
+msgid "Whether it’s the very first run of GNOME Software"
+msgstr "GNOME 软件 是否是初次启动"
+
+msgid "Whether to automatically refresh when on a metered connection"
+msgstr "是否在计量连接上自动刷新"
+
+msgid "Whether to manage updates and upgrades in GNOME Software"
+msgstr "是否在 GNOME 软件中管理更新和升级"
+
+msgid "Yes"
+msgstr "是的"
+
+msgid "Yesterday, %R"
+msgstr "昨天，%R"
+
+msgid "Yesterday, %l:%M %p"
+msgstr "昨天%p，%l:%M"
+
+msgid "You can report reviews for abusive, rude, or discriminatory behavior."
+msgstr "您可以举报粗暴、不文明及带有歧视性质的评价。"
+
+msgid "You need internet access to write a review"
+msgstr "您需要互联网连接以编写评论"
+
+msgid "You need to specify exactly one filename"
+msgstr "您需要指定正好一个文件名"
+
+msgid "Your OS is no longer supported."
+msgstr "您的操作系统已不再支持。"
+
+msgid "_Add shortcut"
+msgstr "添加快捷方式(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Check Anyway"
+msgstr "依然检查(_C)"
+
+msgid "_Continue"
+msgstr "继续(_C)"
+
+msgid "_Disable…"
+msgstr "禁用(_D)…"
+
+msgid "_Donate"
+msgstr "捐赠(_D)"
+
+msgid "_Download"
+msgstr "下载(_D)"
+
+msgid "_Enable"
+msgstr "启用(_E)"
+
+msgid "_Install"
+msgstr "安装(_I)"
+
+msgid "_Installed"
+msgstr "已安装(_I)"
+
+msgid "_Install…"
+msgstr "安装(_I)…"
+
+msgid "_Launch"
+msgstr "启动(_L)"
+
+msgid "_Learn More"
+msgstr "了解更多(_L)"
+
+msgid "_Let’s Go Shopping"
+msgstr "去逛逛(_L)"
+
+msgid "_Network Settings"
+msgstr "网络设置(_N)"
+
+msgid "_Permissions"
+msgstr "权限(_P)"
+
+msgid "_Post"
+msgstr "发布(_P)"
+
+msgid "_Remove"
+msgstr "移除(_R)"
+
+msgid "_Remove All"
+msgstr "全部移除(_R)"
+
+msgid "_Remove…"
+msgstr "移除(_R)…"
+
+msgid "_Show More"
+msgstr "显示更多(_S)"
+
+msgid "_Software Repositories"
+msgstr "软件源(_S)"
+
+msgid "_Update"
+msgstr "更新(_U)"
+
+msgid "_Updates"
+msgstr "更新(_U)"
+
+msgid "_Website"
+msgstr "网站(_W)"
+
+msgid "_Write a Review"
+msgstr "编写评论(_W)"
+
+msgctxt "app review"
+msgid "Review"
+msgstr "评论"
+
+msgctxt "app status"
+msgid "Installed"
+msgstr "已安装"
+
+msgctxt "app status"
+msgid "Removed"
+msgstr "已移除"
+
+msgctxt "app status"
+msgid "Unknown"
+msgstr "未知"
+
+msgctxt "app status"
+msgid "Updated"
+msgstr "已更新"
+
+msgid "https://en.wikipedia.org/wiki/Public_domain"
+msgstr "https://zh.wikipedia.org/wiki/公有领域"
+
+msgid "https://www.gnu.org/philosophy/free-sw"
+msgstr "https://www.gnu.org/philosophy/free-sw.zh-cn"
+
+msgid "on the website"
+msgstr "在网站上"
+
+msgid "org.gnome.Software"
+msgstr "org.gnome.Software"
+
+msgctxt "origin"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "ratings in total"
+msgstr "评分总计"
+
+msgid "system-software-install"
+msgstr "system-software-install"
+
+msgid "the operating system"
+msgstr "操作系统"
+
+msgid "this website"
+msgstr "这个网站"
+
+msgid "translator-credits"
+msgstr ""
+"eternalhui <www.eternalhui@gmail.com>, 2013\n"
+"tuhaihe <1132321739qq@gmail.com>, 2013\n"
+"Wylmer Wang <wantinghard@gmail.com>, 2013\n"
+"YunQiang Su <wzssyqa@gmail.com>, 2014\n"
+"Sphinx Jiang <yishanj13@gmail.com>, 2014\n"
+"Tong Hui <tonghuix@gmail.com>, 2014\n"
+"Mingye Wang <arthur2e5@gmail.com>, 2015, 2016\n"
+"Mingcong Bai <jeffbai@aosc.xyz>, 2015, 2018\n"
+"Bin Li <binli@gnome.org>, 2016\n"
+"Michael Chen <searchends@gnu.hk>, 2016\n"
+"Mandy Wang <wangmychn@gmail.com>, 2016\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2015, 2016, 2017\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Anthony Wong https://launchpad.net/~anthonywong\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Desolation https://launchpad.net/~wanqichen\n"
+"  Jeff Bai https://launchpad.net/~jeffbai\n"
+"  Kennard Zhang https://launchpad.net/~kennard\n"
+"  Luo Yufan https://launchpad.net/~njlyf2011\n"
+"  Mandy Wang https://launchpad.net/~wangmychn\n"
+"  Rockworld https://launchpad.net/~rockrock2222222\n"
+"  SuperWangCC https://launchpad.net/~ddllkl\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  Zacy https://launchpad.net/~zacy\n"
+"  johnwang https://launchpad.net/~q756809891\n"
+"  wsxy162 https://launchpad.net/~wsxy162\n"
+"  xion https://launchpad.net/~xionchen\n"
+"  刘艳明 https://launchpad.net/~liuyanming\n"
+"  张秋雨 https://launchpad.net/~vdergow\n"
+"  王万霖 https://launchpad.net/~dgideas"
+
+msgctxt "updated"
+msgid "Never"
+msgstr "未知"
+
+msgctxt "updates"
+msgid "Review"
+msgstr "回顾"
+
+msgctxt "version"
+msgid "Unknown"
+msgstr "未知"
+
+msgid "“%s”"
+msgstr "“%s”"

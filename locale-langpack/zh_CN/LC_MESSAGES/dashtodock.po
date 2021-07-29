@@ -1,0 +1,385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash to Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-24 14:12+0000\n"
+"Last-Translator: 绿色圣光 <Unknown>\n"
+"Language-Team: Chinese (Simplified) <>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:17+0000\n"
+
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+"<span size=\"small\">本程序不提供任何担保。\n"
+"参见 <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU 通用公共许可证，第二版或更高版本</a>以了解更多细节。</span>"
+
+msgid "About"
+msgstr "关于"
+
+msgid "All Windows"
+msgstr "所有窗口"
+
+msgid "All windows"
+msgstr "所有窗口"
+
+msgid "Animate <i>Show Applications</i>."
+msgstr "动画方式 <i>显示应用程序</i>"
+
+msgid "Animation duration (s)"
+msgstr "动画持续时间（秒）"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Autohide"
+msgstr "自动隐藏"
+
+msgid "Behavior"
+msgstr "行为"
+
+msgid "Behavior for Middle-Click."
+msgstr "中键点击的行为。"
+
+msgid "Behavior for Shift+Middle-Click."
+msgstr "Shift+中键点击的行为。"
+
+msgid "Behaviour when clicking on the icon of a running application."
+msgstr "点击一个正在运行的应用程序图标时的行为。"
+
+msgid "Behaviour when scrolling on the icon of an application."
+msgstr "在一个应用程序图标上滚动时的行为。"
+
+msgid "Border color"
+msgstr "边框颜色"
+
+msgid "Border width"
+msgstr "边框宽度"
+
+msgid "Bottom"
+msgstr "底部"
+
+msgid "Click action"
+msgstr "点击动作"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Created by"
+msgstr "作者："
+
+msgid "Customize indicator style"
+msgstr "自定义指示器样式"
+
+msgid "Customize middle-click behavior"
+msgstr "自定义中键点击行为"
+
+msgid "Customize minimum and maximum opacity values"
+msgstr "自定义窗口最小化和最大化时 Dock 的不透明度"
+
+msgid "Customize opacity"
+msgstr "自定义不透明度"
+
+msgid "Customize running indicators"
+msgstr "自定义“运行中”指示器"
+
+msgid "Customize the dash color"
+msgstr "自定义 Dash 颜色"
+
+msgid "Customize windows counter indicators"
+msgstr "显示窗口个数指示器"
+
+msgid "Cycle through windows"
+msgstr "在窗口间循环"
+
+msgid "Dash to Dock %s"
+msgstr "Dash to Dock %s"
+
+msgid "Dashes"
+msgstr "破折号"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Do nothing"
+msgstr "无动作"
+
+msgid "Dock size limit"
+msgstr "Dock 大小限制"
+
+msgid "Dodge windows"
+msgstr "避开窗口"
+
+msgid "Dots"
+msgstr "圆点"
+
+msgid "Dynamic"
+msgstr "动态"
+
+msgid "Eject"
+msgstr "弹出"
+
+msgid "Empty Trash"
+msgstr "清空回收站"
+
+msgid ""
+"Enable Super+(0-9) as shortcuts to activate apps. It can also be used "
+"together with Shift and Ctrl."
+msgstr "启用 Super+(0-9) 作为快捷键来激活应用。也可与 Shift 和 Ctrl 一起使用。"
+
+msgid "Enable Unity7 like glossy backlit items"
+msgstr "启用类似 Unity 7 的高亮阴影"
+
+msgid "Enable in fullscreen mode"
+msgstr "在全屏模式下启用"
+
+msgid ""
+"Few customizations meant to integrate the dock with the default GNOME theme."
+" Alternatively, specific options can be enabled below."
+msgstr "几个自定义项可以将 Dock 整合到默认 GNOME 主题中。或者，也可以启动下面的几个特殊选项。"
+
+msgid "Fixed"
+msgstr "固定"
+
+msgid "Fixed icon size: scroll to reveal other icons"
+msgstr "固定图标大小：滚动显示其它图标"
+
+msgid "Focus or show previews"
+msgstr "聚焦或显示预览"
+
+msgid "Force straight corner"
+msgstr "强制边框直角"
+
+msgid ""
+"Hide the dock when it obstructs a window of the current application. More "
+"refined settings are available."
+msgstr "当 Dock 会挡住当前应用程序的某个窗口时，将其隐藏。点击右侧设置按钮可以设置更多细节。"
+
+msgid "Hide timeout (s)"
+msgstr "隐藏超时时间（秒）"
+
+msgid "Icon size limit"
+msgstr "图标大小限制"
+
+msgid ""
+"If disabled, these settings are accessible from gnome-tweak-tool or the "
+"extension website."
+msgstr "禁用之后，可以通过 gnome-tweak-tool 或者扩展网站来访问这些设置。"
+
+msgid ""
+"If using autohide, the dock will appear for a short time when triggering the"
+" shortcut."
+msgstr "如果使用了自动隐藏，Dock 将在触发快捷键时短暂显示。"
+
+msgid "Intelligent autohide"
+msgstr "智能隐藏"
+
+msgid "Intelligent autohide customization"
+msgstr "智能自动隐藏自定义"
+
+msgid "Isolate monitors."
+msgstr "隔离显示器"
+
+msgid "Isolate workspaces."
+msgstr "隔离工作区"
+
+msgid "Launch new instance"
+msgstr "启动新实例"
+
+msgid "Launchers"
+msgstr "启动器"
+
+msgid "Left"
+msgstr "左侧"
+
+msgid "Maximum opacity"
+msgstr "最大化不透明度"
+
+msgid "Middle-Click action"
+msgstr "中键点击动作"
+
+msgid "Minimize"
+msgstr "最小化"
+
+msgid "Minimize or overview"
+msgstr "最小化或概览"
+
+msgid "Minimize or show previews"
+msgstr "最小化或显示预览"
+
+msgid "Minimize window"
+msgstr "最小化窗口"
+
+msgid "Minimum opacity"
+msgstr "最小化不透明度"
+
+msgid "Mount"
+msgstr "挂载"
+
+msgid "Move the applications button at the beginning of the dock."
+msgstr "将应用程序图标移至 Dock 的起始位置"
+
+msgid "Moves the dash out of the overview transforming it in a dock"
+msgstr "让 Dash 跳出概览之外，转化为一个 Dock"
+
+msgid "Number overlay"
+msgstr "编号覆盖"
+
+msgid "Only focused application's windows"
+msgstr "仅焦点程序窗口"
+
+msgid "Only maximized windows"
+msgstr "仅最大化窗口"
+
+msgid "Opacity"
+msgstr "不透明度"
+
+msgid "Panel mode: extend to the screen edge"
+msgstr "面板模式：延伸到屏幕边缘"
+
+msgid "Position and size"
+msgstr "位置和大小"
+
+msgid "Position on screen"
+msgstr "屏幕中的位置"
+
+msgid "Pressure threshold"
+msgstr "压力阈值"
+
+msgid "Primary monitor"
+msgstr "主显示器"
+
+msgid "Push to show: require pressure to show the dock"
+msgstr "推压以显示：需要一定压力来显示 Dock"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Raise window"
+msgstr "提升窗口"
+
+msgid "Reset to defaults"
+msgstr "重置为默认值"
+
+msgid "Right"
+msgstr "右侧"
+
+msgid "Save space reducing padding and border radius."
+msgstr "减小填充和边框半径以节省空间。"
+
+msgid "Scroll action"
+msgstr "滚动动作"
+
+msgid "Secondary monitor "
+msgstr "副显示器 "
+
+msgid "Segmented"
+msgstr "分段"
+
+msgid "Set the background color for the dash."
+msgstr "设置 Dash 的背景颜色。"
+
+msgid "Shift+Click action"
+msgstr "Shift+点击动作"
+
+msgid "Shift+Middle-Click action"
+msgstr "Shift+中键点击动作"
+
+msgid "Shortcut for the options above"
+msgstr "以上选项的快捷键"
+
+msgid "Show <i>Applications</i> icon"
+msgstr "显示 <i>应用程序</i> 图标"
+
+msgid "Show dock and application numbers"
+msgstr "显示 Dock 和应用程序编号"
+
+msgid "Show favorite applications"
+msgstr "显示收藏的应用程序"
+
+msgid "Show mounted volumes and devices"
+msgstr "显示挂载卷和设备"
+
+msgid "Show on all monitors."
+msgstr "所有显示器上都显示"
+
+msgid "Show open windows previews."
+msgstr "显示打开窗口预览"
+
+msgid "Show running applications"
+msgstr "显示正在运行的应用程序"
+
+msgid "Show the dock by mouse hover on the screen edge."
+msgstr "鼠标移至屏幕边缘时显示 Dock。"
+
+msgid "Show the dock if it is hidden"
+msgstr "若 Dock 已隐藏，将其显示"
+
+msgid "Show the dock on"
+msgstr "显示 Dock 于"
+
+msgid "Show the dock when it doesn't obstruct application windows."
+msgstr "在不妨碍应用程序窗口时，显示 Dock。"
+
+msgid "Show timeout (s)"
+msgstr "显示超时时间（秒）"
+
+msgid "Show trash can"
+msgstr "显示回收站"
+
+msgid "Show window previews"
+msgstr "显示打开窗口预览"
+
+msgid "Shrink the dash"
+msgstr "收缩 Dash"
+
+msgid "Squares"
+msgstr "正方形"
+
+msgid "Switch workspace"
+msgstr "切换工作区"
+
+msgid "Syntax: <Shift>, <Ctrl>, <Alt>, <Super>"
+msgstr "语法：<Shift>，<Ctrl>，<Alt>，<Super>"
+
+msgid ""
+"Temporarily show the application numbers over the icons, corresponding to "
+"the shortcut."
+msgstr "临时显示与快捷键对应的图标上的应用程序编号。"
+
+msgid "Top"
+msgstr "顶部"
+
+msgid "Trash"
+msgstr "回收站"
+
+msgid "Tune the dash background opacity."
+msgstr "调整 Dash 的背景不透明度。"
+
+msgid "Unmount"
+msgstr "卸载"
+
+msgid "Use built-in theme"
+msgstr "使用内置主题"
+
+msgid "Use dominant color"
+msgstr "使用主色调"
+
+msgid "Use keyboard shortcuts to activate apps"
+msgstr "使用键盘快捷键激活应用"
+
+msgid "Webpage"
+msgstr "网站主页"
+
+msgid ""
+"When set to minimize, double clicking minimizes all the windows of the "
+"application."
+msgstr "当设置为最小化时，双击会最小化应用程序的所有窗口。"
+
+msgid "version: "
+msgstr "版本： "

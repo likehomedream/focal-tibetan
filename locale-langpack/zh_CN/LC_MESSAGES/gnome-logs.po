@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-logs master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-logs/issues\n"
+"PO-Revision-Date: 2020-04-04 14:42+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:04+0000\n"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%H:%M:%S"
+msgstr "%H:%M:%S"
+
+msgid "%I:%M:%S %p"
+msgstr "%p %I:%M:%S"
+
+msgid "%T"
+msgstr "%T"
+
+msgid "%b %e %H:%M"
+msgstr "%-m月%-e日 %H:%M"
+
+msgid "%b %e %H:%M:%S"
+msgstr "%-m月%-e日 %H:%M:%S"
+
+msgid "%b %e %Y %H:%M"
+msgstr "%Y年%-m月%-e日 %H:%M"
+
+msgid "%b %e %Y %H:%M:%S"
+msgstr "%Y年%-m月%-e日 %H:%M:%S"
+
+msgid "%b %e %Y %l:%M %p"
+msgstr "%Y年%-m月%-e日 %p %l:%M"
+
+msgid "%b %e %Y %l:%M:%S %p"
+msgstr "%Y年%-m月%-e日 %p %l:%M:%S"
+
+msgid "%b %e %l:%M %p"
+msgstr "%-m月%-e日 %p %l:%M"
+
+msgid "%b %e %l:%M:%S %p"
+msgstr "%-m月%-e日 %p %l:%M:%S"
+
+msgid "%e %B %Y"
+msgstr "%Y年%-m月%-e日"
+
+msgid "%l:%M %p"
+msgstr "%p %l:%M"
+
+msgid "%l:%M:%S %p"
+msgstr "%p %l:%M:%S"
+
+msgid "%s – %s"
+msgstr "%s 至 %s"
+
+msgid "22 January 2016 or 1/22/2016"
+msgstr "2016年1月22日 或 2016-01-22"
+
+msgid "AM"
+msgstr "上午"
+
+msgid "AM/PM"
+msgstr "上午/下午"
+
+msgid "Alerts"
+msgstr "警告"
+
+msgid "All"
+msgstr "全部"
+
+msgid "All Available Fields"
+msgstr "全部可用区域"
+
+msgid "Applications"
+msgstr "应用程序"
+
+msgid "Audit Session"
+msgstr "审查会话"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Boot"
+msgstr "单次引导"
+
+msgid "Choose the boot from which to view logs"
+msgstr "选择某次引导以查看其日志"
+
+msgid "Current Boot"
+msgstr "本次引导"
+
+msgid "Defined By"
+msgstr "定义由"
+
+msgid "Documentation"
+msgstr "文档"
+
+msgid "Entire Journal"
+msgstr "整个日志"
+
+msgid "Exact"
+msgstr "精确"
+
+msgid "Executable Path"
+msgstr "可执行路径"
+
+msgid "Export logs to a file"
+msgstr "将日志导出到文件"
+
+msgid "From %s"
+msgstr "从 %s"
+
+msgid "GID"
+msgstr "GID"
+
+msgid "GNOME Logs"
+msgstr "GNOME 日志"
+
+msgid "Hardware"
+msgstr "硬件"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "How to sort list rows in the event view list"
+msgstr "如何在事件查看列别中对行列表排序"
+
+msgid "Hr"
+msgstr "时"
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid "Ignore warning"
+msgstr "忽略警告"
+
+msgid "Important"
+msgstr "重要"
+
+msgid "Kernel Device"
+msgstr "内核设备"
+
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+msgid "Last 3 days"
+msgstr "近三天"
+
+msgid "Log Viewer"
+msgstr "日志查看器"
+
+msgid "Logs"
+msgstr "日志"
+
+msgid ""
+"Logs shows events from the systemd journal, and sorts them into categories, "
+"such as hardware and applications."
+msgstr "日志查看器 显示来自 systemd 的日志并按“硬件”、“应用程序”等进行分类。"
+
+msgid "Match complete string only"
+msgstr "仅全字串匹配"
+
+msgid "Match in any part of the string"
+msgstr "匹配字串的任何部分"
+
+msgid "Message"
+msgstr "消息"
+
+msgid "Min"
+msgstr "分"
+
+msgid "No logs available"
+msgstr "无可用的日志"
+
+msgid "No results"
+msgstr "无结果"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "PID"
+msgstr "PID"
+
+msgid "PM"
+msgstr "下午"
+
+msgid "Parameters"
+msgstr "参数"
+
+msgid "Previous Boot"
+msgstr "上次引导"
+
+msgid "Print version information and exit"
+msgstr "打印版本信息并退出"
+
+msgid "Priority"
+msgstr "优先级"
+
+msgid "Process Name"
+msgstr "进程名"
+
+msgid "Save logs"
+msgstr "保存日志"
+
+msgid "Search Type"
+msgstr "搜索类型"
+
+msgid "Search all the logs of the current category"
+msgstr "在当前类别中的所有日志中搜索"
+
+msgid "Sec"
+msgstr "秒"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Select End Date…"
+msgstr "设置结束日期…"
+
+msgid "Select End Time…"
+msgstr "设置结束时间…"
+
+msgid "Select Journal Field…"
+msgstr "选择日志区域…"
+
+msgid "Select Start Date…"
+msgstr "选择起始日期…"
+
+msgid "Select Start Time…"
+msgstr "选择起始时间…"
+
+msgid "Select Timestamp Range of the Log Entries to be shown"
+msgstr "选择要显示的日志条目的时间戳范围"
+
+msgid "Select a Journal Field to filter the Logs according to it"
+msgstr "选择日志区域以据此筛选日志"
+
+msgid "Select a start date"
+msgstr "选择起始日期"
+
+msgid "Select an end date"
+msgstr "设置结束日期"
+
+msgid "Select end time"
+msgstr "设置结束时间"
+
+msgid "Select journal field and timestamp range filtering options"
+msgstr "选择日志区域及时间戳范围作为筛选选项"
+
+msgid "Select start time"
+msgstr "选择起始时间"
+
+msgid "Sender"
+msgstr "发送方"
+
+msgid "Set Custom Range…"
+msgstr "设置自定义范围…"
+
+msgid "Show Logs Starting From…"
+msgstr "显示自此时间的日志…"
+
+msgid "Show Logs from…"
+msgstr "显示自此时间的日志…"
+
+msgid "Sort list rows in ascending or descending order for the selected type"
+msgstr "根据选择的类型以升序或降序排列列表行"
+
+msgid "Starred"
+msgstr "已加星标"
+
+msgid "Subject"
+msgstr "主题"
+
+msgid "Substring"
+msgstr "子字符串"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "System"
+msgstr "系统"
+
+msgid "Systemd Unit"
+msgstr "Systemd 单元"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Today"
+msgstr "今天"
+
+msgid "UID"
+msgstr "UID"
+
+msgid "Unable to export log messages to a file"
+msgstr "无法将日志消息导出到文件"
+
+msgid "Unable to read system logs"
+msgstr "无法读取系统日志"
+
+msgid "Unable to read user logs"
+msgstr "无法读取用户日志"
+
+msgid "Until %s"
+msgstr "至 %s"
+
+msgid "Until…"
+msgstr "到…"
+
+msgid "Updates"
+msgstr "更新"
+
+msgid "Usage"
+msgstr "使用"
+
+msgid ""
+"Using Logs you can search your logs by typing a search term, and view "
+"detailed information about each event by clicking on it."
+msgstr "使用 日志查看器 时您可以输入条件在日志中搜索，点击某个事件可以查看它的详细信息。"
+
+msgid "View and search logs"
+msgstr "查看和搜索日志"
+
+msgid "View detailed event logs for the system"
+msgstr "查看系统详细的事件日志"
+
+msgid "What"
+msgstr "类型"
+
+msgid "When"
+msgstr "时间"
+
+msgid ""
+"Whether to ignore the warning that says you don’t have sufficient permission"
+" to view logs. If ignored, the warning won’t show up again."
+msgstr "是否忽略提示您没有足够权限查看日志的警告。如果忽略，警告不会再显示。"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "_About Logs"
+msgstr "关于日志(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_New Window"
+msgstr "新窗口(_N)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "log messages"
+msgstr "日志消息"
+
+msgid "log;journal;debug;error;"
+msgstr "log;journal;debug;error;日志;记录;调试;错误;"
+
+msgctxt "shortcut window"
+msgid "Close a window"
+msgstr "关闭此窗口"
+
+msgctxt "shortcut window"
+msgid "Find"
+msgstr "查找"
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr "通用"
+
+msgctxt "shortcut window"
+msgid "Open a new window"
+msgstr "打开新窗口"
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr "搜索"
+
+msgid "translator-credits"
+msgstr ""
+"eternalhui <www.eternalhui@gmail.com>, 2013\n"
+"Jeff Bai <jeffbai@aosc.xyz>, 2015, 2016, 2017\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2016, 2018\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Jeff Bai https://launchpad.net/~jeffbai\n"
+"  Sebastien Bacher https://launchpad.net/~seb128\n"
+"  wsxy162 https://launchpad.net/~wsxy162"

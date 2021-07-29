@@ -1,0 +1,1411 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: evince master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/evince/issues\n"
+"PO-Revision-Date: 2020-04-07 07:06+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-DamnedLies-Scope: partial\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:02+0000\n"
+
+msgid " (Not one of the Standard 14 Fonts)"
+msgstr " （14 种标准字体范围之外）"
+
+msgid " (One of the Standard 14 Fonts)"
+msgstr " （14 种标准字体之一）"
+
+msgid "%.0f × %.0f mm"
+msgstr "%.0f x %.0f 毫米"
+
+msgid "%.2f × %.2f inch"
+msgstr "%.2f x %.2f 英寸"
+
+msgid "%d pending job in queue"
+msgid_plural "%d pending jobs in queue"
+msgstr[0] "队列中有 %d 个等待执行的任务"
+
+msgid ""
+"%s%s\n"
+"Encoding: %s\n"
+"%s"
+msgstr ""
+"%s%s\n"
+"编码：%s\n"
+"%s"
+
+msgid ""
+"%s%s\n"
+"Encoding: %s\n"
+"%s\n"
+"Substituting with <b>%s</b>\n"
+"(%s)"
+msgstr ""
+"%s%s\n"
+"编码：%s\n"
+"%s\n"
+"替换为 <b>%s</b>\n"
+"（%s）"
+
+msgid "%s, Landscape (%s)"
+msgstr "%s，横向（%s）"
+
+msgid "%s, Portrait (%s)"
+msgstr "%s，纵向（%s）"
+
+msgid "(%d of %d)"
+msgstr "（第 %d 页，共 %d 页）"
+
+msgid "100%"
+msgstr "100%"
+
+msgid "125%"
+msgstr "125%"
+
+msgid "150%"
+msgstr "150%"
+
+msgid "1600%"
+msgstr "1600%"
+
+msgid "175%"
+msgstr "175%"
+
+msgid "200%"
+msgstr "200%"
+
+msgid "300%"
+msgstr "300%"
+
+msgid "3200%"
+msgstr "3200%"
+
+msgid "400%"
+msgstr "400%"
+
+msgid "50%"
+msgstr "50%"
+
+msgid "6400%"
+msgstr "6400%"
+
+msgid "70%"
+msgstr "70%"
+
+msgid "800%"
+msgstr "800%"
+
+msgid "85%"
+msgstr "85%"
+
+msgid "A clear, simple UI"
+msgstr "简洁明了的用户界面"
+
+msgid ""
+"A document viewer for the GNOME desktop. You can view, search or annotate "
+"documents in many different formats."
+msgstr "GNOME 桌面的文档查看器。你可以查看、搜索或注释不同格式的文档。"
+
+msgid "A file named “%s” already exists. Do you want to replace it?"
+msgstr "已存在名为“%s”的文件。您要替换这个文件吗？"
+
+msgid "Add bookmark"
+msgstr "添加书签"
+
+msgid "Add highlight annotation"
+msgstr "添加高亮注释"
+
+msgid "Add text annotation"
+msgstr "添加文本注释"
+
+msgid "Adds support for reading DVI documents"
+msgstr "增加支持阅读 DVI 文档的功能"
+
+msgid "Adds support for reading DjVu documents"
+msgstr "增加支持阅读 DjVu 文档的功能"
+
+msgid "Adds support for reading PDF Documents"
+msgstr "增加支持阅读 PDF 文档的功能"
+
+msgid "Adds support for reading PostScript documents"
+msgstr "增加支持阅读 PostScript 文档的功能"
+
+msgid "Adds support for reading TIFF documents"
+msgstr "增加支持阅读 TIFF 文档的功能"
+
+msgid "Adds support for reading XPS documents"
+msgstr "增加支持阅读 XPS 文档的功能"
+
+msgid "Adds support for reading comic books"
+msgstr "增加支持阅读漫画的功能"
+
+msgid "Advanced highlighting and annotation"
+msgstr "高级突出显示和注释"
+
+msgid "All Documents"
+msgstr "全部文档"
+
+msgid "All Files"
+msgstr "全部文件"
+
+msgid "All fonts are either standard or embedded."
+msgstr "全部字体皆为标准字体或嵌入字体。"
+
+msgid "Allow links to change the zoom level."
+msgstr "允许链接调整缩放级别."
+
+msgid "Annotate the document"
+msgstr "批注文档"
+
+msgid "Annotation Properties"
+msgstr "注释属性"
+
+msgid "Annotation Properties…"
+msgstr "注释属性…"
+
+msgid "Annotations"
+msgstr "注释"
+
+msgid "Archive is encrypted"
+msgstr "档案己被加密"
+
+msgid "Attachments"
+msgstr "附件"
+
+msgid "Author:"
+msgstr "作者："
+
+msgid "Auto Rotate and Center"
+msgstr "自动旋转并居中"
+
+msgid "Auto_scroll"
+msgstr "自动滚屏(_S)"
+
+msgid "Automatically reload the document"
+msgstr "自动刷新文档"
+
+msgid "Back"
+msgstr "后退"
+
+msgid "Bookmarks"
+msgstr "书签"
+
+msgid "C_ancel"
+msgstr "取消(_A)"
+
+msgid "C_ase Sensitive"
+msgstr "区分大小写(_A)"
+
+msgid "Can not get local path for archive"
+msgstr "无法获取归档的本地路径"
+
+msgid "Cancel _print and Close"
+msgstr "取消打印并关闭(_P)"
+
+msgid "Circle"
+msgstr "圆圈"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close _after Printing"
+msgstr "打印后关闭(_A)"
+
+msgid "Close _without Saving"
+msgstr "关闭且不保存(_W)"
+
+msgid "Color:"
+msgstr "颜色："
+
+msgid "Comic Books"
+msgstr "Comic Book 文档"
+
+msgid "Comment"
+msgstr "评论"
+
+msgid "Copy _Image"
+msgstr "复制图像(_I)"
+
+msgid "Could not send current document"
+msgstr "无法保存当前文档"
+
+msgid "Couldn’t find appropriate format to save image"
+msgstr "无法找到合适的格式来保存图像"
+
+msgid "Couldn’t open attachment “%s”"
+msgstr "无法打开附件“%s”"
+
+msgid "Couldn’t open attachment “%s”: %s"
+msgstr "无法打开附件“%s”：%s"
+
+msgid "Couldn’t save attachment “%s”: %s"
+msgstr "无法保存附件“%s”：%s"
+
+msgid "Created:"
+msgstr "创建于："
+
+msgid "Creator:"
+msgstr "创建者："
+
+msgid "Cross"
+msgstr "交叉"
+
+msgid "DEST"
+msgstr "目标"
+
+msgid "DVI Documents"
+msgstr "DVI 文档"
+
+msgid "DVI document has incorrect format"
+msgstr "DVI 文档的格式错误"
+
+msgid "Delete the temporary file"
+msgstr "删除临时文件"
+
+msgid "DjVu Documents"
+msgstr "DjVu 文档"
+
+msgid "DjVu document has incorrect format"
+msgstr "DjVu 文档的格式错误"
+
+msgid "Document"
+msgstr "文档"
+
+msgid "Document License"
+msgstr "文档许可证"
+
+msgid "Document View"
+msgstr "文档视图"
+
+msgid "Document Viewer"
+msgstr "文档查看器"
+
+msgid "Document contains form fields that have been filled out. "
+msgstr "文档包含了已经填写的表单。 "
+
+msgid "Document contains new or modified annotations. "
+msgstr "文档包含了新的或修改过的注释。 "
+
+msgid "Document contains no annotations"
+msgstr "此文档不包含任何注释"
+
+msgid "Document viewer for popular document formats"
+msgstr "支持查看流行的文档格式的文档查看器"
+
+msgid "Don’t show this message again"
+msgstr "不再显示这条信息"
+
+msgid "Download document"
+msgstr "下载文档"
+
+msgid "Downloading document (%d%%)"
+msgstr "正在下载文档 (%d%%)"
+
+msgid "Embedded"
+msgstr "嵌入"
+
+msgid "Embedded subset"
+msgstr "嵌入子集"
+
+msgid "Enable caret navigation?"
+msgstr "启用光标浏览？"
+
+msgid "End of presentation. Press Esc or click to exit."
+msgstr "演示文稿结束。按 Esc 键或单击退出。"
+
+msgid "Enlarge the document"
+msgstr "放大文档"
+
+msgid "Evince"
+msgstr "Evince"
+
+msgid ""
+"Evince supports documents in: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (with "
+"SyncTeX), and Comic Books archives (CBR, CBT, CBZ, CB7)."
+msgstr ""
+"Evince 支持以下的文档格式：PDF、PS、EPS、XPS、DjVu、TIFF、DVI（带 "
+"SyncTex）以及漫画档案（CBR、CBT、CBZ、CB7）。"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "Failed to create a temporary directory: %s"
+msgstr "创建临时目录 %s 失败。"
+
+msgid "Failed to create a temporary file: %s"
+msgstr "创建临时文件 %s 失败。"
+
+msgid "Failed to create thumbnail for page %d"
+msgstr "无法为第 %d 页创建缩略图"
+
+msgid "Failed to load document “%s”"
+msgstr "载入文档“%s”失败"
+
+msgid "Failed to load remote file."
+msgstr "载入远程文档失败。"
+
+msgid "Failed to print document"
+msgstr "打印文档失败"
+
+msgid "Failed to print page %d: %s"
+msgstr "打印页面 %d 失败： %s"
+
+msgid "Failed to reload document."
+msgstr "重新载入文档失败。"
+
+msgid "Failed to render page %d"
+msgstr "无法渲染第 %d 页"
+
+msgid "Failed to save document “%s”"
+msgstr "保存文档“%s”失败"
+
+msgid "File is corrupted"
+msgstr "文件已损坏"
+
+msgid "File options"
+msgstr "文件选项"
+
+msgid "File specifying print settings"
+msgstr "指定打印设置的文件"
+
+msgid "File type %s (%s) is not supported"
+msgstr "不支持文件类型 %s (%s)"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "Find a word or phrase in the document"
+msgstr "在文档中查找单词或短语"
+
+msgid "Find next occurrence of the search string"
+msgstr "查找被搜索字符串的下次出现"
+
+msgid "Find previous occurrence of the search string"
+msgstr "查找被搜索字符串的上次出现"
+
+msgid "Finishing…"
+msgstr "完成中…"
+
+msgid "First Page"
+msgstr "第一页"
+
+msgid "Fit Pa_ge"
+msgstr "适合页面(_G)"
+
+msgid "Fit _Width"
+msgstr "适合宽度(_W)"
+
+msgid "Fit to Printable Area"
+msgstr "适合于打印区域"
+
+msgid "Font"
+msgstr "字体"
+
+msgid "Fonts"
+msgstr "字体"
+
+msgid "Forget password _immediately"
+msgstr "立即忘记密码(_I)"
+
+msgid "Format:"
+msgstr "格式："
+
+msgid "Forward"
+msgstr "前进"
+
+msgid "Fullscreen"
+msgstr "全屏"
+
+msgid "Further Information"
+msgstr "更多信息"
+
+msgid "GNOME Document Previewer"
+msgstr "GNOME 文档预览器"
+
+msgid "GNOME Document Viewer"
+msgstr "GNOME 文档查看器"
+
+msgid "Gathering font information… %3d%%"
+msgstr "正在搜集字体信息……%3d%%"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Generating preview: page %d of %d"
+msgstr "正在生成预览：第 %d 页，共 %d 页"
+
+msgid "Go to %s on file “%s”"
+msgstr "转到文件“%2$s”的 %1$s"
+
+msgid "Go to file “%s”"
+msgstr "转到文件“%s”"
+
+msgid "Go to first page"
+msgstr "转到第一页"
+
+msgid "Go to last page"
+msgstr "转到最后一页"
+
+msgid "Go to next page"
+msgstr "转到下一页"
+
+msgid "Go to page"
+msgstr "转到指定页"
+
+msgid "Go to page %s"
+msgstr "转到第 %s 页"
+
+msgid "Go to previous page"
+msgstr "转到上一页"
+
+msgid "Go to the next page"
+msgstr "转到下一页"
+
+msgid "Go to the previous page"
+msgstr "转到上一页"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Highlight"
+msgstr "高亮"
+
+msgid "Highlight Selected Text"
+msgstr "高亮选中文本"
+
+msgid "Highlight text"
+msgstr "高亮文本"
+
+msgid "History"
+msgstr "历史"
+
+msgid "Icon:"
+msgstr "图标："
+
+msgid "If you close the window, pending print jobs will not be printed."
+msgstr "如果你关闭该窗口，正在等待执行的打印任务将不会被打印。"
+
+msgid "If you don’t save a copy, changes will be permanently lost."
+msgstr "如果您不保存副本，修改将会永久丢失。"
+
+msgid "If you reload the document, changes will be permanently lost."
+msgstr "如果重新载入文档，修改将会永久丢失。"
+
+msgid "Initial window state:"
+msgstr "初始窗口状态："
+
+msgid "Insert"
+msgstr "插入"
+
+msgid "Invalid document"
+msgstr "无效的文档"
+
+msgid "Invalid page selection"
+msgstr "无效的页面选择"
+
+msgid "Jump to page:"
+msgstr "跳到页面："
+
+msgid "Key"
+msgstr "关键"
+
+msgid "Keywords:"
+msgstr "关键词："
+
+msgid "Last Page"
+msgstr "最后一页"
+
+msgid "Launch %s"
+msgstr "调用 %s"
+
+msgid "Layers"
+msgstr "层"
+
+msgid "Loading document from “%s”"
+msgstr "正在从“%s”载入文档"
+
+msgid "Loading…"
+msgstr "正在载入…"
+
+msgid "Location:"
+msgstr "位置："
+
+msgid "Markup type:"
+msgstr "标记类型："
+
+msgid "Modified:"
+msgstr "修改于："
+
+msgid "NUMBER"
+msgstr "页号"
+
+msgid "Named destination to display."
+msgstr "要显示的已命名目标。"
+
+msgid "Navigation"
+msgstr "导航"
+
+msgid "New Paragraph"
+msgstr "新段落"
+
+msgid "New _Window"
+msgstr "新建窗口(_W)"
+
+msgid "Next Page"
+msgstr "下一页"
+
+msgid "Ni_ght Mode"
+msgstr "夜间模式(_G)"
+
+msgid "No"
+msgstr "否"
+
+msgid "No files in archive"
+msgstr "档案中没有文件"
+
+msgid "No name"
+msgstr "无名称"
+
+msgid "No supported images in archive"
+msgstr "档案中没有受支持的图片"
+
+msgid "None"
+msgstr "无"
+
+msgid "Not a comic book MIME type: %s"
+msgstr "不是 Comic Book 文档的 MIME 类型：%s"
+
+msgid "Not embedded"
+msgstr "未嵌入"
+
+msgid "Not found, click to change search options"
+msgstr "字符未找到，请更改搜索选项"
+
+msgid "Note"
+msgstr "笔记"
+
+msgid "Note text"
+msgstr "笔记"
+
+msgid "Number of Pages:"
+msgstr "页数："
+
+msgid "Opacity:"
+msgstr "不透明度："
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open Containing _Folder"
+msgstr "打开所在的文件夹(_F)"
+
+msgid "Open Document"
+msgstr "打开文档"
+
+msgid "Open a C_opy"
+msgstr "打开副本(_O)"
+
+msgid "Open an existing document"
+msgstr "打开已有文档"
+
+msgid "Open in New _Window"
+msgstr "在新窗口中打开(_W)"
+
+msgid "Open…"
+msgstr "打开…"
+
+msgid "Optimized:"
+msgstr "优化："
+
+msgid "Outline"
+msgstr "大纲"
+
+msgid "Override document restrictions"
+msgstr "忽略文档限制"
+
+msgid "Override document restrictions, like restriction to copy or to print."
+msgstr "忽略文档限制，比如限制复制或打印。"
+
+msgid "PAGE"
+msgstr "页面"
+
+msgid "PDF Documents"
+msgstr "PDF 文档"
+
+msgid "Page %d"
+msgstr "第 %d 页"
+
+msgid "Page %s"
+msgstr "第 %s 页"
+
+msgid "Page Handling"
+msgstr "页面处理"
+
+msgid "Page Scaling:"
+msgstr "页面缩放："
+
+msgid "Page cache size in MiB"
+msgstr "页缓存大小(MiB)"
+
+msgid "Paper Size:"
+msgstr "纸张大小："
+
+msgid "Paragraph"
+msgstr "段落"
+
+msgid "Password Required"
+msgstr "需要密码"
+
+msgid "Password for document %s"
+msgstr "文档 %s 的密码"
+
+msgid "Password required"
+msgstr "需要密码"
+
+msgid "PostScript Documents"
+msgstr "PostScript 文档"
+
+msgid "Preparing preview…"
+msgstr "正在准备预览…"
+
+msgid "Preparing to print…"
+msgstr "正在准备打印…"
+
+msgid "Present as _Slideshow"
+msgstr "以幻灯片呈现(_S)"
+
+msgid ""
+"Pressing F7 turns the caret navigation on or off. This feature places a "
+"moveable cursor in text pages, allowing you to move around and select text "
+"with your keyboard. Do you want to enable the caret navigation?"
+msgstr "按下 F7 可以打开或关闭光标浏览功能。这个功能会在文字页面中显示一个可移动光标，允许您用键盘四处移动并选择文字。您想要启用光标浏览吗？"
+
+msgid "Preview before printing"
+msgstr "打印前预览"
+
+msgid "Previous Page"
+msgstr "上一页"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Print Preview"
+msgstr "打印预览"
+
+msgid "Print document"
+msgstr "打印文档"
+
+msgid "Print this document"
+msgstr "打印此文档"
+
+msgid "Printing job “%s”"
+msgstr "正在打印任务“%s”"
+
+msgid "Printing page %d of %d…"
+msgstr "正在打印第 %d 页，共 %d 页…"
+
+msgid "Print…"
+msgstr "打印…"
+
+msgid "Producer:"
+msgstr "制作者："
+
+msgid "Prop_erties…"
+msgstr "属性…(_E)"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Recent Documents"
+msgstr "最近文档"
+
+msgid "Reload document “%s”?"
+msgstr "要重新载入文档“%s”吗？"
+
+msgid "Reloading document from %s"
+msgstr "正在从 %s 重新载入文档"
+
+msgid "Remember _forever"
+msgstr "永远记住(_F)"
+
+msgid "Remember password until you _log out"
+msgstr "记住密码直到注销(_L)"
+
+msgid "Remove Annotation"
+msgstr "去掉注释"
+
+msgid "Remove bookmark"
+msgstr "移除书签"
+
+msgid "Requested format is not supported by this printer."
+msgstr "该打印机不支持此要求的格式。"
+
+msgid "Reset zoom and make the page fit in the window"
+msgstr "重置缩放并使页面适应窗口"
+
+msgid "Ro_tate ⤵"
+msgstr "顺时针旋转 ⤵(_T)"
+
+msgid ""
+"Rotate printer page orientation of each page to match orientation of each "
+"document page. Document pages will be centered within the printer page."
+msgstr "旋转每个页面的打印机页面方向以匹配每个文档页面的方向。文档页面将在打印机页面内居中。"
+
+msgid "Run evince as a previewer"
+msgstr "以预览程序模式运行 evince"
+
+msgid "Run evince in fullscreen mode"
+msgstr "以全屏模式运行 evince"
+
+msgid "Run evince in presentation mode"
+msgstr "以放映模式运行 evince"
+
+msgid "Running in presentation mode"
+msgstr "以放映模式运行"
+
+msgid "STRING"
+msgstr "字符串"
+
+msgid "Save As…"
+msgstr "另存为…"
+
+msgid "Save Attachment"
+msgstr "保存附件"
+
+msgid "Save Current Settings as Defa_ult"
+msgstr "将当前设置设为默认值(_U)"
+
+msgid "Save Image"
+msgstr "保存图像"
+
+msgid "Save a _Copy"
+msgstr "保存副本(_C)"
+
+msgid "Save a copy of document “%s” before closing?"
+msgstr "关闭前保存文档“%s”的副本吗？"
+
+msgid "Saving attachment to %s"
+msgstr "正在保存附件到 %s"
+
+msgid "Saving document to %s"
+msgstr "正在保存文档到 %s"
+
+msgid "Saving image to %s"
+msgstr "正在保存图片到 %s"
+
+msgid ""
+"Scale document pages to fit the selected printer page. Select from one of the following:\n"
+"\n"
+"• “None”: No page scaling is performed.\n"
+"\n"
+"• “Shrink to Printable Area”: Document pages larger than the printable area are reduced to fit the printable area of the printer page.\n"
+"\n"
+"• “Fit to Printable Area”: Document pages are enlarged or reduced as required to fit the printable area of the printer page.\n"
+msgstr ""
+"缩放文档页面以适应选中的打印页面。从下列中选择一个：\n"
+"\n"
+"• “无”：不执行页面缩放\n"
+"\n"
+"• “缩小至可打印区域”：缩小大于可打印区域的文档页面以使打印页面的可打印区域合适。\n"
+"\n"
+"• “适合于打印区域”：按要求缩小或放大文档页面以使打印页面的可打印区域合适。\n"
+
+msgid "Scroll Down"
+msgstr "向下滚动"
+
+msgid "Scroll Up"
+msgstr "向上滚动"
+
+msgid "Scroll View Down"
+msgstr "向下滚动视图"
+
+msgid "Scroll View Up"
+msgstr "向上滚动视图"
+
+msgid "Search not available for this document"
+msgstr "搜索不适用于此文档"
+
+msgid "Search options"
+msgstr "搜索选项"
+
+msgid "Security:"
+msgstr "安全性："
+
+msgid "Select _All"
+msgstr "全选(_A)"
+
+msgid "Select or set the zoom level of the document"
+msgstr "选择或设置文档的缩放级别"
+
+msgid "Select page"
+msgstr "选择页面"
+
+msgid "Select page or search in the index"
+msgstr "在索引中选择或查找页面"
+
+msgid "Select page size using document page size"
+msgstr "使用文档页面大小选定页面大小"
+
+msgid "Send To…"
+msgstr "发送至…"
+
+msgid "Set zoom level"
+msgstr "设置缩放级别"
+
+msgid ""
+"Show a dialog to confirm that the user wants to activate the caret "
+"navigation."
+msgstr "显示一个对话框以确认用户想要使用键盘浏览。"
+
+msgid "Show the entire document"
+msgstr "显示整篇文档"
+
+msgid "Show two pages at once"
+msgstr "一次显示两页"
+
+msgid "Shrink the document"
+msgstr "缩小文档"
+
+msgid "Shrink to Printable Area"
+msgstr "缩小至可打印区域"
+
+msgid "Side pane"
+msgstr "侧边栏"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Squiggly"
+msgstr "弯曲的"
+
+msgid "Strike out"
+msgstr "删除线"
+
+msgid "Subject:"
+msgstr "主题："
+
+msgid "Supported Image Files"
+msgstr "支持的图像文件"
+
+msgid "TIFF Documents"
+msgstr "TIFF 文档"
+
+msgid "Text License"
+msgstr "文本许可证"
+
+msgid "The URI of the directory last used to open or save a document"
+msgstr "最近用来打开或保存文档的目录 URI"
+
+msgid "The URI of the directory last used to save a picture"
+msgstr "最近用来保存图片的目录 URI"
+
+msgid "The attachment could not be saved."
+msgstr "无法保存附件。"
+
+msgid "The document contains no pages"
+msgstr "此文档不包含任何页面"
+
+msgid "The document contains only empty pages"
+msgstr "这个文档只包含空页面"
+
+msgid "The document is automatically reloaded on file change."
+msgstr "文件发生变化时自动刷新。"
+
+msgid ""
+"The document is composed of several files. One or more of these files cannot"
+" be accessed."
+msgstr "此文档由多个文件组成，而这些文件中的一个或多个无法被访问。"
+
+msgid ""
+"The document “%s” is locked and requires a password before it can be opened."
+msgstr "文档“%s”已载入，但在打开之前需要密码。"
+
+msgid "The file could not be saved as “%s”."
+msgstr "文件无法另存为“%s”。"
+
+msgid ""
+"The file “%s” already exists. Replacing it will overwrite its contents."
+msgstr "文件“%s”已存在。替换该文件将覆盖其内容。"
+
+msgid "The image could not be saved."
+msgstr "无法保存图像。"
+
+msgid ""
+"The maximum size that will be used to cache rendered pages, limits maximum "
+"zoom level."
+msgstr "将用于缓存渲染了的页面的最大大小，此会限制最大缩放级别。"
+
+msgid "The page label of the document to display."
+msgstr "要显示的文档的页标签。"
+
+msgid "The page number of the document to display."
+msgstr "要显示的文档的页编号。"
+
+msgid "The selected printer “%s” could not be found"
+msgstr "无法找到选中的打印机“%s”"
+
+msgid "The word or phrase to find in the document"
+msgstr "文档中待查找的单词或短语"
+
+msgid ""
+"There is %d print job active. Wait until print finishes before closing?"
+msgid_plural ""
+"There are %d print jobs active. Wait until print finishes before closing?"
+msgstr[0] "有 %d 项活动的打印任务。等待打印完成后再关闭吗？"
+
+msgid ""
+"This document contains non-embedded fonts that are not from the PDF Standard"
+" 14 fonts. If the substitute fonts selected by fontconfig are not the same "
+"as the fonts used to create the PDF, the rendering may not be correct."
+msgstr ""
+"该文档包含了未嵌入的字体，且字体并不是 PDF 原生支持的 14 种标准字体。如果由 fontconfig 选择的替代字体与创建 PDF "
+"时所用字体不一致，渲染可能不太正确。"
+
+msgid ""
+"This document is locked and can only be read by entering the correct "
+"password."
+msgstr "文档已被锁定，只能在输入正确的密码之后才能读取。"
+
+msgid "This work is in the Public Domain"
+msgstr "该项目在公有领域发行"
+
+msgid "Thumbnails"
+msgstr "缩略图"
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "TrueType"
+msgstr "TrueType"
+
+msgid "TrueType (CID)"
+msgstr "TrueType (CID)"
+
+msgid "Type 1"
+msgstr "Type 1"
+
+msgid "Type 1 (CID)"
+msgstr "Type 1 (CID)"
+
+msgid "Type 1C"
+msgstr "Type 1C"
+
+msgid "Type 1C (CID)"
+msgstr "Type 1C (CID)"
+
+msgid "Type 3"
+msgstr "Type 3"
+
+msgid "Unable to launch external application."
+msgstr "无法启动外部程序。"
+
+msgid "Unable to open attachment"
+msgstr "无法打开附件"
+
+msgid "Unable to open document “%s”."
+msgstr "无法打开文档“%s”。"
+
+msgid "Unable to open external link"
+msgstr "无法打开外部链接"
+
+msgid "Underline"
+msgstr "下划线"
+
+msgid "Unknown"
+msgstr "未知"
+
+msgid "Unknown MIME Type"
+msgstr "未知的 MIME 类型"
+
+msgid "Unknown font type"
+msgstr "未知字体类型"
+
+msgid "Uploading attachment (%d%%)"
+msgstr "正在上传附件 (%d%%)"
+
+msgid "Uploading document (%d%%)"
+msgstr "正在上传文档 (%d%%)"
+
+msgid "Uploading image (%d%%)"
+msgstr "上载上传图片 (%d%%)"
+
+msgid "Usage terms"
+msgstr "使用条款"
+
+msgid "View multi-page documents"
+msgstr "查看多页文档"
+
+msgid "Wait until print job “%s” finishes before closing?"
+msgstr "等待打印任务“%s”完成后再关闭吗？"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid ""
+"When enabled, each page will be printed on the same size paper as the "
+"document page."
+msgstr "当启用时，每页将打印于跟文档页面同样大小的纸张上。"
+
+msgid "XPS Documents"
+msgstr "XPS 文档"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Your print range selection does not include any pages"
+msgstr "您选择的打印范围不包括任何页面"
+
+msgid "[FILE…]"
+msgstr "[文件…]"
+
+msgid "_About Document Viewer"
+msgstr "关于文档查看器(_A)"
+
+msgid "_Apply"
+msgstr "应用(_A)"
+
+msgid "_Automatic"
+msgstr "自动(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Continuous"
+msgstr "连续(_C)"
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Copy Link Address"
+msgstr "复制链接地址(_C)"
+
+msgid "_Dual"
+msgstr "双页(_D)"
+
+msgid "_Enable"
+msgstr "启用(_E)"
+
+msgid "_Go To"
+msgstr "转到(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Keyboard Shortcuts"
+msgstr "键盘快捷键(_K)"
+
+msgid "_Next Page"
+msgstr "下一页(_N)"
+
+msgid "_No"
+msgstr "否(_N)"
+
+msgid "_Odd Pages Left"
+msgstr "奇数页在左侧(_O)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Open Attachment"
+msgstr "打开附件(_O)"
+
+msgid "_Open Bookmark"
+msgstr "打开书签(_O)"
+
+msgid "_Open Link"
+msgstr "打开链接(_O)"
+
+msgid "_Password:"
+msgstr "密码(_P)："
+
+msgid "_Previous Page"
+msgstr "上一页(_P)"
+
+msgid "_Print"
+msgstr "打印(_P)"
+
+msgid "_Reload"
+msgstr "重新载入(_R)"
+
+msgid "_Remove Bookmark"
+msgstr "移除书签(_R)"
+
+msgid "_Rename Bookmark"
+msgstr "重命名书签(_R)"
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Save"
+msgstr "保存(S)"
+
+msgid "_Save As…"
+msgstr "另存为(_S)…"
+
+msgid "_Save Attachment As…"
+msgstr "保存附件为(_S)…"
+
+msgid "_Save Image As…"
+msgstr "图像另存为(_S)…"
+
+msgid "_Unlock"
+msgstr "解锁(_U)"
+
+msgid "_Unlock Document"
+msgstr "取消文档锁定(_U)"
+
+msgid "_Whole Words Only"
+msgstr "全字匹配(_W)"
+
+msgid "default:mm"
+msgstr "default:mm"
+
+msgid "document-print-preview"
+msgstr "文件打印预览"
+
+msgid ""
+"libarchive lacks support for this comic book’s compression, please contact "
+"your distributor"
+msgstr "libarchive 缺少对此漫画书压缩算法的支持，请联系软件分发者"
+
+msgid "of %d"
+msgstr "共 %d 页"
+
+msgid "pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;viewer;"
+msgstr ""
+"pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;viewer;文档;演示;幻灯;查看器;"
+
+msgctxt "shortcut window"
+msgid "Add bookmark"
+msgstr "添加书签"
+
+msgctxt "shortcut window"
+msgid "Automatic zoom"
+msgstr "自动缩放"
+
+msgctxt "shortcut window"
+msgid "Close the current document window"
+msgstr "关闭当前文档窗口"
+
+msgctxt "shortcut window"
+msgid "Copy highlighted text"
+msgstr "复制高亮文本"
+
+msgctxt "shortcut window"
+msgid "Document view and handling"
+msgstr "文档视图和处理"
+
+msgctxt "shortcut window"
+msgid "Enter presentation mode"
+msgstr "进入放映模式"
+
+msgctxt "shortcut window"
+msgid "Finding text"
+msgstr "查找下一个"
+
+msgctxt "shortcut window"
+msgid "Fit page"
+msgstr "适合页面"
+
+msgctxt "shortcut window"
+msgid "Fit width"
+msgstr "适合宽度"
+
+msgctxt "shortcut window"
+msgid "Go to next page"
+msgstr "转到下一页"
+
+msgctxt "shortcut window"
+msgid "Go to page number"
+msgstr "转到指定页码"
+
+msgctxt "shortcut window"
+msgid "Go to previous page"
+msgstr "转到上一页"
+
+msgctxt "shortcut window"
+msgid "Go to previous/next page"
+msgstr "转到上/下一页"
+
+msgctxt "shortcut window"
+msgid "Go to previous/next page visited"
+msgstr "转到访问过的上/下一页"
+
+msgctxt "shortcut window"
+msgid "Go to the beginning of the document"
+msgstr "转到文档起始处"
+
+msgctxt "shortcut window"
+msgid "Go to the beginning/end of a page"
+msgstr "转到页面起始处/末尾处"
+
+msgctxt "shortcut window"
+msgid "Go to the end of the document"
+msgstr "转到文档末尾"
+
+msgctxt "shortcut window"
+msgid "Go to the next search result"
+msgstr "转到下一个搜索结果"
+
+msgctxt "shortcut window"
+msgid "Go to the previous search result"
+msgstr "转到上一个搜索结果"
+
+msgctxt "shortcut window"
+msgid "Move around a page"
+msgstr "在页面中导航"
+
+msgctxt "shortcut window"
+msgid "Move up/down a page several lines at a time"
+msgstr "在页面中一次性上下移动数行"
+
+msgctxt "shortcut window"
+msgid "Moving around the document"
+msgstr "在文档中导航"
+
+msgctxt "shortcut window"
+msgid "Open a copy of the current document"
+msgstr "打开当前文档的副本"
+
+msgctxt "shortcut window"
+msgid "Open a document"
+msgstr "打开文档"
+
+msgctxt "shortcut window"
+msgid "Opening, closing, saving and printing"
+msgstr "打开、关闭、保存和打印"
+
+msgctxt "shortcut window"
+msgid "Print the current document"
+msgstr "打印当前文档"
+
+msgctxt "shortcut window"
+msgid "Reload the document"
+msgstr "重新载入文档"
+
+msgctxt "shortcut window"
+msgid "Rotate the page 90 degrees clockwise"
+msgstr "顺时针旋转页面 90 度"
+
+msgctxt "shortcut window"
+msgid "Rotate the page 90 degrees counter-clockwise"
+msgstr "逆时针旋转页面 90 度"
+
+msgctxt "shortcut window"
+msgid "Rotating and zooming"
+msgstr "旋转和缩放"
+
+msgctxt "shortcut window"
+msgid "Save a copy of the current document"
+msgstr "保存当前文档的副本"
+
+msgctxt "shortcut window"
+msgid "Select all the text in a document"
+msgstr "选择文档中的所有文本"
+
+msgctxt "shortcut window"
+msgid "Selecting and copying text"
+msgstr "选择并复制文本"
+
+msgctxt "shortcut window"
+msgid "Show the search bar"
+msgstr "显示搜索栏"
+
+msgctxt "shortcut window"
+msgid "Toggle caret navigation"
+msgstr "切换插入光标导航"
+
+msgctxt "shortcut window"
+msgid "Toggle continuous scrolling"
+msgstr "切换连续滚动"
+
+msgctxt "shortcut window"
+msgid "Toggle dual page"
+msgstr "切换双页"
+
+msgctxt "shortcut window"
+msgid "Toggle fullscreen"
+msgstr "切换全屏"
+
+msgctxt "shortcut window"
+msgid "Toggle inverted colors"
+msgstr "切换反色"
+
+msgctxt "shortcut window"
+msgid "Toggle sidebar"
+msgstr "切换侧边栏"
+
+msgctxt "shortcut window"
+msgid "Touchpad gestures"
+msgstr "触摸板手势"
+
+msgctxt "shortcut window"
+msgid "Window"
+msgstr "窗口"
+
+msgctxt "shortcut window"
+msgid "Zoom 1∶1"
+msgstr "缩放 1:1"
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr "放大"
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr "缩小"
+
+msgid "translator-credits"
+msgstr ""
+"Aron Xu <happyaron.xu@gmail.com>, 2009, 2010, 2011\n"
+"樊栖江(Fan Qijiang) <fqj1994@gmail.com>, 2009\n"
+"甘露(Gan Lu) <rhythm.gan@gmail.com>, 2009\n"
+"Deng Xiyue <manphiz@gmail.com>, 2009\n"
+"杨章 <zyangmath@gmail.com>, 2010\n"
+"朱涛 <bill_zt@sina.com>, 2010\n"
+"Tao Wang <dancefire@gmail.com>, 2010\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"tuhaihe <1132321739qq@gmail.com>, 2013\n"
+"eternalhui <www.eternalhui@gmail.com>, 2013\n"
+"zhouxiaobo <zhouxiaobo.500@gmail.com>，2015\n"
+"Mingcong Bai <jeffbai@aosc.xyz>, 2017, 2018\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2017, 2018, 2019\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Aron Xu https://launchpad.net/~happyaron\n"
+"  Boyuan Yang https://launchpad.net/~hosiet\n"
+"  Carlos Gong https://launchpad.net/~bfsugxy\n"
+"  DBLobster https://launchpad.net/~db.lobster\n"
+"  Dingyuan Wang https://launchpad.net/~gumblex\n"
+"  EL8LatSPQ https://launchpad.net/~el8latspq\n"
+"  Eleanor Chen https://launchpad.net/~chenyueg\n"
+"  Funda Wang https://launchpad.net/~fundawang\n"
+"  Funda Wang https://launchpad.net/~fundawang-gmail\n"
+"  Jeff Bai https://launchpad.net/~jeffbai\n"
+"  Qishuai Liu https://launchpad.net/~lqs\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  WEI Kun https://launchpad.net/~conkty\n"
+"  Wang Dianjin https://launchpad.net/~tuhaihe\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  Xhacker Liu https://launchpad.net/~xhacker\n"
+"  Xiyue Deng https://launchpad.net/~manphiz\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  ZhangCheng https://launchpad.net/~xxzc\n"
+"  fqj1994 https://launchpad.net/~fqj1994\n"
+"  kevinchou https://launchpad.net/~kevinchou-c-gmail\n"
+"  wsxy162 https://launchpad.net/~wsxy162\n"
+"  zhangmiao https://launchpad.net/~mymzhang\n"
+"  张天鹄 https://launchpad.net/~koc\n"
+"  朱涛 https://launchpad.net/~bill-zt\n"
+"  甘露 (Lu Gan) https://launchpad.net/~rhythm-gan"
+
+msgid "© 1996–2017 The Evince authors"
+msgstr "© 1996–2017 Evince 作者"

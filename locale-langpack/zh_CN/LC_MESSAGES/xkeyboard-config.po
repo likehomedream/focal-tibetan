@@ -1,0 +1,1789 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: xkeyboard-config 2.26.99\n"
+"Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
+"PO-Revision-Date: 2020-02-29 20:58+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:21+0000\n"
+
+msgid "&lt;Less/Greater&gt;"
+msgstr "&lt;小于/大于&gt;"
+
+msgid "A4Tech KB-21"
+msgstr "A4Tech KB-21"
+
+msgid "A4Tech KBS-8"
+msgstr "A4Tech KBS-8"
+
+msgid "A4Tech Wireless Desktop RFKB-23"
+msgstr "A4Tech 无线桌面 RFKB-23"
+
+msgid "APL Keyboard Symbols: sax"
+msgstr "APL 键盘符号：sax"
+
+msgid "ATM/phone-style"
+msgstr "ATM/电话风格"
+
+msgid "Acer AirKey V"
+msgstr "Acer AirKey V"
+
+msgid "Acer C300"
+msgstr "宏碁 C300"
+
+msgid "Acer Ferrari 4000"
+msgstr "宏碁法拉利 4000"
+
+msgid "Acer laptop"
+msgstr "宏碁笔记本电脑"
+
+msgid "Add the standard behavior to Menu key"
+msgstr "将标准行为添加到菜单键"
+
+msgid "Adding currency signs to certain keys"
+msgstr "向特定键添加货币符号"
+
+msgid "Advance Scorpius KI"
+msgstr "高级 Scorpius KI"
+
+msgid "Afghani"
+msgstr "阿富汗"
+
+msgid "Akan"
+msgstr "阿肯"
+
+msgid "Albanian"
+msgstr "阿尔巴尼亚"
+
+msgid "Alt and Meta are on Alt"
+msgstr "Alt 和 Meta 都是 Alt 键"
+
+msgid "Alt is mapped to Right Win, Super to Menu"
+msgstr "Alt 键映射到右 Win，Super 映射到菜单键"
+
+msgid "Alt is swapped with Win"
+msgstr "Alt 和 Win 对换"
+
+msgid "Alt+Caps Lock"
+msgstr "Alt+Caps Lock"
+
+msgid "Alt+Ctrl"
+msgstr "Alt+Ctrl"
+
+msgid "Alt+Shift"
+msgstr "Alt+Shift"
+
+msgid "Alt+Space"
+msgstr "Alt+Space"
+
+msgid "Alt/Win key behavior"
+msgstr "Alt/Win 键行为"
+
+msgid "Amharic"
+msgstr "阿姆哈拉语"
+
+msgid "Any Alt"
+msgstr "任意 Alt"
+
+msgid "Any Win"
+msgstr "任意 Win"
+
+msgid "Any Win (while pressed)"
+msgstr "任意 Win（按下时）"
+
+msgid "Apple"
+msgstr "苹果"
+
+msgid "Apple Aluminium (ANSI)"
+msgstr "苹果铝（ANSI）"
+
+msgid "Apple Aluminium (ISO)"
+msgstr "苹果铝（ISO）"
+
+msgid "Apple Aluminium (JIS)"
+msgstr "苹果铝（JIS）"
+
+msgid "Apple laptop"
+msgstr "苹果笔记本电脑"
+
+msgid "Arabic"
+msgstr "阿拉伯语"
+
+msgid "Arabic (AZERTY)"
+msgstr "阿拉伯语（AZERTY）"
+
+msgid "Arabic (AZERTY/digits)"
+msgstr "阿拉伯语（AZERTY/数字）"
+
+msgid "Arabic (Buckwalter)"
+msgstr "阿拉伯语(Buckwalter)"
+
+msgid "Arabic (Macintosh)"
+msgstr "阿拉伯语（Mac）"
+
+msgid "Arabic (Morocco)"
+msgstr "阿拉伯语(摩洛哥)"
+
+msgid "Arabic (Pakistan)"
+msgstr "阿拉伯语（巴基斯坦）"
+
+msgid "Arabic (QWERTY)"
+msgstr "阿拉伯语（QWERTY 布局）"
+
+msgid "Arabic (Syria)"
+msgstr "阿拉伯语（叙利亚）"
+
+msgid "Arabic (digits)"
+msgstr "阿拉伯语（数字）"
+
+msgid "Arabic (qwerty/digits)"
+msgstr "阿拉伯语(qwerty/数字)"
+
+msgid "Armenian"
+msgstr "亚美尼亚语"
+
+msgid "Armenian (phonetic)"
+msgstr "亚美尼亚语(音标)"
+
+msgid "Asus laptop"
+msgstr "华硕笔记本电脑"
+
+msgid "At bottom left"
+msgstr "在左下角"
+
+msgid "At left of 'A'"
+msgstr "在“A”左侧"
+
+msgid "Azerbaijani"
+msgstr "阿塞拜疆语"
+
+msgid "Azerbaijani (Cyrillic)"
+msgstr "阿塞拜疆语(西里尔)"
+
+msgid "BTC 5090"
+msgstr "BTC 5090"
+
+msgid "BTC 5113RF Multimedia"
+msgstr "BTC 5113RF 多媒体"
+
+msgid "BTC 5126T"
+msgstr "BTC 5126T"
+
+msgid "BTC 6301URF"
+msgstr "BTC 6301URF"
+
+msgid "BTC 9000"
+msgstr "BTC 9000"
+
+msgid "BTC 9000A"
+msgstr "BTC 9000A"
+
+msgid "BTC 9001AH"
+msgstr "BTC 9001AH"
+
+msgid "BTC 9019U"
+msgstr "BTC 9019U"
+
+msgid "Backslash"
+msgstr "反斜杠"
+
+msgid "Bambara"
+msgstr "班巴拉语"
+
+msgid "Bangla"
+msgstr "孟加拉语"
+
+msgid "Bangla (India)"
+msgstr "孟加拉语（印度）"
+
+msgid "Bashkirian"
+msgstr "巴什基尔语"
+
+msgid "Belarusian"
+msgstr "白俄罗斯语"
+
+msgid "Belarusian (Latin)"
+msgstr "白俄罗斯语(拉丁)"
+
+msgid "Belarusian (legacy)"
+msgstr "白俄罗斯语(的)"
+
+msgid "Belgian"
+msgstr "比利时语"
+
+msgid "Belgian (alt.)"
+msgstr "比利时语（替代）"
+
+msgid "Belgian (alt., with Sun dead keys)"
+msgstr "比利时语（替代，带有 Sun 死键）"
+
+msgid "Belgian (no dead keys)"
+msgstr "比利时语（无死键）"
+
+msgid "Belgian (with Sun dead keys)"
+msgstr "比利时语（带有 Sun 死键）"
+
+msgid "BenQ X-Touch"
+msgstr "明基 X-Touch"
+
+msgid "BenQ X-Touch 730"
+msgstr "明基 X-Touch 730"
+
+msgid "BenQ X-Touch 800"
+msgstr "明基 X-Touch 800"
+
+msgid "Bosnian"
+msgstr "波斯尼亚语"
+
+msgid "Both Alt together"
+msgstr "同时按两个 Alt"
+
+msgid "Both Ctrl together"
+msgstr "同时按两个 Ctrl"
+
+msgid "Both Shift together"
+msgstr "同时按两个 Shift"
+
+msgid "Bulgarian"
+msgstr "保加利亚"
+
+msgid "Bulgarian (new phonetic)"
+msgstr "保加利亚(新音标)"
+
+msgid "Bulgarian (traditional phonetic)"
+msgstr "保加利亚(传统音标)"
+
+msgid "Burmese"
+msgstr "缅甸"
+
+msgid "Caps Lock"
+msgstr "大写锁定"
+
+msgid "Caps Lock as Ctrl"
+msgstr "大写锁定键作为 Ctrl"
+
+msgid "Caps Lock behavior"
+msgstr "大写锁定行为"
+
+msgid "Caps Lock is also a Ctrl"
+msgstr "大写锁定也是 Ctrl 键"
+
+msgid "Caps Lock is disabled"
+msgstr "大写锁定被禁用"
+
+msgid "Caps Lock toggles ShiftLock (affects all keys)"
+msgstr "大写锁定切换 ShiftLock（影响所有键）"
+
+msgid "Caps Lock toggles normal capitalization of alphabetic characters"
+msgstr "大写锁定切换正常的字母字符的大小写"
+
+msgid "Cherry Blue Line CyBo@rd"
+msgstr "Cherry Blue Line CyBo@rd"
+
+msgid "Chicony KB-9885"
+msgstr "Chicony KB-9885"
+
+msgid "Chicony KU-0420"
+msgstr "Chicony KU-0420"
+
+msgid "Chinese"
+msgstr "汉语"
+
+msgid "Church Slavonic"
+msgstr "教会斯拉夫语"
+
+msgid "Classmate PC"
+msgstr "Classmate PC"
+
+msgid "CloGaelach"
+msgstr "CloGaelach"
+
+msgid "Compaq Easy Access"
+msgstr "康柏 Easy Access"
+
+msgid "Compaq Internet (13 keys)"
+msgstr "康柏网际（13键）"
+
+msgid "Compaq Internet (18 keys)"
+msgstr "康柏网际（18键）"
+
+msgid "Compaq Internet (7 keys)"
+msgstr "康柏网际（7键）"
+
+msgid "Compaq iPaq"
+msgstr "康柏 iPaq"
+
+msgid "Creative Desktop Wireless 7000"
+msgstr "创新台式机无限键盘 7000"
+
+msgid "Croatian"
+msgstr "克罗地亚"
+
+msgid "Ctrl is mapped to Alt; Alt is mapped to Win"
+msgstr "Ctrl 被映射到 Alt 键；Alt 被映射到 Win 键"
+
+msgid "Ctrl position"
+msgstr "Ctrl 键位置"
+
+msgid "Ctrl+Alt+Backspace"
+msgstr "Ctrl+Alt+Backspace"
+
+msgid "Ctrl+Shift"
+msgstr "Ctrl+Shift"
+
+msgid "Czech"
+msgstr "捷克"
+
+msgid "Czech (QWERTY)"
+msgstr "捷克语（QWERTY 布局）"
+
+msgid "Czech (with &lt;\\|&gt; key)"
+msgstr "捷克(带 &lt;\\|&gt; 键)"
+
+msgid "DTK2000"
+msgstr "DTK2000"
+
+msgid "Danish"
+msgstr "丹麦语"
+
+msgid "Danish (Dvorak)"
+msgstr "丹麦语（Dvorak 布局）"
+
+msgid "Danish (Macintosh)"
+msgstr "丹麦语（Mac）"
+
+msgid "Danish (Macintosh, no dead keys)"
+msgstr "丹麦语（Mac，无死键）"
+
+msgid "Danish (Win keys)"
+msgstr "丹麦语（Win 键）"
+
+msgid "Danish (no dead keys)"
+msgstr "丹麦语（无死键）"
+
+msgid "Default numeric keypad keys"
+msgstr "默认数字小键盘键"
+
+msgid "Dell"
+msgstr "戴尔"
+
+msgid "Dell 101-key PC"
+msgstr "Dell 101 键电脑"
+
+msgid "Dell Latitude laptop"
+msgstr "戴尔 Latitude 笔记本电脑"
+
+msgid "Dell Precision M65 laptop"
+msgstr "戴尔 Precision M65 笔记本电脑"
+
+msgid "Dell SK-8125"
+msgstr "Dell SK-8125"
+
+msgid "Dell SK-8135"
+msgstr "Dell SK-8135"
+
+msgid "Dell USB Multimedia"
+msgstr "戴尔 USB 多媒体"
+
+msgid "Dhivehi"
+msgstr "迪维希语"
+
+msgid "Dutch"
+msgstr "荷兰语"
+
+msgid "Dutch (Macintosh)"
+msgstr "荷兰语（Mac）"
+
+msgid "Dutch (standard)"
+msgstr "荷兰（标准）"
+
+msgid "Dutch (with Sun dead keys)"
+msgstr "荷兰语（Sun 死键）"
+
+msgid "Dzongkha"
+msgstr "宗喀语"
+
+msgid "English (Cameroon)"
+msgstr "英语（喀麦隆）"
+
+msgid "English (Canada)"
+msgstr "英语（加拿大）"
+
+msgid "English (Colemak)"
+msgstr "英语（阔码键盘）"
+
+msgid "English (Dvorak)"
+msgstr "英语（Dvorak 布局）"
+
+msgid "English (Dvorak, alt. intl.)"
+msgstr "英语（Dvorak 布局，替代，国际）"
+
+msgid "English (Dvorak, intl., with dead keys)"
+msgstr "英语（Dvorak 布局，国际，带死键）"
+
+msgid "English (Dvorak, left-handed)"
+msgstr "英语（左手 Dvorak 布局）"
+
+msgid "English (Dvorak, right-handed)"
+msgstr "英语（右手 Dvorak 布局）"
+
+msgid "English (Macintosh)"
+msgstr "英语(Macintosh)"
+
+msgid "English (Nigeria)"
+msgstr "英语(尼日利亚)"
+
+msgid "English (South Africa)"
+msgstr "英语(南非)"
+
+msgid "English (UK)"
+msgstr "英语（英国）"
+
+msgid "English (UK, Colemak)"
+msgstr "英语（英国，阔码布局）"
+
+msgid "English (UK, Dvorak)"
+msgstr "英语（英国，Dvorak 布局）"
+
+msgid "English (UK, Dvorak, with UK punctuation)"
+msgstr "英语（英国，Mac 带英国标点的 Dvorak 布局）"
+
+msgid "English (UK, Macintosh)"
+msgstr "英语（英国，Mac）"
+
+msgid "English (UK, extended, with Win keys)"
+msgstr "英语（英国，扩展，带 Win 键）"
+
+msgid "English (UK, intl., Macintosh)"
+msgstr "英语（英国，国际布局，Mac）"
+
+msgid "English (UK, intl., with dead keys)"
+msgstr "英语（英国，带死键的国际布局）"
+
+msgid "English (US)"
+msgstr "英语（美国）"
+
+msgid "English (classic Dvorak)"
+msgstr "英语（经典 Dvorak 布局）"
+
+msgid "English (programmer Dvorak)"
+msgstr "英语（适合程序员的 Dvorak 布局）"
+
+msgid "Ennyah DKB-1008"
+msgstr "Ennyah DKB-1008"
+
+msgid "Enter on keypad"
+msgstr "小键盘上的回车"
+
+msgid "Esperanto"
+msgstr "世界语"
+
+msgid "Estonian"
+msgstr "爱沙尼亚"
+
+msgid "Estonian (Dvorak)"
+msgstr "爱沙尼亚语（Dvorak）"
+
+msgid "Estonian (no dead keys)"
+msgstr "爱沙尼亚语（无死键）"
+
+msgid "Euro on 2"
+msgstr "欧元符号在 2 键上"
+
+msgid "Euro on 4"
+msgstr "欧元符号在 4 键上"
+
+msgid "Euro on 5"
+msgstr "欧元符号在 5 键上"
+
+msgid "Euro on E"
+msgstr "欧元符号在 E 键上"
+
+msgid "Everex STEPnote"
+msgstr "Everex STEPnote"
+
+msgid "Ewe"
+msgstr "Ewe"
+
+msgid "FL90"
+msgstr "FL90"
+
+msgid "Faroese"
+msgstr "法罗语"
+
+msgid "Faroese (no dead keys)"
+msgstr "法罗语（无死键）"
+
+msgid "Filipino"
+msgstr "菲律宾语"
+
+msgid "Finnish"
+msgstr "芬兰语"
+
+msgid "Finnish (Macintosh)"
+msgstr "芬兰语(Mac)"
+
+msgid "Finnish (Winkeys)"
+msgstr "芬兰语（Winkeys）"
+
+msgid "Finnish (classic)"
+msgstr "芬兰语（经典）"
+
+msgid "Finnish (classic, no dead keys)"
+msgstr "芬兰语（经典，无死键）"
+
+msgid "French"
+msgstr "法语"
+
+msgid "French (Cameroon)"
+msgstr "法语（喀麦隆）"
+
+msgid "French (Canada)"
+msgstr "法语(加拿大)"
+
+msgid "French (Canada, Dvorak)"
+msgstr "法语(加拿大，Dvorak)"
+
+msgid "French (Canada, legacy)"
+msgstr "法语(加拿大，传统)"
+
+msgid "French (Democratic Republic of the Congo)"
+msgstr "法语(刚果民主共和国，刚果(金))"
+
+msgid "French (Dvorak)"
+msgstr "法语(Dvorak)"
+
+msgid "French (Guinea)"
+msgstr "法语（几内亚）"
+
+msgid "French (Mali, alt.)"
+msgstr "法语（马里，替代）"
+
+msgid "French (Morocco)"
+msgstr "法语(摩洛哥)"
+
+msgid "French (Switzerland)"
+msgstr "法语（瑞士）"
+
+msgid "French (Switzerland, Macintosh)"
+msgstr "法语（瑞士，Mac）"
+
+msgid "French (Switzerland, no dead keys)"
+msgstr "法语（瑞士，无死键）"
+
+msgid "French (Switzerland, with Sun dead keys)"
+msgstr "法语（瑞士，Sun 死键）"
+
+msgid "French (alt.)"
+msgstr "法语（替代）"
+
+msgid "French (no dead keys)"
+msgstr "法语（无死键）"
+
+msgid "French (with Sun dead keys)"
+msgstr "法语（带 Sun 死键）"
+
+msgid "Fula"
+msgstr "富拉尼语式"
+
+msgid "Ga"
+msgstr "加纳式"
+
+msgid "Generic 101-key PC"
+msgstr "通用 101 键电脑"
+
+msgid "Generic 102-key PC (intl.)"
+msgstr "通用 102 键（国际）电脑"
+
+msgid "Generic 104-key PC"
+msgstr "通用 104 键电脑"
+
+msgid "Generic 105-key PC (intl.)"
+msgstr "通用 105 键（国际）电脑"
+
+msgid "Genius Comfy KB-12e"
+msgstr "通用 Comfy KB-12e"
+
+msgid "Georgian (Italy)"
+msgstr "格鲁吉亚语（意大利）"
+
+msgid "German"
+msgstr "德语"
+
+msgid "German (Austria)"
+msgstr "德语(奥地利)"
+
+msgid "German (Dvorak)"
+msgstr "德语（Dvorak）"
+
+msgid "German (Macintosh)"
+msgstr "德语（Mac）"
+
+msgid "German (Macintosh, no dead keys)"
+msgstr "德语（Mac，无死键）"
+
+msgid "German (Neo qwerty)"
+msgstr "德语（Neo qwerty 布局）"
+
+msgid "German (Neo qwertz)"
+msgstr "德语（Neo qwertz 布局）"
+
+msgid "German (Switzerland)"
+msgstr "德语（瑞士）"
+
+msgid "German (Switzerland, Macintosh)"
+msgstr "德语（瑞士，Mac）"
+
+msgid "German (Switzerland, legacy)"
+msgstr "德语（瑞士，传统）"
+
+msgid "German (Switzerland, no dead keys)"
+msgstr "德语（瑞士，无死键）"
+
+msgid "German (Switzerland, with Sun dead keys)"
+msgstr "德语（瑞士，Sun 死键）"
+
+msgid "German (US, with German letters)"
+msgstr "德语（带德语字母的美式键盘）"
+
+msgid "German (with Sun dead keys)"
+msgstr "德语（带 Sun 死键）"
+
+msgid "Greek"
+msgstr "希腊语"
+
+msgid "Greek (Colemak)"
+msgstr "希腊语（阔码键盘）"
+
+msgid "Greek (extended)"
+msgstr "希腊语(扩展)"
+
+msgid "Greek (no dead keys)"
+msgstr "希腊语（无死键）"
+
+msgid "Gujarati"
+msgstr "古吉拉特"
+
+msgid "Hanyu Pinyin (altgr)"
+msgstr "汉语拼音（altgr）"
+
+msgid "Hebrew"
+msgstr "希伯来语"
+
+msgid "Hewlett-Packard Internet"
+msgstr "惠普网际"
+
+msgid "Hewlett-Packard Mini 110 laptop"
+msgstr "惠普 Mini 110 笔记本电脑"
+
+msgid "Hewlett-Packard NEC SK-2500 Multimedia"
+msgstr "惠普 SK-250x 多媒体"
+
+msgid "Hewlett-Packard Omnibook 500"
+msgstr "惠普 Omnibook 500"
+
+msgid "Hewlett-Packard Omnibook 500 FA"
+msgstr "惠普 Omnibook 500 FA"
+
+msgid "Hewlett-Packard Omnibook 6000/6100"
+msgstr "惠普 Omnibook 6000/6100"
+
+msgid "Hewlett-Packard Omnibook XE3 GC"
+msgstr "惠普 Omnibook XE3 GC"
+
+msgid "Hewlett-Packard Omnibook XE3 GF"
+msgstr "惠普 Omnibook XE3 CF"
+
+msgid "Hewlett-Packard Omnibook XT1000"
+msgstr "惠普 Omnibook XT1000"
+
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr "惠普 Pavilion ZT1100"
+
+msgid "Hewlett-Packard Pavilion dv5"
+msgstr "惠普 Pavilion dv5"
+
+msgid "Hewlett-Packard nx9020"
+msgstr "惠普 nx9020"
+
+msgid "Hexadecimal"
+msgstr "十六进制"
+
+msgid "Honeywell Euroboard"
+msgstr "Honeywell 欧洲键盘"
+
+msgid "Hungarian"
+msgstr "匈牙利语"
+
+msgid "Hungarian (standard)"
+msgstr "匈牙利语（标准）"
+
+msgid "Hyper is mapped to Win"
+msgstr "Hyper 被映射到 Win 键"
+
+msgid "IBM Rapid Access"
+msgstr "IBM Rapid Access"
+
+msgid "IBM Rapid Access II"
+msgstr "IBM Rapid Access II"
+
+msgid "IBM ThinkPad 560Z/600/600E/A22E"
+msgstr "IBM ThinkPad 560Z/600/600E/A22E"
+
+msgid "IBM ThinkPad R60/T60/R61/T61"
+msgstr "IBM ThinkPad R60/T60/R61/T61"
+
+msgid "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+msgstr "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+
+msgid "Icelandic"
+msgstr "冰岛"
+
+msgid "Icelandic (Dvorak)"
+msgstr "冰岛语（Dvorak 布局）"
+
+msgid "Igbo"
+msgstr "伊博语"
+
+msgid "Indian"
+msgstr "印地语"
+
+msgid "International Phonetic Alphabet"
+msgstr "国际音标"
+
+msgid "Inuktitut"
+msgstr "因纽特语"
+
+msgid "Iraqi"
+msgstr "伊拉克"
+
+msgid "Irish"
+msgstr "爱尔兰"
+
+msgid "Italian"
+msgstr "意大利语"
+
+msgid "Italian (IBM 142)"
+msgstr "意大利语（IBM 142）"
+
+msgid "Italian (Macintosh)"
+msgstr "意大利语（Mac）"
+
+msgid "Italian (US, with Italian letters)"
+msgstr "意大利语（带意大利语字母的美国键盘）"
+
+msgid "Italian (Winkeys)"
+msgstr "意大利语（Win 键）"
+
+msgid "Italian (intl., with dead keys)"
+msgstr "意大利语（国际，带死键）"
+
+msgid "Italian (no dead keys)"
+msgstr "意大利语（无死键）"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "Japanese (Dvorak)"
+msgstr "日语（Dvorak 布局）"
+
+msgid "Japanese (Macintosh)"
+msgstr "日语（Mac）"
+
+msgid "Japanese (PC-98)"
+msgstr "日语（PC-98 系列）"
+
+msgid "Japanese keyboard options"
+msgstr "日语键盘选项"
+
+msgid "Kannada"
+msgstr "埃纳德"
+
+msgid "Kazakh"
+msgstr "哈萨克语"
+
+msgid "Key sequence to kill the X server"
+msgstr "杀死 X 服务器的按键序列"
+
+msgid "Keytronic FlexPro"
+msgstr "Keytronic FlexPro"
+
+msgid "Kinesis"
+msgstr "Kinesis"
+
+msgid "Korean"
+msgstr "朝鲜语"
+
+msgid "Korean (101/104 key compatible)"
+msgstr "朝鲜语(兼容 101/104 键)"
+
+msgid "Korean Hangul/Hanja keys"
+msgstr "韩语谚文/汉字键"
+
+msgid "Kurdish (Iran, Arabic-Latin)"
+msgstr "库尔德语(伊朗，阿拉伯-拉丁)"
+
+msgid "Kurdish (Iran, F)"
+msgstr "库尔德语(伊朗，F)"
+
+msgid "Kurdish (Iran, Latin Alt-Q)"
+msgstr "库尔德语（伊朗，拉丁 Alt-Q）"
+
+msgid "Kurdish (Iran, Latin Q)"
+msgstr "库尔德语(伊朗，拉丁 Q)"
+
+msgid "Kurdish (Iraq, Arabic-Latin)"
+msgstr "库尔德语(伊拉克，阿拉伯-拉丁)"
+
+msgid "Kurdish (Iraq, F)"
+msgstr "库尔德语(伊拉克，F)"
+
+msgid "Kurdish (Iraq, Latin Alt-Q)"
+msgstr "库尔德语(伊拉克，拉丁 Alt-Q)"
+
+msgid "Kurdish (Iraq, Latin Q)"
+msgstr "库尔德语(伊拉克，拉丁 Q)"
+
+msgid "Kurdish (Syria, F)"
+msgstr "库尔德语(叙利亚，F)"
+
+msgid "Kurdish (Syria, Latin Alt-Q)"
+msgstr "库尔德语(叙利亚，拉丁 Alt-Q)"
+
+msgid "Kurdish (Syria, Latin Q)"
+msgstr "库尔德语(叙利亚，拉丁 Q)"
+
+msgid "Kurdish (Turkey, F)"
+msgstr "库尔德语(土耳其，F)"
+
+msgid "Kurdish (Turkey, Latin Alt-Q)"
+msgstr "库尔德语(土耳其，拉丁 Alt-Q)"
+
+msgid "Kurdish (Turkey, Latin Q)"
+msgstr "库尔德语(土耳其，拉丁 Q)"
+
+msgid "Kyrgyz"
+msgstr "柯尔克孜语(吉尔吉斯语)"
+
+msgid "Kyrgyz (phonetic)"
+msgstr "柯尔克孜语(吉尔吉斯语，音标)"
+
+msgid "Lao"
+msgstr "老挝语(寮语)"
+
+msgid "Latvian"
+msgstr "拉脱维亚"
+
+msgid "Layout of numeric keypad"
+msgstr "数字小键盘布局"
+
+msgid "Left Alt"
+msgstr "左 Alt"
+
+msgid "Left Alt (while pressed)"
+msgstr "左 Alt（按下时）"
+
+msgid "Left Alt is swapped with Left Win"
+msgstr "左 Alt 和左 Win 对换"
+
+msgid "Left Alt+Left Shift"
+msgstr "左 Alt+左 Shift"
+
+msgid "Left Ctrl"
+msgstr "左 Ctrl"
+
+msgid "Left Ctrl as Meta"
+msgstr "左 Ctrl 作为 Meta"
+
+msgid "Left Ctrl+Left Shift"
+msgstr "左 Ctrl+左 Shift"
+
+msgid "Left Ctrl+Left Win"
+msgstr "左 Ctrl+左 Win"
+
+msgid "Left Shift"
+msgstr "左 Shift"
+
+msgid "Left Win"
+msgstr "左 Win"
+
+msgid "Left Win (while pressed)"
+msgstr "左 Win（按下时）"
+
+msgid "Legacy"
+msgstr "传统"
+
+msgid "Legacy Wang 724"
+msgstr "传统王安 724"
+
+msgid "Lithuanian"
+msgstr "立陶宛语"
+
+msgid "Lithuanian (IBM LST 1205-92)"
+msgstr "立陶宛语 (IBM LST 1205-92)"
+
+msgid "Lithuanian (LEKP)"
+msgstr "立陶宛语 (LEKP)"
+
+msgid "Lithuanian (LEKPa)"
+msgstr "立陶宛语 (LEKPa)"
+
+msgid "Lithuanian (standard)"
+msgstr "立陶宛语(标准)"
+
+msgid "Logitech"
+msgstr "罗技"
+
+msgid "Logitech Cordless Desktop"
+msgstr "罗技无影手"
+
+msgid "Logitech Cordless Desktop EX110"
+msgstr "罗技无影手 EX110"
+
+msgid "Logitech Cordless Desktop LX-300"
+msgstr "罗技无影手 LX-300"
+
+msgid "Logitech Cordless Desktop Navigator"
+msgstr "罗技无影手桌面导航器"
+
+msgid "Logitech Cordless Desktop Optical"
+msgstr "罗技无影手光学组合"
+
+msgid "Logitech Cordless Desktop iTouch"
+msgstr "罗技网际无影手 iTouch"
+
+msgid "Logitech Cordless Freedom/Desktop Navigator"
+msgstr "罗技极光无影手组合/桌面导航器"
+
+msgid "Logitech Internet 350"
+msgstr "罗技网际 350"
+
+msgid "Logitech iTouch"
+msgstr "罗技 iTouch"
+
+msgid "MacBook/MacBook Pro"
+msgstr "MacBook/MacBook Pro"
+
+msgid "Macedonian"
+msgstr "马其顿语"
+
+msgid "Macintosh"
+msgstr "Macintosh"
+
+msgid "Macintosh Old"
+msgstr "传统 Macintosh"
+
+msgid "Maintain key compatibility with old Solaris keycodes"
+msgstr "维持与旧的 Solaris keycodes 的键盘兼容性"
+
+msgid "Make Caps Lock an additional Backspace"
+msgstr "将 CapsLock 作为额外的 Backspace"
+
+msgid "Make Caps Lock an additional Esc"
+msgstr "将 CapsLock 作为额外的 Esc 键"
+
+msgid "Make Caps Lock an additional Hyper"
+msgstr "将 CapsLock 作为额外的 Hyper"
+
+msgid "Make Caps Lock an additional Menu key"
+msgstr "将 CapsLock 作为额外的 Menu 键"
+
+msgid "Make Caps Lock an additional Num Lock"
+msgstr "将 CapsLock 作为额外的 Num Lock"
+
+msgid "Make Caps Lock an additional Super"
+msgstr "将 CapsLock 作为额外的 Super"
+
+msgid "Malayalam"
+msgstr "马来西亚"
+
+msgid "Maltese"
+msgstr "马耳他语"
+
+msgid "Maltese (with US layout)"
+msgstr "马耳他语(美国布局)"
+
+msgid "Memorex MX1998"
+msgstr "Memorex MX1998"
+
+msgid "Memorex MX2750"
+msgstr "Memorex MX2750"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Menu (while pressed), Shift+Menu for Menu"
+msgstr "菜单（按下时），Shift+Menu 作为菜单键"
+
+msgid "Menu as Right Ctrl"
+msgstr "菜单键作为右 Ctrl"
+
+msgid "Meta is mapped to Left Win"
+msgstr "Meta 被映射到左 Win 键"
+
+msgid "Meta is mapped to Win"
+msgstr "Meta 被映射到 Win 键"
+
+msgid "Microsoft Internet"
+msgstr "微软网际"
+
+msgid "Microsoft Natural"
+msgstr "微软自然键盘"
+
+msgid "Microsoft Office Keyboard"
+msgstr "微软 Office 键盘"
+
+msgid "Miscellaneous compatibility options"
+msgstr "其它兼容选项"
+
+msgid "Moldavian"
+msgstr "摩尔多瓦语"
+
+msgid "Mongolian"
+msgstr "蒙古"
+
+msgid "Montenegrin"
+msgstr "黑山语"
+
+msgid "Montenegrin (Cyrillic)"
+msgstr "黑山语(西里尔)"
+
+msgid "Nepali"
+msgstr "尼泊尔语"
+
+msgid "Non-breaking space at the 2nd level"
+msgstr "第二层上为不可打断空白字符"
+
+msgid "Non-breaking space at the 3rd level"
+msgstr "第三层上为不可打断空白字符"
+
+msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr "第三层上为不可打断空白字符，第四层上无效果"
+
+msgid ""
+"Non-breaking space at the 3rd level, thin non-breaking space at the 4th "
+"level"
+msgstr "第三层上为不可打断空白字符，第四层上为短不可打断空白字符"
+
+msgid "Non-breaking space at the 4th level"
+msgstr "第四层上为不可打断空白字符"
+
+msgid "Northgate OmniKey 101"
+msgstr "Northgate OmniKey 101"
+
+msgid "Norwegian"
+msgstr "挪威语"
+
+msgid "Norwegian (Dvorak)"
+msgstr "挪威语(Dvorak)"
+
+msgid "Norwegian (Macintosh)"
+msgstr "挪威语(Mac)"
+
+msgid "Num Lock"
+msgstr "数字锁定"
+
+msgid "Numeric keypad Delete behavior"
+msgstr "数字小键盘上删除键的行为"
+
+msgid "Numeric keypad always enters digits (as in macOS)"
+msgstr "数字小键盘总是输入数字（类似 macOS）"
+
+msgid "OLPC"
+msgstr "OLPC"
+
+msgid "Ogham"
+msgstr "欧甘"
+
+msgid "Old Hungarian"
+msgstr "旧匈牙利语"
+
+msgid "Oriya"
+msgstr "Oriya"
+
+msgid "PC-98"
+msgstr "PC-98"
+
+msgid "Parentheses position"
+msgstr "圆括号位置"
+
+msgid "Pashto"
+msgstr "普什图语"
+
+msgid "Pashto (Afghanistan, OLPC)"
+msgstr "普什图语（阿富汗，OLPC）"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Persian"
+msgstr "波斯语"
+
+msgid "Persian (Afghanistan, Dari OLPC)"
+msgstr "波斯语（阿富汗，Dari OLPC）"
+
+msgid "Persian (with Persian keypad)"
+msgstr "波斯语（带波斯键盘）"
+
+msgid "Polish"
+msgstr "波兰语"
+
+msgid "Polish (Dvorak)"
+msgstr "波兰语（Dvorak 布局）"
+
+msgid "Polish (Germany, no dead keys)"
+msgstr "波兰语（德国，无死键）"
+
+msgid "Polish (QWERTZ)"
+msgstr "波兰语（QWERTZ 布局）"
+
+msgid "Polish (legacy)"
+msgstr "瑞士语（传统）"
+
+msgid "Polish (programmer Dvorak)"
+msgstr "波兰语(适合程序员的Dvorak)"
+
+msgid "Portuguese"
+msgstr "葡萄牙语"
+
+msgid "Portuguese (Brazil)"
+msgstr "葡萄牙(巴西)"
+
+msgid "Portuguese (Brazil, Dvorak)"
+msgstr "葡萄牙语(巴西，Dvorak)"
+
+msgid "Portuguese (Macintosh)"
+msgstr "葡萄牙语（Mac）"
+
+msgid "Portuguese (Macintosh, no dead keys)"
+msgstr "葡萄牙语（Mac，无死键）"
+
+msgid "Portuguese (Macintosh, with Sun dead keys)"
+msgstr "葡萄牙语（Mac，Sun 死键）"
+
+msgid "Portuguese (no dead keys)"
+msgstr "葡萄牙语（无死键）"
+
+msgid "Portuguese (with Sun dead keys)"
+msgstr "葡萄牙语（Sun 死键）"
+
+msgid "Position of Compose key"
+msgstr "Compose 键的位置"
+
+msgid "PrtSc"
+msgstr "截屏"
+
+msgid "QTronix Scorpius 98N+"
+msgstr "QTronix Scorpius 98N+"
+
+msgid "Right Alt"
+msgstr "右 Alt"
+
+msgid "Right Alt (while pressed)"
+msgstr "右 Alt（按下时）"
+
+msgid "Right Ctrl"
+msgstr "右 Ctrl"
+
+msgid "Right Ctrl (while pressed)"
+msgstr "右 Ctrl（按下时）"
+
+msgid "Right Ctrl as Right Alt"
+msgstr "右 Ctrl 作为 Alt"
+
+msgid "Right Ctrl+Right Shift"
+msgstr "右 Ctrl+右 Shift"
+
+msgid "Right Shift"
+msgstr "右 Shift"
+
+msgid "Right Win"
+msgstr "右 Win"
+
+msgid "Romanian"
+msgstr "罗马尼亚语"
+
+msgid "Romanian (Germany)"
+msgstr "罗马尼亚语（德国）"
+
+msgid "Romanian (Germany, no dead keys)"
+msgstr "罗马尼亚语（德国，无死键）"
+
+msgid "Romanian (Win keys)"
+msgstr "罗马尼亚语（Win 键）"
+
+msgid "Romanian (standard)"
+msgstr "罗马尼亚语(标准)"
+
+msgid "Russian"
+msgstr "俄语"
+
+msgid "Russian (Czech, phonetic)"
+msgstr "俄语（捷克，音标）"
+
+msgid "Russian (DOS)"
+msgstr "俄语（DOS）"
+
+msgid "Russian (Macintosh)"
+msgstr "俄语（Mac）"
+
+msgid "Russian (Sweden, phonetic)"
+msgstr "俄语（瑞典，音标）"
+
+msgid "Russian (Sweden, phonetic, no dead keys)"
+msgstr "俄语（瑞典，音标，无死键）"
+
+msgid "Russian (legacy)"
+msgstr "俄语(传统)"
+
+msgid "Russian (phonetic, Dvorak)"
+msgstr "亚美尼亚语（音标，Dvorak 布局）"
+
+msgid "Russian (typewriter)"
+msgstr "俄语(打字机)"
+
+msgid "Russian (typewriter, legacy)"
+msgstr "俄语(打字机，传统)"
+
+msgid "SVEN Ergonomic 2500"
+msgstr "SVEN Ergonomic 2500"
+
+msgid "SVEN Slim 303"
+msgstr "SVEN Slim 303"
+
+msgid "Samsung SDM 4500P"
+msgstr "三星 SDM 4500P"
+
+msgid "Samsung SDM 4510P"
+msgstr "三星 SDM 4510P"
+
+msgid "Scroll Lock"
+msgstr "滚动锁定"
+
+msgid "Semicolon on third level"
+msgstr "第三层上的分号"
+
+msgid "Serbian"
+msgstr "塞尔维亚语"
+
+msgid "Serbian (Latin)"
+msgstr "塞尔维亚语（拉丁）"
+
+msgid "Serbian (Latin, QWERTY)"
+msgstr "塞尔维亚（拉丁，QWERTY 布局）"
+
+msgid "Serbian (Latin, Unicode)"
+msgstr "塞尔维亚语（拉丁，Unicode）"
+
+msgid "Serbian (Latin, Unicode, QWERTY)"
+msgstr "塞尔维亚（拉丁，Unicode，QWERTY 布局）"
+
+msgid "Serbian (Russia)"
+msgstr "塞尔维亚语（俄罗斯）"
+
+msgid "Serbo-Croatian (US)"
+msgstr "塞尔维亚-克罗地亚语(美国键盘)"
+
+msgid "Shift cancels Caps Lock"
+msgstr "Shift 取消大写锁定"
+
+msgid "Shift+Caps Lock"
+msgstr "Shift+Caps Lock"
+
+msgid "Sindhi"
+msgstr "信德语"
+
+msgid "Slovak"
+msgstr "斯洛伐克语"
+
+msgid "Spanish"
+msgstr "西班牙"
+
+msgid "Spanish (Dvorak)"
+msgstr "西班牙语（Dvorak 布局）"
+
+msgid "Spanish (Latin American)"
+msgstr "西班牙语(拉丁美洲)"
+
+msgid "Spanish (Macintosh)"
+msgstr "西班牙语(Mac)"
+
+msgid "Spanish (no dead keys)"
+msgstr "西班牙语（无死键）"
+
+msgid "Spanish (with Sun dead keys)"
+msgstr "西班牙语（Sun 死键）"
+
+msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
+msgstr "服务器处理的特殊键（Ctrl+Alt+&lt;key&gt;）"
+
+msgid "Sun Key compatibility"
+msgstr "Sun 键盘兼容性"
+
+msgid "Swahili (Tanzania)"
+msgstr "斯瓦希里语（坦桑尼亚）"
+
+msgid "Swap Ctrl and Caps Lock"
+msgstr "交换 Ctrl 和大写锁定"
+
+msgid "Swap ESC and Caps Lock"
+msgstr "交换 ESC 和大写锁定"
+
+msgid "Swap Left Alt with Left Ctrl"
+msgstr "左 Alt 和左 Ctrl 对换"
+
+msgid "Swedish"
+msgstr "瑞典语"
+
+msgid "Swedish (Dvorak)"
+msgstr "瑞典语（Dvorak）"
+
+msgid "Swedish (Macintosh)"
+msgstr "瑞典语(Mac)"
+
+msgid "Swedish (no dead keys)"
+msgstr "瑞典语（无死键）"
+
+msgid "Switching to another layout"
+msgstr "切换至其它布局"
+
+msgid "Syriac"
+msgstr "叙利亚语"
+
+msgid "Syriac (phonetic)"
+msgstr "叙利亚语(音标)"
+
+msgid "Taiwanese"
+msgstr "台湾"
+
+msgid "Taiwanese (indigenous)"
+msgstr "台湾原住民语言"
+
+msgid "Tajik"
+msgstr "塔吉克"
+
+msgid "Telugu"
+msgstr "泰卢固"
+
+msgid "Thai"
+msgstr "泰语"
+
+msgid "Thai (Pattachote)"
+msgstr "泰语(Pattachote)"
+
+msgid "Thai (TIS-820.2538)"
+msgstr "泰语(TIS-820.2538)"
+
+msgid "Tibetan"
+msgstr "藏语"
+
+msgid "Tibetan (with ASCII numerals)"
+msgstr "藏语（带有 ASCII 数字）"
+
+msgid "Toshiba Satellite S3000"
+msgstr "东芝 Satellite S3000"
+
+msgid "Trust Wireless Classic"
+msgstr "Trust 无线经典"
+
+msgid "Turkish"
+msgstr "土耳其"
+
+msgid "Turkish (Alt-Q)"
+msgstr "土耳其(Alt-Q)"
+
+msgid "Turkish (F)"
+msgstr "土耳其(F)"
+
+msgid "Turkish (Germany)"
+msgstr "土耳其语（德国）"
+
+msgid "Turkish (intl., with dead keys)"
+msgstr "土耳其语（国际，带死键）"
+
+msgid "Turkish (with Sun dead keys)"
+msgstr "土耳其语（Sun 死键）"
+
+msgid "Ukrainian"
+msgstr "乌克兰语"
+
+msgid "Ukrainian (Win keys)"
+msgstr "乌克兰语（Win 键）"
+
+msgid "Ukrainian (legacy)"
+msgstr "乌克兰语（传统）"
+
+msgid "Ukrainian (phonetic)"
+msgstr "乌克兰语（音标）"
+
+msgid "Ukrainian (typewriter)"
+msgstr "乌克兰语（打字机）"
+
+msgid "Unicode additions (arrows and math operators)"
+msgstr "Unicode 扩展(箭头和数学操作符)"
+
+msgid "Urdu (Pakistan)"
+msgstr "乌尔都语（巴基斯坦）"
+
+msgid "Urdu (phonetic)"
+msgstr "乌尔都语(音标)"
+
+msgid "Use keyboard LED to show alternative layout"
+msgstr "使用键盘灯显示替代布局"
+
+msgid "Using space key to input non-breaking space"
+msgstr "使用空格键输入不可中断空白"
+
+msgid "Usual space at any level"
+msgstr "任何层上为通常空格"
+
+msgid "Uyghur"
+msgstr "维吾尔语"
+
+msgid "Uzbek"
+msgstr "乌兹别克语"
+
+msgid "Uzbek (Afghanistan)"
+msgstr "乌兹别克语（阿富汗）"
+
+msgid "Uzbek (Afghanistan, OLPC)"
+msgstr "乌兹别克语(阿富汗，OLPC)"
+
+msgid "Uzbek (Latin)"
+msgstr "乌兹别克语(拉丁)"
+
+msgid "Vietnamese"
+msgstr "越南语"
+
+msgid "Vietnamese (AÐERTY)"
+msgstr "越南语（AÐERTY）"
+
+msgid "Vietnamese (QĐERTY)"
+msgstr "越南语（QĐERTY）"
+
+msgid "Win+Space"
+msgstr "Win+Space"
+
+msgid "Winbook Model XP5"
+msgstr "Winbook Model XP5"
+
+msgid "Yahoo! Internet"
+msgstr "雅虎网际"
+
+msgid "ak"
+msgstr "ak"
+
+msgid "am"
+msgstr "am"
+
+msgid "apl"
+msgstr "apl"
+
+msgid "ar"
+msgstr "ar"
+
+msgid "avn"
+msgstr "avn"
+
+msgid "az"
+msgstr "az"
+
+msgid "be"
+msgstr "be"
+
+msgid "ber"
+msgstr "ber"
+
+msgid "bg"
+msgstr "bg"
+
+msgid "bm"
+msgstr "bm"
+
+msgid "bn"
+msgstr "bn"
+
+msgid "brl"
+msgstr "brl"
+
+msgid "bs"
+msgstr "bs"
+
+msgid "ca"
+msgstr "ca"
+
+msgid "chr"
+msgstr "chr"
+
+msgid "crh"
+msgstr "crh"
+
+msgid "cs"
+msgstr "cs"
+
+msgid "da"
+msgstr "da"
+
+msgid "de"
+msgstr "de"
+
+msgid "dv"
+msgstr "dv"
+
+msgid "dz"
+msgstr "dz"
+
+msgid "ee"
+msgstr "ee"
+
+msgid "en"
+msgstr "en"
+
+msgid "eo"
+msgstr "eo"
+
+msgid "es"
+msgstr "es"
+
+msgid "et"
+msgstr "et"
+
+msgid "eu"
+msgstr "eu"
+
+msgid "fa"
+msgstr "fa"
+
+msgid "ff"
+msgstr "ff"
+
+msgid "fi"
+msgstr "fi"
+
+msgid "fo"
+msgstr "fo"
+
+msgid "fr"
+msgstr "fr"
+
+msgid "fr-tg"
+msgstr "fr-tg"
+
+msgid "gaa"
+msgstr "gaa"
+
+msgid "gr"
+msgstr "gr"
+
+msgid "gu"
+msgstr "gu"
+
+msgid "ha"
+msgstr "ha"
+
+msgid "he"
+msgstr "he"
+
+msgid "hi"
+msgstr "hi"
+
+msgid "hr"
+msgstr "hr"
+
+msgid "hu"
+msgstr "hu"
+
+msgid "hy"
+msgstr "hy"
+
+msgid "ie"
+msgstr "ie"
+
+msgid "ig"
+msgstr "ig"
+
+msgid "ike"
+msgstr "ike"
+
+msgid "in"
+msgstr "in"
+
+msgid "is"
+msgstr "is"
+
+msgid "it"
+msgstr "it"
+
+msgid "ja"
+msgstr "ja"
+
+msgid "ka"
+msgstr "ka"
+
+msgid "ki"
+msgstr "ki"
+
+msgid "kk"
+msgstr "kk"
+
+msgid "km"
+msgstr "km"
+
+msgid "kn"
+msgstr "kn"
+
+msgid "ko"
+msgstr "ko"
+
+msgid "ku"
+msgstr "ku"
+
+msgid "kut"
+msgstr "kut"
+
+msgid "lo"
+msgstr "lo"
+
+msgid "lt"
+msgstr "lt"
+
+msgid "lv"
+msgstr "lv"
+
+msgid "mi"
+msgstr "mi"
+
+msgid "mk"
+msgstr "mk"
+
+msgid "ml"
+msgstr "ml"
+
+msgid "mn"
+msgstr "mn"
+
+msgid "mt"
+msgstr "mt"
+
+msgid "my"
+msgstr "my"
+
+msgid "ne"
+msgstr "ne"
+
+msgid "nl"
+msgstr "nl"
+
+msgid "no"
+msgstr "no"
+
+msgid "or"
+msgstr "or"
+
+msgid "pa"
+msgstr "pa"
+
+msgid "ph"
+msgstr "ph"
+
+msgid "pl"
+msgstr "pl"
+
+msgid "ps"
+msgstr "ps"
+
+msgid "pt"
+msgstr "pt"
+
+msgid "ro"
+msgstr "ro"
+
+msgid "ru"
+msgstr "ru"
+
+msgid "sd"
+msgstr "sd"
+
+msgid "shs"
+msgstr "shs"
+
+msgid "si"
+msgstr "si"
+
+msgid "sk"
+msgstr "sk"
+
+msgid "sl"
+msgstr "sl"
+
+msgid "sq"
+msgstr "sq"
+
+msgid "sr"
+msgstr "sr"
+
+msgid "sv"
+msgstr "sv"
+
+msgid "sw"
+msgstr "sw"
+
+msgid "syc"
+msgstr "syc"
+
+msgid "ta"
+msgstr "ta"
+
+msgid "te"
+msgstr "te"
+
+msgid "tg"
+msgstr "tg"
+
+msgid "th"
+msgstr "th"
+
+msgid "tk"
+msgstr "tk"
+
+msgid "tn"
+msgstr "tn"
+
+msgid "tr"
+msgstr "tr"
+
+msgid "ug"
+msgstr "ug"
+
+msgid "uk"
+msgstr "uk"
+
+msgid "ur"
+msgstr "ur"
+
+msgid "us"
+msgstr "us"
+
+msgid "uz"
+msgstr "uz"
+
+msgid "vi"
+msgstr "vi"
+
+msgid "wo"
+msgstr "wo"
+
+msgid "xsy"
+msgstr "xsy"
+
+msgid "yo"
+msgstr "yo"
+
+msgid "zh"
+msgstr "zh"

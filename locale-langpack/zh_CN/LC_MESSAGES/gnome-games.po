@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-games&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-12 13:54+0000\n"
+"Last-Translator: Jeremy Bicha <jeremy@bicha.net>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:23+0000\n"
+
+msgid "A video game player for GNOME"
+msgstr "GNOME 下的一款电子游戏机"
+
+msgid "All unsaved progress will be lost."
+msgstr "所有未保存的进度将会丢失。"
+
+msgid "Are you sure you want to quit?"
+msgstr "您确定离开吗？"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Features:"
+msgstr "特性："
+
+msgid "GNOME Games"
+msgstr "GNOME 游戏"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid ""
+"Games is a GNOME 3 application to browse your video games library and to "
+"easily pick and play a game from it. It aims to do for games what Music "
+"already does for your music library."
+msgstr "游戏为一款 GNOME 3 应用程序，可浏览您的电子游戏库，并从中轻松挑选和玩游戏。致力于像音乐管理您的乐库一样管理游戏库。"
+
+msgid ""
+"Install games or add directories containing games to your search sources."
+msgstr "安装游戏或添加包含游戏的目录到您的搜索源。"
+
+msgid "Learn more about GNOME Games"
+msgstr "了解关于 GNOME 游戏的更多信息"
+
+msgid "No games found"
+msgstr "找不到游戏"
+
+msgid "Play your games"
+msgstr "玩游戏"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Quit"
+msgstr "离开"
+
+msgid "Resume"
+msgstr "恢复"
+
+msgid "Resume last game?"
+msgstr "恢复上次游戏？"
+
+msgid "Resume your game to where you left it"
+msgstr "从上次离开的位置恢复游戏"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search in your games collection"
+msgstr "在您的游戏集中搜索"
+
+msgid "Simple game launcher for GNOME"
+msgstr "GNOME 简易游戏启动器"
+
+msgid "Video game player"
+msgstr "电子游戏机"
+
+msgid "View and play your video games collection"
+msgstr "查看并玩您的游戏集"
+
+msgid "You have to use its own window to play it."
+msgstr "您得使用它本身窗口玩游戏。"
+
+msgid "game;videogame;video game;player;"
+msgstr "game;videogame;video game;player;游戏;电子游戏;视频游戏;游戏机;玩家;"
+
+msgid "translator-credits"
+msgstr ""
+"Yating Kuang <yatingkuang@ubuntukylin.com>, 2016\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Jeremy Bicha https://launchpad.net/~jbicha"

@@ -1,0 +1,548 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sed 4.4.104\n"
+"Report-Msgid-Bugs-To: bug-gnu-utils@gnu.org\n"
+"PO-Revision-Date: 2019-02-22 17:25+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:48+0000\n"
+
+msgid ""
+"\n"
+"If no -e, --expression, -f, or --file option is given, then the first\n"
+"non-option argument is taken as the sed script to interpret.  All\n"
+"remaining arguments are names of input files; if no input files are\n"
+"specified, then the standard input is read.\n"
+"\n"
+msgstr ""
+"\n"
+"如果没有 -e, --expression, -f 或 --file 选项，那么第一个非选项参数被视为\n"
+"sed脚本。其他非选项参数被视为输入文件，如果没有输入文件，那么程序将从标准\n"
+"输入读取数据。\n"
+"\n"
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+"\n"
+"许可证：GPLv3+：GNU 通用公共许可证第 3 版或更新版本<https://gnu.org/licenses/gpl.html>。\n"
+"本软件是自由软件：您可以自由修改和重新发布它。\n"
+"在法律范围内没有其他保证。\n"
+"\n"
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+"\n"
+"请向<%s> 报告软件错误。请向 <i18n-zh@googlegroups.com> 报告翻译错误。\n"
+
+msgid "      --help     display this help and exit\n"
+msgstr "      --help     打印帮助并退出\n"
+
+msgid ""
+"      --sandbox\n"
+"                 operate in sandbox mode (disable e/r/w commands).\n"
+msgstr ""
+"      --sandbox\n"
+"                 在沙盒模式中进行操作（禁用 e/r/w 命令）。\n"
+
+msgid "      --version  output version information and exit\n"
+msgstr "      --version  输出版本信息并退出\n"
+
+msgid ""
+"  --follow-symlinks\n"
+"                 follow symlinks when processing in place\n"
+msgstr ""
+"  --follow-symlinks\n"
+"                 直接修改文件时跟随软链接\n"
+
+msgid ""
+"  --posix\n"
+"                 disable all GNU extensions.\n"
+msgstr ""
+"  --posix\n"
+"                 关闭所有 GNU 扩展\n"
+
+msgid ""
+"  -E, -r, --regexp-extended\n"
+"                 use extended regular expressions in the script\n"
+"                 (for portability use POSIX -E).\n"
+msgstr ""
+"  -E, -r, --regexp-extended\n"
+"                 在脚本中使用扩展正则表达式\n"
+"                 （为保证可移植性使用 POSIX -E）。\n"
+
+msgid ""
+"  -b, --binary\n"
+"                 open files in binary mode (CR+LFs are not processed specially)\n"
+msgstr ""
+"  -b, --binary\n"
+"                 以二进制方式打开文件 (回车加换行不做特殊处理)\n"
+
+msgid ""
+"  -e script, --expression=script\n"
+"                 add the script to the commands to be executed\n"
+msgstr ""
+"  -e 脚本, --expression=脚本\n"
+"                 添加“脚本”到程序的运行列表\n"
+
+msgid ""
+"  -f script-file, --file=script-file\n"
+"                 add the contents of script-file to the commands to be executed\n"
+msgstr ""
+"  -f 脚本文件, --file=脚本文件\n"
+"                 添加“脚本文件”到程序的运行列表\n"
+
+msgid ""
+"  -i[SUFFIX], --in-place[=SUFFIX]\n"
+"                 edit files in place (makes backup if SUFFIX supplied)\n"
+msgstr ""
+"  -i[扩展名], --in-place[=扩展名]\n"
+"                 直接修改文件（如果指定扩展名则备份文件）\n"
+
+msgid ""
+"  -l N, --line-length=N\n"
+"                 specify the desired line-wrap length for the `l' command\n"
+msgstr ""
+"  -l N, --line-length=N\n"
+"                 指定“l”命令的换行期望长度\n"
+
+msgid ""
+"  -n, --quiet, --silent\n"
+"                 suppress automatic printing of pattern space\n"
+msgstr ""
+"  -n, --quiet, --silent\n"
+"                 取消自动打印模式空间\n"
+
+msgid ""
+"  -s, --separate\n"
+"                 consider files as separate rather than as a single,\n"
+"                 continuous long stream.\n"
+msgstr ""
+"  -s, --separate\n"
+"                 将输入文件视为各个独立的文件而不是单个\n"
+"                 长的连续输入流。\n"
+
+msgid ""
+"  -u, --unbuffered\n"
+"                 load minimal amounts of data from the input files and flush\n"
+"                 the output buffers more often\n"
+msgstr ""
+"  -u, --unbuffered\n"
+"                 从输入文件读取最少的数据，更频繁的刷新输出\n"
+
+msgid ""
+"  -z, --null-data\n"
+"                 separate lines by NUL characters\n"
+msgstr ""
+"  -z, --null-data\n"
+"                 使用 NUL 字符分隔各行\n"
+
+msgid "\":\" lacks a label"
+msgstr "“:”缺少一个标签"
+
+msgid "%s home page: <%s>\n"
+msgstr "%s 的主页：<%s>\n"
+
+msgid "%s home page: <https://www.gnu.org/software/%s/>\n"
+msgstr "%s 项目主页：<https://www.gnu.org/software/%s/>\n"
+
+msgid "%s: -e expression #%lu, char %lu: %s\n"
+msgstr "%s: -e 表达式 #%lu, 字符 %lu: %s↵\n"
+
+msgid "%s: can't read %s: %s\n"
+msgstr "%s: 无法读取 %s: %s\n"
+
+msgid "%s: file %s line %lu: %s\n"
+msgstr "%s：文件 %s 行号：%lu：%s\n"
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr "%s：无效选项 -- “%c”\n"
+
+msgid "%s: option '%s%s' doesn't allow an argument\n"
+msgstr "%s：选项“%s%s”不允许带参数\n"
+
+msgid "%s: option '%s%s' is ambiguous\n"
+msgstr "%s：选项“%s%s”是不明确的\n"
+
+msgid "%s: option '%s%s' is ambiguous; possibilities:"
+msgstr "%s：选项“%s%s”是不明确的；可能是："
+
+msgid "%s: option '%s%s' requires an argument\n"
+msgstr "%s：选项“%s%s”需要一个参数\n"
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr "%s：选项需要一个参数 -- '%c'\n"
+
+msgid "%s: unrecognized option '%s%s'\n"
+msgstr "%s：无法识别的选项“%s%s”\n"
+
+msgid "%s: warning: failed to get security context of %s: %s"
+msgstr "%s：警告：无法获取 %s 的安全上下文环境：%s"
+
+msgid "%s: warning: failed to set default file creation context to %s: %s"
+msgstr "%s：警告：无法设置默认文件创建上下文环境为 %s：%s"
+
+msgid "'"
+msgstr "”"
+
+msgid "(C)"
+msgstr "(C)"
+
+msgid ": doesn't want any addresses"
+msgstr ": 不需要任何地址"
+
+msgid "E-mail bug reports to: <%s>.\n"
+msgstr "请将错误报告发送至：<%s>。\n"
+
+msgid ""
+"GNU sed home page: <https://www.gnu.org/software/sed/>.\n"
+"General help using GNU software: <https://www.gnu.org/gethelp/>.\n"
+msgstr ""
+"GNU sed 主页：<https://www.gnu.org/software/sed/>。\n"
+"使用 GNU 软件的一般性帮助：<https://www.gnu.org/gethelp/>。\n"
+
+msgid "General help using GNU software: <https://www.gnu.org/gethelp/>\n"
+msgstr "GNU 软件一般性帮助：<https://www.gnu.org/gethelp/>\n"
+
+msgid "Invalid back reference"
+msgstr "非法回引用"
+
+msgid "Invalid character class name"
+msgstr "非法的字符类型名"
+
+msgid "Invalid collation character"
+msgstr "非法的收集字符"
+
+msgid "Invalid content of \\{\\}"
+msgstr "“\\{\\}”中内容非法"
+
+msgid "Invalid preceding regular expression"
+msgstr "非法的正则表达式头"
+
+msgid "Invalid range end"
+msgstr "非法的范围结束"
+
+msgid "Invalid regular expression"
+msgstr "非法的正则表达式"
+
+msgid "Jay Fenlason"
+msgstr "Jay Fenlason"
+
+msgid "Ken Pizzini"
+msgstr "Ken Pizzini"
+
+msgid "Memory exhausted"
+msgstr "内存耗尽"
+
+msgid "No match"
+msgstr "没有匹配项"
+
+msgid "No previous regular expression"
+msgstr "前面没有正则表达式"
+
+msgid "Packaged by %s\n"
+msgstr "由 %s 打包\n"
+
+msgid "Packaged by %s (%s)\n"
+msgstr "由 %s (%s)打包\n"
+
+msgid "Paolo Bonzini"
+msgstr "Paolo Bonzini"
+
+msgid "Premature end of regular expression"
+msgstr "正则表达式不完整"
+
+msgid "Regular expression too big"
+msgstr "正则表达式过大"
+
+msgid "Report %s bugs to: %s\n"
+msgstr "请将 %s 的错误报告至：%s\n"
+
+msgid "Success"
+msgstr "成功"
+
+msgid "Tom Lord"
+msgstr "Tom Lord"
+
+msgid "Trailing backslash"
+msgstr "尾端的反斜杠"
+
+msgid "Unknown system error"
+msgstr "未知的系统错误"
+
+msgid "Unmatched ( or \\("
+msgstr "未匹配的“(”或者“\\(”"
+
+msgid "Unmatched ) or \\)"
+msgstr "未匹配的“)”或者“\\)”"
+
+msgid "Unmatched [, [^, [:, [., or [="
+msgstr "未匹配的“[”、“[^”、“[:”、“[.”或“[=”"
+
+msgid "Unmatched \\{"
+msgstr "未匹配的“\\{”"
+
+msgid ""
+"Usage: %s [OPTION]... {script-only-if-no-other-script} [input-file]...\n"
+"\n"
+msgstr ""
+"用法: %s [选项]... {脚本(如果没有其他脚本)} [输入文件]...\n"
+"\n"
+
+msgid "Written by %s and %s.\n"
+msgstr "由 %s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、%s 和其他人编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s、\n"
+"%s、和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s、%s\n"
+"和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s、%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+"由 %s、%s、%s、\n"
+"%s 和 %s 编写。\n"
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+"由 %s、%s、%s 和\n"
+"%s 编写。\n"
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr "由 %s、%s 和 %s 编写。\n"
+
+msgid "Written by %s.\n"
+msgstr "由 %s 编写。\n"
+
+msgid "`"
+msgstr "“"
+
+msgid "`e' command not supported"
+msgstr "不支持命令“e”"
+
+msgid "`}' doesn't want any addresses"
+msgstr "“}”不需要任何地址"
+
+msgid "can't find label for jump to `%s'"
+msgstr "无法为目的为“%s”的跳转找到标签"
+
+msgid "cannot remove %s: %s"
+msgstr "无法移除 %s：%s"
+
+msgid "cannot rename %s: %s"
+msgstr "无法重命名 %s：%s"
+
+msgid "cannot stat %s: %s"
+msgstr "无法获取 %s 的状态: %s"
+
+msgid "case conversion produced an invalid character"
+msgstr "大小写转换产生了无效的字符"
+
+msgid "character class syntax is [[:space:]], not [:space:]"
+msgstr "字符类型语法是 [[:space:]]，不是 [:space:]"
+
+msgid "command only uses one address"
+msgstr "命令只使用了一个地址"
+
+msgid "comments don't accept any addresses"
+msgstr "注释不接受任何地址"
+
+msgid "couldn't attach to %s: %s"
+msgstr "无法绑定 %s: %s"
+
+msgid "couldn't edit %s: is a terminal"
+msgstr "无法编辑文件 %s: 这是一个终端"
+
+msgid "couldn't edit %s: not a regular file"
+msgstr "无法编辑 %s: 非普通文件"
+
+msgid "couldn't follow symlink %s: %s"
+msgstr "无法跟随软链接 %s: %s"
+
+msgid "couldn't open file %s: %s"
+msgstr "无法打开文件 %s: %s"
+
+msgid "couldn't open temporary file %s: %s"
+msgstr "无法打开临时文件 %s: %s"
+
+msgid "couldn't write %llu item to %s: %s"
+msgid_plural "couldn't write %llu items to %s: %s"
+msgstr[0] "无法将 %llu 个项目写入 %s：%s"
+
+msgid "delimiter character is not a single-byte character"
+msgstr "分隔字符不是单字节字符"
+
+msgid "error in subprocess"
+msgstr "子进程出错"
+
+msgid "expected \\ after `a', `c' or `i'"
+msgstr "期望在“a”, “c”, “i”之后有“\\”"
+
+msgid "expected newer version of sed"
+msgstr "需要更高版本的sed"
+
+msgid "extra characters after command"
+msgstr "命令后含有多余的字符"
+
+msgid "incomplete command"
+msgstr "不完整的命令"
+
+msgid "invalid character class"
+msgstr "非法的字符类型"
+
+msgid "invalid content of \\{\\}"
+msgstr "“\\{\\}”中内容非法"
+
+msgid "invalid reference \\%d on `s' command's RHS"
+msgstr "“s”命令的RHS非法引用\\%d"
+
+msgid "invalid usage of +N or ~N as first address"
+msgstr "无法将 +N 或 ~N 作为第一个地址"
+
+msgid "invalid usage of line address 0"
+msgstr "非法使用行地址0"
+
+msgid "memory exhausted"
+msgstr "内存耗尽"
+
+msgid "missing command"
+msgstr "遗漏命令"
+
+msgid "multiple `!'s"
+msgstr "多个“!”"
+
+msgid "multiple `g' options to `s' command"
+msgstr "‘s’命令的多个‘g’选项"
+
+msgid "multiple `p' options to `s' command"
+msgstr "‘s’命令的多个‘p’选项"
+
+msgid "multiple number options to `s' command"
+msgstr "‘s’命令的多个数值选项"
+
+msgid "no input files"
+msgstr "没有输入文件"
+
+msgid "no previous regular expression"
+msgstr "没有上一个正则表达式"
+
+msgid "no syntax specified"
+msgstr "未指定语法"
+
+msgid "number option to `s' command may not be zero"
+msgstr "‘s’命令的数值选项不能为零"
+
+msgid "option `e' not supported"
+msgstr "不支持选项“e”"
+
+msgid "preserving permissions for %s"
+msgstr "保留 %s 的权限未改变"
+
+msgid "read error on %s: %s"
+msgstr "读取错误发生于 %s: %s"
+
+msgid "recursive escaping after \\c not allowed"
+msgstr "不允许 \\c 后的递归转义"
+
+msgid "regex input buffer length larger than INT_MAX"
+msgstr "正则输入缓冲长度大于 INT_MAX"
+
+msgid "regular expression too big"
+msgstr "正则表达式过大"
+
+msgid "setting permissions for %s"
+msgstr "设置 %s 的权限"
+
+msgid "strings for `y' command are different lengths"
+msgstr "“y”命令的字符串长度不同"
+
+msgid "unbalanced ("
+msgstr "不对称的 ("
+
+msgid "unbalanced )"
+msgstr "不对称的 )"
+
+msgid "unbalanced ["
+msgstr "不对称的 ["
+
+msgid "unexpected `,'"
+msgstr "意外的“,”"
+
+msgid "unexpected `}'"
+msgstr "意外的“}”"
+
+msgid "unfinished \\ escape"
+msgstr "未结束的 \\ 转义"
+
+msgid "unknown command: `%c'"
+msgstr "未知的命令：“%c”"
+
+msgid "unknown option to `s'"
+msgstr "“s”的未知选项"
+
+msgid "unmatched `{'"
+msgstr "未匹配的“{”"
+
+msgid "unterminated `s' command"
+msgstr "未终止的“s”命令"
+
+msgid "unterminated `y' command"
+msgstr "未终止的“y”命令"
+
+msgid "unterminated address regex"
+msgstr "未终止的地址正则表达式"
+
+msgid "write error"
+msgstr "写入错误"

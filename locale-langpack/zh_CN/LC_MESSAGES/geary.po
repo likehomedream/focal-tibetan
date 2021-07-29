@@ -1,0 +1,551 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: geary-0.4.1\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=geary&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-03-30 13:36+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/geary/language/zh_CN/)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:51+0000\n"
+
+msgid "%A"
+msgstr "%A"
+
+msgid "%B %-e, %Y %-H:%M"
+msgstr "%Y年%m月 %-e，%H:%M"
+
+msgid "%B %-e, %Y %-l:%M %P"
+msgstr "%Y年%m月 %-e，%p %i:%M"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%b %-e"
+msgstr "%b %-e"
+
+msgid "%d message"
+msgid_plural "%d messages"
+msgstr[0] "%d 条消息"
+
+msgid "%d new message"
+msgid_plural "%d new messages"
+msgstr[0] "%d 封新邮件"
+
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] "%d 个结果"
+
+msgid "%d unread"
+msgid_plural "%d unread"
+msgstr[0] "%d 封未读"
+
+msgid "%dh ago"
+msgid_plural "%dh ago"
+msgstr[0] "%d 小时前"
+
+msgid "%dm ago"
+msgid_plural "%dm ago"
+msgstr[0] "%d 分钟前"
+
+msgid "%l:%M %P"
+msgstr "%p %l:%M"
+
+msgid ""
+"%s\n"
+"(%d other new message for %s)"
+msgid_plural ""
+"%s\n"
+"(%d other new messages for %s)"
+msgstr[0] ""
+"%s\n"
+"(另有 %d 条新邮件给 %s)"
+
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "%s wrote:"
+msgstr "%s 写道："
+
+msgid "%s, %d new message total"
+msgid_plural "%s, %d new messages total"
+msgstr[0] "%s, 共 %d 封新邮件"
+
+msgid "%s, %s"
+msgstr "%s，%s"
+
+msgid "(no subject)"
+msgstr "(无主题)"
+
+msgid "---------- Forwarded message ----------"
+msgstr "---------- 已转发消息 ----------"
+
+msgid "1 month back"
+msgstr "1个月前"
+
+msgid "1 year back"
+msgstr "1年前"
+
+msgid "2 weeks back"
+msgstr "2周前"
+
+msgid "2 years back"
+msgstr "2 年前"
+
+msgid "3 months back"
+msgstr "3个月前"
+
+msgid "4 years back"
+msgstr "4 年前"
+
+msgid "6 months back"
+msgstr "6个月前"
+
+msgctxt "Abbreviation for gigabyte"
+msgid "GB"
+msgstr "GB"
+
+msgctxt "Abbreviation for kilobyte"
+msgid "KB"
+msgstr "KB"
+
+msgctxt "Abbreviation for megabyte"
+msgid "MB"
+msgstr "MB"
+
+msgctxt "Abbreviation for terabyte"
+msgid "TB"
+msgstr "TB"
+
+msgid "About %s"
+msgstr "关于 %s"
+
+msgid "Accounts"
+msgstr "帐号"
+
+msgid "All Mail"
+msgstr "全部邮件"
+
+msgid "Always Show From Sender"
+msgstr "总是显示发件人"
+
+msgid "Archive"
+msgstr "归档"
+
+msgid ""
+"Attachments may cause damage to your system if opened.  Only open files from"
+" trusted sources."
+msgstr "如果打开，附件可能会对您的系统造成破坏。仅打开可信任来源的文件。"
+
+msgid "Bcc:"
+msgstr "密送："
+
+msgid "Cannot add attachment"
+msgstr "无法添加附件"
+
+msgid "Cc:"
+msgstr "抄送："
+
+msgid "Choose a file"
+msgstr "选择文件"
+
+msgid "Compose Message"
+msgstr "撰写邮件"
+
+msgid "Cu_t"
+msgstr "剪切(_C)"
+
+msgid "Date:"
+msgstr "日期："
+
+msgctxt "Default full date"
+msgid "%B %-e, %Y %-l:%M %P"
+msgstr "%Y年%m月 %-e，%p %i:%M"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Display program version"
+msgstr "显示程序版本"
+
+msgid "Do you want to permanently delete this message?"
+msgid_plural "Do you want to permanently delete these messages?"
+msgstr[0] "您要永久删除该封邮件吗？"
+
+msgid "Drafts"
+msgstr "草稿"
+
+msgid "Drafts | Draft"
+msgstr "Drafts | Draft | 草稿 | 草稿箱"
+
+msgid "Drop files here"
+msgstr "将文件拖放到此处"
+
+msgid "E_xit"
+msgstr "退出(_X)"
+
+msgid "Edit Draft"
+msgstr "编辑草稿"
+
+msgid "Email;E-mail;Mail;"
+msgstr "Email;E-mail;Mail;电子邮件;邮件;邮箱;"
+
+msgid ""
+"Error during rebuild:\n"
+"\n"
+"%s"
+msgstr ""
+"重新构建时发生错误：\n"
+"\n"
+"%s"
+
+msgid "Error saving"
+msgstr "保存出错"
+
+msgid "Error saving sent mail"
+msgstr "保存已发送邮件出错"
+
+msgid "Error sending email"
+msgstr "发送邮件出错"
+
+msgid "Everything"
+msgstr "所有"
+
+msgid "Find:"
+msgstr "查找："
+
+msgid "Fixed Width"
+msgstr "等宽字体"
+
+msgid "From:"
+msgstr "发件人："
+
+msgid "Geary"
+msgstr "Geary 邮件"
+
+msgid "Gmail"
+msgstr "Gmail"
+
+msgid "Important"
+msgstr "重要邮件"
+
+msgid "Inbox"
+msgstr "收件箱"
+
+msgid "Inboxes"
+msgstr "所有收件箱"
+
+msgid ""
+"Junk | Spam | Junk Mail | Junk Email | Junk E-Mail | Bulk Mail | Bulk Email "
+"| Bulk E-Mail"
+msgstr ""
+"Junk | Spam | Junk Mail | Junk Email | Junk E-Mail | Bulk Mail | Bulk Email "
+"| Bulk E-Mail | 垃圾邮件 | 垃圾箱"
+
+msgid "Labels"
+msgstr "标签"
+
+msgid "Lar_ge"
+msgstr "大号字体(_G)"
+
+msgid "Log IMAP replay queue"
+msgstr "记录 IMAP 重播队列"
+
+msgid "Log conversation monitoring"
+msgstr "记录对话监控"
+
+msgid "Log database queries (generates lots of messages)"
+msgstr "记录数据库查询(产生大量信息)"
+
+msgid "Log folder normalization"
+msgstr "记录文件夹标准"
+
+msgid "Log network activity"
+msgstr "记录网络活动"
+
+msgid "Log periodic activity"
+msgstr "记录周期性活动"
+
+msgid "Mark Unread From _Here"
+msgstr "在此处标记为未读(_H)"
+
+msgid "Mark as _Read"
+msgstr "标记为已读(_R)"
+
+msgid "Mark as _Unread"
+msgstr "标记为未读(_U)"
+
+msgid "Me"
+msgstr "我"
+
+msgid "More options"
+msgstr "更多选项"
+
+msgid "New Message"
+msgstr "新邮件"
+
+msgid "None"
+msgstr "无"
+
+msgid "Now"
+msgstr "现在"
+
+msgid "On %1$s, %2$s wrote:"
+msgstr "在%1$s，%2$s 写道："
+
+msgid "On %s:"
+msgstr "在%s："
+
+msgid "Outbox"
+msgstr "已发邮件"
+
+msgid "Outlook.com"
+msgstr "Outlook.com"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "R_eply All"
+msgstr "回复全部(_E)"
+
+msgid "Remove account"
+msgstr "移除帐号"
+
+msgid "Reply to _All"
+msgstr "回复全部(_A)"
+
+msgid "SMTP Credentials"
+msgstr "SMTP 证书"
+
+msgid "S_ans Serif"
+msgstr "无衬线字体(_A)"
+
+msgid "S_erif"
+msgstr "衬线字体(_E)"
+
+msgid "Sans Serif"
+msgstr "Sans Serif"
+
+msgid "Saved"
+msgstr "已保存"
+
+msgid "Saving"
+msgstr "正在保存"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Search %s account"
+msgstr "搜索帐号 %s"
+
+msgid "Select Color"
+msgstr "选择颜色"
+
+msgid "Select _All"
+msgstr "全选(_A)"
+
+msgid "Send and receive email"
+msgstr "发送并接收邮件"
+
+msgid "Send message with an empty body?"
+msgstr "确认发送无正文的邮件吗？"
+
+msgid "Send message with an empty subject and body?"
+msgstr "确认发送无主题无正文的邮件吗？"
+
+msgid "Send message with an empty subject?"
+msgstr "确认发送无主题的邮件吗？"
+
+msgid "Send message without an attachment?"
+msgstr "确认发送无附件的邮件吗？"
+
+msgid "Sent Mail"
+msgstr "已发邮件"
+
+msgid "Sent | Sent Mail | Sent Email | Sent E-Mail"
+msgstr "Sent | Sent Mail | Sent Email | Sent E-Mail | 发件箱"
+
+msgid "Serif"
+msgstr "Serif"
+
+msgid "Show Images"
+msgstr "显示图片"
+
+msgid "Spam"
+msgstr "垃圾邮件"
+
+msgid "Starred"
+msgstr "已加星标"
+
+msgid "Subject:"
+msgstr "主题："
+
+msgid ""
+"There was an error opening the local mail database for this account. This is possibly due to corruption of the database file in this directory:\n"
+"\n"
+"%s\n"
+"\n"
+"Geary can rebuild the database and re-synchronize with the server or exit.\n"
+"\n"
+"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your server will not be affected.</b>"
+msgstr ""
+"为该账户打开本地邮件数据库时发生错误，这可能是由该目录下的数据文件损坏引起的:\n"
+"\n"
+"%s\n"
+"\n"
+"Geary 可以重建数据库并与服务器重新同步或退出。\n"
+"\n"
+"重建数据库将会删除所有本地邮件及其中包含的附件。 <b>服务器中的邮件不会受到任何影响。</b>"
+
+msgid "To add them as attachments"
+msgstr "将他们添加为附件"
+
+msgid "To:"
+msgstr "收件人："
+
+msgid "Trash"
+msgstr "回收站"
+
+msgid "Trash | Rubbish | Rubbish Bin"
+msgstr "Trash | Rubbish | Rubbish Bin | 已删除 | 回收站"
+
+msgid "U_nstar"
+msgstr "取消星标(_N)"
+
+msgid "Unable to open the database for %s"
+msgstr "无法打开 %s 的数据库"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "_About"
+msgstr "关于(_A)"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Archive"
+msgstr "存档(_A)"
+
+msgid "_Attach"
+msgstr "附件(_A)"
+
+msgid "_Automatically select next message"
+msgstr "自动选择下一条信息(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Case sensitive"
+msgstr "区分大小写(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Details"
+msgstr "详细信息(_D)"
+
+msgid "_Discard"
+msgstr "舍弃(_D)"
+
+msgid "_Display conversation preview"
+msgstr "显示对话预览(_D)"
+
+msgid "_Fixed Width"
+msgstr "等宽字体(_F)"
+
+msgid "_Forward"
+msgstr "转发(_F)"
+
+msgid "_From:"
+msgstr "发件人(_F)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Keep"
+msgstr "保存(_K)"
+
+msgid "_Medium"
+msgstr "中等字体(_M)"
+
+msgid "_Next"
+msgstr "下一个(_N)"
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Paste"
+msgstr "粘贴(_P)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Previous"
+msgstr "上一个(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Rebuild"
+msgstr "重新构建(_R)"
+
+msgid "_Redo"
+msgstr "重做(_R)"
+
+msgid "_Remember password"
+msgstr "记住密码(_R)"
+
+msgid "_Remove"
+msgstr "删除(_R)"
+
+msgid "_Replace"
+msgstr "替换(_R)"
+
+msgid "_Reply"
+msgstr "回复(_R)"
+
+msgid "_Rich Text"
+msgstr "富文本(_R)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Send"
+msgstr "发送(_S)"
+
+msgid "_Small"
+msgstr "小号字体(_S)"
+
+msgid "_Star"
+msgstr "加注星标(_S)"
+
+msgid "_Undo"
+msgstr "撤销(_U)"
+
+msgid "_View Source"
+msgstr "查看来源(_V)"
+
+msgid "bytes"
+msgstr "字节"
+
+msgid "label"
+msgstr "标签"
+
+msgid "translator-credits"
+msgstr ""
+"tuhaihe <1132321739qq@gmail.com>, 2012\n"
+"hepin <hepin@sosia.us>, 2013\n"
+"\n"
+"Launchpad Contributions:\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa"

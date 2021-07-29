@@ -1,0 +1,205 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yelp-xsl master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp-xsl/issues\n"
+"PO-Revision-Date: 2019-08-29 17:42+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:29+0000\n"
+
+msgid " and "
+msgstr " 和 "
+
+msgid ", "
+msgstr "、 "
+
+msgid ", and "
+msgstr "和 "
+
+msgid "A:"
+msgstr "答："
+
+msgid "About"
+msgstr "关于"
+
+msgid "Advanced"
+msgstr "高级"
+
+msgid "Bibliography"
+msgstr "参考书目"
+
+msgid "Bug"
+msgstr "缺陷"
+
+msgid "Candidate"
+msgstr "候选版"
+
+msgid "Caution"
+msgstr "注意"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Colophon"
+msgstr "版权页"
+
+msgid "Contents"
+msgstr "目录"
+
+msgid "Creative Commons"
+msgstr "知识共享（CC）"
+
+msgid "Danger"
+msgstr "危险"
+
+msgid "Dedication"
+msgstr "贡献"
+
+msgid "Draft"
+msgstr "草稿"
+
+msgid "Edited By"
+msgstr "编辑者"
+
+msgid "Final"
+msgstr "终稿"
+
+msgid "Glossary"
+msgstr "术语表"
+
+msgid "Important"
+msgstr "重要"
+
+msgid "Incomplete"
+msgstr "未完成"
+
+msgid "Index"
+msgstr "索引"
+
+msgid "Legal"
+msgstr "法律信息"
+
+msgid "License"
+msgstr "许可信息"
+
+msgid "Maintained By"
+msgstr "维护者"
+
+msgid "More Information"
+msgstr "更多信息"
+
+msgid "Next"
+msgstr "下一页"
+
+msgid "Note"
+msgstr "备注"
+
+msgid "On This Page"
+msgstr "本页内"
+
+msgid "Other Credits"
+msgstr "其他致谢人"
+
+msgid "Outdated"
+msgstr "已过期"
+
+msgid "Package"
+msgstr "软件包"
+
+msgid "Pause"
+msgstr "暂停"
+
+msgid "Play"
+msgstr "播放"
+
+msgid "Previous"
+msgstr "上一页"
+
+msgid "Published By"
+msgstr "发布者"
+
+msgid "Q:"
+msgstr "问："
+
+msgid "Read the definition for ‘<glossterm/>’."
+msgstr "阅读“<glossterm/>”的定义。"
+
+msgid "Ready for review"
+msgstr "准备校对"
+
+msgid "Scale images down"
+msgstr "缩小图像"
+
+msgid "See <glosssee/>."
+msgstr "参见 <glosssee/>。"
+
+msgid "See <seeie/>."
+msgstr "参见 <seeie/>。"
+
+msgid "See Also"
+msgstr "亦见"
+
+msgid "See also <glosssee/>."
+msgstr "亦见 <glosssee/>。"
+
+msgid "See also <seeie/>."
+msgstr "亦见 <seeie/>。"
+
+msgid "Send email to ‘<string/>’."
+msgstr "发送邮件至 <string/>。"
+
+msgid "Sidebar"
+msgstr "侧边栏"
+
+msgid "Stub"
+msgstr "存根"
+
+msgid "Synopsis"
+msgstr "提要"
+
+msgid "Tip"
+msgstr "提示"
+
+msgid "Translated By"
+msgstr "翻译者"
+
+msgid "View images at normal size"
+msgstr "以正常大小查看图像"
+
+msgid "View the bibliography entry <biblioentry.label/>."
+msgstr "查看引用条目 <biblioentry.label/>。"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Written By"
+msgstr "编写者"
+
+msgid "[<biblioentry.label/>]"
+msgstr "[<biblioentry.label/>]"
+
+msgid "[<citation.label/>]"
+msgstr "[<citation.label/>]"
+
+msgid "default:LTR"
+msgstr "default:LTR"
+
+msgid "from <comment.name/>"
+msgstr "来自 <comment.name/>"
+
+msgid "from <comment.name/> on <comment.date/>"
+msgstr "来自 <comment.name/>，于 <comment.date/>"
+
+msgid "© <copyright.years/> <copyright.name/>"
+msgstr "© <copyright.years/> <copyright.name/>"
+
+msgid "‘<node/>’"
+msgstr "‘<node/>’"
+
+msgid "“<node/>”"
+msgstr "“<node/>”"

@@ -1,0 +1,195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=swell-foop&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 03:13+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:56+0000\n"
+
+msgid "%u point"
+msgid_plural "%u points"
+msgstr[0] "%u 分"
+
+msgid "%u × %u, %u color"
+msgid_plural "%u × %u, %u colors"
+msgstr[0] "%u × %u，%u 种颜色"
+
+msgid "Abandon this game to start a new one?"
+msgstr "放弃此次游戏并开始新游戏吗？"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Board color count"
+msgstr "棋盘颜色数量"
+
+msgid "Board size"
+msgstr "盘面大小"
+
+msgid ""
+"Clear as many blocks as you can.\n"
+"Fewer clicks means more points."
+msgstr ""
+"尽可能清除所有方块。\n"
+"点击越少分数越高。"
+
+msgid "Clear the screen by removing groups of colored and shaped tiles"
+msgstr "移除同样的色块以清空屏幕"
+
+msgid "Colors"
+msgstr "颜色"
+
+msgid "Copyright © 2009 Tim Horton"
+msgstr "Copyright © 2009 Tim Horton"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Game Over!"
+msgstr "游戏结束！"
+
+msgid "High Scores"
+msgstr "高分榜"
+
+msgid "High _Scores"
+msgstr "高分榜(_S)"
+
+msgid ""
+"I want to play that game!\n"
+"You know, they all light-up and you click on them and they vanish!"
+msgstr ""
+"我想玩那个游戏！\n"
+"点击那些闪动的方块，它们就消失了！"
+
+msgid "Is this the first run"
+msgstr "是否第一次运行"
+
+msgid "Large"
+msgstr "大"
+
+msgid "Let’s _Play"
+msgstr "开始游戏(_P)"
+
+msgid "New Game"
+msgstr "新游戏"
+
+msgid "Normal"
+msgstr "正常"
+
+msgid "Operation"
+msgstr "操作"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid ""
+"Remove as many squares as possible from the board. Click on a group of "
+"squares of the same color to make them all disappear in one fell swoop, "
+"causing other squares to fall into place. It is not possible to remove a "
+"single square at a time. You get far more points for clearing a larger group"
+" of squares, and also for clearing the entire board."
+msgstr ""
+"从棋盘上消除尽可能多的色块。点击同样颜色的一组色块来一下子消除它们。消除后其他色块会掉下来。不能一次只消除一个色块。一次消除的色块越多，或清空棋盘，你的得分就越多。"
+
+msgid "Score"
+msgstr "得分"
+
+msgid "Score: %u"
+msgstr "得分：%u"
+
+msgid "Setting to decide whether to show first-run hint dialog or not."
+msgstr "决定是否显示初次运行提示对话框的设置。"
+
+msgid "Setup"
+msgstr "设置"
+
+msgid "Shapes and Colors"
+msgstr "形状和颜色"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Small"
+msgstr "小"
+
+msgid "Swell Foop"
+msgstr "消色块"
+
+msgid ""
+"Swell Foop is always very quick to play, but you can make it somewhat longer"
+" by changing the board size."
+msgstr "Swell Foop (消色块)玩起来很快，您可以改变棋盘大小延长玩的时间。"
+
+msgid "The number of colors of tiles to use in the game."
+msgstr "游戏中色块的颜色数量。"
+
+msgid "The size of the game board."
+msgstr "游戏棋盘大小"
+
+msgid "The theme to use"
+msgstr "要使用的主题"
+
+msgid "The title of the tile theme to use."
+msgstr "要使用的牌面主题名称。"
+
+msgid "Use more flashy, but slower, animations."
+msgstr "使用更华丽、更缓慢的动画。"
+
+msgid "Welcome to Swell Foop"
+msgstr "欢迎来到消色块"
+
+msgid "Zealous animation"
+msgstr "华丽的动画"
+
+msgid "_Board size:"
+msgstr "棋盘大小(_B)："
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_New Game"
+msgstr "新建游戏(_N)"
+
+msgid "_Number of colors:"
+msgstr "颜色数量(_N)："
+
+msgid "_OK"
+msgstr "确认(_O)"
+
+msgid "_Play Again"
+msgstr "重玩(_P)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgid "_Theme:"
+msgstr "主题(_T)："
+
+msgid "_Zealous Animation"
+msgstr "华丽的动画(_Z)"
+
+msgid "game;logic;board;same;matching;"
+msgstr "game;logic;board;same;matching;游戏;逻辑;棋牌;相同;匹配;消除;"
+
+msgid "translator-credits"
+msgstr ""
+"Yang Zhang <zyangmath@gmail.com>, 2007\n"
+"Ping Z <zpsigma@gmail.com>, 2007\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"Mingcong Bai <jeffbai@aosc.xyz>, 2018\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Jeff Bai https://launchpad.net/~jeffbai"

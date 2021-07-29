@@ -1,0 +1,452 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-utils master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-dictionary&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 04:28+0000\n"
+"Last-Translator: Qizhi Zhou <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:37+0000\n"
+
+msgid "%s — Dictionary"
+msgstr "%s — 字典"
+
+msgid "2628"
+msgstr "2628"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Add Dictionary Source"
+msgstr "添加字典源"
+
+msgid "Add a new dictionary source"
+msgstr "添加新的字典源"
+
+msgid "Another search is in progress"
+msgstr "另外一项搜索正在进行中"
+
+msgid "Available St_rategies"
+msgstr "可用策略(_R)"
+
+msgid "Available strategies"
+msgstr "可用策略"
+
+msgid "Bad command “%s”"
+msgstr "错误的命令“%s”"
+
+msgid "Bad parameters for command “%s”"
+msgstr "命令“%s”的参数错误"
+
+msgid "C_ancel"
+msgstr "取消(_A)"
+
+msgid "Check word definitions and spellings in an online dictionary"
+msgstr "在在线字典中查阅单词定义和拼写"
+
+msgid "Clear the list of available databases"
+msgstr "清除可用数据库列表"
+
+msgid "Clear the list of available strategies"
+msgstr "清除可用策略列表"
+
+msgid "Clear the list of similar words"
+msgstr "清除相似单词列表"
+
+msgid "Connection failed to the dictionary server at %s:%d"
+msgstr "连接服务器 %s:%d 失败"
+
+msgid "Connection timeout for the dictionary server at “%s:%d”"
+msgstr "连接字典服务器“%s:%d”超时"
+
+msgid "Database to use"
+msgstr "要使用的数据库"
+
+msgid "Default Dictionary Server"
+msgstr "默认字典服务器"
+
+msgid "Dictionaries"
+msgstr "字典"
+
+msgid "Dictionary"
+msgstr "字典"
+
+msgid "Dictionary Preferences"
+msgstr "字典首选项"
+
+msgid "Dictionary Sources"
+msgstr "字典源"
+
+msgid "Dictionary source does not have name"
+msgstr "字典源没有名称"
+
+msgid "Dictionary source to use"
+msgstr "要使用的字典源"
+
+msgid "Dictionary source “%s” has invalid transport “%s”"
+msgstr "字典源“%s”的传送“%s”无效"
+
+msgid "Dictionary sources"
+msgstr "字典源"
+
+msgid "Double-click on the matching strategy to use"
+msgstr "双击要使用的匹配策略"
+
+msgid "Double-click on the source to use"
+msgstr "双击要使用的源"
+
+msgid "Double-click on the word to look up"
+msgstr "双击您想要查阅的单词"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Edit Dictionary Source"
+msgstr "编辑字典源"
+
+msgid "Edit the currently selected dictionary source"
+msgstr "删除目前选中的字典源"
+
+msgid "Error while looking up definition"
+msgstr "查阅定义出错"
+
+msgid "Error while matching"
+msgstr "匹配时出错"
+
+msgid ""
+"Error while reading reply from server:\n"
+"%s"
+msgstr ""
+"从服务器读取回复出错：\n"
+"%s"
+
+msgid "Error while retrieving the definition"
+msgstr "获取定义出错"
+
+msgid "Error while writing to “%s”"
+msgstr "写入“%s”时发生错误"
+
+msgid "FLAGS"
+msgstr "标志"
+
+msgid "GDict Options"
+msgstr "字典选项"
+
+msgid "GDict debugging flags to set"
+msgstr "要设置的 GDict 调试标志"
+
+msgid "GDict debugging flags to unset"
+msgstr "要取消的 GDict 调试标志"
+
+msgid "GNOME Dictionary"
+msgstr "GNOME 字典"
+
+msgid ""
+"GNOME Dictionary is a simple dictionary application that looks up "
+"definitions of words online. Though it looks up English definitions by "
+"default, you can easily switch to Spanish or add other online dictionaries "
+"using the DICT protocol to suit your needs."
+msgstr ""
+"GNOME 字典是一款简单的在线查询单词解释的字典应用程序。虽然默认是英语释义，但您可以根据需要，使用 DICT "
+"协议轻松切换到西班牙语或添加其他语种的在线字典。"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Invalid database “%s”"
+msgstr "无效的数据库“%s”"
+
+msgid "Invalid strategy “%s”"
+msgstr "无效的策略“%s”"
+
+msgid "Invalid transport type “%d”"
+msgstr "无效的传送类型“%d”"
+
+msgid "Longdo Thai-English Dictionaries"
+msgstr "Longdo 泰语到英语字典"
+
+msgid "Look up words in dictionaries"
+msgstr "在字典中查阅单词"
+
+msgid "Lookup failed for host “%s”: %s"
+msgstr "查阅主机“%s”失败：%s"
+
+msgid "Lookup failed for host “%s”: host not found"
+msgstr "查阅主机“%s”失败：主机未找到"
+
+msgid "Lookup failed for hostname “%s”: no suitable resources found"
+msgstr "查阅主机名“%s”失败：未找到合适的资源"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "No connection to the dictionary server at “%s:%d”"
+msgstr "“%s:%d”处的字典服务器无法连接"
+
+msgid "No context available for source “%s”"
+msgstr "源“%s”没有可用的上下文"
+
+msgid "No databases found on dictionary server at “%s”"
+msgstr "未在字典服务器“%s”找到数据库"
+
+msgid "No definitions found for “%s”"
+msgstr "未找到“%s”的定义"
+
+msgid "No dictionary source available with name “%s”"
+msgstr "没有名称为“%s”的可用字典源"
+
+msgid "No hostname defined for the dictionary server"
+msgstr "字典服务器未定义主机名"
+
+msgid "No strategies found on dictionary server at “%s”"
+msgstr "字典服务器“%s”未找到策略"
+
+msgid "No “%s” group found inside the dictionary source definition"
+msgstr "字典源定义中未找到“%s”组"
+
+msgid "P_review"
+msgstr "预览(_R)"
+
+msgid "Please wait until the current search ends."
+msgstr "请稍候，等待当前搜索结束。"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Print"
+msgstr "打印"
+
+msgid "Reload the list of available databases"
+msgstr "重新装入可用数据库列表"
+
+msgid "Reload the list of available sources"
+msgstr "重新装入可用源列表"
+
+msgid "Reload the list of available strategies"
+msgstr "重新装入可用的策略"
+
+msgid "Remove the currently selected dictionary source"
+msgstr "删除目前选中的字典源"
+
+msgid "Remove “%s”?"
+msgstr "删除“%s”吗？"
+
+msgid "Save a Copy"
+msgstr "保存副本"
+
+msgid "Set the font used for printing the definitions"
+msgstr "设定打印定义时所使用的字体"
+
+msgid "Show GDict Options"
+msgstr "显示字典选项"
+
+msgid "Similar _Words"
+msgstr "相似单词(_W)"
+
+msgid "Similar words"
+msgstr "相似单词"
+
+msgid "Source"
+msgstr "源"
+
+msgid "Source Name"
+msgstr "源名称"
+
+msgid "Spanish Dictionaries"
+msgstr "西班牙语字典"
+
+msgid "Strategies"
+msgstr "策略"
+
+msgid "Strategy to use"
+msgstr "要使用的策略"
+
+msgid "The default database to use"
+msgstr "要使用的默认数据库"
+
+msgid "The default search strategy to use"
+msgstr "要使用的默认搜索策略"
+
+msgid "The font to be used when printing"
+msgstr "打印时所使用的字体"
+
+msgid "The font to be used when printing a definition."
+msgstr "打印定义时所使用的字体。"
+
+msgid ""
+"The name of the default individual database or meta-database to use on a "
+"dictionary source. An exclamation mark (“!”) means that all the databases "
+"present in a dictionary source should be searched"
+msgstr "在字典服务器上默认使用的独立数据库或元数据库名称。叹号(“!”)表示字典程序应该在给定服务器的所有数据库中搜索"
+
+msgid ""
+"The name of the default search strategy to use on a dictionary source, if "
+"available. The default strategy is “exact”, that is match exact words."
+msgstr "字典源上要使用的默认搜索策略（如果支持）。默认的策略是“exact”，即精确匹配单词。"
+
+msgid "The name of the dictionary source used"
+msgstr "所使用的字典源名称"
+
+msgid ""
+"The name of the dictionary source used to retrieve the definitions of words."
+msgstr "用于获取单词定义的字典源名称"
+
+msgid "There was an error while displaying help"
+msgstr "显示帮助时出错"
+
+msgid "This will permanently remove the dictionary source from the list."
+msgstr "这将从列表中永久删除字典源。"
+
+msgid "Unable to connect to the dictionary server at “%s:%d”"
+msgstr "无法连接到“%s:%d”的字典服务器"
+
+msgid ""
+"Unable to connect to the dictionary server at “%s:%d”. The server replied "
+"with code %d (server down)"
+msgstr "无法连接到字典服务器“%s:%d”。服务器返回了代码 %d(服务器已停机)"
+
+msgid "Unable to create a context"
+msgstr "无法创建上下文"
+
+msgid "Unable to create a source file"
+msgstr "无法创建源文件"
+
+msgid "Unable to create socket"
+msgstr "无法创建套接字"
+
+msgid "Unable to display the preview: %s"
+msgstr "无法显示预览：%s"
+
+msgid "Unable to find dictionary source"
+msgstr "找不到字典源"
+
+msgid ""
+"Unable to get the “%s” key inside the dictionary source definition file: %s"
+msgstr "无法在字典源定义文件中找到“%s”键：%s"
+
+msgid "Unable to get the “%s” key inside the dictionary source definition: %s"
+msgstr "无法在字典源定义中找到“%s”键：%s"
+
+msgid ""
+"Unable to parse the dictionary server reply\n"
+": “%s”"
+msgstr ""
+"无法解析字典服务器回复\n"
+"：“%s”"
+
+msgid "Unable to remove source “%s”"
+msgstr "无法删除源“%s”"
+
+msgid "Unable to save source file"
+msgstr "无法保存源文件"
+
+msgid "Unable to set the channel as non-blocking: %s"
+msgstr "无法将频道设定为非屏蔽：%s"
+
+msgid "Untitled document"
+msgstr "无标题文档"
+
+msgid "View Dictionary Source"
+msgstr "查看字典源"
+
+msgid "WORD"
+msgstr "单词"
+
+msgid "WORDS"
+msgstr "单词"
+
+msgid "Words to look up"
+msgstr "要查阅的单词"
+
+msgid "Words to match"
+msgstr "要匹配的单词"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Description"
+msgstr "描述(_D)"
+
+msgid "_Find"
+msgstr "查找(_F)"
+
+msgid "_First Definition"
+msgstr "第一个定义(_F)"
+
+msgid "_Go"
+msgstr "转到(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Hostname"
+msgstr "主机名(_H)"
+
+msgid "_Last Definition"
+msgstr "最后一个定义(_L)"
+
+msgid "_New Window"
+msgstr "新建窗口(_N)"
+
+msgid "_Next Definition"
+msgstr "下一个定义(_N)"
+
+msgid "_Port"
+msgstr "端口(_P)"
+
+msgid "_Previous Definition"
+msgstr "上一个定义(_P)"
+
+msgid "_Print"
+msgstr "打印(_P)"
+
+msgid "_Print font:"
+msgstr "打印字体(_P)："
+
+msgid "_Remove"
+msgstr "移除(_R)"
+
+msgid "_Save"
+msgstr "保存(_S)"
+
+msgid "_Save a Copy…"
+msgstr "保存副本(_S)..."
+
+msgid "_Select a dictionary source for looking up words:"
+msgstr "选择查阅单词的字典源(_S)："
+
+msgid "_Sidebar"
+msgstr "侧边栏(_S)"
+
+msgid "_Transport"
+msgstr "传送(_T)"
+
+msgid "_View"
+msgstr "查看(_V)"
+
+msgid "dict.org"
+msgstr "dict.org"
+
+msgid "translator-credits"
+msgstr ""
+"Wang Li <charlesw1234@163.com>\n"
+"Funda Wang <fundawang@linux.net.cn>\n"
+"tuhaihe <1132321739qq@gmail.com>\n"
+"Tong Hui <tonghuix@gmail.com>\n"
+"Dingzhong Chen <wsxy162@gmail.com>\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Qizhi Zhou https://launchpad.net/~zhouqz"
+
+msgid "word;synonym;definition;spelling;"
+msgstr "word;synonym;definition;spelling;单词;同义词;定义;拼写;"

@@ -1,0 +1,533 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-color-manager master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-color-manager&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-08 10:22+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:26+0000\n"
+
+msgid "%B %e %Y, %I∶%M∶%S %p"
+msgstr "%Y 年 %-m 月 %e 日, %H:%M:%S"
+
+msgid "A CIE 1931 diagram shows a 2D representation of the profile gamut"
+msgstr "CIE 1931 图表显示配置文件色域的一个平面表示"
+
+msgid "A scum dot is present for media white"
+msgstr "媒体白中有渣点"
+
+msgid ""
+"A tone reproduction curve is the mapping of scene luminance to display "
+"luminance"
+msgstr "色调重绘曲线是场景亮度到显示亮度的映射"
+
+msgid "A video card gamma table shows the curves loaded into the display"
+msgstr "视频卡 gamma 表显示已载入显示的曲线"
+
+msgid "Abstract"
+msgstr "摘要"
+
+msgid "Add a profile for the device"
+msgstr "为设备添加配置文件"
+
+msgid "Adobe RGB coverage"
+msgstr "Adobe RGB 覆盖率"
+
+msgid "All files"
+msgstr "全部文件"
+
+msgid "Ambient"
+msgstr "光照"
+
+msgid ""
+"Are you sure you want to remove this profile from your system permanently?"
+msgstr "你确定想从系统中永久删除该配置？"
+
+msgid "CIE 1931"
+msgstr "CIE 1931"
+
+msgid "CMY"
+msgstr "CMY"
+
+msgid "CMYK"
+msgstr "CMYK"
+
+msgid "Calibration device"
+msgstr "校准设备"
+
+msgid "Color Picker"
+msgstr "色彩拾取器"
+
+msgid "Color Profile Viewer"
+msgstr "配置查看器"
+
+msgid "Color Temperature"
+msgstr "色温"
+
+msgid "Color profile is already imported"
+msgstr "色彩配置文件已经导入"
+
+msgid "Color;ICC;"
+msgstr "Color;ICC;颜色;色彩;"
+
+msgid "Colorspace"
+msgstr "色彩空间"
+
+msgid "Colorspace conversion"
+msgstr "色彩空间转换"
+
+msgid "Colorspace: "
+msgstr "色彩空间： "
+
+msgid "Connection type"
+msgstr "连接类型"
+
+msgid "Copyright"
+msgstr "版权"
+
+msgid "Copyright:"
+msgstr "版权："
+
+msgid "Created"
+msgstr "已创建"
+
+msgid "Data source type"
+msgstr "数据源类型"
+
+msgid "Debugging Options"
+msgstr "调试选项"
+
+msgid "Default %s"
+msgstr "默认 %s"
+
+msgid "Default: "
+msgstr "默认： "
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete this profile"
+msgstr "删除此配置"
+
+msgid "Delta-E RMS"
+msgstr "Delta-E RMS"
+
+msgid "Delta-E average"
+msgstr "Delta-E 平均值"
+
+msgid "Delta-E maximum"
+msgstr "Delta-E 最大值"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Devicelink"
+msgstr "设备连接"
+
+msgid "Display PNPID"
+msgstr "显示器 PNPID"
+
+msgid "Display checksum"
+msgstr "显示器检验"
+
+msgid "Display correction"
+msgstr "显示校正"
+
+msgid "Display device"
+msgstr "显示设备"
+
+msgid "Display model"
+msgstr "显示器型号"
+
+msgid "Display serial number"
+msgstr "显示器序列号"
+
+msgid "Display vendor"
+msgstr "显示器制造商"
+
+msgid "Dump all details about this system"
+msgstr "转储该系统的所有详细信息"
+
+msgid "EDID inspect program"
+msgstr "EDID 检查程序"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Failed to connect to session bus:"
+msgstr "连接会话总线失败："
+
+msgid "Failed to copy file"
+msgstr "复制文件失败"
+
+msgid "Failed to import file"
+msgstr "导入文件失败"
+
+msgid "Failed to open ICC profile"
+msgstr "无法打开 ICC 配置文件"
+
+msgid "Failed to parse file: %s"
+msgstr "无法解析文件：%s"
+
+msgid "File checksum"
+msgstr "文件校验"
+
+msgid "File size"
+msgstr "文件大小"
+
+msgid "Filename"
+msgstr "文件名"
+
+msgid "Framework product"
+msgstr "框架产品"
+
+msgid "Framework program"
+msgstr "框架程序"
+
+msgid "Framework version"
+msgstr "框架版本"
+
+msgid "From sRGB"
+msgstr "从 sRGB"
+
+msgid "GNOME Color Manager"
+msgstr "GNOME 色彩管理器"
+
+msgid "GNOME Color Manager Color Picker"
+msgstr "GNOME 色彩管理器色彩拾取器"
+
+msgid ""
+"GNOME Color Profile Viewer shows installed color profiles on your system and"
+" allows you to calibrate displays, printers and cameras using a wizard."
+msgstr "GNOME 色彩配置查看器显示了系统中已经安装的色彩配置文件，并且可以通过向导来校准您的显示器、打印机及照相机。"
+
+msgid "Gamut volume"
+msgstr "色域体积"
+
+msgid "Get the profile for a specific window"
+msgstr "取得指定窗口的配置文件"
+
+msgid "Get the profiles for a specific file"
+msgstr "取得特定文件的配置文件"
+
+msgid "Gray"
+msgstr "灰度"
+
+msgid "HSV"
+msgstr "HSV"
+
+msgid "ICC Profile Installer"
+msgstr "ICC 配置文件安装器"
+
+msgid "ICC profile to install"
+msgstr "要安装的 ICC 配置文件"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import color profile?"
+msgstr "导入色彩配置文件？"
+
+msgid "Import device color profile?"
+msgstr "导入设备色彩配置文件？"
+
+msgid "Import display color profile?"
+msgstr "导入显示器色彩配置文件？"
+
+msgid "Import named color profile?"
+msgstr "导入已命名色彩配置文件？"
+
+msgid "Information"
+msgstr "信息"
+
+msgid "Input device"
+msgstr "输入设备"
+
+msgid "Inspect and compare installed color profiles"
+msgstr "检查并比较已安装的色彩配置文件"
+
+msgid "Install ICC profiles"
+msgstr "安装 ICC 配置文件"
+
+msgid "LAB"
+msgstr "LAB"
+
+msgid "LUV"
+msgstr "LUV"
+
+msgid "Lab (D50)"
+msgstr "Lab (D50)"
+
+msgid "Manufacturer"
+msgstr "制造商"
+
+msgid "Mapping device"
+msgstr "映射设备"
+
+msgid "Mapping format"
+msgstr "映射格式"
+
+msgid "Mapping qualifier"
+msgstr "映射限定符"
+
+msgid "Media whitepoint"
+msgstr "媒体白点"
+
+msgid "Metadata"
+msgstr "元数据"
+
+msgid ""
+"Metadata is additional information stored in the profile for programs to "
+"use."
+msgstr "元数据是储存在配置文件中供程序使用的额外信息。"
+
+msgid "Model"
+msgstr "型号"
+
+msgid "Named Colors"
+msgstr "已命名的色彩"
+
+msgid "Named color"
+msgstr "已命名的色彩"
+
+msgid "Named colors are specific colors that are defined in the profile"
+msgstr "已命名的色彩是配置文件中已定义的特定色彩"
+
+msgid "Next Image"
+msgstr "下一个图像"
+
+msgid "No"
+msgstr "否"
+
+msgid "No %s color spaces available"
+msgstr "没有 %s 色彩空间可用"
+
+msgid "No colorimeter is attached."
+msgstr "未连接色度计。"
+
+msgid "No copyright has been set"
+msgstr "未设置版权"
+
+msgid "No description has been set"
+msgstr "未设置描述"
+
+msgid "No filename specified"
+msgstr "没有指定文件名"
+
+msgid "No profile"
+msgstr "无色彩配置文件"
+
+msgid "One or more of the primaries are invalid"
+msgstr "存在一个或多个无效的基色"
+
+msgid "One or more of the primaries is unlikely"
+msgstr "存在一个或多个不可能的基色"
+
+msgid "Output device"
+msgstr "输出设备"
+
+msgid "Permanently delete profile?"
+msgstr "永久删除配置？"
+
+msgid "Previous Image"
+msgstr "上一个图像"
+
+msgid "Profile copyright:"
+msgstr "配置文件版权："
+
+msgid "Profile description: %s"
+msgstr "配置文件描述：%s"
+
+msgid "Profile type"
+msgstr "配置文件类型"
+
+msgid "RGB"
+msgstr "RGB"
+
+msgid "Remove a profile from the device"
+msgstr "移除这个设备的配置文件"
+
+msgid "Response in"
+msgstr "输入响应"
+
+msgid "Response out"
+msgstr "输出响应"
+
+msgid "Results"
+msgstr "结果"
+
+msgid "Root window profile:"
+msgstr "根窗口配置文件："
+
+msgid "Root window protocol version:"
+msgstr "根窗口协议版本："
+
+msgid "Screen brightness"
+msgstr "屏幕亮度"
+
+msgid "Screen surface finish"
+msgstr "屏幕表面完成"
+
+msgid "Select ICC Profile File"
+msgstr "选择 ICC 配置文件"
+
+msgid "Set the parent window to make this modal"
+msgstr "设定父窗口使用此模式"
+
+msgid "Set the specific file to show"
+msgstr "设置要显示的特定文件"
+
+msgid "Set the specific profile to show"
+msgstr "设置要显示的特定配置文件"
+
+msgid "Show Details"
+msgstr "显示细节"
+
+msgid "Show debugging information for all files"
+msgstr "为所有文件显示调试信息"
+
+msgid "Show debugging options"
+msgstr "显示调试选项"
+
+msgid "Show xserver properties"
+msgstr "显示 xserver 属性"
+
+msgid "Standard space"
+msgstr "标准空间"
+
+msgid "Suitable profiles for:"
+msgstr "适合的配置文件："
+
+msgid "Supported ICC profiles"
+msgstr "支持的 ICC 配置文件"
+
+msgid "TRC"
+msgstr "TRC"
+
+msgid "Test profile: "
+msgstr "测试配置文件： "
+
+msgid "The attached colorimeter is not capable of reading a spot color."
+msgstr "连接的色度计无法读取颜色点。"
+
+msgid "The display compensation table is invalid"
+msgstr "显示补偿表无效"
+
+msgid "The gray axis contains significant amounts of color"
+msgstr "该灰轴包含大量颜色"
+
+msgid "The gray axis is non-monotonic"
+msgstr "该灰轴非单色调"
+
+msgid "The primaries do not add to white"
+msgstr "该基色无法加入白色"
+
+msgid "The profile has the following problems:"
+msgstr "该配置文件有下列问题："
+
+msgid "The request failed:"
+msgstr "请求失败："
+
+msgid "The sensor has no native driver."
+msgstr "传感器没有本地驱动程序。"
+
+msgid "The white is not D50 white"
+msgstr "该白色不是 D50 白"
+
+msgid "The whitepoint temperature is unlikely"
+msgstr "不可能存在该白点温度"
+
+msgid "There are no ICC profiles assigned to this file"
+msgstr "没有分配到此文件的 ICC 配置"
+
+msgid "There are no ICC profiles for this window"
+msgstr "没有此窗口的 ICC 配置文件"
+
+msgid ""
+"This functionality is typically used by GNOME Control Center from the color "
+"panel although can be used on its own."
+msgstr "这个功能一般是通过 GNOME 控制中心的色彩面板访问的，但也可以独立使用。"
+
+msgid "This profile cannot be deleted"
+msgstr "无法删除此配置"
+
+msgid "This shows what an image would look like if opened with the profile"
+msgstr "这会显示一个图像以该配置文件打开会是什么样"
+
+msgid "This shows what an image would look like if saved with the profile"
+msgstr "这会显示一个图像以该配置文件储存会是什么样"
+
+msgid "To sRGB"
+msgstr "至 sRGB"
+
+msgid "Unknown"
+msgstr "未知的"
+
+msgid "Unknown warning type"
+msgstr "未知的警告类型"
+
+msgid "Use the color sensor to sample spot colors"
+msgstr "使用色彩传感器对点颜色进行采样"
+
+msgid "VCGT"
+msgstr "VCGT"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Video card out"
+msgstr "视频卡输出"
+
+msgid "Warnings"
+msgstr "警告"
+
+msgid "White point"
+msgstr "白点"
+
+msgid "XYZ"
+msgstr "XYZ"
+
+msgid "YCbCr"
+msgstr "YCbCr"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "Yxy"
+msgstr "Yxy"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Import"
+msgstr "导入(_I)"
+
+msgid "_Measure"
+msgstr "测量(_M)"
+
+msgid "application-vnd.iccprofile"
+msgstr "application-vnd.iccprofile"
+
+msgid "gnome-color-manager"
+msgstr "gnome-color-manager"
+
+msgid "gray"
+msgstr "灰度"
+
+msgid "sRGB coverage"
+msgstr "sRGB 覆盖率"
+
+msgid "sRGB example"
+msgstr "sRGB 样本"
+
+msgid "x"
+msgstr "x"
+
+msgid "y"
+msgstr "y"

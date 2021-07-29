@@ -1,0 +1,94 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-menus HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-menus&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-03 07:40+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:25+0000\n"
+
+msgid "Accessories"
+msgstr "附件"
+
+msgid "Applications"
+msgstr "应用程序"
+
+msgid "Applications and sites saved from Web"
+msgstr "保存的网站和 Web 应用程序"
+
+msgid "Applications that did not fit in other categories"
+msgstr "无法分入其它类别的应用程序"
+
+msgid "Desktop accessories"
+msgstr "桌面附件"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Games"
+msgstr "游戏"
+
+msgid "Games and amusements"
+msgstr "游戏和娱乐"
+
+msgid "Graphics"
+msgstr "图形"
+
+msgid "Graphics applications"
+msgstr "图形应用程序"
+
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Multimedia menu"
+msgstr "多媒体菜单"
+
+msgid "Office"
+msgstr "办公"
+
+msgid "Office Applications"
+msgstr "办公应用程序"
+
+msgid "Other"
+msgstr "其它"
+
+msgid "Programming"
+msgstr "编程"
+
+msgid "Programs for Internet access such as web and email"
+msgstr "网络相关应用软件，如网络浏览和电子邮件管理"
+
+msgid "Small but useful GNOME tools"
+msgstr "有用的 GNOME 小工具"
+
+msgid "Sound & Video"
+msgstr "影音"
+
+msgid "Sundry"
+msgstr "杂项"
+
+msgid "System Tools"
+msgstr "系统工具"
+
+msgid "System configuration and monitoring"
+msgstr "系统配置和监视"
+
+msgid "Tools for software development"
+msgstr "软件开发工具"
+
+msgid "Universal Access"
+msgstr "通用访问"
+
+msgid "Universal Access Settings"
+msgstr "通用访问设置"
+
+msgid "Utilities"
+msgstr "工具"
+
+msgid "Web Applications"
+msgstr "基于 Web 的应用"

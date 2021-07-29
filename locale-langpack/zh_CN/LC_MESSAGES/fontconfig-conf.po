@@ -1,0 +1,101 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: fontconfig 2.12.92\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=fontconfig\n"
+"PO-Revision-Date: 2018-10-02 09:24+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: AOSC\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:07+0000\n"
+
+msgid "Accept bitmap fonts"
+msgstr "接受点阵字体"
+
+msgid "Add sans-serif to the family when no generic name"
+msgstr "在没有通用名称时添加 sans-serif 到字体家族"
+
+msgid "Bitmap scaling"
+msgstr "位图缩放"
+
+msgid "Disable hinting"
+msgstr "禁用微调"
+
+msgid ""
+"Disable hinting for Bitstream Vera fonts when the size is less than 8ppem"
+msgstr "为大小小于 8ppem 的 Bitstream Vera 字体禁用微调"
+
+msgid "Disable hinting for CJK fonts"
+msgstr "为中日韩 (CJK) 字体禁用微调"
+
+msgid "Disable sub-pixel rendering"
+msgstr "禁用次像素渲染"
+
+msgid "Enable autohinter"
+msgstr "启用自动微调"
+
+msgid "Enable sub-pixel rendering with the BGR stripes layout"
+msgstr "启用蓝绿红 (BGR) 像素布局的次像素渲染"
+
+msgid "Enable sub-pixel rendering with the RGB stripes layout"
+msgstr "启用红绿蓝 (RGB) 像素布局的次像素渲染"
+
+msgid "Enable sub-pixel rendering with the vertical BGR stripes layout"
+msgstr "启用垂直蓝绿红 (BGR) 像素布局的次像素渲染"
+
+msgid "Enable sub-pixel rendering with the vertical RGB stripes layout"
+msgstr "启用垂直红绿蓝 (RGB) 像素布局的次像素渲染"
+
+msgid "Load local customization file"
+msgstr "载入本地自定义文件"
+
+msgid "Load per-user customization files"
+msgstr "载入用户自定义文件"
+
+msgid "Reject bitmap fonts"
+msgstr "排除点阵字体"
+
+msgid "Set hintfull to hintstyle"
+msgstr "设置微调风格为“完全 (hintfull)”"
+
+msgid "Set hintmedium to hintstyle"
+msgstr "设置微调风格为“中等 (hintmedium)”"
+
+msgid "Set hintnone to hintstyle"
+msgstr "设置微调风格为“无 (hintnone)”"
+
+msgid "Set hintslight to hintstyle"
+msgstr "设置微调风格为“轻微 (hintslight)”"
+
+msgid "Set preferable fonts for Latin"
+msgstr "设置首选拉丁语言字体"
+
+msgid "Set preferable fonts for emoji/math fonts"
+msgstr "设置首选绘文字 (Emoji) 或数学字体"
+
+msgid "Set preferable fonts for non-Latin"
+msgstr "设置首选非拉丁语言字体"
+
+msgid "Set substitutions for Latin fonts"
+msgstr "为拉丁语言字体设置替换"
+
+msgid "Set substitutions for emoji/math fonts"
+msgstr "为绘文字 (Emoji) 或数学字体设置替换"
+
+msgid "Set substitutions for non-Latin fonts"
+msgstr "为非拉丁语言字体设置替换"
+
+msgid "Set substitutions for similar/metric-compatible families"
+msgstr "为相似或规格兼容的字体家族设置替换"
+
+msgid "Use lcddefault as default for LCD filter"
+msgstr "将 lcddefault 设为默认 LCD 滤镜"
+
+msgid "Use lcdlegacy as default for LCD filter"
+msgstr "将 lcdlegacy 设为默认 LCD 滤镜"
+
+msgid "Use lcdlight as default for LCD filter"
+msgstr "将 lcdlight 设为默认 LCD 滤镜"

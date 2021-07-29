@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ldm\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2009-10-06 13:08+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:01+0000\n"
+
+msgid "Automatic login in %d seconds"
+msgstr "%d 秒后自动登陆"
+
+msgid "Change _Language"
+msgstr "更改语言(_L)"
+
+msgid "Change _Session"
+msgstr "更改会话(_S)"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Failsafe xterm"
+msgstr "xterm 安全模式"
+
+msgid "Login as Guest"
+msgstr "以来宾登录"
+
+msgid "No response from server, restarting..."
+msgstr "服务器未响应，重新启动..."
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Select _Host ..."
+msgstr "选择主机(_H)..."
+
+msgid "Select _Language ..."
+msgstr "选择语言(_L)..."
+
+msgid "Select _Session ..."
+msgstr "选择会话(_S)..."
+
+msgid "Select the host for your session to use:"
+msgstr "选择您的会话所使用的主机："
+
+msgid "Select the language for your session to use:"
+msgstr "选择您的会话所使用的语言："
+
+msgid "Select your session manager:"
+msgstr "选择您的会话管理器："
+
+msgid "Shut_down"
+msgstr "关闭(_D)"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "_Reboot"
+msgstr "重新启动(_R)"

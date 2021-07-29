@@ -1,0 +1,291 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker trunk\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=tracker&keywords=I18N+L10N&component=General\n"
+"PO-Revision-Date: 2020-04-06 14:19+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:31+0000\n"
+
+msgid " %2.2d hour"
+msgid_plural " %2.2d hours"
+msgstr[0] " %2.2d 时"
+
+msgid " %2.2d minute"
+msgid_plural " %2.2d minutes"
+msgstr[0] " %2.2d 分"
+
+msgid " %2.2d second"
+msgid_plural " %2.2d seconds"
+msgstr[0] " %2.2d 秒"
+
+msgid " %2.2dh"
+msgstr " %2.2dh"
+
+msgid " %2.2dm"
+msgstr " %2.2dm"
+
+msgid " %2.2ds"
+msgstr " %2.2ds"
+
+msgid " %d day"
+msgid_plural " %d days"
+msgstr[0] " %d 天"
+
+msgid " %dd"
+msgstr " %dd"
+
+msgid "Add feed"
+msgstr "添加订阅 feed"
+
+msgid "Avoid any directory containing a file blacklisted here"
+msgstr "忽略任何包含此处所列黑名单文件的目录"
+
+msgid "Checks if FILE is eligible for being mined based on configuration"
+msgstr "检查文件是否适宜基于配置的挖掘"
+
+msgid "Could not add feed"
+msgstr "无法添加 Feed"
+
+msgid "Could not establish a connection to Tracker"
+msgstr "无法建立到 Tracker 的连接"
+
+msgid "Crawling interval"
+msgstr "抓取间隔"
+
+msgid "Directories to index non-recursively"
+msgstr "非递归索引的目录"
+
+msgid "Directories to index recursively"
+msgstr "递归索引的目录"
+
+msgid "Directory is NOT eligible to be mined (based on contents)"
+msgstr "目录不适宜进行挖掘(基于内容)"
+
+msgid "Directory is NOT eligible to be mined (based on rules)"
+msgstr "目录不适宜进行挖掘(基于规范)"
+
+msgid "Directory is NOT eligible to be monitored (based on config)"
+msgstr "目录不适宜进行监控(基于配置)"
+
+msgid "Directory is eligible to be mined (based on contents)"
+msgstr "目录适宜进行挖掘(基于内容)"
+
+msgid "Directory is eligible to be mined (based on rules)"
+msgstr "目录适宜进行挖掘(基于规范)"
+
+msgid "Directory is eligible to be monitored (based on config)"
+msgstr "目录适宜进行监控(基于配置)"
+
+msgid "Disable shutting down after 30 seconds of inactivity"
+msgstr "闲置 30 秒之后禁用关闭"
+
+msgid ""
+"Disk space threshold in percent at which to pause indexing, or -1 to "
+"disable."
+msgstr "暂停索引的磁盘空间阈值百分比；或设为 -1 以禁止。"
+
+msgid "Displays version information"
+msgstr "显示版本信息"
+
+msgid "Enable monitors"
+msgstr "启用监视"
+
+msgid "Enable writeback"
+msgstr "启用写回"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "FORMAT"
+msgstr "格式"
+
+msgid "File is NOT eligible to be mined (based on rules)"
+msgstr "文件不适宜进行挖掘(基于规范)"
+
+msgid "File is NOT eligible to be monitored (based on config)"
+msgstr "文件不适宜进行监控(基于配置)"
+
+msgid "File is eligible to be mined (based on rules)"
+msgstr "文件适宜进行挖掘(基于规范)"
+
+msgid "File is eligible to be monitored (based on config)"
+msgstr "文件适宜进行监控(基于配置)"
+
+msgid "File or Directory is NOT eligible to be monitored (based on config)"
+msgstr "文件或目录不适宜进行监控(基于配置)"
+
+msgid "File or Directory is eligible to be monitored (based on config)"
+msgstr "文件或目录适宜进行监控(基于配置)"
+
+msgid "File to extract metadata for"
+msgstr "为其提取元素就的文件"
+
+msgid "Filename and mime type must be provided together"
+msgstr "必须同时提供文件名和 mime 类型"
+
+msgid "Ignored directories"
+msgstr "忽略的目录"
+
+msgid "Ignored directories with content"
+msgstr "忽略的含内容的目录"
+
+msgid "Ignored files"
+msgstr "忽略的文件"
+
+msgid "Index optical discs"
+msgstr "索引光盘"
+
+msgid "Index removable devices"
+msgstr "索引可移动设备"
+
+msgid "Index when running on battery"
+msgstr "在电池供电时进行索引"
+
+msgid "Indexing speed, the higher the slower."
+msgstr "索引速度，越高越慢。"
+
+msgid "Initial sleep"
+msgstr "初始睡眠"
+
+msgid "Initial sleep time in seconds, 0->1000 (default=15)"
+msgstr "以秒为单位的初始睡眠时间，0 到 1000 (默认 15)"
+
+msgid "Initial sleep time, in seconds."
+msgstr "以秒为单位的初始睡眠时间。"
+
+msgid ""
+"Interval in days to check whether the filesystem is up to date in the "
+"database. 0 forces crawling anytime, -1 forces it only after unclean "
+"shutdowns, and -2 disables it entirely."
+msgstr "检查数据库中的文件系统是否为最新的间隔天数。0 强制在任意时间抓取，-1 强制只在非正常关机后抓取，-2 完全禁止检查。"
+
+msgid "List of directories to avoid"
+msgstr "忽略目录列表"
+
+msgid "List of file patterns to avoid"
+msgstr "要忽略的文件模式列表"
+
+msgid "Log verbosity"
+msgstr "日志详细度"
+
+msgid "Log verbosity."
+msgstr "日志的详细程度。"
+
+msgid ""
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug (default ="
+" 0)"
+msgstr "记录日志，0 = 只记录错误，1 = 最小， 2 = 详细， 3 = 调试 (默认 = 0)"
+
+msgid ""
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug "
+"(default=0)"
+msgstr "记录日志，0 = 只记录错误，1 = 最小，2 = 详细，3 = 调试 (默认 = 0)"
+
+msgid "Low disk space limit"
+msgstr "磁盘空间下限"
+
+msgid "MIME"
+msgstr "MIME"
+
+msgid "MIME type for file (if not provided, this will be guessed)"
+msgstr "文件的 MIME 类型 (如果不提供，将进行猜测)"
+
+msgid "MODULE"
+msgstr "模块"
+
+msgid "Max bytes to extract"
+msgstr "要提取的最大字节数"
+
+msgid "Maximum number of UTF-8 bytes to extract."
+msgstr "要提取的最大 UTF-8 字节数。"
+
+msgid "Metadata extraction failed"
+msgstr "元数据提取失败"
+
+msgid "No"
+msgstr "否"
+
+msgid "No error given"
+msgstr "未指定错误"
+
+msgid "No metadata or extractor modules found to handle this file"
+msgstr "没有找到处理此文件的原数据或提取器模块"
+
+msgid "Perform initial indexing when running on battery"
+msgstr "电池供电时进行初始索引"
+
+msgid "Runs until all configured locations are indexed and then exits"
+msgstr "运行到所有配置的位置都已索引，然后退出"
+
+msgid "Scheduler priority when idle"
+msgstr "空闲时的调度器优先级"
+
+msgid "Set to false to completely disable any file monitoring"
+msgstr "设为 false 以完全禁止任何文件监视"
+
+msgid "Set to false to completely disable any file writeback"
+msgstr "设为 false 以完全禁止任何文件写回"
+
+msgid ""
+"Set to true to enable indexing mounted directories for removable devices."
+msgstr "设为 true 来启用对可移动设备挂载目录的索引。"
+
+msgid "Set to true to index while running on battery"
+msgstr "设置为 true 以在电池供电时进行索引"
+
+msgid "Set to true to index while running on battery for the first time only"
+msgstr "设为 true 来只在首次电池供电时进行索引"
+
+msgid ""
+"The scheduler is the kernel component that decides which runnable "
+"application will be executed by the CPU next. Each application has an "
+"associated scheduling policy and priority."
+msgstr "调度器是内核组件，它决定 CPU 下一个要执行的可运行的应用程序。每个应用程序都有一个相关联的调度策略和优先级。"
+
+msgid ""
+"Threshold in days after which files from removables devices will be removed "
+"from database if not mounted. 0 means never, maximum is 365."
+msgstr "在可移动设备未挂载情况下，其中的文件从数据库中移除的天数阈值。0 表示从不移除，最大值为 365。"
+
+msgid "Throttle"
+msgstr "油门"
+
+msgid "Title to use (must be used with --add-feed)"
+msgstr "要使用的标题(必须与 --add-feed 一起使用)"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Wait for FS miner to be done before extracting"
+msgstr "提取前等待文件系统挖掘器(FS miner)完成"
+
+msgid ""
+"When true, tracker-extract will wait for tracker-miner-fs to be done "
+"crawling before extracting meta-data. This option is useful on constrained "
+"environment where it is important to list files as fast as possible and can "
+"wait to get meta-data later."
+msgstr ""
+"若为 true，tracker-extract 会在提取元数据前等待 tracker-miner-fs "
+"完成爬取。在需要尽管列出文件，获取元数据可以稍后进行的受限环境下，此选项非常有用。"
+
+msgid "Would be indexed"
+msgstr "可能会被索引"
+
+msgid "Would be monitored"
+msgstr "可能会被监控"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "less than one second"
+msgstr "不到一秒"
+
+msgid "unknown time"
+msgstr "未知时间"

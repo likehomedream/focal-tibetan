@@ -1,0 +1,273 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: opcodes 2.15.96\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-19 13:21+0000\n"
+"Last-Translator: Meng Jie <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:36+0000\n"
+
+msgid "\n"
+msgstr "\n"
+
+msgid ""
+"\n"
+"  cp0-names=ARCH           Print CP0 register names according to\n"
+"                           specified architecture.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+"\n"
+"  cp0-names=ARCH           根据指定的架构打印 CP0 寄存器名。\n"
+"                           默认：根据被反汇编的二进制代码。\n"
+
+msgid ""
+"\n"
+"  fpr-names=ABI            Print FPR names according to specified ABI.\n"
+"                           Default: numeric.\n"
+msgstr ""
+"\n"
+"  fpr-names=ABI            根据指定的 ABI 打印浮点寄存器名。\n"
+"                           默认：数字。\n"
+
+msgid ""
+"\n"
+"  gpr-names=ABI            Print GPR names according to  specified ABI.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+"\n"
+"  gpr-names=ABI            根据指定的 ABI 打印通用寄存器名。\n"
+"                           默认：根据被反汇编的二进制文件。\n"
+
+msgid ""
+"\n"
+"  hwr-names=ARCH           Print HWR names according to specified \n"
+"\t\t\t   architecture.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+"\n"
+"  hwr-names=ARCH           根据指定的架构打印 HWR 寄存器名。\n"
+"                           默认：根据被反汇编的二进制代码。\n"
+
+msgid ""
+"\n"
+"  reg-names=ABI            Print GPR and FPR names according to\n"
+"                           specified ABI.\n"
+msgstr ""
+"\n"
+"  reg-names=ABI            根据指定的 ABI 打印通用寄存器和浮点寄存\n"
+"                           器名。\n"
+
+msgid ""
+"\n"
+"  reg-names=ARCH           Print CP0 register and HWR names according to\n"
+"                           specified architecture.\n"
+msgstr ""
+"\n"
+"  reg-names=ARCH           根据指定的架构打印 CP0 和 HWR 寄存器名。\n"
+
+msgid ""
+"\n"
+"The following ARM specific disassembler options are supported for use with\n"
+"the -M switch:\n"
+msgstr ""
+"\n"
+"下列 ARM 特定的反汇编器选项在使用 -M 开关时可用：\n"
+
+msgid "$<undefined>"
+msgstr "$<未定义>"
+
+msgid "%02x\t\t*unknown*"
+msgstr "%02x\t\t*未知*"
+
+msgid "%s: Error: "
+msgstr "%s：错误： "
+
+msgid "%s: Warning: "
+msgstr "%s：警告： "
+
+msgid "(DP) offset out of range."
+msgstr "(DP) 偏移量越界"
+
+msgid "(SP) offset out of range."
+msgstr "(SP) 偏移量越界。"
+
+msgid "(unknown)"
+msgstr "(未知)"
+
+msgid "*unknown*"
+msgstr "*未知*"
+
+msgid "21-bit offset out of range"
+msgstr "21位长的偏移量越界"
+
+msgid "<function code %d>"
+msgstr "<函数代码 %d>"
+
+msgid "<illegal precision>"
+msgstr "<非法的精度>"
+
+msgid "<internal disassembler error>"
+msgstr "<反汇编器内部错误>"
+
+msgid "<internal error in opcode table: %s %s>\n"
+msgstr "<操作数表中出现内部错误：%s %s>\n"
+
+msgid "<unknown register %d>"
+msgstr "<未知的寄存器 %d>"
+
+msgid "Address 0x%s is out of bounds.\n"
+msgstr "地址 0x%s 越界。\n"
+
+msgid "Bad immediate expression"
+msgstr "错误的立即数表达式"
+
+msgid "Bad register in postincrement"
+msgstr "后置自增中使用了错误的寄存器"
+
+msgid "Bad register in preincrement"
+msgstr "前置自增中使用了错误的寄存器"
+
+msgid "Bad register name"
+msgstr "错误的寄存器名"
+
+msgid "Don't know how to specify # dependency %s\n"
+msgstr "不知道如何指定 # 依赖 %s\n"
+
+msgid "Hmmmm 0x%x"
+msgstr "Hmmmm 0x%x"
+
+msgid "Internal disassembler error"
+msgstr "反汇编器内部错误"
+
+msgid "Internal error:  bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr "内部错误：错误的 sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
+
+msgid "Internal error: bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr "内部错误：错误的 sparc-opcode.h：“%s”，%#.8lx，%#.8lx\n"
+
+msgid "Label conflicts with `Rx'"
+msgstr "标号与‘Rx’冲突"
+
+msgid "Label conflicts with register name"
+msgstr "标号与寄存器名冲突"
+
+msgid "Operand is not a symbol"
+msgstr "操作数不是一个符号"
+
+msgid "Syntax error: No trailing ')'"
+msgstr "语法错误：没有结尾的‘)’"
+
+msgid "Unknown error %d\n"
+msgstr "未知错误 %d\n"
+
+msgid "Unrecognised disassembler option: %s\n"
+msgstr "无法识别的反汇编器选项：%s\n"
+
+msgid "Unrecognised register name set: %s\n"
+msgstr "无法识别的寄存器名称集：%s\n"
+
+msgid "bad instruction `%.50s'"
+msgstr "错误的指令‘%.50s’"
+
+msgid "bad instruction `%.50s...'"
+msgstr "错误的指令‘%.50s...’"
+
+msgid "branch operand unaligned"
+msgstr "分支操作数未对齐"
+
+msgid "branch to odd offset"
+msgstr "跳转偏移量为奇数"
+
+msgid "branch value not in range and to odd offset"
+msgstr "跳转越界且跳转偏移量为奇数"
+
+msgid "branch value out of range"
+msgstr "跳转越界"
+
+msgid "displacement value is not aligned"
+msgstr "偏移值未对齐"
+
+msgid "displacement value is out of range"
+msgstr "偏移值越界"
+
+msgid "don't know how to specify %% dependency %s\n"
+msgstr "不知道如何指定 %% 依赖 %s\n"
+
+msgid "illegal bitmask"
+msgstr "非法的位掩码"
+
+msgid "illegal use of parentheses"
+msgstr "括号的使用非法"
+
+msgid "immediate value cannot be register"
+msgstr "立即数不能是寄存器"
+
+msgid "immediate value is out of range"
+msgstr "立即数越界"
+
+msgid "immediate value out of range"
+msgstr "立即数越界"
+
+msgid "invalid conditional option"
+msgstr "无效的条件选项"
+
+msgid "invalid mask field"
+msgstr "无效的掩码字段"
+
+msgid "invalid register for stack adjustment"
+msgstr "用于调整堆栈的寄存器无效"
+
+msgid "jump hint unaligned"
+msgstr "跳转提示未对齐"
+
+msgid "junk at end of line"
+msgstr "行尾有垃圾字符"
+
+msgid "missing `)'"
+msgstr "缺少‘)’"
+
+msgid "missing mnemonic in syntax string"
+msgstr "语法字符串中没有助记符"
+
+msgid "operand out of range (%ld not between %ld and %ld)"
+msgstr "操作数越界(%ld 不在 %ld 和 %ld 之间)"
+
+msgid "operand out of range (%ld not between %ld and %lu)"
+msgstr "操作数越界(%ld 不在 %ld 和 %lu 之间)"
+
+msgid "operand out of range (%lu not between %lu and %lu)"
+msgstr "操作数越界(%lu 不在 %lu 和 %lu 之间)"
+
+msgid "register number must be even"
+msgstr "寄存器数必须是偶数"
+
+msgid "syntax error (expected char `%c', found `%c')"
+msgstr "语法错误(需要字符‘%c’，得到‘%c’)"
+
+msgid "syntax error (expected char `%c', found end of instruction)"
+msgstr "语法错误(需要字符‘%c’，却到达指令尾)"
+
+msgid "unable to change directory to \"%s\", errno = %s\n"
+msgstr "无法将当前目录切换至“%s”，errno = %s\n"
+
+msgid "undefined"
+msgstr "未定义"
+
+msgid "unknown"
+msgstr "未知"
+
+msgid "unknown\t0x%04lx"
+msgstr "未知\t0x%04lx"
+
+msgid "unknown constraint `%c'"
+msgstr "未知的约束‘%c’"
+
+msgid "unrecognized form of instruction"
+msgstr "无法识别的指令格式"
+
+msgid "unrecognized instruction"
+msgstr "无法识别的指令"

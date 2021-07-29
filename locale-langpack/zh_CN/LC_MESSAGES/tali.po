@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=tali&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 03:21+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:22+0000\n"
+
+msgid "%s wins the game with %d point"
+msgid_plural "%s wins the game with %d points"
+msgstr[0] "%s 赢了，得到 %d 分"
+
+msgid "%s! – You’re up."
+msgstr "%s！－该您了。"
+
+msgid "1s [total of 1s]"
+msgstr "1 的总数"
+
+msgid "2 pair Same Color [total]"
+msgstr "2对同色 [合计]"
+
+msgid "2s [total of 2s]"
+msgstr "2 的总数"
+
+msgid "3 of a Kind [total]"
+msgstr "3个相同 [合计]"
+
+msgid "3s [total of 3s]"
+msgstr "3 的总数"
+
+msgid "4 of a Kind [25 + total]"
+msgstr "4个相同 [合计 + 25]"
+
+msgid "4 of a Kind [total]"
+msgstr "4个相同 [合计]"
+
+msgid "4s [total of 4s]"
+msgstr "4 的总数"
+
+msgid "5 of a Kind [50 + total]"
+msgstr "5个相同 [合计 + 50]"
+
+msgid "5 of a Kind [50]"
+msgstr "5个相同 [50]"
+
+msgid "5 of a Kind [total]"
+msgstr "5个相同 [合计]"
+
+msgid "5s [total of 5s]"
+msgstr "5 的总数"
+
+msgid "6s [total of 6s]"
+msgstr "6 的总数"
+
+msgid ""
+"A variation on poker with dice and less money, this game is a family "
+"classic. Throw the dice three times in a row, holding back the ones you "
+"like, in order to make the best possible hand. You can also play a lesser-"
+"known variant with colored dice."
+msgstr "一种用骰子和零钱玩的扑克游戏，家中常备。掷一行骰子三次，留下自己想要的点，使自己的花色尽量好。还可以玩一种不太常见的彩色骰子。"
+
+msgid "A variation on poker with dice and less money."
+msgstr "类似于扑克牌的游戏, 但是改用骰子, 并且不需要钱。"
+
+msgid "Already used! Where do you want to put that?"
+msgstr "已经在用了！您要把它摆在哪里？"
+
+msgid "Beat the odds in a poker-style dice game"
+msgstr "一种类似扑克的的骰子游戏"
+
+msgid "Bonus if >62"
+msgstr "奖励(合计＞62)"
+
+msgid "Chance [total]"
+msgstr "机会 [合计]"
+
+msgid "Choose a score slot."
+msgstr "选择一个分数槽。"
+
+msgid "Colors game and multi-level AI (2006):"
+msgstr "多色游戏和多等级 AI(2006)："
+
+msgid "Computer Opponents"
+msgstr "计算机对手"
+
+msgid "Computer playing for %s"
+msgstr "计算机玩 %s"
+
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+msgid "Console version (1992):"
+msgstr "控制台版本(1992)："
+
+msgid "Date"
+msgstr "日期"
+
+msgid "Delay between rolls"
+msgstr "投掷之间的延迟"
+
+msgid "Delay computer moves"
+msgstr "延迟计算机的动作"
+
+msgid "Display computer thoughts"
+msgstr "显示计算机的思考过程"
+
+msgid "Field used"
+msgstr "使用的场地大小"
+
+msgid "Flush (all same color) [35]"
+msgstr "同花(全部同色) [35]"
+
+msgid "Full House Same Color [20 + total]"
+msgstr "同色满堂红 [20 + 合计]"
+
+msgid "Full House [15 + total]"
+msgstr "满堂红 [15 + 合计]"
+
+msgid "Full House [25]"
+msgstr "满堂红 [25]"
+
+msgid "GNOME version (1998):"
+msgstr "GNOME 版本(1998)："
+
+msgid "Game Type"
+msgstr "游戏类型"
+
+msgid "Game choice: Regular or Colors"
+msgstr "游戏选择：常规或多色"
+
+msgid "Game over!"
+msgstr "游戏结束！"
+
+msgctxt "GameType"
+msgid "'Regular'"
+msgstr "'常规'"
+
+msgid "Grand Total"
+msgstr "总计"
+
+msgid "Human"
+msgstr "人"
+
+msgid "Human Players"
+msgstr "人类玩家"
+
+msgid "Large Straight [40]"
+msgstr "大顺子 [40]"
+
+msgid "Lower Total"
+msgstr "下方合计"
+
+msgid "NUMBER"
+msgstr "数量"
+
+msgid "N_umber of opponents:"
+msgstr "对手数量(_U)："
+
+msgid "New Game"
+msgstr "新游戏"
+
+msgid "Number of computer opponents"
+msgstr "计算机对手的数量"
+
+msgid "Number of computer-only games to play"
+msgstr "只含计算机对手的游戏数量"
+
+msgid "Number of human opponents"
+msgstr "人类对手的数量"
+
+msgid "Number of trials for each roll for the computer"
+msgstr "电脑每掷可以尝试的次数"
+
+msgid "Play between one and five opponents at three difficulty levels."
+msgstr "和一到五个对手玩，有三种难度级别。"
+
+msgid "Player Names"
+msgstr "玩家姓名"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Preferences will be updated in the next game."
+msgstr "首选项将在下一场比赛中更新。"
+
+msgid "Roll"
+msgstr "掷"
+
+msgid "Roll all!"
+msgstr "全部重掷！"
+
+msgid "Roll dice and score points"
+msgstr "掷骰子得分"
+
+msgid "Roll!"
+msgstr "掷！"
+
+msgid "STRING"
+msgstr "字符串"
+
+msgid "Score: %d"
+msgstr "得分:%d"
+
+msgid "Select dice to roll or choose a score slot."
+msgstr "选择掷骰子或者分数槽。"
+
+msgid "Small Straight [30]"
+msgstr "小顺子 [30]"
+
+msgid "Tali"
+msgstr "掷骰子"
+
+msgid "Tali Scores"
+msgstr "掷骰子得分"
+
+msgid "The game is a draw!"
+msgstr "平局！"
+
+msgid "Undo your most recent move"
+msgstr "撤销上一步"
+
+msgid "Upper total"
+msgstr "上方合计"
+
+msgid "You are only allowed three rolls. Choose a score slot."
+msgstr "您只能掷三次。选择一个分数槽。"
+
+msgid "Your score has made the top ten."
+msgstr "您已经进入了前十名。"
+
+msgid "Your score is the best!"
+msgstr "您取得了最好成绩！"
+
+msgid "_Delay between rolls"
+msgstr "每次投掷之间的延迟(_D)"
+
+msgid "_Difficulty:"
+msgstr "难度(_D)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_New Game"
+msgstr "新建游戏(_N)"
+
+msgid "_Number of players:"
+msgstr "玩家数量(_N)："
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Scores"
+msgstr "得分(_S)"
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr "简单"
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr "困难"
+
+msgctxt "difficulty"
+msgid "Medium"
+msgstr "中等"
+
+msgctxt "game type"
+msgid "Colors"
+msgstr "多色"
+
+msgctxt "game type"
+msgid "Regular"
+msgstr "常规"
+
+msgctxt "score-dialog"
+msgid "%1$dm %2$ds"
+msgstr "%1$d分%2$d秒"
+
+msgctxt "score-dialog"
+msgid "Score"
+msgstr "得分"
+
+msgctxt "score-dialog"
+msgid "Time"
+msgstr "时间"
+
+msgid "translator-credits"
+msgstr ""
+"Yang Zhang <zyangmath@gmail.com>, 2007\n"
+"Ping Z <zpsigma@gmail.com>, 2007\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Mandy Wang https://launchpad.net/~wangmychn"
+
+msgid "yahtzee;"
+msgstr "yahtzee;骰子;快艇;"

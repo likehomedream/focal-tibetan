@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2017-10-17 15:32+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:19+0000\n"
+
+msgid ""
+"A community developed Ubuntu based operating system that beautifully "
+"integrates the MATE desktop."
+msgstr "一个集成MATE桌面环境的Ubuntu的社区发行版"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Announcements"
+msgstr "公告"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Assistive technologies"
+msgstr "辅助技术"
+
+msgid "Chromium"
+msgstr "Chromium"
+
+msgid "Customization options"
+msgstr "自定义选项"
+
+msgid "Development"
+msgstr "开发"
+
+msgid "Everything you need for the office"
+msgstr "办公所需 一应俱全"
+
+msgid "Firefox"
+msgstr "Firefox"
+
+msgid "GIMP Image Editor"
+msgstr "GIMP 图片编辑器"
+
+msgid "Included software"
+msgstr "预装软件"
+
+msgid "Join the community"
+msgstr "加入社区"
+
+msgid "Language support"
+msgstr "语言支持"
+
+msgid "Make the most of the web"
+msgstr "网页浏览 顺畅自如"
+
+msgid "Minecraft"
+msgstr "我的世界"
+
+msgid "Rhythmbox Music Player"
+msgstr "Rhythmbox 音乐播放器"
+
+msgid "Shotwell Photo Manager"
+msgstr "Shotwell 照片管理器"
+
+msgid "Steam"
+msgstr "Steam"
+
+msgid "Take your music with you"
+msgstr "至美音乐 随时相伴"
+
+msgid "Thunderbird Mail"
+msgstr "Thunderbird 邮件客户端"
+
+msgid "Ubuntu Software"
+msgstr "Ubuntu 软件"
+
+msgid "VLC"
+msgstr "VLC"
+
+msgid "Welcome to Ubuntu MATE"
+msgstr "欢迎使用 Ubuntu MATE"

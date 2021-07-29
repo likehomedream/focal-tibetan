@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ltsp 5.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2010-08-01 02:42+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:18+0000\n"
+
+msgid "       supported values are: %s"
+msgstr "       支持的值有：%s"
+
+msgid "  Advanced options:"
+msgstr "  高级选项："
+
+msgid "  Regular options:"
+msgstr "  常规选项："
+
+msgid "API ERROR: you need to provide true or false."
+msgstr "API 错误：需要提供 true 或 false。"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Copying packages"
+msgstr "正在复制包"
+
+msgid "Distro name"
+msgstr "发行版名称"
+
+msgid "Draw progress bar"
+msgstr "显示进度条"
+
+msgid "ERROR: %s does not exist"
+msgstr "错误：%s 不存在"
+
+msgid "ERROR: --arch %s called on unsupported arch: %s"
+msgstr "错误：--arch %s 被调用，但是体系结构 %s 不被支持"
+
+msgid "ERROR: unsupported architecture. Check your --arch argument: %s"
+msgstr "错误：不支持的体系结构。检查您的 --arch 参数：%s"
+
+msgid "Enable progress reporting"
+msgstr "启用进度报告"
+
+msgid "Enabling popularity contest..."
+msgstr "正在启用流行度调查..."
+
+msgid "Enabling serial console..."
+msgstr "正在启用串行终端"
+
+msgid "Installing into: %s"
+msgstr "正在安装到：%s"
+
+msgid "LTSP Build Client usage:"
+msgstr "LTSP 构建客户端用法："
+
+msgid "Load a user specific configuration file"
+msgstr "加载用户指定的配置文件"
+
+msgid "Login Error"
+msgstr "登录出错"
+
+msgid "Login Warning"
+msgstr "登录警告"
+
+msgid "NOTE: adding default dist and components to backports mirror:"
+msgstr "注意：将添加默认发行版和组件到 backports 镜像："
+
+msgid "NOTE: adding default dist and components to security mirror:"
+msgstr "注意：添加默认发行版和组件到安全镜像："
+
+msgid "Path to chroot-creator cache"
+msgstr "chroot-creator 缓存的路径"
+
+msgid "Path to kickstart file"
+msgstr "kickstart 文件的路径"
+
+msgid "Print stage times (seconds)"
+msgstr "显示本阶段时间 (秒)"
+
+msgid "Release version number"
+msgstr "发行版本号"
+
+msgid "Set extra mirror locations (space-separated)"
+msgstr "设置额外的镜像地址 (用空格分隔)"
+
+msgid "Set the i18n langs"
+msgstr "设置国际化语言"
+
+msgid "Set the number of parallel build processes"
+msgstr "设置并行构建进程的数目"
+
+msgid "Stage 3 URI"
+msgstr "3 段 URI"
+
+msgid "User"
+msgstr "用户"
+
+msgid "a simple webkiosk mode"
+msgstr "简单的 webkiosk 模式"
+
+msgid "add a backports mirror"
+msgstr "添加一个 backports 镜像"
+
+msgid "add a mirror, which takes priority over the default mirror"
+msgstr "添加一个镜像，优先于默认镜像"
+
+msgid "add a mirror, with lower priority than the default mirror"
+msgstr "添加一个镜像，优先级比默认镜像低"
+
+msgid "add a security mirror"
+msgstr "添加一个安全镜像"
+
+msgid "allow unsigned packages during install"
+msgstr "安装时运行未签名的包"
+
+msgid "already logged in!"
+msgstr "已经登录！"
+
+msgid "cache downloaded packages"
+msgstr "缓存下载的包"
+
+msgid "copy apt Packages files from server"
+msgstr "从服务器复制 apt 包文件"
+
+msgid "create ext2 image for use with NBD"
+msgstr "创建 ext2 镜像，以配置 NBD"
+
+msgid "create image for use with NBD of the specified filesystem"
+msgstr "创建镜像，以配合指定文件系统的 NBD"
+
+msgid "create squashfs image for use with NBD"
+msgstr "创建 squashfs 镜像，以配合 NBD"
+
+msgid "display help for all available commandline options"
+msgstr "显示所有可用的命令行选项的帮助。"
+
+msgid "display this help message"
+msgstr "显示此帮助信息"
+
+msgid "distribution to pull backports from"
+msgstr "要从中获取 backports 的发行版"
+
+msgid "distribution to set up apt pinning"
+msgstr "设置 apt pinning 使用的发行版"
+
+msgid "do not autodetect apt proxy configuration"
+msgstr "不要自动探测 apt 代理配置"
+
+msgid "done."
+msgstr "完成。"
+
+msgid "enable LTSP-Cluster"
+msgstr "启用 LTSP-Cluster"
+
+msgid "enable debug support"
+msgstr "启用调试支持"
+
+msgid "enable popularity-contest in the chroot"
+msgstr "在 chroot 中启用流行度调查"
+
+msgid "enable serial console"
+msgstr "启用串行终端"
+
+msgid "error: LTSP client installation ended abnormally"
+msgstr "错误：LTSP 客户端安装非正常结束"
+
+msgid "exclude packages from the initial chroot"
+msgstr "从初始 chroot 排除包"
+
+msgid "force to skip the squashfs build (for debian-installer)"
+msgstr "强制跳过构建 squashfs (由 debian-installer 使用)"
+
+msgid "include the listed keys in the apt keyring"
+msgstr "在 apt 密钥环中包含列出的密钥"
+
+msgid "info: LTSP client installation completed successfully"
+msgstr "通知：LTSP 客户端安装成功完成"
+
+msgid ""
+"install to the chroot all the .deb files contained in the provided directory"
+msgstr "将提供的目录中的所有 .deb 文件安装到 chroot"
+
+msgid "keep cache of downloaded package files"
+msgstr "保留已下载包文件的缓存"
+
+msgid "list of extra packages to install as part of the initial installation."
+msgstr "要作为初始安装组成部分的额外软件包的清单。"
+
+msgid "list of packages to install as part of the final installation"
+msgstr "要作为最终安装一部分的包的清单"
+
+msgid "list of packages to install from the backports repositories"
+msgstr "列出要从 backports 仓库安装的包"
+
+msgid "list of packages to install from the pinned distribution"
+msgstr "要从附加发行版(pinned distribution) 安装的包的清单"
+
+msgid "load a user specific configuration file"
+msgstr "加载用户指定的配置文件"
+
+msgid "load debconf seeding in the chroot after install"
+msgstr "安装后，在 chroot 中加载 debconf 种子"
+
+msgid "mount a server directory as the chroot package cache dir"
+msgstr "挂载服务器目录为 chroot 包缓存目录"
+
+msgid "mount package cache dir from server"
+msgstr "从服务器挂载包缓存目录"
+
+msgid "prompt to set the root password, defaults to disabled"
+msgstr "提示设置 root 口令，默认是禁用的"
+
+msgid "purge existing LTSP chroot if present"
+msgstr "如果存在，则清空现有的 LTSP chroot"
+
+msgid "run most or all applications locally"
+msgstr "本地运行大部分甚至全部程序"
+
+msgid "set the components to be used in mirror"
+msgstr "设置要在镜像中使用的组件"
+
+msgid "set the default base install directory"
+msgstr "设置默认基本安装目录"
+
+msgid "set the default locale"
+msgstr "设置默认区域"
+
+msgid "set the distribution to be used for install"
+msgstr "设置要安装的发行版"
+
+msgid "set the kernel modules packages to install."
+msgstr "设置要安装的内核模块包。"
+
+msgid "set the kernel package to install."
+msgstr "设置要安装的内核包。"
+
+msgid "set the list of kernel packages to install"
+msgstr "设置要安装的内核包的清单"
+
+msgid "set the list of packages to install after base-install is completed"
+msgstr "在基本安装完成后，设置要安装的包清单"
+
+msgid "set the mirror location"
+msgstr "设置镜像地址"
+
+msgid "set the name of the chroot"
+msgstr "设置 chroot 的名称"
+
+msgid "set the security mirror location"
+msgstr "设置安全镜像的地址"
+
+msgid "set the target architecture"
+msgstr "设置目标体系结构"
+
+msgid "set the update mirror location"
+msgstr "设置升级镜像的地址"
+
+msgid "skip upgrade of installed packages"
+msgstr "跳过已安装包的升级"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Bond007 https://launchpad.net/~cnshzj007\n"
+"  Careone https://launchpad.net/~zzbusagain\n"
+"  DBLobster https://launchpad.net/~db.lobster\n"
+"  Feng Chao https://launchpad.net/~chaofeng\n"
+"  Hunt Xu https://launchpad.net/~huntxu\n"
+"  Jim McQuillan https://launchpad.net/~jam-mcquil\n"
+"  Tao Wei https://launchpad.net/~weitao1979\n"
+"  Tony Liu Haitao https://launchpad.net/~tony-liu-ht+ubuntu\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  ZhangCheng https://launchpad.net/~xxzc\n"
+"  fpoint https://launchpad.net/~fpoint\n"
+"  laichaochao https://launchpad.net/~laichaochao\n"
+"  snowdream https://launchpad.net/~yanghui"
+
+msgid "use specified http proxy"
+msgstr "使用指定的 http 代理"
+
+msgid "use the servers sources.list instead of generating one"
+msgstr "使用服务器 sources.list 代替自动生成的"

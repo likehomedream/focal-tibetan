@@ -1,0 +1,510 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-initial-setup master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-initial-setup/issues\n"
+"PO-Revision-Date: 2020-04-03 18:09+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:12+0000\n"
+
+msgid "%R"
+msgstr "%R"
+
+msgid "%l:%M %p"
+msgstr "%p %l:%M"
+
+msgid "About You"
+msgstr "关于您"
+
+msgid ""
+"Accounts can be added and removed at any time from the Settings application."
+msgstr "账号可以在“设置”应用程序里随时添加和移除。"
+
+msgid "Add Account"
+msgstr "添加帐号"
+
+msgid "Add another…"
+msgstr "添加其它..."
+
+msgid "Administrator Password"
+msgstr "管理员密码"
+
+msgid "Administrator _Name"
+msgstr "管理员名称(_N)"
+
+msgid ""
+"Allows applications to determine your geographical location. An indication "
+"is shown when location services are in use."
+msgstr "允许应用程序确定您的地理位置。定位服务使用时会有指示状态提示。"
+
+msgid "Authentication is required to enable Livepatch"
+msgstr "需要验证才能启用 Livepatch"
+
+msgid "Automatic Problem Reporting"
+msgstr "自动提交问题报告"
+
+msgid "Avatar image"
+msgstr "头像图片"
+
+msgid "Be careful not to lose your password."
+msgstr "请记好您的密码。"
+
+msgid "C_ontinue"
+msgstr "继续(_O)"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot automatically join this type of domain"
+msgstr "无法自动加入该类型的域"
+
+msgid "Cannot log in as %s at the %s domain"
+msgstr "无法以 %s 在 %s 域登录"
+
+msgid ""
+"Canonical Livepatch helps keep your computer secure, by applying some "
+"updates that would normally require restarting."
+msgstr "Canonical Livepatch 通过应用通常需要重新启动的一些更新来帮助保持您计算机的安全。"
+
+msgid "Checking for available wireless networks"
+msgstr "正在检查可用的无线网络"
+
+msgid "Connect Your Online Accounts"
+msgstr "连接您的在线帐号"
+
+msgid ""
+"Connect your accounts to easily access your online calendar, documents, "
+"photos and more."
+msgstr "连接到您的账户以便访问您的在线日历、文档、照片等资料。"
+
+msgid ""
+"Connecting to the Internet will enable you to set the time, add your "
+"details, and enable you to access your email, calendar, and contacts. It is "
+"also necessary for enterprise login accounts."
+msgstr "连接到互联网后，您可以设置时间，添加详细个人资料，访问您的邮件、日历和联系人。企业登录帐号也需要联网。"
+
+msgid "Continue"
+msgstr "继续"
+
+msgid "Couldn’t connect to the %s domain: %s"
+msgstr "无法连接到 %s 域：%s"
+
+msgid "Domain Administrator Login"
+msgstr "域管理员登陆"
+
+msgid "Enterprise Login"
+msgstr "企业登录"
+
+msgid "Enterprise domain or realm name"
+msgstr "企业域或领域名称"
+
+msgid ""
+"Enterprise login allows an existing centrally managed user account to be "
+"used on this device. You can also use this account to access company "
+"resources on the internet."
+msgstr "企业登录允许在本机上使用已有的、集中式管理的用户帐号。您也可以使用此帐号访问互联网上公司所有的资源。"
+
+msgid "Failed to disable Livepatch: please retry."
+msgstr "禁用 Livepatch 失败：请重试。"
+
+msgid "Failed to get report information: %s"
+msgstr "获取报告信息失败：%s"
+
+msgid "Failed to join domain"
+msgstr "加入域失败"
+
+msgid "Failed to log into domain"
+msgstr "登录到域失败"
+
+msgid "Failed to register account"
+msgstr "注册帐号失败"
+
+msgid "Failed to setup Livepatch: please retry."
+msgstr "设置 Livepatch 失败：请重试。"
+
+msgid "Failed to show Livepatch policy: %s"
+msgstr "无法显示 Livepatch 政策：%s"
+
+msgid "Failed to show privacy policy: %s"
+msgstr "显示隐私政策失败：%s"
+
+msgid "Force existing user mode"
+msgstr "强制现有用户模式"
+
+msgid "Go online to set up Enterprise Login."
+msgstr "上线以设置企业登录。"
+
+msgid "Help improve Ubuntu"
+msgstr "帮助改进 Ubuntu"
+
+msgid "Ignore"
+msgstr "忽略"
+
+msgid ""
+"In order to use enterprise logins, this computer needs to be enrolled in a "
+"domain. Please have your network administrator type the domain password "
+"here, and choose a unique computer name for your computer."
+msgstr "要想使用企业登录，该计算机需要在该域内登记。请让网络管理员在此输入域密码，并为您的计算机设置一个唯一的计算机名。"
+
+msgid "Initial Setup"
+msgstr "初始配置"
+
+msgid "Invalid password, please try again"
+msgstr "密码错误，请重试"
+
+msgid "Legal notice"
+msgstr "法律声明"
+
+msgid "Livepatch"
+msgstr "Livepatch"
+
+msgid "Location Services"
+msgstr "位置服务"
+
+msgid "Manage Livepatch"
+msgstr "管理 Livepatch"
+
+msgid "More…"
+msgstr "更多…"
+
+msgid "Network"
+msgstr "网络"
+
+msgid "No inputs found"
+msgstr "未找到输入设备"
+
+msgid "No languages found"
+msgstr "未找到其他语言"
+
+msgid "No such domain or realm found"
+msgstr "未找到此域或领域"
+
+msgid "No supported way to authenticate with this domain"
+msgstr "无法支持在该域进行认证"
+
+msgid "No wireless available"
+msgstr "无线网络不可用"
+
+msgid "No, don't send system info"
+msgstr "否，不发送系统信息"
+
+msgid "Online Accounts"
+msgstr "在线帐号"
+
+msgid "Open “Software” now"
+msgstr "现在打开“软件”"
+
+msgid "Password"
+msgstr "密码"
+
+msgctxt "Password hint"
+msgid ""
+"Adding more letters, numbers and punctuation will make the password "
+"stronger."
+msgstr "加上更多字母，数字和标点符号可改善密码强度。"
+
+msgctxt "Password hint"
+msgid "Mix uppercase and lowercase and try to use a number or two."
+msgstr "密码需要大小写字母混用并使用一到两个数字。"
+
+msgctxt "Password hint"
+msgid "The new password needs to be different from the old one."
+msgstr "新密码需要跟旧密码不相同。"
+
+msgctxt "Password hint"
+msgid ""
+"This is a weak password. A password without your user name would be "
+"stronger."
+msgstr "该密码为弱密码。不包含您用户名的密码强度更好。"
+
+msgctxt "Password hint"
+msgid ""
+"This is a weak password. Try to add more letters, numbers and punctuation."
+msgstr "该密码为弱密码。请尝试在密码中添加更多字母，数字和符号。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to avoid common words."
+msgstr "该密码为弱密码。请避免使用常用词组。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to avoid reordering existing words."
+msgstr "该密码为弱密码。请避免在密码中重新排列已有单词。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to avoid repeating the same character."
+msgstr "该密码为弱密码。请避免在密码中重复使用同样的字符。"
+
+msgctxt "Password hint"
+msgid ""
+"This is a weak password. Try to avoid repeating the same type of character: "
+"you need to mix up letters, numbers and punctuation."
+msgstr "该密码为弱密码。请避免在密码中重复使用同样类型的字符：尝试混用字母、数字和标点符号。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to avoid sequences like 1234 or abcd."
+msgstr "该密码为弱密码。请避免在密码中使用类似 1234 或 abcd 的序列。"
+
+msgctxt "Password hint"
+msgid ""
+"This is a weak password. Try to avoid some of the words included in the "
+"password."
+msgstr "该密码为弱密码。请避免一些在密码中已经包含了的词。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to avoid using your name in the password."
+msgstr "该密码为弱密码。请避免在密码中使用您的名字。"
+
+msgctxt "Password hint"
+msgid ""
+"This is a weak password. Try to use a mixture of letters, numbers and "
+"punctuation."
+msgstr "该密码为弱密码。请尝试在密码中混合使用字母，数字和标点符号。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to use more lowercase letters."
+msgstr "该密码为弱密码。请尝试加入一些小写字母。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to use more numbers."
+msgstr "该密码为弱密码。请尝试加入一些数字。"
+
+msgctxt "Password hint"
+msgid ""
+"This is a weak password. Try to use more special characters, like "
+"punctuation."
+msgstr "该密码为弱密码。请尝试在密码中使用更多的特殊字符，比如标点符号。"
+
+msgctxt "Password hint"
+msgid "This is a weak password. Try to use more uppercase letters."
+msgstr "该密码为弱密码。请尝试加入一些大写字母。"
+
+msgctxt "Password hint"
+msgid ""
+"This password is very similar to your last one. Try changing some letters "
+"and numbers."
+msgstr "该密码和您的上一个密码非常相似。请尝试在密码中修改一些字母和数字。"
+
+msgctxt "Password hint"
+msgid ""
+"This password is very similar to your last one. Try changing the password a "
+"bit more."
+msgstr "该密码和您的上一个密码非常相似。请尝试进一步在密码中修改一些字母和数字。"
+
+msgid "Please check the name and username. You can choose a picture too."
+msgstr "请检查名称和用户名。您还可以选择图片。"
+
+msgid "Please provide a name and username. You can choose a picture too."
+msgstr "请提供名称和用户名。您还可以选择图片。"
+
+msgid "Please search for a nearby city"
+msgstr "请搜索就近的城市"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Privacy"
+msgstr "隐私"
+
+msgid "Privacy Policy"
+msgstr "隐私政策"
+
+msgid ""
+"Privacy controls can be changed at any time from the Settings application."
+msgstr "隐私控制可以随时在“设置”应用程序里更改。"
+
+msgid "Problem data will be collected by %s:"
+msgstr "问题数据将被 %s 收集："
+
+msgid "Ready to go"
+msgstr "准备就绪"
+
+msgid "Report"
+msgstr "报告"
+
+msgid "Select your keyboard layout or an input method."
+msgstr "选择您的键盘布局或者其他输入方式。"
+
+msgid ""
+"Sending reports of technical problems helps us to improve %s. Reports are "
+"sent anonymously and are scrubbed of personal data."
+msgstr "发送技术问题的报告来帮助我们改进 %s 。报告以匿名发送并且清除了个人信息。"
+
+msgid "Set Up Livepatch…"
+msgstr "设置 Livepatch ..."
+
+msgid "Set a Password"
+msgstr "设置密码"
+
+msgid "Settings…"
+msgstr "设置..."
+
+msgid "Show the First Report"
+msgstr "显示第一份报告"
+
+msgid "Sign In / Register…"
+msgstr "登录/注册..."
+
+msgid "Sign Out"
+msgstr "登出"
+
+msgid "Sorry there's been a problem with setting up Canonical Livepatch"
+msgstr "抱歉，设置 Canonical Livepatch 时出现了问题。"
+
+msgid "Sorry, that user name isn’t available. Please try another."
+msgstr "抱歉，此用户名不可用。请尝试换一个用户名。"
+
+msgid "Take a Picture…"
+msgstr "拍张照片…"
+
+msgid "The passwords do not match."
+msgstr "密码不匹配。"
+
+msgid ""
+"The time zone will be set automatically if your location can be found. You "
+"can also search for a city to set it yourself."
+msgstr "如果您的位置可被发现，时区将会自动设置。您也可以搜索城市来自己设置。"
+
+msgid "The username cannot start with a “-”."
+msgstr "用户名不能以“-”开头。"
+
+msgid "The username is too long."
+msgstr "用户名太长。"
+
+msgid ""
+"The username should only consist of upper and lower case letters from a-z, "
+"digits and the following characters: . - _"
+msgstr "用户名只能包含从 a-z 的大小写字母、数字和“.”“-”“_”几种字符"
+
+msgid "This is a weak password."
+msgstr "这是一个弱密码。"
+
+msgid "This will be used to name your home folder and can’t be changed."
+msgstr "这将用于命名您的主文件夹，且无法更改。"
+
+msgid "Time Zone"
+msgstr "时区"
+
+msgid "To use Livepatch, you need to use an Ubuntu One Account."
+msgstr "您需要使用 Ubuntu 单点账号来启用 Livepatch。"
+
+msgid "To use Livepatch, you need to use your Ubuntu One Account."
+msgstr "您需要使用 Ubuntu 单点账号来启用 Livepatch。"
+
+msgid "Turn On"
+msgstr "打开"
+
+msgid "Typing"
+msgstr "输入"
+
+msgid "UTC%:::z"
+msgstr "UTC%:::z"
+
+msgid "Use"
+msgstr "使用"
+
+msgid "Uses Mozilla Location Service:"
+msgstr "使用 Mozilla 位置服务："
+
+msgid "We need a few details to complete setup."
+msgstr "我们需要一些详细信息来完成设置。"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Welcome to Ubuntu"
+msgstr "欢迎使用 Ubuntu"
+
+msgid "Welcome!"
+msgstr "欢迎！"
+
+msgid "Wi-Fi"
+msgstr "Wi-Fi"
+
+msgctxt "Wireless access point"
+msgid "Other…"
+msgstr "其他…"
+
+msgid "Wireless networking is disabled"
+msgstr "无线网络已禁用"
+
+msgid "Would you like to send this information?"
+msgstr "您想要发送这些信息吗?"
+
+msgid "Would you like to set up Livepatch now?"
+msgstr "您现在想设置 Livepatch 吗？"
+
+msgid "Yes, send system info to Canonical"
+msgstr "是，将系统信息发送给 Canonical"
+
+msgid "You can change your mind later in Settings -> Privacy -> Diagnostics."
+msgstr "您可以稍后在 设置 -> 隐私 -> 报告问题 中改变您的设置。"
+
+msgid "You can use “Software” to install apps like these:"
+msgstr "您可以用“软件”来安装包括如下的应用："
+
+msgid "You're all set: Livepatch is now on."
+msgstr "设置完毕：Livepatch 已启用"
+
+msgid "You're ready to go!"
+msgstr "准备就绪，开始用吧！"
+
+msgid "_Accept"
+msgstr "接受(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Computer"
+msgstr "计算机(_C)"
+
+msgid "_Confirm"
+msgstr "确认(_C)"
+
+msgid "_Domain"
+msgstr "域(_D)"
+
+msgid "_Done"
+msgstr "完成(_D)"
+
+msgid "_Enterprise Login"
+msgstr "企业登录(_E)"
+
+msgid "_Full Name"
+msgstr "全名(_F)"
+
+msgid "_Next"
+msgstr "前进(_N)"
+
+msgid "_Password"
+msgstr "密码(_P)"
+
+msgid "_Previous"
+msgstr "返回(_P)"
+
+msgid "_Skip"
+msgstr "跳过(_S)"
+
+msgid "_Start Using %s"
+msgstr "开始使用 %s(_S)"
+
+msgid "_Username"
+msgstr "用户名(_U)"
+
+msgid "preferences-system"
+msgstr "preferences-system"
+
+msgctxt "timezone loc"
+msgid "%s, %s"
+msgstr "%s，%s"
+
+msgctxt "timezone map"
+msgid "%s (%s)"
+msgstr "%s (%s)"
+
+msgid "— GNOME initial setup"
+msgstr "— GNOME 初始配置"

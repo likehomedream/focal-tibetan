@@ -1,0 +1,251 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: eog-plugins master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=eog-plugins&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-15 18:02+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:13+0000\n"
+
+msgid " (invalid Unicode)"
+msgstr " (无效的 Unicode)"
+
+msgid "%.1fmm (35mm film)"
+msgstr "%.1fmm (35mm 胶片)"
+
+msgid "%.1fmm (lens)"
+msgstr "%.1fmm (长)"
+
+msgid "Aperture:"
+msgstr "光圈："
+
+msgid "Background color in fullscreen mode"
+msgstr "全屏模式下的背景颜色"
+
+msgid "C_ommand color:"
+msgstr "命令颜色(_O)："
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cancel All"
+msgstr "取消全部"
+
+msgid "Cancel Selected"
+msgstr "取消选中"
+
+msgid "Cancelled"
+msgstr "已取消"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Command Text Color"
+msgstr "命令文本颜色"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Display RGB histogram"
+msgstr "显示 RGB 直方图"
+
+msgid "Display camera settings in statusbar"
+msgstr "在状态栏上显示相机设置"
+
+msgid "Display per-channel histogram"
+msgstr "显示各通道的直方图"
+
+msgid "Display the geolocation of the image on a map"
+msgstr "在地图上显示图像的地理位置"
+
+msgid "Displays camera settings and histogram"
+msgstr "显示相机设置和直方图"
+
+msgid "Enables changing background in fullscreen mode"
+msgstr "允许在全屏模式下更换背景"
+
+msgid "Error Text Color"
+msgstr "错误文本颜色"
+
+msgid "Expo. Time:"
+msgstr "曝光时间："
+
+msgid "Expo. bias:"
+msgstr "曝光偏差："
+
+msgid "Export directory:"
+msgstr "导出目录："
+
+msgid "Export the current image to a separate directory"
+msgstr "将当前图像导出到一个单独的目录"
+
+msgid "Export to Folder"
+msgstr "导出到文件夹"
+
+msgid "Failed"
+msgstr "失败"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Fit images to the window width"
+msgstr "图像适配窗口宽度"
+
+msgid "Fit to width"
+msgstr "适合宽度"
+
+msgid "Flickr Uploader"
+msgstr "Flickr 上传工具"
+
+msgid "Font used by Python Console"
+msgstr "Python 控制台所用字体"
+
+msgid "Fullscreen Background"
+msgstr "全屏背景"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Hide Titlebar"
+msgstr "隐藏标题栏"
+
+msgid "Hides the titlebar of maximized Eye of GNOME windows"
+msgstr "隐藏图像查看器窗口最大化时的标题栏"
+
+msgid "Histogram"
+msgstr "直方图"
+
+msgid "ISO speed:"
+msgstr "ISO 速度："
+
+msgid "Logged in successfully."
+msgstr "登录成功。"
+
+msgid "Login failed. %s"
+msgstr "登录失败。%s"
+
+msgid "Map"
+msgstr "地图"
+
+msgid "Metering:"
+msgstr "测光："
+
+msgid "P_ython Console"
+msgstr "P_ython 控制台"
+
+msgid "PicasaWeb Login"
+msgstr "登录 PicasaWeb"
+
+msgid "PicasaWeb Uploader"
+msgstr "PicasaWeb 上传工具"
+
+msgid "Please log in to continue upload."
+msgstr "请登录以便继续上传。"
+
+msgid "Python Console"
+msgstr "Python 控制台"
+
+msgid "Python console for Eye of GNOME"
+msgstr "图像查看器的 Python 控制台"
+
+msgid "Send By Mail"
+msgstr "邮件发送"
+
+msgid "Send by Mail"
+msgstr "邮件发送"
+
+msgid "Sends an image attached to a new mail"
+msgstr "将附件图像发送到新邮件"
+
+msgid "Shuffles images in slideshow mode"
+msgstr "幻灯片模式下随机显示图像"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Slideshow Shuffle"
+msgstr "幻灯片随机播放"
+
+msgid "Status"
+msgstr "状态"
+
+msgid ""
+"The color that is used to fill the area behind the image. This option has "
+"effect only if use-custom is enabled."
+msgstr "该颜色用来填充图像背后的区域。该选项只有在启用“使用自定义”时才生效。"
+
+msgid "The color used for commands."
+msgstr "用来显示命令的颜色。"
+
+msgid "The color used for errors."
+msgstr "用来显示错误的颜色。"
+
+msgid "The folder to export to"
+msgstr "导出的目标文件夹"
+
+msgid ""
+"This is the folder the plugin will place the exported files in. Plugin will "
+"export to $HOME/exported-images if not set."
+msgstr "这是插件放置导出文件的文件夹。如不设置，插件将导出到 $HOME/exported-images。"
+
+msgid "Upload to Flickr"
+msgstr "上传到 Flickr"
+
+msgid "Upload to PicasaWeb"
+msgstr "上传到 PicasaWeb"
+
+msgid "Upload your pictures to Flickr"
+msgstr "把您的图片上传到 Flickr"
+
+msgid "Upload your pictures to PicasaWeb"
+msgstr "把您的图片上传到 PicasaWeb"
+
+msgid "Uploaded"
+msgstr "已上传"
+
+msgid "Uploads:"
+msgstr "上传："
+
+msgid "Use custom background settings"
+msgstr "使用自定义背景设置"
+
+msgid "Use custom color:"
+msgstr "使用自定义颜色："
+
+msgid "Whether the plugin should use global settings or its own."
+msgstr "插件使用全局设置还是自身设置。"
+
+msgid "Whether to use the system font"
+msgstr "是否使用系统字体"
+
+msgid "Zoom in"
+msgstr "放大"
+
+msgid "Zoom out"
+msgstr "缩小"
+
+msgid "Zoom:"
+msgstr "缩放："
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Error color:"
+msgstr "错误颜色(_E)："
+
+msgid "_Export"
+msgstr "导出(_E)"
+
+msgid "_Login"
+msgstr "登录(_L)"
+
+msgid "_Password:"
+msgstr "密码(_P)："
+
+msgid "_Username:"
+msgstr "用户名(_U)："

@@ -1,0 +1,58 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: libgnome-games-support games-1-2\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=libgnome-games-support&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-02-19 22:00+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:13+0000\n"
+
+msgid "%ld minute"
+msgid_plural "%ld minutes"
+msgstr[0] "%ld 分钟"
+
+msgid "%ld second"
+msgid_plural "%ld seconds"
+msgstr[0] "%ld 秒"
+
+msgid "Best Times"
+msgstr "最佳成绩"
+
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+msgid "High Scores"
+msgstr "高分"
+
+msgid "No scores yet"
+msgstr "还没有分数记录"
+
+msgid "Play some games and your scores will show up here."
+msgstr "去玩一些游戏，然后你的分数会显示到这里。"
+
+msgid "Player"
+msgstr "玩家"
+
+msgid "Rank"
+msgstr "排行"
+
+msgid "Score"
+msgstr "得分"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Your score has made the top ten."
+msgstr "您已经进入了前十名。"
+
+msgid "Your score is the best!"
+msgstr "您取得了最好成绩！"
+
+msgid "_Done"
+msgstr "完成(_D)"

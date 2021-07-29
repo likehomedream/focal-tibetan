@@ -1,0 +1,6392 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: orca\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=orca&keywords=I18N+L10N&component=i18n\n"
+"PO-Revision-Date: 2020-02-27 21:52+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:13+0000\n"
+
+msgid " %d column"
+msgid_plural " %d columns"
+msgstr[0] " %d 列"
+
+msgid " dot dot dot"
+msgstr " 点点点"
+
+msgid " subscript %s"
+msgstr " 上标 %s"
+
+msgid " superscript %s"
+msgstr " 上标 %s"
+
+msgid "%(count)d %(repeatChar)s character"
+msgid_plural "%(count)d %(repeatChar)s characters"
+msgstr[0] "%(count)d %(repeatChar)s 字母"
+
+msgid "%(count)d Screen reader shortcut for %(application)s found."
+msgid_plural "%(count)d Screen reader shortcuts for %(application)s found."
+msgstr[0] "已找到 %(count)d 个 %(application)s 的屏幕阅读器快捷键。"
+
+msgid "%(index)d of %(total)d"
+msgstr "%(total)d 的 %(index)d"
+
+msgid "%(index)d of %(total)d item selected"
+msgid_plural "%(index)d of %(total)d items selected"
+msgstr[0] "选中了 %(total)d 条目中的 %(index)d 个"
+
+msgid "%(role)s level %(level)d"
+msgstr "%(role)s 水平 %(level)d"
+
+msgid "%(uri)s link to %(file)s"
+msgstr "%(uri)s 链接到 %(file)s"
+
+msgid "%.2f kilobytes"
+msgstr "%.2f KB"
+
+msgid "%.2f megabytes"
+msgstr "%.2f MB"
+
+msgid "%H hours and %M minutes."
+msgstr "%H 小时零 %M 分钟。"
+
+msgid "%H hours, %M minutes and %S seconds."
+msgstr "%H 小时，%M 分钟零 %S 秒。"
+
+msgid "%d Screen reader default shortcut found."
+msgid_plural "%d Screen reader default shortcuts found."
+msgstr[0] "已找到 %d 个屏幕阅读器默认快捷键。"
+
+msgid "%d byte"
+msgid_plural "%d bytes"
+msgstr[0] "%d 字节"
+
+msgid "%d character too long"
+msgid_plural "%d characters too long"
+msgstr[0] "%d 个字符过长"
+
+msgid "%d column"
+msgid_plural "%d columns"
+msgstr[0] "%d 列"
+
+msgid "%d file found"
+msgid_plural "%d files found"
+msgstr[0] "找到了 %d 个文件"
+
+msgid "%d form"
+msgid_plural "%d forms"
+msgstr[0] "%d 个表单"
+
+msgid "%d heading"
+msgid_plural "%d headings"
+msgstr[0] "%d 个标题"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 个条目"
+
+msgid "%d item found"
+msgid_plural "%d items found"
+msgstr[0] "找到了 %d 个条目"
+
+msgid "%d landmark"
+msgid_plural "%d landmarks"
+msgstr[0] "%d 个界标"
+
+msgid "%d message.\n"
+msgid_plural "%d messages.\n"
+msgstr[0] "%d 条消息。\n"
+
+msgid "%d percent of document read"
+msgid_plural "%d percent of document read"
+msgstr[0] "文档的百分之 %d 已读"
+
+msgid "%d percent."
+msgid_plural "%d percent."
+msgstr[0] "百分之 %d。"
+
+msgid "%d pixel"
+msgid_plural "%d pixels"
+msgstr[0] "%d 个像素"
+
+msgid "%d space"
+msgid_plural "%d spaces"
+msgstr[0] "%d 个空格"
+
+msgid "%d tab"
+msgid_plural "%d tabs"
+msgstr[0] "%d 个跳格"
+
+msgid "%d table"
+msgid_plural "%d tables"
+msgstr[0] "%d 个表格"
+
+msgid "%d unfocused dialog"
+msgid_plural "%d unfocused dialogs"
+msgstr[0] "%d 个未获得焦点的对话框。"
+
+msgid "%d unvisited link"
+msgid_plural "%d unvisited links"
+msgstr[0] "%d 个未访问的连接"
+
+msgid "%d visited link"
+msgid_plural "%d visited links"
+msgstr[0] "%d 个已经访问的连接"
+
+msgid "%s default voice"
+msgstr "%s 默认语音"
+
+msgid "%s link"
+msgstr "%s 链接"
+
+msgid "(%d dialog)"
+msgid_plural "(%d dialogs)"
+msgstr[0] "(%d 个对话框)"
+
+msgid "0 items"
+msgstr "0 个项目"
+
+msgid "10"
+msgstr "10"
+
+msgid "???"
+msgstr "???"
+
+msgid "A ACUTE"
+msgstr "A ACUTE"
+
+msgid "A CIRCUMFLEX"
+msgstr "A CIRCUMFLEX"
+
+msgid "A E"
+msgstr "A E"
+
+msgid "A GRAVE"
+msgstr "A GRAVE"
+
+msgid "A RING"
+msgstr "A RING"
+
+msgid "A TILDE"
+msgstr "A TILDE"
+
+msgid "A UMLAUT"
+msgstr "A UMLAUT"
+
+msgid "A channel only if its _window is active"
+msgstr "当窗口是活动的时候只打开一个频道(_W)"
+
+msgid "Active _Profile:"
+msgstr "活动配置(_P)："
+
+msgid "Actual String"
+msgstr "实际字符串"
+
+msgid "Add bookmark."
+msgstr "添加书签。"
+
+msgid "Adjust selected attributes"
+msgstr "调整选中的属性"
+
+msgid "Advance live region politeness setting."
+msgstr "高级居住地区礼貌水平设置。"
+
+msgid "All cha_nnels"
+msgstr "所有频道(_N)"
+
+msgid "All channels when an_y %s window is active"
+msgstr "当任一 %s 窗口活动的时候打开所有频道(_Y)"
+
+msgid "All live regions set to off"
+msgstr "所有居住地区礼貌水平设置为关闭"
+
+msgid "Alt Gr"
+msgstr "Alt Gr"
+
+msgid "Alt_L"
+msgstr "Alt_L"
+
+msgid "Alt_R"
+msgstr "Alt_R"
+
+msgid "Announce _forms during navigation"
+msgstr "浏览时朗读表单(_F)"
+
+msgid "Announce _forms in Say All"
+msgstr "在朗读全部时朗读表单"
+
+msgid "Announce _lists during navigation"
+msgstr "浏览时朗读列表(_L)"
+
+msgid "Announce _panels during navigation"
+msgstr "浏览时朗读面板(_P)"
+
+msgid "Announce _panels in Say All"
+msgstr "在朗读全部时朗读面板"
+
+msgid "Announce _tables during navigation"
+msgstr "浏览时朗读表格(_T)"
+
+msgid "Announce _tables in Say All"
+msgstr "在朗读全部时朗读表格"
+
+msgid "Announce block_quotes during navigation"
+msgstr "浏览时朗读引用段(_Q)"
+
+msgid "Announce block_quotes in Say All"
+msgstr "在朗读全部时朗读引用段"
+
+msgid "Announce cell _header"
+msgstr "发表单元标题(_H)"
+
+msgid "Announce land_marks during navigation"
+msgstr "浏览时朗读 landmark 元素"
+
+msgid "Announce land_marks in Say All"
+msgstr "在朗读全部时朗读 landmark 元素"
+
+msgid "Announce li_sts in Say All"
+msgstr "在朗读全部时朗读列表"
+
+msgid "Announce when your _buddies are typing"
+msgstr "好友输入时通知(_B)"
+
+msgid ""
+"Another screen reader process is already running for this session.\n"
+"Run “orca --replace” to replace that process with a new one."
+msgstr ""
+"此会话已有一个屏幕阅读器进程正在运行。\n"
+"运行“orca --replace”命令以用新的取代已有进程。"
+
+msgid "Appended contents to clipboard."
+msgstr "将内容附加到剪贴板"
+
+msgid "Appends the contents under flat review to the clipboard."
+msgstr "将平面浏览下的内容添加到剪贴板。。"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Arabic Grade 1"
+msgstr "阿拉伯语(一级)"
+
+msgid "Attribute Name"
+msgstr "属性名称"
+
+msgid "Automatic focus mode during caret navigation"
+msgstr "使用键盘浏览时自动焦点模式"
+
+msgid "Automatic focus mode during structural navigation"
+msgstr "结构化导航时的自动焦点模式"
+
+msgid "Automatically start speaking a page when it is first _loaded"
+msgstr "在一个页面首次加载时自动开始朗读(_L)"
+
+msgid "Bee_p updates"
+msgstr "蜂鸣更新(_P)"
+
+msgid "Beginning of row."
+msgstr "行首。"
+
+msgid "Belgium Dutch Grade 1"
+msgstr "比利时荷兰语(一级)"
+
+msgid "Bookmark where am I with respect to current position."
+msgstr "我关注的当前位置的书签。"
+
+msgid "Bottom Left"
+msgstr "左下角"
+
+msgid "Bottom of column."
+msgstr "列尾。"
+
+msgid "Braille"
+msgstr "盲文"
+
+msgid "Braille Bindings"
+msgstr "点字按键组合"
+
+msgid "Braille Indicator"
+msgstr "布莱叶盲文指示器"
+
+msgid "Break speech into ch_unks between pauses"
+msgstr "把两个停顿之间的语音分隔成块(_U)"
+
+msgid "Brie_f"
+msgstr "简短(_F)"
+
+msgid "Browse mode"
+msgstr "浏览模式"
+
+msgid "Browse mode is sticky."
+msgstr "浏览模式为黏性模式。"
+
+msgid "Bypass mode enabled."
+msgstr "已激活绕过模式。"
+
+msgid "C CEDILLA"
+msgstr "C CEDILLA"
+
+msgid "C_urrent location"
+msgstr "当前位置(_U)"
+
+msgid "Canada French Grade 1"
+msgstr "加拿大法语(一级)"
+
+msgid "Canada French Grade 2"
+msgstr "加拿大法语(二级)"
+
+msgid ""
+"Cannot start the screen reader because it cannot connect to the Desktop."
+msgstr "未能启动屏幕阅读器，因为无法连接到桌面。"
+
+msgid "Capitalization style set to icon."
+msgstr "大写字母朗读方式设定为图标。"
+
+msgid "Capitalization style set to none."
+msgstr "大写字母朗读方式设定为无。"
+
+msgid "Capitalization style set to spell."
+msgstr "大写字母朗读方式设定为拼读。"
+
+msgid "Caps_Lock"
+msgstr "Caps_Lock"
+
+msgid "Causes the current combo box to be expanded."
+msgstr "展开当前的下拉列表框。"
+
+msgid "Cell %s"
+msgstr "单元格 %s"
+
+msgid "Cell spans %d column"
+msgid_plural "Cell spans %d columns"
+msgstr[0] "单元格占了 %d 列"
+
+msgid "Cell spans %d row"
+msgid_plural "Cell spans %d rows"
+msgstr[0] "单元格占了 %d 行"
+
+msgid "Changes spoken number style."
+msgstr "改变数字朗读方式。"
+
+msgid "Clears the dynamic column headers."
+msgstr "清空动态列头。"
+
+msgid "Clears the dynamic row headers"
+msgstr "清空动态行头"
+
+msgid "Columns reordered"
+msgstr "列已重新排列"
+
+msgid "Context is %s"
+msgstr "上下文是 %s"
+
+msgid "Contraction _Table:"
+msgstr "收缩表(_T)："
+
+msgid "Control caret navigation"
+msgstr "控制光标导航"
+
+msgid "Copied contents to clipboard."
+msgstr "将内容复制到剪贴板"
+
+msgid "Copied selection to clipboard."
+msgstr "选定已复制到剪贴板。"
+
+msgid "Copies the contents under flat review to the clipboard."
+msgstr "将平面浏览下的内容复制到剪贴板。"
+
+msgid "Could not activate the settings manager. Exiting."
+msgstr "无法激活设置管理器。正在退出。"
+
+msgid "Could not find current location."
+msgstr "未找到当前位置。"
+
+msgid "Ctrl"
+msgstr "Ctrl"
+
+msgid "Cursor Position"
+msgstr "光标位置"
+
+msgid "Cursor Routing"
+msgstr "光标导航"
+
+msgid "Cut Begin"
+msgstr "开始剪切"
+
+msgid "Cut Line"
+msgstr "剪切行"
+
+msgid "Cut selection to clipboard."
+msgstr "选定的内容已剪切到剪贴板。"
+
+msgid "Cycles the debug level at run time."
+msgstr "在执行时循环调试级别。"
+
+msgid "Cycles to the next capitalization style."
+msgstr "循环到下一个大写字母朗读方式。"
+
+msgid "Cycles to the next key echo level."
+msgstr "循环到下一个按键朗读级别。"
+
+msgid "Cycles to the next settings profile."
+msgstr "循环到下一个设置配置。"
+
+msgid "Cycles to the next speaking of punctuation level."
+msgstr "循环到下一个读出标点符号级别的位置。"
+
+msgid "Czech Grade 1"
+msgstr "捷克语(一级)"
+
+msgid "DIR"
+msgstr "目录"
+
+msgid "Dat_e format:"
+msgstr "日期格式(_E)："
+
+msgid "Decreases the speech pitch."
+msgstr "降低朗读音调。"
+
+msgid "Decreases the speech rate."
+msgstr "减慢朗读速度。"
+
+msgid "Decreases the speech volume."
+msgstr "减慢朗读速度。"
+
+msgid "Default"
+msgstr "默认"
+
+msgid "Default Synthesizer"
+msgstr "默认的合成器"
+
+msgid "Default button is %s"
+msgstr "默认按钮为 %s"
+
+msgid "Disable _end of line symbol"
+msgstr "禁用行尾符(_E)"
+
+msgid "Display Settings"
+msgstr "显示设置"
+
+msgid "Displays a list of blockquotes."
+msgstr "显示块引用列表"
+
+msgid "Displays a list of buttons."
+msgstr "显示按钮列表。"
+
+msgid "Displays a list of check boxes."
+msgstr "显示复选框列表。"
+
+msgid "Displays a list of clickables."
+msgstr "显示可点击项列表。"
+
+msgid "Displays a list of combo boxes."
+msgstr "显示组合框列表。"
+
+msgid "Displays a list of entries."
+msgstr "显示条目列表。"
+
+msgid "Displays a list of form fields."
+msgstr "显示表单域列表。"
+
+msgid "Displays a list of headings at level %d."
+msgstr "显示级别为 %d 的标题列表。"
+
+msgid "Displays a list of headings."
+msgstr "显示标题列表。"
+
+msgid "Displays a list of images."
+msgstr "显示图像列表。"
+
+msgid "Displays a list of landmarks."
+msgstr "显示界标列表。"
+
+msgid "Displays a list of large objects."
+msgstr "显示大型对象列表。"
+
+msgid "Displays a list of links."
+msgstr "显示链接列表。"
+
+msgid "Displays a list of list items."
+msgstr "显示列表项列表。"
+
+msgid "Displays a list of lists."
+msgstr "显示列表列表。"
+
+msgid "Displays a list of paragraphs."
+msgstr "显示段落列表。"
+
+msgid "Displays a list of radio buttons."
+msgstr "显示单选按钮列表。"
+
+msgid "Displays a list of tables."
+msgstr "显示表格列表。"
+
+msgid "Displays a list of unvisited links."
+msgstr "显示尚未访问的链接列表。"
+
+msgid "Displays a list of visited links."
+msgstr "显示已访问过的链接列表。"
+
+msgid "Displays the application preferences configuration dialog."
+msgstr "显示应用程序首选项配置对话框。"
+
+msgid "Displays the preferences configuration dialog."
+msgstr "显示首选项对话窗口。"
+
+msgid "Do not announce when your buddies are typing."
+msgstr "好友输入时不通知。"
+
+msgid "Do not provide chat room specific message histories."
+msgstr "不要提供聊天室特定的消息历史。"
+
+msgid "Do not speak chat room name."
+msgstr "不要读出聊天室名称。"
+
+msgid "Dot _7"
+msgstr "点 _7"
+
+msgid "Dot _8"
+msgstr "点 _8"
+
+msgid "Dots 7 an_d 8"
+msgstr "点 7 和 8(_D)"
+
+msgid "Dynamic column header cleared."
+msgstr "已清除动态栏标头。"
+
+msgid "Dynamic column header set for row %d"
+msgstr "动态的设置 %d 行个标题列"
+
+msgid "Dynamic row header cleared."
+msgstr "动态行头已清除。"
+
+msgid "Dynamic row header set for column %s"
+msgstr "动态列标头设定给栏 %s"
+
+msgid "E ACUTE"
+msgstr "E ACUTE"
+
+msgid "E CIRCUMFLEX"
+msgstr "E CIRCUMFLEX"
+
+msgid "E GRAVE"
+msgstr "E GRAVE"
+
+msgid "E UMLAUT"
+msgstr "E UMLAUT"
+
+msgid "ETH"
+msgstr "ETH"
+
+msgid "Enable Braille _support"
+msgstr "启用点字支持(_S)"
+
+msgid "Enable _alphabetic keys"
+msgstr "启用字母键(_A)"
+
+msgid "Enable _function keys"
+msgstr "启用功能键(_F)"
+
+msgid "Enable _key echo"
+msgstr "启用按键朗读(_K)"
+
+msgid "Enable _modifier keys"
+msgstr "启用修饰键(_M)"
+
+msgid "Enable _navigation keys"
+msgstr "启用方向键(_N)"
+
+msgid "Enable _punctuation keys"
+msgstr "启用标点键(_P)"
+
+msgid "Enable _rewind and fast forward in Say All"
+msgstr "在说出全部时启用从头开始和快进(_R)"
+
+msgid "Enable _space"
+msgstr "启用空格(_S)"
+
+msgid "Enable _structural navigation"
+msgstr "启用结构化导航(_S)"
+
+msgid "Enable _structural navigation in Say All"
+msgstr "在说出全部时启用结构化导航(_S)"
+
+msgid "Enable _word wrap"
+msgstr "启用自动换行(_W)"
+
+msgid "Enable ac_tion keys"
+msgstr "启用动作键(_T)"
+
+msgid "Enable echo by _sentence"
+msgstr "由语句启用 echo(_S)"
+
+msgid "Enable echo by _word"
+msgstr "启用单词朗读(_W)"
+
+msgid "Enable echo by cha_racter"
+msgstr "启用字母朗读(_R)"
+
+msgid "Enable flash _messages"
+msgstr "启用消息闪烁(_M)"
+
+msgid "Enable layout mode for content"
+msgstr "启用内容的布局模式"
+
+msgid "Enable n_umeric keys"
+msgstr "启用数字键(_U)"
+
+msgid "Enable non-spacing _diacritical keys"
+msgstr "启用非空格辨别键(_D)"
+
+msgid "Enables sticky browse mode."
+msgstr "启用黏性浏览模式。"
+
+msgid "Enables sticky focus mode."
+msgstr "启用黏性焦点模式。"
+
+msgid "End of container."
+msgstr "容器尾部。"
+
+msgid "End of row."
+msgstr "行尾。"
+
+msgid "End of table"
+msgstr "表尾"
+
+msgid "Entering flat review."
+msgstr "进入平铺浏览模式。"
+
+msgid ""
+"Entering learn mode.  Press any key to hear its function.  To view the "
+"screen reader’s documentation, press F1. To get a list of the screen "
+"reader’s default shortcuts, press F2. To get a list of the screen reader’s "
+"shortcuts for the current application, press F3. To exit learn mode, press "
+"the escape key."
+msgstr ""
+"正在进入学习模式。按任意健倾听它的功能。要查看屏幕阅读器文档，请按 F1。要获取屏幕阅读器默认快捷键，请按 "
+"F2。要获得当前应用程序的屏幕阅读器快捷键，请按 F3。要退出学习模式，请按 ESC 键。"
+
+msgid "Enters and exits flat review mode."
+msgstr "进入及离开平铺浏览模式。"
+
+msgid "Enters learn mode.  Press escape to exit learn mode."
+msgstr "进入学习模式。按 Esc 键离开学习模式。"
+
+msgid "Error: Could not create list of objects."
+msgstr "错误：无法创建对象列表。"
+
+msgid "Exiting learn mode."
+msgstr "离开学习模式。"
+
+msgid "Exiting list notification messages mode."
+msgstr "离开通知消息列出模式。"
+
+msgid "FILE"
+msgstr "文件"
+
+msgid "Find"
+msgstr "查找"
+
+msgid "Find Options"
+msgstr "查找选项"
+
+msgid "Finished loading %s."
+msgstr "载入 %s 完成。"
+
+msgid "Finished loading."
+msgstr "载入完成。"
+
+msgid "Flash Message Settings"
+msgstr "消息闪烁设置"
+
+msgid "Focus mode"
+msgstr "焦点模式"
+
+msgid "Focus mode is sticky."
+msgstr "焦点模式为黏性模式。"
+
+msgid "Force use of option"
+msgstr "强制使用选项"
+
+msgid "France French Grade 1"
+msgstr "法国法语(一级)"
+
+msgid "France French Grade 2"
+msgstr "法国法语(二级)"
+
+msgid "Freeze"
+msgstr "冻结"
+
+msgid "Function"
+msgstr "功能"
+
+msgid "General"
+msgstr "常规"
+
+msgid "German Grade 0"
+msgstr "德语(零级)"
+
+msgid "German Grade 1"
+msgstr "德语(一级)"
+
+msgid "German Grade 2"
+msgstr "德语(二级)"
+
+msgid "Global Voice Settings"
+msgstr "全局语音设置"
+
+msgid "Go to bookmark."
+msgstr "转到书签。"
+
+msgid "Go to next bookmark location."
+msgstr "转到下一个书签位置。"
+
+msgid "Go to previous bookmark location."
+msgstr "转到上一个书签位置。"
+
+msgid "Goes down one cell."
+msgstr "下移一个单元格。"
+
+msgid "Goes left one cell."
+msgstr "左移一个单元格。"
+
+msgid "Goes right one cell."
+msgstr "右移一个单元格。"
+
+msgid "Goes to end of container."
+msgstr "移至容器结尾。"
+
+msgid "Goes to next blockquote."
+msgstr "转到下一个大段引用。"
+
+msgid "Goes to next button."
+msgstr "转到下一个按钮。"
+
+msgid "Goes to next character."
+msgstr "移至下一个字符。"
+
+msgid "Goes to next check box."
+msgstr "转到下一个复选框。"
+
+msgid "Goes to next clickable."
+msgstr "转到下一个可点击项。"
+
+msgid "Goes to next combo box."
+msgstr "转到下一个复选框。"
+
+msgid "Goes to next entry."
+msgstr "转到下一个条目。"
+
+msgid "Goes to next form field."
+msgstr "转到下一个表单域"
+
+msgid "Goes to next heading at level %d."
+msgstr "转到下一个级别为 %d 的标题。"
+
+msgid "Goes to next heading."
+msgstr "移至下一个标题。"
+
+msgid "Goes to next image."
+msgstr "移至下一图像。"
+
+msgid "Goes to next landmark."
+msgstr "转到下一个界标。"
+
+msgid "Goes to next large object."
+msgstr "转到下一个大型对象。"
+
+msgid "Goes to next line."
+msgstr "移至下一行。"
+
+msgid "Goes to next link."
+msgstr "移至下一链接"
+
+msgid "Goes to next list item."
+msgstr "转到下一个列表条目。"
+
+msgid "Goes to next list."
+msgstr "转到下一个列表。"
+
+msgid "Goes to next live region."
+msgstr "来到下一个居住地区。"
+
+msgid "Goes to next paragraph."
+msgstr "转到下一个段落。"
+
+msgid "Goes to next radio button."
+msgstr "转到下一个单选按钮。"
+
+msgid "Goes to next separator."
+msgstr "移至后一个分隔符。"
+
+msgid "Goes to next table."
+msgstr "转到下一个表。"
+
+msgid "Goes to next unvisited link."
+msgstr "移至下一个未浏览连结。"
+
+msgid "Goes to next visited link."
+msgstr "移至下一个浏览过的连结。"
+
+msgid "Goes to next word."
+msgstr "移至下一个单字。"
+
+msgid "Goes to previous blockquote."
+msgstr "转到上一个大段引用。"
+
+msgid "Goes to previous button."
+msgstr "转到上一个按钮。"
+
+msgid "Goes to previous character."
+msgstr "移至前一个字符。"
+
+msgid "Goes to previous check box."
+msgstr "转到上一个复选框。"
+
+msgid "Goes to previous clickable."
+msgstr "转到上一个可点击项。"
+
+msgid "Goes to previous combo box."
+msgstr "转到上一个组合框。"
+
+msgid "Goes to previous entry."
+msgstr "转到上一个条目。"
+
+msgid "Goes to previous form field."
+msgstr "转到上一个表单域"
+
+msgid "Goes to previous heading at level %d."
+msgstr "转到上一个级别为 %d 的标题。"
+
+msgid "Goes to previous heading."
+msgstr "移至前一个标题。"
+
+msgid "Goes to previous image."
+msgstr "移至上一图像。"
+
+msgid "Goes to previous landmark."
+msgstr "转到上一个界标。"
+
+msgid "Goes to previous large object."
+msgstr "转到上一个大型对象。"
+
+msgid "Goes to previous line."
+msgstr "移至上一行。"
+
+msgid "Goes to previous link."
+msgstr "移至上一链接"
+
+msgid "Goes to previous list item."
+msgstr "转到上一个列表条目。"
+
+msgid "Goes to previous list."
+msgstr "转到上一个列表。"
+
+msgid "Goes to previous live region."
+msgstr "回到上一个居住地区。"
+
+msgid "Goes to previous paragraph."
+msgstr "转到上一个段落。"
+
+msgid "Goes to previous radio button."
+msgstr "转到上一个单选按钮。"
+
+msgid "Goes to previous separator."
+msgstr "移至前一个分隔符。"
+
+msgid "Goes to previous table."
+msgstr "转到上一个表。"
+
+msgid "Goes to previous unvisited link."
+msgstr "移至前一个未浏览的连结。"
+
+msgid "Goes to previous visited link."
+msgstr "移至前一个浏览过的连结。"
+
+msgid "Goes to previous word."
+msgstr "移至下一个单字。"
+
+msgid "Goes to start of container."
+msgstr "移至容器开头。"
+
+msgid "Goes to the beginning of the line."
+msgstr "转到行首。"
+
+msgid "Goes to the bottom of the file."
+msgstr "移至文件的最下面。"
+
+msgid "Goes to the end of the line."
+msgstr "转到行尾。"
+
+msgid "Goes to the first cell in a table."
+msgstr "转到表中的第一个单元格。"
+
+msgid "Goes to the last cell in a table."
+msgstr "转到表中的最后一个单元格。"
+
+msgid "Goes to the last live region which made an announcement."
+msgstr "转到表中最后一个声明的居住地区。"
+
+msgid "Goes to the next object."
+msgstr "转到下一个对象。"
+
+msgid "Goes to the previous object."
+msgstr "转到上一个对象。"
+
+msgid "Goes to the top of the file."
+msgstr "移至文件的最上面。"
+
+msgid "Goes up one cell."
+msgstr "上移一个单元格。"
+
+msgid "Greek Grade 1"
+msgstr "希腊语(一级)"
+
+msgid "Hindi Grade 1"
+msgstr "印地语(一级)"
+
+msgid "Hungarian 8 dot computer"
+msgstr "匈牙利 8 点计算机"
+
+msgid "Hungarian Grade 1"
+msgstr "匈牙利语(一级)"
+
+msgid "Hyperlink"
+msgstr "超链接"
+
+msgid "Hyperlink Indicator"
+msgstr "超链接指示器"
+
+msgid "I ACUTE"
+msgstr "I ACUTE"
+
+msgid "I CIRCUMFLEX"
+msgstr "I CIRCUMFLEX"
+
+msgid "I GRAVE"
+msgstr "I GRAVE"
+
+msgid "I UMLAUT"
+msgstr "I UMLAUT"
+
+msgid "Icon panel"
+msgstr "图标面板"
+
+msgid "Increases the speech pitch."
+msgstr "升高朗读音调。"
+
+msgid "Increases the speech rate."
+msgstr "加快朗读速度。"
+
+msgid "Increases the speech volume."
+msgstr "加快朗读速度。"
+
+msgid "Insert"
+msgstr "插入"
+
+msgid "Italian Grade 1"
+msgstr "意大利语(一级)"
+
+msgid "Key Binding"
+msgstr "按键绑定"
+
+msgid "Key Bindings"
+msgstr "键绑定"
+
+msgid "Key Echo"
+msgstr "按键朗读"
+
+msgid "Key binding deleted. Press enter to confirm."
+msgstr "检测到了按键组合。按回车键确认。"
+
+msgid "Key captured: %s. Press enter to confirm."
+msgstr "按键抓取：%s。按回车键确认。"
+
+msgid "Key echo set to None."
+msgstr "按键朗读设置为无。"
+
+msgid "Key echo set to key and word."
+msgstr "按键朗读设置为字母和单词。"
+
+msgid "Key echo set to key."
+msgstr "按键朗读设置为字母。"
+
+msgid "Key echo set to sentence."
+msgstr "按键朗读设置为句子。"
+
+msgid "Key echo set to word and sentence."
+msgstr "按键朗读设置为单词和句子。"
+
+msgid "Key echo set to word."
+msgstr "按键朗读设置为单词。"
+
+msgid "Keyboard Layout"
+msgstr "键盘布局"
+
+msgid "LEVEL %d"
+msgstr "等级 %d"
+
+msgid "Last row deleted."
+msgstr "最后一行已删除。"
+
+msgid "Latvian Grade 1"
+msgstr "拉脱维亚语(一级)"
+
+msgid "Learn mode.  Press escape to exit."
+msgstr "学习模式。按 Esc 键离开。"
+
+msgid "Leaving %d blockquote."
+msgid_plural "Leaving %d blockquotes."
+msgstr[0] "正在离开 %d 个引用段。"
+
+msgid "Leaving %d list."
+msgid_plural "Leaving %d lists."
+msgstr[0] "正在离开 %d 个列表。"
+
+msgid "Leaving flat review."
+msgstr "离开平铺浏览。"
+
+msgid "Line"
+msgstr "行"
+
+msgid "Line Down"
+msgstr "下移"
+
+msgid "Line Left"
+msgstr "左移"
+
+msgid "Line Right"
+msgstr "右移"
+
+msgid "Line Up"
+msgstr "上移"
+
+msgid "List with %d item"
+msgid_plural "List with %d items"
+msgstr[0] "%d 个项目的列表"
+
+msgid "Live region support is off"
+msgstr "居住地区支持关闭"
+
+msgid "Live regions monitoring off"
+msgstr "居住地区关闭记录"
+
+msgid "Live regions monitoring on"
+msgstr "居住地区正在记录"
+
+msgid "Load profile"
+msgstr "加载用户配置"
+
+msgid "Load user profile"
+msgstr "加载用户配置"
+
+msgid "Loading.  Please wait."
+msgstr "正在载入，请稍候。"
+
+msgid "M_ost"
+msgstr "大多(_O)"
+
+msgid "Mark in braille"
+msgstr "布莱叶盲文中的标记"
+
+msgid "Marks the beginning of a text selection."
+msgstr "标记文本选择的开始。"
+
+msgid "Marks the end of a text selection."
+msgstr "标记文本选择的结束。"
+
+msgid "Match _entire word only"
+msgstr "匹配整个单词(_E)"
+
+msgid "Messa_ge duration (secs):"
+msgstr "消息时长（秒）(_G)："
+
+msgid "Message from chat room %s"
+msgstr "来自聊天室 %s 的消息"
+
+msgid "Messages are _detailed"
+msgstr "消息的细节(_D)"
+
+msgid "Messages are _persistent"
+msgstr "保持的消息(_P)"
+
+msgid "Meta2"
+msgstr "Meta2"
+
+msgid "Minimum length of matched text:"
+msgstr "匹配文本的最小长度："
+
+msgid "Misspelled word: %s"
+msgstr "拼写错误的单词：%s"
+
+msgid "Monitor live regions."
+msgstr "记录居住地区。"
+
+msgid "Mouse"
+msgstr "鼠标"
+
+msgid "Mouse over object not found."
+msgstr "鼠标指针下未找到对象。"
+
+msgid "Mouse review disabled."
+msgstr "已禁用鼠标查看模式。"
+
+msgid "Mouse review enabled."
+msgstr "已启用鼠标查看。"
+
+msgid "Move _down one"
+msgstr "下移一个(_D)"
+
+msgid "Move _up one"
+msgstr "上移一个(_U)"
+
+msgid "Move to _bottom"
+msgstr "移动到底部(_B)"
+
+msgid "Move to _top"
+msgstr "移动到顶部(_T)"
+
+msgid "Moves flat review to the beginning of the next line."
+msgstr "将平铺浏览移至下一行的行首。"
+
+msgid "Moves flat review to the beginning of the previous line."
+msgstr "将平铺浏览移至上一行的行首。"
+
+msgid "Moves flat review to the bottom left."
+msgstr "将平铺浏览移至左下。"
+
+msgid "Moves flat review to the end of the line."
+msgstr "将平铺浏览移至行尾。"
+
+msgid "Moves flat review to the end position."
+msgstr "将平铺浏览移至最尾位置。"
+
+msgid "Moves flat review to the home position."
+msgstr "将平铺浏览移至家位置。"
+
+msgid "Moves flat review to the next character."
+msgstr "将平铺浏览移至下一个字符。"
+
+msgid "Moves flat review to the next item or word."
+msgstr "将平铺浏览移至下一个项目或字词。"
+
+msgid "Moves flat review to the previous character."
+msgstr "将平铺浏览移至上一个字符。"
+
+msgid "Moves flat review to the previous item or word."
+msgstr "将平铺浏览移至上一个字符或字词。"
+
+msgid "Moves flat review to the word above the current word."
+msgstr "将平铺浏览移至当前字词之上。"
+
+msgid "Moves flat review to the word below the current word."
+msgstr "将平铺浏览移至当前字词之下。"
+
+msgid "Moves focus into and away from the current mouse over."
+msgstr "将焦点移向和移出当前鼠标下的区域。"
+
+msgid "N TILDE"
+msgstr "N TILDE"
+
+msgid "NAME"
+msgstr "名称"
+
+msgid "Nesting level %d"
+msgstr "嵌套等级 %d"
+
+msgid "Netherlands Dutch Grade 1"
+msgstr "荷兰语(一级)"
+
+msgid "New chat tab %s"
+msgstr "新聊天标签 %s"
+
+msgid "New item has been added"
+msgstr "新条目已添加"
+
+msgid "No application has focus."
+msgstr "未聚焦到程序。"
+
+msgid "No files found."
+msgstr "未找到任何文件。"
+
+msgid "No focus"
+msgstr "没有焦点"
+
+msgid "No landmark found."
+msgstr "没有找到更多的界标了。"
+
+msgid "No more blockquotes."
+msgstr "没有更多大段引用了。"
+
+msgid "No more buttons."
+msgstr "没有更多按钮了。"
+
+msgid "No more check boxes."
+msgstr "没有更多复选框了。"
+
+msgid "No more clickables."
+msgstr "没有更多的可点击对象了。"
+
+msgid "No more combo boxes."
+msgstr "没有更多复选框。"
+
+msgid "No more entries."
+msgstr "没有更多条目了。"
+
+msgid "No more form fields."
+msgstr "没有更多表单域了。"
+
+msgid "No more headings at level %d."
+msgstr "没有更多级别为 %d 的标题。"
+
+msgid "No more headings."
+msgstr "没有其他标题。"
+
+msgid "No more images."
+msgstr "没有更多的图像了。"
+
+msgid "No more large objects."
+msgstr "没有更多大型对象了。"
+
+msgid "No more links."
+msgstr "没有更多链接了。"
+
+msgid "No more list items."
+msgstr "没有更多列表条目了。"
+
+msgid "No more lists."
+msgstr "没有更多列表了。"
+
+msgid "No more live regions."
+msgstr "没有更多的居住地区。"
+
+msgid "No more paragraphs."
+msgstr "没有更多段落了。"
+
+msgid "No more radio buttons."
+msgstr "没有更多单选按钮了。"
+
+msgid "No more separators."
+msgstr "没有更多分隔符了。"
+
+msgid "No more tables."
+msgstr "没有更多的表了。"
+
+msgid "No more unvisited links."
+msgstr "没有更多未访问的链接了。"
+
+msgid "No more visited links."
+msgstr "没有更多已访问的链接了。"
+
+msgid "No notification messages"
+msgstr "无通知消息"
+
+msgid "No profiles found."
+msgstr "未找到配置文件。"
+
+msgid "No selected text."
+msgstr "未选取。"
+
+msgid "Non-uniform"
+msgstr "不均匀的"
+
+msgid "Norwegian Grade 0"
+msgstr "挪威语(零级)"
+
+msgid "Norwegian Grade 1"
+msgstr "挪威语(一级)"
+
+msgid "Norwegian Grade 2"
+msgstr "挪威语(二级)"
+
+msgid "Norwegian Grade 3"
+msgstr "挪威语(第三级)"
+
+msgid "Not in a container."
+msgstr "不在容器内。"
+
+msgid "Not in a table."
+msgstr "不在表中"
+
+msgid "Not on a link."
+msgstr "没有在链接上。"
+
+msgid "Not using flat review."
+msgstr "未使用平面浏览。"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "O ACUTE"
+msgstr "O ACUTE"
+
+msgid "O CIRCUMFLEX"
+msgstr "O CIRCUMFLEX"
+
+msgid "O GRAVE"
+msgstr "O GRAVE"
+
+msgid "O STROKE"
+msgstr "O STROKE"
+
+msgid "O TILDE"
+msgstr "O TILDE"
+
+msgid "O UMLAUT"
+msgstr "O UMLAUT"
+
+msgid "OPTION"
+msgstr "首选项"
+
+msgid "Onl_y speak changed lines during find"
+msgstr "查找时只朗读更改的行(_Y)"
+
+msgid "Only speak displayed text"
+msgstr "仅读出显示的文本"
+
+msgid "Opens the Find dialog."
+msgstr "打开查找对话框。"
+
+msgctxt "OptionGroup"
+msgid "Spell Check"
+msgstr "拼写检查"
+
+msgid "Optional arguments"
+msgstr "可选参数"
+
+msgid "Page Navigation"
+msgstr "页面导航"
+
+msgid "Page has %s."
+msgstr "有 %s 页。"
+
+msgid "Pans the braille display to the left."
+msgstr "点字显示向左移。"
+
+msgid "Pans the braille display to the right."
+msgstr "点字显示向右移。"
+
+msgid "Passes the next command on to the current application."
+msgstr "传递下一个命令到当前应用程序。"
+
+msgid "Pasted contents from clipboard."
+msgstr "已从剪贴板粘贴内容。"
+
+msgid "Performs left click on current flat review item."
+msgstr "在当前的平铺浏览项目中按下左键"
+
+msgid "Performs right click on current flat review item."
+msgstr "在当前的平铺浏览项目中按下右键"
+
+msgid "Performs the basic where am I operation."
+msgstr "执行基本的 我在哪 操作。"
+
+msgid "Performs the detailed where am I operation."
+msgstr "执行详尽的 我在哪 操作。"
+
+msgid "Phonetically speaks the current flat review character."
+msgstr "按照发音说写出当前平铺浏览的字母。"
+
+msgid "Phonetically spells the current flat review item or word."
+msgstr "按照发音拼写出当前平铺浏览的项目或单词。"
+
+msgid "Phonetically spells the current flat review line."
+msgstr "按照发音拼写出当前平铺浏览的行。"
+
+msgid "Pi_tch:"
+msgstr "音调(_T)："
+
+msgid "Polish Grade 1"
+msgstr "波兰语(一级)"
+
+msgid "Portuguese Grade 1"
+msgstr "葡萄牙语(一级)"
+
+msgid "Present Unless"
+msgstr "隐藏条件"
+
+msgid "Present _context of error"
+msgstr "显示错误上下文(_C)"
+
+msgid "Present current date."
+msgstr "提供当前日期。"
+
+msgid "Present current time."
+msgstr "提供当前时间。"
+
+msgid "Present last notification message."
+msgstr "显示最后一条通知信息。"
+
+msgid "Present notification messages list"
+msgstr "显示通知信息列表"
+
+msgid "Present previous notification message."
+msgstr "显示前一条通知信息。"
+
+msgid "Presents the contents of the input line."
+msgstr "显示输入行的内容。"
+
+msgid "Press alt+f6 to give focus to child windows."
+msgstr "按 alt+f6 将焦点给与子窗口。"
+
+msgid "Press h for help.\n"
+msgstr "按 h 获取帮助信息。\n"
+
+msgid "Press space to expand, and use up and down to select an item."
+msgstr "按空格键展开，并使用上下键选择项目。"
+
+msgid "Press space to toggle."
+msgstr "按空格来切换。"
+
+msgid "Prevent use of option"
+msgstr "阻止使用选项"
+
+msgid "Print the known running applications"
+msgstr "打印正在运行的应用程序"
+
+msgid "Processes a cursor routing key."
+msgstr "处理光标路径选择关键字。"
+
+msgid ""
+"Profile %s already exists.\n"
+"Continue updating the existing profile with these new changes?"
+msgstr ""
+"配置 %s 已经存在。\n"
+"继续使用新设置来更新现有的配置？"
+
+msgid "Profile could not be loaded: %s"
+msgstr "无法加载配置文件： %s"
+
+msgid "Profile set to %s."
+msgstr "用户配置设定为 %s。"
+
+msgid "Profiles"
+msgstr "用户配置"
+
+msgid "Progress Bar Updates"
+msgstr "进度条更新"
+
+msgid "Progress bar %d."
+msgstr "进度条 %d。"
+
+msgctxt "ProgressBar"
+msgid "All"
+msgstr "全部"
+
+msgctxt "ProgressBar"
+msgid "Application"
+msgstr "应用程序"
+
+msgctxt "ProgressBar"
+msgid "Frequency (secs):"
+msgstr "频率(秒):"
+
+msgctxt "ProgressBar"
+msgid "Window"
+msgstr "窗口"
+
+msgid "Pronunciation"
+msgstr "读音"
+
+msgid "Pronunciation Dictionary"
+msgstr "发音词典"
+
+msgid "Provide chat room specific _message histories"
+msgstr "提供聊天室特定的消息历史(_M)"
+
+msgid "Provide chat room specific message histories."
+msgstr "提供聊天室特定的消息历史。"
+
+msgid "Punctuation Level"
+msgstr "标点符号级</b>"
+
+msgid "Punctuation level set to all."
+msgstr "标点符号级别设为“全部”。"
+
+msgid "Punctuation level set to most."
+msgstr "标点符号级别设置为“大多”。"
+
+msgid "Punctuation level set to none."
+msgstr "标点符号级别设置为无。"
+
+msgid "Punctuation level set to some."
+msgstr "标点符号级别设置为“一些”。"
+
+msgid "Quits the screen reader"
+msgstr "退出屏幕阅读器"
+
+msgid "Reads the attributes associated with the current text character."
+msgstr "阅读当前字符相关的属性。"
+
+msgid "Replace a currently running instance of this screen reader"
+msgstr "替代当前运行的本屏幕阅读器实例"
+
+msgid "Replacement String"
+msgstr "替换字符串"
+
+msgid "Report bugs to orca-list@gnome.org."
+msgstr "汇报错误至 orca-list@gnome.org"
+
+msgid "Restrict to:"
+msgstr "限于："
+
+msgid "Results must:"
+msgstr "结果必须是："
+
+msgid "Returns to object with keyboard focus."
+msgstr "回到有键盘焦点的对象。"
+
+msgid "Review live region announcement."
+msgstr "审阅居住地区声明。"
+
+msgid "Routes the pointer to the current item."
+msgstr "移动指针到当前条目。"
+
+msgid "Row %(row)d, column %(column)d."
+msgstr "行 %(row)d，列 %(column)d。"
+
+msgid "Row deleted."
+msgstr "行已删除。"
+
+msgid "Row inserted at the end of the table."
+msgstr "行已插入到表末。"
+
+msgid "Row inserted."
+msgstr "行已插入。"
+
+msgid "Rows reordered"
+msgstr "行已重新排列"
+
+msgid "S_peak colors as names"
+msgstr "将颜色以名字形式读出(_P)"
+
+msgid "Save Profile As"
+msgstr "另存为"
+
+msgid "Save Profile As Conflict"
+msgstr "仍然保存有冲突的配置"
+
+msgid "Save _As"
+msgstr "另存为(_A)"
+
+msgid "Save bookmarks."
+msgstr "保存书签。"
+
+msgid "Say All"
+msgstr "朗读全部"
+
+msgid "Say All B_y:"
+msgstr "朗读全部使用(_Y)："
+
+msgid "Screen Reader Find Dialog"
+msgstr "屏幕阅读器查找对话框"
+
+msgid "Screen Reader Preferences"
+msgstr "屏幕阅读器首选项"
+
+msgid "Screen Reader Preferences for %s"
+msgstr "屏幕阅读器 %s 首选项"
+
+msgid "Screen Reader _Modifier Key(s):"
+msgstr "屏幕阅读器修饰键(_M)："
+
+msgid "Screen reader off."
+msgstr "屏幕阅读器关闭。"
+
+msgid "Screen reader on."
+msgstr "屏幕阅读器启用。"
+
+msgid "Screen reader settings reloaded."
+msgstr "已重新载入屏幕阅读器设置。"
+
+msgid "Screen reader version %s."
+msgstr "屏幕阅读器版本 %s。"
+
+msgid "Search _backwards"
+msgstr "反向搜索(_B)"
+
+msgid "Search complete."
+msgstr "搜索完成。"
+
+msgid "Search direction:"
+msgstr "<b>搜索方向：</b>"
+
+msgid "Search for:"
+msgstr "搜索："
+
+msgid "Searches for the next instance of a string."
+msgstr "搜索下一个相同的字符串。"
+
+msgid "Searches for the previous instance of a string."
+msgstr "搜索上一个相同的字符串。"
+
+msgid "Searching."
+msgstr "搜索中。"
+
+msgid "Selected text is: %s"
+msgstr "已选取的文字是：%s"
+
+msgid "Selection Indicator"
+msgstr "选择指示器"
+
+msgid "Selection deleted."
+msgstr "选定已删除。"
+
+msgid "Selection restored."
+msgstr "选定已恢复"
+
+msgid "Send debug output to debug-YYYY-MM-DD-HH:MM:SS.out"
+msgstr "发送调试输出到 debug-YYYY-MM-DD-HH:MM:SS.out"
+
+msgid "Send debug output to the specified file"
+msgstr "发送调试输出到指定的文件"
+
+msgid "Sentence"
+msgstr "句子"
+
+msgid "Set default live region politeness level to off."
+msgstr "默认的居住地区礼貌水平设置为关闭。"
+
+msgid "Set the column to use as dynamic row headers."
+msgstr "将该列设定为动态行标题"
+
+msgid "Set the row to use as dynamic column headers."
+msgstr "将该行设定为动态列标题。"
+
+msgid "Set up user preferences (GUI version)"
+msgstr "设定用户首选项（图形版本）"
+
+msgid "Set up user preferences (text version)"
+msgstr "设定用户首选项(文字版本)"
+
+msgid "Shift"
+msgstr "Shift"
+
+msgid "Show this help message and exit"
+msgstr "显示本帮助信息并退出"
+
+msgid "Six Dots"
+msgstr "六个点"
+
+msgid "Skip _blank cells"
+msgstr "跳过空单元格(_B)"
+
+msgid "So_me"
+msgstr "一些(_M)"
+
+msgid "Spanish Grade 1"
+msgstr "西班牙语(一级)"
+
+msgid "Spea_k object mnemonics"
+msgstr "朗读对象助记符(_K)"
+
+msgid "Speak"
+msgstr "朗读"
+
+msgid "Speak _cell"
+msgstr "读出单元格(_C)"
+
+msgid "Speak _cell coordinates"
+msgstr "读出单元格坐标(_C)"
+
+msgid "Speak _description"
+msgstr "朗读描述(_D)"
+
+msgid "Speak _indentation and justification"
+msgstr "朗读缩排及对齐(_I)"
+
+msgid "Speak _misspelled-word indicator"
+msgstr "读出错误拼写单词指示(_M)"
+
+msgid "Speak _multiple cell spans"
+msgstr "读出多重跨越单元(_M)"
+
+msgid "Speak _none"
+msgstr "什么都不读(_N)"
+
+msgid "Speak _numbers as digits"
+msgstr "将数字以数码形式读出(_N)"
+
+msgid "Speak and braille a previous chat room message."
+msgstr "读出及点出上一个聊天室的消息。"
+
+msgid "Speak blank lines"
+msgstr "读出空白的行"
+
+msgid "Speak cell"
+msgstr "读出单元格"
+
+msgid "Speak child p_osition"
+msgstr "读出子项位置(_O)"
+
+msgid "Speak full row in _GUI tables"
+msgstr "读出图形界面表格里的整列(_G)"
+
+msgid "Speak full row in _document tables"
+msgstr "读出文档表格里的整列(_D)"
+
+msgid "Speak full row in sp_readsheets"
+msgstr "读出工作表里的整列(_R)"
+
+msgid "Speak messages from"
+msgstr "从以下位置读出消息："
+
+msgid "Speak multicase strings as wor_ds"
+msgstr "把多组字符串当做单词读出(_D)"
+
+msgid "Speak numbers as digits."
+msgstr "将数字以数码形式读出。"
+
+msgid "Speak numbers as words."
+msgstr "把数字当做单词读出(_D)"
+
+msgid "Speak object under mo_use"
+msgstr "读出鼠标下的对象(_U)"
+
+msgid "Speak results during _find"
+msgstr "查找时读取结果(_F)"
+
+msgid "Speak row"
+msgstr "读出整行"
+
+msgid "Speak tutorial messages"
+msgstr "读出指导信息"
+
+msgid "Speaking of indentation and justification disabled."
+msgstr "读出缩排及对齐已禁用。"
+
+msgid "Speaking of indentation and justification enabled."
+msgstr "读出缩排及对齐已启用。"
+
+msgid "Speaks entire document."
+msgstr "朗读整个文件。"
+
+msgid "Speaks entire window using flat review."
+msgstr "在平铺浏览模式读出整个窗口。"
+
+msgid "Speaks link details."
+msgstr "读出链接细节。"
+
+msgid "Speaks the current flat review character."
+msgstr "读出当前的平铺浏览字符。"
+
+msgid "Speaks the current flat review item or word."
+msgstr "说出当前平铺浏览的项目或单词。"
+
+msgid "Speaks the current flat review line."
+msgstr "读出当前的 flat review 行。"
+
+msgid "Speaks the current flat review object."
+msgstr "读出当前的平铺浏览对象。"
+
+msgid "Speaks the status bar."
+msgstr "朗读状态栏"
+
+msgid "Speaks the title bar."
+msgstr "朗读标题栏。"
+
+msgid "Speaks unicode value of the current flat review character."
+msgstr "读出当前平铺浏览字符的 unicode 值。"
+
+msgid "Speech"
+msgstr "朗读"
+
+msgctxt "Speech"
+msgid "Verbosity level: brief"
+msgstr "详细等级：简短"
+
+msgctxt "Speech"
+msgid "Verbosity level: verbose"
+msgstr "详细等级：详细"
+
+msgid "Speech Dispatcher"
+msgstr "Speech Dispatcher"
+
+msgid "Speech _system:"
+msgstr "朗读系统(_S)："
+
+msgid "Speech disabled."
+msgstr "已停用朗读功能。"
+
+msgid "Speech enabled."
+msgstr "已启用朗读功能。"
+
+msgid "Speech is unavailable."
+msgstr "语音功能不存在。"
+
+msgid "Speech synthesi_zer:"
+msgstr "朗读合成器(_Z)："
+
+msgid "Spell _error"
+msgstr "拼写错误(_E)"
+
+msgid "Spell _suggestion"
+msgstr "拼写建议(_S)"
+
+msgid "Spells the current flat review item or word."
+msgstr "拼写出当前平铺浏览的项目或单词。"
+
+msgid "Spells the current flat review line."
+msgstr "拼写出当前平铺浏览的行。"
+
+msgid "Spoken Context"
+msgstr "朗读上下文"
+
+msgid "Start from:"
+msgstr "开始自："
+
+msgid "Start-up Profile:"
+msgstr "启动配置："
+
+msgid "Structural navigation keys off."
+msgstr "结构导航键关闭。"
+
+msgid "Structural navigation keys on."
+msgstr "结构导航键打开。"
+
+msgid "Super"
+msgstr "Super"
+
+msgid "Swedish Grade 1"
+msgstr "瑞典语(一级)"
+
+msgid "Switches between browse mode and focus mode."
+msgstr "切换浏览模式与焦点模式。"
+
+msgid "Switches between native and screen-reader caret navigation."
+msgstr "在原生导航和屏幕阅读器光标导航之间切换。"
+
+msgid "System"
+msgstr "系统"
+
+msgid "THORN"
+msgstr "THORN"
+
+msgid "TREE LEVEL %d"
+msgstr "树型等级 %d"
+
+msgid "Table Navigation"
+msgstr "表格导航"
+
+msgid "Text Attributes"
+msgstr "文本属性"
+
+msgid "Text attributes"
+msgstr "文本属性"
+
+msgid "The application is controlling the caret."
+msgstr "此应用程序正在控制插入符号。"
+
+msgid "The following are not valid: "
+msgstr "以下参数无效: "
+
+msgid "The key entered is already bound to %s"
+msgstr "输入的键已经绑定到了 %s"
+
+msgid "The keybinding has been removed."
+msgstr "键绑定已被移除。"
+
+msgid "The new key is: %s"
+msgstr "新的按键是：%s"
+
+msgid "The screen reader is controlling the caret."
+msgstr "屏幕阅读器正在控制插入符号"
+
+msgid "Time and Date"
+msgstr "日期和时间"
+
+msgid "To activate press return."
+msgstr "按回车键激活。"
+
+msgid "To activate press space."
+msgstr "按空格键激活。"
+
+msgid "To collapse, press shift plus left."
+msgstr "要收起，按下 shift 加 左 键"
+
+msgid ""
+"To decrease press left arrow, to increase press right arrow. To go to "
+"minimum press home, and for maximum press end."
+msgstr "要减少按左箭头，要增加按右箭头。要转到最小按 home，最大按 end。"
+
+msgid "To enable focus mode press %s."
+msgstr "要启用焦点模式请按 %s。"
+
+msgid "To enter sub menu, press right arrow."
+msgstr "要进入子菜单，按右箭头。"
+
+msgid "To expand, press shift plus right."
+msgstr "要展开，按下 shift 加 右 键。"
+
+msgid "To get to the system menus press the alt+f1 key."
+msgstr "要访问系统菜单，请按下 alt+f1 键。"
+
+msgid "To move to items, use either the arrow keys or type ahead searching."
+msgstr "要移动到条目。可以使用方向键或开始字符搜索。"
+
+msgid ""
+"To navigate, press left or right arrow. To move through items press up or "
+"down arrow."
+msgstr "要导航，按左键头或右箭头。要在条目间移动，按上下键。"
+
+msgid "Toggle mouse review mode."
+msgstr "切换鼠标查看模式。"
+
+msgid "Toggle whether we announce when our buddies are typing."
+msgstr "当好友输入时，是否通知。"
+
+msgid ""
+"Toggle whether we prefix chat room messages with the name of the chat room."
+msgstr "切换是否将聊天室的名称加入聊天室的消息前。"
+
+msgid "Toggle whether we provide chat room specific message histories."
+msgstr "切换是否提供特定聊天室的消息记录。"
+
+msgid "Toggles speech verbosity level."
+msgstr "切换语音详细等级。"
+
+msgid "Toggles structural navigation keys."
+msgstr "切换结构导航键。"
+
+msgid "Toggles the silencing of speech."
+msgstr "切换合成语音开关。"
+
+msgid "Toggles the speaking of indentation and justification."
+msgstr "是否在缩排及对齐时朗读。"
+
+msgid "Toggles whether to read just the current table cell or the whole row."
+msgstr "切换应否阅读当前的表格或整行。"
+
+msgid "Top Left"
+msgstr "左上角"
+
+msgid "Top of column."
+msgstr "列头。"
+
+msgid "Top of window"
+msgstr "最上层窗口"
+
+msgid "Turns contracted braille on and off."
+msgstr "打开和关闭布莱叶盲文。"
+
+msgid "Type in text."
+msgstr "键入文本。"
+
+msgid "U ACUTE"
+msgstr "U ACUTE"
+
+msgid "U CIRCUMFLEX"
+msgstr "U CIRCUMFLEX"
+
+msgid "U GRAVE"
+msgstr "U GRAVE"
+
+msgid "U UMLAUT"
+msgstr "U UMLAUT"
+
+msgid "U.K. English Grade 1"
+msgstr "英式英语(一级)"
+
+msgid "U.K. English Grade 2"
+msgstr "英式英语(二级)"
+
+msgid "U.S. English Grade 1"
+msgstr "美式英语(一级)"
+
+msgid "U.S. English Grade 2"
+msgstr "美式英语(二级)"
+
+msgid "Unable to get calculator display"
+msgstr "无法获取计算器显示"
+
+msgid "Unbound"
+msgstr "未绑定"
+
+msgid "Unicode %s"
+msgstr "Unicode %s"
+
+msgid "Uppercase"
+msgstr "大写"
+
+msgid "Usage: "
+msgstr "用法： "
+
+msgid "Use Up and Down Arrow to navigate the list. Press Escape to exit."
+msgstr "用上下箭头去操纵列表。按 Esc 键退出。"
+
+msgid ""
+"Use Up, Down, Home or End to navigate in the list.\n"
+"Press Escape to exit.\n"
+"Press Space to repeat the last message read.\n"
+"Press one digit to read a specific message.\n"
+msgstr ""
+"使用上、下、Home 或 End 键在列表中导航。\n"
+"按 Esc 键退出。\n"
+"按空格键重复刚读过的信息。\n"
+"按数字键读指定信息。\n"
+
+msgid "Use alternate directory for user preferences"
+msgstr "为用户首选项使用另外的目录"
+
+msgid "Use arrow keys to change."
+msgstr "使用箭头更改。"
+
+msgid "Use left and right to view other tabs."
+msgstr "使用左向键或右向键查看其它标签。"
+
+msgid "Use up and down to select an item."
+msgstr "使用上下键选择条目。"
+
+msgid ""
+"Use up or down arrow to select value. Or type in the desired numerical "
+"value."
+msgstr "使用上下箭头选择值。或者输入期望的数字值。"
+
+msgid "User Profile Conflict!"
+msgstr "用户配置有冲突！"
+
+msgid "Ver_bose"
+msgstr "详细(_B)"
+
+msgid "Verbosity"
+msgstr "详细程度"
+
+msgid "Vo_lume:"
+msgstr "音量(_L)："
+
+msgid "Voice"
+msgstr "语音"
+
+msgid "Voice Type Settings"
+msgstr "语音类型设置"
+
+msgctxt "VoiceType"
+msgid "Default"
+msgstr "默认"
+
+msgctxt "VoiceType"
+msgid "Hyperlink"
+msgstr "超链接"
+
+msgctxt "VoiceType"
+msgid "System"
+msgstr "系统"
+
+msgctxt "VoiceType"
+msgid "Uppercase"
+msgstr "大写"
+
+msgid "Welsh Grade 1"
+msgstr "威尔士语(一级)"
+
+msgid "Welsh Grade 2"
+msgstr "威尔士语(二级)"
+
+msgid "Window"
+msgstr "窗口"
+
+msgid "Wrapping to bottom."
+msgstr "滚动到底部。"
+
+msgid "Wrapping to top."
+msgstr "滚动到顶部。"
+
+msgid "Y ACUTE"
+msgstr "Y ACUTE"
+
+msgid "Y UMLAUT"
+msgstr "Y UMLAUT"
+
+msgid ""
+"You already have an instance of an Orca preferences dialog open.\n"
+"Please close it before opening a new one."
+msgstr ""
+"您已经打开了一个 Orca 首选项对话框实例。\n"
+"打开一个新的此对话框前，请关闭它。"
+
+msgid ""
+"You are about to change the active profile. If you\n"
+"have just made changes in your preferences, they will\n"
+"be dropped at profile load.\n"
+"\n"
+"Continue loading profile discarding previous changes?"
+msgstr ""
+"您正要修改活动的配置。\n"
+"如果您刚刚修改了您的首选项，在配置文件加载时修改将被丢弃。\n"
+"\n"
+"继续加载配置并丢弃之前的更改？"
+
+msgid "_Abbreviated role names"
+msgstr "缩写任务名称(_A)"
+
+msgid "_Activate"
+msgstr "激活(_A)"
+
+msgid "_All"
+msgstr "全部(_A)"
+
+msgid "_Apply"
+msgstr "应用（_A）"
+
+msgid "_Braille updates"
+msgstr "盲文更新(_B)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Capitalization style:"
+msgstr "大写字母类型(_C)："
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Desktop"
+msgstr "台式机(_D)"
+
+msgid "_Enable Contracted Braille"
+msgstr "启用缩短的布莱叶盲文(_E)"
+
+msgid "_Enable speech"
+msgstr "启用朗读(_E)"
+
+msgid "_Find"
+msgstr "查找(_F)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Jump to"
+msgstr "跳到(_J)"
+
+msgid "_Laptop"
+msgstr "笔记本(_L)"
+
+msgid "_Load"
+msgstr "加载(_L)"
+
+msgid "_Match case"
+msgstr "区分大小写(_M)"
+
+msgid "_New entry"
+msgstr "新项目(_N)"
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Person:"
+msgstr "朗读者(_P)："
+
+msgid "_Present summary of a page when it is first loaded"
+msgstr "在一个页面首次加载时朗读页面概要(_P)"
+
+msgid "_Present tooltips"
+msgstr "当前工具栏提示(_P)"
+
+msgid "_Profile Name:"
+msgstr "配置名称(_P)："
+
+msgid "_Rate:"
+msgstr "速度(_R)："
+
+msgid "_Reset"
+msgstr "复位(_R)"
+
+msgid "_Search for:"
+msgstr "搜索(_S)："
+
+msgid "_Speak Chat Room name"
+msgstr "读出聊天室名(_S)"
+
+msgid "_Speak all"
+msgstr "全部读出(_S)"
+
+msgid "_Speak updates"
+msgstr "朗读更新(_S)"
+
+msgid "_System messages are detailed"
+msgstr "详细显示系统信息(_S)"
+
+msgid "_Time format:"
+msgstr "时间格式(_T)："
+
+msgid "_Top of window"
+msgstr "最上层窗口(_T)"
+
+msgid "_Voice type:"
+msgstr "语音类型(_V)："
+
+msgid "_Wrap around"
+msgstr "环绕(_W)"
+
+msgid ""
+"a : alpha, b : bravo, c : charlie, d : delta, e : echo, f : foxtrot, g : "
+"golf, h : hotel, i : india, j : juliet, k : kilo, l : lima, m : mike, n : "
+"november, o : oscar, p : papa, q : quebec, r : romeo, s : sierra, t : tango,"
+" u : uniform, v : victor, w : whiskey, x : xray, y : yankee, z : zulu"
+msgstr ""
+"a : alpha, b : bravo, c : charlie, d : delta, e : echo, f : foxtrot, g : "
+"golf, h : hotel, i : india, j : juliet, k : kilo, l : lima, m : mike, n : "
+"november, o : oscar, p : papa, q : quebec, r : romeo, s : sierra, t : tango,"
+" u : uniform, v : victor, w : whiskey, x : xray, y : yankee, z : zulu"
+
+msgid "a acute"
+msgstr "a acute"
+
+msgid "a circumflex"
+msgstr "a circumflex"
+
+msgid "a e"
+msgstr "a e"
+
+msgid "a grave"
+msgstr "a grave"
+
+msgid "a ring"
+msgstr "a ring"
+
+msgid "a tilde"
+msgstr "a tilde"
+
+msgid "a umlaut"
+msgstr "a umlaut"
+
+msgid "acute"
+msgstr "高音"
+
+msgid "alrt"
+msgstr "alrt"
+
+msgid "and"
+msgstr "和"
+
+msgid "anim"
+msgstr "anim"
+
+msgid "announce when your buddies are typing."
+msgstr "好友输入时通知。"
+
+msgid "apostrophe"
+msgstr "撇号"
+
+msgid "app"
+msgstr "app"
+
+msgid "arw"
+msgstr "arw"
+
+msgid "at"
+msgstr "at"
+
+msgid "auto"
+msgstr "自动"
+
+msgid "backslash"
+msgstr "反斜线"
+
+msgid "backspace"
+msgstr "退格键"
+
+msgid "begin"
+msgstr "Begin"
+
+msgid "black diamond"
+msgstr "实心菱形"
+
+msgid "black square"
+msgstr "实心方框"
+
+msgid "blank"
+msgstr "空"
+
+msgid "bold"
+msgstr "粗体"
+
+msgid "bookmark entered"
+msgstr "书签已输入"
+
+msgid "bookmarks could not be saved"
+msgstr "无法保存书签"
+
+msgid "bookmarks saved"
+msgstr "书签已保存"
+
+msgctxt "braille dots"
+msgid "_None"
+msgstr "无(_N)"
+
+msgid "broken bar"
+msgstr "竖杠"
+
+msgid "btn"
+msgstr "btn"
+
+msgid "bullet"
+msgstr "项目符号"
+
+msgid "c cedilla"
+msgstr "c cedilla"
+
+msgid "cal"
+msgstr "cal"
+
+msgctxt "capitalization style"
+msgid "icon"
+msgstr "图标"
+
+msgctxt "capitalization style"
+msgid "none"
+msgstr "无"
+
+msgctxt "capitalization style"
+msgid "spell"
+msgstr "拼写"
+
+msgid "caps lock"
+msgstr "大小写锁定"
+
+msgid "caret"
+msgstr "脱字符"
+
+msgid "cbo"
+msgstr "cbo"
+
+msgid "cedilla"
+msgstr "变音符号"
+
+msgid "cents"
+msgstr "美分号"
+
+msgid "check mark"
+msgstr "对号"
+
+msgctxt "checkbox"
+msgid "checked"
+msgstr "已勾选"
+
+msgctxt "checkbox"
+msgid "not checked"
+msgstr "未勾选"
+
+msgctxt "checkbox"
+msgid "partially checked"
+msgstr "已部分勾选"
+
+msgid "chk"
+msgstr "chk"
+
+msgid "circumflex"
+msgstr "音调符号"
+
+msgid "clickable"
+msgstr "可点击对象"
+
+msgctxt "clipboard"
+msgid "copied"
+msgstr "已复制"
+
+msgctxt "clipboard"
+msgid "cut"
+msgstr "剪切"
+
+msgctxt "clipboard"
+msgid "pasted"
+msgstr "已粘贴"
+
+msgid "cll"
+msgstr "cll"
+
+msgid "clrchsr"
+msgstr "clrchsr"
+
+msgid "cnv"
+msgstr "cnv"
+
+msgid "colhdr"
+msgstr "colhdr"
+
+msgid "collapsed"
+msgstr "已收起"
+
+msgid "colon"
+msgstr "冒号"
+
+msgctxt "color name"
+msgid "alice blue"
+msgstr "艾丽斯蓝色"
+
+msgctxt "color name"
+msgid "antique white"
+msgstr "古董白色"
+
+msgctxt "color name"
+msgid "aquamarine"
+msgstr "海蓝宝石色"
+
+msgctxt "color name"
+msgid "azure"
+msgstr "蔚蓝色"
+
+msgctxt "color name"
+msgid "beige"
+msgstr "米色"
+
+msgctxt "color name"
+msgid "bisque"
+msgstr "橘黄色"
+
+msgctxt "color name"
+msgid "black"
+msgstr "黑色"
+
+msgctxt "color name"
+msgid "blanched almond"
+msgstr "杏仁白色"
+
+msgctxt "color name"
+msgid "blue"
+msgstr "蓝色"
+
+msgctxt "color name"
+msgid "blue violet"
+msgstr "蓝紫色"
+
+msgctxt "color name"
+msgid "brown"
+msgstr "棕色"
+
+msgctxt "color name"
+msgid "burlywood"
+msgstr "原木色"
+
+msgctxt "color name"
+msgid "cadet blue"
+msgstr "灰蓝色"
+
+msgctxt "color name"
+msgid "chartreuse"
+msgstr "黄绿色"
+
+msgctxt "color name"
+msgid "chocolate"
+msgstr "巧克力色"
+
+msgctxt "color name"
+msgid "coral"
+msgstr "珊瑚色"
+
+msgctxt "color name"
+msgid "cornflower blue"
+msgstr "矢菊花蓝色"
+
+msgctxt "color name"
+msgid "cornsilk"
+msgstr "玉米丝色"
+
+msgctxt "color name"
+msgid "crimson"
+msgstr "深红色的"
+
+msgctxt "color name"
+msgid "cyan"
+msgstr "蓝绿色的"
+
+msgctxt "color name"
+msgid "dark blue"
+msgstr "深蓝色"
+
+msgctxt "color name"
+msgid "dark cyan"
+msgstr "深蓝绿色"
+
+msgctxt "color name"
+msgid "dark goldenrod"
+msgstr "深金黄色"
+
+msgctxt "color name"
+msgid "dark gray"
+msgstr "深灰色"
+
+msgctxt "color name"
+msgid "dark green"
+msgstr "深绿色"
+
+msgctxt "color name"
+msgid "dark khaki"
+msgstr "深卡其色"
+
+msgctxt "color name"
+msgid "dark magenta"
+msgstr "深品红色"
+
+msgctxt "color name"
+msgid "dark olive green"
+msgstr "深橄榄绿色"
+
+msgctxt "color name"
+msgid "dark orange"
+msgstr "深橙色"
+
+msgctxt "color name"
+msgid "dark orchid"
+msgstr "深紫色"
+
+msgctxt "color name"
+msgid "dark red"
+msgstr "深红色"
+
+msgctxt "color name"
+msgid "dark salmon"
+msgstr "深鲑肉色"
+
+msgctxt "color name"
+msgid "dark sea green"
+msgstr "深海绿色"
+
+msgctxt "color name"
+msgid "dark slate blue"
+msgstr "深石板蓝色"
+
+msgctxt "color name"
+msgid "dark slate gray"
+msgstr "深石板灰色"
+
+msgctxt "color name"
+msgid "dark turquoise"
+msgstr "深蓝绿色"
+
+msgctxt "color name"
+msgid "dark violet"
+msgstr "深紫罗兰色"
+
+msgctxt "color name"
+msgid "deep pink"
+msgstr "深粉色"
+
+msgctxt "color name"
+msgid "deep sky blue"
+msgstr "深天蓝色"
+
+msgctxt "color name"
+msgid "dim gray"
+msgstr "暗灰色"
+
+msgctxt "color name"
+msgid "dodger blue"
+msgstr "道奇蓝色"
+
+msgctxt "color name"
+msgid "fire brick"
+msgstr "红砖色"
+
+msgctxt "color name"
+msgid "floral white"
+msgstr "花白色"
+
+msgctxt "color name"
+msgid "forest green"
+msgstr "森绿色"
+
+msgctxt "color name"
+msgid "fuchsia"
+msgstr "樱红色"
+
+msgctxt "color name"
+msgid "gainsboro"
+msgstr "亮灰色"
+
+msgctxt "color name"
+msgid "ghost white"
+msgstr "苍白色"
+
+msgctxt "color name"
+msgid "gold"
+msgstr "金色"
+
+msgctxt "color name"
+msgid "goldenrod"
+msgstr "金黄色"
+
+msgctxt "color name"
+msgid "gray"
+msgstr "灰色"
+
+msgctxt "color name"
+msgid "green"
+msgstr "绿色"
+
+msgctxt "color name"
+msgid "green yellow"
+msgstr "绿黄色"
+
+msgctxt "color name"
+msgid "honeydew"
+msgstr "蜜色"
+
+msgctxt "color name"
+msgid "hot pink"
+msgstr "艳粉色"
+
+msgctxt "color name"
+msgid "indian red"
+msgstr "浅红色"
+
+msgctxt "color name"
+msgid "indigo"
+msgstr "靛蓝色"
+
+msgctxt "color name"
+msgid "ivory"
+msgstr "象牙色"
+
+msgctxt "color name"
+msgid "khaki"
+msgstr "卡其色"
+
+msgctxt "color name"
+msgid "lavender"
+msgstr "薰衣草紫色"
+
+msgctxt "color name"
+msgid "lavender blush"
+msgstr "薰衣草红色"
+
+msgctxt "color name"
+msgid "lawn green"
+msgstr "草坪绿色"
+
+msgctxt "color name"
+msgid "lemon chiffon"
+msgstr "柠檬雪纺色"
+
+msgctxt "color name"
+msgid "light blue"
+msgstr "浅蓝色"
+
+msgctxt "color name"
+msgid "light coral"
+msgstr "浅珊瑚色"
+
+msgctxt "color name"
+msgid "light cyan"
+msgstr "浅蓝绿色"
+
+msgctxt "color name"
+msgid "light goldenrod yellow"
+msgstr "浅金黄色"
+
+msgctxt "color name"
+msgid "light gray"
+msgstr "浅灰色"
+
+msgctxt "color name"
+msgid "light green"
+msgstr "浅绿色"
+
+msgctxt "color name"
+msgid "light pink"
+msgstr "浅粉色"
+
+msgctxt "color name"
+msgid "light salmon"
+msgstr "浅鲑肉色"
+
+msgctxt "color name"
+msgid "light sea green"
+msgstr "浅海绿色"
+
+msgctxt "color name"
+msgid "light sky blue"
+msgstr "浅天蓝色"
+
+msgctxt "color name"
+msgid "light slate gray"
+msgstr "浅石板灰色"
+
+msgctxt "color name"
+msgid "light steel blue"
+msgstr "浅钢青色"
+
+msgctxt "color name"
+msgid "light yellow"
+msgstr "浅黄色"
+
+msgctxt "color name"
+msgid "lime"
+msgstr "绿黄色"
+
+msgctxt "color name"
+msgid "lime green"
+msgstr "绿黄色"
+
+msgctxt "color name"
+msgid "linen"
+msgstr "亚麻色"
+
+msgctxt "color name"
+msgid "magenta"
+msgstr "品红色的"
+
+msgctxt "color name"
+msgid "maroon"
+msgstr "栗色"
+
+msgctxt "color name"
+msgid "medium aquamarine"
+msgstr "中海蓝宝石色"
+
+msgctxt "color name"
+msgid "medium blue"
+msgstr "中蓝色"
+
+msgctxt "color name"
+msgid "medium orchid"
+msgstr "中紫色"
+
+msgctxt "color name"
+msgid "medium purple"
+msgstr "中紫色"
+
+msgctxt "color name"
+msgid "medium sea green"
+msgstr "中海绿色"
+
+msgctxt "color name"
+msgid "medium slate blue"
+msgstr "中石板蓝色"
+
+msgctxt "color name"
+msgid "medium spring green"
+msgstr "中嫩绿色"
+
+msgctxt "color name"
+msgid "medium turquoise"
+msgstr "中绿色"
+
+msgctxt "color name"
+msgid "medium violet red"
+msgstr "中紫红色"
+
+msgctxt "color name"
+msgid "midnight blue"
+msgstr "暗蓝色"
+
+msgctxt "color name"
+msgid "mint cream"
+msgstr "薄荷乳白色"
+
+msgctxt "color name"
+msgid "misty rose"
+msgstr "粉玫瑰红色"
+
+msgctxt "color name"
+msgid "moccasin"
+msgstr "鹿皮色"
+
+msgctxt "color name"
+msgid "navajo white"
+msgstr "纳瓦白色"
+
+msgctxt "color name"
+msgid "navy"
+msgstr "海军色"
+
+msgctxt "color name"
+msgid "old lace"
+msgstr "旧布黄色"
+
+msgctxt "color name"
+msgid "olive"
+msgstr "橄榄绿色"
+
+msgctxt "color name"
+msgid "olive drab"
+msgstr "草绿色"
+
+msgctxt "color name"
+msgid "orange"
+msgstr "橙色"
+
+msgctxt "color name"
+msgid "orange red"
+msgstr "橙红色"
+
+msgctxt "color name"
+msgid "orchid"
+msgstr "淡紫色"
+
+msgctxt "color name"
+msgid "pale goldenrod"
+msgstr "苍金黄色"
+
+msgctxt "color name"
+msgid "pale green"
+msgstr "苍绿色"
+
+msgctxt "color name"
+msgid "pale turquoise"
+msgstr "苍绿色"
+
+msgctxt "color name"
+msgid "pale violet red"
+msgstr "苍紫罗兰红色"
+
+msgctxt "color name"
+msgid "papaya whip"
+msgstr "番木色"
+
+msgctxt "color name"
+msgid "peach puff"
+msgstr "粉桃红色"
+
+msgctxt "color name"
+msgid "peru"
+msgstr "秘鲁色"
+
+msgctxt "color name"
+msgid "pink"
+msgstr "粉色"
+
+msgctxt "color name"
+msgid "plum"
+msgstr "紫红色"
+
+msgctxt "color name"
+msgid "powder blue"
+msgstr "浅灰蓝色"
+
+msgctxt "color name"
+msgid "purple"
+msgstr "紫色"
+
+msgctxt "color name"
+msgid "red"
+msgstr "红色"
+
+msgctxt "color name"
+msgid "rosy brown"
+msgstr "蔷薇褐色"
+
+msgctxt "color name"
+msgid "royal blue"
+msgstr "皇家蓝色"
+
+msgctxt "color name"
+msgid "saddle brown"
+msgstr "重褐色"
+
+msgctxt "color name"
+msgid "salmon"
+msgstr "鲑肉色"
+
+msgctxt "color name"
+msgid "sandy brown"
+msgstr "沙棕色"
+
+msgctxt "color name"
+msgid "sea green"
+msgstr "海绿色"
+
+msgctxt "color name"
+msgid "seashell"
+msgstr "海贝色"
+
+msgctxt "color name"
+msgid "sienna"
+msgstr "赭色"
+
+msgctxt "color name"
+msgid "silver"
+msgstr "银色"
+
+msgctxt "color name"
+msgid "sky blue"
+msgstr "天蓝色"
+
+msgctxt "color name"
+msgid "slate blue"
+msgstr "石板蓝色"
+
+msgctxt "color name"
+msgid "slate gray"
+msgstr "石板灰色"
+
+msgctxt "color name"
+msgid "snow"
+msgstr "雪白色"
+
+msgctxt "color name"
+msgid "spring green"
+msgstr "嫩绿色"
+
+msgctxt "color name"
+msgid "steel blue"
+msgstr "钢青色"
+
+msgctxt "color name"
+msgid "tan"
+msgstr "黄褐色"
+
+msgctxt "color name"
+msgid "teal"
+msgstr "青绿色"
+
+msgctxt "color name"
+msgid "thistle"
+msgstr "蓟色"
+
+msgctxt "color name"
+msgid "tomato"
+msgstr "番茄色"
+
+msgctxt "color name"
+msgid "turquoise"
+msgstr "蓝绿色"
+
+msgctxt "color name"
+msgid "violet"
+msgstr "紫罗兰色"
+
+msgctxt "color name"
+msgid "wheat"
+msgstr "小麦色"
+
+msgctxt "color name"
+msgid "white"
+msgstr "白色"
+
+msgctxt "color name"
+msgid "white smoke"
+msgstr "白雾色"
+
+msgctxt "color name"
+msgid "yellow"
+msgstr "黄色"
+
+msgctxt "color name"
+msgid "yellow green"
+msgstr "黄绿色"
+
+msgid "column %(index)d of %(total)d"
+msgstr "%(total)d 列中的第 %(index)d 列"
+
+msgid "column %d"
+msgstr "列 %d"
+
+msgid "comma"
+msgstr "逗号"
+
+msgctxt "command"
+msgid "redo"
+msgstr "重做"
+
+msgctxt "command"
+msgid "undo"
+msgstr "撤销"
+
+msgid "copyright"
+msgstr "版权符号"
+
+msgid "cptn"
+msgstr "cptn"
+
+msgid "cube root of"
+msgstr "三次根号"
+
+msgid "currency sign"
+msgstr "货币符号"
+
+msgid "dagger"
+msgstr "剑号"
+
+msgid "dash"
+msgstr "破折号"
+
+msgid "dat"
+msgstr "dat"
+
+msgid "degrees"
+msgstr "度"
+
+msgid "delete"
+msgstr "删除"
+
+msgid "diaeresis"
+msgstr "间断"
+
+msgid "different site"
+msgstr "不同地址"
+
+msgid "dip"
+msgstr "dip"
+
+msgid "divided by"
+msgstr "除号"
+
+msgid "dlg"
+msgstr "dlg"
+
+msgid "document selected from cursor position"
+msgstr "由光标位置开始选择文件"
+
+msgid "document selected to cursor position"
+msgstr "选取文档至光标位置"
+
+msgid "document unselected from cursor position"
+msgstr "由光标位置开始取消选择文档"
+
+msgid "document unselected to cursor position"
+msgstr "取消选取文档至光标位置"
+
+msgid "dollar"
+msgstr "美元符号"
+
+msgid "dot"
+msgstr "点"
+
+msgid "double click"
+msgstr "双击"
+
+msgid "double dagger"
+msgstr "双剑号"
+
+msgid "double low quote"
+msgstr "双下引号"
+
+msgid "double prime"
+msgstr "双撇号"
+
+msgid "down"
+msgstr "下"
+
+msgid "draw"
+msgstr "draw"
+
+msgid "e acute"
+msgstr "e acute"
+
+msgid "e circumflex"
+msgstr "e circumflex"
+
+msgid "e grave"
+msgstr "e grave"
+
+msgid "e umlaut"
+msgstr "e umlaut"
+
+msgid "editable combo box"
+msgstr "可编辑的组合框"
+
+msgid "editable content"
+msgstr "可编辑的内容"
+
+msgid "edtbr"
+msgstr "edtbr"
+
+msgid "emb"
+msgstr "emb"
+
+msgid "empty"
+msgstr "空"
+
+msgid "en dash"
+msgstr "半角破折号"
+
+msgid "end"
+msgstr "End"
+
+msgid "enter"
+msgstr "回车键"
+
+msgid "enter new key"
+msgstr "输入新的按键"
+
+msgid "entire document selected"
+msgstr "已选取整个文件"
+
+msgid "equals"
+msgstr "等号"
+
+msgctxt "error"
+msgid "grammar"
+msgstr "语法"
+
+msgctxt "error"
+msgid "invalid"
+msgstr "无效"
+
+msgctxt "error"
+msgid "invalid entry"
+msgstr "无效条目"
+
+msgctxt "error"
+msgid "invalid grammar"
+msgstr "无效语法"
+
+msgctxt "error"
+msgid "invalid spelling"
+msgstr "无效拼写"
+
+msgctxt "error"
+msgid "spelling"
+msgstr "拼写"
+
+msgid "escape"
+msgstr "Esc"
+
+msgid "eth"
+msgstr "eth"
+
+msgid "euro"
+msgstr "欧元号"
+
+msgid "exclaim"
+msgstr "感叹号"
+
+msgid "expanded"
+msgstr "已展开"
+
+msgid "faster."
+msgstr "加快语速。"
+
+msgid "fchsr"
+msgstr "fchsr"
+
+msgid "florin"
+msgstr "florin"
+
+msgid "flr"
+msgstr "flr"
+
+msgid "fnt"
+msgstr "fnt"
+
+msgid "fraction end"
+msgstr "分数结束"
+
+msgid "fraction start"
+msgstr "分数开始"
+
+msgid "fraction without bar, start"
+msgstr "没有分数线的分数，开始"
+
+msgid "frm"
+msgstr "frm"
+
+msgid "ftr"
+msgstr "ftr"
+
+msgctxt "generic name"
+msgid "application"
+msgstr "应用程序"
+
+msgid "gpn"
+msgstr "gpn"
+
+msgid "grave"
+msgstr "抑音符"
+
+msgid "grayed"
+msgstr "变灰"
+
+msgid "greater"
+msgstr "大于号"
+
+msgid "h%d"
+msgstr "h%d"
+
+msgid "has formula"
+msgstr "有公式"
+
+msgid "has long description"
+msgstr "有长描述"
+
+msgid "hdng"
+msgstr "hdng"
+
+msgid "hdr"
+msgstr "hdr"
+
+msgid "heavy check mark"
+msgstr "粗体对号"
+
+msgid "help"
+msgstr "帮助"
+
+msgid "higher."
+msgstr "提高音调。"
+
+msgid "home"
+msgstr "Home"
+
+msgid "horizontal"
+msgstr "水平"
+
+msgid "horizontal scroll bar"
+msgstr "水平滚动条"
+
+msgid "horizontal slider"
+msgstr "水平滑块"
+
+msgid "horizontal splitter"
+msgstr "水平分割线"
+
+msgid "html"
+msgstr "html"
+
+msgid "hyphen bullet"
+msgstr "连字符"
+
+msgid "i acute"
+msgstr "i acute"
+
+msgid "i circumflex"
+msgstr "i circumflex"
+
+msgid "i grave"
+msgstr "i grave"
+
+msgid "i umlaut"
+msgstr "i umlaut"
+
+msgid "icn"
+msgstr "icn"
+
+msgid "ifrm"
+msgstr "ifrm"
+
+msgid "image map link"
+msgstr "图像地图链接"
+
+msgid "img"
+msgstr "img"
+
+msgid "inaccessible"
+msgstr "不能存取"
+
+msgctxt "indentation and justification"
+msgid "Disabled"
+msgstr "已禁用"
+
+msgctxt "indentation and justification"
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "insert"
+msgstr "插入"
+
+msgid "inverted exclamation point"
+msgstr "倒感叹号"
+
+msgid "inverted question mark"
+msgstr "倒问号"
+
+msgctxt "key echo"
+msgid "None"
+msgstr "无"
+
+msgctxt "key echo"
+msgid "key"
+msgstr "字母"
+
+msgctxt "key echo"
+msgid "key and word"
+msgstr "字母和单词"
+
+msgctxt "key echo"
+msgid "sentence"
+msgstr "句子"
+
+msgctxt "key echo"
+msgid "word"
+msgstr "单词"
+
+msgctxt "key echo"
+msgid "word and sentence"
+msgstr "单词和句子"
+
+msgctxt "keybindings"
+msgid "Default"
+msgstr "默认"
+
+msgctxt "keybindings"
+msgid "Modified"
+msgstr "已修改"
+
+msgctxt "keyboard"
+msgid "Alt"
+msgstr "Alt"
+
+msgctxt "keyboard"
+msgid "Control"
+msgstr "Control"
+
+msgctxt "keyboard"
+msgid "Shift"
+msgstr "Shift"
+
+msgid "lbl"
+msgstr "lbl"
+
+msgid "leaving blockquote."
+msgstr "正在离开引用段。"
+
+msgid "leaving form."
+msgstr "正在离开表单。"
+
+msgid "leaving list."
+msgstr "正在离开列表。"
+
+msgid "leaving panel."
+msgstr "正在离开面板。"
+
+msgid "leaving table."
+msgstr "正在离开表格。"
+
+msgid "left"
+msgstr "左"
+
+msgid "left alt"
+msgstr "左 Alt 键"
+
+msgid "left brace"
+msgstr "左花括号"
+
+msgid "left bracket"
+msgstr "左方括号"
+
+msgid "left control"
+msgstr "左 Control 键"
+
+msgid "left double angle bracket"
+msgstr "左书名号"
+
+msgid "left double quote"
+msgstr "左双引号"
+
+msgid "left meta"
+msgstr "左 meta 键"
+
+msgid "left paren"
+msgstr "左圆括号"
+
+msgid "left shift"
+msgstr "左 Shift"
+
+msgid "left single quote"
+msgstr "左单引号"
+
+msgid "left super"
+msgstr "左 super"
+
+msgid "left tab"
+msgstr "左 Tab 键"
+
+msgid "less"
+msgstr "小于号"
+
+msgid "line selected down from cursor position"
+msgstr "由光标位置开始向下选取行"
+
+msgid "line selected from start to previous cursor position"
+msgstr "从行首选择到当前光标"
+
+msgid "line selected to end from previous cursor position"
+msgstr "从当前光标开始选择到行尾"
+
+msgid "line selected up from cursor position"
+msgstr "由光标位置开始向上选取行"
+
+msgid "line unselected down from cursor position"
+msgstr "由光标位置开始向下取消选取行"
+
+msgid "line unselected up from cursor position"
+msgstr "由光标位置开始向上取消选取行"
+
+msgid "link"
+msgstr "链接"
+
+msgctxt "link state"
+msgid "unvisited"
+msgstr "未访问"
+
+msgctxt "link state"
+msgid "visited"
+msgstr "已访问过"
+
+msgid "live regions politeness levels restored"
+msgstr "居住地区礼貌水平被恢复"
+
+msgid "lnk"
+msgstr "lnk"
+
+msgctxt "location"
+msgid "Not found"
+msgstr "未找到"
+
+msgctxt "locking key state"
+msgid "off"
+msgstr "关"
+
+msgctxt "locking key state"
+msgid "on"
+msgstr "开"
+
+msgid "logical not"
+msgstr "逻辑非符号"
+
+msgid "louder."
+msgstr "声音大一点。"
+
+msgid "lower."
+msgstr "降低音调。"
+
+msgid "lst"
+msgstr "lst"
+
+msgid "lstitm"
+msgstr "lstitm"
+
+msgid "lyrdpn"
+msgstr "lyrdpn"
+
+msgid "macron"
+msgstr "长音符号"
+
+msgctxt "math enclosure"
+msgid "Enclosed by: %s"
+msgstr "外部符号：%s"
+
+msgctxt "math enclosure"
+msgid "a box"
+msgstr "方括号"
+
+msgctxt "math enclosure"
+msgid "a circle"
+msgstr "圆括号"
+
+msgctxt "math enclosure"
+msgid "a down diagonal strike"
+msgstr "向下对角线"
+
+msgctxt "math enclosure"
+msgid "a horizontal strike"
+msgstr "水平线"
+
+msgctxt "math enclosure"
+msgid "a line at the bottom"
+msgstr "底部线"
+
+msgctxt "math enclosure"
+msgid "a line at the top"
+msgstr "顶部线"
+
+msgctxt "math enclosure"
+msgid "a line on the left"
+msgstr "左侧线"
+
+msgctxt "math enclosure"
+msgid "a line on the right"
+msgstr "右侧线"
+
+msgctxt "math enclosure"
+msgid "a long division sign"
+msgstr "长除号"
+
+msgctxt "math enclosure"
+msgid "a northeast arrow"
+msgstr "右上箭头"
+
+msgctxt "math enclosure"
+msgid "a phasor angle"
+msgstr "相量角度"
+
+msgctxt "math enclosure"
+msgid "a radical"
+msgstr "星号"
+
+msgctxt "math enclosure"
+msgid "a rounded box"
+msgstr "圆中括号"
+
+msgctxt "math enclosure"
+msgid "a vertical strike"
+msgstr "竖线"
+
+msgctxt "math enclosure"
+msgid "an actuarial symbol"
+msgstr "精算符号"
+
+msgctxt "math enclosure"
+msgid "an arabic factorial symbol"
+msgstr "阿拉伯阶乘符号"
+
+msgctxt "math enclosure"
+msgid "an up diagonal strike"
+msgstr "向上对角线"
+
+msgctxt "math enclosure"
+msgid "and"
+msgstr "和"
+
+msgctxt "math fraction"
+msgid "over"
+msgstr "结束"
+
+msgctxt "math script"
+msgid "pre-subscript"
+msgstr "前下标"
+
+msgctxt "math script"
+msgid "pre-superscript"
+msgstr "前上标"
+
+msgctxt "math script generic"
+msgid "overscript"
+msgstr "中上标"
+
+msgctxt "math script generic"
+msgid "subscript"
+msgstr "下标"
+
+msgctxt "math script generic"
+msgid "superscript"
+msgstr "上标"
+
+msgctxt "math script generic"
+msgid "underscript"
+msgstr "中下标"
+
+msgctxt "math symbol"
+msgid "%s with slash"
+msgstr "%s 带斜线"
+
+msgctxt "math symbol"
+msgid "%s with underline"
+msgstr "%s 带下划线"
+
+msgctxt "math symbol"
+msgid "%s with vertical line"
+msgstr "%s 带竖线"
+
+msgctxt "math symbol"
+msgid "all equal to"
+msgstr "完全等于"
+
+msgctxt "math symbol"
+msgid "almost equal or equal to"
+msgstr "几乎等于或等于"
+
+msgctxt "math symbol"
+msgid "almost equal to"
+msgstr "几乎等于"
+
+msgctxt "math symbol"
+msgid "angle"
+msgstr "角"
+
+msgctxt "math symbol"
+msgid "anticlockwise contour integral"
+msgstr "逆时针方向围线积分"
+
+msgctxt "math symbol"
+msgid "approaches the limit"
+msgstr "接近极限"
+
+msgctxt "math symbol"
+msgid "approximately but not actually equal to"
+msgstr "近似但实际上不等于"
+
+msgctxt "math symbol"
+msgid "approximately equal to"
+msgstr "约等于"
+
+msgctxt "math symbol"
+msgid "approximately equal to or the image of"
+msgstr "约等于或象形符"
+
+msgctxt "math symbol"
+msgid "assertion"
+msgstr "断言"
+
+msgctxt "math symbol"
+msgid "asterisk operator"
+msgstr "星号运算符"
+
+msgctxt "math symbol"
+msgid "asymptotically equal to"
+msgstr "渐近等于"
+
+msgctxt "math symbol"
+msgid "because"
+msgstr "因为"
+
+msgctxt "math symbol"
+msgid "between"
+msgstr "在之间"
+
+msgctxt "math symbol"
+msgid "black circle"
+msgstr "实心圆形"
+
+msgctxt "math symbol"
+msgid "black diamond"
+msgstr "实心菱形"
+
+msgctxt "math symbol"
+msgid "black medium small square"
+msgstr "实心方框"
+
+msgctxt "math symbol"
+msgid "black square"
+msgstr "实心方框"
+
+msgctxt "math symbol"
+msgid "bold %s"
+msgstr "粗体 %s"
+
+msgctxt "math symbol"
+msgid "bold fraktur %s"
+msgstr "粗花体 %s"
+
+msgctxt "math symbol"
+msgid "bold italic %s"
+msgstr "粗斜体 %s"
+
+msgctxt "math symbol"
+msgid "bold script %s"
+msgstr "粗手写 %s"
+
+msgctxt "math symbol"
+msgid "bottom brace"
+msgstr "下花括号"
+
+msgctxt "math symbol"
+msgid "bowtie"
+msgstr "蝴蝶结"
+
+msgctxt "math symbol"
+msgid "breve"
+msgstr "短空白符"
+
+msgctxt "math symbol"
+msgid "bullet operator"
+msgstr "间隔号"
+
+msgctxt "math symbol"
+msgid "circled asterisk operator"
+msgstr "带圆圈的星号运算符"
+
+msgctxt "math symbol"
+msgid "circled dash"
+msgstr "圆圈破折号"
+
+msgctxt "math symbol"
+msgid "circled division slash"
+msgstr "带圈除法斜线"
+
+msgctxt "math symbol"
+msgid "circled dot"
+msgstr "圆圈和点"
+
+msgctxt "math symbol"
+msgid "circled dot operator"
+msgstr "圆圈点运算符"
+
+msgctxt "math symbol"
+msgid "circled equals"
+msgstr "圆圈等号"
+
+msgctxt "math symbol"
+msgid "circled minus"
+msgstr "带圈减号"
+
+msgctxt "math symbol"
+msgid "circled plus"
+msgstr "带圈加号"
+
+msgctxt "math symbol"
+msgid "circled ring operator"
+msgstr "圆圈圆环运算符"
+
+msgctxt "math symbol"
+msgid "circled times"
+msgstr "带圈乘号"
+
+msgctxt "math symbol"
+msgid "circumflex"
+msgstr "扬抑符"
+
+msgctxt "math symbol"
+msgid "clockwise contour integral"
+msgstr "顺时针方向围线积分"
+
+msgctxt "math symbol"
+msgid "clockwise integral"
+msgstr "顺时针积分"
+
+msgctxt "math symbol"
+msgid "colon equals"
+msgstr "冒号等号"
+
+msgctxt "math symbol"
+msgid "complement"
+msgstr "补集"
+
+msgctxt "math symbol"
+msgid "contains as a member"
+msgstr "作为成员包含"
+
+msgctxt "math symbol"
+msgid "contains as normal subgroup"
+msgstr "包含为正规子群"
+
+msgctxt "math symbol"
+msgid "contains as normal subgroup of or equal to"
+msgstr "属于正规子群或等于"
+
+msgctxt "math symbol"
+msgid "contains with long horizontal stroke"
+msgstr "包含有长水平划"
+
+msgctxt "math symbol"
+msgid "contains with overbar"
+msgstr "包含有顶线"
+
+msgctxt "math symbol"
+msgid "contains with vertical bar at end of horizontal stroke"
+msgstr "在水平划末尾包含有竖条"
+
+msgctxt "math symbol"
+msgid "contour integral"
+msgstr "围道积分"
+
+msgctxt "math symbol"
+msgid "coproduct"
+msgstr "余积"
+
+msgctxt "math symbol"
+msgid "corresponds to"
+msgstr "对应于"
+
+msgctxt "math symbol"
+msgid "cube root"
+msgstr "立方根号"
+
+msgctxt "math symbol"
+msgid "curly logical and"
+msgstr "弯逻辑与"
+
+msgctxt "math symbol"
+msgid "curly logical or"
+msgstr "弯逻辑或"
+
+msgctxt "math symbol"
+msgid "delta equal to"
+msgstr "三角等于"
+
+msgctxt "math symbol"
+msgid "diamond operator"
+msgstr "菱形运算符"
+
+msgctxt "math symbol"
+msgid "difference between"
+msgstr "不同之处"
+
+msgctxt "math symbol"
+msgid "divides"
+msgstr "整除"
+
+msgctxt "math symbol"
+msgid "division slash"
+msgstr "除法斜线"
+
+msgctxt "math symbol"
+msgid "division times"
+msgstr "乘除号"
+
+msgctxt "math symbol"
+msgid "does not contain as a member"
+msgstr "不作为成员包含"
+
+msgctxt "math symbol"
+msgid "does not contain as normal subgroup"
+msgstr "不以子群包含"
+
+msgctxt "math symbol"
+msgid "does not contain as normal subgroup or equal"
+msgstr "不以正常子群包含或等于"
+
+msgctxt "math symbol"
+msgid "does not divide"
+msgstr "不整除"
+
+msgctxt "math symbol"
+msgid "does not force"
+msgstr "不强制"
+
+msgctxt "math symbol"
+msgid "does not precede"
+msgstr "不先于"
+
+msgctxt "math symbol"
+msgid "does not precede or equal"
+msgstr "不先于或等于"
+
+msgctxt "math symbol"
+msgid "does not prove"
+msgstr "并不能证明"
+
+msgctxt "math symbol"
+msgid "does not succeed"
+msgstr "不后于"
+
+msgctxt "math symbol"
+msgid "does not succeed or equal"
+msgstr "不后于或等于"
+
+msgctxt "math symbol"
+msgid "dot"
+msgstr "点"
+
+msgctxt "math symbol"
+msgid "dot minus"
+msgstr "点负号"
+
+msgctxt "math symbol"
+msgid "dot operator"
+msgstr "点运算符"
+
+msgctxt "math symbol"
+msgid "dot plus"
+msgstr "点加号"
+
+msgctxt "math symbol"
+msgid "dotless %s"
+msgstr "没有点的 %s"
+
+msgctxt "math symbol"
+msgid "double integral"
+msgstr "二重积分"
+
+msgctxt "math symbol"
+msgid "double intersection"
+msgstr "双交会"
+
+msgctxt "math symbol"
+msgid "double subset"
+msgstr "双子集"
+
+msgctxt "math symbol"
+msgid "double superset"
+msgstr "双超集"
+
+msgctxt "math symbol"
+msgid "double union"
+msgstr "双联合"
+
+msgctxt "math symbol"
+msgid "double vertical bar double right turnstile"
+msgstr "双竖条双右转门"
+
+msgctxt "math symbol"
+msgid "double vertical line"
+msgstr "双竖线"
+
+msgctxt "math symbol"
+msgid "double-struck %s"
+msgstr "双线 %s"
+
+msgctxt "math symbol"
+msgid "down arrow"
+msgstr "下箭头"
+
+msgctxt "math symbol"
+msgid "down arrow from bar"
+msgstr "自短线下箭头"
+
+msgctxt "math symbol"
+msgid "down double arrow"
+msgstr "下双箭头"
+
+msgctxt "math symbol"
+msgid "down right diagonal ellipsis"
+msgstr "左上右下对角线省略号"
+
+msgctxt "math symbol"
+msgid "down tack"
+msgstr "下钉符"
+
+msgctxt "math symbol"
+msgid "element of"
+msgstr "属于"
+
+msgctxt "math symbol"
+msgid "element of with dot above"
+msgstr "上面带点的元素"
+
+msgctxt "math symbol"
+msgid "element of with long horizontal stroke"
+msgstr "有长水平划的元素"
+
+msgctxt "math symbol"
+msgid "element of with overbar"
+msgstr "有顶线的元素"
+
+msgctxt "math symbol"
+msgid "element of with two horizontal strokes"
+msgstr "有两个水平划的元素"
+
+msgctxt "math symbol"
+msgid "element of with underbar"
+msgstr "有底线的元素"
+
+msgctxt "math symbol"
+msgid "element of with vertical bar at end of horizontal stroke"
+msgstr "在水平划末尾有竖条的元素"
+
+msgctxt "math symbol"
+msgid "empty set"
+msgstr "空集"
+
+msgctxt "math symbol"
+msgid "end of proof"
+msgstr "证毕"
+
+msgctxt "math symbol"
+msgid "equal and parallel to"
+msgstr "等于和平行于"
+
+msgctxt "math symbol"
+msgid "equal to by definition"
+msgstr "按定义等于"
+
+msgctxt "math symbol"
+msgid "equal to or greater than"
+msgstr "等于或大于"
+
+msgctxt "math symbol"
+msgid "equal to or less than"
+msgstr "等于或小于"
+
+msgctxt "math symbol"
+msgid "equal to or precedes"
+msgstr "等于或先于"
+
+msgctxt "math symbol"
+msgid "equal to or succeeds"
+msgstr "等于或后于"
+
+msgctxt "math symbol"
+msgid "equals colon"
+msgstr "等号冒号"
+
+msgctxt "math symbol"
+msgid "equiangular to"
+msgstr "等角于"
+
+msgctxt "math symbol"
+msgid "equivalent to"
+msgstr "相当于"
+
+msgctxt "math symbol"
+msgid "estimates"
+msgstr "估计"
+
+msgctxt "math symbol"
+msgid "excess"
+msgstr "超越符号"
+
+msgctxt "math symbol"
+msgid "for all"
+msgstr "对于全部"
+
+msgctxt "math symbol"
+msgid "forces"
+msgstr "强制"
+
+msgctxt "math symbol"
+msgid "fourth root"
+msgstr "四次根号"
+
+msgctxt "math symbol"
+msgid "fraktur %s"
+msgstr "花体 %s"
+
+msgctxt "math symbol"
+msgid "geometric proportion"
+msgstr "等比符号"
+
+msgctxt "math symbol"
+msgid "geometrically equal to"
+msgstr "几何等于"
+
+msgctxt "math symbol"
+msgid "geometrically equivalent to"
+msgstr "几何相当于"
+
+msgctxt "math symbol"
+msgid "greater than"
+msgstr "大于号"
+
+msgctxt "math symbol"
+msgid "greater than but not equal to"
+msgstr "大于但不等于"
+
+msgctxt "math symbol"
+msgid "greater than but not equivalent to"
+msgstr "大于而不等同于"
+
+msgctxt "math symbol"
+msgid "greater than equal to or less than"
+msgstr "大于等于或小于"
+
+msgctxt "math symbol"
+msgid "greater than or equal to"
+msgstr "大于等于"
+
+msgctxt "math symbol"
+msgid "greater than or equivalent to"
+msgstr "大于或等同于"
+
+msgctxt "math symbol"
+msgid "greater than or less than"
+msgstr "大于或小于"
+
+msgctxt "math symbol"
+msgid "greater than over equal to"
+msgstr "大于等于"
+
+msgctxt "math symbol"
+msgid "greater than with dot"
+msgstr "有点的大于等于"
+
+msgctxt "math symbol"
+msgid "hermitian conjugate matrix"
+msgstr "厄密共轭矩阵"
+
+msgctxt "math symbol"
+msgid "homothetic"
+msgstr "同位符"
+
+msgctxt "math symbol"
+msgid "horizontal ellipsis"
+msgstr "水平省略号"
+
+msgctxt "math symbol"
+msgid "háček"
+msgstr "修改符"
+
+msgctxt "math symbol"
+msgid "identical to"
+msgstr "恒等于"
+
+msgctxt "math symbol"
+msgid "image of"
+msgstr "像"
+
+msgctxt "math symbol"
+msgid "image of or approximately equal to"
+msgstr "象形或约等于"
+
+msgctxt "math symbol"
+msgid "increment"
+msgstr "增量"
+
+msgctxt "math symbol"
+msgid "infinity"
+msgstr "无穷"
+
+msgctxt "math symbol"
+msgid "integral"
+msgstr "积分"
+
+msgctxt "math symbol"
+msgid "intercalate"
+msgstr "插入"
+
+msgctxt "math symbol"
+msgid "intersection"
+msgstr "交"
+
+msgctxt "math symbol"
+msgid "inverted lazy S"
+msgstr "反向懒 S 符"
+
+msgctxt "math symbol"
+msgid "italic %s"
+msgstr "斜体 %s"
+
+msgctxt "math symbol"
+msgid "left angle bracket"
+msgstr "数学左尖括号"
+
+msgctxt "math symbol"
+msgid "left arrow"
+msgstr "左箭头"
+
+msgctxt "math symbol"
+msgid "left arrow from bar"
+msgstr "自短线左箭头"
+
+msgctxt "math symbol"
+msgid "left ceiling"
+msgstr "左顶棚"
+
+msgctxt "math symbol"
+msgid "left double arrow"
+msgstr "左双箭头"
+
+msgctxt "math symbol"
+msgid "left floor"
+msgstr "左地板"
+
+msgctxt "math symbol"
+msgid "left normal factor semidirect product"
+msgstr "左正规因子半直积"
+
+msgctxt "math symbol"
+msgid "left right arrow"
+msgstr "左右箭头"
+
+msgctxt "math symbol"
+msgid "left right double arrow"
+msgstr "左右双箭头"
+
+msgctxt "math symbol"
+msgid "left semidirect product"
+msgstr "左半直积"
+
+msgctxt "math symbol"
+msgid "left tack"
+msgstr "左钉符"
+
+msgctxt "math symbol"
+msgid "less than"
+msgstr "小于号"
+
+msgctxt "math symbol"
+msgid "less than but not equal to"
+msgstr "小于但不等于"
+
+msgctxt "math symbol"
+msgid "less than but not equivalent to"
+msgstr "小于而不等同于"
+
+msgctxt "math symbol"
+msgid "less than equal to or greater than"
+msgstr "小于等于或大于"
+
+msgctxt "math symbol"
+msgid "less than or equal to"
+msgstr "小于等于"
+
+msgctxt "math symbol"
+msgid "less than or equivalent to"
+msgstr "小于或等同于"
+
+msgctxt "math symbol"
+msgid "less than or greater than"
+msgstr "小于或大于"
+
+msgctxt "math symbol"
+msgid "less than over equal to"
+msgstr "小于等于"
+
+msgctxt "math symbol"
+msgid "less than with dot"
+msgstr "有点的小于等于"
+
+msgctxt "math symbol"
+msgid "logical and"
+msgstr "逻辑与"
+
+msgctxt "math symbol"
+msgid "logical or"
+msgstr "逻辑或"
+
+msgctxt "math symbol"
+msgid "measured angle"
+msgstr "测量得角度"
+
+msgctxt "math symbol"
+msgid "measured by"
+msgstr "测量于"
+
+msgctxt "math symbol"
+msgid "midline horizontal ellipsis"
+msgstr "中置水平省略号"
+
+msgctxt "math symbol"
+msgid "minus"
+msgstr "减号"
+
+msgctxt "math symbol"
+msgid "minus or plus"
+msgstr "加减"
+
+msgctxt "math symbol"
+msgid "minus tilde"
+msgstr "负波浪线"
+
+msgctxt "math symbol"
+msgid "models"
+msgstr "模"
+
+msgctxt "math symbol"
+msgid "monospace %s"
+msgstr "等宽 %s"
+
+msgctxt "math symbol"
+msgid "much greater than"
+msgstr "远大于"
+
+msgctxt "math symbol"
+msgid "much less than"
+msgstr "远小于"
+
+msgctxt "math symbol"
+msgid "multimap"
+msgstr "多重映射"
+
+msgctxt "math symbol"
+msgid "multiset"
+msgstr "多集"
+
+msgctxt "math symbol"
+msgid "multiset multiplication"
+msgstr "多集乘法"
+
+msgctxt "math symbol"
+msgid "multiset union"
+msgstr "多集联合"
+
+msgctxt "math symbol"
+msgid "nabla"
+msgstr "倒三角形"
+
+msgctxt "math symbol"
+msgid "nand"
+msgstr "与非"
+
+msgctxt "math symbol"
+msgid "negated double vertical bar double right turnstile"
+msgstr "非双竖条双右转门"
+
+msgctxt "math symbol"
+msgid "neither a subset of nor equal to"
+msgstr "既不是子集也不等于"
+
+msgctxt "math symbol"
+msgid "neither a superset of nor equal to"
+msgstr "既不是超集也不等于"
+
+msgctxt "math symbol"
+msgid "neither approximately nor actually equal to"
+msgstr "既不近似又不等于"
+
+msgctxt "math symbol"
+msgid "neither greater than nor equal to"
+msgstr "不大于也不等于"
+
+msgctxt "math symbol"
+msgid "neither greater than nor equivalent to"
+msgstr "不大于也不等同于"
+
+msgctxt "math symbol"
+msgid "neither greater than nor less than"
+msgstr "不大于也不小于"
+
+msgctxt "math symbol"
+msgid "neither less than nor equal to"
+msgstr "不小于也不等于"
+
+msgctxt "math symbol"
+msgid "neither less than nor equivalent to"
+msgstr "不小于也不等同于"
+
+msgctxt "math symbol"
+msgid "neither less than nor greater than"
+msgstr "不小于也不大于"
+
+msgctxt "math symbol"
+msgid "nor"
+msgstr "或非"
+
+msgctxt "math symbol"
+msgid "normal subgroup of"
+msgstr "为……的正规子群"
+
+msgctxt "math symbol"
+msgid "normal subgroup of or equal to"
+msgstr "正规子群或等于"
+
+msgctxt "math symbol"
+msgid "north east arrow"
+msgstr "东北箭头"
+
+msgctxt "math symbol"
+msgid "north east double arrow"
+msgstr "东北双箭头"
+
+msgctxt "math symbol"
+msgid "north west arrow"
+msgstr "西北箭头"
+
+msgctxt "math symbol"
+msgid "north west double arrow"
+msgstr "西北双箭头"
+
+msgctxt "math symbol"
+msgid "not a subset of"
+msgstr "不包含于"
+
+msgctxt "math symbol"
+msgid "not a superset of"
+msgstr "不包含"
+
+msgctxt "math symbol"
+msgid "not almost equal to"
+msgstr "不是几乎等于"
+
+msgctxt "math symbol"
+msgid "not an element of"
+msgstr "不属于"
+
+msgctxt "math symbol"
+msgid "not asymptotically equal to"
+msgstr "不渐近等于"
+
+msgctxt "math symbol"
+msgid "not equal to"
+msgstr "不等于"
+
+msgctxt "math symbol"
+msgid "not equivalent to"
+msgstr "不等同"
+
+msgctxt "math symbol"
+msgid "not greater than"
+msgstr "不大于"
+
+msgctxt "math symbol"
+msgid "not identical to"
+msgstr "不恒等于"
+
+msgctxt "math symbol"
+msgid "not less than"
+msgstr "不小于"
+
+msgctxt "math symbol"
+msgid "not normal subgroup of"
+msgstr "不是……的正常子群"
+
+msgctxt "math symbol"
+msgid "not normal subgroup of or equal to"
+msgstr "不是正常子群或等于"
+
+msgctxt "math symbol"
+msgid "not parallel to"
+msgstr "不平行于"
+
+msgctxt "math symbol"
+msgid "not square image of or equal to"
+msgstr "不方形像或等于"
+
+msgctxt "math symbol"
+msgid "not square original of or equal to"
+msgstr "不方形原或等于"
+
+msgctxt "math symbol"
+msgid "not tilde"
+msgstr "非波浪线"
+
+msgctxt "math symbol"
+msgid "not true"
+msgstr "假"
+
+msgctxt "math symbol"
+msgid "original of"
+msgstr "原"
+
+msgctxt "math symbol"
+msgid "parallel to"
+msgstr "平行于"
+
+msgctxt "math symbol"
+msgid "partial differential"
+msgstr "偏微分"
+
+msgctxt "math symbol"
+msgid "pitchfork"
+msgstr "草耙"
+
+msgctxt "math symbol"
+msgid "precedes"
+msgstr "先于"
+
+msgctxt "math symbol"
+msgid "precedes but not equivalent to"
+msgstr "先于而不等同于"
+
+msgctxt "math symbol"
+msgid "precedes or equal to"
+msgstr "先于或等于"
+
+msgctxt "math symbol"
+msgid "precedes or equivalent to"
+msgstr "先于或等同于"
+
+msgctxt "math symbol"
+msgid "precedes under relation"
+msgstr "先于下关系"
+
+msgctxt "math symbol"
+msgid "product"
+msgstr "连乘积"
+
+msgctxt "math symbol"
+msgid "proportion"
+msgstr "比例"
+
+msgctxt "math symbol"
+msgid "proportional to"
+msgstr "成正比"
+
+msgctxt "math symbol"
+msgid "questioned equal to"
+msgstr "问号等于"
+
+msgctxt "math symbol"
+msgid "ratio"
+msgstr "比"
+
+msgctxt "math symbol"
+msgid "reversed tilde"
+msgstr "反转波浪号"
+
+msgctxt "math symbol"
+msgid "reversed tilde equals"
+msgstr "横翻颚化符等号"
+
+msgctxt "math symbol"
+msgid "right angle"
+msgstr "直角"
+
+msgctxt "math symbol"
+msgid "right angle bracket"
+msgstr "数学右尖括号"
+
+msgctxt "math symbol"
+msgid "right angle with arc"
+msgstr "带有弧的右角"
+
+msgctxt "math symbol"
+msgid "right arrow"
+msgstr "右箭头"
+
+msgctxt "math symbol"
+msgid "right arrow from bar"
+msgstr "自短线右箭头"
+
+msgctxt "math symbol"
+msgid "right ceiling"
+msgstr "右顶棚"
+
+msgctxt "math symbol"
+msgid "right double arrow"
+msgstr "右双箭头"
+
+msgctxt "math symbol"
+msgid "right floor"
+msgstr "右地板"
+
+msgctxt "math symbol"
+msgid "right normal factor semidirect product"
+msgstr "右正规因子半直积"
+
+msgctxt "math symbol"
+msgid "right semidirect product"
+msgstr "右半直积"
+
+msgctxt "math symbol"
+msgid "right tack"
+msgstr "右钉符"
+
+msgctxt "math symbol"
+msgid "right triangle"
+msgstr "右三角"
+
+msgctxt "math symbol"
+msgid "right-pointing arrow"
+msgstr "向右箭头"
+
+msgctxt "math symbol"
+msgid "right-pointing arrowhead"
+msgstr "向右箭头尖"
+
+msgctxt "math symbol"
+msgid "ring equal to"
+msgstr "环等于"
+
+msgctxt "math symbol"
+msgid "ring in equal to"
+msgstr "内环等于"
+
+msgctxt "math symbol"
+msgid "ring operator"
+msgstr "复合函数运算符"
+
+msgctxt "math symbol"
+msgid "sans-serif %s"
+msgstr "无衬线 %s"
+
+msgctxt "math symbol"
+msgid "sans-serif bold %s"
+msgstr "无衬线粗体 %s"
+
+msgctxt "math symbol"
+msgid "sans-serif bold italic %s"
+msgstr "无衬线粗斜体 %s"
+
+msgctxt "math symbol"
+msgid "sans-serif italic %s"
+msgstr "无衬线斜体 %s"
+
+msgctxt "math symbol"
+msgid "script %s"
+msgstr "手写 %s"
+
+msgctxt "math symbol"
+msgid "set minus"
+msgstr "集合减"
+
+msgctxt "math symbol"
+msgid "sine wave"
+msgstr "正弦波"
+
+msgctxt "math symbol"
+msgid "small contains as a member"
+msgstr "小作为成员包含符号"
+
+msgctxt "math symbol"
+msgid "small contains with overbar"
+msgstr "小型包含有顶线"
+
+msgctxt "math symbol"
+msgid "small contains with vertical bar at end of horizontal stroke"
+msgstr "在水平划末尾小型包含有竖条"
+
+msgctxt "math symbol"
+msgid "small element of"
+msgstr "小属于符号"
+
+msgctxt "math symbol"
+msgid "small element of with overbar"
+msgstr "有顶线的小型元素"
+
+msgctxt "math symbol"
+msgid "small element of with vertical bar at end of horizontal stroke"
+msgstr "在水平划末尾有竖条的小型元素"
+
+msgctxt "math symbol"
+msgid "south east arrow"
+msgstr "东南箭头"
+
+msgctxt "math symbol"
+msgid "south east double arrow"
+msgstr "东南双箭头"
+
+msgctxt "math symbol"
+msgid "south west double arrow"
+msgstr "南西双箭头"
+
+msgctxt "math symbol"
+msgid "spherical angle"
+msgstr "球面角"
+
+msgctxt "math symbol"
+msgid "square cap"
+msgstr "方形帽"
+
+msgctxt "math symbol"
+msgid "square cup"
+msgstr "方形杯"
+
+msgctxt "math symbol"
+msgid "square image of"
+msgstr "方形像"
+
+msgctxt "math symbol"
+msgid "square image of or equal to"
+msgstr "方形像或等于"
+
+msgctxt "math symbol"
+msgid "square image of or not equal to"
+msgstr "方形像或不等于"
+
+msgctxt "math symbol"
+msgid "square intersection"
+msgstr "平方交运算符"
+
+msgctxt "math symbol"
+msgid "square original of"
+msgstr "方形原"
+
+msgctxt "math symbol"
+msgid "square original of or equal to"
+msgstr "平方或等于"
+
+msgctxt "math symbol"
+msgid "square original of or not equal to"
+msgstr "方形原或不等于"
+
+msgctxt "math symbol"
+msgid "square root"
+msgstr "平方根号"
+
+msgctxt "math symbol"
+msgid "square union"
+msgstr "平方并运算符"
+
+msgctxt "math symbol"
+msgid "squared dot operator"
+msgstr "方框点号"
+
+msgctxt "math symbol"
+msgid "squared minus"
+msgstr "方框减号"
+
+msgctxt "math symbol"
+msgid "squared plus"
+msgstr "方框加号"
+
+msgctxt "math symbol"
+msgid "squared times"
+msgstr "方框叉号"
+
+msgctxt "math symbol"
+msgid "star equals"
+msgstr "星等号"
+
+msgctxt "math symbol"
+msgid "star operator"
+msgstr "星运算符"
+
+msgctxt "math symbol"
+msgid "strictly equivalent to"
+msgstr "严格等于"
+
+msgctxt "math symbol"
+msgid "subset of"
+msgstr "包含于"
+
+msgctxt "math symbol"
+msgid "subset of or equal to"
+msgstr "包含于或等于"
+
+msgctxt "math symbol"
+msgid "subset of with not equal to"
+msgstr "子集与不等于"
+
+msgctxt "math symbol"
+msgid "succeeds"
+msgstr "后于"
+
+msgctxt "math symbol"
+msgid "succeeds but not equivalent to"
+msgstr "后于而不等同于"
+
+msgctxt "math symbol"
+msgid "succeeds or equal to"
+msgstr "后于或等于"
+
+msgctxt "math symbol"
+msgid "succeeds or equivalent to"
+msgstr "后于或等同于"
+
+msgctxt "math symbol"
+msgid "succeeds under relation"
+msgstr "后于下关系"
+
+msgctxt "math symbol"
+msgid "sum"
+msgstr "总和"
+
+msgctxt "math symbol"
+msgid "superset of"
+msgstr "包含"
+
+msgctxt "math symbol"
+msgid "superset of or equal to"
+msgstr "包含或等于"
+
+msgctxt "math symbol"
+msgid "superset of with not equal to"
+msgstr "超集与不等于"
+
+msgctxt "math symbol"
+msgid "surface integral"
+msgstr "曲面积分"
+
+msgctxt "math symbol"
+msgid "there does not exist"
+msgstr "不存在"
+
+msgctxt "math symbol"
+msgid "there exists"
+msgstr "存在"
+
+msgctxt "math symbol"
+msgid "therefore"
+msgstr "因此"
+
+msgctxt "math symbol"
+msgid "tilde"
+msgstr "波浪号"
+
+msgctxt "math symbol"
+msgid "top brace"
+msgstr "上花括号"
+
+msgctxt "math symbol"
+msgid "triple integral"
+msgstr "三重积分"
+
+msgctxt "math symbol"
+msgid "triple tilde"
+msgstr "三层波浪线"
+
+msgctxt "math symbol"
+msgid "triple vertical bar right turnstile"
+msgstr "三竖条右转门"
+
+msgctxt "math symbol"
+msgid "true"
+msgstr "真"
+
+msgctxt "math symbol"
+msgid "union"
+msgstr "并集"
+
+msgctxt "math symbol"
+msgid "union with dot"
+msgstr "带点的并运算符"
+
+msgctxt "math symbol"
+msgid "union with plus"
+msgstr "带加号的并运算符"
+
+msgctxt "math symbol"
+msgid "up arrow"
+msgstr "上箭头"
+
+msgctxt "math symbol"
+msgid "up arrow from bar"
+msgstr "自短线上箭头"
+
+msgctxt "math symbol"
+msgid "up double arrow"
+msgstr "上双箭头"
+
+msgctxt "math symbol"
+msgid "up down arrow"
+msgstr "上下箭头"
+
+msgctxt "math symbol"
+msgid "up down double arrow"
+msgstr "上下双箭头"
+
+msgctxt "math symbol"
+msgid "up right diagonal ellipsis"
+msgstr "左下右上对角线省略号"
+
+msgctxt "math symbol"
+msgid "up tack"
+msgstr "上钉符"
+
+msgctxt "math symbol"
+msgid "vertical ellipsis"
+msgstr "垂直省略号"
+
+msgctxt "math symbol"
+msgid "very much greater than"
+msgstr "非常大于"
+
+msgctxt "math symbol"
+msgid "very much less than"
+msgstr "非常小于"
+
+msgctxt "math symbol"
+msgid "volume integral"
+msgstr "体积积分"
+
+msgctxt "math symbol"
+msgid "white bullet"
+msgstr "空心项目符号"
+
+msgctxt "math symbol"
+msgid "white circle"
+msgstr "空心圆形"
+
+msgctxt "math symbol"
+msgid "white square"
+msgstr "空心方框"
+
+msgctxt "math symbol"
+msgid "wreath product"
+msgstr "花边符号"
+
+msgctxt "math symbol"
+msgid "xor"
+msgstr "异或"
+
+msgctxt "math symbol"
+msgid "z notation bag membership"
+msgstr "Z 符号包成员"
+
+msgctxt "math table"
+msgid "nested table end"
+msgstr "嵌套表结束"
+
+msgctxt "math table"
+msgid "table end"
+msgstr "表结束"
+
+msgid "math table with %d row"
+msgid_plural "math table with %d rows"
+msgstr[0] "有 %d 行的数学表格"
+
+msgid "menu"
+msgstr "菜单"
+
+msgid "menu button"
+msgstr "菜单按钮"
+
+msgid "middle dot"
+msgstr "点号"
+
+msgid "minus"
+msgstr "负"
+
+msgid "misspelled"
+msgstr "拼写错误"
+
+msgid "mnu"
+msgstr "mnu"
+
+msgid "mnubr"
+msgstr "mnubr"
+
+msgid "mnuitm"
+msgstr "mnuitm"
+
+msgid "mode switch"
+msgstr "模式切换"
+
+msgid "mu"
+msgstr "µ"
+
+msgid "multi"
+msgstr "多个"
+
+msgid "multi-select"
+msgstr "多选"
+
+msgid "n tilde"
+msgstr "n tilde"
+
+msgid "nested math table with %d row"
+msgid_plural "nested math table with %d rows"
+msgstr[0] "有 %d 行的嵌套数学表格"
+
+msgid "newline"
+msgstr "新行"
+
+msgid "no break space"
+msgstr "不间断空格"
+
+msgid "no live message saved"
+msgstr "没有居住信息被保存"
+
+msgctxt "notification"
+msgid "Bottom"
+msgstr "底部"
+
+msgctxt "notification"
+msgid "Top"
+msgstr "顶部"
+
+msgid "num lock"
+msgstr "数字键盘锁定"
+
+msgid "number"
+msgstr "数字符号"
+
+msgctxt "number style"
+msgid "digits"
+msgstr "数码"
+
+msgctxt "number style"
+msgid "words"
+msgstr "单词"
+
+msgid "o acute"
+msgstr "o acute"
+
+msgid "o circumflex"
+msgstr "o circumflex"
+
+msgid "o grave"
+msgstr "o grave"
+
+msgid "o stroke"
+msgstr "o stroke"
+
+msgid "o tilde"
+msgstr "o tilde"
+
+msgid "o umlaut"
+msgstr "o umlaut"
+
+msgid "object replacement character"
+msgstr "对象替换字符"
+
+msgid "off"
+msgstr "关闭"
+
+msgid "on"
+msgstr "打开"
+
+msgid "on %(index)d of %(total)d"
+msgstr "在 %(total)d 的 %(index)d 上"
+
+msgid "one fourth"
+msgstr "四分之一"
+
+msgid "one half"
+msgstr "二分之一"
+
+msgid "optnpn"
+msgstr "optnpn"
+
+msgid "ordinal"
+msgstr "序数"
+
+msgid "page down"
+msgstr "下翻页键"
+
+msgid "page selected from cursor position"
+msgstr "从光标标位置开始选取页"
+
+msgid "page selected to cursor position"
+msgstr "选取页至光标位置"
+
+msgid "page unselected from cursor position"
+msgstr "从光标位置开始取消选择页"
+
+msgid "page unselected to cursor position"
+msgstr "取消选取页到光标位置"
+
+msgid "page up"
+msgstr "上翻页键"
+
+msgid "para"
+msgstr "para"
+
+msgid "paragraph marker"
+msgstr "段落标记"
+
+msgid "paragraph selected down from cursor position"
+msgstr "由光标位置向下选取的段落"
+
+msgid "paragraph selected up from cursor position"
+msgstr "由光标位置向上选取的段落"
+
+msgid "paragraph unselected down from cursor position"
+msgstr "由光标位置向下取消选取的段落"
+
+msgid "paragraph unselected up from cursor position"
+msgstr "由光标位置向上取消选取的段落"
+
+msgid "per mille"
+msgstr "千分号"
+
+msgid "percent"
+msgstr "百分号"
+
+msgid "pgbar"
+msgstr "pgbar"
+
+msgid "pgt"
+msgstr "pgt"
+
+msgid "plus"
+msgstr "加号"
+
+msgid "plus or minus"
+msgstr "正负"
+
+msgid "pnl"
+msgstr "pnl"
+
+msgid "politeness level %s"
+msgstr "礼貌级别 %s"
+
+msgid "popmnu"
+msgstr "popmnu"
+
+msgid "pounds"
+msgstr "英镑号"
+
+msgid "prime"
+msgstr "撇号"
+
+msgctxt "punctuation level"
+msgid "_None"
+msgstr "无(_N)"
+
+msgid "pwd"
+msgstr "pwd"
+
+msgid "question"
+msgstr "问号"
+
+msgid "quote"
+msgstr "双引号"
+
+msgid "radio"
+msgstr "单选框"
+
+msgctxt "radiobutton"
+msgid "not selected"
+msgstr "未选取"
+
+msgctxt "radiobutton"
+msgid "selected"
+msgstr "已选取"
+
+msgid "rdmnuitm"
+msgstr "rdmnuitm"
+
+msgid "registered"
+msgstr "注册商标符号"
+
+msgid "required"
+msgstr "必需"
+
+msgid "return"
+msgstr "返回键"
+
+msgid "right"
+msgstr "右"
+
+msgid "right alt"
+msgstr "右 Alt 键"
+
+msgid "right brace"
+msgstr "右花括号"
+
+msgid "right bracket"
+msgstr "右方括号"
+
+msgid "right control"
+msgstr "右 Control 键"
+
+msgid "right double angle bracket"
+msgstr "右书名号"
+
+msgid "right double quote"
+msgstr "右双引号"
+
+msgid "right meta"
+msgstr "右 meta 键"
+
+msgid "right paren"
+msgstr "右圆括号"
+
+msgid "right shift"
+msgstr "右 Shift 键"
+
+msgid "right single quote"
+msgstr "右单引号"
+
+msgid "right super"
+msgstr "右 super"
+
+msgid "ring"
+msgstr "响铃"
+
+msgctxt "role"
+msgid "QNA"
+msgstr "问答"
+
+msgctxt "role"
+msgid "abstract"
+msgstr "概览"
+
+msgctxt "role"
+msgid "acknowledgments"
+msgstr "鸣谢"
+
+msgctxt "role"
+msgid "afterword"
+msgstr "后记"
+
+msgctxt "role"
+msgid "appendix"
+msgstr "附录"
+
+msgctxt "role"
+msgid "banner"
+msgstr "条幅"
+
+msgctxt "role"
+msgid "bibliography"
+msgstr "参考书目"
+
+msgctxt "role"
+msgid "bibliography entry"
+msgstr "参考项"
+
+msgctxt "role"
+msgid "chapter"
+msgstr "章节"
+
+msgctxt "role"
+msgid "colophon"
+msgstr "版权页"
+
+msgctxt "role"
+msgid "complementary content"
+msgstr "互补内容"
+
+msgctxt "role"
+msgid "conclusion"
+msgstr "结论"
+
+msgctxt "role"
+msgid "cover"
+msgstr "封面"
+
+msgctxt "role"
+msgid "credit"
+msgstr "贡献者名单"
+
+msgctxt "role"
+msgid "credits"
+msgstr "贡献者名单"
+
+msgctxt "role"
+msgid "dedication"
+msgstr "献词"
+
+msgctxt "role"
+msgid "endnote"
+msgstr "尾注"
+
+msgctxt "role"
+msgid "endnotes"
+msgstr "尾注"
+
+msgctxt "role"
+msgid "epigraph"
+msgstr "题词"
+
+msgctxt "role"
+msgid "epilogue"
+msgstr "结语"
+
+msgctxt "role"
+msgid "errata"
+msgstr "勘误表"
+
+msgctxt "role"
+msgid "example"
+msgstr "示例"
+
+msgctxt "role"
+msgid "feed"
+msgstr "源"
+
+msgctxt "role"
+msgid "figure"
+msgstr "图表"
+
+msgctxt "role"
+msgid "foreword"
+msgstr "前言"
+
+msgctxt "role"
+msgid "glossary"
+msgstr "词汇表"
+
+msgctxt "role"
+msgid "index"
+msgstr "索引"
+
+msgctxt "role"
+msgid "information"
+msgstr "信息框"
+
+msgctxt "role"
+msgid "introduction"
+msgstr "引言"
+
+msgctxt "role"
+msgid "leaving QNA."
+msgstr "正在离开问答。"
+
+msgctxt "role"
+msgid "leaving abstract."
+msgstr "正在离开概览。"
+
+msgctxt "role"
+msgid "leaving acknowledgments."
+msgstr "正在离开鸣谢。"
+
+msgctxt "role"
+msgid "leaving afterword."
+msgstr "正在离开后记。"
+
+msgctxt "role"
+msgid "leaving appendix."
+msgstr "正在离开附录。"
+
+msgctxt "role"
+msgid "leaving banner."
+msgstr "正在离开横幅。"
+
+msgctxt "role"
+msgid "leaving bibliography."
+msgstr "正在离开参考书目。"
+
+msgctxt "role"
+msgid "leaving chapter."
+msgstr "正在离开章节。"
+
+msgctxt "role"
+msgid "leaving colophon."
+msgstr "正在离开版权页。"
+
+msgctxt "role"
+msgid "leaving complementary content."
+msgstr "正在离开互补内容。"
+
+msgctxt "role"
+msgid "leaving conclusion."
+msgstr "正在离开结论。"
+
+msgctxt "role"
+msgid "leaving credit."
+msgstr "正在离开贡献者名单。"
+
+msgctxt "role"
+msgid "leaving credits."
+msgstr "正在离开贡献者名单。"
+
+msgctxt "role"
+msgid "leaving dedication."
+msgstr "正在离开献词。"
+
+msgctxt "role"
+msgid "leaving endnotes."
+msgstr "正在离开尾注。"
+
+msgctxt "role"
+msgid "leaving epigraph."
+msgstr "正在离开题词。"
+
+msgctxt "role"
+msgid "leaving epilogue."
+msgstr "正在离开结语。"
+
+msgctxt "role"
+msgid "leaving errata."
+msgstr "正在离开勘误表。"
+
+msgctxt "role"
+msgid "leaving example."
+msgstr "正在离开示例。"
+
+msgctxt "role"
+msgid "leaving feed."
+msgstr "正在离开源。"
+
+msgctxt "role"
+msgid "leaving figure."
+msgstr "正在离开图表。"
+
+msgctxt "role"
+msgid "leaving foreword."
+msgstr "正在离开前言。"
+
+msgctxt "role"
+msgid "leaving glossary."
+msgstr "正在离开词汇表。"
+
+msgctxt "role"
+msgid "leaving index."
+msgstr "正在离开索引。"
+
+msgctxt "role"
+msgid "leaving information."
+msgstr "正在离开信息框。"
+
+msgctxt "role"
+msgid "leaving introduction."
+msgstr "正在离开引言。"
+
+msgctxt "role"
+msgid "leaving main content."
+msgstr "正在离开主内容。"
+
+msgctxt "role"
+msgid "leaving navigation."
+msgstr "正在离开导航。"
+
+msgctxt "role"
+msgid "leaving page list."
+msgstr "正在离开页面列表。"
+
+msgctxt "role"
+msgid "leaving part."
+msgstr "正在离开段。"
+
+msgctxt "role"
+msgid "leaving preface."
+msgstr "正在离开序言。"
+
+msgctxt "role"
+msgid "leaving prologue."
+msgstr "正在离开序章。"
+
+msgctxt "role"
+msgid "leaving pullquote."
+msgstr "正在离开引用段。"
+
+msgctxt "role"
+msgid "leaving region."
+msgstr "正在离开区域。"
+
+msgctxt "role"
+msgid "leaving search."
+msgstr "正在离开搜索框。"
+
+msgctxt "role"
+msgid "leaving table of contents."
+msgstr "正在离开目录。"
+
+msgctxt "role"
+msgid "main content"
+msgstr "主内容"
+
+msgctxt "role"
+msgid "navigation"
+msgstr "页面导航"
+
+msgctxt "role"
+msgid "page break"
+msgstr "分页符"
+
+msgctxt "role"
+msgid "page list"
+msgstr "页面列表"
+
+msgctxt "role"
+msgid "part"
+msgstr "段"
+
+msgctxt "role"
+msgid "preface"
+msgstr "序言"
+
+msgctxt "role"
+msgid "prologue"
+msgstr "序章"
+
+msgctxt "role"
+msgid "pullquote"
+msgstr "引用段"
+
+msgctxt "role"
+msgid "region"
+msgstr "区域"
+
+msgctxt "role"
+msgid "search"
+msgstr "搜索"
+
+msgctxt "role"
+msgid "subtitle"
+msgstr "副标题"
+
+msgctxt "role"
+msgid "switch"
+msgstr "切换角色"
+
+msgctxt "role"
+msgid "table of contents"
+msgstr "目录"
+
+msgid "root end"
+msgstr "开根号结束"
+
+msgid "root of"
+msgstr "根是"
+
+msgid "root start"
+msgstr "开根号开始"
+
+msgid "row %(index)d of %(total)d"
+msgstr "%(total)d 行中的第 %(index)d 行"
+
+msgid "row %d"
+msgstr "行 %d"
+
+msgid "rtpn"
+msgstr "rtpn"
+
+msgid "rwhdr"
+msgstr "rwhdr"
+
+msgid "s sharp"
+msgstr "s sharp"
+
+msgid "same page"
+msgstr "同一个页面"
+
+msgid "same site"
+msgstr "同一个地址"
+
+msgid "scbr"
+msgstr "scbr"
+
+msgid "scpn"
+msgstr "scpn"
+
+msgid "scroll lock"
+msgstr "滚动锁定"
+
+msgid "sctn"
+msgstr "sctn"
+
+msgid "section"
+msgstr "章节号"
+
+msgid "semicolon"
+msgstr "分号"
+
+msgid "seprtr"
+msgstr "seprtr"
+
+msgid "setting live region to assertive"
+msgstr "居住地区礼貌水平设置为自信"
+
+msgid "setting live region to off"
+msgstr "居住地区礼貌水平设置为关闭"
+
+msgid "setting live region to polite"
+msgstr "居住地区礼貌水平设置为礼貌"
+
+msgid "setting live region to rude"
+msgstr "居住地区礼貌水平设置为粗鲁"
+
+msgctxt "shortbraille"
+msgid "dial"
+msgstr "dial"
+
+msgctxt "shortbraille"
+msgid "form"
+msgstr "form"
+
+msgid "single low quote"
+msgstr "单下引号"
+
+msgid "slash"
+msgstr "斜线"
+
+msgid "sldr"
+msgstr "sldr"
+
+msgid "slide %(position)d of %(count)d"
+msgstr "%(count)d 中的第 %(position)d 张"
+
+msgid "slower."
+msgstr "减慢语速。"
+
+msgid "soft hyphen"
+msgstr "软连字符"
+
+msgid "softer."
+msgstr "更柔和。"
+
+msgid "space"
+msgstr "空格"
+
+msgid "speak chat room name."
+msgstr "读出聊天室名称。"
+
+msgid "spin"
+msgstr "spin"
+
+msgid "spltpn"
+msgstr "spltpn"
+
+msgctxt "spoken punctuation"
+msgid "All"
+msgstr "全部"
+
+msgctxt "spoken punctuation"
+msgid "Most"
+msgstr "大多"
+
+msgctxt "spoken punctuation"
+msgid "None"
+msgstr "无"
+
+msgctxt "spoken punctuation"
+msgid "Some"
+msgstr "一些"
+
+msgid "square root of"
+msgstr "平方根号"
+
+msgid "star"
+msgstr "星号"
+
+msgid "statbr"
+msgstr "statbr"
+
+msgid "string not found"
+msgstr "未找到字符串"
+
+msgid "stroke"
+msgstr "钟响"
+
+msgctxt "structural navigation"
+msgid "Blockquote"
+msgstr "块引用"
+
+msgctxt "structural navigation"
+msgid "Blockquotes"
+msgstr "块引用"
+
+msgctxt "structural navigation"
+msgid "Button"
+msgstr "按钮"
+
+msgctxt "structural navigation"
+msgid "Buttons"
+msgstr "按钮"
+
+msgctxt "structural navigation"
+msgid "Caption"
+msgstr "标题"
+
+msgctxt "structural navigation"
+msgid "Check Box"
+msgstr "复选框"
+
+msgctxt "structural navigation"
+msgid "Check Boxes"
+msgstr "勾选框"
+
+msgctxt "structural navigation"
+msgid "Clickable"
+msgstr "可点击对象"
+
+msgctxt "structural navigation"
+msgid "Clickables"
+msgstr "多个可点击对象"
+
+msgctxt "structural navigation"
+msgid "Combo Box"
+msgstr "组合框"
+
+msgctxt "structural navigation"
+msgid "Combo Boxes"
+msgstr "组合框"
+
+msgctxt "structural navigation"
+msgid "Description"
+msgstr "描述"
+
+msgctxt "structural navigation"
+msgid "Entries"
+msgstr "条目"
+
+msgctxt "structural navigation"
+msgid "Form Fields"
+msgstr "填表区"
+
+msgctxt "structural navigation"
+msgid "Heading"
+msgstr "标题"
+
+msgctxt "structural navigation"
+msgid "Headings"
+msgstr "标题"
+
+msgctxt "structural navigation"
+msgid "Headings at Level %d"
+msgstr "级别为 %d 的标题"
+
+msgctxt "structural navigation"
+msgid "Image"
+msgstr "图像"
+
+msgctxt "structural navigation"
+msgid "Images"
+msgstr "多个图像"
+
+msgctxt "structural navigation"
+msgid "Label"
+msgstr "标签"
+
+msgctxt "structural navigation"
+msgid "Landmark"
+msgstr "界标"
+
+msgctxt "structural navigation"
+msgid "Landmarks"
+msgstr "界标"
+
+msgctxt "structural navigation"
+msgid "Large Objects"
+msgstr "大型对象"
+
+msgctxt "structural navigation"
+msgid "Level"
+msgstr "等级"
+
+msgctxt "structural navigation"
+msgid "Link"
+msgstr "链接"
+
+msgctxt "structural navigation"
+msgid "Links"
+msgstr "链接"
+
+msgctxt "structural navigation"
+msgid "List"
+msgstr "列表"
+
+msgctxt "structural navigation"
+msgid "List Item"
+msgstr "列表项"
+
+msgctxt "structural navigation"
+msgid "List Items"
+msgstr "列表项"
+
+msgctxt "structural navigation"
+msgid "Lists"
+msgstr "列表"
+
+msgctxt "structural navigation"
+msgid "Not found"
+msgstr "未找到"
+
+msgctxt "structural navigation"
+msgid "Object"
+msgstr "对象"
+
+msgctxt "structural navigation"
+msgid "Paragraph"
+msgstr "段落"
+
+msgctxt "structural navigation"
+msgid "Paragraphs"
+msgstr "段落"
+
+msgctxt "structural navigation"
+msgid "Radio Button"
+msgstr "单选按钮"
+
+msgctxt "structural navigation"
+msgid "Radio Buttons"
+msgstr "单选按钮"
+
+msgctxt "structural navigation"
+msgid "Role"
+msgstr "角色"
+
+msgctxt "structural navigation"
+msgid "Selected Item"
+msgstr "已选取条目"
+
+msgctxt "structural navigation"
+msgid "State"
+msgstr "状态"
+
+msgctxt "structural navigation"
+msgid "Tables"
+msgstr "表格"
+
+msgctxt "structural navigation"
+msgid "Text"
+msgstr "文本"
+
+msgctxt "structural navigation"
+msgid "URI"
+msgstr "URI"
+
+msgctxt "structural navigation"
+msgid "Unvisited Links"
+msgstr "未访问的链接"
+
+msgctxt "structural navigation"
+msgid "Value"
+msgstr "值"
+
+msgctxt "structural navigation"
+msgid "Visited Links"
+msgstr "访问过的链接"
+
+msgid "subscript 0"
+msgstr "下标 0"
+
+msgid "subscript 1"
+msgstr "下标 1"
+
+msgid "subscript 2"
+msgstr "下标 2"
+
+msgid "subscript 3"
+msgstr "下标 3"
+
+msgid "subscript 4"
+msgstr "下标 4"
+
+msgid "subscript 5"
+msgstr "下标 5"
+
+msgid "subscript 6"
+msgstr "下标 6"
+
+msgid "subscript 7"
+msgstr "下标 7"
+
+msgid "subscript 8"
+msgstr "下标 8"
+
+msgid "subscript 9"
+msgstr "下标 9"
+
+msgid "subscript equals"
+msgstr "下标等号"
+
+msgid "subscript left paren"
+msgstr "下标左圆括号"
+
+msgid "subscript minus"
+msgstr "下标减号"
+
+msgid "subscript plus"
+msgstr "下标加号"
+
+msgid "subscript right paren"
+msgstr "下标右圆括号"
+
+msgid "superscript 0"
+msgstr "上标 0"
+
+msgid "superscript 1"
+msgstr "上标 1"
+
+msgid "superscript 2"
+msgstr "上标 2"
+
+msgid "superscript 3"
+msgstr "上标 3"
+
+msgid "superscript 4"
+msgstr "上标 4"
+
+msgid "superscript 5"
+msgstr "上标 5"
+
+msgid "superscript 6"
+msgstr "上标 6"
+
+msgid "superscript 7"
+msgstr "上标 7"
+
+msgid "superscript 8"
+msgstr "上标 8"
+
+msgid "superscript 9"
+msgstr "上标 9"
+
+msgid "superscript a"
+msgstr "上标 a"
+
+msgid "superscript equals"
+msgstr "上标等号"
+
+msgid "superscript left paren"
+msgstr "上标左圆括号"
+
+msgid "superscript minus"
+msgstr "上标减号"
+
+msgid "superscript n"
+msgstr "上标 n"
+
+msgid "superscript plus"
+msgstr "上标加号"
+
+msgid "superscript right paren"
+msgstr "上标右圆括号"
+
+msgctxt "switch"
+msgid "off"
+msgstr "关闭"
+
+msgctxt "switch"
+msgid "on"
+msgstr "打开"
+
+msgid "tab"
+msgstr "制表符"
+
+msgid "table with %d row"
+msgid_plural "table with %d rows"
+msgstr[0] "有 %d 行的表格"
+
+msgctxt "tablecell"
+msgid "not selected"
+msgstr "未选中"
+
+msgid "tbar"
+msgstr "tbar"
+
+msgid "tbl"
+msgstr "tbl"
+
+msgid "tblst"
+msgstr "tblst"
+
+msgid "term"
+msgstr "term"
+
+msgctxt "text"
+msgid "rdonly"
+msgstr "不可编辑"
+
+msgctxt "text"
+msgid "read only"
+msgstr "只读"
+
+msgctxt "text"
+msgid "selected"
+msgstr "已选取"
+
+msgctxt "text"
+msgid "unselected"
+msgstr "未选取"
+
+msgctxt "textattr"
+msgid "Default"
+msgstr "默认"
+
+msgctxt "textattr"
+msgid "Heading"
+msgstr "标题"
+
+msgctxt "textattr"
+msgid "Text body"
+msgstr "文本正文"
+
+msgctxt "textattr"
+msgid "background color"
+msgstr "背景颜色"
+
+msgctxt "textattr"
+msgid "background full height"
+msgstr "全高度背景"
+
+msgctxt "textattr"
+msgid "background stipple"
+msgstr "背景点画"
+
+msgctxt "textattr"
+msgid "baseline"
+msgstr "基线"
+
+msgctxt "textattr"
+msgid "black"
+msgstr "黑"
+
+msgctxt "textattr"
+msgid "blink"
+msgstr "闪烁"
+
+msgctxt "textattr"
+msgid "bottom"
+msgstr "底部"
+
+msgctxt "textattr"
+msgid "bt-lr"
+msgstr "bt-lr"
+
+msgctxt "textattr"
+msgid "bt-rl"
+msgstr "bt-rl"
+
+msgctxt "textattr"
+msgid "center"
+msgstr "居中"
+
+msgctxt "textattr"
+msgid "char"
+msgstr "字符"
+
+msgctxt "textattr"
+msgid "condensed"
+msgstr "收缩"
+
+msgctxt "textattr"
+msgid "direction"
+msgstr "方向"
+
+msgctxt "textattr"
+msgid "double"
+msgstr "双"
+
+msgctxt "textattr"
+msgid "editable"
+msgstr "可编辑"
+
+msgctxt "textattr"
+msgid "emboss"
+msgstr "阳文"
+
+msgctxt "textattr"
+msgid "engrave"
+msgstr "阴文"
+
+msgctxt "textattr"
+msgid "expanded"
+msgstr "已展开"
+
+msgctxt "textattr"
+msgid "extra condensed"
+msgstr "超出收缩"
+
+msgctxt "textattr"
+msgid "extra expanded"
+msgstr "超出展开"
+
+msgctxt "textattr"
+msgid "false"
+msgstr "假"
+
+msgctxt "textattr"
+msgid "family name"
+msgstr "族名称"
+
+msgctxt "textattr"
+msgid "fill"
+msgstr "填充"
+
+msgctxt "textattr"
+msgid "font effect"
+msgstr "字体效果"
+
+msgctxt "textattr"
+msgid "foreground color"
+msgstr "前景色"
+
+msgctxt "textattr"
+msgid "foreground stipple"
+msgstr "前景点画"
+
+msgctxt "textattr"
+msgid "indent"
+msgstr "缩进"
+
+msgctxt "textattr"
+msgid "inherit"
+msgstr "继承"
+
+msgctxt "textattr"
+msgid "invisible"
+msgstr "不可见"
+
+msgctxt "textattr"
+msgid "italic"
+msgstr "斜体"
+
+msgctxt "textattr"
+msgid "justification"
+msgstr "调整"
+
+msgctxt "textattr"
+msgid "language"
+msgstr "语言"
+
+msgctxt "textattr"
+msgid "left"
+msgstr "左"
+
+msgctxt "textattr"
+msgid "left margin"
+msgstr "左边距"
+
+msgctxt "textattr"
+msgid "line height"
+msgstr "行高"
+
+msgctxt "textattr"
+msgid "line through"
+msgstr "贯穿线"
+
+msgctxt "textattr"
+msgid "low"
+msgstr "低"
+
+msgctxt "textattr"
+msgid "lr"
+msgstr "lr"
+
+msgctxt "textattr"
+msgid "lr-tb"
+msgstr "lr-tb"
+
+msgctxt "textattr"
+msgid "ltr"
+msgstr "左至右"
+
+msgctxt "textattr"
+msgid "middle"
+msgstr "中间"
+
+msgctxt "textattr"
+msgid "mistake"
+msgstr "错误"
+
+msgctxt "textattr"
+msgid "no justification"
+msgstr "无调整"
+
+msgctxt "textattr"
+msgid "none"
+msgstr "无"
+
+msgctxt "textattr"
+msgid "normal"
+msgstr "普通"
+
+msgctxt "textattr"
+msgid "oblique"
+msgstr "倾斜"
+
+msgctxt "textattr"
+msgid "outline"
+msgstr "大纲"
+
+msgctxt "textattr"
+msgid "overline"
+msgstr "上划线"
+
+msgctxt "textattr"
+msgid "paragraph style"
+msgstr "段落风格"
+
+msgctxt "textattr"
+msgid "pixels above lines"
+msgstr "行之上的像素"
+
+msgctxt "textattr"
+msgid "pixels below lines"
+msgstr "行之下的像素"
+
+msgctxt "textattr"
+msgid "pixels inside wrap"
+msgstr "卷起内部元素"
+
+msgctxt "textattr"
+msgid "right"
+msgstr "右"
+
+msgctxt "textattr"
+msgid "right margin"
+msgstr "右边距"
+
+msgctxt "textattr"
+msgid "rise"
+msgstr "升起"
+
+msgctxt "textattr"
+msgid "rl"
+msgstr "rl"
+
+msgctxt "textattr"
+msgid "rl-tb"
+msgstr "rl-tb"
+
+msgctxt "textattr"
+msgid "rtl"
+msgstr "右至左"
+
+msgctxt "textattr"
+msgid "scale"
+msgstr "缩放"
+
+msgctxt "textattr"
+msgid "semi condensed"
+msgstr "半收缩"
+
+msgctxt "textattr"
+msgid "semi expanded"
+msgstr "半展开"
+
+msgctxt "textattr"
+msgid "single"
+msgstr "单"
+
+msgctxt "textattr"
+msgid "size"
+msgstr "大小"
+
+msgctxt "textattr"
+msgid "small caps"
+msgstr "小型大写"
+
+msgctxt "textattr"
+msgid "solid"
+msgstr "实心的"
+
+msgctxt "textattr"
+msgid "spelling"
+msgstr "拼写"
+
+msgctxt "textattr"
+msgid "stretch"
+msgstr "拉伸"
+
+msgctxt "textattr"
+msgid "strike through"
+msgstr "贯穿"
+
+msgctxt "textattr"
+msgid "style"
+msgstr "风格"
+
+msgctxt "textattr"
+msgid "sub"
+msgstr "下降"
+
+msgctxt "textattr"
+msgid "super"
+msgstr "升高"
+
+msgctxt "textattr"
+msgid "tb"
+msgstr "tb"
+
+msgctxt "textattr"
+msgid "tb-lr"
+msgstr "tb-lr"
+
+msgctxt "textattr"
+msgid "tb-rl"
+msgstr "tb-rl"
+
+msgctxt "textattr"
+msgid "text decoration"
+msgstr "文本修饰"
+
+msgctxt "textattr"
+msgid "text rotation"
+msgstr "文字旋转"
+
+msgctxt "textattr"
+msgid "text shadow"
+msgstr "文本阴影"
+
+msgctxt "textattr"
+msgid "text-bottom"
+msgstr "文本尾"
+
+msgctxt "textattr"
+msgid "text-top"
+msgstr "文本头"
+
+msgctxt "textattr"
+msgid "top"
+msgstr "上"
+
+msgctxt "textattr"
+msgid "true"
+msgstr "真"
+
+msgctxt "textattr"
+msgid "ultra condensed"
+msgstr "过度收缩"
+
+msgctxt "textattr"
+msgid "ultra expanded"
+msgstr "过度展开"
+
+msgctxt "textattr"
+msgid "underline"
+msgstr "下划线"
+
+msgctxt "textattr"
+msgid "variant"
+msgstr "变形"
+
+msgctxt "textattr"
+msgid "vertical align"
+msgstr "垂直对齐"
+
+msgctxt "textattr"
+msgid "weight"
+msgstr "粗细"
+
+msgctxt "textattr"
+msgid "word"
+msgstr "单词"
+
+msgctxt "textattr"
+msgid "word char"
+msgstr "单词字符"
+
+msgctxt "textattr"
+msgid "wrap mode"
+msgstr "换行模式"
+
+msgctxt "textattr"
+msgid "writing mode"
+msgstr "写作模式"
+
+msgid "tglbtn"
+msgstr "tglbtn"
+
+msgid "thorn"
+msgstr "thorn"
+
+msgid "three fourths"
+msgstr "四分之三"
+
+msgid "tilde"
+msgstr "波浪号"
+
+msgid "times"
+msgstr "乘号"
+
+msgid "tip"
+msgstr "提示"
+
+msgid "toggle"
+msgstr "切换"
+
+msgctxt "togglebutton"
+msgid "not pressed"
+msgstr "未按下"
+
+msgctxt "togglebutton"
+msgid "pressed"
+msgstr "已按下"
+
+msgid "tomnuitm"
+msgstr "tomnuitm"
+
+msgid "trademark"
+msgstr "商标符号"
+
+msgid "tre"
+msgstr "tre"
+
+msgid "tree level %d"
+msgstr "树型等级 %d"
+
+msgid "triangular bullet"
+msgstr "三角项目符号"
+
+msgid "triple click"
+msgstr "三击"
+
+msgid "triple prime"
+msgstr "三撇号"
+
+msgid "trtbl"
+msgstr "trtbl"
+
+msgid "txt"
+msgstr "txt"
+
+msgid "u acute"
+msgstr "u acute"
+
+msgid "u circumflex"
+msgstr "u circumflex"
+
+msgid "u grave"
+msgstr "u grave"
+
+msgid "u umlaut"
+msgstr "u umlaut"
+
+msgid "underline"
+msgstr "下划线"
+
+msgid "unk"
+msgstr "unk"
+
+msgid "up"
+msgstr "上"
+
+msgid "vertical"
+msgstr "竖直"
+
+msgid "vertical bar"
+msgstr "竖线"
+
+msgid "vertical scroll bar"
+msgstr "竖直滚动条"
+
+msgid "vertical slider"
+msgstr "竖直滑块"
+
+msgid "vertical splitter"
+msgstr "竖直分割线"
+
+msgid "visited %s link"
+msgstr "已访问 %s 链接"
+
+msgid "visited link"
+msgstr "已经访问的连接"
+
+msgid "vwprt"
+msgstr "vwprt"
+
+msgid "white space"
+msgstr "空白空间"
+
+msgid "wnd"
+msgstr "wnd"
+
+msgid "x-shaped bullet"
+msgstr "x 形符号"
+
+msgid "y acute"
+msgstr "y acute"
+
+msgid "y umlaut"
+msgstr "y umlaut"
+
+msgid "yen"
+msgstr "元"

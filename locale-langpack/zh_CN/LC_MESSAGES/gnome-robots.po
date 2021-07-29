@@ -1,0 +1,319 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-robots&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-10-08 20:43+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:57+0000\n"
+
+msgid "(Remaining: %d)"
+msgstr "(剩下: %d 个)"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Are you sure you want to discard the current game?"
+msgstr "您确定要放弃当前游戏吗？"
+
+msgid "Avoid the robots and make them crash into each other"
+msgstr "避免碰到机器人并让它们撞在一起"
+
+msgid "Background color"
+msgstr "背景颜色"
+
+msgid "Background color. The hex specification of the background color."
+msgstr "背景颜色，用十六进制表示。"
+
+msgid "Based on classic BSD Robots"
+msgstr "基于经典的 BSD 机器人"
+
+msgid "Classic robots"
+msgstr "经典机器人"
+
+msgid "Classic robots with safe moves"
+msgstr "带安全移动的经典机器人"
+
+msgid "Classic robots with super-safe moves"
+msgstr "带超级安全移动的经典机器人"
+
+msgid ""
+"Congratulations, You Have Defeated the Robots!! \n"
+"But Can You do it Again?"
+msgstr ""
+"恭喜，您已击败机器人！\n"
+"但您能再次击败它吗？"
+
+msgid "Enable game sounds"
+msgstr "启用游戏音效"
+
+msgid ""
+"Enable game sounds. Play sounds for various events throughout the game."
+msgstr "启用游戏音效。在玩游戏的过程中的各种事件可播放声音。"
+
+msgid ""
+"Fortunately, the robots are extremely stupid and will always move directly "
+"towards you. Trick them into colliding into each other, resulting in their "
+"destruction, or into the junk piles that result. You can defend yourself by "
+"moving the junk piles, or escape to safety with your handy teleportation "
+"device."
+msgstr ""
+"幸运的是，机器人智力很低，只会朝你直线接近。引导它们相撞来销毁它们，撞进垃圾堆也行。你可以移动垃圾堆保护自己，或用你手头的心灵传送设备逃到安全的地方。"
+
+msgid "GNOME Robots"
+msgstr "GNOME 机器人"
+
+msgid "Game"
+msgstr "游戏"
+
+msgid "Game Type"
+msgstr "游戏类型"
+
+msgid "Game Type:"
+msgstr "游戏类型："
+
+msgid "Game type"
+msgstr "游戏类型"
+
+msgid "Game type. The name of the game variation to use."
+msgstr "游戏类型。要使用的游戏变种的名称。"
+
+msgid "Height of the window in pixels"
+msgstr "主窗口的高度(像素)"
+
+msgid "Keep _Playing"
+msgstr "继续玩(_P)"
+
+msgid "Key to hold"
+msgstr "停住键"
+
+msgid "Key to move E"
+msgstr "右移键"
+
+msgid "Key to move N"
+msgstr "上移键"
+
+msgid "Key to move NE"
+msgstr "右上移键"
+
+msgid "Key to move NW"
+msgstr "左上移键"
+
+msgid "Key to move S"
+msgstr "下移键"
+
+msgid "Key to move SE"
+msgstr "右下移键"
+
+msgid "Key to move SW"
+msgstr "左下移键"
+
+msgid "Key to move W"
+msgstr "左移键"
+
+msgid "Keyboard"
+msgstr "键盘"
+
+msgid "Level: %d\tScore: %d"
+msgstr "关数：%d关\t得分：%d分"
+
+msgid "Nightmare"
+msgstr "噩梦"
+
+msgid "Nightmare with safe moves"
+msgstr "带安全移动的噩梦"
+
+msgid "Nightmare with super-safe moves"
+msgstr "带超级安全移动的噩梦"
+
+msgid "No game data could be found."
+msgstr "没有找到游戏数据。"
+
+msgid "Play sounds for events like winning a level and dying."
+msgstr "对通关或死亡等事件使用声音通知。"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Prevent accidental moves that result in getting killed."
+msgstr "阻止会导致死亡的意外移动。"
+
+msgid "Prevents all moves that result in getting killed."
+msgstr "避免将导致丢命的全部移动。"
+
+msgid "Robot image theme"
+msgstr "机器人图像主题"
+
+msgid "Robot image theme. The theme of the images to use for the robots."
+msgstr "机器人图像主题。机器人所用的图像主题。"
+
+msgid "Robots"
+msgstr "机器人"
+
+msgid "Robots with safe teleport"
+msgstr "带有安全传送点的机器人"
+
+msgid "Robots with safe teleport with safe moves"
+msgstr "带有安全传送点的机器人"
+
+msgid "Robots with safe teleport with super-safe moves"
+msgstr "带有安全传送点的机器人"
+
+msgid "Robots2"
+msgstr "机器人2"
+
+msgid "Robots2 easy"
+msgstr "机器人2简单"
+
+msgid "Robots2 easy with safe moves"
+msgstr "带安全移动的机器人2 简单"
+
+msgid "Robots2 easy with super-safe moves"
+msgstr "带超级安全移动的机器人2 简单"
+
+msgid "Robots2 with safe moves"
+msgstr "带安全移动的机器人2"
+
+msgid "Robots2 with super-safe moves"
+msgstr "带超级安全移动的机器人2"
+
+msgid "Show toolbar"
+msgstr "显示工具栏"
+
+msgid "Show toolbar. A standard option for toolbars."
+msgstr "显示工具栏。工具栏的标准选项。"
+
+msgid "Some graphics files are missing or corrupt."
+msgstr "某些图像文件缺少或损坏。"
+
+msgid "Teleport _Randomly"
+msgstr "随机瞬移(_R)"
+
+msgid "Teleport _Safely"
+msgstr "安全瞬移(_S)"
+
+msgid "The key used to hold still."
+msgstr "用于停住的按键。"
+
+msgid "The key used to move east."
+msgstr "右移的按键。"
+
+msgid "The key used to move north-east."
+msgstr "右上移的按键。"
+
+msgid "The key used to move north-west."
+msgstr "左上移的按键。"
+
+msgid "The key used to move north."
+msgstr "上移的按键。"
+
+msgid "The key used to move south-east."
+msgstr "右下移的按键。"
+
+msgid "The key used to move south-west."
+msgstr "左下移的按键。"
+
+msgid "The key used to move south."
+msgstr "下移的按键。"
+
+msgid "The key used to move west."
+msgstr "左移的按键。"
+
+msgid ""
+"The program Robots was unable to find any valid game configuration files. "
+"Please check that the program is installed correctly."
+msgstr "GNOME 机器人程序无法找到任何可用的游戏配置文件。请检查程序是否正确安装。"
+
+msgid ""
+"The program Robots was unable to load all the necessary graphics files. "
+"Please check that the program is installed correctly."
+msgstr "GNOME 机器人程序无法载入必需的图像文件。请检查程序是否正确安装。"
+
+msgid "There are no safe locations to teleport to!!"
+msgstr "没有可传送到的安全的位置了！"
+
+msgid "There are no teleport locations left!!"
+msgstr "没有剩下传送点了！"
+
+msgid "U_se super safe moves"
+msgstr "使用超级安全移动(_S)"
+
+msgid "Unknown Command"
+msgstr "未知命令"
+
+msgid "Use safe moves"
+msgstr "使用安全移动"
+
+msgid ""
+"Use safe moves. The safe moves option will help you to avoid being killed "
+"due to a mistake. If you try to make a move that would lead to your death "
+"when there is a safe move available you will not be allowed to proceed."
+msgstr "使用安全移动。安全移动选项将帮助您避免因失误而被杀死。如果您在使用了安全移动时试图作出一步将导致您死亡的移动的话，您将不会被允许那样移动。"
+
+msgid "Use super safe moves"
+msgstr "使用超级安全移动"
+
+msgid ""
+"Use super safe moves. The player is alerted when there is no safe move and "
+"the only option is to teleport out."
+msgstr "使用超级安全移动。当没有可用的安全移动时，用户会收到警告，此时唯一的选择是使用随机移动。"
+
+msgid "Width of the window in pixels"
+msgstr "主窗口的宽度(像素)"
+
+msgid ""
+"Your supply of safe teleports is limited, and once you run out, "
+"teleportation could land you right next to a robot, who will kill you. "
+"Survive for as long as possible!"
+msgstr "你手里的安全传送是有限的，一旦用完，游戏可能会把你正好传送到机器人跟前，那你就挂了。想方设法活下去！"
+
+msgid "_Background color:"
+msgstr "背景颜色(_B)："
+
+msgid "_Enable sounds"
+msgstr "启用声音(_E)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Image theme:"
+msgstr "图像主题(_I)："
+
+msgid "_New Game"
+msgstr "新建游戏(_N)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Restore Defaults"
+msgstr "恢复默认值(_R)"
+
+msgid "_Scores"
+msgstr "得分(_S)"
+
+msgid "_Use safe moves"
+msgstr "使用安全移动(_U)"
+
+msgid "_Wait for Robots"
+msgstr "等候机器人(_W)"
+
+msgid "game;arcade;teleport;"
+msgstr "game;arcade;teleport;游戏;街机;模拟器;瞬间移动;传送;"
+
+msgid "translator-credits"
+msgstr ""
+"Yang Zhang <zyangmath@gmail.com>, 2007\n"
+"Ping Z <zpsigma@gmail.com>, 2007\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"Mandy Wang <wangmychn@gmail.com>, 2016\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Mandy Wang https://launchpad.net/~wangmychn"
+
+msgid "true if the window is maximized"
+msgstr "若窗口已最大化则为 true"

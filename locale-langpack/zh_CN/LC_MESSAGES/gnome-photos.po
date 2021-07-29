@@ -1,0 +1,683 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-photos master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-photos/issues\n"
+"PO-Revision-Date: 2020-04-05 18:40+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:00+0000\n"
+
+msgid "%-d %B %Y"
+msgstr "%Y 年 %-m 月 %-d 日"
+
+msgid "%d item deleted"
+msgid_plural "%d items deleted"
+msgstr[0] "%d 项已经删除"
+
+msgid "%d item exported"
+msgid_plural "%d items exported"
+msgstr[0] "%d 项已导出"
+
+msgid "%d selected"
+msgid_plural "%d selected"
+msgstr[0] "已选中 %d 张"
+
+msgid "%d×%d (%s)"
+msgstr "%d×%d (%s)"
+
+msgid "%ld × %ld pixel"
+msgid_plural "%ld × %ld pixels"
+msgstr[0] "%ld × %ld 像素"
+
+msgid "%s — %s"
+msgstr "%s — %s"
+
+msgid "10×8 / 5×4"
+msgstr "10×8 / 5×4"
+
+msgid "16×10 (1280×800)"
+msgstr "16×10 (1280×800)"
+
+msgid "16×9 (1920×1080)"
+msgstr "16×9 (1920×1080)"
+
+msgid "1947"
+msgstr "1947"
+
+msgid "1×1 (Square)"
+msgstr "1×1（方形）"
+
+msgid "3×2 / 6×4"
+msgstr "3×2 / 6×4"
+
+msgid "4×3 / 8×6 (1024×768)"
+msgstr "4×3 / 8×6 (1024×768)"
+
+msgid "7×5"
+msgstr "7×5"
+
+msgid "About Photos"
+msgstr "关于照片"
+
+msgid "Access, organize and share photos"
+msgstr "访问、管理并分享您的照片"
+
+msgid "Access, organize and share your photos on GNOME"
+msgstr "在 GNOME 下访问、管理和分享您的照片"
+
+msgid "Add to Album"
+msgstr "添加到相册"
+
+msgid "Add to _Existing"
+msgstr "添加到现有相册(_E)"
+
+msgid "Add to favorites"
+msgstr "添加到收藏"
+
+msgid "Album"
+msgstr "相册"
+
+msgid "Albums"
+msgstr "相册"
+
+msgid "All"
+msgstr "全部"
+
+msgid "An album for that date already exists"
+msgstr "已存在此日期的相册"
+
+msgid "An album with that name already exists"
+msgstr "已存在同名的相册"
+
+msgid "Analyze"
+msgstr "分析"
+
+msgid "Aperture"
+msgstr "光圈"
+
+msgid "Back"
+msgstr "返回"
+
+msgid "Blacks"
+msgstr "涂黑"
+
+msgid "Both"
+msgstr "全部"
+
+msgid "C_enter:"
+msgstr "中(_E)："
+
+msgid "Caap"
+msgstr "卡普"
+
+msgid "Calculating export size…"
+msgstr "正在计算导出大小…"
+
+msgid "Calistoga"
+msgstr "卡利斯托加"
+
+msgid "Camera"
+msgstr "相机"
+
+msgid "Click on items to select them"
+msgstr "点击条目以选中它们"
+
+msgid "Collection View"
+msgstr "集锦视图"
+
+msgid "Colors"
+msgstr "颜色"
+
+msgid "Contrast"
+msgstr "对比度"
+
+msgid "Create _New"
+msgstr "新建(_N)"
+
+msgid "Crop"
+msgstr "裁剪"
+
+msgid "D-Bus address to use"
+msgstr "要使用的 D-Bus 地址"
+
+msgid "DLNA Renderer Devices"
+msgstr "DLNA 渲染设备"
+
+msgid "Date Created"
+msgstr "创建日期"
+
+msgid "Date Modified"
+msgstr "修改日期"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Denoise"
+msgstr "降噪"
+
+msgid "Devices"
+msgstr "设备"
+
+msgctxt "Dialog title"
+msgid "Organize"
+msgstr "管理"
+
+msgid "Dimensions"
+msgstr "尺寸"
+
+msgid "Discard all Edits"
+msgstr "放弃所有编辑"
+
+msgid "Display on…"
+msgstr "显示在…"
+
+msgctxt "Document Author"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Document Title"
+msgid "Title"
+msgstr "标题"
+
+msgctxt "Document Type"
+msgid "Type"
+msgstr "类型"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "E-Mail"
+msgstr "电子邮箱"
+
+msgctxt "Edit Filter"
+msgid "None"
+msgstr "无"
+
+msgid "Edited in Photos"
+msgstr "在“照片”程序中编辑过"
+
+msgid "Empty Trash"
+msgstr "清空回收站"
+
+msgid "Enhance"
+msgstr "增强"
+
+msgid "Export"
+msgstr "导出"
+
+msgid "Export Folder"
+msgstr "导出文件夹"
+
+msgid "Export…"
+msgstr "导出…"
+
+msgid "Exposure"
+msgstr "曝光"
+
+msgid "F_ull"
+msgstr "完整(_U)"
+
+msgid "Failed to export"
+msgstr "导出失败"
+
+msgid "Failed to export: not enough space"
+msgstr "导出失败：没有足够的空间"
+
+msgid "Failed to upload photo"
+msgstr "上传照片失败"
+
+msgid "Failed to upload photo: Service not authorized"
+msgstr "上传照片失败：服务未认证"
+
+msgid "Favorites"
+msgstr "收藏"
+
+msgid "Fetching photos from %s"
+msgstr "从 %s 获取在线照片"
+
+msgid "Fetching photos from online accounts"
+msgstr "从在线账户获取照片"
+
+msgid "Filters"
+msgstr "滤镜"
+
+msgid "Flash"
+msgstr "闪光"
+
+msgid "Focal Length"
+msgstr "焦距"
+
+msgid "Free"
+msgstr "自由"
+
+msgid "Fullscreen"
+msgstr "全屏"
+
+msgid "Highlights"
+msgstr "高光"
+
+msgid "Hometown"
+msgstr "故乡"
+
+msgid "Horizontal"
+msgstr "水平"
+
+msgid "ISO Speed"
+msgstr "ISO 感光度"
+
+msgid "Image Settings"
+msgstr "图像设置"
+
+msgid "Import"
+msgstr "导入"
+
+msgid "Import…"
+msgstr "导入…"
+
+msgid "Inches"
+msgstr "英寸"
+
+msgid "Keyboard Shortcuts"
+msgstr "键盘快捷键"
+
+msgid "Landscape"
+msgstr "横向"
+
+msgid "Local"
+msgstr "本地"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Lock aspect ratio"
+msgstr "锁定长宽比"
+
+msgid "Match"
+msgstr "匹配"
+
+msgid "Millimeters"
+msgstr "毫米"
+
+msgid "Modifications"
+msgstr "修改"
+
+msgid "Mogadishu"
+msgstr "摩加迪沙"
+
+msgid "New device discovered"
+msgstr "发现了新的设备"
+
+msgid "No albums found"
+msgstr "未找到相册"
+
+msgid "No photos found"
+msgstr "未找到照片"
+
+msgid "None"
+msgstr "无"
+
+msgid "Off, did not fire"
+msgstr "关，不闪光"
+
+msgid "On, fired"
+msgstr "开，闪光"
+
+msgid "Online Accounts"
+msgstr "在线帐号"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open with %s"
+msgstr "用 %s 打开"
+
+msgid "Original"
+msgstr "原始"
+
+msgid "Photos"
+msgstr "照片"
+
+msgid "Photos from your %s and %s will appear here."
+msgstr "您在 %s 和 %s 中的照片将在此处显示。"
+
+msgid "Photos;Pictures;"
+msgstr "Photos;Pictures;照片;相片;图片;"
+
+msgid "Pictures folder"
+msgstr "图片文件夹"
+
+msgid "Portrait"
+msgstr "纵向"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Print photos"
+msgstr "打印照片"
+
+msgid "Printing “%s”: %s"
+msgstr "正在打印 \"%s\": %s"
+
+msgid "Print…"
+msgstr "打印…"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Remove from favorites"
+msgstr "从收藏移除"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Saturation"
+msgstr "饱和度"
+
+msgid "Screenshots"
+msgstr "截图"
+
+msgid "Search"
+msgstr "搜索"
+
+msgctxt "Search Filter"
+msgid "Author"
+msgstr "作者"
+
+msgctxt "Search Filter"
+msgid "Title"
+msgstr "标题"
+
+msgctxt "Search Filter"
+msgid "Type"
+msgstr "类型"
+
+msgid "Select All"
+msgstr "全选"
+
+msgid "Select Items"
+msgstr "选择项目"
+
+msgid "Select None"
+msgstr "全不选"
+
+msgid "Select favorites"
+msgstr "选择最喜爱的"
+
+msgid "Select items for import"
+msgstr "选择要导入的项目"
+
+msgid "Select items for import (%u selected)"
+msgid_plural "Select items for import (%u selected)"
+msgstr[0] "选择要导入的项目（已选中 %u 项）"
+
+msgid "Set as Background"
+msgstr "设为背景"
+
+msgid "Set as Lock Screen"
+msgstr "设置为锁定屏幕"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Shadows"
+msgstr "阴影"
+
+msgid "Sharpen"
+msgstr "锐利"
+
+msgid "Show the application's version"
+msgstr "显示应用程序版本"
+
+msgid "Show the empty state"
+msgstr "显示空状态"
+
+msgid "Size"
+msgstr "尺寸"
+
+msgid "Some photos might not be available during this process"
+msgstr "此过程中部分照片可能无法查看"
+
+msgid "Source"
+msgstr "来源"
+
+msgid "Sources"
+msgstr "来源"
+
+msgid "Starred photos will appear here"
+msgstr "有星标的照片将显示在此处"
+
+msgid "Try a different search"
+msgstr "尝试不同的搜索关键字"
+
+msgid "Unable to fetch the list of photos"
+msgstr "无法获取照片列表"
+
+msgid "Undo"
+msgstr "撤销"
+
+msgid "Untouched"
+msgstr "未改动过"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "View recent local and online photos"
+msgstr "查看最近的本地或在线照片"
+
+msgid "Window maximized"
+msgstr "窗口最大化"
+
+msgid "Window maximized state"
+msgstr "窗口最大化状态"
+
+msgid "Window position"
+msgstr "窗口位置"
+
+msgid "Window position (x and y)."
+msgstr "窗口位置（水平和竖直）。"
+
+msgid "Window size"
+msgstr "窗口大小"
+
+msgid "Window size (width and height)."
+msgstr "窗口大小（宽度和高度）。"
+
+msgid "You can create albums from the Photos view"
+msgstr "您可以从照片视图创建相册"
+
+msgid "Your %s credentials have expired"
+msgstr "您的 %s 凭据已过期"
+
+msgid "Your photos are being indexed"
+msgstr "正在索引您的照片"
+
+msgid "_Add"
+msgstr "添加(_A)"
+
+msgid "_Bottom:"
+msgstr "下(_B)："
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Export"
+msgstr "导出(_E)"
+
+msgid "_Folder Name"
+msgstr "文件夹名称(_N)"
+
+msgid "_Height:"
+msgstr "高度(_H)："
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Left:"
+msgstr "左(_L)："
+
+msgid "_OK"
+msgstr "确认(_O)"
+
+msgid "_Reduced"
+msgstr "缩减(_R)"
+
+msgid "_Right:"
+msgstr "右(_R)："
+
+msgid "_Scaling:"
+msgstr "缩放(_S)："
+
+msgid "_Select"
+msgstr "选择(_S)"
+
+msgid "_Top:"
+msgstr "上(_T)："
+
+msgid "_Unit:"
+msgstr "单位(_U)："
+
+msgid "_Width:"
+msgstr "宽度(_W)："
+
+msgctxt "dialog title"
+msgid "Export"
+msgstr "导出"
+
+msgctxt "dialog title"
+msgid "Name Album"
+msgstr "命名相册"
+
+msgctxt "dialog title"
+msgid "Share"
+msgstr "分享"
+
+msgid "org.gnome.Photos"
+msgstr "org.gnome.Photos"
+
+msgctxt "shortcut window"
+msgid "Action menu"
+msgstr "操作菜单"
+
+msgctxt "shortcut window"
+msgid "Best fit"
+msgstr "最适合"
+
+msgctxt "shortcut window"
+msgid "Cancel"
+msgstr "取消"
+
+msgctxt "shortcut window"
+msgid "Delete"
+msgstr "删除"
+
+msgctxt "shortcut window"
+msgid "Delete selected photos"
+msgstr "删除所选照片"
+
+msgctxt "shortcut window"
+msgid "Edit"
+msgstr "编辑"
+
+msgctxt "shortcut window"
+msgid "Edit view"
+msgstr "编辑视图"
+
+msgctxt "shortcut window"
+msgid "Export"
+msgstr "导出"
+
+msgctxt "shortcut window"
+msgid "Fullscreen"
+msgstr "全屏"
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr "常规"
+
+msgctxt "shortcut window"
+msgid "Go back"
+msgstr "后退"
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr "导航"
+
+msgctxt "shortcut window"
+msgid "Next photo"
+msgstr "下一张照片"
+
+msgctxt "shortcut window"
+msgid "Overview"
+msgstr "概览"
+
+msgctxt "shortcut window"
+msgid "Photo view"
+msgstr "照片视图"
+
+msgctxt "shortcut window"
+msgid "Previous photo"
+msgstr "上一张照片"
+
+msgctxt "shortcut window"
+msgid "Print"
+msgstr "打印"
+
+msgctxt "shortcut window"
+msgid "Print selected photos"
+msgstr "打印所选照片"
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr "退出"
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr "搜索"
+
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr "全选"
+
+msgctxt "shortcut window"
+msgid "Show help"
+msgstr "显示帮助"
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr "放大"
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr "缩小"
+
+msgid "translator-credits"
+msgstr ""
+"tuhaihe <1132321739qq@gmail.com>, 2012, 2013\n"
+"甘露(Lu Gan) <rhythm.gan@gmail.com>, 2013\n"
+"Tong Hui <tonghuix@gmail.com>, 2013\n"
+"Dingzhong Chen <wsxy162@gmail.com>, 2016\n"
+"Mingcong Bai <jeffbai@aosc.xyz>, 2015, 2018\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Jeff Bai https://launchpad.net/~jeffbai"
+
+msgid "“%s” deleted"
+msgstr "已删除 %s"
+
+msgid "“%s” edited"
+msgstr "%s 已被编辑"
+
+msgid "“%s” exported"
+msgstr "“%s”已导出"
+
+msgid "“%s” shared"
+msgstr "已共享“%s”"

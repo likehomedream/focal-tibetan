@@ -1,0 +1,144 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-tetravex&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 03:16+0000\n"
+"Last-Translator: liushuyu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:22+0000\n"
+
+msgid "Are you sure you want to give up and view the solution?"
+msgstr "您确定想要放弃并查看解法？"
+
+msgid "Are you sure you want to start a new game with a different board size?"
+msgstr "您想要使用不同的版面大小启动新游戏吗？"
+
+msgid "Complete the puzzle by matching numbered tiles"
+msgstr "匹配编号的方块来完成谜题"
+
+msgid "Date"
+msgstr "日期"
+
+msgid "GNOME Tetravex"
+msgstr "GNOME 四邻"
+
+msgid "Give up and view the solution"
+msgstr "放弃并查看解法"
+
+msgid "Height of the window in pixels"
+msgstr "主窗口的高度(像素)"
+
+msgid "New Game"
+msgstr "新游戏"
+
+msgid "OK"
+msgstr "确认"
+
+msgid "Pause the game"
+msgstr "暂停游戏"
+
+msgid "Paused"
+msgstr "暂停"
+
+msgid "Position pieces so that the same numbers are touching each other"
+msgstr "放置方块使相同数字相邻"
+
+msgid "Print release version and exit"
+msgstr "显示版本并退出"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Reorder tiles to fit a square"
+msgstr "调整方块以填满一个方框"
+
+msgid "Resume the game"
+msgstr "继续游戏"
+
+msgid "Set size of board (2-6)"
+msgstr "设置盘面的大小(2-6)"
+
+msgid "Size could only be from 2 to 6.\n"
+msgstr "尺寸只能从2到6。\n"
+
+msgid "Size:"
+msgstr "大小："
+
+msgid "Start a new game"
+msgstr "开始新游戏"
+
+msgid "Start the game paused"
+msgstr "开始暂停的游戏"
+
+msgid "Tetravex"
+msgstr "四邻"
+
+msgid "The size of the playing grid"
+msgstr "游戏网格大小"
+
+msgid "The value of this key is used to decide the size of the playing grid."
+msgstr "此键的值用于决定游戏网格的大小。"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Width of the window in pixels"
+msgstr "主窗口的宽度(像素)"
+
+msgid ""
+"You can make the game easier or harder by changing the size of the board."
+msgstr "您可以通过改变棋盘的大小来增加或降低难度。"
+
+msgid "_2x2"
+msgstr "_2x2"
+
+msgid "_3x3"
+msgstr "_3x3"
+
+msgid "_4x4"
+msgstr "_4x4"
+
+msgid "_5x5"
+msgstr "_5x5"
+
+msgid "_6x6"
+msgstr "_6x6"
+
+msgid "_Give Up"
+msgstr "放弃(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Keep Playing"
+msgstr "保持游戏中(_K)"
+
+msgid "_New Game"
+msgstr "新建游戏(_N)"
+
+msgid "_Scores"
+msgstr "得分(_S)"
+
+msgid "_Start New Game"
+msgstr "开始新游戏(_S)"
+
+msgid "game;logic;board;"
+msgstr "game;logic;board;游戏;逻辑;棋牌;"
+
+msgid "translator-credits"
+msgstr ""
+"Yang Zhang <zyangmath@gmail.com>, 2007\n"
+"Ping Z <zpsigma@gmail.com>, 2007\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"Tong Hui <tonghuix@gmail.com>, 2014\n"
+"\n"
+"Launchpad Contributions:\n"
+"  liushuyu https://launchpad.net/~liushuyu-011-y"
+
+msgid "true if the window is maximized"
+msgstr "若窗口已最大化则为 true"

@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+ master\n"
+"Report-Msgid-Bugs-To: ubiquity@packages.debian.org\n"
+"PO-Revision-Date: 2019-10-07 19:33+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:30+0000\n"
+
+msgid "%H:%M"
+msgstr "%H:%M"
+
+msgid "%l:%M %p"
+msgstr "%p %l:%M"
+
+msgid "24-hour"
+msgstr "24-hour"
+
+msgctxt "Stock label"
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgctxt "Stock label"
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgctxt "Stock label"
+msgid "_No"
+msgstr "否(_N)"
+
+msgctxt "Stock label"
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgctxt "Stock label"
+msgid "_Quit"
+msgstr "退出(_Q)"
+
+msgctxt "Stock label"
+msgid "_Yes"
+msgstr "是(_Y)"
+
+msgctxt "Stock label, navigation"
+msgid "_Back"
+msgstr "后退(_B)"
+
+msgid "default:LTR"
+msgstr "default:LTR"

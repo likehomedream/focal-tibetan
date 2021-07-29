@@ -1,0 +1,5385 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: glade3 3.20\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-05 02:37+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:07+0000\n"
+
+msgid " < Search Widgets >"
+msgstr " < 搜索组件 >"
+
+msgid " and "
+msgstr " 和 "
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+"%s\n"
+"执行“%s --help”来查看可用的命令的完整列表。\n"
+
+msgid "%s - %s Properties"
+msgstr "%s - %s 属性"
+
+msgid "%s Properties - %s"
+msgstr "%s 属性 - %s"
+
+msgid "%s Properties - %s [%s]"
+msgstr "%s 属性 - %s [%s]"
+
+msgid "%s already has a menu."
+msgstr "%s 已经有一个菜单。"
+
+msgid "%s document properties"
+msgstr "%s 文档属性"
+
+msgid "%s does not support adding any children."
+msgstr "%s 不支持添加任何子项。"
+
+msgid "%s is locked by %s, edit %s first."
+msgstr "%s 被 %s 锁定，请先编辑 %s。"
+
+msgid "%s is set to load %s from the model"
+msgstr "%s 设置以从该模型中加载 %s"
+
+msgid "%s is set to manipulate %s directly"
+msgstr "%s 设置以直接操作 %s"
+
+msgid "%s item already has a submenu."
+msgstr "%s条目已经有一个子菜单"
+
+msgid "%s targets Gtk+ %d.%d"
+msgstr "%s 使用 Gtk+ %d.%d"
+
+msgid "%s::%s emitted %d times"
+msgstr "%s::%s 已发送 %d 次"
+
+msgid "%s::%s emitted one time"
+msgstr "%s::%s 已发送 1 次"
+
+msgid "(%s child)"
+msgstr "(%s 子结点)"
+
+msgid "(%s of %s)"
+msgstr "(%2$s 的 %1$s)"
+
+msgid "(default)"
+msgstr "(默认)"
+
+msgid "(internal %s)"
+msgstr "(内部的 %s)"
+
+msgid "(template)"
+msgstr "(模板)"
+
+msgid "(unnamed)"
+msgstr "（未命名）"
+
+msgid "- previews a glade UI definition"
+msgstr "- 预览 glade UI 定义"
+
+msgid "0"
+msgstr "0"
+
+msgid "2000"
+msgstr "2000"
+
+msgid "2003"
+msgstr "2003"
+
+msgid "2008"
+msgstr "2008"
+
+msgid "2012"
+msgstr "2012"
+
+msgid "3.8 for GTK+ 2"
+msgstr "3.8 for GTK+ 2"
+
+msgid "7"
+msgstr "7"
+
+msgid "8"
+msgstr "8"
+
+msgid "< define a new column >"
+msgstr "< 定义一个新的栏 >"
+
+msgid "<Enter ID>"
+msgstr "<输入 ID>"
+
+msgid "<Enter Value>"
+msgstr "<输入值>"
+
+msgid "<Insert update token, if you want to update previously sent data>"
+msgstr "<如果您想更新以前发送的数据，请插入更新令牌>"
+
+msgid "<Required to send back registration token>"
+msgstr "<需要填写，以发回注册令牌>"
+
+msgid "<Type Here>"
+msgstr "<在这里输入>"
+
+msgid "<Your name or nickname is required>"
+msgstr "<需要填写您的姓名或昵称>"
+
+msgid ""
+"<big><b>Tips:</b></big>\n"
+"  * Right-click over the treeview to add items.\n"
+"  * Press Delete to remove the selected item.\n"
+"  * Drag &amp; Drop to reorder.\n"
+"  * Type column is editable."
+msgstr ""
+"<big><b>提示：</b></big>\n"
+"  * 在树视图右单击可以添加条目。\n"
+"  * 按下删除键可以删除条目。\n"
+"  * 拖拽 &amp; 放下可以重新排序。\n"
+"  * 类型列是可编辑的。"
+
+msgid "<choose a key>"
+msgstr "<选择一个键>"
+
+msgid "<custom>"
+msgstr "<定制>"
+
+msgid "<separator>"
+msgstr "<分割条>"
+
+msgid "A GDK color value"
+msgstr "GDK 颜色值"
+
+msgid "A GladeCreateReason for this creation"
+msgstr "GladeCreateReason 用来说明此创建的原因"
+
+msgid "A GladeWidget template to base a new widget on"
+msgstr "GladeWidget模板做为新组件基模板"
+
+msgid "A builtin stock image"
+msgstr "一幅内部库存的图像"
+
+msgid "A builtin stock item"
+msgstr "一个内部库存的条目"
+
+msgid "A cursor for inserting widgets in the UI"
+msgstr "用于插入组件到 UI 的指针"
+
+msgid "A derived adaptor (%s) of %s already exist!"
+msgstr "%2$s 的一个继承的适配器(%1$s)已存在！"
+
+msgid "A few times a month"
+msgstr "一个月几次"
+
+msgid "A few times a year"
+msgstr "一年几次"
+
+msgid "A generic name prefix for internal widgets"
+msgstr "内部组件的常规名称前缀"
+
+msgid "A list of GladeProperties"
+msgstr "一组 GladeProperties 列表"
+
+msgid "A list of accel groups to be added to this window"
+msgstr "添加到该窗口的加速组列表"
+
+msgid "A list of accelerator keys"
+msgstr "快捷键列表"
+
+msgid "A list of objects"
+msgstr "一组对象的列表"
+
+msgid "A list of sources for this icon factory"
+msgstr "这个图标工厂的源列表"
+
+msgid "A list of style class names to apply to this widget"
+msgstr "要应用于该组件的样式类名列表"
+
+msgid "A pointer to the parenting GladeWidget"
+msgstr "到上一级 Gladewidget 的指针"
+
+msgid "A radical expression (in math)"
+msgstr "根式（数学）"
+
+msgid "A symbolic icon size for the stock icon"
+msgstr "库存图标的符号图标大小"
+
+msgid "A user interface designer for GTK+ and GNOME."
+msgstr "GTK+ 和 GNOME 的用户界面设计器"
+
+msgid "A warning string about version mismatches"
+msgstr "关于版本不匹配的警告字符串"
+
+msgid "About"
+msgstr "关于"
+
+msgid "About Dialog"
+msgstr "关于对话框"
+
+msgid "Above Lines:"
+msgstr "行上方："
+
+msgid "Academic"
+msgstr "学术"
+
+msgid "Accel Group"
+msgstr "快捷键组"
+
+msgid "Accel Label"
+msgstr "快捷键标签"
+
+msgid "Accelerator"
+msgstr "快捷键"
+
+msgid "Accelerator Key"
+msgstr "快捷键"
+
+msgid "Accelerator Label"
+msgstr "加速器标签"
+
+msgid "Accelerator Mode column"
+msgstr "快捷键模式栏"
+
+msgid "Accelerator Modifiers column"
+msgstr "快捷键修饰栏"
+
+msgid "Accelerator Renderer"
+msgstr "快捷键渲染"
+
+msgid "Accelerators"
+msgstr "快捷键"
+
+msgid "Accessibility"
+msgstr "辅助"
+
+msgid "Accessible Description"
+msgstr "辅助描述"
+
+msgid "Accessible Name"
+msgstr "辅助名称"
+
+msgid "Accounting"
+msgstr "金融"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Action Attributes"
+msgstr "动作特性"
+
+msgid "Action Bar"
+msgstr "动作栏"
+
+msgid "Action Group"
+msgstr "动作组"
+
+msgid "Action Group Editor"
+msgstr "动作组编辑器"
+
+msgid "Action Name"
+msgstr "动作名称"
+
+msgid "Actions"
+msgstr "动作"
+
+msgid "Activatable / Actionable"
+msgstr "可激活的 / 有动作的"
+
+msgid "Activatable column"
+msgstr "可激活栏"
+
+msgid "Activate"
+msgstr "激活"
+
+msgid "Active column"
+msgstr "激活栏"
+
+msgid "Adaptor"
+msgstr "适配器"
+
+msgid "Add %s"
+msgstr "增加 %s"
+
+msgid "Add Child"
+msgstr "添加子项"
+
+msgid "Add Item"
+msgstr "添加条目"
+
+msgid "Add Parent"
+msgstr "添加上一级"
+
+msgid "Add Row"
+msgstr "增加行"
+
+msgid "Add Slot"
+msgstr "增加插槽"
+
+msgid "Add a %s to %s"
+msgstr "加一个 %s 到 %s 上"
+
+msgid "Add a new catalog search path"
+msgstr "添加新的分类搜索路径"
+
+msgid "Add and remove columns:"
+msgstr "添加和删除栏："
+
+msgid "Add and remove rows:"
+msgstr "添加和删除行："
+
+msgid "Add center child"
+msgstr "添加中心子项"
+
+msgid "Add child %s"
+msgstr "添加子项 %s"
+
+msgid "Add custom content"
+msgstr "添加自定义内容"
+
+msgid ""
+"Add remove and edit rows of data (you can optionally use Ctrl+N to add new "
+"rows and the Delete key to remove the selected row)"
+msgstr "添加、删除和修改数据行（您也可以使用 Ctrl+N 来添加新行，或按删除键来删除选中的行）"
+
+msgid "Add signal handler %s"
+msgstr "添加信号处理函数 %s"
+
+msgid "Add to Size Group"
+msgstr "添加一个尺寸组"
+
+msgid "Add widget as _toplevel"
+msgstr "在顶层添加组件(_T)"
+
+msgid "Adding %s to Size Group %s"
+msgstr "添加 %s 到尺寸组 %s"
+
+msgid "Adding %s to a new Size Group"
+msgstr "添加 %s 至新的尺寸组"
+
+msgid "Adding parent %s for %s"
+msgstr "添加上一级 %s 给 %s"
+
+msgid "Adjustment"
+msgstr "调整"
+
+msgid "Adjustment column"
+msgstr "调整栏"
+
+msgid "Adjustment:"
+msgstr "调整："
+
+msgid "Advanced"
+msgstr "高级水平"
+
+msgid "After"
+msgstr "之后"
+
+msgid "Alert"
+msgstr "警告"
+
+msgid "Alignment"
+msgstr "对齐"
+
+msgid "Alignment and Padding"
+msgstr "对齐及填充"
+
+msgid "Alignment column"
+msgstr "对齐栏"
+
+msgid "All Contexts"
+msgstr "全部上下文"
+
+msgid "All Events"
+msgstr "全部事件"
+
+msgid "All Files"
+msgstr "全部文件"
+
+msgid "All Glade Files"
+msgstr "全部 Glade 文件"
+
+msgid "All Modifiers"
+msgstr "全部修饰"
+
+msgid ""
+"All the data will be stored in a private location and will not be shared "
+"with the public or any third party."
+msgstr "所有数据将私密保存，不会公开或透露给第三方组织。"
+
+msgid "Alpha"
+msgstr "Alpha"
+
+msgid "Alt Key"
+msgstr "Alt 键"
+
+msgid "Always"
+msgstr "总是"
+
+msgid "Always Center"
+msgstr "总是在中心"
+
+msgid "An accelerator key for this action"
+msgstr "为这个动作设置一个快捷键"
+
+msgid ""
+"An automatically saved version of `%s' is more recent.\n"
+"\n"
+"Would you like to load the autosave version instead?"
+msgstr ""
+"有一份“%s”自动保存的版本比它新。\n"
+"您是否愿意转而加载自动保存的版本？"
+
+msgid "An entry"
+msgstr "一个条目"
+
+msgid "An object of type %s cannot have any children."
+msgstr "类型的对象 %s 不能拥有子项。"
+
+msgid "Anarchist"
+msgstr "扰乱者"
+
+msgid "Animation"
+msgstr "动画"
+
+msgid "Apache 2"
+msgstr "Apache 2"
+
+msgid "App Chooser Button Attributes"
+msgstr "程序选择器按钮特性"
+
+msgid "App Chooser Widget Attributes"
+msgstr "程序选择器组件特性"
+
+msgid "Appearance"
+msgstr "外观"
+
+msgid "Append Colon"
+msgstr "附加冒号"
+
+msgid "Application"
+msgstr "应用程序"
+
+msgid "Application Chooser Button"
+msgstr "应用程序选择按钮"
+
+msgid "Application Chooser Dialog"
+msgstr "应用程序选择对话"
+
+msgid "Application Chooser Widget"
+msgstr "应用程序选择组件"
+
+msgid "Application Window"
+msgstr "程序窗口"
+
+msgid "Applications"
+msgstr "应用程序"
+
+msgid "Arch Linux"
+msgstr "Arch Linux"
+
+msgid "Arrow"
+msgstr "箭头"
+
+msgid "Article"
+msgstr "文章"
+
+msgid "Artistic"
+msgstr "艺术"
+
+msgid "Artists"
+msgstr "艺术家"
+
+msgid "Ascending"
+msgstr "上升"
+
+msgid "Aspect Frame"
+msgstr "外观框架"
+
+msgid "Assistant"
+msgstr "助手"
+
+msgid "Attached To:"
+msgstr "附加到："
+
+msgid "Attribute"
+msgstr "特性"
+
+msgid "Attributes"
+msgstr "特性"
+
+msgid "Attributes column"
+msgstr "特性栏"
+
+msgid "Audio"
+msgstr "音频"
+
+msgid "Authentication"
+msgstr "验证"
+
+msgid "Author(s):"
+msgstr "作者："
+
+msgid "Authors"
+msgstr "作者"
+
+msgid "Autocomplete"
+msgstr "自动完成"
+
+msgid "Automatic"
+msgstr "自动"
+
+msgid "Automatically save project after"
+msgstr "自动保存项目，若超过"
+
+msgid ""
+"Automatically save the project to an alternate file whenever\n"
+"the project is modified and the specified timeout elapses"
+msgstr "每当项目有改动或超过指定时间后就将项目另存为一个文件"
+
+msgid "Automatically wrap"
+msgstr "自动折行"
+
+msgid "Autosaving '%s'"
+msgstr "正在自动保存“%s”"
+
+msgid "BSD"
+msgstr "BSD"
+
+msgid "BSD 2-clause"
+msgstr "BSD 2-clause"
+
+msgid "BSD 3-clause"
+msgstr "BSD 3-clause"
+
+msgid "Background Color Name column"
+msgstr "背景色名称栏"
+
+msgid "Background Color column"
+msgstr "背景色栏"
+
+msgid "Background RGBA column"
+msgstr "RGBA 背景栏"
+
+msgid "Baseline"
+msgstr "基准线"
+
+msgid "Baseline:"
+msgstr "基准线："
+
+msgid "Before"
+msgstr "前"
+
+msgid "Beginner"
+msgstr "初学者"
+
+msgid "Below Lines:"
+msgstr "行下方："
+
+msgid "Block Quote"
+msgstr "块引用"
+
+msgid "Book"
+msgstr "书籍"
+
+msgid "Both"
+msgstr "都"
+
+msgid "Bottom"
+msgstr "底"
+
+msgid "Bottom Left"
+msgstr "左下"
+
+msgid "Bottom Right"
+msgstr "右下"
+
+msgid "Bottom to Top"
+msgstr "自底至顶"
+
+msgid "Bottom:"
+msgstr "底部："
+
+msgid "Box"
+msgstr "框"
+
+msgid "Box Attributes"
+msgstr "框特性"
+
+msgid "Broken pipe!\n"
+msgstr "管道已破损！\n"
+
+msgid "Browse"
+msgstr "浏览"
+
+msgid ""
+"But this version of Glade is for GTK+ 3 only.\n"
+"Make sure you can run this project with Glade 3.8 with no deprecated widgets first.\n"
+"%s"
+msgstr ""
+"此版本的 Glade 仅支持 GTK+ 3。\n"
+"请先确定此项目不使用废弃的组件便能运行于 Glade 3.8 上。\n"
+"%s"
+
+msgid "Button"
+msgstr "按钮"
+
+msgid "Button 1 Motion"
+msgstr "按钮1移动"
+
+msgid "Button 2 Motion"
+msgstr "按钮2移动"
+
+msgid "Button 3 Motion"
+msgstr "按钮3移动"
+
+msgid "Button Attributes"
+msgstr "按钮特性"
+
+msgid "Button Box"
+msgstr "按钮框"
+
+msgid "Button Content"
+msgstr "按钮内容"
+
+msgid "Button Motion"
+msgstr "按钮移动"
+
+msgid "Button Orientation:"
+msgstr "按钮排列方向："
+
+msgid "Button Press"
+msgstr "按钮按下"
+
+msgid "Button Release"
+msgstr "按钮释放"
+
+msgid ""
+"By using GtkBuilder, Glade XML files can be used in numerous programming "
+"languages including C, C++, C#, Vala, Java, Perl, Python, and others."
+msgstr ""
+"通过使用 GtkBuilder，Glade XML 文件可以在多种程序设计语言中使用，包括 C, C++, C#, Vala, Java, Perl, "
+"Python 等。"
+
+msgid "C"
+msgstr "C"
+
+msgid "C#"
+msgstr "C#"
+
+msgid "C++"
+msgstr "C++"
+
+msgid "CSS Provider Path"
+msgstr "CSS 提供器路径"
+
+msgid "CSS file to use"
+msgstr "要使用的 CSS 文件"
+
+msgid "C_lear"
+msgstr "清除(_L)"
+
+msgid "C_ontexts:"
+msgstr "上下文(_C)："
+
+msgid "Calendar"
+msgstr "日历"
+
+msgid "Can resize"
+msgstr "可改变大小"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Cannot add a popover to a container."
+msgstr "无法添加一个弹出框到容器。"
+
+msgid "Cannot add a toplevel window to a container."
+msgstr "无法添加一个顶层窗口到容器。"
+
+msgid ""
+"Cannot add non scrollable %s widget to a %s directly.\n"
+"Add a %s first."
+msgstr ""
+"无法直接添加无法滚动的 %s 组件到 %s。\n"
+"请先添加一个 %s。"
+
+msgid "Canvas"
+msgstr "画布"
+
+msgid "Caption"
+msgstr "标题"
+
+msgid "Catalog"
+msgstr "分类"
+
+msgid "Categories"
+msgstr "类型"
+
+msgid "Cell Background Color column"
+msgstr "单元格背景色栏"
+
+msgid "Cell Background Color name column"
+msgstr "单元格背景色名称栏"
+
+msgid "Cell Background RGBA column"
+msgstr "RGBA 的单元格背景栏"
+
+msgid "Cell Renderer"
+msgstr "单元格渲染"
+
+msgid "Cell Spacing:"
+msgstr "单元格间距"
+
+msgid "Center"
+msgstr "中心"
+
+msgid "Center Child"
+msgstr "中心子项"
+
+msgid "Center on Parent"
+msgstr "在上一级的中心"
+
+msgid "Change signal handler %s"
+msgstr "改变信号处理函数 %s"
+
+msgid "Character"
+msgstr "字符"
+
+msgid "Chart"
+msgstr "图表"
+
+msgid "Check"
+msgstr "复选"
+
+msgid "Check Box"
+msgstr "复选框"
+
+msgid "Check Button"
+msgstr "复选按钮"
+
+msgid "Check Menu Item"
+msgstr "复选菜单栏目"
+
+msgid "Check item"
+msgstr "复选条目"
+
+msgid "Child alignments:"
+msgstr "子组件对齐："
+
+msgid "Children cannot be added to a Recent Chooser Menu."
+msgstr "子项不能添加到最近选择的菜单"
+
+msgid "Children cannot be added to a separator."
+msgstr "子项不能添加到分割条。"
+
+msgid "Choose %s type objects in this project"
+msgstr "选择项目中 %s 类型的对象"
+
+msgid "Choose a %s in this project"
+msgstr "在项目中选择 %s"
+
+msgid ""
+"Choose a Data Model and define some\n"
+"columns in the data store first"
+msgstr ""
+"选择数据模型并且先在数据库中\n"
+"定义一些栏"
+
+msgid "Choose a parentless %s in this project"
+msgstr "选择项目中无从属的 %s"
+
+msgid "Choose a path to load image resources"
+msgstr "选择一个路径以加载图像资源"
+
+msgid "Choose accelerator keys..."
+msgstr "选择快捷键..."
+
+msgid "Choose parentless %s type objects in this project"
+msgstr "在项目中选择无从属 %s 类型对象"
+
+msgid "Choose your country"
+msgstr "选择您所在的国家"
+
+msgid "City:"
+msgstr "城市："
+
+msgid "Class"
+msgstr "类"
+
+msgid "Class Field"
+msgstr "类字段"
+
+msgid "Class Name:"
+msgstr "类名称："
+
+msgid "Clear properties"
+msgstr "清除属性"
+
+msgid "Click"
+msgstr "单击"
+
+msgid "Client side window decorations"
+msgstr "窗口边框特效"
+
+msgid "Climb Rate column"
+msgstr "爬升率栏"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close _without Saving"
+msgstr "关闭而不保存(_W)"
+
+msgid "Co_mments for translators:"
+msgstr "翻译者注释(_M)："
+
+msgid "Collate"
+msgstr "校对"
+
+msgid "Color"
+msgstr "颜色"
+
+msgid "Color Button"
+msgstr "颜色按钮"
+
+msgid "Color Chooser"
+msgstr "颜色拾取器"
+
+msgid "Color Chooser Dialog"
+msgstr "颜色选择器对话框"
+
+msgid "Color Chooser Widget"
+msgstr "颜色选择器组件"
+
+msgid "Color Picker"
+msgstr "颜色拾取器"
+
+msgid "Color Selection"
+msgstr "颜色选择器"
+
+msgid "Color Selection Dialog"
+msgstr "颜色选择对话框"
+
+msgid "Column"
+msgstr "栏"
+
+msgid "Column Header"
+msgstr "列标头"
+
+msgid "Column name"
+msgstr "栏名称"
+
+msgid "Column type"
+msgstr "栏类型"
+
+msgid "Columns"
+msgstr "栏"
+
+msgid ""
+"Columns must have a fixed size inside a treeview with fixed height mode set"
+msgstr "一个固定高度模式集的treeview中的列必须有一个固定大小"
+
+msgid "Columns:"
+msgstr "列："
+
+msgid "Combo"
+msgstr "组合"
+
+msgid "Combo Box"
+msgstr "组合框"
+
+msgid "Combo Box Attributes"
+msgstr "组合框特性"
+
+msgid "Combo Box Text"
+msgstr "组合框的文本"
+
+msgid "Combo Box Text Attributes"
+msgstr "组合框的文本特性"
+
+msgid "Combo Editor"
+msgstr "组合编辑器"
+
+msgid "Combo Renderer"
+msgstr "组合渲染器"
+
+msgid "Comment"
+msgstr "注释"
+
+msgid "Comment for translators"
+msgstr "为翻译者写的注释"
+
+msgid "Comments"
+msgstr "评论"
+
+msgid "Comments:"
+msgstr "评论："
+
+msgid "Commercial/Closed software"
+msgstr "商业/闭源软件"
+
+msgid "Common"
+msgstr "常用"
+
+msgid "Common Properties and Attributes"
+msgstr "通用属性和特性"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Composite"
+msgstr "复合"
+
+msgid "Composite Widgets"
+msgstr "组合组件"
+
+msgid "Composite template toplevel:"
+msgstr "复合模板顶层："
+
+msgid "Condensed"
+msgstr "压缩的"
+
+msgid "Confirm"
+msgstr "确定"
+
+msgid "Confirmation page"
+msgstr "确认页"
+
+msgid "Connecting to %s"
+msgstr "正在连接 %s"
+
+msgid "Container"
+msgstr "容器"
+
+msgid "Containers"
+msgstr "容器"
+
+msgid "Conte_xt for translation:"
+msgstr "为翻译者写的注释(_X)："
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Content page"
+msgstr "内容页"
+
+msgid "Context"
+msgstr "上下文"
+
+msgid "Context for translation"
+msgstr "翻译的上下文"
+
+msgid "Continuous"
+msgstr "连续的"
+
+msgid "Control Key"
+msgstr "Control 键"
+
+msgid "Controlled By"
+msgstr "控制者"
+
+msgid "Controller For"
+msgstr "控制器对象"
+
+msgid "Copies"
+msgstr "副本数"
+
+msgid "Copyright"
+msgstr "版权所有"
+
+msgid "Copyright:"
+msgstr "版权所有："
+
+msgid "Could not create a new project."
+msgstr "无法创建新项目。"
+
+msgid "Could not create directory: %s"
+msgstr "无法创建文件夹：%s"
+
+msgid "Could not get the type from \"%s\""
+msgstr "无法从“%s”获知类型"
+
+msgid "Could not save file %s. Another project with that path is open."
+msgstr "无法保存 %s 文件 。另一个打开的项目正在使用该路径。"
+
+msgid "Could not save the file %s"
+msgstr "无法保存 %s 文件"
+
+msgid "Could not show link:"
+msgstr "无法显示链接："
+
+msgid "Couldn't load builder definition: %s"
+msgstr "无法加载构建定义：%s"
+
+msgid "Count:"
+msgstr "计数："
+
+msgid "Country:"
+msgstr "国家："
+
+msgid "Crea_te"
+msgstr "创建(T)"
+
+msgid "Create %s"
+msgstr "创建 %s"
+
+msgid "Create Folder"
+msgstr "创建目录"
+
+msgid "Create a %s"
+msgstr "创建 %s"
+
+msgid ""
+"Create a backup of the last version of the project every time the project is"
+" saved"
+msgstr "每次保存该项目时都创建一份该项目上一版本的备份"
+
+msgid "Create a new project"
+msgstr "创建一个项目。"
+
+msgid "Create backups"
+msgstr "创建备份"
+
+msgid "Create or edit user interface designs for GTK+ or GNOME applications."
+msgstr "创建或编辑 GTK+ 或 GNOME 应用程序用户界面设计"
+
+msgid "Create or open user interface designs for GTK+ applications"
+msgstr "创建或打开 GTK+ 程序用户界面设计"
+
+msgid "Creates dummy widget class to load a template"
+msgstr "创建用来加载模板的哑(dummy)部件类"
+
+msgid "Creating %s for %s of %s"
+msgstr "为 %3$s 的 %2$s 创建 %1$s"
+
+msgid "Credits"
+msgstr "致谢"
+
+msgid "Crossfade"
+msgstr "淡入淡出"
+
+msgid "Cu_t"
+msgstr "剪切(_T)"
+
+msgid "Cursor"
+msgstr "指针"
+
+msgid "Custom"
+msgstr "定制"
+
+msgid "Custom CSS style provider:"
+msgstr "自定义 CSS 样式提供器："
+
+msgid "Custom Text"
+msgstr "自定义文本"
+
+msgid "Custom Text to display in the property label"
+msgstr "显示在属性标签中的自定义文本"
+
+msgid "Custom Title"
+msgstr "自定义标题"
+
+msgid "Custom Tooltip"
+msgstr "自定义工具提示"
+
+msgid "Custom label and image:"
+msgstr "自定义标签和图像："
+
+msgid "Custom text to override the property name"
+msgstr "覆盖属性名称的自定义文本"
+
+msgid "Custom title"
+msgstr "自定义标题"
+
+msgid "Custom tooltip to override the property description"
+msgstr "要覆盖属性描述的自定义工具提示"
+
+msgid "Cut %s"
+msgstr "剪切 %s"
+
+msgid "Data"
+msgstr "数据"
+
+msgid "Data column"
+msgstr "数据栏"
+
+msgid "Date Editor"
+msgstr "日期编辑器"
+
+msgid "Debian"
+msgstr "Debian"
+
+msgid "Default"
+msgstr "默认"
+
+msgid ""
+"Define columns for your liststore; giving them meaningful names will help "
+"you to retrieve them when setting cell renderer attributes (press the Delete"
+" key to remove the selected column)"
+msgstr "为你的列表库定义一个栏；使用一个有意义的名字会帮助你在设置单元格渲染特性的时候找到它们（按删除键删除选中的栏）"
+
+msgid "Definition"
+msgstr "定义"
+
+msgid "Delayed"
+msgstr "延迟"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Delete %s"
+msgstr "删除 %s"
+
+msgid "Delete %s child from %s"
+msgstr "从 %2$s 删除 %1$s 子结点"
+
+msgid "Delete All"
+msgstr "删除全部"
+
+msgid "Deprecated"
+msgstr "已弃用"
+
+msgid "Deprecation warnings"
+msgstr "废弃警告"
+
+msgid "Descending"
+msgstr "下降的"
+
+msgid "Described By"
+msgstr "描述者"
+
+msgid "Description For"
+msgstr "说明目标"
+
+msgid "Description List"
+msgstr "描述列表"
+
+msgid "Description Term"
+msgstr "描述条件"
+
+msgid "Description Value"
+msgstr "描述值"
+
+msgid "Description of an object, formatted for assistive technology access"
+msgstr "对象的说明，为辅助技术存取已格式化"
+
+msgid "Description:"
+msgstr "描述："
+
+msgid "Design View"
+msgstr "设计视图"
+
+msgid "Desktop"
+msgstr "桌面"
+
+msgid "Desktop Frame"
+msgstr "桌面框架"
+
+msgid "Desktop Icon"
+msgstr "桌面图标"
+
+msgid "Desktop applications"
+msgstr "桌面应用程序"
+
+msgid "Detail"
+msgstr "详细"
+
+msgid "Details"
+msgstr "细节"
+
+msgid "DevHelp search namespace for this widget class"
+msgstr "此组件类的 Devhelp 搜索名字空间"
+
+msgid "Devices"
+msgstr "设备"
+
+msgid "Dial"
+msgstr "拨号"
+
+msgid "Dialog"
+msgstr "对话框"
+
+msgid "Dialog Box"
+msgstr "对话框"
+
+msgid "Digits"
+msgstr "数位"
+
+msgid "Digits column"
+msgstr "数字栏"
+
+msgid "Directory"
+msgstr "文件夹"
+
+msgid "Disable Check"
+msgstr "禁用检查"
+
+msgid "Disable Devhelp integration"
+msgstr "禁用 Devhelp 集成"
+
+msgid "Disabling property %s on widget %s"
+msgstr "正在组件 %2$s 上禁用属性 %1$s"
+
+msgid "Discontinuous"
+msgstr "间断"
+
+msgid "Discrete"
+msgstr "离散"
+
+msgid "Display previewer version"
+msgstr "显示预览者版本"
+
+msgid "Do you want to reload the project?"
+msgstr "您想重新加载该项目吗？"
+
+msgid "Dock"
+msgstr "停靠"
+
+msgid "Document Email"
+msgstr "邮件文档"
+
+msgid "Document Frame"
+msgstr "文档框架"
+
+msgid "Document Presentation"
+msgstr "幻灯片文档"
+
+msgid "Document Spreadsheet"
+msgstr "电子表格文档"
+
+msgid "Document Text"
+msgstr "文本文档"
+
+msgid "Document Web"
+msgstr "网络文档"
+
+msgid "Documenters"
+msgstr "文档撰写者"
+
+msgid "Double"
+msgstr "双倍"
+
+msgid "Down"
+msgstr "下"
+
+msgid "Drag %s and Drop to %s"
+msgstr "将 %s 拖放到 %s"
+
+msgid "Drag & Drop"
+msgstr "拖拽 & 放下"
+
+msgid "Drag and Drop"
+msgstr "拖放"
+
+msgid "Drag and Drop Multiple"
+msgstr "拖放多个"
+
+msgid "Draw frame around entry"
+msgstr "绘制输入条周围的框"
+
+msgid "Drawing Area"
+msgstr "绘图区域"
+
+msgid "Drop Down Menu"
+msgstr "下拉式菜单"
+
+msgid "East"
+msgstr "东"
+
+msgid "Edge"
+msgstr "边"
+
+msgid "Edit Attributes"
+msgstr "编辑特性"
+
+msgid "Edit Image"
+msgstr "编辑图像"
+
+msgid "Edit Label"
+msgstr "编辑标签"
+
+msgid "Edit Menu"
+msgstr "编辑菜单"
+
+msgid "Edit Menu Bar"
+msgstr "编辑菜单栏"
+
+msgid "Edit Separately"
+msgstr "分别编辑"
+
+msgid "Edit Text"
+msgstr "编辑文本"
+
+msgid "Edit menu"
+msgstr "编辑菜单"
+
+msgid "Edit page"
+msgstr "编辑页面"
+
+msgid "Edit page:"
+msgstr "编辑页面："
+
+msgid "Edit project properties"
+msgstr "修改项目属性"
+
+msgid "Edit&#8230;"
+msgstr "Edit&#8230"
+
+msgid "Editable column"
+msgstr "可编辑栏"
+
+msgid "Editbar"
+msgstr "编辑栏"
+
+msgid "Editing alignments of %s"
+msgstr "编辑 %s 的对齐"
+
+msgid "Editing margins of %s"
+msgstr "编辑 %s 的边缘"
+
+msgid "Editor Property Type Name"
+msgstr "编辑器属性类型名称"
+
+msgid "Educational"
+msgstr "教育"
+
+msgid "Eighth Key"
+msgstr "第八键"
+
+msgid "Either --listen or --filename must be specified.\n"
+msgstr "是否 --listen 或 --filename 必须被指定。\n"
+
+msgid "Ellipsize Text:"
+msgstr "Ellipsize 文本："
+
+msgid "Ellipsize column"
+msgstr "Ellipsize 栏"
+
+msgid "Email"
+msgstr "邮件"
+
+msgid "Email:"
+msgstr "邮件："
+
+msgid "Embedded"
+msgstr "嵌入的"
+
+msgid "Embedded By"
+msgstr "嵌入者"
+
+msgid "Embedded applications"
+msgstr "嵌入式应用程序"
+
+msgid "Embeds"
+msgstr "内嵌"
+
+msgid "Emblems"
+msgstr "微标"
+
+msgid "Emoticons"
+msgstr "表情符号"
+
+msgid "Enabled"
+msgstr "启用"
+
+msgid "Enabling property %s on widget %s"
+msgstr "正在组件 %2$s 上启用属性 %1$s"
+
+msgid "End"
+msgstr "结束"
+
+msgid "End Action"
+msgstr "结束动作"
+
+msgid "End Action:"
+msgstr "结束动作："
+
+msgid "Enter Notify"
+msgstr "输入通知"
+
+msgid ""
+"Enter a filename or a relative or full path for this source of '%s' (Glade "
+"will only ever load them in the runtime from your project directory)."
+msgstr "为“%s”的该源输入一个文件名或者相对或绝对路径(Glade 只会在运行时从你的项目目录加载它们)。"
+
+msgid "Enter a filename, relative path or full path to load the image"
+msgstr "请输入文件名、相对路径或完整路径以加载图片"
+
+msgid "Enter a list of column types for this data store"
+msgstr "为这个数据库输入栏一列栏类型"
+
+msgid "Enter a list of values to be applied on each row"
+msgstr "输入将应用到每行一列数值"
+
+msgid "Entry"
+msgstr "输入条"
+
+msgid "Entry Buffer"
+msgstr "输入缓冲区"
+
+msgid "Entry Completion"
+msgstr "输入补全"
+
+msgid "Entry Completion Editor"
+msgstr "输入补全编辑器"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Error autosaving '%s'"
+msgstr "自动保存“%s”出错"
+
+msgid "Error launching previewer: %s\n"
+msgstr "预览启动错误：%s\n"
+
+msgid ""
+"Error opening %s to write private data (%s).\n"
+"No private data will be saved in this session"
+msgstr ""
+"打开 %s 以写入私有数据时出错(%s)。\n"
+"此会话将不保存私有数据"
+
+msgid ""
+"Error serializing configuration data to save (%s).\n"
+"No private data will be saved in this session"
+msgstr ""
+"序列化设置数据用以保存时发生错误(%s)。\n"
+"此会话将不保存私有数据"
+
+msgid ""
+"Error writing private data to %s (%s).\n"
+"No private data will be saved in this session"
+msgstr ""
+"写私有数据到 %s 时发生错误(%s)。\n"
+"此会话将不保存私有数据"
+
+msgid "Error: %s.\n"
+msgstr "错误：%s。\n"
+
+msgid "Etched In"
+msgstr "向内蚀刻"
+
+msgid "Etched Out"
+msgstr "向外蚀刻"
+
+msgid "Event Box"
+msgstr "事件框"
+
+msgid "Every day"
+msgstr "每天"
+
+msgid "Every week"
+msgstr "每周"
+
+msgid "Exact Template"
+msgstr "精确模板"
+
+msgid "Expand"
+msgstr "展开"
+
+msgid "Expand all"
+msgstr "全部展开"
+
+msgid "Expanded"
+msgstr "展开"
+
+msgid "Expander"
+msgstr "展开器"
+
+msgid "Expander Column:"
+msgstr "扩展器列："
+
+msgid "Expanders are not shown"
+msgstr "不显示扩展器"
+
+msgid "Exposure"
+msgstr "暴露"
+
+msgid "External"
+msgstr "外部"
+
+msgid "Extra Condensed"
+msgstr "额外浓缩"
+
+msgid "Extra Expanded"
+msgstr "额外展开"
+
+msgid "Extra catalog paths"
+msgstr "额外的分类路径"
+
+msgid "Failed to backup existing file, continue saving?"
+msgstr "备份现存文件失败，继续保存吗？"
+
+msgid ""
+"Failed to create directory %s to save private data.\n"
+"No private data will be saved in this session"
+msgstr ""
+"保存私有数据时创建 %s 文件夹失败。\n"
+"此会话将不保存私有数据"
+
+msgid "Failed to launch preview: %s.\n"
+msgstr "预览无法启动：%s。\n"
+
+msgid ""
+"Failed to load %s.\n"
+"The following required catalogs are unavailable: %s"
+msgstr ""
+"加载 %s 失败。\n"
+"以下必需的分类不可用：%s"
+
+msgid "Failed to save %s: %s"
+msgstr "保存 %s 失败：%s"
+
+msgid "Family column"
+msgstr "家族栏"
+
+msgid "Fedora"
+msgstr "Fedora"
+
+msgid "Few days a week"
+msgstr "一周用几天"
+
+msgid "Fifth Key"
+msgstr "第五键"
+
+msgid "Fifth Mouse Button"
+msgstr "第五鼠标键"
+
+msgid "File"
+msgstr "文件"
+
+msgid "File Chooser"
+msgstr "文件选择器"
+
+msgid "File Chooser Attributes"
+msgstr "文件选择器特性"
+
+msgid "File Chooser Button"
+msgstr "文件选择按钮"
+
+msgid "File Chooser Dialog"
+msgstr "文件选择对话框"
+
+msgid "File Chooser Widget"
+msgstr "文件选择组件"
+
+msgid "File Filter"
+msgstr "文件过滤器"
+
+msgid "File Name"
+msgstr "文件的名称"
+
+msgid "File name to save a screenshot"
+msgstr "保存屏幕截图的文件名"
+
+msgid "Fill"
+msgstr "填充"
+
+msgid "Filler"
+msgstr "填充器"
+
+msgid "First Mouse Button"
+msgstr "第一鼠标键"
+
+msgid ""
+"First add a stock name in the entry below, then add and define sources for "
+"that icon in the treeview."
+msgstr "首先在该条目下添加一个库存名称，然后在树视图(Treeview)中为该图标添加并定义一个源。"
+
+msgid "Fixed"
+msgstr "固定的"
+
+msgid "Flow Box"
+msgstr "流动框"
+
+msgid "Flow Box Child"
+msgstr "子流动框"
+
+msgid "Flows From"
+msgstr "流自"
+
+msgid "Flows To"
+msgstr "流向"
+
+msgid "Focus Change"
+msgstr "焦点改变"
+
+msgid "Follow State column"
+msgstr "跟随状态栏"
+
+msgid "Font Button"
+msgstr "字体按钮"
+
+msgid "Font Button Attributes"
+msgstr "字体按钮特性"
+
+msgid "Font Chooser"
+msgstr "字体选择器"
+
+msgid "Font Chooser Attributes"
+msgstr "字体选择器特性"
+
+msgid "Font Chooser Dialog"
+msgstr "字体选择器对话框"
+
+msgid "Font Chooser Widget"
+msgstr "字体选择器组件"
+
+msgid "Font Description column"
+msgstr "字体名称栏"
+
+msgid "Font Selection"
+msgstr "字体选择"
+
+msgid "Font Selection Dialog"
+msgstr "字体选择对话框"
+
+msgid "Font column"
+msgstr "字体栏"
+
+msgid "Footer"
+msgstr "页脚"
+
+msgid ""
+"For short and ambiguous strings: type a word here to differentiate the "
+"meaning of this string from the meaning of other occurrences of the same "
+"string"
+msgstr "简短和模糊的字符串：键入一个词在这里以区别于这个字符串的意思对于其它相同的字符串的含义"
+
+msgid "Foreground Color Name column"
+msgstr "前景色名称栏"
+
+msgid "Foreground Color column"
+msgstr "前景色栏"
+
+msgid "Foreground RGBA column"
+msgstr "RGBA 前景栏"
+
+msgid "Form"
+msgstr "表单"
+
+msgid "Formatting"
+msgstr "格式化"
+
+msgid "Fourth Mouse Button"
+msgstr "第四鼠标键"
+
+msgid "Frame"
+msgstr "框架"
+
+msgid "Free Form"
+msgstr "自由格式"
+
+msgid "Free software"
+msgstr "自由软件"
+
+msgid "FreeBSD"
+msgstr "FreeBSD"
+
+msgid "From a project relative directory"
+msgstr "来自项目相对目录"
+
+msgid "From the project directory"
+msgstr "来自项目目录"
+
+msgid "From this directory"
+msgstr "从本目录"
+
+msgid "GIcon column"
+msgstr "GIcon 栏"
+
+msgid "GNU All permissive"
+msgstr "GNU All permissive"
+
+msgid "GNU GPL version 2"
+msgstr "GNU GPL 第 2 版"
+
+msgid "GNU GPL version 3"
+msgstr "GNU GPL 第 3 版"
+
+msgid "GNU LGPL version 2.1"
+msgstr "GNU LGPL  2.1 版"
+
+msgid "GNU LGPL version 3"
+msgstr "GNU LGPL 第 3 版"
+
+msgid "GNU/Linux"
+msgstr "GNU/Linux"
+
+msgid "GPL 2.0"
+msgstr "GPL 2.0"
+
+msgid "GPL 2.0 Only"
+msgstr "仅 GPL 2.0"
+
+msgid "GPL 3.0"
+msgstr "GPL 3.0"
+
+msgid "GPL 3.0 Only"
+msgstr "仅 GPL 3.0"
+
+msgid "GTK+ Unix Print Toplevels"
+msgstr "GTK+ Unix 打印顶层"
+
+msgid "GType of the class"
+msgstr "类的 GType"
+
+msgid "GUI designer;user interface;ui builder;"
+msgstr "GUI designer;user interface;ui builder;图形用户界面设计器;用户界面;图形界面创建器;"
+
+msgid "General"
+msgstr "常规"
+
+msgid "Generate PDF"
+msgstr "生成 PDF"
+
+msgid "Generate PS"
+msgstr "生成 PS"
+
+msgid "Generic Name"
+msgstr "常规名称"
+
+msgid "Generic object"
+msgstr "通用对象"
+
+msgid "Gentoo"
+msgstr "Gentoo"
+
+msgid "Glade"
+msgstr "Glade"
+
+msgid "Glade Interface Designer"
+msgstr "Glade 界面设计器"
+
+msgid "Glade Preferences"
+msgstr "Glade 首选项"
+
+msgid "Glade Registration & User Survey"
+msgstr "Glade 注册和用户调查"
+
+msgid "Glade User Survey"
+msgstr "Glade 用户调查"
+
+msgid "Glade User Survey (update)"
+msgstr "Glade 用户调查(升级)"
+
+msgid "Glade Widget"
+msgstr "Glade 组件"
+
+msgid "Glade debug options"
+msgstr "Glade 调试选项"
+
+msgid ""
+"Glade is a RAD tool to enable quick &amp; easy development of user "
+"interfaces for the GTK+ 3 toolkit and the GNOME desktop environment."
+msgstr "Glade 是一款 RAD 工具，它可以方便快速的开发 GTK+ 3 工具集和 GNOME 桌面环境的用户界面。"
+
+msgid ""
+"Glade is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as \n"
+"published by the Free Software Foundation; either version 2 of the \n"
+"License, or (at your option) any later version.\n"
+"\n"
+"Glade is distributed in the hope that it will be useful\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of \n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the \n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License \n"
+"along with Glade; if not, write to the Free Software \n"
+"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, \n"
+"MA 02110-1301, USA."
+msgstr ""
+"Glade 是自由软件；您可以在自由软件基金会\n"
+"发布的 GNU 通用公共许可证的条款下重新分发和(或)修改它；\n"
+"您可以选择使用 GPL 第二版，或(按照您的意愿)任何更新的版本。\n"
+"\n"
+"Glade 分发的目的是希望它物有所用，但是没有任何担保；\n"
+"没有对其适销性和某一特定目的下的适用性的任何即便是暗示的担保。\n"
+"请查阅 GNU 通用公共许可证以获得更多信息。\n"
+"\n"
+"您应当已经跟 Glade 一起收到一份 GNU 通用公众许可证的副本；\n"
+"如果没有，请写信至：Free Software Foundation, Inc.，\n"
+"51 Franklin St, Fifth Floor, Boston, MA 02110-1301  USA"
+
+msgid "Glade options"
+msgstr "Glade 选项"
+
+msgid "GladeWidgetActionClass structure pointer"
+msgstr "GladeWidgetActionClass 结构指针"
+
+msgid "Glass Pane"
+msgstr "类面板"
+
+msgid "Go to Help -> Registration & User Survey and complete our survey!"
+msgstr "请到“帮助 -> 注册和用户调查”完成我们的调查！"
+
+msgid "Gravity:"
+msgstr "重力："
+
+msgid "Grid"
+msgstr "网格"
+
+msgid "Grid Attributes"
+msgstr "网格特性"
+
+msgid "Group"
+msgstr "群组"
+
+msgid "Group Header"
+msgstr "组标题"
+
+msgid "Grouping"
+msgstr "分组"
+
+msgid "Grow Only"
+msgstr "仅增长"
+
+msgid "Gtk"
+msgstr "Gtk"
+
+msgid "GtkBuilder Files"
+msgstr "GtkBuilder 文件"
+
+msgid "HTML Container"
+msgstr "HTML 容器"
+
+msgid "Half"
+msgstr "二分之一"
+
+msgid "Handle Box"
+msgstr "工具框"
+
+msgid "Handler"
+msgstr "处理函数"
+
+msgid "Has Entry column"
+msgstr "有输入栏"
+
+msgid "Has Selection"
+msgstr "存在选择内容"
+
+msgid "Have you ever encountered a bug?"
+msgstr "您有没有遇到过软件故障？"
+
+msgid "Have you ever thought about contributing?"
+msgstr "您有没有想过帮助改进 Glade？"
+
+msgid "Header"
+msgstr "页眉"
+
+msgid "HeaderBar"
+msgstr "顶栏"
+
+msgid "Headerbar Attributes"
+msgstr "标题栏特性"
+
+msgid "Headers are invisible"
+msgstr "标题不可见"
+
+msgid "Heading"
+msgstr "标头"
+
+msgid "Height column"
+msgstr "高度栏"
+
+msgid "Height property"
+msgstr "高度属性"
+
+msgid "Highlight Origin"
+msgstr "高亮原点"
+
+msgid "Hint:"
+msgstr "提示："
+
+msgid ""
+"Holds the name of the packing property to depict special children for this "
+"container class"
+msgstr "保持包装属性名称以便为此容器类描述该容器类的具体子结点"
+
+msgid "Homogeneous"
+msgstr "均匀的"
+
+msgid "Homogeneous:"
+msgstr "均匀的："
+
+msgid "Horizontal"
+msgstr "横向"
+
+msgid "Horizontal Alignment"
+msgstr "水平对齐"
+
+msgid "Horizontal Alignment column"
+msgstr "水平对齐栏"
+
+msgid "Horizontal Alignment:"
+msgstr "水平对齐："
+
+msgid "Horizontal Box"
+msgstr "水平框"
+
+msgid "Horizontal Button Box"
+msgstr "水平按钮框"
+
+msgid "Horizontal Padding"
+msgstr "水平填充"
+
+msgid "Horizontal Padding column"
+msgstr "水平填充栏"
+
+msgid "Horizontal Panes"
+msgstr "水平面板"
+
+msgid "Horizontal Scale"
+msgstr "水平比例"
+
+msgid "Horizontal Scrollbar"
+msgstr "水平滚动条"
+
+msgid "Horizontal Separator"
+msgstr "水平分割条"
+
+msgid "Horizontal and Vertical"
+msgstr "水平与竖直"
+
+msgid "Horizontal:"
+msgstr "水平的："
+
+msgid "How long have you been programming?"
+msgstr "您编程有多长时间了？"
+
+msgid "How often do you use it?"
+msgstr "您使用它的频率是？"
+
+msgid "Hyper Modifier"
+msgstr "Hyper 修饰"
+
+msgid "I am not a programmer"
+msgstr "我不是程序员"
+
+msgid "ID:"
+msgstr "ID："
+
+msgid "Icon"
+msgstr "图标"
+
+msgid "Icon Factory"
+msgstr "图标工厂"
+
+msgid "Icon File"
+msgstr "图标文件"
+
+msgid "Icon Na_mes:"
+msgstr "图标名称(_M)："
+
+msgid "Icon Name"
+msgstr "图标名称"
+
+msgid "Icon Name column"
+msgstr "图标名称栏"
+
+msgid "Icon Size"
+msgstr "图标大小"
+
+msgid "Icon Sources"
+msgstr "图标源"
+
+msgid "Icon View"
+msgstr "图标视图"
+
+msgid "Icon View Attributes"
+msgstr "图标视图特"
+
+msgid "Icon View Editor"
+msgstr "图标视图编辑器"
+
+msgid "Icon _Name:"
+msgstr "图标名称(_N)："
+
+msgid "Icons only"
+msgstr "只有图标"
+
+msgid "If Valid"
+msgstr "如果合法"
+
+msgid "If not, you can always find it in the Help menu."
+msgstr "如果现在不愿意，您总是可以在帮助菜单中找到它。"
+
+msgid ""
+"If overlay scrolling is enabled, scrollbars are only added as traditional "
+"widgets when a mouse is present"
+msgstr "如果启用了覆盖滚动，滚动条仅在鼠标存在时作为传统小部件被添加"
+
+msgid "If so, did you file a bug report?"
+msgstr "如果有，您提交 BUG 报告了吗？"
+
+msgid "If the property is optional, this is its enabled state"
+msgstr "如果属性是可选的，这是它的启用状态"
+
+msgid "If you reload it, all unsaved changes could be lost. Reload it anyway?"
+msgstr "如果重新加载，所有未保存的更改将丢失，确定要重新加载吗？"
+
+msgid ""
+"If you save it, all the external changes could be lost. Save it anyway?"
+msgstr "如果您保存它，所有的外部修改将丢失。仍然保存吗？"
+
+msgid "Image"
+msgstr "图像"
+
+msgid "Image File Name"
+msgstr "图片文件名"
+
+msgid "Image Map"
+msgstr "图像映射"
+
+msgid "Image Menu Item"
+msgstr "图像菜单栏目"
+
+msgid "Image item"
+msgstr "图像条目"
+
+msgid "Image resources are loaded locally:"
+msgstr "图片资源从本地加载："
+
+msgid "Image:"
+msgstr "图像："
+
+msgid "Immediate"
+msgstr "立刻的"
+
+msgid "In"
+msgstr "内侧"
+
+msgid ""
+"In what field(s) is the software you used Glade to create generally used?"
+msgstr "您用 Glade 创建的软件用在什么领域？"
+
+msgid "In your opinion what is the biggest problem with Glade?"
+msgstr "您认为，Glade 最大的问题是什么？"
+
+msgid "Inconsistent column"
+msgstr "不一致列"
+
+msgid "Indentation:"
+msgstr "缩进："
+
+msgid ""
+"Indicates a subwindow attached to a component but otherwise has no "
+"connection in the UI hierarchy to that component"
+msgstr "指示一个子窗口属于一个组件，但是除此之外不存在用户界面层次到组件的连接"
+
+msgid "Indicates an object controlled by one or more target objects"
+msgstr "指示一个对象被一个或多个目标对象控制"
+
+msgid ""
+"Indicates an object is a cell in a treetable which is displayed because a "
+"cell in the same column is expanded and identifies that cell"
+msgstr "指示一个对象是树列表中的一个单元，树列表被显示是因为在同一列中一个单元被展开并确定这个单元"
+
+msgid "Indicates an object is a controller for one or more target objects"
+msgstr "指示一个对象控制一个或多个目标对象"
+
+msgid "Indicates an object is a label for one or more target objects"
+msgstr "指示一个对象是一个或多个目标对象的标签"
+
+msgid ""
+"Indicates an object is a member of a group of one or more target objects"
+msgstr "指示一个对象是一个或多个目标对象组的成员"
+
+msgid "Indicates an object is labeled by one or more target objects"
+msgstr "指示一个对象由一个或多个目标对象所标注"
+
+msgid "Indicates that an object is a parent window of another object"
+msgstr "指示一个对象是另一个对象的父窗口"
+
+msgid "Indicates that an object is a popup for another object"
+msgstr "指示一个对象是另一个对象的弹出项"
+
+msgid ""
+"Indicates that an object provides descriptive information about another "
+"object; more verbose than 'Label For'"
+msgstr "指示对象提供另一个对象的描述性信息，比“被标签号，由”的信息量多"
+
+msgid ""
+"Indicates that another object provides descriptive information about this "
+"object; more verbose than 'Labelled By'"
+msgstr "指示另一个对象提供此对象的描述性信息，比“被标签号，由”的信息量多"
+
+msgid ""
+"Indicates that the object has content that flows logically from another "
+"AtkObject in a sequential way, (for instance text-flow)"
+msgstr "指示对象存在逻辑上依顺序方式流自另一个AtkObject的内容(例如：文本流)"
+
+msgid ""
+"Indicates that the object has content that flows logically to another "
+"AtkObject in a sequential way, (for instance text-flow)"
+msgstr "指示对象有逻辑上按顺序方式流向另一个 AtkObject 的内容，(例如：文本流)"
+
+msgid ""
+"Indicates that the object visually embeds another object's content, i.e. "
+"this object's content flows around another's content"
+msgstr "指示对象直观地嵌入了另一个对象的内容，例如：对象的内容围绕另一个流动"
+
+msgid "Indicator Mode:"
+msgstr "指示器模式："
+
+msgid "Indicator Size column"
+msgstr "指示器尺寸栏"
+
+msgid "Industrial applications"
+msgstr "行业软件"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Info Bar"
+msgstr "信息栏"
+
+msgid "Information will be sent to https://people.gnome.org/~jpu"
+msgstr "信息将发给 https://people.gnome.org/~jpu"
+
+msgid "Inhibit On-screen Keyboard"
+msgstr "抑制屏幕键盘"
+
+msgid "Initially Complete"
+msgstr "初始补全"
+
+msgid "Input Hints:"
+msgstr "输入提示："
+
+msgid "Input Method Window"
+msgstr "输入法窗口"
+
+msgid "Insert After"
+msgstr "插入，位于后面内容之后"
+
+msgid "Insert Before"
+msgstr "插入，位于后面内容之前"
+
+msgid "Insert Child on %s"
+msgstr "在 %s 上插子项"
+
+msgid "Insert Column"
+msgstr "插入列"
+
+msgid "Insert Column on %s"
+msgstr "在 %s 上插入列"
+
+msgid "Insert Page After"
+msgstr "插入页，位于后面内容之后"
+
+msgid "Insert Page Before"
+msgstr "插入页，位于后面内容之前"
+
+msgid "Insert Row"
+msgstr "插入行"
+
+msgid "Insert Row on %s"
+msgstr "在 %s 上插入行"
+
+msgid "Insert page on %s"
+msgstr "在 %s 上插入页"
+
+msgid "Insert placeholder to %s"
+msgstr "插入位置保持器到 %s"
+
+msgid "Inside Wrap:"
+msgstr "在折行之内："
+
+msgid "Insufficient amount of placeholders in target container"
+msgstr "目标容器中没有足够的放置位置"
+
+msgid "Interface Designer"
+msgstr "用户界面设计器"
+
+msgid "Intermediate"
+msgstr "中等水平"
+
+msgid "Internal Frame"
+msgstr "内部框架"
+
+msgid "Internal Name"
+msgstr "内部名称"
+
+msgid "Internal name"
+msgstr "内部名称"
+
+msgid "Internal server error"
+msgstr "内部服务器错误"
+
+msgid "International"
+msgstr "国际化"
+
+msgid "Intro"
+msgstr "介绍"
+
+msgid "Introduction page"
+msgstr "介绍页"
+
+msgid "Invalid"
+msgstr "不合法"
+
+msgid ""
+"Inverse of 'Embeds', indicates that this object's content is visually "
+"embedded in another object"
+msgstr "内嵌的反方向，指示对象的内容直观地嵌入于另一个对象"
+
+msgid "Inverted column"
+msgstr "倒置栏"
+
+msgid "Italic"
+msgstr "斜体"
+
+msgid "Item Size and Spacing"
+msgstr "条目大小及间距"
+
+msgid "Item Width:"
+msgstr "条目宽度："
+
+msgid "Items"
+msgstr "条目"
+
+msgid "Java"
+msgstr "Java"
+
+msgid "JavaScript"
+msgstr "JavaScript"
+
+msgid ""
+"Keep the headerbar height the same as the subtitle changes dynamically."
+msgstr "动态保持副标题与顶栏的高度一致"
+
+msgid "Key Press"
+msgstr "键按下"
+
+msgid "Key Release"
+msgstr "键释放"
+
+msgid "Keycode column"
+msgstr "键码栏"
+
+msgid "LGPL 2.1"
+msgstr "LGPL 2.1"
+
+msgid "LGPL 2.1 Only"
+msgstr "仅 LGPL 2.1"
+
+msgid "LGPL 3.0"
+msgstr "LGPL 3.0"
+
+msgid "LGPL 3.0 Only"
+msgstr "仅 LGPL 3.0"
+
+msgid "Label"
+msgstr "标签"
+
+msgid "Label For"
+msgstr "加标签对象"
+
+msgid "Label Width"
+msgstr "标签宽度"
+
+msgid "Label behaviour"
+msgstr "标签行为"
+
+msgid "Label with optional image"
+msgstr "带可选图像的标签"
+
+msgid "Labeled By"
+msgstr "加标签者"
+
+msgid "Lack of documentation"
+msgstr "缺少文档"
+
+msgid "Lack of official binary releases for other OS (Windows, Mac OS X)"
+msgstr "其他操作系统缺少官方发布的二进制版本(Windows、OSX)"
+
+msgid "Lack of professional support"
+msgstr "缺少专业支持"
+
+msgid "Lack of professional training"
+msgstr "缺少专业训练"
+
+msgid "Lack of publicity/exposure"
+msgstr "缺少宣传，知者甚少"
+
+msgid "Landmark"
+msgstr "界标"
+
+msgid "Language column"
+msgstr "语言栏"
+
+msgid "Large Toolbar"
+msgstr "大工具栏"
+
+msgid "Last Defined"
+msgstr "上次定义的"
+
+msgid "Latest stable from sources"
+msgstr "源里的最新稳定版本"
+
+msgid "Layered Pane"
+msgstr "层叠面板"
+
+msgid "Layout"
+msgstr "布局"
+
+msgid "Least Recently Used first"
+msgstr "最近使用最少的第一个"
+
+msgid "Leave Notify"
+msgstr "留下通知"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Left to Right"
+msgstr "自左至右"
+
+msgid "Left:"
+msgstr "左："
+
+msgid "Leopard"
+msgstr "Leopard"
+
+msgid "Level Bar"
+msgstr "水平条"
+
+msgid "Level Bar Attributes"
+msgstr "水平条特性"
+
+msgid "Libglade Files"
+msgstr "Libglade 文件"
+
+msgid "License"
+msgstr "许可证"
+
+msgid "License Text"
+msgstr "许可证文本"
+
+msgid "License and Copyright"
+msgstr "许可证及版权所有"
+
+msgid ""
+"License for this project, it will be added as a document level comment."
+msgstr "项目的许可证，会以文档级别的注释添加。"
+
+msgid "License:"
+msgstr "许可证："
+
+msgid "Lines"
+msgstr "行"
+
+msgid "Link"
+msgstr "链接"
+
+msgid "Link Button"
+msgstr "链接按钮"
+
+msgid "Lion"
+msgstr "Lion"
+
+msgid "List"
+msgstr "列表"
+
+msgid "List Box"
+msgstr "列表框"
+
+msgid "List Box Row"
+msgstr "列表框行"
+
+msgid "List Item"
+msgstr "列表条目"
+
+msgid "List Store"
+msgstr "列表库"
+
+msgid "List of items:"
+msgstr "条目列表："
+
+msgid "List of widgets in this group"
+msgstr "该组中组件列表"
+
+msgid "Listen standard input"
+msgstr "监听标准输入"
+
+msgid "Load and Save"
+msgstr "载入及保存"
+
+msgid "Lock Button"
+msgstr "锁定按钮"
+
+msgid "Lock Key"
+msgstr "锁定键"
+
+msgid "Locking %s by widget %s"
+msgstr "%s 由组件 %s 锁定"
+
+msgid "Log"
+msgstr "日志"
+
+msgid "Logo:"
+msgstr "徽标："
+
+msgid "Low"
+msgstr "低"
+
+msgid "Lower:"
+msgstr "低："
+
+msgid "Lowercase"
+msgstr "小写"
+
+msgid "MIME Types"
+msgstr "MIME 类型"
+
+msgid "MIT"
+msgstr "MIT"
+
+msgid "MIT X11"
+msgstr "MIY X11"
+
+msgid "Mac OS X"
+msgstr "Mac OS X"
+
+msgid "Mandriva"
+msgstr "Mandriva"
+
+msgid "Margins"
+msgstr "边界"
+
+msgid "Markup column"
+msgstr "标记栏"
+
+msgid "Marquee"
+msgstr "跑马灯"
+
+msgid "Master"
+msgstr "主分支"
+
+msgid "Math"
+msgstr "数学"
+
+msgid "Mathematical fraction"
+msgstr "数学分数"
+
+msgid "Mavericks"
+msgstr "Mavericks"
+
+msgid "Maximum width in characters"
+msgstr "最大宽度的字符"
+
+msgid "Maximum:"
+msgstr "最大："
+
+msgid "Medical"
+msgstr "媒体"
+
+msgid "Member Of"
+msgstr "成员从属于"
+
+msgid "Menu"
+msgstr "菜单"
+
+msgid "Menu Attributes"
+msgstr "菜单特性"
+
+msgid "Menu Bar"
+msgstr "菜单栏"
+
+msgid "Menu Button"
+msgstr "菜单按钮"
+
+msgid "Menu Item"
+msgstr "菜单栏目"
+
+msgid "Menu Shell"
+msgstr "菜单外壳"
+
+msgid "Menu Tool Button"
+msgstr "菜单工具按钮"
+
+msgid "Message Dialog"
+msgstr "消息对话框"
+
+msgid "Message Dialog Attributes"
+msgstr "消息对话框特性"
+
+msgid "Meta Modifier"
+msgstr "元修饰"
+
+msgid "Middle"
+msgstr "中间"
+
+msgid "Mime Types"
+msgstr "MIME 类型"
+
+msgid "Minimum"
+msgstr "最小的"
+
+msgid "Minimum:"
+msgstr "最小："
+
+msgid "Miscellaneous"
+msgstr "杂项"
+
+msgid "Missing Image"
+msgstr "缺少图片"
+
+msgid "Model Button"
+msgstr "模型按钮"
+
+msgid "Model Button Attributes"
+msgstr "模型按钮特性"
+
+msgid "Model column"
+msgstr "模型列"
+
+msgid "Most Recently Used first"
+msgstr "最近使用最多的第一个"
+
+msgid "Mountain Lion"
+msgstr "Mountain Lion"
+
+msgid "Mouse"
+msgstr "鼠标"
+
+msgid "Move Over Down"
+msgstr "向下遮盖"
+
+msgid "Move Over Down-Up"
+msgstr "由下向上遮盖"
+
+msgid "Move Over Left"
+msgstr "向左遮盖"
+
+msgid "Move Over Left-Right"
+msgstr "由左向右遮盖"
+
+msgid "Move Over Right"
+msgstr "向右遮盖"
+
+msgid "Move Over Right-Left"
+msgstr "由右向左遮盖"
+
+msgid "Move Over Up"
+msgstr "向上遮盖"
+
+msgid "Move Over Up-Down"
+msgstr "由上向下遮盖"
+
+msgid "Move Under Down"
+msgstr "向下显露"
+
+msgid "Move Under Left"
+msgstr "向左显露"
+
+msgid "Move Under Right"
+msgstr "向右显露"
+
+msgid "Move Under Up"
+msgstr "向上显露"
+
+msgid "Multiple"
+msgstr "乘数"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Name and Email fields are required"
+msgstr "姓名和电子邮件字段必须填写"
+
+msgid "Name of the class"
+msgstr "类名称"
+
+msgid "Name of the file to preview"
+msgstr "预览文件名"
+
+msgid "Name of the toplevel to preview"
+msgstr "要预览的顶层(部件)的名称"
+
+msgid "Name:"
+msgstr "名称："
+
+msgid "Named Icon Chooser"
+msgstr "命名的图标选择器"
+
+msgid "Natural"
+msgstr "自然的"
+
+msgid "NetBSD"
+msgstr "NetBSD"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "Never wrap"
+msgstr "从不折行"
+
+msgid "New Size Group"
+msgstr "新建尺寸组"
+
+msgid "New Tab"
+msgstr "新标签页"
+
+msgid "New Window"
+msgstr "新窗口"
+
+msgid "No"
+msgstr "没有"
+
+msgid "No Spellcheck"
+msgstr "无拼写检查"
+
+msgid "No open projects to save"
+msgstr "没有已打开的项目可以保存"
+
+msgid "No widget on the clipboard"
+msgstr "剪贴板上没有组件"
+
+msgid "No widget selected."
+msgstr "未选择组件。"
+
+msgid "Node Child Of"
+msgstr "子结点从属于"
+
+msgid "None"
+msgstr "无"
+
+msgid "None - distributed internally"
+msgstr "无 - 内部使用"
+
+msgid "Normal"
+msgstr "普通的"
+
+msgid "Normal item"
+msgstr "普通条目"
+
+msgid "North"
+msgstr "北"
+
+msgid "North East"
+msgstr "东北"
+
+msgid "North West"
+msgstr "西北"
+
+msgid "Notebook"
+msgstr "笔记本"
+
+msgid "Notebook Attributes"
+msgstr "记事本特性"
+
+msgid "Notification"
+msgstr "通知"
+
+msgid "Number"
+msgstr "数字"
+
+msgid "Number Up"
+msgstr "列举"
+
+msgid "Number Up Layout"
+msgstr "列举布局"
+
+msgid "Number of Pages"
+msgstr "页数"
+
+msgid "Number of items"
+msgstr "条目数"
+
+msgid "Number of pages"
+msgstr "页数"
+
+msgid "Number of pages in this assistant"
+msgstr "该助手中的页数"
+
+msgid "Number of submenus"
+msgstr "子菜单数"
+
+msgid "O_bjects:"
+msgstr "对象(_B)："
+
+msgid "Object"
+msgstr "对象"
+
+msgid "Object %s has unrecognized type %s\n"
+msgstr "对象 %s 为无法识别的类型 %s\n"
+
+msgid "Object %s is a class template but this is not supported in gtk+ %d.%d"
+msgstr "对象 %s 是一个类模板，但 gtk+ %d.%d 并不支持"
+
+msgid "Object %s not found in UI definition.\n"
+msgstr "找不到对象 %s 的 UI 定义。\n"
+
+msgid "Object has unrecognized type %s"
+msgstr "对象为不识别的类型 %s"
+
+msgid "Object instance's name formatted for assistive technology access"
+msgstr "对象实例名称被格式化，为辅助技术存取"
+
+msgid "Object is not previewable.\n"
+msgstr "该对象不能预览\n"
+
+msgid "Objects"
+msgstr "对象"
+
+msgid "Objects:"
+msgstr "对象："
+
+msgid "Oblique"
+msgstr "斜体"
+
+msgid "Off"
+msgstr "关闭"
+
+msgid "Offscreen"
+msgstr "离屏"
+
+msgid "Offscreen Window"
+msgstr "离屏窗口"
+
+msgid "Ok"
+msgstr "确定"
+
+msgid "Ok, Cancel"
+msgstr "确定，取消"
+
+msgid "On"
+msgstr "打开"
+
+msgid "On what operating systems?"
+msgstr "在哪种操作系统上？"
+
+msgid "Once a month"
+msgstr "一个月一次"
+
+msgid "Only objects of type %s can be added to objects of type %s."
+msgstr "只有类型的对象 %s 可以添加到类型的对象 %s。"
+
+msgid "Only one widget can be pasted at a time to this container"
+msgstr "在该容器中每次只能粘贴一个组件"
+
+msgid ""
+"Oops! Email address is already in use!\n"
+"To update information you need to provide the token that was sent to your inbox."
+msgstr ""
+"糟糕！电子邮件已在使用！\n"
+"要更新信息，需要提供我们发送到您邮箱的令牌。"
+
+msgid "Oops! Error accessing DB: %s"
+msgstr "糟糕！访问数据库出错：%s"
+
+msgid "Oops! Error saving survey data: %s"
+msgstr "糟糕！保存调查数据出错：%s"
+
+msgid "Oops! Error saving user information: %s"
+msgstr "糟糕！保存用户信息出错：%s"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Open Glade Users Website"
+msgstr "打开 Glade 用户网站"
+
+msgid "Open a project"
+msgstr "打开一个项目"
+
+msgid "Open source software"
+msgstr "开源软件"
+
+msgid "OpenBSD"
+msgstr "OpenBSD"
+
+msgid "OpenSolaris"
+msgstr "OpenSolaris"
+
+msgid "Open…"
+msgstr "打开..."
+
+msgid "Option Pane"
+msgstr "选项面板"
+
+msgid "Oracle"
+msgstr "Oracle"
+
+msgid "Oracle Solaris"
+msgstr "Oracle Solaris"
+
+msgid "Ordering children of %s"
+msgstr "次序 %s 的子结点"
+
+msgid "Organization"
+msgstr "组织"
+
+msgid "Orientation column"
+msgstr "方向栏"
+
+msgid "Other"
+msgstr "其他"
+
+msgid "Out"
+msgstr "突出"
+
+msgid "Output version information and exit"
+msgstr "输出版本信息并退出"
+
+msgid "Overlay"
+msgstr "覆盖"
+
+msgid "Packing"
+msgstr "包装"
+
+msgid "Padding"
+msgstr "填充"
+
+msgid "Page"
+msgstr "页面"
+
+msgid "Page Set"
+msgstr "页面设置"
+
+msgid "Page Setup Dialog"
+msgstr "页面设置对话框"
+
+msgid "Page Tab"
+msgstr "页面标签"
+
+msgid "Page Tab List"
+msgstr "页面标签列表"
+
+msgid "Page Type"
+msgstr "页面类型"
+
+msgid "Paned"
+msgstr "镶嵌"
+
+msgid "Panel"
+msgstr "面板"
+
+msgid "Paragraph"
+msgstr "段落"
+
+msgid "Parent"
+msgstr "上一级"
+
+msgid "Parent Window Of"
+msgstr "子窗口"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password Text"
+msgstr "密码文本"
+
+msgid "Paste %s"
+msgstr "粘贴 %s"
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Path to load images and resources in Glade's runtime"
+msgstr "在 Glade 运行期加载图像及资源的路径"
+
+msgid "Path to use as the custom CSS provider for this project."
+msgstr "此项目 CSS 提供器的路径。"
+
+msgid "Patterns"
+msgstr "模式"
+
+msgid "Perl"
+msgstr "Perl"
+
+msgid "Personal"
+msgstr "个人"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Pin Code"
+msgstr "PIN 码"
+
+msgid "Pixbuf"
+msgstr "Pixbuf"
+
+msgid "Pixbuf Expander Closed column"
+msgstr "Pixbuf 展开器关闭栏"
+
+msgid "Pixbuf Expander Open column"
+msgstr "Pixbuf 展开器打开栏"
+
+msgid "Pixbuf Renderer"
+msgstr "Pixbuf 渲染"
+
+msgid "Pixbuf column"
+msgstr "Pixbuf 栏"
+
+msgid "Placeholder text"
+msgstr "占位符文本"
+
+msgid "Places"
+msgstr "位置"
+
+msgid "Placing %s inside %s"
+msgstr "将 %s 放置在 %s 内"
+
+msgid "Pointer Mode"
+msgstr "指针模式"
+
+msgid "Pointer Motion"
+msgstr "指针移动"
+
+msgid "Pointer Motion Hint"
+msgstr "指针移动提示"
+
+msgid "Policy:"
+msgstr "策略："
+
+msgid "Popover"
+msgstr "弹出框"
+
+msgid "Popover Attributes"
+msgstr "弹出框特性"
+
+msgid "Popover Menu"
+msgstr "弹出框菜单"
+
+msgid "Populate for touch"
+msgstr "为触摸占位"
+
+msgid "Popup"
+msgstr "弹出"
+
+msgid "Popup For"
+msgstr "弹出目标"
+
+msgid "Popup Menu"
+msgstr "弹出式菜单"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Position:"
+msgstr "位置："
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Press"
+msgstr "按下"
+
+msgid "Preview"
+msgstr "预览"
+
+msgid "Preview snapshot"
+msgstr "快照预览"
+
+msgid "Primary Icon"
+msgstr "主图标"
+
+msgid "Primary Icon Activatable"
+msgstr "主图标可激活"
+
+msgid "Primary Icon Name"
+msgstr "主图标名称"
+
+msgid "Primary Icon Pixbuf"
+msgstr "主图标 Pixbuf"
+
+msgid "Primary Icon Sensitive"
+msgstr "主图标敏感"
+
+msgid "Primary Icon Tooltip Markup"
+msgstr "主图标工具提示标记"
+
+msgid "Primary Icon Tooltip Text"
+msgstr "主图标工具提示文本"
+
+msgid "Primary Stock Icon"
+msgstr "主库存图标"
+
+msgid "Primary Text:"
+msgstr "主文本："
+
+msgid "Print Dialog"
+msgstr "打印对话框"
+
+msgid "Print handlers signature on invocation"
+msgstr "调用时打印处理函数的签名"
+
+msgid "Priority information for the property editor to act on"
+msgstr "要操作的属性编辑器的优先级信息"
+
+msgid "Privacy Note:"
+msgstr "隐私说明："
+
+msgid "Program Attributes"
+msgstr "程序属性"
+
+msgid "Progress"
+msgstr "进度"
+
+msgid "Progress Bar"
+msgstr "进度条"
+
+msgid "Progress Bar Attributes"
+msgstr "进度条特性"
+
+msgid "Progress Fraction"
+msgstr "进度部分"
+
+msgid "Progress Pulse Step"
+msgstr "进度条步进量"
+
+msgid "Progress Renderer"
+msgstr "进度渲染"
+
+msgid "Progress bar"
+msgstr "进度条"
+
+msgid "Project"
+msgstr "项目"
+
+msgid "Project \"%s\" has deprecated widgets and/or version mismatches."
+msgstr "项目“%s”包含有废弃的组件和/或版本不匹配。"
+
+msgid "Project \"%s\" has errors. Save anyway?"
+msgstr "项目“%s”有错误。仍然保存？"
+
+msgid "Project %s has no deprecated widgets or version mismatches."
+msgstr "项目 %s 没有废弃的组件或版本不匹配。"
+
+msgid "Project %s is still loading."
+msgstr "项目“%s”仍在加载。"
+
+msgid "Project '%s' saved"
+msgstr "项目“%s”已保存"
+
+msgid ""
+"Prompt the user at save time if the project\n"
+"contains any unrecognized types"
+msgstr "在保存时提醒用户，如果该项目含有任何不识别的类型"
+
+msgid ""
+"Prompt the user at save time if the project uses any widgets,\n"
+"properties or signals which are deprecated"
+msgstr "在保存时提醒用户，如果该项目使用了任何已弃用的组件，属性或信号"
+
+msgid ""
+"Prompt the user at save time if the project uses any widgets, properties\n"
+"or signals which are not available in the project's target version"
+msgstr "如果该项目使用了任何项目目标版本中不可用的组件，属性或信号，在保存时提醒用户"
+
+msgid "Properties"
+msgstr "属性"
+
+msgid "Properties and Attributes"
+msgstr "属性和特性"
+
+msgid "Property"
+msgstr "属性"
+
+msgid "Property Change"
+msgstr "属性改变"
+
+msgid "Property Class"
+msgstr "属性类"
+
+msgid "Property Name"
+msgstr "属性名"
+
+msgid "Property _Description:"
+msgstr "属性描述(_D)："
+
+msgid "Property has versioning problems: "
+msgstr "属性存在版本问题： "
+
+msgid "Property not selected"
+msgstr "未选择属性"
+
+msgid "Proximity  Out"
+msgstr "邻近转出"
+
+msgid "Proximity In"
+msgstr "邻近转入"
+
+msgid "Pulse column"
+msgstr "步进栏"
+
+msgid "Push Button"
+msgstr "下压按钮"
+
+msgid "Python"
+msgstr "Python"
+
+msgid "Question"
+msgstr "问题"
+
+msgid "Queue"
+msgstr "队列"
+
+msgid "Radio"
+msgstr "单选"
+
+msgid "Radio Action"
+msgstr "单选动作"
+
+msgid "Radio Button"
+msgstr "单选按钮"
+
+msgid "Radio Menu Item"
+msgstr "单选菜单栏目"
+
+msgid "Radio Tool Button"
+msgstr "单选工具按钮"
+
+msgid "Radio column"
+msgstr "单选栏"
+
+msgid "Radio item"
+msgstr "单选条目"
+
+msgid "Radio proxies"
+msgstr "单选代理"
+
+msgid "Range"
+msgstr "范围"
+
+msgid "Rating"
+msgstr "评分"
+
+msgid "Read Only"
+msgstr "只读"
+
+msgid "Read _documentation"
+msgstr "阅读文档(_D)"
+
+msgid "Read documentation"
+msgstr "阅读文档"
+
+msgid "Reason"
+msgstr "原因"
+
+msgid "Receiving data from %s"
+msgstr "正在从 %s 接收数据"
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Recent Action"
+msgstr "最近的动作"
+
+msgid "Recent Chooser"
+msgstr "最近选择器"
+
+msgid "Recent Chooser Attributes"
+msgstr "最近选择器特性"
+
+msgid "Recent Chooser Dialog"
+msgstr "最近选择对话框"
+
+msgid "Recent Chooser Menu"
+msgstr "最近选择的菜单"
+
+msgid "Recent Filter"
+msgstr "最近的过滤器"
+
+msgid "Recent Manager"
+msgstr "最近的管理员"
+
+msgid "Recent Menu"
+msgstr "最近菜单"
+
+msgid "Red Hat"
+msgstr "Red Hat"
+
+msgid "Redo"
+msgstr "重做"
+
+msgid "Redo: %s"
+msgstr "重做：%s"
+
+msgid "Redundant Object"
+msgstr "冗余对象"
+
+msgid "Registration & User Survey"
+msgstr "注册和用户调查"
+
+msgid "Related Action"
+msgstr "相关动作"
+
+msgid "Release"
+msgstr "释放"
+
+msgid "Release Modifier"
+msgstr "释放修饰"
+
+msgid "Remove %s"
+msgstr "移除 %s"
+
+msgid "Remove Column"
+msgstr "移除列"
+
+msgid "Remove Column on %s"
+msgstr "在 %s 上移除列"
+
+msgid "Remove Page"
+msgstr "移除页"
+
+msgid "Remove Parent"
+msgstr "移除上一级"
+
+msgid "Remove Row"
+msgstr "移除行"
+
+msgid "Remove Row on %s"
+msgstr "在 %s 上移除行"
+
+msgid "Remove Slot"
+msgstr "狭缝"
+
+msgid "Remove multiple"
+msgstr "移除多个"
+
+msgid "Remove page from %s"
+msgstr "从 %s 移除页"
+
+msgid "Remove placeholder from %s"
+msgstr "从 %s 移除位置保持器"
+
+msgid "Remove signal handler %s"
+msgstr "移除信号处理函数 %s"
+
+msgid "Remove the selected catalog search path"
+msgstr "移除选定的分类搜索路径"
+
+msgid "Removing parent of %s"
+msgstr "移除 %s 的上一级"
+
+msgid "Renaming %s to %s"
+msgstr "重命名 %s 为 %s"
+
+msgid "Reorder %s's children"
+msgstr "重新安排 %s 的子结点"
+
+msgid "Reserve space for subtitle"
+msgstr "给副标题预留空间"
+
+msgid "Reset"
+msgstr "重置"
+
+msgid "Reset Widget Properties"
+msgstr "重置组件属性"
+
+msgid "Resource Name"
+msgstr "源名称"
+
+msgid "Resource Path"
+msgstr "资源路径"
+
+msgid "Response ID"
+msgstr "响应 ID"
+
+msgid "Retrieve %s from model (type %s)"
+msgstr "收到 %s 于模型(类型 %s)"
+
+msgid "Revealer"
+msgstr "反向"
+
+msgid "Reverse"
+msgstr "反向"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Right to Left"
+msgstr "自右到左"
+
+msgid "Right:"
+msgstr "右："
+
+msgid "Rise column"
+msgstr "提升栏"
+
+msgid "Role"
+msgstr "角色"
+
+msgid "Root Pane"
+msgstr "根面板"
+
+msgid "Row Header"
+msgstr "行标头"
+
+msgid "Rows"
+msgstr "行"
+
+msgid "Ruler"
+msgstr "标尺"
+
+msgid "Run Cleanup"
+msgstr "清洁运行"
+
+msgid "Run First"
+msgstr "优先运行"
+
+msgid "Run Last"
+msgstr "最后运行"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save As…"
+msgstr "另存为..."
+
+msgid "Save changes to project \"%s\" before closing?"
+msgstr "在关闭前保存对“%s”项目的修改？"
+
+msgid "Save the current project"
+msgstr "保存当前项目"
+
+msgid "Save the current project with a different name"
+msgstr "以不同名称保存当前项目"
+
+msgid "Save…"
+msgstr "保存..."
+
+msgid "Scale"
+msgstr "比例"
+
+msgid "Scale Attributes"
+msgstr "缩放特性"
+
+msgid "Scale Button"
+msgstr "比例按钮"
+
+msgid "Scale Button Attributes"
+msgstr "缩放按钮特性"
+
+msgid "Scale column"
+msgstr "比例栏"
+
+msgid "Scale is configured to not draw the value"
+msgstr "缩放组件被设定为不绘制值"
+
+msgid "Scale orientation:"
+msgstr "缩放排列方向："
+
+msgid "Scientific"
+msgstr "科学"
+
+msgid "Scroll"
+msgstr "滚动"
+
+msgid "Scroll Bar"
+msgstr "滚动条"
+
+msgid "Scroll pane"
+msgstr "滚动面板"
+
+msgid "Scrollbar"
+msgstr "滚动条"
+
+msgid "Scrollbar Attributes"
+msgstr "滚动条特性"
+
+msgid "Scrollbar Policy:"
+msgstr "滚动条策略："
+
+msgid "Scrolled Window"
+msgstr "可滚动的窗口"
+
+msgid "Scrolled Window Attributes"
+msgstr "可滚动窗口特性"
+
+msgid "Scrolling Attributes"
+msgstr "滚动特性"
+
+msgid "Search Bar"
+msgstr "搜索栏"
+
+msgid "Search Column:"
+msgstr "搜索列："
+
+msgid "Search Entry"
+msgstr "搜索输入条"
+
+msgid "Search bar is already full"
+msgstr "搜索栏已满"
+
+msgid "Search is disabled"
+msgstr "搜索已禁用"
+
+msgid "Second Mouse Button"
+msgstr "第二鼠标键"
+
+msgid "Secondary Icon"
+msgstr "第二图标"
+
+msgid "Secondary Icon Activatable"
+msgstr "第二图标可激活"
+
+msgid "Secondary Icon Name"
+msgstr "第二图标名称"
+
+msgid "Secondary Icon Pixbuf"
+msgstr "第二图标 Pixbuf"
+
+msgid "Secondary Icon Sensitive"
+msgstr "第二图标敏感"
+
+msgid "Secondary Icon Tooltip Markup"
+msgstr "第二图标工具提示标记"
+
+msgid "Secondary Icon Tooltip Text"
+msgstr "第二图标工具提示文本"
+
+msgid "Secondary Stock Icon"
+msgstr "副库存图标"
+
+msgid "Secondary Text:"
+msgstr "第二文本："
+
+msgid "Section"
+msgstr "区"
+
+msgid "Select Fields"
+msgstr "选择区域"
+
+msgid "Select Folder"
+msgstr "选择目录"
+
+msgid "Select Named Icon"
+msgstr "选择命名图标"
+
+msgid "Select a CSS to use as custom style provider"
+msgstr "选择 CSS 作为自定义的样式提供器"
+
+msgid "Select a catalog search path"
+msgstr "选择一个分类搜索路径"
+
+msgid "Select a color"
+msgstr "选择颜色"
+
+msgid "Select a file from the project resource directory"
+msgstr "从项目资源文件夹中选择一个文件"
+
+msgid "Select a font"
+msgstr "选择字体"
+
+msgid "Select an object to pass to the handler"
+msgstr "选择一个要传递给处理函数的对象"
+
+msgid "Select the properties that you want to reset to their default values"
+msgstr "选择你要重置为默认值的属性"
+
+msgid "Semi Condensed"
+msgstr "半压缩"
+
+msgid "Semi Expanded"
+msgstr "半展开"
+
+msgid "Sending data to %s"
+msgstr "正在向 %s 发送数据"
+
+msgid "Sensitive"
+msgstr "敏感"
+
+msgid "Sensitive column"
+msgstr "敏感栏"
+
+msgid "Separator"
+msgstr "分割条"
+
+msgid "Separator Menu Item"
+msgstr "分割菜单栏目"
+
+msgid "Separator Tool Item"
+msgstr "分割工具条目"
+
+msgid "Separator item"
+msgstr "分割条目"
+
+msgid "Set default value"
+msgstr "设置默认值"
+
+msgid "Set the currently active page to edit, this property will not be saved"
+msgstr "设定要编辑的当前活动页面，该属性将不会保存"
+
+msgid ""
+"Set the currently active submenu to edit, this property will not be saved"
+msgstr "设定要编辑的当前活动子菜单，该属性将不会保存"
+
+msgid "Set the description of the Activate atk action"
+msgstr "设置激活 atk 动作的描述"
+
+msgid "Set the description of the Click atk action"
+msgstr "设置单击 atk 动作的描述"
+
+msgid "Set the description of the Press atk action"
+msgstr "设置按下 atk 动作的描述"
+
+msgid "Set the description of the Release atk action"
+msgstr "设置释放 atk 动作的描述"
+
+msgid "Set the icon size for this source of '%s'"
+msgstr "为“%s”的这个源设置图标大小"
+
+msgid "Set the state for this source of '%s'"
+msgstr "为“%s”的这个源设置状态"
+
+msgid "Set the text direction for this source of '%s'"
+msgstr "为“%s”的该源设置文本方向"
+
+msgid "Set whether you want to specify a state for this source of '%s'"
+msgstr "设置您是否想为“%s”的这个源指定一个状态"
+
+msgid ""
+"Set whether you want to specify a text direction for this source of '%s'"
+msgstr "设置你是否想为“%s”的这个源指定一个文本方向"
+
+msgid "Set whether you want to specify an icon size for this source of '%s'"
+msgstr "设置您是否想为“%s”的这个源指定一个图标大小"
+
+msgid "Setting %s of %s"
+msgstr "设置 %2$s 的 %1$s"
+
+msgid "Setting %s of %s to %s"
+msgstr "将 %2$s 的 %1$s 设置为 %3$s"
+
+msgid "Setting %s to have a start action"
+msgstr "设置 %s 来允许一个开始动作"
+
+msgid "Setting %s to have an end action"
+msgstr "设置 %s 来允许一个结束动作"
+
+msgid "Setting %s to not have a start action"
+msgstr "设置 %s 来禁止一个开始动作"
+
+msgid "Setting %s to not have an end action"
+msgstr "设置 %s 来禁止一个结束动作"
+
+msgid "Setting %s to not show window controls"
+msgstr "设定 %s 以隐藏窗口控件"
+
+msgid "Setting %s to not use a center child"
+msgstr "设置 %s 以禁用中心子控件"
+
+msgid "Setting %s to not use tooltip markup"
+msgstr "设定 %s 不使用工具提示标记"
+
+msgid "Setting %s to show window controls"
+msgstr "设定 %s 以显示窗口控件"
+
+msgid "Setting %s to use a Pango markup string"
+msgstr "设置 %s 以使用 Pango 标记字符串"
+
+msgid "Setting %s to use a center child"
+msgstr "设置 %s 以使用中心子控件"
+
+msgid "Setting %s to use a custom child"
+msgstr "设置 %s 以使用自定义子控件"
+
+msgid "Setting %s to use a custom label widget"
+msgstr "设置 %s 以使用自定义标签控件"
+
+msgid "Setting %s to use a custom title"
+msgstr "设置 %s 以使用自定义标题"
+
+msgid "Setting %s to use a custom titlebar"
+msgstr "设置 %s 以使用自定义标题栏"
+
+msgid "Setting %s to use a custom tooltip"
+msgstr "设定 %s 使用一个自定义工具提示"
+
+msgid "Setting %s to use a label and image"
+msgstr "设置 %s 以使用标签和图像"
+
+msgid "Setting %s to use a logo icon"
+msgstr "设定 %s 使用一个徽标图标"
+
+msgid "Setting %s to use a named icon"
+msgstr "设定 %s 使用一个具名图标"
+
+msgid "Setting %s to use a pattern string"
+msgstr "设置 %s 以使用模式字符串"
+
+msgid "Setting %s to use a primary icon from filename"
+msgstr "设置 %s 以从文件名使用主图标"
+
+msgid "Setting %s to use a primary icon from stock"
+msgstr "设置 %s 以从库中使用主图标"
+
+msgid "Setting %s to use a primary icon from the icon theme"
+msgstr "设置 %s 以从图标主题中使用主图标"
+
+msgid "Setting %s to use a resource name"
+msgstr "设定 %s 使用一个源名字"
+
+msgid "Setting %s to use a secondary icon from filename"
+msgstr "设定 %s 使用来自从文件名的第二图标"
+
+msgid "Setting %s to use a secondary icon from stock"
+msgstr "设定 %s 使用来自库中的第二图标"
+
+msgid "Setting %s to use a secondary icon from the icon theme"
+msgstr "设定 %s 使用来自从图标主题的第二图标"
+
+msgid "Setting %s to use a single line"
+msgstr "设置 %s 以使用单行"
+
+msgid "Setting %s to use a stock button"
+msgstr "设置 %s 以使用库存(Stock)按钮"
+
+msgid "Setting %s to use a stock item"
+msgstr "设置 %s 以使用库存条目"
+
+msgid "Setting %s to use a system provided titlebar"
+msgstr "设置 %s 以使用系统提供的标题栏"
+
+msgid "Setting %s to use an attribute list"
+msgstr "设置 %s 以使用特性列表"
+
+msgid "Setting %s to use an external buffer"
+msgstr "设置 %s 以使用外部缓冲区"
+
+msgid "Setting %s to use an icon file"
+msgstr "设定 %s 使用一个图标文件"
+
+msgid "Setting %s to use an image from filename"
+msgstr "设置 %s 以通过指定文件名使用图像"
+
+msgid "Setting %s to use an image from stock"
+msgstr "设置 %s 以使用一个库存中的图像"
+
+msgid "Setting %s to use an image from the icon theme"
+msgstr "设置 %s 以使用图标主题中的图像"
+
+msgid "Setting %s to use logo file"
+msgstr "设定 %s 使用徽标文件"
+
+msgid "Setting %s to use normal line wrapping"
+msgstr "设置 %s 以使用普通的自动换行"
+
+msgid "Setting %s to use specific Pango word wrapping"
+msgstr "设置 %s 以使用指定的 Pango 自动换行"
+
+msgid "Setting %s to use standard configuration"
+msgstr "设置 %s 以使用标准配置"
+
+msgid "Setting %s to use standard label text"
+msgstr "设置 %s 以使用标准标签文本"
+
+msgid "Setting %s to use static text"
+msgstr "设置 %s 以使用静态文本"
+
+msgid "Setting %s to use the %s property as an attribute"
+msgstr "设置 %s 以使 %s 属性成为可用特性"
+
+msgid "Setting %s to use the %s property directly"
+msgstr "设置 %s 以直接使用 %s 属性"
+
+msgid "Setting %s to use the standard title"
+msgstr "设置 %s 以使用标准标题"
+
+msgid "Setting %s to use tooltip markup"
+msgstr "设定 %s 使用工具提示标记"
+
+msgid "Setting License type of %s"
+msgstr "设定 %s 的许可证类型"
+
+msgid "Setting columns on %s"
+msgstr "在 %s 上设置栏"
+
+msgid "Setting i18n metadata"
+msgstr "设置 i18n 元数据"
+
+msgid "Setting multiple properties"
+msgstr "设置复合属性"
+
+msgid "Setting object type on %s to %s"
+msgstr "设置 %s 的对象类型为 %s"
+
+msgid "Setting primary icon of %s to not use tooltip markup"
+msgstr "设定 %s 的主图标不使用工具提示标记"
+
+msgid "Setting primary icon of %s to use tooltip markup"
+msgstr "设定 %s 的主图标使用工具提示标记"
+
+msgid "Setting project's %s property"
+msgstr "修改项目的 %s 属性"
+
+msgid "Setting resource path to '%s'"
+msgstr "将资源路径设置为“%s”"
+
+msgid "Setting secondary icon of %s to not use tooltip markup"
+msgstr "设定 %s 的第二图标不使用工具提示标记"
+
+msgid "Setting secondary icon of %s to use tooltip markup"
+msgstr "设定 %s 的第二图标使用工具提示标记"
+
+msgid "Setting target version of '%s' to %d.%d"
+msgstr "将“%s”的目标版本设置为 %d.%d"
+
+msgid "Setting translation domain to '%s'"
+msgstr "将翻译域设置为“%s”"
+
+msgid "Setting widget '%s' as template"
+msgstr "将组件“%s”设为模板"
+
+msgid "Setup Text Attributes"
+msgstr "设置文本特性"
+
+msgid "Seventh Key"
+msgstr "第七键"
+
+msgid "Shift Key"
+msgstr "Shift 键"
+
+msgid "Show Class Field"
+msgstr "显示类字段"
+
+msgid "Show Glade debug options"
+msgstr "显示 Glade 调试选项"
+
+msgid "Show info"
+msgstr "显示信息"
+
+msgid "Show warnings when saving"
+msgstr "保存时显示警告"
+
+msgid "Show window controls"
+msgstr "显示窗口控件"
+
+msgid "Shrink"
+msgstr "收缩"
+
+msgid "Signal"
+msgstr "信号"
+
+msgid "Signal has versioning problems: "
+msgstr "信号存在版本问题： "
+
+msgid "SignalClass"
+msgstr "信号类别"
+
+msgid "Single"
+msgstr "单一的"
+
+msgid "Single Click Activate"
+msgstr "单击激活"
+
+msgid "Single Paragraph Mode column"
+msgstr "单段模式栏"
+
+msgid "Sixth Key"
+msgstr "第六键"
+
+msgid "Size"
+msgstr "大小"
+
+msgid "Size Group"
+msgstr "尺寸组"
+
+msgid "Size column"
+msgstr "尺寸栏"
+
+msgid "Slide Down"
+msgstr "下滑"
+
+msgid "Slide Left"
+msgstr "左滑"
+
+msgid "Slide Left-Right"
+msgstr "由左向右滑"
+
+msgid "Slide Right"
+msgstr "右滑"
+
+msgid "Slide Up"
+msgstr "上滑"
+
+msgid "Slide Up-Down"
+msgstr "由上向下滑"
+
+msgid "Slider"
+msgstr "滑动条"
+
+msgid "Small Capitals"
+msgstr "小型大写字母"
+
+msgid "Small Toolbar"
+msgstr "小工具栏"
+
+msgid "Smooth scroll"
+msgstr "平滑滚动"
+
+msgid "Snow Leopard"
+msgstr "Snow Leopard"
+
+msgid "Solaris"
+msgstr "Solaris"
+
+msgid "Some properties have versioning problems: "
+msgstr "一些属性存在版本问题： "
+
+msgid "Some signals have versioning problems: "
+msgstr "一些信号存在信号问题： "
+
+msgid "Sorry, automatic subscription to Glade Users mailing list failed"
+msgstr "抱歉，自动订阅 Glade 用户邮件列表失败"
+
+msgid "South"
+msgstr "南"
+
+msgid "South East"
+msgstr "东南"
+
+msgid "South West"
+msgstr "西南"
+
+msgid "Spacing"
+msgstr "间距"
+
+msgid "Spacing:"
+msgstr "间距："
+
+msgid "Special Child Type"
+msgstr "特定的子类型"
+
+msgid ""
+"Specially because there are %d objects that can not be build with types "
+msgstr "由于有 %d 个对象不能使用以下类型构建： "
+
+msgid "Specially because there is an object that can not be build with type "
+msgstr "由于有 1 个对象不能使用以下类型构建： "
+
+msgid "Specify the actual editor property type name to use for this shell"
+msgstr "指定用于该 shell的实际编辑器属性类型名称"
+
+msgid "Spellcheck"
+msgstr "拼写检查"
+
+msgid "Spin"
+msgstr "微调"
+
+msgid "Spin Button"
+msgstr "微调按钮"
+
+msgid "Spin Button Attributes"
+msgstr "微调按钮特性"
+
+msgid "Spin Renderer"
+msgstr "微调渲染"
+
+msgid "Spinner"
+msgstr "微调"
+
+msgid "Spinner Renderer"
+msgstr "微调渲染器"
+
+msgid "Splash Screen"
+msgstr "启动画面"
+
+msgid "Split Pane"
+msgstr "分割面板"
+
+msgid "Spread"
+msgstr "展开"
+
+msgid "Stack"
+msgstr "堆栈"
+
+msgid "Stack Attributes"
+msgstr "堆栈特性"
+
+msgid "Stack Sidebar"
+msgstr "堆栈侧边栏"
+
+msgid "Stack Switcher"
+msgstr "堆栈切换器"
+
+msgid "Stack Switcher Attributes"
+msgstr "堆栈切换器特性"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "Start Action"
+msgstr "开始动作"
+
+msgid "Start Action:"
+msgstr "开始动作："
+
+msgid "Static"
+msgstr "静态的"
+
+msgid "Status"
+msgstr "状态"
+
+msgid "Status Bar"
+msgstr "状态栏"
+
+msgid "Status Icon"
+msgstr "状态图标"
+
+msgid "Stepper Sensitivity"
+msgstr "步进器敏感度"
+
+msgid "Stock"
+msgstr "库存"
+
+msgid "Stock Button"
+msgstr "库存按钮"
+
+msgid "Stock Detail column"
+msgstr "库存细节栏"
+
+msgid "Stock Image"
+msgstr "库存图像"
+
+msgid "Stock Item"
+msgstr "库存条目"
+
+msgid "Stock Item:"
+msgstr "库存条目："
+
+msgid "Stock Size column"
+msgstr "库存大小栏"
+
+msgid "Stock column"
+msgstr "库存栏"
+
+msgid "Stretch column"
+msgstr "拉伸栏"
+
+msgid "Strikethrough column"
+msgstr "删除线栏"
+
+msgid "String"
+msgstr "字符串"
+
+msgid "Structure"
+msgstr "结构"
+
+msgid "Style Classes"
+msgstr "样式类"
+
+msgid "Style column"
+msgstr "样式栏"
+
+msgid "Submit"
+msgstr "提交"
+
+msgid "Subscribe me to the mailing list"
+msgstr "订阅邮件列表"
+
+msgid ""
+"Subscribe to Glade Users mailing list.\n"
+"You will be sent email requesting confirmation!"
+msgstr ""
+"订阅 Glade 用户邮件列表。\n"
+"将向您发送确认请求的邮件！"
+
+msgid "Subscript text"
+msgstr "下标文本"
+
+msgid "Substructure"
+msgstr "子结构"
+
+msgid "Subwindow Of"
+msgstr "子窗口从属于"
+
+msgid "Summary"
+msgstr "摘要"
+
+msgid "Super Modifier"
+msgstr "Super 修饰键"
+
+msgid "Superscript text"
+msgstr "上标文本"
+
+msgid "Support Warning"
+msgstr "支持警告"
+
+msgid "Swap"
+msgstr "交换"
+
+msgid "Swapped"
+msgstr "交换"
+
+msgid "Swapped | After"
+msgstr "交换 | 之后"
+
+msgid "Switch"
+msgstr "切换"
+
+msgid "T_ranslatable"
+msgstr "可译的(_R)"
+
+msgid "Tab Attributes"
+msgstr "标签页特性"
+
+msgid "Table"
+msgstr "表"
+
+msgid "Table Cell"
+msgstr "表单元格"
+
+msgid "Table Row"
+msgstr "表行"
+
+msgid "Tabular Menus"
+msgstr "扁平菜单"
+
+msgid "Tag"
+msgstr "标签"
+
+msgid "Tear Off Menu Item"
+msgstr "可分离菜单条目"
+
+msgid "Tearoff menus"
+msgstr "可分离菜单"
+
+msgid "Tearoff menus are disabled"
+msgstr "已禁用可分离菜单"
+
+msgid "Template"
+msgstr "模板"
+
+msgid "Template classes are not supported in gtk+ %d.%d"
+msgstr "gtk+ %d.%d 并不支持模板类"
+
+msgid "Terminal"
+msgstr "终端"
+
+msgid "Text"
+msgstr "文本"
+
+msgid "Text Buffer"
+msgstr "文本缓冲区"
+
+msgid "Text Column column"
+msgstr "文本栏"
+
+msgid "Text Entry"
+msgstr "文本条目"
+
+msgid "Text Formatting"
+msgstr "文本格式化"
+
+msgid "Text Horizontal Alignment column"
+msgstr "文本水平对齐栏"
+
+msgid "Text Renderer"
+msgstr "文本渲染"
+
+msgid "Text Tag"
+msgstr "文本标签"
+
+msgid "Text Tag Table"
+msgstr "文本标签表"
+
+msgid "Text Tag Table Editor"
+msgstr "文本标签表编辑器"
+
+msgid "Text Vertical Alignment column"
+msgstr "文本垂直对齐栏"
+
+msgid "Text View"
+msgstr "文本视图"
+
+msgid "Text View Attributes"
+msgstr "文本视图特性"
+
+msgid "Text below icons"
+msgstr "文字在图标下方"
+
+msgid "Text beside icons"
+msgstr "文字在图标旁边"
+
+msgid "Text column"
+msgstr "文本栏"
+
+msgid "Text only"
+msgstr "只有文字"
+
+msgid "Text:"
+msgstr "文本："
+
+msgid ""
+"Thank you for taking Glade Users survey, we appreciate it!\n"
+"\n"
+"To validate this email address open the folowing link\n"
+"\n"
+"https://people.gnome.org/~jpu/glade/registration.php?email=$email&validation_token=$new_validation_token\n"
+"\n"
+"In case you want to change or update the survey, your current update token is:\n"
+"$new_token\n"
+"\n"
+"Cheers\n"
+"\n"
+"\tThe Glade team\n"
+msgstr ""
+"非常感谢您参加 Glade 用户调查，我们非常感激！\n"
+"\n"
+"为了验证此电子邮件地址需要打开如下链接\n"
+"\n"
+"https://people.gnome.org/~jpu/glade/registration.php?email=$email&validation_token=$new_validation_token\n"
+"\n"
+"若您想改变或更新此调查问卷，您当前的更新令牌是：\n"
+"$new_token\n"
+"\n"
+"诚挚的\n"
+"\n"
+"\tGlade 开发组\n"
+
+msgid ""
+"Thank you for taking the time to complete the survey, we appreciate it!"
+msgstr "感谢参与此调查。我们非常感激！"
+
+msgid ""
+"Thank you for updating your Glade Users survey data, we appreciate it!\n"
+"\n"
+"In case you want to change something again, your current update token is:\n"
+"$new_token\n"
+"\n"
+"Cheers\n"
+"\n"
+"\tThe Glade team\n"
+msgstr ""
+"非常感谢您参加 Glade 用户调查，我们非常感激！\n"
+"\n"
+"若您想再次改变什么，您当前的更新令牌是：\n"
+"$new_token\n"
+"\n"
+"诚挚的\n"
+"\n"
+"\tGlade 开发组\n"
+
+msgid "The GladeDesignView that contains this layout"
+msgstr "包含该样式的 GladeDesignView"
+
+msgid "The GladeProperty to display a label for"
+msgstr "要显示标签的 GladeProperty"
+
+msgid "The GladePropertyClass for this property"
+msgstr "该属性的 GladePropertyClass"
+
+msgid "The GladePropertyClass this GladeEditorProperty was created for"
+msgstr "Glade 属性类，创建 Glade 编译器属性是为了"
+
+msgid "The accelerator can only be set when inside an Action Group."
+msgstr "快捷键只可在“动作组”中设置。"
+
+msgid "The accessible role of this object"
+msgstr "该对象的辅助功能角色"
+
+msgid "The class adaptor for the associated widget"
+msgstr "相关组件的类适配器"
+
+msgid "The class field string"
+msgstr "类字段字符串"
+
+msgid "The column in the model to load the value from"
+msgstr "模型中加载值的栏"
+
+msgid "The container object this editor is currently editing"
+msgstr "编辑器中正在编辑的容器对象"
+
+msgid "The current item to add to the project"
+msgstr "当前项添加到项目"
+
+msgid "The currently effective GladePointerMode"
+msgstr "当前有效的 GladePointerMode"
+
+msgid "The currently loaded widget in this editor"
+msgstr "这个编辑器中当前加载的组件"
+
+msgid ""
+"The decoration layout does not apply to header bars which do no show window "
+"controls"
+msgstr "装饰布局不适用于不显示标题栏的窗口控件"
+
+msgid "The detail for this signal"
+msgstr "该信号的细节"
+
+msgid "The editor page type to create this GladeEditorTable for"
+msgstr "创建该 GladeEditorTable 的目标编辑器页面类型"
+
+msgid "The file %s has been modified since reading it"
+msgstr "文件 %s 相比读取时已修改"
+
+msgid "The filesystem path of the project"
+msgstr "项目的文件系统路径"
+
+msgid "The glade project that this widget belongs to"
+msgstr "组件从属的 glade 项目"
+
+msgid "The glade widget to edit signals"
+msgstr "用于编辑信号的 Glade 组件"
+
+msgid "The handler for this signal"
+msgstr "此信号的处理函数"
+
+msgid "The height of the widget when toplevel in the GladeDesignLayout"
+msgstr "在 GladeDesignLayout 中组件为顶层组件时的高度"
+
+msgid "The icon name"
+msgstr "图标的名称"
+
+msgid "The internal name of the widget"
+msgstr "组件的内部名称"
+
+msgid "The list of application names to add to the filter"
+msgstr "添加到过滤器的应用程序名列表"
+
+msgid "The list of file name patterns to add to the filter"
+msgstr "添加到过滤器的文件名模式列表"
+
+msgid "The list of items to show in the combo box"
+msgstr "在组合框中显示条目数"
+
+msgid "The list of mime types to add to the filter"
+msgstr "添加到过滤器的 MIME 类型列表"
+
+msgid "The name of the widget"
+msgstr "组件名称"
+
+msgid "The name of the widget catalog this class was declared by"
+msgstr "声明此类的组件分类的名称"
+
+msgid ""
+"The names of the icons to be used by the scale button. The first item in the"
+" array will be used in the button when the current value is the lowest "
+"value, the second item for the highest value. All the subsequent icons will "
+"be used for all the other values, spread evenly over the range of values"
+msgstr ""
+"缩放按钮所用的图标名。数组的第一项将在当前值为最小值时用于按钮中，第二个条目则是最大值时。所有随后的图标都将被用在其他值，在值范围内均匀分布。"
+
+msgid "The number of columns for this grid"
+msgstr "网格的列数"
+
+msgid "The number of digits to round the value to when the value changes"
+msgstr "当值变化时，取整的位数"
+
+msgid "The number of items in the action bar"
+msgstr "动作栏中的项目数"
+
+msgid "The number of items in the box"
+msgstr "框中的条目数"
+
+msgid "The number of items in the header bar"
+msgstr "顶栏中的项目数"
+
+msgid "The number of pages in the notebook"
+msgstr "笔记本中的页数"
+
+msgid "The number of pages in the stack"
+msgstr "堆栈中的页数"
+
+msgid "The number of rows for this grid"
+msgstr "网格的行数"
+
+msgid "The number of submenus in the popover menu"
+msgstr "弹出框菜单中的子菜单数"
+
+msgid "The object associated"
+msgstr "关联的对象"
+
+msgid "The object's unique identifier"
+msgstr "该对象的唯一标识符"
+
+msgid "The page position in the Assistant"
+msgstr "助手的页面位置"
+
+msgid "The pango attributes for this label"
+msgstr "该标签的 pango 特性"
+
+msgid "The position of the child in the flowbox"
+msgstr "流动框中子控件的位置"
+
+msgid "The position of the menu item in the menu shell"
+msgstr "菜单中菜单栏目的位置"
+
+msgid "The position of the row item in the listbox"
+msgstr "列表框中行条目的位置"
+
+msgid "The position of the tool item group in the palette"
+msgstr "工具条目组在调色板中的位置"
+
+msgid "The position of the tool item in the toolbar"
+msgstr "工具栏中工具条目的位置"
+
+msgid "The project %s has unsaved changes"
+msgstr "%s 项目有未保存的更改"
+
+msgid "The project being inspected"
+msgstr "正在检查的项目"
+
+msgid "The project file %s has been externally modified"
+msgstr "项目文件 %s 已经在外部被修改"
+
+msgid "The project this properties dialog was created for"
+msgstr "创建此属性对话框的目标项目"
+
+msgid "The project translation domain"
+msgstr "本项目的翻译域"
+
+msgid "The project's template widget, if any"
+msgstr "该项目的模板组件，如有的话"
+
+msgid "The property name to use when loading by widget"
+msgstr "由窗口组件载入时使用的属性名"
+
+msgid "The property used to set the X position of a child object"
+msgstr "用于设置子结点对象 X 位置的属性"
+
+msgid "The property used to set the Y position of a child object"
+msgstr "用于设置子结点对象 Y 位置的属性"
+
+msgid "The property used to set the height of a child object"
+msgstr "用于设置子结点对象高度的属性"
+
+msgid "The property used to set the width of a child object"
+msgstr "用于设置子结点对象宽度的属性"
+
+msgid "The response ID of this button in a dialog"
+msgstr "对话框中该按钮的响应ID"
+
+msgid "The signal class of this signal"
+msgstr "此信号的信号类别"
+
+msgid ""
+"The sole purpose of this survey is to better know our user base.\n"
+"Your email address will be used to uniquely identify you as a Glade user and send you back a modification token in case you want to modify something or add extra comments.\n"
+"Only statistics compiled from the whole dataset will be shared publicly.\n"
+"Individual data will be stored in a private database and it will not be shared with the public or any other third party."
+msgstr ""
+"这项调查纯粹是为了更好地了解我们的用户群。\n"
+"您的邮件地址将用于惟一地标识您的 Glade 用户身份，并借以向您发送一个修改信息，方便您进行修改或添加评论。\n"
+"只有从整个数据库中得到的统计结果会公开；\n"
+"个人数据将保存在加密的数据库中，不会公开或透露给第三方组织。"
+
+msgid ""
+"The stock icon displayed on the item (choose an item from GTK+ stock or from"
+" an icon factory)"
+msgstr "显示于条目上的库存图标(从 GTK+ 库中或者从图标工厂中选择一项)"
+
+msgid "The stock item for this button"
+msgstr "库存的按钮条目"
+
+msgid "The stock item for this menu item"
+msgstr "该菜单项的库存条目"
+
+msgid "The user data for this signal"
+msgstr "该信号的用户数据"
+
+msgid ""
+"The user interfaces designed in Glade are saved as XML and these can be "
+"loaded by applications dynamically as needed by using GtkBuilder or used "
+"directly to define a new GtkWidget derived object class using GTK+ new "
+"template feature."
+msgstr ""
+"Glade 所设计的用户界面以 XML 格式保存，应用程序可以通过使用 GtkBuilder 动态加载它们，或者使用 Gtk+ "
+"的新模板功能直接用于定义新的 GtkWidget 继承(derived)对象类。"
+
+msgid "The versioning support warning for this signal"
+msgstr "该版本支持该信号警告"
+
+msgid "The width of the widget when toplevel in the GladeDesignLayout"
+msgstr "在 GladeDesignLayout 中组件为顶层组件时的宽度"
+
+msgid "Themed Icon"
+msgstr "主题化的图标"
+
+msgid "Third Mouse Button"
+msgstr "第三鼠标键"
+
+msgid "This combo box is not configured to have an entry"
+msgstr "该组合框未配置有输入条"
+
+msgid "This gives backends control to set property sensitivity"
+msgstr "提供设置属性敏感性的后台控制"
+
+msgid "This progressbar does not show text"
+msgstr "该进度条不显示文本"
+
+msgid "This property does not apply to client-side decorated windows"
+msgstr "该属性无法应用到客户端装饰后的窗口"
+
+msgid "This property does not apply when a custom title is set"
+msgstr "当设置了自定义标题时，无法应用该属性。"
+
+msgid "This property is deprecated"
+msgstr "该属性已弃用"
+
+msgid "This property is disabled"
+msgstr "该属性已禁用"
+
+msgid ""
+"This property is only available\n"
+"if the entry characters are invisible"
+msgstr "此属性只有当输入条字符不可见时可用"
+
+msgid ""
+"This property is only available\n"
+"if the entry has a frame"
+msgstr "此属性只在输入框情况下可用"
+
+msgid "This property is only for use in dialog action buttons"
+msgstr "此属性用于对话框动作按钮"
+
+msgid "This property is set to be controlled by an Action"
+msgstr "该属性将由“动作”控制"
+
+msgid "This property only applies if ellipsize and wrapping are enabled"
+msgstr "该属性仅适用于启用 ellipsize 和换行时"
+
+msgid "This property only applies to named icons"
+msgstr "此属性只用于命名图标"
+
+msgid "This property only applies to stock images or named icons"
+msgstr "此属性只适用于库存图像或具名图标"
+
+msgid "This property only applies when configuring the label with text"
+msgstr "该属性仅适用于配置带文本标签时"
+
+msgid ""
+"This property was introduced in %s %d.%d while project targets %s %d.%d"
+msgstr "该属性在 %s %d.%d 中被引入，而项目目标为 %s %d.%d"
+
+msgid "This signal is deprecated"
+msgstr "该信号已弃用"
+
+msgid "This signal was introduced in %s %d.%d while project targets %s %d.%d"
+msgstr "信号在 %s %d.%d 被引入，而项目目标为 %s %d.%d"
+
+msgid "This widget is deprecated"
+msgstr "该组件已被废弃"
+
+msgid "This widget was introduced in %s %d.%d while project targets %s %d.%d"
+msgstr "这个组件在 %s %d.%d 中被引入，而项目目标是 %s %d.%d"
+
+msgid "Tiger"
+msgstr "Tiger"
+
+msgid "Time"
+msgstr "时间"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Title Bar"
+msgstr "标题栏"
+
+msgid "Title:"
+msgstr "标题："
+
+msgid "Toggle"
+msgstr "开关"
+
+msgid "Toggle Action"
+msgstr "开关动作"
+
+msgid "Toggle Button"
+msgstr "开关按钮"
+
+msgid "Toggle Renderer"
+msgstr "开关渲染"
+
+msgid "Toggle Tool Button"
+msgstr "开关工具按钮"
+
+msgid "Toggle and Radio"
+msgstr "开关及单选"
+
+msgid ""
+"Tokens are processed manually in batches.\n"
+"Please be patient."
+msgstr "令牌是手工成批处理的，请耐心等待。"
+
+msgid "Tool Bar"
+msgstr "工具栏"
+
+msgid "Tool Bar Editor"
+msgstr "工具栏编辑器"
+
+msgid "Tool Button"
+msgstr "工具按钮"
+
+msgid "Tool Item"
+msgstr "工具条目"
+
+msgid "Tool Item Group"
+msgstr "工具条目组"
+
+msgid "Tool Palette"
+msgstr "工具调色板"
+
+msgid "Tool Palette Editor"
+msgstr "工具面板编辑器"
+
+msgid "Tool Tip"
+msgstr "工具提示"
+
+msgid "Toolbar"
+msgstr "工具栏(v)"
+
+msgid "Toolbar Proxies"
+msgstr "工具栏代理"
+
+msgid "Toolkit version required:"
+msgstr "所需工具集的版本："
+
+msgid "Tooltip"
+msgstr "工具提示"
+
+msgid "Tooltip:"
+msgstr "工具提示："
+
+msgid "Top"
+msgstr "顶"
+
+msgid "Top Left"
+msgstr "左上"
+
+msgid "Top Level"
+msgstr "顶层"
+
+msgid "Top Right"
+msgstr "右上"
+
+msgid "Top to Bottom"
+msgstr "自顶到底"
+
+msgid "Top:"
+msgstr "顶端："
+
+msgid "Toplevel Height"
+msgstr "顶层高度"
+
+msgid "Toplevel Width"
+msgstr "顶层宽度"
+
+msgid "Toplevels"
+msgstr "顶层"
+
+msgid "Touch"
+msgstr "触摸"
+
+msgid "Touchpad Gesture"
+msgstr "触控板手势"
+
+msgid "Transient For:"
+msgstr "过渡目标："
+
+msgid "Translatable"
+msgstr "可译的"
+
+msgid "Translated title for the class used in the glade UI"
+msgstr "在 Glade UI 中用到的类的翻译名称"
+
+msgid "Translation Domain"
+msgstr "翻译域"
+
+msgid "Translation domain:"
+msgstr "翻译域"
+
+msgid "Translators"
+msgstr "译者"
+
+msgid "Tree"
+msgstr "树"
+
+msgid "Tree Item"
+msgstr "树条目"
+
+msgid "Tree Model Filter"
+msgstr "树模型过滤器"
+
+msgid "Tree Model Sort"
+msgstr "树模型排序"
+
+msgid "Tree Selection"
+msgstr "树选择"
+
+msgid "Tree Store"
+msgstr "树库"
+
+msgid "Tree Table"
+msgstr "树表格"
+
+msgid "Tree View"
+msgstr "树视图"
+
+msgid "Tree View Attributes"
+msgstr "树视图特性"
+
+msgid "Tree View Column"
+msgstr "树视图栏"
+
+msgid "Tree View Editor"
+msgstr "树视图编辑器"
+
+msgid "Tree model:"
+msgstr "树模型："
+
+msgid ""
+"Trying to save private data to %s directory but it is a regular file.\n"
+"No private data will be saved in this session"
+msgstr ""
+"试图保存私有数据到 %s 文件夹，但是它是一个常规文件。\n"
+"此会话将不保存私有数据"
+
+msgid "Turbolinux"
+msgstr "Turbolinux"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Type:"
+msgstr "类型："
+
+msgid "UI definition has no previewable widgets.\n"
+msgstr "UI定义没有 previewable 组件。\n"
+
+msgid "URL"
+msgstr "URL"
+
+msgid "Ubuntu"
+msgstr "Ubuntu"
+
+msgid "Ultra Condensed"
+msgstr "超压缩"
+
+msgid "Ultra Expanded"
+msgstr "超展开"
+
+msgid "Unable to copy unrecognized widget type."
+msgstr "无法复制不识别的组件类。"
+
+msgid "Unable to cut unrecognized widget type"
+msgstr "无法剪切不识别的组件类"
+
+msgid "Unable to load image (%s)"
+msgstr "无法加载图像(%s)"
+
+msgid "Unable to open '%s', the file does not exist.\n"
+msgstr "无法打开“%s”，该文件不存在。\n"
+
+msgid "Unable to paste to multiple widgets"
+msgstr "无法粘贴到多个组件"
+
+msgid "Unable to paste to the selected parent"
+msgstr "无法粘贴到上一级"
+
+msgid ""
+"Under what kind of license(s) do you release the software you used Glade to "
+"create?"
+msgstr "您用 Glade 创建的软件以哪种(哪些)许可证发布？"
+
+msgid "Underline column"
+msgstr "下划线栏"
+
+msgid "Undo"
+msgstr "撤消"
+
+msgid "Undo: %s"
+msgstr "撤消(_U)：%s"
+
+msgid "Unknown"
+msgstr "未知的"
+
+msgid "Unlocking %s"
+msgstr "解锁 %s"
+
+msgid "Unrecognized types"
+msgstr "不识别的类型"
+
+msgid "Unsaved %i"
+msgstr "未保存的 %i"
+
+msgid "Unset"
+msgstr "清空"
+
+msgid "Unsetting template"
+msgstr "取消设置模板"
+
+msgid "Unsetting widget '%s' as template"
+msgstr "取消设定组件“%s”为模板"
+
+msgid "Up"
+msgstr "上"
+
+msgid "Update Info"
+msgstr "更新信息"
+
+msgid "Upper:"
+msgstr "高:"
+
+msgid "Uppercase Chars"
+msgstr "大写字符"
+
+msgid "Uppercase Sentences"
+msgstr "大写句子"
+
+msgid "Uppercase Words"
+msgstr "大写单词"
+
+msgid "Use Action Appearance"
+msgstr "使用动作外观"
+
+msgid "Use Command"
+msgstr "使用命令"
+
+msgid "Use Underline"
+msgstr "使用下划线"
+
+msgid "Use markup"
+msgstr "使用标记"
+
+msgid ""
+"Use the \"query-tooltip\" to present a tooltip\n"
+"instead of setting a literal tooltip"
+msgstr ""
+"使用 \"query-tooltip\" 呈现工具提示\n"
+"而非设定的文字的工具提示"
+
+msgid "Used to generate names of new widgets"
+msgstr "用于生成新组件的名称"
+
+msgid "User Data"
+msgstr "用户数据"
+
+msgid "User Information"
+msgstr "用户信息"
+
+msgid "User Interface Designer"
+msgstr "用户界面设计器"
+
+msgid "User data"
+msgstr "用户数据"
+
+msgid "Utility"
+msgstr "实用"
+
+msgid "Vala"
+msgstr "Vala"
+
+msgid "Value"
+msgstr "值"
+
+msgid "Value ID:"
+msgstr "值 ID："
+
+msgid "Value column"
+msgstr "值栏"
+
+msgid "Value:"
+msgstr "值："
+
+msgid "Variant column"
+msgstr "变量栏"
+
+msgid ""
+"Verify that the project does not use any properties,\n"
+"signals or widgets which are not available in the target version"
+msgstr ""
+"验证该项目未使用任何在目标版本中\n"
+"不可用的属性，信号或组件"
+
+msgid "Version:"
+msgstr "版本："
+
+msgid "Versioning errors"
+msgstr "版本错误"
+
+msgid "Vertical"
+msgstr "垂直"
+
+msgid "Vertical Alignment"
+msgstr "垂直对齐"
+
+msgid "Vertical Alignment column"
+msgstr "垂直对齐栏"
+
+msgid "Vertical Box"
+msgstr "垂直框"
+
+msgid "Vertical Button Box"
+msgstr "垂直按钮框"
+
+msgid "Vertical Padding"
+msgstr "垂直填充"
+
+msgid "Vertical Padding column"
+msgstr "垂直填充栏"
+
+msgid "Vertical Panes"
+msgstr "垂直面板"
+
+msgid "Vertical Scale"
+msgstr "垂直比例"
+
+msgid "Vertical Scrollbar"
+msgstr "垂直滚动条"
+
+msgid "Vertical Separator"
+msgstr "垂直分割条"
+
+msgid "Vertical Writing"
+msgstr "垂直书写"
+
+msgid "Vertical:"
+msgstr "垂直的："
+
+msgid "Video"
+msgstr "视频"
+
+msgid "View Margin:"
+msgstr "视图边界："
+
+msgid "Viewport"
+msgstr "观察窗"
+
+msgid "Visibility Notify"
+msgstr "可见性通知"
+
+msgid "Visible"
+msgstr "可视的"
+
+msgid "Visible child"
+msgstr "可视子控件"
+
+msgid "Visible column"
+msgstr "可视栏"
+
+msgid "Visit Glade web site"
+msgstr "访问 Glade 网站"
+
+msgid "Vista"
+msgstr "Vista"
+
+msgid "Visual State"
+msgstr "视觉状态"
+
+msgid "Volume Button"
+msgstr "音量按钮"
+
+msgid "Waiting for %s"
+msgstr "正在等待 %s"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid ""
+"We are conducting a user survey\n"
+" would you like to take it now?"
+msgstr ""
+"我们在做用户调查\n"
+" 您现在愿意参加吗？"
+
+msgid "We care about privacy!"
+msgstr "我们尊重隐私！"
+
+msgid "We could not find the symbol \"%s\""
+msgstr "无法找到符号“%s”"
+
+msgid "Website"
+msgstr "网站"
+
+msgid "Website:"
+msgstr "网站："
+
+msgid "Weight column"
+msgstr "重量栏"
+
+msgid "West"
+msgstr "西方"
+
+msgid "Wether the widget is visible or not"
+msgstr "该控件是否可见"
+
+msgid "What aspect of the software needs the most improvement?"
+msgstr "软件的哪些方面最需要改进？"
+
+msgid "What is available in my OS"
+msgstr "我操作系统中提供的"
+
+msgid "What level of Glade user would you say you are?"
+msgstr "您觉得自己的 Glade 水平是？"
+
+msgid "When did you start using Glade?"
+msgstr "您从什么时候开始用 Glade 的？"
+
+msgid "Whether project has a selection"
+msgstr "项目是否有选择内容"
+
+msgid "Whether project has been modified since it was last saved"
+msgstr "项目在上次保存后是否已被修改"
+
+msgid "Whether project is read-only"
+msgstr "项目是否只读"
+
+msgid "Whether the headerbar should use a custom title widget."
+msgstr "标题栏是否使用一个自定义的标题控件"
+
+msgid "Whether the property to load is a packing property or not"
+msgstr "要载入的属性是否为包装(packing)属性"
+
+msgid "Whether the user data is swapped with the instance for the handler"
+msgstr "用户数据与处理程序的实力是否交换"
+
+msgid "Whether this action bar should include a centered child."
+msgstr "此动作栏是否应该包含一个中心子控件。"
+
+msgid "Whether this action is sensitive"
+msgstr "此动作是否敏感"
+
+msgid "Whether this action is visible"
+msgstr "此动作是否可见"
+
+msgid "Whether this box should include a centered child."
+msgstr "此框是否应该包含一个中心子控件。"
+
+msgid ""
+"Whether this composite child is an ancestral child or an anarchist child"
+msgstr "复合子结点是个祖传结点还是扰乱结点"
+
+msgid "Whether this container supports resizes of child widgets"
+msgstr "容器是否支持子组件改变大小"
+
+msgid ""
+"Whether this page will initially be marked as complete regardless of user "
+"input."
+msgstr "该页是否应忽略用户输入而被标记为已完成。"
+
+msgid "Whether this property is translatable"
+msgstr "该属性是否可以翻译"
+
+msgid "Whether this signal is run after default handlers"
+msgstr "处理函数是否默认这个信号"
+
+msgid "Whether this widget is a composite template"
+msgstr "该控件是否为一个复合模板"
+
+msgid "Whether this widget is the template for a composite widget"
+msgstr "该组件是否为一个复合组件的模板"
+
+msgid "Whether this window should include a custom titlebar."
+msgstr "这个窗口是否包括自定义标题栏。"
+
+msgid "Whether to append a colon ':' to the property name"
+msgstr "是否向该属性名附加一个冒号“:”"
+
+msgid "Whether to explicitly disable the check button"
+msgstr "是否明确禁用复选按钮"
+
+msgid ""
+"Whether to highlight the area of the trough from the bottom or left leading "
+"up to the knob"
+msgstr "是否高亮从底或左向上直到旋钮的整个区域"
+
+msgid "Whether to show an informational button for the loaded widget"
+msgstr "是否为加载的组件显示一个信息按钮"
+
+msgid "Whether to show the class field at the top"
+msgstr "是否在顶端显示类字段"
+
+msgid "Whether to show window controls, e.g. a close button."
+msgstr "是否显示窗口控件，例如关闭按钮。"
+
+msgid "Whether to start scrolling at less than minimum or natural height"
+msgstr "是否以小于最小的或自然的高度开始滚动"
+
+msgid "Whether to start scrolling at less than minimum or natural width"
+msgstr "是否以小于最小的或自然的宽度开始滚动"
+
+msgid ""
+"Whether to use markup in the\n"
+"primary icon's tooltip\n"
+msgstr ""
+"是否在主图标的\n"
+"工具提示中使用标记\n"
+
+msgid ""
+"Whether to use markup in the\n"
+"secondary icon's tooltip"
+msgstr ""
+"是否在第二图标的\n"
+"工具提示中使用标记"
+
+msgid "Whether to use markup in the tooltip"
+msgstr "是否在工具提示中使用标记"
+
+msgid "Whether to use the GladeCommand API when modifying properties"
+msgstr "修改属性时是否使用 GladeCommand API"
+
+msgid "Whether we are creating an exact duplicate when using a template"
+msgstr "当使用模板的时候，是否要创建一个完全一样的副本"
+
+msgid "Whether we should use the command API for the undo/redo stack"
+msgstr "是否对撤销/重做堆栈使用命令API"
+
+msgid "Which programming languages do you prefer?"
+msgstr "您喜欢用哪种编程语言？"
+
+msgid "Which version do you normally use?"
+msgstr "您一般用哪个版本？"
+
+msgid "Why not?"
+msgstr "为什么不呢？"
+
+msgid "Widget"
+msgstr "组件"
+
+msgid "Widget Attributes"
+msgstr "组件特性"
+
+msgid "Widget Flags"
+msgstr "组件标记"
+
+msgid "Widget Spacing"
+msgstr "组件间距"
+
+msgid "Widget selector"
+msgstr "组件选择器"
+
+msgid "Widget:"
+msgstr "组件："
+
+msgid "Widgets"
+msgstr "组件"
+
+msgid "Widgets of type %s can only have widgets as children."
+msgstr "组件类型的 %s 不能拥有子项。"
+
+msgid "Widgets of type %s need placeholders to add children."
+msgstr "组件类型的 %s 没有可用于添加子项的占位符。"
+
+msgid "Width column"
+msgstr "宽度栏"
+
+msgid "Width in Characters column"
+msgstr "以字符为单位的宽度栏"
+
+msgid "Width property"
+msgstr "宽度属性"
+
+msgid "Window"
+msgstr "窗口"
+
+msgid "Window Attributes"
+msgstr "窗口特性"
+
+msgid "Window Flags"
+msgstr "窗口标记"
+
+msgid "Window Group"
+msgstr "窗口组"
+
+msgid "Window Placement:"
+msgstr "窗口布局："
+
+msgid "Windows"
+msgstr "Windows"
+
+msgid "Word"
+msgstr "单词"
+
+msgid "Word Character"
+msgstr "单词字母"
+
+msgid "Word Completion"
+msgstr "单词补全"
+
+msgid "Wrap Mode column"
+msgstr "自动换行模式栏"
+
+msgid "Wrap Width column"
+msgstr "自动换行宽度栏"
+
+msgid "Wrap only on new line"
+msgstr "仅在换行符折行"
+
+msgid "X position property"
+msgstr "X 位置属性"
+
+msgid "XP"
+msgstr "XP"
+
+msgid "Xandros"
+msgstr "Xandros"
+
+msgid "Y position property"
+msgstr "Y 位置属性"
+
+msgid "Yes"
+msgstr "有"
+
+msgid "Yes, No"
+msgstr "是、否"
+
+msgid ""
+"You can mark this as translatable and set one name/address if you want to "
+"show a translation specific translator, otherwise you should list all "
+"translators and unmark this string for translation"
+msgstr "您可标记为可翻译的，如果您想显示翻译的一个具体的翻译者，请设置一个名称/地址，否则您不需要列出全部翻译者，取消这个翻译字符串标记"
+
+msgid "You cannot remove a widget internal to a composite widget."
+msgstr "您不能删除复合组件的内部组件。"
+
+msgid "You do not have the permissions necessary to save the file."
+msgstr "您没有保存文件需要的权限。"
+
+msgid "Your changes will be lost if you don't save them."
+msgstr "如果不保存，您的修改将会丢失。"
+
+msgid "[FILE...]"
+msgstr "[文件...]"
+
+msgid "[Read Only]"
+msgstr "[只读]"
+
+msgid "_Add widget here"
+msgstr "在这里添加组件(_A)"
+
+msgid "_Cancel"
+msgstr "取消(_C)"
+
+msgid "_Close"
+msgstr "关闭(_C)"
+
+msgid "_Common"
+msgstr "公共(_C)"
+
+msgid "_Copy"
+msgstr "复制(_C)"
+
+msgid "_Delete"
+msgstr "删除(_D)"
+
+msgid "_Developer Reference"
+msgstr "开发者参考(_D)"
+
+msgid "_Do not show this dialog again"
+msgstr "不再显示此对话(_D)"
+
+msgid "_Don't Save"
+msgstr "不保存(_D)"
+
+msgid "_Edit"
+msgstr "编辑(_E)"
+
+msgid "_File"
+msgstr "文件(_F)"
+
+msgid "_General"
+msgstr "常规(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_List standard icons only"
+msgstr "只列出标准图标(_L)"
+
+msgid "_New"
+msgstr "新建(_N)"
+
+msgid "_OK"
+msgstr "确定(_O)"
+
+msgid "_Open"
+msgstr "打开(_O)"
+
+msgid "_Packing"
+msgstr "包装(_P)"
+
+msgid "_Paste"
+msgstr "粘贴(_P)"
+
+msgid "_Properties:"
+msgstr "属性(_P)："
+
+msgid "_Reload"
+msgstr "重新加载(_R)"
+
+msgid "_Save"
+msgstr "保存(S)"
+
+msgid "_Save Anyway"
+msgstr "仍然保存(_S)"
+
+msgid "_Select"
+msgstr "选择(_S)"
+
+msgid "_Select All"
+msgstr "全部选择(_S)"
+
+msgid "_Select individual fields:"
+msgstr "选择独立区域(_S)："
+
+msgid "_Signals"
+msgstr "信号(_S)"
+
+msgid "_Text:"
+msgstr "文本(_T)："
+
+msgid "_Unselect All"
+msgstr "全部不选(_U)"
+
+msgid "_View"
+msgstr "视图(_V)"
+
+msgid "ago"
+msgstr "前"
+
+msgid "be verbose"
+msgstr "反向"
+
+msgid "class"
+msgstr "类"
+
+msgid "column"
+msgstr "栏"
+
+msgid "distribution"
+msgstr "发行版"
+
+msgid ""
+"gmodule support not found. gmodule support is required for glade to work"
+msgstr "未找到 gmodule 支持。Glade 正常工作需要 dmodule 支持"
+
+msgid "illumos"
+msgstr "illumos"
+
+msgid "make a slideshow of every toplevel widget by adding them in a GtkStack"
+msgstr "将多个顶层部件添加到 GtkStack 中来创建各部件的幻灯显示"
+
+msgid "months"
+msgstr "个月"
+
+msgid "multiple"
+msgstr "多个"
+
+msgid "no model"
+msgstr "无模型"
+
+msgid "openSUSE"
+msgstr "openSUSE"
+
+msgid "program or library name"
+msgstr "程序或库的名称"
+
+msgid "program or library short description"
+msgstr "程序或库的简短描述"
+
+msgid "root"
+msgstr "root"
+
+msgid "seconds"
+msgstr "秒"
+
+msgctxt "textattr"
+msgid "Absolute Size"
+msgstr "绝对大小"
+
+msgctxt "textattr"
+msgid "Background Color"
+msgstr "背景色"
+
+msgctxt "textattr"
+msgid "Font Description"
+msgstr "字体描述"
+
+msgctxt "textattr"
+msgid "Foreground Color"
+msgstr "前景色"
+
+msgctxt "textattr"
+msgid "Gravity"
+msgstr "重力"
+
+msgctxt "textattr"
+msgid "Gravity Hint"
+msgstr "重力提示"
+
+msgctxt "textattr"
+msgid "Scale"
+msgstr "比例"
+
+msgctxt "textattr"
+msgid "Size"
+msgstr "大小"
+
+msgctxt "textattr"
+msgid "Stretch"
+msgstr "拉伸"
+
+msgctxt "textattr"
+msgid "Strikethrough"
+msgstr "删除线"
+
+msgctxt "textattr"
+msgid "Strikethrough Color"
+msgstr "删除线颜色"
+
+msgctxt "textattr"
+msgid "Style"
+msgstr "样式"
+
+msgctxt "textattr"
+msgid "Underline"
+msgstr "下划线"
+
+msgctxt "textattr"
+msgid "Underline Color"
+msgstr "下划线颜色"
+
+msgctxt "textattr"
+msgid "Variant"
+msgstr "变量"
+
+msgctxt "textattr"
+msgid "Weight"
+msgstr "重量"
+
+msgid "the last action"
+msgstr "上一个动作"
+
+msgid "translator-credits"
+msgstr ""
+"Funda Wang <fundawang@linux.net.cn>, 2005\n"
+"Weisheng Wu <wwssir@gmail.com>, 2007\n"
+"Tao Wang <dancefire@gmail.com>, 2010\n"
+"Aron Xu <aronxu@gnome.org>, 2010.\n"
+"Tong Hui <tonghuix@gmail.com>, 2014\n"
+"Mandy Wang <wangmychn@gmail.com>, 2016\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Cheng Lu https://launchpad.net/~dawndiy\n"
+"  David Feng https://launchpad.net/~jiguanglizipao\n"
+"  Mandy Wang https://launchpad.net/~wangmychn\n"
+"  Wylmer Wang https://launchpad.net/~wantinghard\n"
+"  YunQiang Su https://launchpad.net/~wzssyqa\n"
+"  liu zhen https://launchpad.net/~liuzhen1191"
+
+msgid "unset"
+msgstr "重置"
+
+msgid "user_data"
+msgstr "用户数据"
+
+msgid "variant"
+msgstr "变体"
+
+msgid "version"
+msgstr "版本"
+
+msgid "years"
+msgstr "年"

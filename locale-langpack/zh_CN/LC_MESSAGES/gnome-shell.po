@@ -1,0 +1,1334 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues\n"
+"PO-Revision-Date: 2020-04-15 16:40+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:19+0000\n"
+
+msgid "%A %B %e %Y"
+msgstr "%Y年%-m月%-d日 %A"
+
+msgid "%A, %H∶%M"
+msgstr "%A %H:%M"
+
+msgid "%A, %l∶%M %p"
+msgstr "%A%p %-l:%M"
+
+msgid "%B %-d %Y"
+msgstr "%Y年%-m月%-d日"
+
+msgid "%B %-d %Y, %H∶%M"
+msgstr "%Y年%-m月%-d日，%H:%M"
+
+msgid "%B %-d %Y, %l∶%M %p"
+msgstr "%Y年%-m月%-d日，%p %-l:%M"
+
+msgid "%B %-d, %H∶%M"
+msgstr "%-m月%-d日，%H∶%M"
+
+msgid "%B %-d, %l∶%M %p"
+msgstr "%-m月%-d日，%p %-l:%M"
+
+msgid "%H∶%M"
+msgstr "%H∶%M"
+
+msgid "%OB"
+msgstr "%OB"
+
+msgid "%OB %Y"
+msgstr "%Y %OB"
+
+msgid "%d Connected"
+msgid_plural "%d Connected"
+msgstr[0] "%d 台设备已连接"
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] "%d 天前"
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] "%d 小时前"
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] "%d 分钟前"
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] "%d 月前"
+
+msgid "%d more"
+msgid_plural "%d more"
+msgstr[0] "还有另外 %d 项"
+
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] "%d 周前"
+
+msgid "%d year ago"
+msgid_plural "%d years ago"
+msgstr[0] "%d 年前"
+
+msgid "%d × %d"
+msgstr "%d × %d"
+
+msgid "%d %%"
+msgstr "%d %%"
+
+msgid "%d∶%02d Remaining (%d %%)"
+msgstr "剩余 %d:%02d (%d%%)"
+
+msgid "%d∶%02d Until Full (%d %%)"
+msgstr "距充满还剩 %d:%02d (%d%%)"
+
+msgid "%l∶%M %p"
+msgstr "%p %-l:%M"
+
+msgid ""
+"%s %s will be installed after restart. Upgrade installation can take a long "
+"time: ensure that you have backed up and that the computer is plugged in."
+msgstr "重启后将安装 %s %s。升级安装可能需要较长时间：请确保已经进行了备份并且已经插入了电源。"
+
+msgid "%s (console)"
+msgstr "%s（控制台）"
+
+msgid "%s (remote)"
+msgstr "%s（远程）"
+
+msgid "%s Connected"
+msgstr "%s 已连接"
+
+msgid "%s Connecting"
+msgstr "%s 正在连接"
+
+msgid "%s Connection Failed"
+msgstr "%s 连接失败"
+
+msgid "%s Disabled"
+msgstr "%s 已禁用"
+
+msgid "%s Disconnecting"
+msgstr "%s 正在断开"
+
+msgid "%s Hardware Disabled"
+msgstr "%s 硬件开关关闭"
+
+msgid "%s Hotspot Active"
+msgstr "%s 热点已激活"
+
+msgid "%s Modem Connection"
+msgid_plural "%s Modem Connections"
+msgstr[0] "%s 个调制解调器连接"
+
+msgid "%s Not Connected"
+msgstr "%s 未连接"
+
+msgid "%s Off"
+msgstr "%s 已关闭"
+
+msgid "%s Requires Authentication"
+msgstr "%s 需要认证"
+
+msgid "%s Unavailable"
+msgstr "%s 不可用"
+
+msgid "%s Unmanaged"
+msgstr "%s 未托管"
+
+msgid "%s Wi-Fi Connection"
+msgid_plural "%s Wi-Fi Connections"
+msgstr[0] "%s 个 Wi-Fi 连接"
+
+msgid "%s Wired Connection"
+msgid_plural "%s Wired Connections"
+msgstr[0] "%s 个有线连接"
+
+msgid "%s has been added to your favorites."
+msgstr "%s 已经添加到了您的收藏夹。"
+
+msgid "%s has been removed from your favorites."
+msgstr "%s 已经从您的收藏夹移除。"
+
+msgid "%s has not emitted any errors."
+msgstr "%s 没有传出任何错误信息。"
+
+msgid "%s is now known as %s"
+msgstr "%s 现在叫做 %s"
+
+msgid "%s will be logged out automatically in %d second."
+msgid_plural "%s will be logged out automatically in %d seconds."
+msgstr[0] "%s 将在 %d 秒后自动注销。"
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] "%u 个输入"
+
+msgid "%u Output"
+msgid_plural "%u Outputs"
+msgstr[0] "%u 个输出"
+
+msgid "(e.g., user or %s)"
+msgstr "（如 user 或 %s）"
+
+msgid "(or swipe finger)"
+msgstr "（或滑动手指）"
+
+msgid "<unknown>"
+msgstr "<未知>"
+
+msgid "A password is required to connect to “%s”."
+msgstr "连接到“%s”需要密码。"
+
+msgid "Accessibility"
+msgstr "辅助功能"
+
+msgid "Activation of network connection failed"
+msgstr "网络连接激活失败"
+
+msgid "Activities"
+msgstr "活动"
+
+msgid "Add to Favorites"
+msgstr "添加到收藏夹"
+
+msgid "Add world clocks…"
+msgstr "添加世界时钟…"
+
+msgid "Administrator"
+msgstr "管理员"
+
+msgid "Airplane Mode On"
+msgstr "飞行模式已开启"
+
+msgid "Airplane Mode is On"
+msgstr "飞行模式已开启"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Allow"
+msgstr "允许"
+
+msgid ""
+"Allows access to internal debugging and monitoring tools using the Alt-F2 "
+"dialog."
+msgstr "允许使用 Alt-F2 对话框访问内部调试和监视工具。"
+
+msgid ""
+"Alternatively you can connect by pushing the “WPS” button on your router."
+msgstr "此外，您也可以通过按下您路由器的“WPS”按钮来连接。"
+
+msgid "Always on Top"
+msgstr "置顶"
+
+msgid "Always on Visible Workspace"
+msgstr "总在可见工作区"
+
+msgid "Always show the “Log out” menu item in the user menu."
+msgstr "总在用户菜单中显示“注销”选项。"
+
+msgid "App Picker View"
+msgstr "应用选择器视图"
+
+msgid "Application defined"
+msgstr "应用程序定义"
+
+msgid "Applications"
+msgstr "应用程序"
+
+msgid "Assign keystroke"
+msgstr "分配按键"
+
+msgid "Attach modal dialog to the parent window"
+msgstr "将模态对话框附到其父窗口上"
+
+msgid "Authenticate"
+msgstr "认证"
+
+msgid "Authentication Required"
+msgstr "需要认证"
+
+msgid "Authentication dialog was dismissed by the user"
+msgstr "认证对话框已被用户取消"
+
+msgid "Authentication error"
+msgstr "认证出错"
+
+msgid "Authentication required"
+msgstr "需要认证"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+msgid "Bluetooth Settings"
+msgstr "蓝牙设置"
+
+msgid "Bounce Keys"
+msgstr "回弹键"
+
+msgid "Brightness"
+msgstr "亮度"
+
+msgid "Built-in Only"
+msgstr "只使用内置"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Change Background…"
+msgstr "更换壁纸…"
+
+msgid "Choose Session"
+msgstr "选择会话"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Command not found"
+msgstr "命令未找到"
+
+msgid "Configure GNOME Shell Extensions"
+msgstr "配置 GNOME Shell 扩展"
+
+msgid ""
+"Configures how the windows are shown in the switcher. Valid possibilities "
+"are “thumbnail-only” (shows a thumbnail of the window), “app-icon-only” "
+"(shows only the application icon) or “both”."
+msgstr "配置窗口如何显示于切换器中。有效的值有“thumbnail-only”“app-icon-only”和“both”。"
+
+msgid "Connect"
+msgstr "连接"
+
+msgid "Connect to Internet"
+msgstr "连接到互联网"
+
+msgid "Connection failed"
+msgstr "连接失败"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Could not authorize the Thunderbolt device: %s"
+msgstr "无法授权 Thunderbolt 设备：%s"
+
+msgid "Could not parse command:"
+msgstr "不能解析命令："
+
+msgid "DSL authentication"
+msgstr "DSL 认证"
+
+msgid "Dash"
+msgstr "Dash"
+
+msgid "Delay focus changes in mouse mode until the pointer stops moving"
+msgstr "将鼠标模式下焦点的更改推迟到指针停止移动之后"
+
+msgid "Deny"
+msgstr "拒绝"
+
+msgid "Deny Access"
+msgstr "拒绝访问"
+
+msgid "Disable"
+msgstr "禁用"
+
+msgid "Disable Until Tomorrow"
+msgstr "明天前禁用"
+
+msgid ""
+"Disable all extensions the user has enabled without affecting the “enabled-"
+"extension” setting."
+msgstr "禁用所有用户启用的扩展而不影响“enabled-extension”键值的设置。"
+
+msgid "Disable user extensions"
+msgstr "禁用用户扩展"
+
+msgid "Disabled"
+msgstr "已禁用"
+
+msgid "Disables the validation of extension version compatibility"
+msgstr "禁用检查扩展版本兼容性"
+
+msgid "Display Settings"
+msgstr "显示设置"
+
+msgid "Done"
+msgstr "完成"
+
+msgid "Download and install “%s” from extensions.gnome.org?"
+msgstr "从 extensions.gnome.org 下载并安装“%s”？"
+
+msgid "Downloading"
+msgstr "下载中"
+
+msgid "Edit…"
+msgstr "编辑…"
+
+msgid "Enable"
+msgstr "启用"
+
+msgid "Enable edge tiling when dropping windows on screen edges"
+msgstr "启用拖拽窗口到屏幕边缘时边缘平铺的功能"
+
+msgid "Enable internal tools useful for developers and testers from Alt-F2"
+msgstr "启用从 Alt-F2 调用对开发者和测试者有用的内部工具"
+
+msgid "Enabled"
+msgstr "已启用"
+
+msgid "Error"
+msgstr "出错"
+
+msgid "Estimating…"
+msgstr "正在估计……"
+
+msgid "Evolution Calendar"
+msgstr "Evolution 日历"
+
+msgid "Execution of “%s” failed:"
+msgstr "执行“%s”失败："
+
+msgid "External Only"
+msgstr "只使用外部"
+
+msgid "External drive connected"
+msgstr "外部驱动器已连接"
+
+msgid "External drive disconnected"
+msgstr "外部驱动器已断开"
+
+msgid "Failed to launch “%s”"
+msgstr "启动“%s”失败"
+
+msgid "Firmware Missing For %s"
+msgstr "%s 的固件缺失"
+
+msgid "Focus the active notification"
+msgstr "聚焦到活动通知"
+
+msgid "Force Quit"
+msgstr "强制退出"
+
+msgid "Frequent"
+msgstr "常用"
+
+msgid "Frequently used applications will appear here"
+msgstr "常用的应用程序会出现在这里"
+
+msgid "Fully Charged"
+msgstr "已充满电"
+
+msgid "GNOME Shell"
+msgstr "GNOME Shell"
+
+msgid ""
+"GNOME Shell extensions have a UUID property; this key lists extensions which"
+" should be loaded. Any extension that wants to be loaded needs to be in this"
+" list. You can also manipulate this list with the EnableExtension and "
+"DisableExtension D-Bus methods on org.gnome.Shell."
+msgstr ""
+"GNOME Shell 扩展有一个 UUID 属性，此键列出了应该加载的扩展。任何需要加载的扩展都需出现在此列表中。您还可以通过 DBus 的方式对 "
+"org.gnome.Shell 里的 EnableExtension 和 DisableExtension 的值进行修改，以修改此列表。"
+
+msgid ""
+"GNOME Shell will only load extensions that claim to support the current "
+"running version. Enabling this option will disable this check and try to "
+"load all extensions regardless of the versions they claim to support."
+msgstr "GNOME 只会加载声明支持当前运行版本的扩展。启用该选项会禁止此检查，并尝试加载所有扩展，无视它们声明支持的版本。"
+
+msgid "GNOME needs to lock the screen"
+msgstr "GNOME 需要锁定屏幕"
+
+msgid "Go online for weather information"
+msgstr "通过互联网查看天气信息"
+
+msgid "Grant Access"
+msgstr "允许访问"
+
+msgid "Headphones"
+msgstr "耳机"
+
+msgid "Headset"
+msgstr "耳麦"
+
+msgid "Hide Errors"
+msgstr "隐藏错误"
+
+msgid "Hide Text"
+msgstr "隐藏文本"
+
+msgid "High Contrast"
+msgstr "高对比度"
+
+msgid "History for command (Alt-F2) dialog"
+msgstr "命令对话框 (Alt-F2) 的历史记录"
+
+msgid "History for the looking glass dialog"
+msgstr "Looking Glass 控制台历史"
+
+msgid "Homepage"
+msgstr "主页"
+
+msgid "Hotspot Login"
+msgstr "热点登录"
+
+msgid ""
+"If true, only applications that have windows on the current workspace are "
+"shown in the switcher. Otherwise, all applications are included."
+msgstr "如果设为 true，则切换器只显示当前工作区中的应用。否则，显示所有应用。"
+
+msgid ""
+"If true, only windows from the current workspace are shown in the switcher. "
+"Otherwise, all windows are included."
+msgstr "如果设为 true，切换器只显示当前工作区的窗口。否则，包括所有窗口。"
+
+msgid "Index of the currently selected view in the application picker."
+msgstr "应用程序选择器中当前选中视图的索引。"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Join Displays"
+msgstr "拼接显示器"
+
+msgid "Just now"
+msgstr "刚刚"
+
+msgid "Keep Changes"
+msgstr "保留更改"
+
+msgid "Keybinding to focus the active notification"
+msgstr "用于聚焦到活动通知的快捷键"
+
+msgid "Keybinding to focus the active notification."
+msgstr "用于聚焦到活动通知的快捷键。"
+
+msgid "Keybinding to open the Activities Overview."
+msgstr "用于打开活动概览的快捷键。"
+
+msgid "Keybinding to open the application menu"
+msgstr "用于打开应用程序菜单的快捷键"
+
+msgid "Keybinding to open the application menu."
+msgstr "用于打开应用程序菜单的快捷键。"
+
+msgid "Keybinding to open the overview"
+msgstr "用于打开概览的快捷键"
+
+msgid "Keybinding to open the “Show Applications” view"
+msgstr "用于打开“显示应用程序”视图的快捷键"
+
+msgid ""
+"Keybinding to open the “Show Applications” view of the Activities Overview."
+msgstr "用于打开活动概览中的“显示应用程序”视图的快捷键。"
+
+msgid "Keybinding to toggle the visibility of the notification list"
+msgstr "用来切换通知列表是否可见的快捷键"
+
+msgid "Keybinding to toggle the visibility of the notification list."
+msgstr "用来切换通知列表是否可见的快捷键。"
+
+msgid "Keyboard"
+msgstr "键盘"
+
+msgid "Large Text"
+msgstr "大号文本"
+
+msgid "Launch using Dedicated Graphics Card"
+msgstr "使用独立显卡启动"
+
+msgid "Leave Off"
+msgstr "保持关闭"
+
+msgid "Leave On"
+msgstr "保持开启"
+
+msgid "Limit switcher to current workspace."
+msgstr "仅在当前工作区切换。"
+
+msgid "List of desktop file IDs for favorite applications"
+msgstr "收藏夹中应用程序桌面文件的 ID 列表"
+
+msgid "List possible modes"
+msgstr "列出可用的模式"
+
+msgid "Loading…"
+msgstr "正在载入……"
+
+msgid "Location Disabled"
+msgstr "定位服务已禁用"
+
+msgid "Location Enabled"
+msgstr "定位服务已启用"
+
+msgid "Location In Use"
+msgstr "定位服务使用中"
+
+msgid "Location access can be changed at any time from the privacy settings."
+msgstr "位置访问权限可以随时在隐私设置里更改。"
+
+msgid "Lock"
+msgstr "锁定"
+
+msgid "Lock was blocked by an application"
+msgstr "一个应用程序阻止了锁定"
+
+msgid "Log Out"
+msgstr "注销"
+
+msgid "Log in as another user"
+msgstr "以另一个用户身份登录"
+
+msgid "Login Window"
+msgstr "登录窗口"
+
+msgid "Maximize"
+msgstr "最大化"
+
+msgid "Microphone"
+msgstr "麦克风"
+
+msgid "Minimize"
+msgstr "最小化"
+
+msgid "Mirror"
+msgstr "镜像"
+
+msgid "Mobile Broadband Settings"
+msgstr "移动宽带设置"
+
+msgid "Mode used by GDM for login screen"
+msgstr "GDM 用于登录屏幕的模式"
+
+msgid "Mouse Keys"
+msgstr "鼠标按键"
+
+msgid "Move"
+msgstr "移动"
+
+msgid "Move Titlebar Onscreen"
+msgstr "在屏幕中移动标题栏"
+
+msgid "Move to Monitor Down"
+msgstr "移到下边显示器"
+
+msgid "Move to Monitor Left"
+msgstr "移到左边显示器"
+
+msgid "Move to Monitor Right"
+msgstr "移至右边显示器"
+
+msgid "Move to Monitor Up"
+msgstr "移到上边显示器"
+
+msgid "Move to Workspace Down"
+msgstr "移至下工作区"
+
+msgid "Move to Workspace Left"
+msgstr "移至左工作区"
+
+msgid "Move to Workspace Right"
+msgstr "移至右工作区"
+
+msgid "Move to Workspace Up"
+msgstr "移至上工作区"
+
+msgid "Network Login"
+msgstr "网络登录"
+
+msgid "Network Manager"
+msgstr "网络管理器"
+
+msgid "Network Settings"
+msgstr "网络设置"
+
+msgid "New Window"
+msgstr "新窗口"
+
+msgid ""
+"New device has been detected and needs to be authorized by an administrator."
+msgstr "检测到新设备，需要管理员授权。"
+
+msgid ""
+"New device has been detected while you were away. Please disconnect and "
+"reconnect the device to start using it."
+msgstr "您不在的时候检测到了新设备。请断开设备连接后重连来开始使用它。"
+
+msgid "New shortcut…"
+msgstr "新建快捷键…"
+
+msgid "Next month"
+msgstr "下个月"
+
+msgid "Night Light Disabled"
+msgstr "夜间模式已禁用"
+
+msgid "Night Light On"
+msgstr "夜间模式已启用"
+
+msgid "No Events"
+msgstr "无事件"
+
+msgid "No Networks"
+msgstr "无网络"
+
+msgid "No Notifications"
+msgstr "无通知"
+
+msgid "No extensions installed"
+msgstr "未安装扩展"
+
+msgid "No results."
+msgstr "无结果。"
+
+msgid "None"
+msgstr "无"
+
+msgid "Not Charging"
+msgstr "未在充电"
+
+msgid "Not listed?"
+msgstr "未列出？"
+
+msgid "Off"
+msgstr "关"
+
+msgid "On"
+msgstr "开"
+
+msgid "Open the application menu"
+msgstr "打开应用程序菜单"
+
+msgid "Open with %s"
+msgstr "使用 %s 打开"
+
+msgid "Out of date"
+msgstr "过时"
+
+msgid "Overview"
+msgstr "概览"
+
+msgid "PIN code is needed for the mobile broadband device"
+msgstr "移动宽带设备需要 PIN 码"
+
+msgid "PIN code required"
+msgstr "需要 PIN 码"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Password cannot be blank"
+msgstr "密码不能为空"
+
+msgid "Passwords do not match."
+msgstr "密码不匹配。"
+
+msgid ""
+"Passwords or encryption keys are required to access the wireless network "
+"“%s”."
+msgstr "访问无线网络“%s”需要密码或密钥。"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Power Settings"
+msgstr "电源设置"
+
+msgid "Press Esc to exit"
+msgstr "按 Esc 以退出"
+
+msgid "Press a button to configure"
+msgstr "按下按键以配置"
+
+msgid "Press any key to exit"
+msgstr "按任意键退出"
+
+msgid "Previous month"
+msgstr "上个月"
+
+msgid "Print version"
+msgstr "打印版本"
+
+msgid "Privacy Settings"
+msgstr "隐私设置"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Region & Language Settings"
+msgstr "区域与语言设置"
+
+msgid "Remember Password"
+msgstr "记住密码"
+
+msgid "Remove from Favorites"
+msgstr "从收藏夹中移除"
+
+msgid "Resize"
+msgstr "改变大小"
+
+msgid "Restart is not available on Wayland"
+msgstr "Wayland 下重启不可用"
+
+msgid "Restarting…"
+msgstr "正在重新启动……"
+
+msgid "Resume"
+msgstr "继续使用"
+
+msgid "Revert Settings"
+msgstr "还原设置"
+
+msgid "Screen Keyboard"
+msgstr "屏幕键盘"
+
+msgid "Screen Reader"
+msgstr "屏幕阅读器"
+
+msgid "Screen is Being Shared"
+msgstr "正在共享屏幕"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Searching…"
+msgstr "正在搜索……"
+
+msgid "Select Audio Device"
+msgstr "选择声音设备"
+
+msgid "Select Network"
+msgstr "选择网络"
+
+msgid "Select a location…"
+msgstr "选择地点…"
+
+msgid "Select a network"
+msgstr "选择网络"
+
+msgid "Settings"
+msgstr "设置"
+
+msgid "Settings changes will revert in %d second"
+msgid_plural "Settings changes will revert in %d seconds"
+msgstr[0] "设置更改将在 %d 后还原"
+
+msgid "Show Applications"
+msgstr "显示应用程序"
+
+msgid "Show Details"
+msgstr "显示细节"
+
+msgid "Show Errors"
+msgstr "显示错误"
+
+msgid "Show Keyboard Layout"
+msgstr "显示键盘布局"
+
+msgid "Show Text"
+msgstr "显示文本"
+
+msgid "Show all applications"
+msgstr "显示全部应用程序"
+
+msgid "Show on-screen help"
+msgstr "显示屏幕帮助"
+
+msgid "Show the notification list"
+msgstr "显示通知列表"
+
+msgid "Show the overview"
+msgstr "显示概览"
+
+msgid "Slow Keys"
+msgstr "慢速键"
+
+msgid "Slow Keys Turned Off"
+msgstr "慢速键已关闭"
+
+msgid "Slow Keys Turned On"
+msgstr "慢速键已开启"
+
+msgid "Something’s gone wrong"
+msgstr "出问题了"
+
+msgid "Sorry, that didn’t work. Please try again."
+msgstr "抱歉，认证失败。请重试。"
+
+msgid "Sound Settings"
+msgstr "声音设置"
+
+msgid "Sticky Keys"
+msgstr "粘滞键"
+
+msgid "Sticky Keys Turned Off"
+msgstr "粘滞键已关闭"
+
+msgid "Sticky Keys Turned On"
+msgstr "粘滞键已开启"
+
+msgid "Suspend"
+msgstr "挂起"
+
+msgid "Switch monitor"
+msgstr "切换显示器"
+
+msgid "Switch to application 1"
+msgstr "切换到应用程序 11"
+
+msgid "Switch to application 2"
+msgstr "切换到应用程序 2"
+
+msgid "Switch to application 3"
+msgstr "切换到应用程序 3"
+
+msgid "Switch to application 4"
+msgstr "切换到应用程序 4"
+
+msgid "Switch to application 5"
+msgstr "切换到应用程序 5"
+
+msgid "Switch to application 6"
+msgstr "切换到应用程序 6"
+
+msgid "Switch to application 7"
+msgstr "切换到应用程序 7"
+
+msgid "Switch to application 8"
+msgstr "切换到应用程序 8"
+
+msgid "Switch to application 9"
+msgstr "切换到应用程序 9"
+
+msgid "System"
+msgstr "系统"
+
+msgid "System Information"
+msgstr "系统信息"
+
+msgid "System Sounds"
+msgstr "系统声音"
+
+msgctxt "System menu in the top bar"
+msgid "System"
+msgstr "系统"
+
+msgid "Technical Details"
+msgstr "技术细节"
+
+msgid "The application icon mode."
+msgstr "应用程序图标模式。"
+
+msgid ""
+"The applications corresponding to these identifiers will be displayed in the"
+" favorites area."
+msgstr "符合这些标示的应用程序将显示在收藏区中。"
+
+msgid ""
+"The shell will only show a Bluetooth menu item if a Bluetooth adapter is "
+"powered, or if there were devices set up associated with the default "
+"adapter. This will be reset if the default adapter is ever seen not to have "
+"devices associated to it."
+msgstr "Shell 只会在有蓝牙适配器有供电时或有设备与默认适配器关联时显示蓝牙菜单。若默认适配器不再和设备关联，蓝牙菜单将不再因此出现。"
+
+msgid ""
+"The shell will request a password when an encrypted device or a remote "
+"filesystem is mounted. If the password can be saved for future use a "
+"“Remember Password” checkbox will be present. This key sets the default "
+"state of the checkbox."
+msgstr ""
+"挂载加密设备或远程文件系统时 Shell 将要求输入密码。如果该密码可以记住并在今后使用，则会有“记住密码”复选框出现。这个键设置了该复选框的默认状态。"
+
+msgid ""
+"The system will automatically restart and install updates in %d second."
+msgid_plural ""
+"The system will automatically restart and install updates in %d seconds."
+msgstr[0] "系统将在 %d 秒后自动重启并安装更新。"
+
+msgid "The system will power off automatically in %d second."
+msgid_plural "The system will power off automatically in %d seconds."
+msgstr[0] "系统将在 %d 秒后自动关机。"
+
+msgid "The system will restart automatically in %d second."
+msgid_plural "The system will restart automatically in %d seconds."
+msgstr[0] "系统将在 %d 秒后自动重启。"
+
+msgid ""
+"This key overrides the automatic hiding of the “Log out” menu item in "
+"single-user, single-session situations."
+msgstr "单用户、单会话情形下，“注销”菜单项会自动隐藏，使用这个键会覆盖这种行为。"
+
+msgid ""
+"This key overrides the key in org.gnome.mutter when running GNOME Shell."
+msgstr "当 GNOME Shell 运行时，此键会覆盖 org.gnome.mutter 中的键。"
+
+msgid "Thunderbolt"
+msgstr "Thunderbolt"
+
+msgid "Thunderbolt authorization error"
+msgstr "Thunderbolt 授权错误"
+
+msgid "Top Bar"
+msgstr "顶栏"
+
+msgid "Turn Off"
+msgstr "关闭"
+
+msgid "Turn Off Airplane Mode"
+msgstr "关闭飞行模式"
+
+msgid "Turn On"
+msgstr "开启"
+
+msgid "Turn On Wi-Fi"
+msgstr "开启 Wi-Fi"
+
+msgid "Turn off"
+msgstr "关闭"
+
+msgid "UUIDs of extensions to enable"
+msgstr "要启用的扩展的 UUID"
+
+msgid "Unable to lock"
+msgstr "无法锁定"
+
+msgid "Unauthorized Thunderbolt device"
+msgstr "未授权的 Thunderbolt 设备"
+
+msgid "Undo"
+msgstr "撤消"
+
+msgid "Unknown Thunderbolt device"
+msgstr "未知的 Thunderbolt 设备"
+
+msgid "Unknown artist"
+msgstr "未知艺人"
+
+msgid "Unknown title"
+msgstr "未知标题"
+
+msgid "Unlock"
+msgstr "解锁"
+
+msgid "Unlock Window"
+msgstr "解锁窗口"
+
+msgid "Unmaximize"
+msgstr "取消最大化"
+
+msgid "Use a specific mode, e.g. “gdm” for login screen"
+msgstr "使用指定模式，如“gdm”用于登录屏幕"
+
+msgid "Use hardware switch to turn off"
+msgstr "使用硬件开关关闭"
+
+msgid "VPN"
+msgstr "VPN"
+
+msgid "VPN Off"
+msgstr "VPN 已关闭"
+
+msgid "VPN Settings"
+msgstr "VPN 设置"
+
+msgid "View Source"
+msgstr "查看源"
+
+msgid "Visit extension homepage"
+msgstr "访问扩展主页"
+
+msgid "Visual Alerts"
+msgstr "视觉响铃"
+
+msgid "Volume"
+msgstr "音量"
+
+msgid "Volume changed"
+msgstr "音量已变更"
+
+msgid "Wait"
+msgstr "等待"
+
+msgid "Weather"
+msgstr "天气"
+
+msgid "Weather information is currently unavailable"
+msgstr "天气信息目前不可用"
+
+msgid "Web Page"
+msgstr "网页"
+
+msgid "Week %V"
+msgstr "第 %V 个星期"
+
+msgid ""
+"We’re very sorry, but there’s been a problem: the settings for this "
+"extension can’t be displayed. We recommend that you report the issue to the "
+"extension authors."
+msgstr "非常抱歉，但是出现了问题：此扩展的设置无法显示。我们建议您将问题报告给扩展的作者。"
+
+msgid ""
+"Whether the default Bluetooth adapter had set up devices associated to it"
+msgstr "默认的蓝牙适配器是否有已配对的设备"
+
+msgid ""
+"Whether to remember password for mounting encrypted or remote filesystems"
+msgstr "是否记住挂载加密文件系统或远程文件系统时所使用的密码"
+
+msgid "Wi-Fi Networks"
+msgstr "Wi-Fi 网络"
+
+msgid "Wi-Fi Settings"
+msgstr "Wi-Fi 设置"
+
+msgid "Wi-Fi is Off"
+msgstr "Wi-Fi 已关闭"
+
+msgid "Wi-Fi is disabled when airplane mode is on."
+msgstr "启用飞行模式时 Wi-Fi 会关闭。"
+
+msgid "Wi-Fi needs to be turned on in order to connect to a network."
+msgstr "连接网络需要开启 Wi-Fi。"
+
+msgid "Window management and application launching"
+msgstr "窗口管理与应用程序启动"
+
+msgid "Windows"
+msgstr "窗口"
+
+msgid "Wired 802.1X authentication"
+msgstr "有线 802.1X 认证"
+
+msgid "Wired Settings"
+msgstr "有线设置"
+
+msgid "Workspaces are managed dynamically"
+msgstr "动态地管理工作区"
+
+msgid "Workspaces only on primary monitor"
+msgstr "仅在主显示器上显示工作区"
+
+msgid "World Clocks"
+msgstr "世界时钟"
+
+msgid "Yesterday"
+msgstr "昨天"
+
+msgid "Yesterday, %H∶%M"
+msgstr "昨天 %H:%M"
+
+msgid "Yesterday, %l∶%M %p"
+msgstr "昨天%p %-l:%M"
+
+msgid "You can restore shortcuts by pressing %s."
+msgstr "按 %s 以恢复快捷键。"
+
+msgid ""
+"You just held down the Shift key for 8 seconds. This is the shortcut for the"
+" Slow Keys feature, which affects the way your keyboard works."
+msgstr "您刚刚按住了 Shift 键 8 秒钟。这是启用慢速键特性的快捷方式，这会影响您键盘的使用。"
+
+msgid ""
+"You just pressed the Shift key 5 times in a row. This is the shortcut for "
+"the Sticky Keys feature, which affects the way your keyboard works."
+msgstr "您刚刚按了 Shift 键五次。这是启用粘滞键特性的快捷方式，这会影响您键盘的使用。"
+
+msgid ""
+"You just pressed two keys at once, or pressed the Shift key 5 times in a "
+"row. This turns off the Sticky Keys feature, which affects the way your "
+"keyboard works."
+msgstr "您刚刚一次按了两个键或者按了 Shift 键五次。这将会关闭粘滞键特性，这会影响您使用键盘的方式。"
+
+msgid ""
+"You may choose to wait a short while for it to continue or force the "
+"application to quit entirely."
+msgstr "您可以尝试等待其响应或强制退出此应用程序。"
+
+msgid "You will be logged out automatically in %d second."
+msgid_plural "You will be logged out automatically in %d seconds."
+msgstr[0] "您将在 %d 秒后自动注销。"
+
+msgid ""
+"Your connection to this hotspot login is not secure. Passwords or other "
+"information you enter on this page can be viewed by people nearby."
+msgstr "您到热点登录的连接不安全。您在此页面输入的密码或其他信息可被旁人查看。"
+
+msgid "Zoom"
+msgstr "缩放"
+
+msgid "authentication required"
+msgstr "需要认证"
+
+msgctxt "button"
+msgid "Install &amp; Power Off"
+msgstr "安装并关机"
+
+msgctxt "button"
+msgid "Log Out"
+msgstr "注销"
+
+msgctxt "button"
+msgid "Power Off"
+msgstr "关机"
+
+msgctxt "button"
+msgid "Restart"
+msgstr "重启"
+
+msgctxt "button"
+msgid "Restart &amp; Install"
+msgstr "重启并安装"
+
+msgctxt "calendar heading"
+msgid "%A, %B %-d"
+msgstr "%-m月%-d日 %A"
+
+msgctxt "calendar heading"
+msgid "%A, %B %-d, %Y"
+msgstr "%Y年%-m月%-d日 %A"
+
+msgctxt "calendar-no-work"
+msgid "06"
+msgstr "06"
+
+msgctxt "checkbox"
+msgid "Install pending software updates"
+msgstr "安装挂起的软件更新"
+
+msgctxt "checkbox"
+msgid "Power off after updates are installed"
+msgstr "安装更新后关机"
+
+msgid "connecting…"
+msgstr "正在连接……"
+
+msgid "connection failed"
+msgstr "连接失败"
+
+msgctxt "date day number format"
+msgid "%d"
+msgstr "%d"
+
+msgctxt "event list time"
+msgid "All Day"
+msgstr "全天"
+
+msgid "evolution"
+msgstr "evolution"
+
+msgctxt "grid friday"
+msgid "F"
+msgstr "五"
+
+msgctxt "grid monday"
+msgid "M"
+msgstr "一"
+
+msgctxt "grid saturday"
+msgid "S"
+msgstr "六"
+
+msgctxt "grid sunday"
+msgid "S"
+msgstr "日"
+
+msgctxt "grid thursday"
+msgid "T"
+msgstr "四"
+
+msgctxt "grid tuesday"
+msgid "T"
+msgstr "二"
+
+msgctxt "grid wednesday"
+msgid "W"
+msgstr "三"
+
+msgid "lock screen"
+msgstr "锁屏"
+
+msgid "network-workgroup"
+msgstr "network-workgroup"
+
+msgctxt "program"
+msgid "Unknown"
+msgstr "未知"
+
+msgctxt "search-result"
+msgid "Lock Screen"
+msgstr "锁屏"
+
+msgctxt "search-result"
+msgid "Log Out"
+msgstr "注销"
+
+msgctxt "search-result"
+msgid "Power Off"
+msgstr "关机"
+
+msgctxt "search-result"
+msgid "Suspend"
+msgstr "挂起"
+
+msgctxt "search-result"
+msgid "Switch User"
+msgstr "切换用户"
+
+msgid "suspend;sleep"
+msgstr "suspend;sleep;挂起;睡眠;"
+
+msgid "switch user"
+msgstr "切换用户"
+
+msgctxt "title"
+msgid "Install Updates & Power Off"
+msgstr "安装更新并关机"
+
+msgctxt "title"
+msgid "Log Out"
+msgstr "注销"
+
+msgctxt "title"
+msgid "Log Out %s"
+msgstr "注销 %s"
+
+msgctxt "title"
+msgid "Power Off"
+msgstr "关机"
+
+msgctxt "title"
+msgid "Restart"
+msgstr "重启"
+
+msgctxt "title"
+msgid "Restart & Install Updates"
+msgstr "重启并安装更新"
+
+msgctxt "title"
+msgid "Restart & Install Upgrade"
+msgstr "重启并安装升级"
+
+msgid "translator-credits"
+msgstr ""
+"Launchpad Contributions:\n"
+"  Jeff Bai https://launchpad.net/~jeffbai\n"
+"  Mandy Wang https://launchpad.net/~wangmychn\n"
+"  wsxy162 https://launchpad.net/~wsxy162"
+
+msgid "“%s” is not responding."
+msgstr "“%s”无响应。"
+
+msgid "“%s” is ready"
+msgstr "“%s”已就绪"

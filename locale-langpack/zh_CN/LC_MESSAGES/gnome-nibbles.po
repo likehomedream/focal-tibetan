@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-nibbles&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-10-03 00:45+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:57+0000\n"
+
+msgid "%d Point"
+msgid_plural "%d Points"
+msgstr[0] "%d 分"
+
+msgid "(%ld more points to reach the leaderboard)"
+msgstr "（离进入排行榜还差 %ld 分）"
+
+msgid "A worm game for GNOME"
+msgstr "GNOME 下的贪食蛇游戏。"
+
+msgid "Action"
+msgstr "动作"
+
+msgid "Are you sure you want to start a new game?"
+msgstr "您确定想要开始新游戏吗？"
+
+msgid "Beginner"
+msgstr "初学"
+
+msgid "Beginner with Fakes"
+msgstr "初学 (含虚假食物)"
+
+msgid "Color to use for worm"
+msgstr "小蛇要使用的颜色"
+
+msgid "Color to use for worm."
+msgstr "小蛇要使用的颜色。"
+
+msgid "Congratulations!"
+msgstr "恭喜！"
+
+msgid ""
+"Control a worm in its quest to eat bonuses and become longer. Outmaneuver "
+"enemy worms while eating doughnuts and ice cream to increase your length. "
+"Each worm has ten lives and loses one by running into a wall, another worm, "
+"or itself. The enemy worms are after the same bonuses that you are, so be "
+"careful: if they become too large, you won’t have much room for movement."
+msgstr ""
+"控制一条蛇，让它在任务中去吃食物，并变得更长。吃甜甜圈和冰淇淋可以增加蛇的长度并同时超越敌方的蛇。每条蛇有十次生命，当撞到另一堵墙、另一只蛇或其本身时会失掉一条生命。敌方的蛇和你一样也会去吃食物，所以要小心：如果他们变得太大，你将会没有足够的运动空间。"
+
+msgid "Controls"
+msgstr "控制"
+
+msgid "Difficulty Level:"
+msgstr "难度级别："
+
+msgid "E_nable sounds"
+msgstr "启用声音(_N)"
+
+msgid "Eat the treats before the other worms, but don’t hit anything!"
+msgstr "抢在其它蛇之前吃掉小食，但是小心不要撞到任何东西！"
+
+msgid "Enable fake bonuses"
+msgstr "启用虚假奖品"
+
+msgid "Enable fake bonuses."
+msgstr "启用虚假食物。"
+
+msgid "Enable sounds"
+msgstr "启用声音"
+
+msgid "Enable sounds."
+msgstr "启用声音。"
+
+msgid "Fast"
+msgstr "快速"
+
+msgid "Fast with Fakes"
+msgstr "快速 (含虚假食物)"
+
+msgid "GNOME Nibbles"
+msgstr "GNOME 贪食蛇"
+
+msgid "Game Over!"
+msgstr "游戏结束！"
+
+msgid "Game level to start on"
+msgstr "开始的游戏级别"
+
+msgid "Game level to start on."
+msgstr "开始的游戏级别。"
+
+msgid "Guide a worm around a maze"
+msgstr "小蛇游走于迷宫"
+
+msgid "Height of the window in pixels"
+msgstr "窗口高度的像素数"
+
+msgid "Height of the window in pixels."
+msgstr "窗口高度的像素数。"
+
+msgid "If you start a new game, the current one will be lost."
+msgstr "如果你开始新游戏，当前游戏将会丢失。"
+
+msgid "Is this the first run"
+msgstr "是否初次运行"
+
+msgid "Key"
+msgstr "按键"
+
+msgid "Key to use for motion down."
+msgstr "向下移动所用的键。"
+
+msgid "Key to use for motion left."
+msgstr "向左移动所用的键。"
+
+msgid "Key to use for motion right."
+msgstr "向右移动所用的键。"
+
+msgid "Key to use for motion up."
+msgstr "向上移动所用的键。"
+
+msgid "Let’s _Play"
+msgstr "开始游戏(_P)"
+
+msgid "Level %d"
+msgstr "第 %d 关"
+
+msgid "Level %d Completed!"
+msgstr "关卡 %d 完成"
+
+msgid "Medium"
+msgstr "中等"
+
+msgid "Medium with Fakes"
+msgstr "中等 (含虚假食物)"
+
+msgid "Move down"
+msgstr "下移"
+
+msgid "Move left"
+msgstr "向左移动"
+
+msgid "Move right"
+msgstr "向右移动"
+
+msgid "Move up"
+msgstr "上移"
+
+msgid "Nibbles"
+msgstr "贪食蛇"
+
+msgid "Number of AI players"
+msgstr "AI 玩家数量"
+
+msgid "Number of AI players."
+msgstr "AI 玩家数量。"
+
+msgid "Number of human players"
+msgstr "人类玩家数量"
+
+msgid "Number of human players."
+msgstr "人类玩家数量。"
+
+msgid "Number of players"
+msgstr "玩家数量"
+
+msgid "Options"
+msgstr "选项"
+
+msgid "Paused"
+msgstr "暂停"
+
+msgid ""
+"Play on your own against up to five enemy worms, or share your keyboard to "
+"play with a friend."
+msgstr "自己对战多达 5 条蠕虫，或者和朋友对战。"
+
+msgid "Player"
+msgstr "玩家"
+
+msgid "Player %d"
+msgstr "玩家 %d"
+
+msgid "Preferences"
+msgstr "首选项"
+
+msgid "Select the number of computer players."
+msgstr "选择计算机玩家数量。"
+
+msgid "Select the number of human players."
+msgstr "选择人类玩家数量。"
+
+msgid "Setting to decide whether to show first-run hint dialog or not."
+msgstr "决定是否显示初次运行提示框的设置。"
+
+msgid "Show release version"
+msgstr "显示发行版本"
+
+msgid "Size of game tiles"
+msgstr "游戏界面大小"
+
+msgid "Size of game tiles."
+msgstr "游戏界面大小。"
+
+msgid "Slow"
+msgstr "慢速"
+
+msgid "Slow with Fakes"
+msgstr "慢速 (含虚假食物)"
+
+msgid "Speed"
+msgstr "速度"
+
+msgid ""
+"The adventure progresses through 26 maps of increasing difficulty. The early"
+" levels are mostly open with a few walls, but later on, cramped spaces and "
+"teleporters make things more interesting."
+msgstr "挑战有 26 张地图，难度逐渐增加。开始几关几乎是空地，只有几面墙。但后面狭窄的空间和传送门会让游戏更加紧张刺激。"
+
+msgid "The key you selected is already assigned!"
+msgstr "您选择的快捷键已被分配！"
+
+msgid "Use relative movement"
+msgstr "使用相对移动"
+
+msgid "Use relative movement (ie. left or right only)."
+msgstr "使用相对移动(即只有左转右转)。"
+
+msgid "Welcome, worms."
+msgstr "欢迎你，贪吃的蛇。"
+
+msgid "Width of the window in pixels"
+msgstr "窗口宽度的像素数"
+
+msgid "Width of the window in pixels."
+msgstr "窗口宽度的像素数。"
+
+msgid "Worm"
+msgstr "小蛇"
+
+msgid "Worm _1"
+msgstr "小蛇 _1"
+
+msgid "Worm _2"
+msgstr "小蛇 _2"
+
+msgid "Worm _3"
+msgstr "小蛇 _3"
+
+msgid "Worm _4"
+msgstr "小蛇 _4"
+
+msgid "Worm color"
+msgstr "小蛇颜色"
+
+msgid "Worms movement speed"
+msgstr "蛇的移动速度"
+
+msgid "Worms movement speed."
+msgstr "蛇的移动速度。"
+
+msgid "You have completed the game."
+msgstr "您已经完成游戏。"
+
+msgid "_Beginner"
+msgstr "初学(_B)"
+
+msgid "_Enable fake bonuses"
+msgstr "启用虚假食物(_E)"
+
+msgid "_Fast"
+msgstr "快速(_F)"
+
+msgid "_General"
+msgstr "常规(_G)"
+
+msgid "_Help"
+msgstr "帮助(_H)"
+
+msgid "_Medium"
+msgstr "中等(_M)"
+
+msgid "_New Game"
+msgstr "新建游戏(_N)"
+
+msgid "_Next"
+msgstr "前进(_N)"
+
+msgid "_Next Level"
+msgstr "下一关(_N)"
+
+msgid "_Pause"
+msgstr "暂停(_P)"
+
+msgid "_Play Again"
+msgstr "再玩一次(_P)"
+
+msgid "_Preferences"
+msgstr "首选项(_P)"
+
+msgid "_Resume"
+msgstr "继续(_R)"
+
+msgid "_Scores"
+msgstr "得分(_S)"
+
+msgid "_Slow"
+msgstr "慢速(_S)"
+
+msgid "_Start"
+msgstr "开始(_S)"
+
+msgid "blue"
+msgstr "蓝"
+
+msgid "cyan"
+msgstr "青"
+
+msgid "game;snake;board;"
+msgstr "游戏;贪吃蛇;蛇;棋;牌;"
+
+msgid "green"
+msgstr "绿"
+
+msgid "purple"
+msgstr "紫"
+
+msgid "red"
+msgstr "红"
+
+msgid "translator-credits"
+msgstr ""
+"Yang Zhang <zyangmath@gmail.com>, 2007\n"
+"Ping Z <zpsigma@gmail.com>, 2007\n"
+"Xhacker Liu <liu.dongyuan@gmail.com>, 2010\n"
+"Arthur Wang <arthur2e5@aosc.xyz>, 2015\n"
+"Jeff Bai <jeffbai@aosc.xyz>, 2016\n"
+"Mandy Wang <wangmychn@gmail.com>, 2016\n"
+"\n"
+"Launchpad Contributions:\n"
+"  Mandy Wang https://launchpad.net/~wangmychn"
+
+msgid "true if the window is maximized"
+msgstr "若窗口已经最大化则为 true"
+
+msgid "true if the window is maximized."
+msgstr "若窗口已经最大化则为 true。"
+
+msgid "yellow"
+msgstr "黄"
