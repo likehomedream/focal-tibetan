@@ -1,0 +1,1640 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-25 14:16+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+##首页
+#软件名称
+
+msgid "Security Center"
+msgstr "安全中心"
+
+#菜单
+msgid "Home"
+msgstr "主页"
+
+#标题
+msgid "Security Overview"
+msgstr "安全性概览"
+
+msgid""
+ "Anti-violence account security Real-time network intrusion"
+" detection One-click repairable system Core-file protection"
+msgstr "防密码暴力破解   实时网络入侵检测   系统威胁一键修复   关键数据文件保护"
+
+#标题栏
+msgid "Help"
+msgstr "帮助"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Menu"
+msgstr "主菜单"
+
+msgid "Maximize"
+msgstr "最大化" 
+
+msgid "Restore"
+msgstr "还原"
+
+msgid "Minimize"
+msgstr "最小化"
+
+#模块
+msgid "Security scan"
+msgstr "安全体检"
+
+msgid "Virus defense"
+msgstr "病毒防护"
+
+msgid "%1 days since the last scan"
+msgstr "距离上次体检已过了 %1 天"
+
+msgid "No problem found, your computer is safe"
+msgstr "未发现问题，您的电脑很安全"
+
+msgid "%1 problems are found,please deal with them immediately"
+msgstr "发现%1项问题，建议您立即处理"
+
+msgid "%1 problems are found"
+msgstr "发现%1项问题"
+
+msgid "please deal with them immediately"
+msgstr "建议您立即处理"
+
+msgid "Take a comprehensive look and know all the problems"
+msgstr "全面扫一扫，问题全知道"
+
+msgid "Password strength:"
+msgstr "密码强度："
+
+msgid "Recommended"
+msgstr "推荐"
+
+msgid "Account lock:"
+msgstr "账户锁定："
+
+msgid "%1 bits/%2 kinds(%3)"
+msgstr "%1位/%2种（%3）"
+
+msgid "%1 times/%2 minutes"
+msgstr "%1次/%2分钟"
+
+msgid "enabled"
+msgstr "开启"
+
+msgid "disabled"
+msgstr "未开启"
+
+msgid "Network protection : "
+msgstr "网络保护："
+
+msgid "Allow"
+msgstr "允许"
+
+msgid "Prohibit"
+msgstr "禁止"
+
+msgid "Inquire"
+msgstr "询问"
+
+msgid "Firewall:"
+msgstr "防火墙："
+
+msgid "Network control:"
+msgstr "联网控制："
+
+msgid "Source check:"
+msgstr "来源检查："
+
+msgid "App protect:"
+msgstr "应用防护："
+
+msgid "Executive control:"
+msgstr "执行控制："
+
+msgid "Virus protection"
+msgstr "病毒防护"
+
+msgid "Anti-virus software is protecting your system"
+msgstr "病毒防护软件正在保护您的系统"
+
+msgid "No virus protection software was found"
+msgstr "未发现病毒防护软件"
+
+##安全体检
+#历史体检
+msgid "Check item"
+msgstr "检查项"
+
+msgid "<font color = #7AD447> %1 </font>"
+msgstr "<font color = #7AD447> %1 </font>"
+
+msgid "<font color = #3790FA> %1 </font>"
+msgstr "<font color = #3790FA> %1 </font>"
+
+#体检页
+msgid "Fix computer bugs and abnormal configurations"
+msgstr "修复电脑漏洞缺陷和异常配置"
+
+msgid "Last physical examination"
+msgstr "上次体检情况"
+
+msgid "Start"
+msgstr "开始体检"
+
+#体检内容结果描述
+msgid "Account password strength checking function is not enabled"
+msgstr "账户密码强度检查功能未开启"
+
+msgid "The valid period of account password is permanent"
+msgstr "账户口令有效期为永久"
+
+msgid "Password can't contain user name function is not enabled"
+msgstr "密码禁止包含用户名功能未开启"
+
+msgid "Password palindrome checking function is not enabled"
+msgstr "密码回文检查功能未开启"
+
+msgid "Password similarity function is not enabled"
+msgstr "密码相似性功能未开启"
+
+msgid "Password dictionary function is not enabled"
+msgstr "密码字典功能未开启"
+
+msgid "User %1 password is empty"
+msgstr "用户 %1 密码为空"
+
+msgid "The password bit of passwd file is empty"
+msgstr "系统passwd文件密码位为空"
+
+msgid "The password bit for user %1 in the passwd file is empty"
+msgstr "password文件中用户%1的密码位为空"
+
+msgid "There are multiple users with the same uid in the system"
+msgstr "系统存在多个uid相同的用户"
+
+msgid "Account locking function is not enabled"
+msgstr "账户锁定功能未开启"
+
+msgid "%1 directory permission and owner exception"
+msgstr "%1 目录权限和属主存在异常"
+
+msgid "%1 file permission and owner exception"
+msgstr "%1 文件权限和属主存在异常"
+
+msgid "%1 file write permission exception"
+msgstr "%1 文件写权限存在异常"
+
+msgid "%1 directory write permission exception"
+msgstr "%1目录写权限存在异常"
+
+msgid "%1 file has no owner and no group"
+msgstr "%1 文件无属主和无属组"
+
+msgid "%1 file is the added suid and sgid"
+msgstr "%1 文件为新增的suid和sgid文件"
+
+msgid "%1 file is the added suid"
+msgstr "%1 文件为新增的suid文件"
+
+msgid "%1 file is the added sgid"
+msgstr "%1 文件为新增的sgid文件"
+
+msgid "%1 file integrity exception"
+msgstr "%1 文件完整性异常"
+
+msgid "Process anti kill protection is not enabled"
+msgstr "进程防杀死保护未开启"
+
+msgid "Kernel module anti unload protection is not enabled"
+msgstr "内核模块防卸载保护未开启"
+
+msgid "File tamper protection is not enabled"
+msgstr "文件防篡改保护未开启"
+
+msgid "Application networking control is not enabled"
+msgstr "应用联网控制未开启"
+
+msgid "Application execution control is not enabled"
+msgstr "应用执行控制未开启"
+
+msgid "SSH disable empty password login is not enabled"
+msgstr "SSH禁用空密码登录未开启"
+
+msgid "SSH protocol setting exception"
+msgstr "SSH协议设置异常"
+
+msgid "SSH loglevel setting exception"
+msgstr "SSH LogLevel设置异常"
+
+msgid "SSH X11 forwarding is not disabled"
+msgstr "SSH X11 forwarding未禁用"
+
+msgid "SSH maxauthtries setting exception"
+msgstr "SSH MaxAuthTries设置异常"
+
+msgid "SSH permittemptypasswords is not disabled"
+msgstr "SSH PermitEmptyPasswords未禁用"
+
+msgid "SSH permituserenvironment is not disabled"
+msgstr "SSH permitUserenvironment未禁用"
+
+msgid "SSH idle timeout is not enabled"
+msgstr "SSH空闲超时间隔未开启"
+
+msgid "SSH warning banner is not enabled"
+msgstr "SSH警告banner未开启"
+
+msgid "Root remote login is not disabled"
+msgstr "root远程登录未禁用"
+
+msgid "The teamViewer service is not disabled"
+msgstr "teamviewer服务未禁用"
+
+msgid "The sunlog service is not disabled"
+msgstr "sunlogin服务未禁用"
+
+msgid "Remote desktop is not disabled"
+msgstr "远程桌面未禁用"
+
+msgid "The telnet service is not disabled"
+msgstr "telnet服务未禁用"
+
+msgid "The firewall function is not enabled"
+msgstr "防火墙功能未开启"
+
+msgid "The system address randomization function is not enabled"
+msgstr "系统地址随机化功能未开启"
+
+msgid "There are currently available updates in the system"
+msgstr "系统当前存在可用更新"
+
+msgid "Check the last physical examination"
+msgstr "查看上次体检情况"
+
+msgid "Scan problem: "
+msgstr "扫描问题："
+
+msgid "Repair failed: "
+msgstr "修复失败："
+
+msgid "Repair successful: "
+msgstr "修复成功："
+
+msgid "Not fixed: "
+msgstr "未修复："
+
+msgid "Optimization suggestions: "
+msgstr "优化建议："
+
+msgid "items"
+msgstr "项"
+
+msgid "Repair successful"
+msgstr "修复成功"
+
+msgid "Repair failed"
+msgstr "修复失败"
+
+msgid "Not fixed"
+msgstr "未修复"
+
+msgid "Optimization suggestions"
+msgstr "优化建议"
+
+msgid "Type"
+msgstr "类型"
+
+msgid "Problem description"
+msgstr "问题描述"
+
+msgid "State ⏷"
+msgstr "状态 ⏷"
+
+msgid "Not updated"
+msgstr "未更新"
+
+msgid "Not set"
+msgstr "未设置"
+
+msgid "Account detection"
+msgstr "账户检测"
+
+msgid "No problem with system account security"
+msgstr "未发现系统账户安全的问题"
+
+msgid "Security detection"
+msgstr "安全检测"
+
+msgid "No problem with system configuration security"
+msgstr "未发现系统配置安全的问题"
+
+msgid "No updates are currently available on the system"
+msgstr "未发现系统当前存在可用更新"
+
+msgid "Password strength"
+msgstr "密码强度"
+
+msgid "Risk account"
+msgstr "风险账户"
+
+msgid "File right"
+msgstr "文件权限"
+
+msgid "File integrity"
+msgstr "文件完整性"
+
+msgid "Process protection"
+msgstr "进程保护"
+
+msgid "Module anti unloading"
+msgstr "模块防卸载"
+
+msgid "File protection"
+msgstr "文件保护"
+
+msgid "Executive control"
+msgstr "执行控制"
+
+msgid "Remote service"
+msgstr "远程服务"
+
+msgid "Address randomization"
+msgstr "地址随机化"
+
+msgid "System update"
+msgstr "系统更新"
+
+msgid "Vulnerability update"
+msgstr "漏洞更新"
+
+msgid "There are vulnerabilities in the packages"
+msgstr "软件包存在漏洞"
+
+
+#扫描中-Scaning
+msgid "continue"
+msgstr "继续"
+
+msgid "Scanning..."
+msgstr "正在扫描中..."
+
+msgid "Scanning for %1"
+msgstr "正在扫描%1"
+
+msgid "%1 problems found"
+msgstr "发现 %1 项问题"
+
+msgid "Scanning for cleaning software"
+msgstr "正在扫描清理软件"
+
+msgid "Scanning for vulnerability updates"
+msgstr "正在扫描漏洞更新"
+
+msgid "Cancel Scan"
+msgstr "取消扫描"
+
+msgid "Total <font style='color:palette(Highlight);'>  %1  </font> items"
+msgstr "共 <font style='color:palette(Highlight);'>  %1  </font>项"
+
+msgid "Check system account security"
+msgstr "检测系统账户是否安全"
+
+msgid "Check system configuration security"
+msgstr "检测系统配置是否安全"
+
+msgid "System detection"
+msgstr "系统检测"
+
+msgid "Waiting"
+msgstr "等待扫描"
+
+msgid "The scan has not been completed, confirm exit?"
+msgstr "扫描体检尚未完成，确认退出吗？"
+
+#取消扫描-Cancel scan
+msgid "Scan canceled, no problems found"
+msgstr "体检已取消，未发现问题"
+
+msgid "Scan canceled,<font style='color:#F44E50;'> %1 </font>problems found"
+msgstr "体检已取消，发现 <font style='color:#F44E50;'>  %1  </font>项问题"
+
+msgid "A complete scan is recommended to ensure system security"
+msgstr "建议您重新进行完整体检，保障系统安全和性能稳定"
+
+msgid "Return"
+msgstr "返回"
+
+msgid "Rescan"
+msgstr "重新体检"
+
+msgid "Found <font style='color:#F44E50;'> %1 </font>problems"
+msgstr "发现<font style='color:#F44E50;'> %1 </font> 项问题"
+
+msgid "Test the system software for vulnerabilities"
+msgstr "检测系统软件是否存在漏洞"
+
+
+#扫描完成-Complete scan
+msgid "A timely repair is recommended to ensure system security"
+msgstr "建议您立即修复，保障系统安全和性能稳定"
+
+msgid "Repair"
+msgstr "一键修复"
+
+msgid "%1 items total ，<font style='color:#F44E50;'> %2 </font> problems waiting for repair"
+msgstr "共检查 %1 项，以下<font style='color:#F44E50;'> %2 </font>项问题需要修复"
+
+msgid "No problems were found for the following %1 items"
+msgstr "以下 %1 项未发现问题"
+
+msgid "Your computer is very safe"
+msgstr "您的电脑非常安全"
+
+#正在修复中-Repairing
+msgid "Repairing..."
+msgstr "正在修复中..."
+
+msgid "Repairing %1"
+msgstr "正在修复 %1"
+
+msgid "Processed"
+msgstr "已处理"
+
+msgid "Risk (%1)"
+msgstr "风险 (%1)"
+
+msgid "Optimized"
+msgstr "已最优"
+
+msgid "Security"
+msgstr "安全"
+
+msgid "Updated"
+msgstr "已更新"
+
+msgid "%1 items total ，<font style='color:#F44E50;'> %2 </font> problems waiting for repair，<font style='color:palette(Highlight);'> %3 </font>items can be optimized manually"
+msgstr "共检查 %1 项，以下<font style='color:#F44E50;'> %2 </font>项问题需要修复，<font style='color:palette(Highlight);'> %3 </font>项可手动优化"
+
+msgid "Repair has not been completed, confirm exit ?"
+msgstr "修复尚未完成，确认退出吗？"
+
+#修复已完成-Repair completed
+msgid "Repair completed，there is no risk in the system"
+msgstr "修复完成，系统暂无风险"
+
+msgid "Repair completed, there are the following problems <font style='color:#F44E50;'> %1 </font>"
+msgstr "修复完成，还有以下<font style='color:#F44E50;'> %1 </font> 项问题"
+
+msgid "It is recommended that you have regular scan to ensure the security and stability of the system"
+msgstr "为保障系统安全和性能稳定，建议您经常体检"
+
+msgid "Completed"
+msgstr "完成"
+
+msgid "Detail"
+msgstr "详情"
+
+msgid "You should  improve the problems manually for  your security requirements"
+msgstr "如有更高的安全需求，建议您手动操作改进如下几点问题"
+
+msgid "Your system has vulnerabilities, you  can go to \"Settings\" to upgrade"
+msgstr "系统当前存在软件漏洞，建议您前往“设置”进行更新升级"
+
+msgid "There are risk accounts in the system, please fix the accounts"
+msgstr "系统当前存在风险账户，建议您修改账户设置"
+
+##账户安全
+#菜单
+msgid "Account security"
+msgstr "账户安全"
+
+#密码强度
+msgid "Set password strength policy to protect account security"
+msgstr "设置密码强度策略，保护账户安全"
+
+msgid "At least 8 characters, including 2 types of uppercase letters, lowercase letters, numbers, and special symbols"
+msgstr "至少8位，包含大写字母、小写字母、数字、特殊符号中的2种"
+
+msgid "Custom"
+msgstr "自定义"
+
+msgid "Set password strength policy as needed"
+msgstr "根据需要设置密码强度策略"
+
+#账户锁定
+msgid "Account locking"
+msgstr "账户锁定"
+
+msgid "Set account locking policy to protect account security"
+msgstr "设置账户锁定策略，保护账户安全"
+
+msgid "Password validity does not match the standard value"
+msgstr "口令有效期与标准值不符"
+
+msgid "Allow attempts"
+msgstr "密码连续输错次数"
+
+msgid "Account locking time (minutes)"
+msgstr "账户锁定时间（分钟）"
+
+#自定义密码配置
+msgid "Custom password configuration"
+msgstr "自定义密码强度配置"
+
+msgid "Minimum password length"
+msgstr "密码最小长度"
+
+msgid "Number of character types"
+msgstr "至少包含字符种类"
+
+msgid "Prohibit including username"
+msgstr "禁止包含用户名"
+
+msgid "Enable palindrome check"
+msgstr "启用回文检查"
+
+msgid "Enable similarity check"
+msgstr "启用相似性检查"
+
+msgid "Enable dictionary check"
+msgstr "启用密码字典检查"
+
+msgid "Password valid time"
+msgstr "密码有效时间"
+
+msgid "3 days"
+msgstr "3天"
+
+msgid "5 days"
+msgstr "5天"
+
+msgid "7 days"
+msgstr "7天"
+
+msgid "15 days"
+msgstr "15天"
+
+msgid "30 days"
+msgstr "30天"
+
+msgid "90 days"
+msgstr "90天"
+
+msgid "180 days"
+msgstr "180天"
+
+msgid "Permanent"
+msgstr "永久"
+
+msgid "Password expiration reminder"
+msgstr "密码到期前提醒"
+
+msgid "1 type"
+msgstr "1种"
+
+msgid "2 types"
+msgstr "2种"
+
+msgid "3 types"
+msgstr "3种"
+
+msgid "4 types"
+msgstr "4种"
+
+msgid "Cancel"
+msgstr "取消"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "The minimum password length %1\n"
+msgstr "密码最小长度 %1\n"
+
+msgid ""
+"The protocol and port configuration conflict with existing configuration, please check and reset!"
+msgstr "该协议、端口配置与现有配置存在冲突，请检查后重新设置！"
+
+msgid "Password contains at least %1 characters\n"
+msgstr "密码最少包含%1类字符\n"
+
+msgid "Password contains at least %1 uppercase characters\n"
+msgstr "密码最少包含%1个大写字符 \n"
+
+msgid "Password contains at least %1 lowercase characters\n"
+msgstr "密码最少包含%1个小写字符 \n"
+
+msgid "Password contains at least %1 numeric characters\n"
+msgstr "密码至少包含%1个数字字符\n"
+
+msgid "Password contains at least %1 other characters\n"
+msgstr "密码至少包含%1个特殊字符\n"
+
+msgid "Prohibit including username\n"
+msgstr "禁止包含用户名\n"
+
+msgid "Prohibit using palindrome\n"
+msgstr "密码禁止使用回文\n"
+
+msgid "Enable similarity check\n"
+msgstr "启用密码相似性检查\n"
+
+msgid "Enable password dictionary\n"
+msgstr "启用密码字典 \n"
+
+msgid "Password valid time %1 day\n"
+msgstr "密码有效期限 %1 天   \n"
+
+msgid "Password valid time none\n"
+msgstr "密码有效期无限制 \n"
+
+msgid "Password expiration reminder %1 day\n"
+msgstr "密码到期警告 %1 天   \n"
+
+msgid "The same character is allowed to appear continuously %1 times at most\n"
+msgstr "同一字符最多允许连续出现%1次\n"
+
+msgid ""
+"The maximum continuous sequence length of the same type of characters is %1\n"
+msgstr "同类型字符最大连续序列长度为 %1\n"
+
+msgid ""
+"The same type of character is allowed to appear continuously at most %1 times\n"
+msgstr "同类型字符最多允许连续出现%1次\n"
+
+msgid ""
+"Failed to set a high-level password check policy , system will continue to use the "
+"original password check policy to protect system "
+"security！"
+msgstr "设置高等级密码检查策略失败，系统将继续采用原密码检查策略，保护系统安全"
+
+msgid ""
+"Failed to set a middle-level password check policy , system will continue to use the "
+"original password check policy to protect system "
+"security！"
+msgstr "设置中等级密码检查策略失败，系统将继续采用原密码检查策略，保护系统安全"
+
+msgid ""
+"Failed to set a low-level password check policy , system will continue to use the "
+"original password check policy to protect system "
+"security！"
+msgstr "设置低等级密码检查策略失败，系统将继续采用原密码检查策略，保护系统安全"
+
+msgid "Failed to set password check policy, please recheck!"
+msgstr "设置密码强度检查配置失败，请检查！"
+
+msgid "Password with the same forward and back reads will not be set successfully"
+msgstr "正读反读均相同的密码将不能设置成功"
+
+msgid "Passwords that are more similar to the original password will not be set successfully, such as changing only the case of letters"
+msgstr "与原密码相似度大的密码将不能设置成功,如只改变字母大小写"
+
+msgid "The password dictionary stores the common passwords of the user, Passwords with the same characters in the dictionary will not be set successfully"
+msgstr "密码字典中存储着用户常用密码,与字典内字符相同的密码将不能设置成功"
+
+msgid "error messenge"
+msgstr "错误信息"
+
+msgid "Confirm"
+msgstr "确定"
+
+##网络保护
+
+msgid "Firewall"
+msgstr "防火墙"
+
+msgid "Network control"
+msgstr "联网控制"
+
+msgid "Network protection"
+msgstr "网络保护"
+
+msgid "Public Net"
+msgstr "公共网络"
+
+msgid "Work Net"
+msgstr "办公网络"
+
+msgid "Application Networking"
+msgstr "应用程序联网"
+
+msgid "Control the application access to the network behavior,protect data security"
+msgstr "控制应用程序访问网络行为，保护数据安全"
+
+msgid "Prevent unauthorized applications from networking"
+msgstr "阻止未授权的应用程序联网"
+
+msgid "Please prompt me when unauthorized application networking is detected"
+msgstr "检测到未授权的应用程序联网时，请提示我"
+
+msgid "Allow any application to connect"
+msgstr "允许任何应用程序联网"
+
+msgid "Advanced configuration - Application networking control"
+msgstr "高级配置-应用联网控制"
+
+msgid "Please enter search content"
+msgstr "请输入搜索内容"
+
+msgid "Search"
+msgstr "搜索"
+
+msgid "Mail client"
+msgstr "邮件客户端"
+
+msgid "WPS 2019"
+msgstr "WPS 2019"
+
+msgid "State switching..."
+msgstr "状态切换中..."
+
+msgid "State switch"
+msgstr "状态切换"
+
+msgid "Network control status switching, no closing!"
+msgstr "网络管控状态切换中,禁止关闭! "
+
+##应用控制与保护-- ksc_exec_ctrl_widget.cpp
+msgid "Application security"
+msgstr "应用控制与保护"
+
+#应用控制与保护 -检查应用程序来源 
+msgid "Application source check"
+msgstr "应用程序来源检查"
+
+msgid "Set the application installation policy to maintain the stability of the system running environment"
+msgstr "设置应用程序安装策略，维护系统运行环境稳定"
+
+msgid "Prevent"
+msgstr "阻止"
+
+msgid "Warning"
+msgstr "警告"
+
+msgid "Disable"
+msgstr "关闭"
+
+msgid "Prevent installation of applications from unknown sources"
+msgstr "阻止安装未知来源的应用程序"
+
+msgid "Please prompt me when installing an application from an unknown source"
+msgstr "安装未知来源的应用程序时，请提示我"
+
+msgid "Allow installation of applications from any source"
+msgstr "允许安装任何来源的应用程序"
+
+msgid "Executive control status switching, no closing!"
+msgstr "执行控制状态切换中，禁止关闭 "
+
+msgid "Process protect state switching,no closing!"
+msgstr "进程保护状态切换中，禁止关闭 "
+
+#应用控制与保护 -应用程序执行控制  
+msgid "Application execution control"
+msgstr "应用程序执行控制"
+
+msgid "Set up application execution control policy to protect system integrity"
+msgstr "设置应用程序执行控制策略，保护系统运行完整性"
+
+msgid "Prevent execution of unauthenticated applications"
+msgstr "阻止执行未认证的应用程序"
+
+msgid "Please prompt me when executing unauthenticated applications"
+msgstr "执行未认证的应用程序时，请提示我"
+
+msgid "Allow execution of any application"
+msgstr "允许执行任何应用程序"
+
+
+#应用控制与保护 -应用程序防护
+msgid "Application protection"
+msgstr "应用程序防护"
+
+msgid "Provide process anti-killing, kernel module anti-unloading, and file tamper-proof functions"
+msgstr "提供进程防杀死、内核模块防卸载、文件防篡改功能"
+
+msgid "Advanced configuration"
+msgstr "高级配置"
+
+
+#高级配置-应用程序执行控制 -ksc_exectl_cfg_dialog.cpp
+msgid "Advanced configuration - application execution control"
+msgstr "高级配置-应用程序执行控制"
+
+msgid "Num"
+msgstr "序号"
+
+msgid "File path"
+msgstr "文件路径"
+
+msgid "File type"
+msgstr "文件类型"
+
+
+msgid "File type ⏷ "
+msgstr "文件类型 ⏷ "
+
+msgid "Current state ⏷ "
+msgstr "当前状态 ⏷ "
+
+msgid "File path: %1\nSummary value: %2"
+msgstr "文件路径：%1\n摘要值：%2"
+
+msgid "Current state"
+msgstr "当前状态"
+
+msgid "Add"
+msgstr "添加"
+
+msgid "Certification"
+msgstr "认证"
+
+msgid "Decertification"
+msgstr "解除认证"
+
+msgid "Executable program"
+msgstr "可执行程序"
+
+msgid "Shared library"
+msgstr "共享库"
+
+msgid "Executable script"
+msgstr "可执行脚本"
+
+msgid "Kernel module"
+msgstr "内核模块"
+
+msgid "Tampered"
+msgstr "被篡改"
+
+msgid "Certified"
+msgstr "已认证"
+
+msgid "Damaged"
+msgstr "已损坏"
+
+
+msgid "KYSEC security mechanism is not enabled, no add!"
+msgstr "KYSEC安全机制未启用,禁止添加 "
+
+msgid "Database error, failed to add whitelist records"
+msgstr "数据库异常,添加白名单记录失败"
+
+msgid "%1 :Failed to get file mark!"
+msgstr "获取文件标记失败"
+
+msgid "KYSEC security mechanism is not enabled, it is forbidden to de-authenticate!"
+msgstr "KYSEC安全机制未启用,禁止解除认证!  "
+
+msgid "Database exception, de-authentication failed!"
+msgstr "数据库异常,解除认证失败!"
+
+msgid "Invalid parameter, de-authentication failed!"
+msgstr "无效参数，解除认证失败  "
+
+msgid "%1 :Failed to obtain the list of documents to be decertified!"
+msgstr "%1 :获取待解除认证文件列表失败"
+
+msgid "Unknown error, decertification failed!"
+msgstr "未知错误,解除认证失败!"
+
+msgid "<font color = #696969>%1 lines total,</font>"
+msgstr "总共  %1 行记录，"
+
+msgid "<font color = #FF0000> %1 </font>"
+msgstr "<font color = #FF0000> %1 </font>"
+
+msgid "lines were tampered, "
+msgstr "行被篡改，"
+
+msgid "lines were damaged"
+msgstr "行已损坏"
+
+msgid "Security mechanism has been enabled, take effect after reboot"
+msgstr "安全机制已开启，重启系统后即可生效"
+
+#高级配置-应用程序防护-ksc_process_protect_cfg_dialog.cpp
+msgid "Advanced configuration - application protection"
+msgstr "高级配置-应用程序防护"
+
+#进程防杀死
+msgid "Process anti-kill"
+msgstr "进程防杀死"
+
+msgid "Monitor protected processes from being maliciously killed"
+msgstr "监控受保护的进程不被恶意杀死"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Process ID"
+msgstr "进程号"
+
+msgid "Process name"
+msgstr "进程名称"
+
+msgid "Process path"
+msgstr "进程路径"
+
+msgid "Anti-kill"
+msgstr "防杀死保护"
+
+msgid "Process path: %1"
+msgstr "进程路径：%1"
+
+msgid "Process name: %1"
+msgstr "进程名：%1"
+
+msgid "%1 lines total"
+msgstr "总共  %1 行记录"
+
+#内核模块防卸载
+msgid "Kernel module anti-unloading"
+msgstr "内核模块防卸载"
+
+msgid "Monitor protected kernel modules from being uninstalled maliciously"
+msgstr "监控受保护的内核模块不被恶意卸载"
+
+msgid "Kernel module name"
+msgstr "内核模块名称"
+
+msgid "Anti unloading protection"
+msgstr "防卸载保护"
+
+#文件防篡改
+msgid "File tamper-proof"
+msgstr "文件防篡改"
+
+msgid "Select file to be protected"
+msgstr "选择需要受保护的文件！"
+
+msgid "This file is in used, can not be added!"
+msgstr "文件正在使用中，无法添加！"
+
+msgid "Database error, failed to add file protect list"
+msgstr "数据库异常,添加文件防篡改列表失败！"
+
+msgid "Files added to the protection list will not be tampered or deleted"
+msgstr "添加到保护列表的文件，将禁止被篡改、删除！"
+
+msgid "Invalid parameter, failed to add file protect list!"
+msgstr "无效参数，添加文件防篡改列表失败! "
+
+msgid "Unknown error, failed to add file protect list!"
+msgstr "未知错误,添加文件防篡改列表失败！"
+
+msgid "File name"
+msgstr "文件名称"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "File path: %1"
+msgstr "文件路径：%1" 
+
+msgid "File name: %1"
+msgstr "文件名称：%1"
+
+msgid "Failed to unprotect file"
+msgstr "取消保护文件失败 " 
+
+msgid "%1 :File attribute abnormal!"
+msgstr "%1 :文件属性异常"
+
+#病毒防护old
+msgid "QIANXIN Antivirus Software V8"
+msgstr "奇安信防病毒软件V8"
+
+msgid "Open apps"
+msgstr "打开应用"
+
+msgid "Virus-base"
+msgstr "病毒库更新"
+
+msgid "Scan now"
+msgstr "立即扫描"
+
+msgid "Authorization"
+msgstr "更新授权 "
+
+msgid "Current to-do :"
+msgstr "当前待办事项"
+
+msgid "Virus status :"
+msgstr "病毒防护状态 "
+
+msgid "Software updates :"
+msgstr "软件更新情况："
+
+msgid "No need to operate"
+msgstr "不需要操作"
+
+msgid "No virus threat found"
+msgstr "未发现病毒威胁"
+
+msgid "No update available"
+msgstr "无可用更新"
+
+msgid "There's new version of virus database, please upgrade"
+msgstr "病毒库有新的版本，请立即升级"
+
+msgid "Virus database update failed, please try again or update offline"
+msgstr "病毒库更新失败，请重试或打开应用离线升级"
+
+msgid "New version of antivirus client, please upgrade"
+msgstr "防病毒客户端有新版本，请打开应用程序升级"
+
+msgid "It is recommended to perform scan tasks regularly to ensure system security"
+msgstr "建议定期执行扫描任务，保障系统安全"
+
+msgid "This scan found %d threats, which have been successfully dealt with"
+msgstr "本次扫描发现  %d  个威胁，已处理成功 "
+
+msgid "This scan found %d threats, please deal with them immediately"
+msgstr "本次扫描发现  %d  个威胁，请尽快处理 "
+
+msgid "Threats were found, a full immediately scanning task is recommended"
+msgstr "发现威胁，建议立即执行全盘扫描任务"
+
+msgid "This function has been limited, please use it after updating the authorization"
+msgstr "该功能已受限，请更新授权后使用"
+
+msgid "The authorization has expired, please update immediately"
+msgstr "授权已到期，请尽快更新授权"
+
+msgid "Virus library updated successfully"
+msgstr "病毒库更新成功"
+
+msgid "QIANXIN Antivirus Software V8-%1"
+msgstr "奇安信防病毒软件V8- %1"
+
+msgid "Technical support provided by Qi'AnXin Technology corporation Co., Ltd."
+msgstr "技术支持由奇安信技术有限公司提供"
+
+msgid "unauthorized"
+msgstr "未授权"
+
+msgid "The authorization is about to expire, please update quickly"
+msgstr "授权即将过期，请尽快更新"
+
+#防火墙old
+msgid ""
+"Provide default network access permission strategy to build a safe and "
+"reliable network environment"
+msgstr "提供默认网络访问许可策略，构筑安全可靠网络环境"
+
+msgid "Public Network"
+msgstr "公共网络"
+
+
+msgid "Office Network"
+msgstr "办公网络"
+
+
+#msgid "Custom "
+#msgstr "自定义配置"
+
+msgid "Custom configuration"
+msgstr "自定义配置 "
+
+msgid "name"
+msgstr "名称"
+
+msgid "Manage the protocols and ports that the service needs to access"
+msgstr "管理服务需要访问的协议和端口"
+
+msgid "protocol"
+msgstr "协议"
+
+msgid "port"
+msgstr "端口"
+
+msgid "Add service"
+msgstr "添加服务"
+
+msgid "Add item"
+msgstr "添加条目"
+
+msgid "delete service"
+msgstr "删除服务"
+
+msgid "delete item"
+msgstr "删除条目"
+
+msgid "Edit service"
+msgstr "编辑服务"
+
+msgid "Edit item"
+msgstr "编辑条目"
+
+msgid "Restore default"
+msgstr "还原默认设置"
+
+msgid "search"
+msgstr "搜索"
+
+msgid "Please select the service to be deleted first！"
+msgstr "请先选中需要删除的服务！"
+
+msgid "Failed to delete the selected firewall service！"
+msgstr "删除所选防火墙服务失败！"
+
+msgid "Please select the service that needs to be edited and modified!"
+msgstr "请先选中需要编辑修改的服务！"
+
+msgid "Failed to disable the selected firewall sercive!"
+msgstr "停用所选防火墙服务失败！"
+
+msgid ""
+"Failed to access the selected firewall service configuration information!"
+msgstr "获取所选防火墙服务配置信息失败！"
+
+msgid ""
+"Please select the service that needs to add protocol and port configuration "
+"first!"
+msgstr "请先选中需要添加协议、端口配置的服务！"
+
+msgid "Please disable the selected firewall service first!"
+msgstr "请先取消勾选该防火墙服务！"
+
+msgid ""
+"Please select the service that needs to delete the protocol and port "
+"configuration first!"
+msgstr "请先选中需要删除协议、端口配置的服务！"
+
+msgid "Please select the protocol and port configuration to be deleted first!"
+msgstr "请先选中需要删除的协议、端口配置！"
+
+msgid ""
+"Failed to delete the protocol and port configuration items of the selected "
+"firewall service!"
+msgstr "删除所选防火墙服务的协议、端口配置项失败！"
+
+msgid ""
+"Please select the service that needs to modify the protocol and port "
+"configuration first!"
+msgstr "请先选中需要修改协议、端口配置的服务！"
+
+msgid "Please select the protocol and port configuration to modify first!"
+msgstr "请先选中需要修改的协议、端口配置！"
+
+
+msgid "Add protocol and port"
+msgstr "添加协议、端口 "
+
+msgid "Protocol"
+msgstr "协议"
+
+msgid "Port"
+msgstr "端口 "
+
+msgid "firewall sercive"
+msgstr "防火墙服务"
+
+msgid "Input format example：6237 OR 6237-6601"
+msgstr "输入格式示例 ：6237 或 6237-6601"
+
+msgid "The protocol does not support port configuration"
+msgstr "该规约不支持端口配置"
+
+msgid "The agreement name cannot be empty!"
+msgstr "协议名称不可以为空！"
+
+msgid "The port number cannot be empty!"
+msgstr "端口不可以为空！"
+
+msgid "The system temporarily does not support the protocol!"
+msgstr "系统暂时不支持该协议！"
+
+msgid "Illegal port configuration format, please check and reset!"
+msgstr "端口配置格式非法，请检查后重新设置！"
+
+msgid "The current protocol and port configuration already exist, please check and reset!"
+msgstr "当前协议、端口配置已存在，请检查后重新设置！"
+
+msgid "Failed to add protocol and port configuration!"
+msgstr "添加协议、端口配置失败！"
+
+msgid "Edit protocol and port"
+msgstr "编辑协议、端口"
+
+msgid "The protocol name cannot be empty!"
+msgstr "协议名称不可以为空！"
+
+msgid "Failed to modify the protocol and port configuration!"
+msgstr "修改协议、端口配置失败！"
+
+msgid "Input format example ：6237 OR 6237-6601"
+msgstr "输入格式示例 ：6237 或 6237-6601"
+
+msgid "Basic service settings"
+msgstr "基础服务设置 "
+
+msgid "Name（required）"
+msgstr "名称（必填）"
+
+msgid "Version"
+msgstr "版本"
+
+msgid "Summary"
+msgstr "概要"
+
+msgid "Details"
+msgstr "细节介绍"
+
+msgid "Modify"
+msgstr "修改"
+
+msgid "The service name cannot be empty!"
+msgstr "服务名称不可以为空！"
+msgid "The service already exists!"
+msgstr "该服务已存在！"
+
+msgid "Protocol name cannot be empty！"
+msgstr "协议名称不可以为空 "
+
+msgid "The system does not support the protocol temporarily"
+msgstr "系统暂时不支持该协议"
+
+msgid "Failed to add firewall control service!"
+msgstr "添加防火墙管控服务失败！"
+
+msgid "Provide network access permission policy"
+msgstr "提供网络访问许可策略"
+
+msgid "Apply to the network in public places, protect the computer from detection"
+msgstr "适用于公共场所中的网络，保护电脑不被检测"
+
+msgid "Network for home or office"
+msgstr "适用于家庭中或工作单位的网络"
+
+msgid "Set the network access permission policy according to the situation"
+msgstr "根据情况来设置网络访问许可策略"
+
+msgid "Information tip"
+msgstr "消息提示"
+
+msgid "remind"
+msgstr "提醒"
+
+msgid "query"
+msgstr "询问"
+
+msgid "Are you sure to close firewall?"
+msgstr "你确定关闭防火墙吗？"
+
+msgid "Failed to close Kylin security firewall!"
+msgstr "关闭安全中心防火墙失败！"
+
+msgid "Failed to open Kylin security firewall!"
+msgstr "开启安全中心防火墙失败！"
+
+msgid "tip"
+msgstr "提示"
+
+msgid "Tip"
+msgstr "提示"
+
+#old
+msgid "Add execution control whitelist"
+msgstr "添加应用程序基准值 "
+
+msgid "File adding..."
+msgstr "文件添加中..."
+
+msgid "Whitelist file parsing and adding, no closing!"
+msgstr "白名单文件解析添加中,禁止关闭!"
+
+msgid "The application name cannot be empty!"
+msgstr "应用程序名称不可以为空 "
+
+msgid "The application path cannot be empty!"
+msgstr "应用程序路径不可以为空！"
+
+msgid "The application path does not exist, please add again!"
+msgstr "应用程序路径不存在，请重新添加！"
+
+msgid "The application name already exists, please re-enter!"
+msgstr "应用程序名称已经存在，请重新输入!"
+
+msgid "The application already exists in the control list!"
+msgstr "应用程序在控制名单已经存在!"
+
+msgid "Failed to add application network control project!"
+msgstr "添加应用程序联网管控项目失败！"
+
+msgid "Choose a connected application"
+msgstr "选择一个联网应用程序"
+
+msgid "Select program icon"
+msgstr "选择程序图标 "
+
+msgid "The file path does not exist, please select again!"
+msgstr "文件路径不存在，请重新选择！"
+
+msgid "The selected file is not an application file, please select again!"
+msgstr "所选文件非应用程序文件，请重新选择！ "
+
+msgid ""
+"Failed to update the password strength check configuration, please check!"
+msgstr "更新密码强度检查配置失败，请检查"
+
+msgid "The security mode is not supported in current system environment!"
+msgstr "当前系统环境不支持开启该安全模式！"
+
+msgid "Failed to read startup parameters!"
+msgstr "读取系统启动参数失败！"
+
+msgid "Failed to save startup parameters!"
+msgstr "保存系统启动参数失败！"
+
+msgid "Failed to update startup parameters!"
+msgstr "更新系统启动参数失败！"
+
+msgid "Wrong groupid for secadm group!"
+msgstr "安全管理用户组ID异常！"
+
+msgid "Wrong groupid for auditadm group!"
+msgstr "审计管理用户组ID异常！"
+
+msgid "Failed to create group secadm!"
+msgstr "安全管理用户组创建失败！"
+
+msgid "Failed to create group auditadm!"
+msgstr "审计管理用户组创建失败！"
+
+msgid "Wrong userid for user root!"
+msgstr "系统管理员用户ID异常！"
+
+msgid "Wrong home directory user root!"
+msgstr "系统管理员用户目录异常！"
+
+msgid "Wrong groupid for user root!"
+msgstr "系统管理员所属用户组异常！"
+
+msgid "Wrong userid for user secadm!"
+msgstr "安全管理员用户ID异常！"
+
+msgid "Wrong home directory user secadm!"
+msgstr "安全管理员用户目录异常！"
+
+msgid "Wrong groupid for user secadm!"
+msgstr "安全管理员所属用户组异常！"
+
+msgid "Wrong userid for user auditadm!"
+msgstr "审计管理员用户ID异常！"
+
+msgid "Wrong home directory user auditadm!"
+msgstr "审计管理员用户目录异常！"
+
+msgid "Wrong groupid for user auditadm!"
+msgstr "审计管理员所属用户组异常！"
+
+msgid "Failed to create user root!"
+msgstr "系统管理员创建失败！"
+
+msgid "Failed to create user secadm!"
+msgstr "安全管理员创建失败！"
+
+msgid "Failed to create user auditadm!"
+msgstr "审计管理员创建失败！"
+
+msgid "Failed to set password for user root!"
+msgstr "设置系统管理员密码失败！"
+
+msgid "Failed to set password for user secadm!"
+msgstr "设置安全管理员密码失败！"
+
+msgid "Failed to set password for user auditadm!"
+msgstr "设置审计管理员密码失败！"
+
+msgid "Failed to enable user  root!"
+msgstr "启用系统管理员账户失败！"
+
+msgid "Failed to enable user  secadm!"
+msgstr "启用安全管理员账户失败！"
+
+msgid "Failed to enable user  auditadm!"
+msgstr "启用审计管理员账户失败！"
+
+msgid "Failed to disable user  root!"
+msgstr "禁用系统管理员账户失败！"
+
+msgid "Failed to disable user  secadm!"
+msgstr "禁用安全管理员账户失败！"
+
+msgid "Failed to disable user  auditadm!"
+msgstr "禁用审计管理员账户失败！"
+
+msgid "Current system not support exectl!"
+msgstr "当前系统不支持执行控制系统功能！"
+
+msgid "Current system not support selinux!"
+msgstr "当前系统不支持强制访问控制系统功能！"
+
+msgid "Current system not support admin3!"
+msgstr "当前系统不支持三权分立系统功能！"
+
+msgid "Current system not support apparmor!"
+msgstr "当前系统不支持Apparmor系统功能！"
+
+msgid "Failed to enable exectl!"
+msgstr "启用执行控制系统功能失败！"
+
+msgid "Failed to disable exectl!"
+msgstr "关闭执行控制系统功能失败！"
+
+msgid "Failed to enable selinux!"
+msgstr "启用强制访问控制系统功能失败！"
+
+msgid "Failed to disable selinux!"
+msgstr "关闭强制访问控制系统功能失败！"
+
+msgid "Failed to enable apparmor!"
+msgstr "启用Apparmor系统功能失败！"
+
+msgid "Failed to disable apparmor!"
+msgstr "关闭Apparmor系统功能失败！"
+
+msgid "Polkit configure file missing!"
+msgstr "权限管理配置文件不存在！"
+
+msgid "Lightdm configure file missing!"
+msgstr "登录管理配置文件不存在！"
+
+msgid "Failed to update Polkit configure!"
+msgstr "更新权限管理配置失败！"
+
+msgid "Failed to update Lightdm configure!"
+msgstr "更新登录管理配置失败！"
+
+msgid "Failed to update account lock and configure login information, \nplease recheck!"
+msgstr "更新账户锁定及登录信息显示配置失败，请检查！"
+
+msgid "Failed to update account lock configuration, \nplease recheck!"
+msgstr "更新账户锁定配置失败，请检查！"
+
+msgid "Failed to update login information configuration, \nplease recheck!"
+msgstr "更新登录信息显示配置失败，请检查！"
+
+msgid "The selected file does not meet the requirements, please select add again!"
+msgstr "所选文件不符合要求，请再次选择添加！ "
+
+msgid ""
+"Fail to set the system firewall protection level , the system will continue "
+"to use the original firewall protection level to protect system security!  "
+msgstr "设置系统防火墙防护等级失败，系统将继续采用原防火墙防护等级保护系统安全！"
+
+msgid "All"
+msgstr "全部"
+
+msgid "Successfully added %1 applications!"
+msgstr "已成功添加%1个应用程序！"
+
+msgid "The application / file type you added does not meet the requirements, please add it again!"
+msgstr "您添加的应用程序/文件类型不符合要求，请重新添加！"
+
+msgid "Failed to add the selected file, please check!"
+msgstr "添加所选文件失败，请检查！"
+
+msgid "No eligible file were found, please reselect and add again!"
+msgstr "未发现符合要求文件,请重新选择添加! "
+
+msgid "All selected file or dir is symbol link, please reselect and add again!"
+msgstr "所选文件或目录均是符号链接,请重新选择真实文件或目录添加! "
+
+msgid "Authorization failed, no addition is allowed!"
+msgstr "授权认证失败,禁止添加 "
+
+msgid "%1 :Failed to set file mark!"
+msgstr "%1 :设置文件标记失败 "
+
+msgid "Invalid parameter, failed to add whitelist record!"
+msgstr "无效参数，添加白名单记录失败! "
+
+msgid "%1 :Failed to get the list of files to be added!"
+msgstr "%1 :获取待添加文件列表失败"
+
+msgid "Unknown error, failed to add whitelist!"
+msgstr "未知错误,添加白名单失败 "
+
+msgid "Please select the record to be decertified!"
+msgstr "请选择需要解除认证的记录"
+
+msgid "Please select the record to be removed!"
+msgstr "请选择需要删除的记录"
+
+msgid "Please select the record that needs to be reupdated!"
+msgstr "请选择需要更新认证的记录"
+
+msgid ""
+"Authorization authentication fails, it is forbidden to cancel authentication!"
+msgstr "授权认证失败,禁止解除认证!"
+
+#关于界面 old文案
+
+msgid "Version Number: %1"
+msgstr "版本号: %1"
+
+msgid "Service & Support:"
+msgstr "服务与支持团队: "
+
+msgid "Security center is a management tool based on KYSEC, which provides system security examination, account security configuration, firewall configuration, application networking control, virus protection, application source check, application execution control, application protection and other functions to ensure the security and stability of the system."
+msgstr "安全中心是一款基于麒麟安全框架KYSEC的管理工具，提供系统安全体检、账户安全配置、防火墙配置、应用联网控制、病毒防护、应用来源检查、应用执行控制和应用防护等功能，保障系统运行环境的安全和稳定。"
+
+msgid "Password: Disable"
+msgstr "密码强度：关闭"
+
+msgid "Password: %1/%2 (%3)"
+msgstr "密码强度：%1位/%2种（%3）"
+
+msgid "Account lock: %1/%2"
+msgstr "账户锁定：%1次/%2分钟"
+
+msgid "Account lock: Disable"
+msgstr "账户锁定：关闭"
+
+msgid "Firewall: Disable"
+msgstr "防火墙：关闭"
+
+msgid "Firewall: Public"
+msgstr "防火墙：公共网络"
+
+msgid "Firewall: Office"
+msgstr "防火墙：办公网络"
+
+msgid "Firewall: Custom"
+msgstr "防火墙：自定义"
+
+msgid "Network: Disable"
+msgstr "网络管控：关闭"
+
+msgid "Network: Prevent"
+msgstr "网络管控：阻止"
+
+msgid "Network: Warning"
+msgstr "网络管控：警告"
+
+msgid "Source check: Disable"
+msgstr "来源检测：关闭"
+
+msgid "Source check: Prevent"
+msgstr "来源检测：阻止"
+
+msgid "Source check: Warning"
+msgstr "来源检测：警告"
+
+msgid "Exec: Disable"
+msgstr "执行控制：关闭"
+
+msgid "Exec: Prevent"
+msgstr "执行控制：阻止"
+
+msgid "Exec: Warning"
+msgstr "执行控制：警告"
+
+msgid "Application protect: Disable"
+msgstr "应用防护：关闭"
+
+msgid "Application protect: Enable"
+msgstr "应用防护：开启"
+
+msgid "Authentication failed !"
+msgstr "认证失败！"
+
+msgid "Failed to decertification !"
+msgstr "解除认证失败！"
+
+msgid "Remove"
+msgstr "解除"
+
+msgid "Virus protection software does not exist, please check!"
+msgstr "杀毒软件不存在，请检查！"
+
+msgid "After disable, the system will lose security protection and greatly increase the security risk of the system. Are you sure you want to continue disable?"
+msgstr "关闭后将使系统失去安全防护，极大增加系统安全风险，确定要继续关闭吗？"
+
+msgid "Remain"
+msgstr "仍然关闭"
+
+
+
