@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
+<context>
+    <name>DelayWdiget</name>
+    <message>
+        <source>3s</source>
+        <translation>3秒</translation>
+    </message>
+    <message>
+        <source>6s</source>
+        <translation>6秒</translation>
+    </message>
+    <message>
+        <source>9s</source>
+        <translation>9秒</translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation>关闭</translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <source>no</source>
+        <translation>否</translation>
+    </message>
+    <message>
+        <source>set</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>yes</source>
+        <translation>是</translation>
+    </message>
+    <message>
+        <source>help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>quit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>save path can&apos;t write</source>
+        <translation>储存路径没有写如权限</translation>
+    </message>
+    <message>
+        <source>about</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <source>theme</source>
+        <translation>主题</translation>
+    </message>
+    <message>
+        <source>File generation in progress, please try again later</source>
+        <translation>文件正在保存，请稍后操作</translation>
+    </message>
+    <message>
+        <source>kylin-camera</source>
+        <translation>摄像头</translation>
+    </message>
+    <message>
+        <source>delete</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>waring</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>path does not exist, save to default path</source>
+        <translation>路径不存在，文件保存到默认路径</translation>
+    </message>
+    <message>
+        <source>Are you sure?!</source>
+        <translation>你确定要这样做？</translation>
+    </message>
+    <message>
+        <source>path does not exist, please set storage path</source>
+        <translation>路径不存在，请设置存储路径</translation>
+    </message>
+</context>
+<context>
+    <name>Setting</name>
+    <message>
+        <source>set</source>
+        <translation>设置</translation>
+    </message>
+    <message>
+        <source>Auto</source>
+        <translation>跟随主题</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>深色模式</translation>
+    </message>
+    <message>
+        <source>help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>quit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>浅色模式</translation>
+    </message>
+    <message>
+        <source>about</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <source>theme</source>
+        <translation>主题</translation>
+    </message>
+    <message>
+        <source>Delayed</source>
+        <translation>延迟</translation>
+    </message>
+</context>
+<context>
+    <name>SettingPage</name>
+    <message>
+        <source>The image path:</source>
+        <translation>默认存储位置:</translation>
+    </message>
+    <message>
+        <source>error</source>
+        <translation>错误</translation>
+    </message>
+    <message>
+        <source>The image scale:</source>
+        <translation>拍摄分辨率:</translation>
+    </message>
+    <message>
+        <source>camera setting</source>
+        <translation>摄像头设置</translation>
+    </message>
+    <message>
+        <source>Camera device:</source>
+        <translation>默认摄像头:</translation>
+    </message>
+    <message>
+        <source>The directory does not have write permissions, select the user directory to store the files .</source>
+        <translation>该目录没有写入权限，请选择用户目录下存储文件。</translation>
+    </message>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>browse</source>
+        <translation>浏览</translation>
+    </message>
+    <message>
+        <source>waring</source>
+        <translation>警告</translation>
+    </message>
+    <message>
+        <source>save video format:</source>
+        <translation>视频格式:</translation>
+    </message>
+    <message>
+        <source>confirm</source>
+        <translation>确定</translation>
+    </message>
+    <message>
+        <source>Select the directory</source>
+        <translation>选择目录</translation>
+    </message>
+    <message>
+        <source>save photo format:</source>
+        <translation>照片格式:</translation>
+    </message>
+    <message>
+        <source>The settings cannot be changed during recording</source>
+        <translation>录像时不可修改设置</translation>
+    </message>
+</context>
+<context>
+    <name>Button</name>
+    <message>
+        <source>stop</source>
+        <translation>结束录像</translation>
+    </message>
+    <message>
+        <source>album</source>
+        <translation>相册</translation>
+    </message>
+    <message>
+        <source>delay</source>
+        <translation>延时</translation>
+    </message>
+    <message>
+        <source>video</source>
+        <translation>录像</translation>
+    </message>
+    <message>
+        <source>cheese</source>
+        <translation>拍照</translation>
+    </message>
+    <message>
+        <source>mirror</source>
+        <translation>镜像</translation>
+    </message>
+    <message>
+        <source>video mode</source>
+        <translation>录像模式</translation>
+    </message>
+    <message>
+        <source>capture mode</source>
+        <translation>拍照模式</translation>
+    </message>
+</context>
+<context>
+    <name>PictureViewPage</name>
+    <message>
+        <source>Album</source>
+        <translation>相册</translation>
+    </message>
+</context>
+<context>
+    <name>SettingPageTitle</name>
+    <message>
+        <source>Camera</source>
+        <translation>摄像头</translation>
+    </message>
+</context>
+<context>
+    <name>AboutWidget</name>
+    <message>
+        <source>kylin-camera</source>
+        <translation>摄像头</translation>
+    </message>
+    <message>
+        <source>Camera is a very strong camera software. It has the characteristics of easy to use. You can realize the function of taking a photo recording and displaying the album</source>
+        <translation>摄像头是一款很专业的摄像头软件。有着简单易用的特点。可以实现拍照录像以及相册显示的功能</translation>
+    </message>
+    <message>
+        <source>Service &amp; Support: </source>
+        <translation>服务与支持团队: </translation>
+    </message>
+    <message>
+        <source>Version:</source>
+        <translation>版本号：</translation>
+    </message>
+</context>
+<context>
+    <name>TitleBar</name>
+    <message>
+        <source>kylin-camera</source>
+        <translation>摄像头</translation>
+    </message>
+</context>
+<context>
+    <name>CameraPage</name>
+    <message>
+        <source>Please connect the camera first</source>
+        <translation>若要使用此功能，请先连接摄像头。</translation>
+    </message>
+    <message>
+        <source>No device were found</source>
+        <translation>无摄像头可用</translation>
+    </message>
+</context>
+</TS>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
+<context>
+    <name>MainWindow</name>
+    <message>
+        <source>Exit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>minimize</source>
+        <translation>最小化</translation>
+    </message>
+    <message>
+        <source>close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Incorrect access address</source>
+        <translation>访问地址异常</translation>
+    </message>
+    <message>
+        <source>MainWindow</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Network not connected</source>
+        <translation>网络未连接</translation>
+    </message>
+    <message>
+        <source>Open Weather</source>
+        <translation>打开天气</translation>
+    </message>
+    <message>
+        <source>Add City</source>
+        <translation>增加城市</translation>
+    </message>
+    <message>
+        <source>Weather</source>
+        <translation>天气</translation>
+    </message>
+    <message>
+        <source>Network error code:%1</source>
+        <translation>网络错误代码：%1</translation>
+    </message>
+</context>
+<context>
+    <name>menuModule</name>
+    <message>
+        <source>Help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>menu</source>
+        <translation>菜单</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <source>Theme</source>
+        <translation>主题</translation>
+    </message>
+    <message>
+        <source>Service &amp; Support: </source>
+        <translation>服务与支持团队：</translation>
+    </message>
+    <message>
+        <source>Version: </source>
+        <translation>版本：</translation>
+    </message>
+    <message>
+        <source>Weather</source>
+        <translation>天气</translation>
+    </message>
+    <message>
+        <source>weather</source>
+        <translation>天气</translation>
+    </message>
+</context>
+<context>
+    <name>CityCollectionWidget</name>
+    <message>
+        <source>Local</source>
+        <translation>当前城市</translation>
+    </message>
+    <message>
+        <source>Collections</source>
+        <translation>收藏城市</translation>
+    </message>
+    <message>
+        <source>Weather</source>
+        <translation>天气</translation>
+    </message>
+</context>
+<context>
+    <name>Information</name>
+    <message>
+        <source>Today</source>
+        <translation>今天</translation>
+    </message>
+</context>
+<context>
+    <name>PromptWidget</name>
+    <message>
+        <source>retry</source>
+        <translation>重试</translation>
+    </message>
+</context>
+<context>
+    <name>main</name>
+    <message>
+        <source>show indicator-china-weather test</source>
+        <translation>show indicator-china-weather test</translation>
+    </message>
+    <message>
+        <source>KylinWeather</source>
+        <translation>Weather</translation>
+    </message>
+</context>
+<context>
+    <name>CityAddSearchBox</name>
+    <message>
+        <source>search</source>
+        <translation>搜索</translation>
+    </message>
+</context>
+<context>
+    <name>LeftUpSearchBox</name>
+    <message>
+        <source>search</source>
+        <translation>搜索</translation>
+    </message>
+</context>
+<context>
+    <name>AddCityAction</name>
+    <message>
+        <source>indicator-china-weather</source>
+        <translation>天气</translation>
+    </message>
+</context>
+</TS>

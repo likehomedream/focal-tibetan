@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TS>
+<TS version="2.1" language="zh_CN">
+<context>
+    <name>menuModule</name>
+    <message>
+        <source>Auto</source>
+        <translation>自动</translation>
+    </message>
+    <message>
+        <source>Dark</source>
+        <translation>深色</translation>
+    </message>
+    <message>
+        <source>Help</source>
+        <translation>帮助</translation>
+    </message>
+    <message>
+        <source>Menu</source>
+        <translation>菜单</translation>
+    </message>
+    <message>
+        <source>Quit</source>
+        <translation>退出</translation>
+    </message>
+    <message>
+        <source>About</source>
+        <translation>关于</translation>
+    </message>
+    <message>
+        <source>Light</source>
+        <translation>浅色</translation>
+    </message>
+    <message>
+        <source>Theme</source>
+        <translation>主题</translation>
+    </message>
+    <message>
+        <source>Exchange Rate</source>
+        <translation>汇率</translation>
+    </message>
+    <message>
+        <source>Service &amp; Support: </source>
+        <translation>服务与支持团队：</translation>
+    </message>
+    <message>
+        <source>Version: </source>
+        <translation>版本号: </translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation>标准</translation>
+    </message>
+    <message>
+        <source>Calculator</source>
+        <translation>计算器</translation>
+    </message>
+    <message>
+        <source>Scientific</source>
+        <translation>科学</translation>
+    </message>
+</context>
+<context>
+    <name>MainWindow</name>
+    <message>
+        <source>Copy</source>
+        <translation>复制</translation>
+    </message>
+    <message>
+        <source>Paste</source>
+        <translation>粘贴</translation>
+    </message>
+    <message>
+        <source>input too long</source>
+        <translation>输入过长</translation>
+    </message>
+    <message>
+        <source>exchange rate</source>
+        <translation>汇率</translation>
+    </message>
+    <message>
+        <source>Input error!</source>
+        <translation>输入错误!</translation>
+    </message>
+    <message>
+        <source>Error!</source>
+        <translation>错误!</translation>
+    </message>
+    <message>
+        <source>standard</source>
+        <translation>标准</translation>
+    </message>
+    <message>
+        <source>calculator</source>
+        <translation>计算器</translation>
+    </message>
+    <message>
+        <source>Calculator</source>
+        <translation>计算器</translation>
+    </message>
+    <message>
+        <source>scientific</source>
+        <translation>科学</translation>
+    </message>
+</context>
+<context>
+    <name>TitleBar</name>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Minimize</source>
+        <translation>最小化</translation>
+    </message>
+    <message>
+        <source>Exchange Rate</source>
+        <translation>计算器—汇率</translation>
+    </message>
+    <message>
+        <source>Standard</source>
+        <translation>计算器—标准</translation>
+    </message>
+    <message>
+        <source>StayTop</source>
+        <translation>置顶</translation>
+    </message>
+    <message>
+        <source>Scientific</source>
+        <translation>计算器—科学</translation>
+    </message>
+</context>
+<context>
+    <name>FuncList</name>
+    <message>
+        <source>Unit converter</source>
+        <translation>换算器</translation>
+    </message>
+    <message>
+        <source>exchange rate</source>
+        <translation>汇率</translation>
+    </message>
+    <message>
+        <source>standard</source>
+        <translation>标准</translation>
+    </message>
+    <message>
+        <source>Calculator</source>
+        <translation>计算器</translation>
+    </message>
+    <message>
+        <source>scientific</source>
+        <translation>科学</translation>
+    </message>
+</context>
+<context>
+    <name>ToolModelOutput</name>
+    <message>
+        <source>US Dollar</source>
+        <translation>美元</translation>
+    </message>
+    <message>
+        <source>Rate update</source>
+        <translation>汇率更新</translation>
+    </message>
+    <message>
+        <source>Chinese Yuan</source>
+        <translation>人民币</translation>
+    </message>
+</context>
+<context>
+    <name>UnitListWidget</name>
+    <message>
+        <source>cancel</source>
+        <translation>取消</translation>
+    </message>
+    <message>
+        <source>search</source>
+        <translation>搜索</translation>
+    </message>
+    <message>
+        <source>currency</source>
+        <translation>货币</translation>
+    </message>
+</context>
+</TS>
