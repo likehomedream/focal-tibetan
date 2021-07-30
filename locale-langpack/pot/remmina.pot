@@ -1,0 +1,1873 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: remmina\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-03-24 11:51+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:25+0000\n"
+
+msgid ""
+"%G Group name (slash will be converted to - automatically)\n"
+"%P Protocol name\n"
+"%N Connection name\n"
+"%h Hostname/IP\n"
+"\n"
+"\n"
+msgstr ""
+
+msgid "%G_%P_%N_%h"
+msgstr ""
+
+msgid "%d password changed."
+msgid_plural "%d passwords changed."
+msgstr[0] ""
+
+msgid ""
+"%p Profile name\n"
+"%h Server name/IP\n"
+"%Y Year, %m Month, %d Day, %H Hour, %M Minute, %S Seconds (UTC time)\n"
+msgstr ""
+
+msgid ""
+"%s wants to share their desktop.\n"
+"Do you accept?"
+msgstr ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid "(Host key +)"
+msgstr ""
+
+msgid "(SELinux) permissive mode for serial ports"
+msgstr ""
+
+msgid "256 colors (8 bpp)"
+msgstr ""
+
+msgid "256 colours"
+msgstr ""
+
+msgid "256 colours (8 bpp)"
+msgstr ""
+
+msgid "<Auto detect>"
+msgstr ""
+
+msgid "<Choose a quality level to edit…>"
+msgstr ""
+
+msgid "<None>"
+msgstr ""
+
+msgid "<Not set>"
+msgstr ""
+
+msgid "<big>Contribute</big>"
+msgstr ""
+
+msgid "<big>Important settings</big>"
+msgstr ""
+
+msgid "<span weight='bold' size='larger'>Multi Password Changer</span>"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Accept certificate?"
+msgstr ""
+
+msgid "Accept changed certificate?"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Allow bold text"
+msgstr ""
+
+msgid "Alt+"
+msgstr ""
+
+msgid "Always show tabs"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Applet"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Apply/remove scaling"
+msgstr ""
+
+msgid "Are you sure to delete the selected files on server?"
+msgstr ""
+
+msgid "Are you sure you want to cancel the file transfer in progress?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to close %i active connections in the current window?"
+msgstr ""
+
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr ""
+
+msgid "Assign a destination port."
+msgstr ""
+
+msgid "Asynchrounous execution"
+msgstr ""
+
+msgid "Attach"
+msgstr ""
+
+msgid "Attach to console (2003/2003 R2)"
+msgstr ""
+
+msgid "Authentication type"
+msgstr ""
+
+msgid "Auto-fit window"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatic lock interval"
+msgstr ""
+
+msgid "Autostart"
+msgstr ""
+
+msgid "Awaiting incoming SSH connection at port %i…"
+msgstr ""
+
+msgid "Background colour"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Best (slowest)"
+msgstr ""
+
+msgid "Bilinear"
+msgstr ""
+
+msgid "Bright colours"
+msgstr ""
+
+msgid "Browse the network to find a %s server"
+msgstr ""
+
+msgid "CA CRL File"
+msgstr ""
+
+msgid "CA Certificate File"
+msgstr ""
+
+msgid "COM1, COM2, etc."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot connect to local port %i."
+msgstr ""
+
+msgid "Cannot connect to the \"%s\" RDP server."
+msgstr ""
+
+msgid "Cannot connect to the RDP server \"%s\"."
+msgstr ""
+
+msgid "Certificate details:"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Character set"
+msgstr ""
+
+msgid "Chat with %s"
+msgstr ""
+
+msgid "Choose a Remote Desktop Server"
+msgstr ""
+
+msgid ""
+"Choose a colour scheme file. Usually available in /usr/share/remmina/theme. "
+"https://github.com/mbadolato/iTerm2-Color-Schemes has more details."
+msgstr ""
+
+msgid "Choose a file to upload"
+msgstr ""
+
+msgid "Choose a new key"
+msgstr ""
+
+msgid "Choose download location"
+msgstr ""
+
+msgid "Choose the a folder to save screenshots from Remmina in."
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Client Certificate File"
+msgstr ""
+
+msgid "Client Certificate Key"
+msgstr ""
+
+msgid "Client name"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Collapse all"
+msgstr ""
+
+msgid "Color depth"
+msgstr ""
+
+msgid "Colour depth"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Command to be executed"
+msgstr ""
+
+msgid "Composition"
+msgstr ""
+
+msgid "Configure the available resolutions"
+msgstr ""
+
+msgid "Configure the keystrokes"
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connect to remote desktops through the applet menu"
+msgstr ""
+
+msgid "Connect via SSH from a new terminal"
+msgstr ""
+
+msgid "Connecting to \"%s\" via SSH…"
+msgstr ""
+
+msgid "Connecting to \"%s\"…"
+msgstr ""
+
+msgid "Connecting to %s via SSH…"
+msgstr ""
+
+msgid "Connection to the SPICE server dropped."
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy (host + C)"
+msgstr ""
+
+msgid "Could not authenticate automatically with public SSH key. %s"
+msgstr ""
+
+msgid "Could not authenticate with SSH Kerberos/GSSAPI. %s"
+msgstr ""
+
+msgid "Could not authenticate with SSH password. %s"
+msgstr ""
+
+msgid "Could not authenticate with public SSH key using SSH agent. %s"
+msgstr ""
+
+msgid "Could not authenticate with public SSH key. %s"
+msgstr ""
+
+msgid "Could not authenticate, attempting reconnection…"
+msgstr ""
+
+msgid "Could not bind server socket to local port."
+msgstr ""
+
+msgid "Could not check list of known SSH hosts. %s"
+msgstr ""
+
+msgid "Could not connect to SSH tunnel. %s"
+msgstr ""
+
+msgid "Could not create PTY device."
+msgstr ""
+
+msgid "Could not create SFTP session. %s"
+msgstr ""
+
+msgid "Could not create channel. %s"
+msgstr ""
+
+msgid "Could not create socket."
+msgstr ""
+
+msgid "Could not create the file \"%s\" on the server. %s"
+msgstr ""
+
+msgid "Could not create the file \"%s\"."
+msgstr ""
+
+msgid "Could not create the folder \"%s\" on the server. %s"
+msgstr ""
+
+msgid "Could not create the folder \"%s\"."
+msgstr ""
+
+msgid "Could not delete \"%s\". %s"
+msgstr ""
+
+msgid "Could not fetch public SSH key. %s"
+msgstr ""
+
+msgid "Could not fetch the server's public SSH key. %s"
+msgstr ""
+
+msgid "Could not find the address for the RDP server \"%s\"."
+msgstr ""
+
+msgid "Could not find the file \"%s\"."
+msgstr ""
+
+msgid "Could not listen to local port."
+msgstr ""
+
+msgid "Could not open channel. %s"
+msgstr ""
+
+msgid "Could not open the file \"%s\" on the server. %s"
+msgstr ""
+
+msgid "Could not open the file \"%s\"."
+msgstr ""
+
+msgid "Could not open the folder  \"%s\". %s"
+msgstr ""
+
+msgid "Could not open the folder \"%s\". %s"
+msgstr ""
+
+msgid "Could not read from the folder. %s"
+msgstr ""
+
+msgid "Could not read from tunnel listening socket. %s"
+msgstr ""
+
+msgid "Could not request port forwarding. %s"
+msgstr ""
+
+msgid "Could not request shell. %s"
+msgstr ""
+
+msgid "Could not run %s on SSH server."
+msgstr ""
+
+msgid "Could not run command. %s"
+msgstr ""
+
+msgid "Could not run the \"%s\" command on the SSH server (status = %i)."
+msgstr ""
+
+msgid "Could not save the file \"%s\"."
+msgstr ""
+
+msgid "Could not start SFTP session. %s"
+msgstr ""
+
+msgid "Could not start SSH session. %s"
+msgstr ""
+
+msgid "Could not start libfreerdp-gdi."
+msgstr ""
+
+msgid "Could not start pthread."
+msgstr ""
+
+msgid "Could not write to SSH channel. %s"
+msgstr ""
+
+msgid "Could not write to the file \"%s\" on the server. %s"
+msgstr ""
+
+msgid "Couldn’t convert '%s' to host address"
+msgstr ""
+
+msgid "Create new connection profile"
+msgstr ""
+
+msgid "Ctrl+"
+msgstr ""
+
+msgid "Cursor blinking"
+msgstr ""
+
+msgid "Cursor colour"
+msgstr ""
+
+msgid "Cursor shadow"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Dark tray icon"
+msgstr ""
+
+msgid "Debugging"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default settings saved."
+msgstr ""
+
+msgid "Default view mode"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete files on server"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Desktop orientation"
+msgstr ""
+
+msgid "Desktop scale factor %"
+msgstr ""
+
+msgid "Desktop sharing invitation"
+msgstr ""
+
+msgid "Detached window"
+msgstr ""
+
+msgid "Device scale factor %"
+msgstr ""
+
+msgid "Disable clipboard sync"
+msgstr ""
+
+msgid "Disable encryption"
+msgstr ""
+
+msgid "Disable password storing"
+msgstr ""
+
+msgid "Disable server input"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Disconnect after first session"
+msgstr ""
+
+msgid "Disconnected from the SPICE server \"%s\"."
+msgstr ""
+
+msgid "Discovered"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Do not show this message again"
+msgstr ""
+
+msgid "Do you trust the new public key?"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Don't remember passwords"
+msgstr ""
+
+msgid "Donations"
+msgstr ""
+
+msgid "Double-click action"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download from server"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit settings"
+msgstr ""
+
+msgid "Enable SSH tunnel"
+msgstr ""
+
+msgid "Enable Service Discovery"
+msgstr ""
+
+msgid "Enable audio channel"
+msgstr ""
+
+msgid "Enter NX authentication credentials"
+msgstr ""
+
+msgid "Enter RDP authentication credentials"
+msgstr ""
+
+msgid "Enter RDP gateway authentication credentials"
+msgstr ""
+
+msgid "Enter SPICE password"
+msgstr ""
+
+msgid "Enter VNC authentication credentials"
+msgstr ""
+
+msgid "Enter VNC password"
+msgstr ""
+
+msgid "Enter WWW authentication credentials"
+msgstr ""
+
+msgid "Enter certificate authentication files"
+msgstr ""
+
+msgid "Entry"
+msgstr ""
+
+msgid "Error: %s"
+msgstr ""
+
+msgid "Execute a command"
+msgstr ""
+
+msgid "Executing external commands…"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export connection in Windows .rdp file format"
+msgstr ""
+
+msgid "Failed to initialize pthread."
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File Transfers"
+msgstr ""
+
+msgid "File downloaded"
+msgstr ""
+
+msgid "File encryption"
+msgstr ""
+
+msgid "Filename"
+msgstr ""
+
+msgid "Filename for SSH session log"
+msgstr ""
+
+msgid "Fill client window when scaled"
+msgstr ""
+
+msgid "Fingerprint:"
+msgstr ""
+
+msgid "Folder for SSH session log"
+msgstr ""
+
+msgid "Font smoothing"
+msgstr ""
+
+msgid "Foreground colour"
+msgstr ""
+
+msgid "Fullscreen on the same screen as the connection window"
+msgstr ""
+
+msgid "Fullscreen toolbar visibility"
+msgstr ""
+
+msgid "GFX AVC420 (32 bpp)"
+msgstr ""
+
+msgid "GFX AVC444 (32 bpp)"
+msgstr ""
+
+msgid "GFX RFX (32 bpp)"
+msgstr ""
+
+msgid "Gateway transport type"
+msgstr ""
+
+msgid "Glyph cache"
+msgstr ""
+
+msgid "Go to home folder"
+msgstr ""
+
+msgid "Go to parent folder"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Grab all keyboard events"
+msgstr ""
+
+msgid "Grab keyboard"
+msgstr ""
+
+msgid "Grayscale"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Hello World!"
+msgstr ""
+
+msgid "Hidden"
+msgstr ""
+
+msgid "Hide the search bar shown in the main window"
+msgstr ""
+
+msgid "Hide the toolbar shown in the tabbed interface"
+msgstr ""
+
+msgid "Hide total count shown in the group menu"
+msgstr ""
+
+msgid "High color (16 bpp)"
+msgstr ""
+
+msgid "High colour (15 bpp)"
+msgstr ""
+
+msgid "High colour (16 bit)"
+msgstr ""
+
+msgid "High colour (16 bpp)"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Host key"
+msgstr ""
+
+msgid "Hyper"
+msgstr ""
+
+msgid "Hyper+"
+msgstr ""
+
+msgid "Identity file"
+msgstr ""
+
+msgid "Ignore TLS errors"
+msgstr ""
+
+msgid "Ignore certificate"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Improves contrast if you have a light panel."
+msgstr ""
+
+msgid "Install the %s protocol plugin first."
+msgstr ""
+
+msgid "Issuer:"
+msgstr ""
+
+msgid "KEX (Key Exchange) algorithms"
+msgstr ""
+
+msgid "Keep aspect ratio when scaled"
+msgstr ""
+
+msgid "Kerberos (GSSAPI)"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Keyboard layout"
+msgstr ""
+
+msgid "Keyboard mapping"
+msgstr ""
+
+msgid "Keystrokes"
+msgstr ""
+
+msgid "Listen for TCP connections"
+msgstr ""
+
+msgid "Listen on port"
+msgstr ""
+
+msgid "Listening on port %i for an incoming %s connection…"
+msgstr ""
+
+msgid "Load balance info"
+msgstr ""
+
+msgid "Load colour theme"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Local - high quality"
+msgstr ""
+
+msgid "Local - low quality"
+msgstr ""
+
+msgid "Local - medium quality"
+msgstr ""
+
+msgid "Local SSH port"
+msgstr ""
+
+msgid "Local parallel device"
+msgstr ""
+
+msgid "Local parallel name"
+msgstr ""
+
+msgid "Local serial driver"
+msgstr ""
+
+msgid "Local serial name"
+msgstr ""
+
+msgid "Local serial path"
+msgstr ""
+
+msgid "Log SSH session when exiting Remmina"
+msgstr ""
+
+msgid "Lost connection to the RDP server \"%s\"."
+msgstr ""
+
+msgid "Make Remmina the default Remote Desktop Client"
+msgstr ""
+
+msgid "Master password"
+msgstr ""
+
+msgid "Master password validity in seconds"
+msgstr ""
+
+msgid "Maximal amount of recent items"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Menu animation"
+msgstr ""
+
+msgid "Meta+"
+msgstr ""
+
+msgid "Minimize window"
+msgstr ""
+
+msgid "Modify connection profile (requires --set-option)"
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "Multi password changer"
+msgstr ""
+
+msgctxt "Multi password changer"
+msgid "Select"
+msgstr ""
+
+msgctxt "Multi password changer table"
+msgid "Domain\\Username"
+msgstr ""
+
+msgctxt "Multi password changer table"
+msgid "Group"
+msgstr ""
+
+msgctxt "Multi password changer table"
+msgid "Name"
+msgstr ""
+
+msgid "NX - NX Technology"
+msgstr ""
+
+msgid "NX Sessions on %s"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Nearest"
+msgstr ""
+
+msgid "Negotiate"
+msgstr ""
+
+msgid "New Connection"
+msgstr ""
+
+msgid "New connection profile"
+msgstr ""
+
+msgid "New fingerprint:"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No tabs"
+msgstr ""
+
+msgid "No tray icon"
+msgstr ""
+
+msgid "Normal colours"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Old fingerprint:"
+msgstr ""
+
+msgid "Online Community"
+msgstr ""
+
+msgid "Only save generated screenshots, don't copy them to clipboard."
+msgstr ""
+
+msgid "Open Chat…"
+msgstr ""
+
+msgid "Open Main Window"
+msgstr ""
+
+msgid "Open SFTP transfer"
+msgstr ""
+
+msgid "Open connection"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Override printer drivers"
+msgstr ""
+
+msgid "Overwrite"
+msgstr ""
+
+msgid "Overwrite all"
+msgstr ""
+
+msgid "Parse ~/.ssh/config"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password for private SSH key"
+msgstr ""
+
+msgid "Password to unlock private key"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Paste (host + V)"
+msgstr ""
+
+msgid "Peeking"
+msgstr ""
+
+msgid "Permission"
+msgstr ""
+
+msgid "Pick a black colour"
+msgstr ""
+
+msgid "Pick a blue colour"
+msgstr ""
+
+msgid "Pick a bright blue colour"
+msgstr ""
+
+msgid "Pick a bright green colour"
+msgstr ""
+
+msgid "Pick a bright yellow colour"
+msgstr ""
+
+msgid "Pick a cyan colour"
+msgstr ""
+
+msgid "Pick a green colour"
+msgstr ""
+
+msgid "Pick a light black colour"
+msgstr ""
+
+msgid "Pick a light cyan colour"
+msgstr ""
+
+msgid "Pick a light magenta colour"
+msgstr ""
+
+msgid "Pick a light red colour"
+msgstr ""
+
+msgid "Pick a light white colour"
+msgstr ""
+
+msgid "Pick a magenta colour"
+msgstr ""
+
+msgid "Pick a red colour"
+msgstr ""
+
+msgid "Pick a terminal colouring file"
+msgstr ""
+
+msgid "Pick a white colour"
+msgstr ""
+
+msgid "Pick a yellow colour"
+msgstr ""
+
+msgid "Please enter format 'widthxheight'."
+msgstr ""
+
+msgid "Please press the new key…"
+msgstr ""
+
+msgid "Please retry after turning on encryption for this profile."
+msgstr ""
+
+msgid "Please wait…"
+msgstr ""
+
+msgid "Plugin"
+msgstr ""
+
+msgid "Plugin %s is not registered."
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Poor (fastest)"
+msgstr ""
+
+msgid "Post-command"
+msgstr ""
+
+msgid "Pre-command"
+msgstr ""
+
+msgid "Preference"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preferred server host key types"
+msgstr ""
+
+msgid "Prevent screenshots from entering clipboard"
+msgstr ""
+
+msgid "Profile filename template"
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Public SSH key cannot be imported. %s"
+msgstr ""
+
+msgid "Public key (automatic)"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
+
+msgid "Quality settings"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Quick Connect"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "RDP - Preferences"
+msgstr ""
+
+msgid "RDP - RDP File Handler"
+msgstr ""
+
+msgid "RDP - Remote Desktop Protocol"
+msgstr ""
+
+msgid "Recent lists cleared."
+msgstr ""
+
+msgid "Redirect local microphone"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Refresh current folder"
+msgstr ""
+
+msgid "Relax order checks"
+msgstr ""
+
+msgid "Remember last view mode"
+msgstr ""
+
+msgid "Remember last view mode for each connection"
+msgstr ""
+
+msgid "Remmina Applet"
+msgstr ""
+
+msgid "Remmina Kiosk"
+msgstr ""
+
+msgid "Remmina Preferences"
+msgstr ""
+
+msgid "Remmina Remote Desktop Client"
+msgstr ""
+
+msgid "Remmina VNC Plugin"
+msgstr ""
+
+msgid "Remmina VNC listener Plugin"
+msgstr ""
+
+msgid "Remmina data folder"
+msgstr ""
+
+msgid "Remmina simple terminal"
+msgstr ""
+
+msgid "Remmina web-browser plugin"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Remote Desktop Gateway domain"
+msgstr ""
+
+msgid "Remote Desktop Gateway password"
+msgstr ""
+
+msgid "Remote Desktop Gateway server"
+msgstr ""
+
+msgid "Remote Desktop Gateway username"
+msgstr ""
+
+msgid "Remote Desktop Preference"
+msgstr ""
+
+msgid "Remote scale factor"
+msgstr ""
+
+msgid "RemoteFX (32 bpp)"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Repeat the password"
+msgstr ""
+
+msgid "Repeater"
+msgstr ""
+
+msgid "Resetting passwords, please wait…"
+msgstr ""
+
+msgid "Resize guest to match window size"
+msgstr ""
+
+msgid "Resize the window to fit in remote resolution"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Resolutions"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Run a plugin"
+msgstr ""
+
+msgid "Run out of available local X display number."
+msgstr ""
+
+msgid "SFTP - Secure File Transfer"
+msgstr ""
+
+msgid "SPICE - Simple Protocol for Independent Computing Environments"
+msgstr ""
+
+msgid "SSH - Secure Shell"
+msgstr ""
+
+msgid "SSH Authentication"
+msgstr ""
+
+msgid "SSH Kerberos/GSSAPI"
+msgstr ""
+
+msgid "SSH Key file not yet set."
+msgstr ""
+
+msgid "SSH Proxy Command"
+msgstr ""
+
+msgid "SSH Tunnel"
+msgstr ""
+
+msgid "SSH agent"
+msgstr ""
+
+msgid "SSH agent (automatic)"
+msgstr ""
+
+msgid "SSH compression"
+msgstr ""
+
+msgid "SSH credentials"
+msgstr ""
+
+msgid "SSH identity file"
+msgstr ""
+
+msgid "SSH log level"
+msgstr ""
+
+msgid "SSH options"
+msgstr ""
+
+msgid "SSH password"
+msgstr ""
+
+msgid "SSH private key passphrase"
+msgstr ""
+
+msgid "SSH_LOG_ENTRY"
+msgstr ""
+
+msgid "SSH_LOG_FUNCTIONS"
+msgstr ""
+
+msgid "SSH_LOG_NOLOG"
+msgstr ""
+
+msgid "SSH_LOG_PACKET"
+msgstr ""
+
+msgid "SSH_LOG_RARE"
+msgstr ""
+
+msgid "Same server at port %i"
+msgstr ""
+
+msgid "Save as Default"
+msgstr ""
+
+msgid "Save password"
+msgstr ""
+
+msgid "Save session to file"
+msgstr ""
+
+msgid "Scaling quality"
+msgstr ""
+
+msgid "Screen resolutions"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Screenshot filename"
+msgstr ""
+
+msgid "Screenshot folder"
+msgstr ""
+
+msgid "Screenshot taken"
+msgstr ""
+
+msgid "Scrollback lines"
+msgstr ""
+
+msgid "Scrolled fullscreen"
+msgstr ""
+
+msgid "Scrolled window"
+msgstr ""
+
+msgid "Search string or server name/IP address for “Quick Connect”"
+msgstr ""
+
+msgid "Secret"
+msgstr ""
+
+msgid "Secure password storing in the GNOME keyring"
+msgstr ""
+
+msgid "Secure passwords storage in KWallet"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Select All (Host + A)"
+msgstr ""
+
+msgid "Select USB devices for redirection"
+msgstr ""
+
+msgid "Select a Folder"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Select all shortcuts"
+msgstr ""
+
+msgid "Selection criteria"
+msgstr ""
+
+msgid ""
+"Send <b><a "
+"href=\"https://remmina.gitlab.io/remminadoc.gitlab.io/remmina__stats_8c.html#details\""
+" title=\"Remmina usage statistics\">anonymous</a></b> statistics to "
+"remmina.org"
+msgstr ""
+
+msgid "Send Ctrl+Alt+Delete"
+msgstr ""
+
+msgid "Send periodic usage statistics to Remmina developers"
+msgstr ""
+
+msgid "Send statistics to remmina.org"
+msgstr ""
+
+msgid "Serial"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Server CA certificate"
+msgstr ""
+
+msgid "Server name or IP address"
+msgstr ""
+
+msgid ""
+"Set a custom filename for your Remmina connection profiles, using a "
+"formatting string."
+msgstr ""
+
+msgid "Set as default remote desktop client"
+msgstr ""
+
+msgid "Set new password"
+msgstr ""
+
+msgid "Set one or more profile settings, to be used with --update-profile"
+msgstr ""
+
+msgid "Share folder"
+msgstr ""
+
+msgid "Share parallel ports"
+msgstr ""
+
+msgid "Share printers"
+msgstr ""
+
+msgid "Share serial ports"
+msgstr ""
+
+msgid "Share smartcard"
+msgstr ""
+
+msgid "Shift+"
+msgstr ""
+
+msgid "Shortcut for copying to clipboard"
+msgstr ""
+
+msgid "Shortcut for pasting from clipboard"
+msgstr ""
+
+msgid "Show 'About'"
+msgstr ""
+
+msgid "Show Hidden Files"
+msgstr ""
+
+msgid "Show new connection on top of the menu"
+msgstr ""
+
+msgid "Show preferences"
+msgstr ""
+
+msgid "Show remote cursor"
+msgstr ""
+
+msgid "Show search bar"
+msgstr ""
+
+msgid "Show the application version"
+msgstr ""
+
+msgid "Show version of the application and its plugins"
+msgstr ""
+
+msgid "Show/hide fullscreen"
+msgstr ""
+
+msgid "Show/hide toolbar"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Smartcard name"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start in kiosk mode"
+msgstr ""
+
+msgid "Start in tray"
+msgstr ""
+
+msgid "Start in tray upon user login"
+msgstr ""
+
+msgid "Startup path"
+msgstr ""
+
+msgid "Startup program"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Step size for auto scroll"
+msgstr ""
+
+msgid "Strict host key checking"
+msgstr ""
+
+msgid "Subject:"
+msgstr ""
+
+msgid "Super+"
+msgstr ""
+
+msgid "Switch tab pages"
+msgstr ""
+
+msgid "Symmetric cipher client to server"
+msgstr ""
+
+msgid "TLS connection error."
+msgstr ""
+
+msgid "Tab all connections"
+msgstr ""
+
+msgid "Tab by groups"
+msgstr ""
+
+msgid "Tab by protocols"
+msgstr ""
+
+msgid "Tabbed interface"
+msgstr ""
+
+msgid "Telepathy - Desktop Sharing"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "Terminal Emulator"
+msgstr ""
+
+msgid "Terminal color scheme"
+msgstr ""
+
+msgid "Terminal font"
+msgstr ""
+
+msgid "Terminate"
+msgstr ""
+
+msgid "Terminating…"
+msgstr ""
+
+msgid "The \"%s\" command is not available on the SSH server."
+msgstr ""
+
+msgid "The \"%s\" server refused the connection."
+msgstr ""
+
+msgid "The %s file has been transferred"
+msgstr ""
+
+msgid ""
+"The Remote Desktop Gateway \"%s\" denied the user \"%s\\%s\" access due to "
+"policy."
+msgstr ""
+
+msgid "The VNC server requested an unknown authentication method. %s"
+msgstr ""
+
+msgid "The certificate changed! Details:"
+msgstr ""
+
+msgid "The file \"%s\" is corrupted, unreadable, or could not be found."
+msgstr ""
+
+msgid "The file exists already"
+msgstr ""
+
+msgid ""
+"The folder where connection profiles are saved, it defaults to the "
+"XDG_USER_DATA"
+msgstr ""
+
+msgid "The following file already exists in the target folder:"
+msgstr ""
+
+msgid "The multi password changer requires a secrecy plugin.\n"
+msgstr ""
+
+msgid "The multi password changer requires a secrecy service.\n"
+msgstr ""
+
+msgid "The passwords do not match"
+msgstr ""
+
+msgid ""
+"The protocol \"%s\" is unavailable because GtkSocket only works under X.Org."
+msgstr ""
+
+msgid "The public SSH key changed!"
+msgstr ""
+
+msgid "The server did not respond."
+msgstr ""
+
+msgid "The server is unknown. The public key fingerprint is:"
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "This protocol does not support exporting."
+msgstr ""
+
+msgid "Tiles"
+msgstr ""
+
+msgid "Toggle dynamic resolution update"
+msgstr ""
+
+msgid "Toggle fullscreen mode"
+msgstr ""
+
+msgid "Toggle scaled mode"
+msgstr ""
+
+msgid "Toggle view"
+msgstr ""
+
+msgid "Tool"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Total %i item."
+msgid_plural "Total %i items."
+msgstr[0] ""
+
+msgid "Transfer completed"
+msgstr ""
+
+msgid "Transfer error"
+msgstr ""
+
+msgid "True color (32 bpp)"
+msgstr ""
+
+msgid "True colour (24 bit)"
+msgstr ""
+
+msgid "True colour (24 bpp)"
+msgstr ""
+
+msgid "True colour (32 bpp)"
+msgstr ""
+
+msgid "Tunnel via loopback address"
+msgstr ""
+
+msgid "Turn off automatic reconnection"
+msgstr ""
+
+msgid "Turn off clipboard sync"
+msgstr ""
+
+msgid "Turn off scaling to avoid screenshot distortion."
+msgstr ""
+
+msgid "Turn on \"Autostart\" for this profile"
+msgstr ""
+
+msgid "Turn on HTML5 audio support"
+msgstr ""
+
+msgid "Turn on Java support"
+msgstr ""
+
+msgid "Turn on Web Inspector"
+msgstr ""
+
+msgid "Turn on WebGL support"
+msgstr ""
+
+msgid "Turn on plugin support"
+msgstr ""
+
+msgid "Turn on smooth scrolling"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type in username and password for SSH."
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "USB redirection error"
+msgstr ""
+
+msgid "Unable to connect to VNC server"
+msgstr ""
+
+msgid "Unable to establish a connection to the RDP server \"%s\"."
+msgstr ""
+
+msgid ""
+"Unable to import:\n"
+"%s"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Unlock Remmina"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "Upload folder"
+msgstr ""
+
+msgid "Upload to server"
+msgstr ""
+
+msgid "Use '%s' as subgroup delimiter"
+msgstr ""
+
+msgid "Use TLS encryption"
+msgstr ""
+
+msgid "Use client keyboard mapping"
+msgstr ""
+
+msgid "Use client resolution"
+msgstr ""
+
+msgid "Use default protocol (for --new)"
+msgstr ""
+
+msgid "Use default server name (for --new)"
+msgstr ""
+
+msgid "Use default system font"
+msgstr ""
+
+msgid "Use initial window size"
+msgstr ""
+
+msgid "Use local cursor"
+msgstr ""
+
+msgid "Use master password"
+msgstr ""
+
+msgid "Use secret key authentication for some widgets"
+msgstr ""
+
+msgid "Use system proxy settings"
+msgstr ""
+
+msgid ""
+"Use the current settings as the default for all new connection profiles"
+msgstr ""
+
+msgid "Use the old license workflow"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User agent"
+msgstr ""
+
+msgid "User password"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "VNC connection failed: %s"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "View only"
+msgstr ""
+
+msgid "View-only mode"
+msgstr ""
+
+msgid "Viewport fullscreen"
+msgstr ""
+
+msgid "Viewport fullscreen mode"
+msgstr ""
+
+msgid "Wallpaper"
+msgstr ""
+
+msgid ""
+"Warning: Running a command synchronously may cause Remmina not to respond.\n"
+"Do you really want to continue?"
+msgstr ""
+
+msgid ""
+"Warning: The server has changed its public key. This means either you are under attack,\n"
+"or the administrator has changed the key. The new public key fingerprint is:"
+msgstr ""
+
+msgid "Warning: This plugin requires GtkSocket, but it’s not available."
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Wiki"
+msgstr ""
+
+msgid "Window drag"
+msgstr ""
+
+msgid "XDMCP - X Remote Session"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You did not set any command to be executed"
+msgstr ""
+
+msgid ""
+"You requested a H.264 GFX mode for the server \"%s\", but your libfreerdp "
+"does not support H.264. Please use a non-AVC colour depth setting."
+msgstr ""
+
+msgid "Your connection has been rejected."
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Clear"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save and Connect"
+msgstr ""
+
+msgid "_Select all"
+msgstr ""
+
+msgid "_Send"
+msgstr ""
+
+msgid "button"
+msgstr ""
+
+msgid "http://address or https://address"
+msgstr ""
+
+msgid "libsodium >= 1.9.0 is required to use master password"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

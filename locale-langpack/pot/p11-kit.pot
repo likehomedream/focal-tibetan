@@ -1,0 +1,257 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: p11-kit\n"
+"Report-Msgid-Bugs-To: https://bugs.freedesktop.org/enter_bug.cgi?product=p11-glue\n"
+"PO-Revision-Date: 2015-12-21 02:16+0000\n"
+"Last-Translator: michaeljayt <Unknown>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/freedesktop/p11-kit/language/zh_CN/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:43+0000\n"
+
+msgid "A key is needed"
+msgstr ""
+
+msgid "A read-only session exists"
+msgstr ""
+
+msgid "An administrator session exists"
+msgstr ""
+
+msgid "An error occurred on the device"
+msgstr ""
+
+msgid "An open session exists"
+msgstr ""
+
+msgid "Another operation is already taking place"
+msgstr ""
+
+msgid "Another user is already logged in"
+msgstr ""
+
+msgid "Cannot export because the key is invalid"
+msgstr ""
+
+msgid "Cannot export because the key is of the wrong size"
+msgstr ""
+
+msgid "Cannot export because the key is of the wrong type"
+msgstr ""
+
+msgid "Cannot export this key"
+msgstr ""
+
+msgid "Cannot import a key of the wrong size"
+msgstr ""
+
+msgid "Cannot import an invalid key"
+msgstr ""
+
+msgid "Cannot import because the key is invalid"
+msgstr ""
+
+msgid "Cannot import because the key is of the wrong size"
+msgstr ""
+
+msgid "Cannot import because the key is of the wrong type"
+msgstr ""
+
+msgid "Cannot include the key in the digest"
+msgstr ""
+
+msgid "Cannot lock data"
+msgstr ""
+
+msgid "Certain fields have invalid values"
+msgstr ""
+
+msgid "Certain required fields are missing"
+msgstr ""
+
+msgid "Insufficient memory available"
+msgstr ""
+
+msgid "Insufficient memory available on the device"
+msgstr ""
+
+msgid "Internal error"
+msgstr ""
+
+msgid "Invalid arguments"
+msgstr ""
+
+msgid "Invalid value for field"
+msgstr ""
+
+msgid "No key is needed"
+msgstr ""
+
+msgid "No operation is taking place"
+msgstr ""
+
+msgid "No random number generator available"
+msgstr ""
+
+msgid "No user has logged in"
+msgstr ""
+
+msgid "Not enough space to store the result"
+msgstr ""
+
+msgid "The crypto mechanism has an invalid argument"
+msgstr ""
+
+msgid "The crypto mechanism has an invalid parameter"
+msgstr ""
+
+msgid "The crypto mechanism is invalid or unrecognized"
+msgstr ""
+
+msgid "The data cannot be locked"
+msgstr ""
+
+msgid "The data is not valid or unrecognized"
+msgstr ""
+
+msgid "The data is too long"
+msgstr ""
+
+msgid "The device is invalid or unrecognizable"
+msgstr ""
+
+msgid "The device is not present or unplugged"
+msgstr ""
+
+msgid "The device is write protected"
+msgstr ""
+
+msgid "The device was removed or unplugged"
+msgstr ""
+
+msgid "The encrypted data is not valid or unrecognized"
+msgstr ""
+
+msgid "The encrypted data is too long"
+msgstr ""
+
+msgid "The field is invalid or does not exist"
+msgstr ""
+
+msgid "The field is read-only"
+msgstr ""
+
+msgid "The field is sensitive and cannot be revealed"
+msgstr ""
+
+msgid "The information is sensitive and cannot be revealed"
+msgstr ""
+
+msgid "The key cannot be wrapped"
+msgstr ""
+
+msgid "The key is different than before"
+msgstr ""
+
+msgid "The key is missing or invalid"
+msgstr ""
+
+msgid "The key is of the wrong type"
+msgstr ""
+
+msgid "The key is the wrong size"
+msgstr ""
+
+msgid "The module cannot create needed threads"
+msgstr ""
+
+msgid "The module cannot lock data properly"
+msgstr ""
+
+msgid "The module has already been initialized"
+msgstr ""
+
+msgid "The module has not been initialized"
+msgstr ""
+
+msgid "The object is missing or invalid"
+msgstr ""
+
+msgid "The operation failed"
+msgstr ""
+
+msgid "The operation was cancelled"
+msgstr ""
+
+msgid "The password or PIN has expired"
+msgstr ""
+
+msgid "The password or PIN is incorrect"
+msgstr ""
+
+msgid "The password or PIN is invalid"
+msgstr ""
+
+msgid "The password or PIN is locked"
+msgstr ""
+
+msgid "The password or PIN is of an invalid length"
+msgstr ""
+
+msgid "The request was rejected by the user"
+msgstr ""
+
+msgid "The saved state is invalid"
+msgstr ""
+
+msgid "The session is closed"
+msgstr ""
+
+msgid "The session is invalid"
+msgstr ""
+
+msgid "The session is read-only"
+msgstr ""
+
+msgid "The signature is bad or corrupted"
+msgstr ""
+
+msgid "The signature is unrecognized or corrupted"
+msgstr ""
+
+msgid "The specified slot ID is not valid"
+msgstr ""
+
+msgid "The state cannot be saved"
+msgstr ""
+
+msgid "The user is of an invalid type"
+msgstr ""
+
+msgid "The user's password or PIN is not set"
+msgstr ""
+
+msgid "This operation cannot be done with this key"
+msgstr ""
+
+msgid "This operation is not supported"
+msgstr ""
+
+msgid "Too many sessions are active"
+msgstr ""
+
+msgid "Too many users of different types are logged in"
+msgstr ""
+
+msgid "Unable to initialize the random number generator"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "You are already logged in"
+msgstr ""

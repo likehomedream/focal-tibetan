@@ -1,0 +1,1549 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-terminal master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-terminal/issues\n"
+"PO-Revision-Date: 2020-04-14 21:36+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Language: zh_CN\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:27+0000\n"
+"X-Source-Language: C\n"
+
+msgid "%s (Copy)"
+msgstr ""
+
+msgid "A Pango font name and size"
+msgstr ""
+
+msgid "A terminal emulator for the GNOME desktop"
+msgstr ""
+
+msgid "ASCII DEL"
+msgstr ""
+
+msgid "Allow b_linking text:"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Ambiguous-_width characters:"
+msgstr ""
+
+msgid "Append initial title"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Argument to “%s” is not a valid command: %s"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Baltic"
+msgstr ""
+
+msgid "Black on light yellow"
+msgstr ""
+
+msgid "Black on white"
+msgstr ""
+
+msgid "Block"
+msgstr ""
+
+msgid "Bo_ld color:"
+msgstr ""
+
+msgid "Built-in _schemes:"
+msgstr ""
+
+msgid "Built-in sche_mes:"
+msgstr ""
+
+msgid "COMMAND"
+msgstr ""
+
+msgid "C_lose Tab"
+msgstr ""
+
+msgid "C_lose Terminal"
+msgstr ""
+
+msgid "C_lose Window"
+msgstr ""
+
+msgid "Call _To…"
+msgstr ""
+
+msgid "Can only use --wait once"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot pass FD %d twice"
+msgstr ""
+
+msgid "Cell spaci_ng:"
+msgstr ""
+
+msgid "Celtic"
+msgstr ""
+
+msgid "Central European"
+msgstr ""
+
+msgid "Change _Profile"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr ""
+
+msgid "Chinese Traditional"
+msgstr ""
+
+msgid "Choose A Terminal Font"
+msgstr ""
+
+msgid "Choose Palette Color %u"
+msgstr ""
+
+msgid "Choose Terminal Background Color"
+msgstr ""
+
+msgid "Choose Terminal Bold Text Color"
+msgstr ""
+
+msgid "Choose Terminal Cursor Background Color"
+msgstr ""
+
+msgid "Choose Terminal Cursor Foreground Color"
+msgstr ""
+
+msgid "Choose Terminal Highlight Background Color"
+msgstr ""
+
+msgid "Choose Terminal Highlight Foreground Color"
+msgstr ""
+
+msgid "Choose Terminal Text Color"
+msgstr ""
+
+msgid "Choose Terminal Underlined Text Color"
+msgstr ""
+
+msgid "Clear Highlight"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Clone Profile"
+msgstr ""
+
+msgid "Clone…"
+msgstr ""
+
+msgid "Close Tab"
+msgstr ""
+
+msgid "Close Window"
+msgstr ""
+
+msgid "Close tab"
+msgstr ""
+
+msgid "Close this terminal?"
+msgstr ""
+
+msgid "Close this window?"
+msgstr ""
+
+msgid "Color p_alette:"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Compatibility"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Contributors:"
+msgstr ""
+
+msgid "Control-H"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Call _Address "
+msgstr ""
+
+msgid "Copy Hyperlink _Address"
+msgstr ""
+
+msgid "Copy Mail _Address"
+msgstr ""
+
+msgid "Copy _Link"
+msgstr ""
+
+msgid "Copy as HTML"
+msgstr ""
+
+msgid "Copy as _HTML"
+msgstr ""
+
+msgid "Could not open the address “%s”"
+msgstr ""
+
+msgid "Could not save contents"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Cu_rsor color:"
+msgstr ""
+
+msgid "Cursor"
+msgstr ""
+
+msgid "Cursor _shape:"
+msgstr ""
+
+msgid "Cursor background color"
+msgstr ""
+
+msgid "Cursor blin_king:"
+msgstr ""
+
+msgid "Cursor foreground colour"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom _font:"
+msgstr ""
+
+msgid "Custom co_mmand:"
+msgstr ""
+
+msgid ""
+"Custom color for the foreground of the text character at the terminal’s "
+"cursor position, as a color specification (can be HTML-style hex digits, or "
+"a color name such as “red”). This is ignored if cursor-colors-set is false."
+msgstr ""
+
+msgid ""
+"Custom color for the foreground of the text character at the terminal’s "
+"highlight position, as a color specification (can be HTML-style hex digits, "
+"or a color name such as “red”). This is ignored if highlight-colors-set is "
+"false."
+msgstr ""
+
+msgid ""
+"Custom color of the background of the terminal’s cursor, as a color "
+"specification (can be HTML-style hex digits, or a color name such as “red”)."
+" This is ignored if cursor-colors-set is false."
+msgstr ""
+
+msgid ""
+"Custom color of the background of the terminal’s highlight, as a color "
+"specification (can be HTML-style hex digits, or a color name such as “red”)."
+" This is ignored if highlight-colors-set is false."
+msgstr ""
+
+msgid "Custom command to use instead of the shell"
+msgstr ""
+
+msgid "Cyrillic"
+msgstr ""
+
+msgid "Cyrillic/Russian"
+msgstr ""
+
+msgid "Cyrillic/Ukrainian"
+msgstr ""
+
+msgid "DIRNAME"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default color of bold text in the terminal"
+msgstr ""
+
+msgid ""
+"Default color of bold text in the terminal, as a color specification (can be"
+" HTML-style hex digits, or a color name such as “red”). This is ignored if "
+"bold-color-same-as-fg is true."
+msgstr ""
+
+msgid "Default color of terminal background"
+msgstr ""
+
+msgid ""
+"Default color of terminal background, as a color specification (can be HTML-"
+"style hex digits, or a color name such as “red”)."
+msgstr ""
+
+msgid "Default color of text in the terminal"
+msgstr ""
+
+msgid ""
+"Default color of text in the terminal, as a color specification (can be "
+"HTML-style hex digits, or a color name such as “red”)."
+msgstr ""
+
+msgid "Default number of columns"
+msgstr ""
+
+msgid "Default number of rows"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Profile"
+msgstr ""
+
+msgid "Delete…"
+msgstr ""
+
+msgid "Detach Tab"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid ""
+"Do not register with the activation nameserver, do not re-use an active "
+"terminal"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Enable the _menu accelerator key (F10 by default)"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enter name for new profile based on “%s”:"
+msgstr ""
+
+msgid "Enter name for new profile with default settings:"
+msgstr ""
+
+msgid "Enter new name for profile “%s”:"
+msgstr ""
+
+msgid "Error parsing command: %s"
+msgstr ""
+
+msgid "Escape sequence"
+msgstr ""
+
+msgid "Execute the argument to this option inside the terminal"
+msgstr ""
+
+msgid "Exit the terminal"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "FD"
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "Failed to parse arguments: %s\n"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find Next"
+msgstr ""
+
+msgid "Find Previous"
+msgstr ""
+
+msgid "Find _Next"
+msgstr ""
+
+msgid "Find _Previous"
+msgstr ""
+
+msgid "Find next occurrence"
+msgstr ""
+
+msgid "Find previous occurrence"
+msgstr ""
+
+msgid "Forward file descriptor"
+msgstr ""
+
+msgid "Full Screen"
+msgstr ""
+
+msgid "Full-screen the window"
+msgstr ""
+
+msgid "GEOMETRY"
+msgstr ""
+
+msgid "GNOME Terminal"
+msgstr ""
+
+msgid "GNOME Terminal Emulator"
+msgstr ""
+
+msgid ""
+"GNOME Terminal is a terminal emulator application for accessing a UNIX shell"
+" environment which can be used to run programs available on your system."
+msgstr ""
+
+msgid ""
+"GNOME Terminal is distributed in the hope that it will be useful, but "
+"WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY "
+"or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for"
+" more details."
+msgstr ""
+
+msgid ""
+"GNOME Terminal is free software: you can redistribute it and/or modify it "
+"under the terms of the GNU General Public License as published by the Free "
+"Software Foundation, either version 3 of the License, or (at your option) "
+"any later version."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Gray on black"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Green on black"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hebrew Visual"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide and Show Menubar"
+msgstr ""
+
+msgid "Highlight background color"
+msgstr ""
+
+msgid "Highlight foreground colour"
+msgstr ""
+
+msgid "Hold the terminal open"
+msgstr ""
+
+msgid "Human-readable name of the profile"
+msgstr ""
+
+msgid "Human-readable name of the profile."
+msgstr ""
+
+msgid "I-Beam"
+msgstr ""
+
+msgid ""
+"If true, boldface text will be rendered using the same color as normal text."
+msgstr ""
+
+msgid "If true, pressing a key jumps the scrollbar to the bottom."
+msgstr ""
+
+msgid ""
+"If true, scrollback lines will never be discarded. The scrollback history is"
+" stored on disk temporarily, so this may cause the system to run out of disk"
+" space if there is a lot of output to the terminal."
+msgstr ""
+
+msgid ""
+"If true, setting bold on the first 8 colors also switches to their bright "
+"variants."
+msgstr ""
+
+msgid ""
+"If true, the command inside the terminal will be launched as a login shell "
+"(argv[0] will have a hyphen in front of it)."
+msgstr ""
+
+msgid ""
+"If true, the value of the custom_command setting will be used in place of "
+"running a shell."
+msgstr ""
+
+msgid "If true, use the cursor colors from the profile."
+msgstr ""
+
+msgid "If true, use the highlight colors from the profile."
+msgstr ""
+
+msgid ""
+"If true, whenever there’s new output the terminal will scroll to the bottom."
+msgstr ""
+
+msgid "Incompatible terminal config file version."
+msgstr ""
+
+msgid "Increase diagnostic verbosity"
+msgstr ""
+
+msgid "Initial terminal si_ze:"
+msgstr ""
+
+msgid ""
+"It supports several profiles, multiple tabs and implements several keyboard "
+"shortcuts."
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Keep initial title"
+msgstr ""
+
+msgid "Keyboard shortcut to clear the find highlighting"
+msgstr ""
+
+msgid "Keyboard shortcut to close a tab"
+msgstr ""
+
+msgid "Keyboard shortcut to close a window"
+msgstr ""
+
+msgid "Keyboard shortcut to copy text"
+msgstr ""
+
+msgid "Keyboard shortcut to copy text as HTML"
+msgstr ""
+
+msgid "Keyboard shortcut to detach current tab"
+msgstr ""
+
+msgid ""
+"Keyboard shortcut to export the current tab contents to file in various "
+"formats"
+msgstr ""
+
+msgid "Keyboard shortcut to find the next occurrence of the search term"
+msgstr ""
+
+msgid "Keyboard shortcut to find the previous occurrence of the search term"
+msgstr ""
+
+msgid "Keyboard shortcut to launch help"
+msgstr ""
+
+msgid "Keyboard shortcut to make font larger"
+msgstr ""
+
+msgid "Keyboard shortcut to make font normal-size"
+msgstr ""
+
+msgid "Keyboard shortcut to make font smaller"
+msgstr ""
+
+msgid "Keyboard shortcut to move the current tab to the left"
+msgstr ""
+
+msgid "Keyboard shortcut to move the current tab to the right"
+msgstr ""
+
+msgid "Keyboard shortcut to open a new tab"
+msgstr ""
+
+msgid "Keyboard shortcut to open a new window"
+msgstr ""
+
+msgid "Keyboard shortcut to open the Preferences dialog"
+msgstr ""
+
+msgid "Keyboard shortcut to open the search dialog"
+msgstr ""
+
+msgid "Keyboard shortcut to paste text"
+msgstr ""
+
+msgid "Keyboard shortcut to print the current tab contents to printer or file"
+msgstr ""
+
+msgid "Keyboard shortcut to reset and clear the terminal"
+msgstr ""
+
+msgid "Keyboard shortcut to reset the terminal"
+msgstr ""
+
+msgid "Keyboard shortcut to save the current tab contents to file"
+msgstr ""
+
+msgid "Keyboard shortcut to select all text"
+msgstr ""
+
+msgid "Keyboard shortcut to show the primary menu"
+msgstr ""
+
+msgid "Keyboard shortcut to switch to the last tab"
+msgstr ""
+
+msgid "Keyboard shortcut to switch to the next tab"
+msgstr ""
+
+msgid "Keyboard shortcut to switch to the numbered tab"
+msgstr ""
+
+msgid "Keyboard shortcut to switch to the previous tab"
+msgstr ""
+
+msgid "Keyboard shortcut to toggle full screen mode"
+msgstr ""
+
+msgid "Keyboard shortcut to toggle the read-only state"
+msgstr ""
+
+msgid "Keyboard shortcut to toggle the visibility of the menubar"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "L_eave Full Screen"
+msgstr ""
+
+msgid "Legacy CJK Encodings"
+msgstr ""
+
+msgid "Linux console"
+msgstr ""
+
+msgid ""
+"List of ASCII punctuation characters that are not to be treated as part of a"
+" word when doing word-wise selection"
+msgstr ""
+
+msgid "Load a terminal configuration file"
+msgstr ""
+
+msgid "Match _entire word only"
+msgstr ""
+
+msgid "Match as _regular expression"
+msgstr ""
+
+msgid "Maximize the window"
+msgstr ""
+
+msgid "Move Tab to the Left"
+msgstr ""
+
+msgid "Move Tab to the Right"
+msgstr ""
+
+msgid "Move Terminal _Left"
+msgstr ""
+
+msgid "Move Terminal _Right"
+msgstr ""
+
+msgid "Narrow"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New Profile"
+msgstr ""
+
+msgid "New Tab"
+msgstr ""
+
+msgid "New Terminal"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "New _Tab"
+msgstr ""
+
+msgid "New _Terminal"
+msgstr ""
+
+msgid "New _Window"
+msgstr ""
+
+msgid "No command supplied nor shell requested"
+msgstr ""
+
+msgid "Nordic"
+msgstr ""
+
+msgid "Normal Size"
+msgstr ""
+
+msgid ""
+"Normally you can access the menubar with F10. This can also be customized "
+"via gtkrc (gtk-menu-bar-accel = \"whatever\"). This option allows the "
+"standard menubar accelerator to be disabled."
+msgstr ""
+
+msgid "Not a valid terminal config file."
+msgstr ""
+
+msgid ""
+"Number of columns in newly created terminal windows. Has no effect if "
+"use_custom_default_size is not enabled."
+msgstr ""
+
+msgid "Number of lines to keep in scrollback"
+msgstr ""
+
+msgid ""
+"Number of rows in newly created terminal windows. Has no effect if "
+"use_custom_default_size is not enabled."
+msgstr ""
+
+msgid ""
+"Number of scrollback lines to keep around. You can scroll back in the "
+"terminal by this number of lines; lines that don’t fit in the scrollback are"
+" discarded. If scrollback_unlimited is true, this value is ignored."
+msgstr ""
+
+msgid "Obsolete Encodings"
+msgstr ""
+
+msgid "Open T_erminal"
+msgstr ""
+
+msgid ""
+"Open Terminal is a plugin for the Files application that adds a menu item to"
+" the context menu to open a terminal in the currently browsed directory."
+msgstr ""
+
+msgid "Open _Hyperlink"
+msgstr ""
+
+msgid "Open _new terminals in:"
+msgstr ""
+
+msgid "Open a new tab in the last-opened window with the default profile"
+msgstr ""
+
+msgid "Open a new window containing a tab with the default profile"
+msgstr ""
+
+msgid "Open a terminal"
+msgstr ""
+
+msgid "Open a terminal from Files"
+msgstr ""
+
+msgid "Open in T_erminal"
+msgstr ""
+
+msgid "Open in _Local Terminal"
+msgstr ""
+
+msgid "Open in _Remote Terminal"
+msgstr ""
+
+msgid "Open the currently open folder in a terminal"
+msgstr ""
+
+msgid "Open the currently selected folder in a terminal"
+msgstr ""
+
+msgid ""
+"Option “%s” is deprecated and might be removed in a later version of gnome-"
+"terminal."
+msgstr ""
+
+msgid "Option “%s” is no longer supported in this version of gnome-terminal."
+msgstr ""
+
+msgid ""
+"Option “%s” requires specifying the command to run on the rest of the "
+"command line"
+msgstr ""
+
+msgid ""
+"Options to open new windows or terminal tabs; more than one of these may be "
+"specified:"
+msgstr ""
+
+msgid "PROFILE-NAME"
+msgstr ""
+
+msgid "P_references"
+msgstr ""
+
+msgid "P_rofiles"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "Palette entry %u"
+msgstr ""
+
+msgid "Palette for terminal applications"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Paste as _Filenames"
+msgstr ""
+
+msgid ""
+"Possible values are “always” or “never” allow blinking text, or only when "
+"the terminal is “focused” or “unfocused”."
+msgstr ""
+
+msgid ""
+"Possible values are “close” to close the terminal, “restart” to restart the "
+"command, and “hold” to keep the terminal open with no command running "
+"inside."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preferences – %s"
+msgstr ""
+
+msgid "Prepend initial title"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print environment variables to interact with the terminal"
+msgstr ""
+
+msgid "Profile ID:"
+msgstr ""
+
+msgid "Profile “%s”"
+msgstr ""
+
+msgid "Profiles"
+msgstr ""
+
+msgid "ROLE"
+msgstr ""
+
+msgid "Read-Only"
+msgstr ""
+
+msgid "Read-_Only"
+msgstr ""
+
+msgid "Really delete profile “%s”?"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Rename Profile"
+msgstr ""
+
+msgid "Rename…"
+msgstr ""
+
+msgid "Replace initial title"
+msgstr ""
+
+msgid "Rese_t"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset and C_lear"
+msgstr ""
+
+msgid "Reset and Clear"
+msgstr ""
+
+msgid "Restart the command"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Ru_n a custom command instead of my shell"
+msgstr ""
+
+msgid "Run this command in place of the shell, if use_custom_command is true."
+msgstr ""
+
+msgid "Rxvt"
+msgstr ""
+
+msgid "Save Contents"
+msgstr ""
+
+msgid "Save as…"
+msgstr ""
+
+msgid ""
+"Scale factor for the cell height to increase line spacing. (Does not "
+"increase the font’s height.)"
+msgstr ""
+
+msgid ""
+"Scale factor for the cell width to increase letter spacing. (Does not "
+"increase the font’s width.)"
+msgstr ""
+
+msgid "Scroll on _keystroke"
+msgstr ""
+
+msgid "Scroll on _output"
+msgstr ""
+
+msgid "Scrolling"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Send Mail _To…"
+msgstr ""
+
+msgid "Set _Title…"
+msgstr ""
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Set the initial terminal title"
+msgstr ""
+
+msgid "Set the last specified tab as the active one in its window"
+msgstr ""
+
+msgid "Set the terminal’s zoom factor (1.0 = normal size)"
+msgstr ""
+
+msgid "Set the window role"
+msgstr ""
+
+msgid ""
+"Set the window size; for example: 80x24, or 80x24+200+200 (COLSxROWS+X+Y)"
+msgstr ""
+
+msgid "Set the working directory"
+msgstr ""
+
+msgid "Shortcut _Key"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show GNOME Terminal options"
+msgstr ""
+
+msgid "Show Primary Menu"
+msgstr ""
+
+msgid "Show _Menubar"
+msgstr ""
+
+msgid "Show _bold text in bright colors"
+msgstr ""
+
+msgid "Show per-terminal options"
+msgstr ""
+
+msgid "Show per-window options"
+msgstr ""
+
+msgid "Show preferences window"
+msgstr ""
+
+msgid "Show terminal options"
+msgstr ""
+
+msgid "Solarized"
+msgstr ""
+
+msgid "Solarized dark"
+msgstr ""
+
+msgid "Solarized light"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "South European"
+msgstr ""
+
+msgid "Suppress output"
+msgstr ""
+
+msgid "Switch to Last Tab"
+msgstr ""
+
+msgid "Switch to Next Tab"
+msgstr ""
+
+msgid "Switch to Previous Tab"
+msgstr ""
+
+msgid "Switch to Tab %u"
+msgstr ""
+
+msgid "TITLE"
+msgstr ""
+
+msgid "TTY Erase"
+msgstr ""
+
+msgid "Ta_bs"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Tabs"
+msgstr ""
+
+msgid "Tango"
+msgstr ""
+
+msgid "Tango dark"
+msgstr ""
+
+msgid "Tango light"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "Terminal _bell"
+msgstr ""
+
+msgid ""
+"Terminal options; if used before the first --window or --tab argument, sets "
+"the default for all terminals:"
+msgstr ""
+
+msgid "Terminal plugin for Files"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text Appearance"
+msgstr ""
+
+msgid "Text and Background Color"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "The child process exited normally with status %d."
+msgstr ""
+
+msgid "The child process was aborted by signal %d."
+msgstr ""
+
+msgid "The child process was aborted."
+msgstr ""
+
+msgid "The code sequence the Backspace key generates"
+msgstr ""
+
+msgid "The code sequence the Delete key generates"
+msgstr ""
+
+msgid "The cursor appearance"
+msgstr ""
+
+msgid "The position of the tab bar"
+msgstr ""
+
+msgid ""
+"The possible values are “system” to use the global cursor blinking settings,"
+" or “on” or “off” to set the mode explicitly."
+msgstr ""
+
+msgid "Theme _variant:"
+msgstr ""
+
+msgid ""
+"There are still processes running in some terminals in this window. Closing "
+"the window will kill all of them."
+msgstr ""
+
+msgid ""
+"There is still a process running in this terminal. Closing the terminal will"
+" kill it."
+msgstr ""
+
+msgid "There was an error creating the child process for this terminal"
+msgstr ""
+
+msgid "There was an error displaying help"
+msgstr ""
+
+msgid "This is the default profile"
+msgstr ""
+
+msgid "Toggle search options"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Turn off the menubar"
+msgstr ""
+
+msgid "Turn on the menubar"
+msgstr ""
+
+msgid "Two roles given for one window"
+msgstr ""
+
+msgid "Underline"
+msgstr ""
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Use the command line"
+msgstr ""
+
+msgid "Use the given profile instead of the default profile"
+msgstr ""
+
+msgid ""
+"Use “%s” to terminate the options and put the command line to execute after "
+"it."
+msgstr ""
+
+msgid "Using VTE version %u.%u.%u"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Wait until the child exits"
+msgstr ""
+
+msgid "Western"
+msgstr ""
+
+msgid "What to do with the terminal when the child command exits"
+msgstr ""
+
+msgid "When command _exits:"
+msgstr ""
+
+msgid "When focused"
+msgstr ""
+
+msgid "When to show the scrollbar"
+msgstr ""
+
+msgid "When to show the tabs bar"
+msgstr ""
+
+msgid "When unfocused"
+msgstr ""
+
+msgid ""
+"Whether ambiguous-width characters are narrow or wide when using UTF-8 "
+"encoding"
+msgstr ""
+
+msgid "Whether an unlimited number of lines should be kept in scrollback"
+msgstr ""
+
+msgid "Whether bold is also bright"
+msgstr ""
+
+msgid "Whether bold text should use the same color as normal text"
+msgstr ""
+
+msgid "Whether shortcuts are enabled"
+msgstr ""
+
+msgid ""
+"Whether shortcuts are enabled. They may interfere with some applications run"
+" inside the terminal so it’s possible to turn them off."
+msgstr ""
+
+msgid "Whether the menubar has access keys"
+msgstr ""
+
+msgid "Whether the shell integration is enabled"
+msgstr ""
+
+msgid "Whether the standard GTK shortcut for menubar access is enabled"
+msgstr ""
+
+msgid "Whether to ask for confirmation before closing a terminal"
+msgstr ""
+
+msgid "Whether to blink the cursor"
+msgstr ""
+
+msgid ""
+"Whether to have Alt+letter access keys for the menubar. They may interfere "
+"with some applications run inside the terminal so it’s possible to turn them"
+" off."
+msgstr ""
+
+msgid "Whether to launch the command in the terminal as a login shell"
+msgstr ""
+
+msgid "Whether to open new terminals as windows or tabs"
+msgstr ""
+
+msgid "Whether to rewrap the terminal contents on window resize"
+msgstr ""
+
+msgid "Whether to ring the terminal bell"
+msgstr ""
+
+msgid "Whether to run a custom command instead of the shell"
+msgstr ""
+
+msgid "Whether to scroll to the bottom when a key is pressed"
+msgstr ""
+
+msgid "Whether to scroll to the bottom when there’s new output"
+msgstr ""
+
+msgid "Whether to show the menubar in new windows"
+msgstr ""
+
+msgid "Whether to use custom cursor colors"
+msgstr ""
+
+msgid "Whether to use custom highlight colors"
+msgstr ""
+
+msgid "Whether to use the colors from the theme for the terminal widget"
+msgstr ""
+
+msgid "Whether to use the system monospace font"
+msgstr ""
+
+msgid "Which encoding to use"
+msgstr ""
+
+msgid "Which theme variant to use"
+msgstr ""
+
+msgid "White on black"
+msgstr ""
+
+msgid "Wide"
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid ""
+"Window options; if used before the first --window or --tab argument, sets "
+"the default for all windows:"
+msgstr ""
+
+msgid "XTerm"
+msgstr ""
+
+msgid ""
+"You should have received a copy of the GNU General Public License along with"
+" GNOME Terminal.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+
+msgid "ZOOM"
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
+msgid "Zoom _In"
+msgstr ""
+
+msgid "Zoom _Out"
+msgstr ""
+
+msgid "Zoom factor “%g” is too large, using %g\n"
+msgstr ""
+
+msgid "Zoom factor “%g” is too small, using %g\n"
+msgstr ""
+
+msgid "_1. 80×24"
+msgstr ""
+
+msgid "_2. 80×43"
+msgstr ""
+
+msgid "_3. 132×24"
+msgstr ""
+
+msgid "_4. 132×43"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Action"
+msgstr ""
+
+msgid "_Advanced"
+msgstr ""
+
+msgid "_Backspace key generates:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Clear Highlight"
+msgstr ""
+
+msgid "_Close Window"
+msgstr ""
+
+msgid "_Contents"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Default color:"
+msgstr ""
+
+msgid "_Delete key generates:"
+msgstr ""
+
+msgid "_Detach Terminal"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Enable mnemonics (such as Alt+F to open the File menu)"
+msgstr ""
+
+msgid "_Enable shortcuts"
+msgstr ""
+
+msgid "_Encoding:"
+msgstr ""
+
+msgid "_Export…"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Find…"
+msgstr ""
+
+msgid "_Full Screen"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Highlight color:"
+msgstr ""
+
+msgid "_Inspector"
+msgstr ""
+
+msgid "_Limit scrollback to:"
+msgstr ""
+
+msgid "_Match case"
+msgstr ""
+
+msgid "_Next Tab"
+msgstr ""
+
+msgid "_Normal Size"
+msgstr ""
+
+msgid "_Open Link"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Previous Tab"
+msgstr ""
+
+msgid "_Print…"
+msgstr ""
+
+msgid "_Profile"
+msgstr ""
+
+msgid "_Relaunch"
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Reset Compatibility Options to Defaults"
+msgstr ""
+
+msgid "_Run command as a login shell"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save Contents…"
+msgstr ""
+
+msgid "_Search"
+msgstr ""
+
+msgid "_Show menubar by default in new terminals"
+msgstr ""
+
+msgid "_Show scrollbar"
+msgstr ""
+
+msgid "_Terminal"
+msgstr ""
+
+msgid "_Underline color:"
+msgstr ""
+
+msgid "_Use colors from system theme"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_Wrap around"
+msgstr ""
+
+msgid "columns"
+msgstr ""
+
+msgid "height"
+msgstr ""
+
+msgid "lines"
+msgstr ""
+
+msgid "rows"
+msgstr ""
+
+msgid "shell;prompt;command;commandline;cmd;"
+msgstr ""
+
+msgctxt "theme variant"
+msgid "Dark"
+msgstr ""
+
+msgctxt "theme variant"
+msgid "Default"
+msgstr ""
+
+msgctxt "theme variant"
+msgid "Light"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgctxt "visible-name"
+msgid "'Unnamed'"
+msgstr ""
+
+msgid "width"
+msgstr ""
+
+msgid "“%s” is not a valid zoom factor"
+msgstr ""
+
+msgid "“%s” option given twice for the same window\n"
+msgstr ""
+
+msgid "“file” scheme with remote hostname not supported"
+msgstr ""

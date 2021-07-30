@@ -1,0 +1,70 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: evolution-indicator\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-10-02 08:37+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:14+0000\n"
+
+msgid "%d New Message"
+msgid_plural "%d New Messages"
+msgstr[0] ""
+
+msgid ":"
+msgstr ""
+
+msgid "Compose New Message"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Evolution Indicator"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Only create notifications for new mail in an Inbox."
+msgstr ""
+
+msgid "Pla_y a sound"
+msgstr ""
+
+msgid "Play a sound for new mail."
+msgstr ""
+
+msgid "Show a notification bubble."
+msgstr ""
+
+msgid "Show new message count in the message indicator applet."
+msgstr ""
+
+msgid "Shows new mail count in a message indicator."
+msgstr ""
+
+msgid "When New Mail Arrives"
+msgstr ""
+
+msgid "When new mail arri_ves in"
+msgstr ""
+
+msgid "_Display a notification"
+msgstr ""
+
+msgid "_Indicate new messages in the panel"
+msgstr ""
+
+msgid "any Folder"
+msgstr ""
+
+msgid "any Inbox"
+msgstr ""

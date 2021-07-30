@@ -1,0 +1,4715 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gtk+ master\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-02-23 12:07+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:33+0000\n"
+
+msgid "\"%s\" could not be converted to a value of type \"%s\" for attribute \"%s\""
+msgstr ""
+
+msgid "\"%s\" is not a valid attribute name"
+msgstr ""
+
+msgid "\"%s\" is not a valid attribute type"
+msgstr ""
+
+msgid "\"%s\" is not a valid value for attribute \"%s\""
+msgstr ""
+
+msgid "%-e %b"
+msgstr ""
+
+msgid "%-e %b %Y"
+msgstr ""
+
+msgid "%1$s on %2$s"
+msgstr ""
+
+msgid "%H:%M"
+msgstr ""
+
+msgid "%l:%M %p"
+msgstr ""
+
+msgid "%p (%s)"
+msgstr ""
+
+msgid "%s / %s available"
+msgid_plural "%s / %s available"
+msgstr[0] ""
+
+msgid "%s already exists in the bookmarks list"
+msgstr ""
+
+msgid "%s does not exist in the bookmarks list"
+msgstr ""
+
+msgid "%s job #%d"
+msgstr ""
+
+msgid "%s: error launching application: %s\n"
+msgstr ""
+
+msgid "%s: missing application name"
+msgstr ""
+
+msgid "%s: no such application %s"
+msgstr ""
+
+msgid "(None)"
+msgstr ""
+
+msgid "; "
+msgstr ""
+
+msgid "<%s> element has invalid ID \"%s\""
+msgstr ""
+
+msgid "<%s> element has neither a \"name\" nor an \"id\" attribute"
+msgstr ""
+
+msgid "A <%s> element has already been specified"
+msgstr ""
+
+msgid "A <text> element can't occur before a <tags> element"
+msgstr ""
+
+msgid "A file cannot be called “..”"
+msgstr ""
+
+msgid "A file cannot be called “.”"
+msgstr ""
+
+msgid "A file named “%s” already exists.  Do you want to replace it?"
+msgstr ""
+
+msgid "A file with that name already exists"
+msgstr ""
+
+msgid "A folder cannot be called “..”"
+msgstr ""
+
+msgid "A folder cannot be called “.”"
+msgstr ""
+
+msgid "A folder with that name already exists"
+msgstr ""
+
+msgid "APPLICATION [URI...] — launch an APPLICATION"
+msgstr ""
+
+msgid "A_t:"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "About %s"
+msgstr ""
+
+msgctxt "Accelerator"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "Accelerator"
+msgid "Invalid"
+msgstr ""
+
+msgid "Accessed"
+msgstr ""
+
+msgid "Accessible description"
+msgstr ""
+
+msgid "Accessible name"
+msgstr ""
+
+msgid "Accessible role"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Activates the cell"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Activates the color"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Activates the entry"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Activates the expander"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Clicks the button"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Clicks the menuitem"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Creates a widget in which the contents of the cell can be edited"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Customizes the color"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Dismisses the slider"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Expands or contracts the row in the tree view containing this cell"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Pops up the slider"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Presses the combobox"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Selects the color"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Toggles the cell"
+msgstr ""
+
+msgctxt "Action description"
+msgid "Toggles the switch"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Activate"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Click"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Customize"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Dismiss"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Edit"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Expand or contract"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Popup"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Press"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Select"
+msgstr ""
+
+msgctxt "Action name"
+msgid "Toggle"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activities"
+msgstr ""
+
+msgid "Add Cover Page"
+msgstr ""
+
+msgid "Add a new bookmark"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Adjusts the volume"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "All sheets"
+msgstr ""
+
+msgid "Allocation"
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Always on Top"
+msgstr ""
+
+msgid "Amount of blue light in the color."
+msgstr ""
+
+msgid "Amount of green light in the color."
+msgstr ""
+
+msgid "Amount of red light in the color."
+msgstr ""
+
+msgid "Animals & Nature"
+msgstr ""
+
+msgid "Animations"
+msgstr ""
+
+msgid "Anonymous tag found and tags can not be created."
+msgstr ""
+
+msgid "Any Printer"
+msgstr ""
+
+msgid "AppleTalk"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Application menu"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete “%s”?"
+msgstr ""
+
+msgid "Artistic License 2.0"
+msgstr ""
+
+msgid "Artwork by"
+msgstr ""
+
+msgid "Attribute"
+msgstr ""
+
+msgid "Attribute \"%s\" is invalid on <%s> element in this context"
+msgstr ""
+
+msgid "Attribute \"%s\" repeated twice on the same <%s> element"
+msgstr ""
+
+msgid "Attribute mapping"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Authentication is required on %s"
+msgstr ""
+
+msgid "Authentication is required to get a file from %s"
+msgstr ""
+
+msgid "Authentication is required to get attributes of a job"
+msgstr ""
+
+msgid "Authentication is required to get attributes of a printer"
+msgstr ""
+
+msgid "Authentication is required to get attributes of job “%s”"
+msgstr ""
+
+msgid "Authentication is required to get attributes of printer %s"
+msgstr ""
+
+msgid "Authentication is required to get default printer of %s"
+msgstr ""
+
+msgid "Authentication is required to get printers from %s"
+msgstr ""
+
+msgid "Authentication is required to print a document on %s"
+msgstr ""
+
+msgid "Authentication is required to print document “%s”"
+msgstr ""
+
+msgid "Authentication is required to print document “%s” on printer %s"
+msgstr ""
+
+msgid "Authentication is required to print this document"
+msgstr ""
+
+msgid "Authentication is required to print this document on printer %s"
+msgstr ""
+
+msgid "Available Protocols"
+msgstr ""
+
+msgid "BSD 2-Clause License"
+msgstr ""
+
+msgid "Backend does not support window scaling"
+msgstr ""
+
+msgid "Baseline"
+msgstr ""
+
+msgid "Be_fore:"
+msgstr ""
+
+msgid "Billing Info"
+msgstr ""
+
+msgid "Binding:"
+msgstr ""
+
+msgid "Body & Clothing"
+msgstr ""
+
+msgid "Both \"id\" and \"name\" were found on the <%s> element"
+msgstr ""
+
+msgid "Bottom to top"
+msgstr ""
+
+msgid "Bottom to top, left to right"
+msgstr ""
+
+msgid "Bottom to top, right to left"
+msgstr ""
+
+msgid "Bourne Again Shell"
+msgstr ""
+
+msgid "Bourne Shell"
+msgstr ""
+
+msgid "Brightness of the color."
+msgstr ""
+
+msgid "Broadway display type not supported: %s"
+msgstr ""
+
+msgid "Buildable ID"
+msgstr ""
+
+msgid "CLASS"
+msgstr ""
+
+msgid "COLORS"
+msgstr ""
+
+msgid "CSS"
+msgstr ""
+
+msgid "CSS Property"
+msgstr ""
+
+msgid "CSS Selector"
+msgstr ""
+
+msgid "CSS nodes"
+msgstr ""
+
+msgid "C_ollate"
+msgstr ""
+
+msgid "C_redits"
+msgstr ""
+
+msgid "C_urrent Page"
+msgstr ""
+
+msgid "C_ustomize"
+msgstr ""
+
+msgid "Cache file created successfully.\n"
+msgstr ""
+
+msgid "Can't close stream"
+msgstr ""
+
+msgid "Can't load file: %s\n"
+msgstr ""
+
+msgid "Can't parse file: %s\n"
+msgstr ""
+
+msgid "Can't save file %s: %s\n"
+msgstr ""
+
+msgid "Cance_l"
+msgstr ""
+
+msgid "Cannot change to folder because it is not local"
+msgstr ""
+
+msgid "Cannot create a file under %s as it is not a folder"
+msgstr ""
+
+msgid "Cannot create file as the filename is too long"
+msgstr ""
+
+msgid "Cannot end process with PID %d: %s"
+msgstr ""
+
+msgid "Cannot kill process with PID %d. Operation is not implemented."
+msgstr ""
+
+msgid "Cannot open display: %s"
+msgstr ""
+
+msgid "Caps Lock is on"
+msgstr ""
+
+msgid "Cell property %s::%s not found\n"
+msgstr ""
+
+msgid "Changes are applied instantly and globally, for the whole application."
+msgstr ""
+
+msgid "Child Properties"
+msgstr ""
+
+msgid "Child Visible"
+msgstr ""
+
+msgid "Class Hierarchy"
+msgstr ""
+
+msgid "Clear log"
+msgstr ""
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+
+msgid ""
+"Click this palette entry to make it the current color. To change this entry,"
+" drag a color swatch here or right-click it and select “Save color here.”"
+msgstr ""
+
+msgid "Clip area"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Co_nnect"
+msgstr ""
+
+msgid "Collect Statistics"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgctxt "Color Channel"
+msgid "S"
+msgstr ""
+
+msgctxt "Color Channel"
+msgid "V"
+msgstr ""
+
+msgid "Color Name"
+msgstr ""
+
+msgid "Color Plane"
+msgstr ""
+
+msgid "Color Selection"
+msgstr ""
+
+msgid "Color Wheel"
+msgstr ""
+
+msgid "Color _name:"
+msgstr ""
+
+msgctxt "Color channel"
+msgid "A"
+msgstr ""
+
+msgctxt "Color channel"
+msgid "Alpha"
+msgstr ""
+
+msgctxt "Color channel"
+msgid "H"
+msgstr ""
+
+msgctxt "Color channel"
+msgid "Hue"
+msgstr ""
+
+msgid "Color management unavailable"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Aluminum 1"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Aluminum 2"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Black"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Butter"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Chameleon"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Chocolate"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Aluminum 1"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Aluminum 2"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Butter"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Chameleon"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Chocolate"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Orange"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Plum"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Scarlet Red"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Dark Sky Blue"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Darker Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Aluminum 1"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Aluminum 2"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Butter"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Chameleon"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Chocolate"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Orange"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Plum"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Scarlet Red"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Light Sky Blue"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Lighter Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Medium Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Orange"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Plum"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Scarlet Red"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Sky Blue"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Very Dark Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "Very Light Gray"
+msgstr ""
+
+msgctxt "Color name"
+msgid "White"
+msgstr ""
+
+msgid "Color: %s"
+msgstr ""
+
+msgid "Column:"
+msgstr ""
+
+msgid "Command Line"
+msgstr ""
+
+msgid "Composited"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Con_nect"
+msgstr ""
+
+msgid "Connect As"
+msgstr ""
+
+msgid "Connect to Server"
+msgstr ""
+
+msgid "Connect to _Server"
+msgstr ""
+
+msgid "Connect to a network server address"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Copie_s:"
+msgstr ""
+
+msgid "Copies"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy URL"
+msgstr ""
+
+msgid "Copy _Link Address"
+msgstr ""
+
+msgid "Copy _Location"
+msgstr ""
+
+msgid "Core GL is not available on EGL implementation"
+msgstr ""
+
+msgid "Could not clear list"
+msgstr ""
+
+msgid "Could not read the contents of %s"
+msgstr ""
+
+msgid "Could not read the contents of the folder"
+msgstr ""
+
+msgid "Could not remove item"
+msgstr ""
+
+msgid "Could not rename %s back to %s: %s.\n"
+msgstr ""
+
+msgid "Could not rename %s to %s: %s\n"
+msgstr ""
+
+msgid "Could not rename %s to %s: %s, removing %s then.\n"
+msgstr ""
+
+msgid "Could not select file"
+msgstr ""
+
+msgid "Could not send the search request"
+msgstr ""
+
+msgid "Could not show link"
+msgstr ""
+
+msgid "Couldn't parse value for %s::%s: %s\n"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "Create Folder"
+msgstr ""
+
+msgid "Create a custom color"
+msgstr ""
+
+msgid "Created by"
+msgstr ""
+
+msgid "Creating AppInfo from id not supported on non unix operating systems"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Cumulative"
+msgstr ""
+
+msgid "Cumulative 1"
+msgstr ""
+
+msgid "Cumulative 2"
+msgstr ""
+
+msgid "Cursor Size"
+msgstr ""
+
+msgid "Cursor Theme"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom %s×%s"
+msgstr ""
+
+msgid "Custom License"
+msgstr ""
+
+msgid "Custom Size %d"
+msgstr ""
+
+msgid "Custom color"
+msgstr ""
+
+msgid "Custom color %d: %s"
+msgstr ""
+
+msgid "Custom size"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "DISPLAY"
+msgstr ""
+
+msgid "Dark Variant"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Decreases the volume"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Application"
+msgstr ""
+
+msgid "Default Widget"
+msgstr ""
+
+msgid "Defined At"
+msgstr ""
+
+msgid "Defined at: %p (%s)"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid ""
+"Dialog is locked.\n"
+"Click to make changes"
+msgstr ""
+
+msgid ""
+"Dialog is unlocked.\n"
+"Click to prevent further changes"
+msgstr ""
+
+msgid "Disable this custom CSS"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Do use the Wintab API [default]"
+msgstr ""
+
+msgid "Do you want to use GTK+ Inspector?"
+msgstr ""
+
+msgid "Documented by"
+msgstr ""
+
+msgid "Domain:"
+msgstr ""
+
+msgid "Don't batch GDI requests"
+msgstr ""
+
+msgid "Don't check for the existence of index.theme"
+msgstr ""
+
+msgid "Don't include image data in the cache"
+msgstr ""
+
+msgid "Don't show this message again"
+msgstr ""
+
+msgid "Don't use the Wintab API for tablet support"
+msgstr ""
+
+msgid "Dormant"
+msgstr ""
+
+msgid "Down Path"
+msgstr ""
+
+msgid "Element <%s> is not allowed below <%s>"
+msgstr ""
+
+msgid "Element <%s> not allowed at toplevel"
+msgstr ""
+
+msgid "Element <%s> not allowed inside <%s>"
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "Enable statistics with GOBJECT_DEBUG=instance-count"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enter Location"
+msgstr ""
+
+msgid "Enter location"
+msgstr ""
+
+msgid "Enter location or URL"
+msgstr ""
+
+msgid "Enter server address…"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error creating print preview"
+msgstr ""
+
+msgid "Error from StartDoc"
+msgstr ""
+
+msgid "Error parsing commandline options: %s\n"
+msgstr ""
+
+msgid "Error parsing option --gdk-debug"
+msgstr ""
+
+msgid "Error parsing option --gdk-no-debug"
+msgstr ""
+
+msgid "Even sheets"
+msgstr ""
+
+msgid "FLAGS"
+msgstr ""
+
+msgid "Failed to load icon"
+msgstr ""
+
+msgid "Failed to open file %s : %s\n"
+msgstr ""
+
+msgid "Failed to rewrite header\n"
+msgstr ""
+
+msgid "Failed to start GNOME Software"
+msgstr ""
+
+msgid "Failed to write cache file: %s\n"
+msgstr ""
+
+msgid "Failed to write folder index\n"
+msgstr ""
+
+msgid "Failed to write hash table\n"
+msgstr ""
+
+msgid "Failed to write header\n"
+msgstr ""
+
+msgid "Favorite files"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File System"
+msgstr ""
+
+msgid "File System Root"
+msgstr ""
+
+msgid "File Transfer Protocol"
+msgstr ""
+
+msgid "File names cannot contain “/”"
+msgstr ""
+
+msgid "File names should not begin with a space"
+msgstr ""
+
+msgid "File names should not end with a space"
+msgstr ""
+
+msgid "File names starting with a “.” are hidden"
+msgstr ""
+
+msgid "File not found: %s\n"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Finishing"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Focus Widget"
+msgstr ""
+
+msgid "Folder Name"
+msgstr ""
+
+msgid "Folder names cannot contain “/”"
+msgstr ""
+
+msgid "Folder names should not begin with a space"
+msgstr ""
+
+msgid "Folder names should not end with a space"
+msgstr ""
+
+msgid "Folder names starting with a “.” are hidden"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Font Family"
+msgstr ""
+
+msgid "Font Scale"
+msgstr ""
+
+msgid "Font Selection"
+msgstr ""
+
+msgid "Food & Drink"
+msgstr ""
+
+msgid "For portable documents"
+msgstr ""
+
+msgid "Forget association"
+msgstr ""
+
+msgid "Forget password _immediately"
+msgstr ""
+
+msgid "Frame Clock"
+msgstr ""
+
+msgid "Frame count"
+msgstr ""
+
+msgid "Frame rate"
+msgstr ""
+
+msgid "Full Volume"
+msgstr ""
+
+msgid "GDK Backend"
+msgstr ""
+
+msgid "GDK debugging flags to set"
+msgstr ""
+
+msgid "GDK debugging flags to unset"
+msgstr ""
+
+msgid "GL Rendering"
+msgstr ""
+
+msgid "GL Vendor"
+msgstr ""
+
+msgid "GL Version"
+msgstr ""
+
+msgid "GL rendering is disabled"
+msgstr ""
+
+msgid "GL support disabled via GDK_DEBUG"
+msgstr ""
+
+msgctxt "GL vendor"
+msgid "None"
+msgstr ""
+
+msgctxt "GL version"
+msgid "None"
+msgstr ""
+
+msgid "GLib must be configured with --enable-debug"
+msgstr ""
+
+msgid "GNU Affero General Public License, version 3 only"
+msgstr ""
+
+msgid "GNU Affero General Public License, version 3 or later"
+msgstr ""
+
+msgid "GNU General Public License, version 2 only"
+msgstr ""
+
+msgid "GNU General Public License, version 2 or later"
+msgstr ""
+
+msgid "GNU General Public License, version 3 only"
+msgstr ""
+
+msgid "GNU General Public License, version 3 or later"
+msgstr ""
+
+msgid "GNU Lesser General Public License, version 2.1 only"
+msgstr ""
+
+msgid "GNU Lesser General Public License, version 2.1 or later"
+msgstr ""
+
+msgid "GNU Lesser General Public License, version 3 only"
+msgstr ""
+
+msgid "GNU Lesser General Public License, version 3 or later"
+msgstr ""
+
+msgid ""
+"GTK+ Inspector is an interactive debugger that lets you explore and modify "
+"the internals of any GTK+ application. Using it may cause the application to"
+" break or crash."
+msgstr ""
+
+msgid "GTK+ Options"
+msgstr ""
+
+msgid "GTK+ Theme"
+msgstr ""
+
+msgid "GTK+ Version"
+msgstr ""
+
+msgid "GTK+ debugging flags to set"
+msgstr ""
+
+msgid "GTK+ debugging flags to unset"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Gestures"
+msgstr ""
+
+msgid "Getting printer information failed"
+msgstr ""
+
+msgid "Getting printer information…"
+msgstr ""
+
+msgid "Hide %s"
+msgstr ""
+
+msgid "Hide Others"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Hold the job until it is explicitly released"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Icon '%s' not present in theme %s"
+msgstr ""
+
+msgid "Icon Theme"
+msgstr ""
+
+msgid "If you delete an item, it will be permanently lost."
+msgstr ""
+
+msgid "Ignore hidden"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image Quality"
+msgstr ""
+
+msgid "Include image data in the cache"
+msgstr ""
+
+msgid "Increases the volume"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Insert Emoji"
+msgstr ""
+
+msgid "Insert _Emoji"
+msgstr ""
+
+msgid "Intensity of the color."
+msgstr ""
+
+msgid "Invalid URI"
+msgstr ""
+
+msgid "Invalid argument to CreateDC"
+msgstr ""
+
+msgid "Invalid argument to PrintDlgEx"
+msgstr ""
+
+msgid "Invalid file name"
+msgstr ""
+
+msgid "Invalid handle to PrintDlgEx"
+msgstr ""
+
+msgid "Invalid pointer to PrintDlgEx"
+msgstr ""
+
+msgid "Invalid size %s\n"
+msgstr ""
+
+msgid "Is Toplevel"
+msgstr ""
+
+msgid "Job"
+msgstr ""
+
+msgid "Job Details"
+msgstr ""
+
+msgid "Job Priority"
+msgstr ""
+
+msgid "LRE Left-to-right _embedding"
+msgstr ""
+
+msgid "LRM _Left-to-right mark"
+msgstr ""
+
+msgid "LRO Left-to-right _override"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid ""
+"Launch an application (specified by its desktop file name),\n"
+"optionally passing one or more URIs as arguments."
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Left to right"
+msgstr ""
+
+msgid "Left to right, bottom to top"
+msgstr ""
+
+msgid "Left to right, top to bottom"
+msgstr ""
+
+msgid "Left-to-Right"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Load additional GTK+ modules"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "MODULES"
+msgstr ""
+
+msgid "Magnifier"
+msgstr ""
+
+msgid "Make all warnings fatal"
+msgstr ""
+
+msgid "Manage Custom Sizes"
+msgstr ""
+
+msgid "Manage Custom Sizes…"
+msgstr ""
+
+msgid "Manually enter a location"
+msgstr ""
+
+msgid "Mapped"
+msgstr ""
+
+msgid "Margins from Printer…"
+msgstr ""
+
+msgid ""
+"Margins:\n"
+" Left: %s %s\n"
+" Right: %s %s\n"
+" Top: %s %s\n"
+" Bottom: %s %s"
+msgstr ""
+
+msgid "Maximize"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Mnemonic Label"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Model:"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Mount and open “%s”"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Muted"
+msgstr ""
+
+msgid "NAME"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Need user intervention"
+msgstr ""
+
+msgid "Network File System"
+msgstr ""
+
+msgid "Networks"
+msgstr ""
+
+msgid "New accelerator…"
+msgstr ""
+
+msgid "New bookmark"
+msgstr ""
+
+msgid "No Fonts Found"
+msgstr ""
+
+msgid "No GL implementation is available"
+msgstr ""
+
+msgid "No Results Found"
+msgstr ""
+
+msgid "No applications found for “%s”"
+msgstr ""
+
+msgid "No applications found for “%s” files"
+msgstr ""
+
+msgid "No applications found for “%s”."
+msgstr ""
+
+msgid "No applications found."
+msgstr ""
+
+msgid "No available configurations for the given RGBA pixel format"
+msgstr ""
+
+msgid "No available configurations for the given pixel format"
+msgstr ""
+
+msgid "No deserialize function found for format %s"
+msgstr ""
+
+msgid "No item for URI '%s' found"
+msgstr ""
+
+msgid "No items found"
+msgstr ""
+
+msgid "No network locations found"
+msgstr ""
+
+msgid "No printer found"
+msgstr ""
+
+msgid "No profile available"
+msgstr ""
+
+msgid "No recent servers found"
+msgstr ""
+
+msgid "No recently used resource found with URI '%s'"
+msgstr ""
+
+msgid "No registered application with name '%s' for item with URI '%s' found"
+msgstr ""
+
+msgid "No results found"
+msgstr ""
+
+msgid ""
+"No theme index file in '%s'.\n"
+"If you really want to create an icon cache here, use --ignore-theme-index.\n"
+msgstr ""
+
+msgid "No theme index file.\n"
+msgstr ""
+
+msgid "Not a valid icon cache: %s\n"
+msgstr ""
+
+msgid "Not a valid page setup file"
+msgstr ""
+
+msgid "Not available"
+msgstr ""
+
+msgid "Not enough free memory"
+msgstr ""
+
+msgid ""
+"Not settable at runtime.\n"
+"Use GDK_GL=always or GDK_GL=disable instead"
+msgstr ""
+
+msgctxt "Number format"
+msgid "%d"
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Object: %p (%s)"
+msgstr ""
+
+msgid "Objects"
+msgstr ""
+
+msgid "Odd sheets"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "On This Computer"
+msgstr ""
+
+msgid "On _hold"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Op_acity:"
+msgstr ""
+
+msgid "Open %s"
+msgstr ""
+
+msgid "Open '%s'"
+msgstr ""
+
+msgid "Open in New _Tab"
+msgstr ""
+
+msgid "Open in New _Window"
+msgstr ""
+
+msgid "Open the contents of the file system"
+msgstr ""
+
+msgid "Open the contents of your desktop in a folder"
+msgstr ""
+
+msgid "Open the trash"
+msgstr ""
+
+msgid "Open your personal folder"
+msgstr ""
+
+msgid "OpenGL context creation failed"
+msgstr ""
+
+msgid "Opening %d Item"
+msgid_plural "Opening %d Items"
+msgstr[0] ""
+
+msgid "Opening %s"
+msgstr ""
+
+msgid "Opening “%s” files."
+msgstr ""
+
+msgid "Opening “%s”."
+msgstr ""
+
+msgid "Or_ientation:"
+msgstr ""
+
+msgid "Other Applications"
+msgstr ""
+
+msgid "Other Locations"
+msgstr ""
+
+msgid "Other application…"
+msgstr ""
+
+msgid "Other…"
+msgstr ""
+
+msgid "Out of paper"
+msgstr ""
+
+msgid "Outermost element in text must be <text_view_markup> not <%s>"
+msgstr ""
+
+msgid "Output a C header file"
+msgstr ""
+
+msgid "Output t_ray:"
+msgstr ""
+
+msgid "Output to this directory instead of cwd"
+msgstr ""
+
+msgid "Overwrite an existing cache, even if up to date"
+msgstr ""
+
+msgid "PDF"
+msgstr ""
+
+msgid "PDF _Pop directional formatting"
+msgstr ""
+
+msgid "Packing property %s::%s not found\n"
+msgstr ""
+
+msgid "Pag_es:"
+msgstr ""
+
+msgid "Page %u"
+msgstr ""
+
+msgid "Page Ordering"
+msgstr ""
+
+msgid "Page Setup"
+msgstr ""
+
+msgid "Page or_dering:"
+msgstr ""
+
+msgid "Pages"
+msgstr ""
+
+msgid "Pages Per Sheet"
+msgstr ""
+
+msgid "Pages per _sheet:"
+msgstr ""
+
+msgid "Pages per _side:"
+msgstr ""
+
+msgid "Paper"
+msgstr ""
+
+msgid "Paper Margins"
+msgstr ""
+
+msgid "Paper Size"
+msgstr ""
+
+msgid "Paper _source:"
+msgstr ""
+
+msgid "Paper _type:"
+msgstr ""
+
+msgid "Parameter Type"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Paused; Rejecting Jobs"
+msgstr ""
+
+msgid "Pick a Color"
+msgstr ""
+
+msgid "Pick a Font"
+msgstr ""
+
+msgid "Pointer: %p"
+msgstr ""
+
+msgid "Portrait"
+msgstr ""
+
+msgid "Position on the color wheel."
+msgstr ""
+
+msgid "Postscript"
+msgstr ""
+
+msgid "Pre_view"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Prefix"
+msgstr ""
+
+msgid "Preparing"
+msgstr ""
+
+msgid "Preparing %d"
+msgstr ""
+
+msgid "Preview text"
+msgstr ""
+
+msgid "Pri_ority:"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print Document"
+msgstr ""
+
+msgid "Print to File"
+msgstr ""
+
+msgid "Print to LPR"
+msgstr ""
+
+msgid "Print to Test Printer"
+msgstr ""
+
+msgid "Printer"
+msgstr ""
+
+msgid "Printer Default"
+msgstr ""
+
+msgid "Printer offline"
+msgstr ""
+
+msgid "Printer “%s” has no toner left."
+msgstr ""
+
+msgid "Printer “%s” is currently offline."
+msgstr ""
+
+msgid "Printer “%s” is low on at least one marker supply."
+msgstr ""
+
+msgid "Printer “%s” is low on developer."
+msgstr ""
+
+msgid "Printer “%s” is low on paper."
+msgstr ""
+
+msgid "Printer “%s” is low on toner."
+msgstr ""
+
+msgid "Printer “%s” is out of at least one marker supply."
+msgstr ""
+
+msgid "Printer “%s” is out of developer."
+msgstr ""
+
+msgid "Printer “%s” is out of paper."
+msgstr ""
+
+msgid "Printing %d"
+msgstr ""
+
+msgid "Program class as used by the window manager"
+msgstr ""
+
+msgid "Program name as used by the window manager"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Property %s::%s not found\n"
+msgstr ""
+
+msgid "Provides visual indication of progress"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Quit %s"
+msgstr ""
+
+msgid "RGBA visual"
+msgstr ""
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr ""
+
+msgid "RLM _Right-to-left mark"
+msgstr ""
+
+msgid "RLO Right-to-left o_verride"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Realized"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Recent Servers"
+msgstr ""
+
+msgid "Recent files"
+msgstr ""
+
+msgid "Recommended Applications"
+msgstr ""
+
+msgid "Recording"
+msgstr ""
+
+msgid "Red %d%%, Green %d%%, Blue %d%%"
+msgstr ""
+
+msgid "Red %d%%, Green %d%%, Blue %d%%, Alpha %d%%"
+msgstr ""
+
+msgid "Reference count"
+msgstr ""
+
+msgid "Registered U_ser"
+msgstr ""
+
+msgid "Rejecting Jobs"
+msgstr ""
+
+msgid "Related Applications"
+msgstr ""
+
+msgid "Remember _forever"
+msgstr ""
+
+msgid "Remember password until you _logout"
+msgstr ""
+
+msgid "Remote location — only searching the current folder"
+msgstr ""
+
+msgid "Rename…"
+msgstr ""
+
+msgid "Rendering Mode"
+msgstr ""
+
+msgid "Request mode"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Resize"
+msgstr ""
+
+msgid "Resources"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Reverse landscape"
+msgstr ""
+
+msgid "Reverse portrait"
+msgstr ""
+
+msgid "Right to left"
+msgstr ""
+
+msgid "Right to left, bottom to top"
+msgstr ""
+
+msgid "Right to left, top to bottom"
+msgstr ""
+
+msgid "Right-to-Left"
+msgstr ""
+
+msgid "Rotate clockwise"
+msgstr ""
+
+msgid "Rotate counterclockwise"
+msgstr ""
+
+msgid "SSH File Transfer Protocol"
+msgstr ""
+
+msgid "SVG"
+msgstr ""
+
+msgid "S_aturation:"
+msgstr ""
+
+msgid "Samba"
+msgstr ""
+
+msgid "Same as --no-wintab"
+msgstr ""
+
+msgid "Sans 12"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Save the current CSS"
+msgstr ""
+
+msgid "Saving CSS failed"
+msgstr ""
+
+msgid "Sc_ale:"
+msgstr ""
+
+msgid "Se_lection"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search Results"
+msgstr ""
+
+msgid "Search Shortcuts"
+msgstr ""
+
+msgid "Search font name"
+msgstr ""
+
+msgid "Searching"
+msgstr ""
+
+msgid "Searching for network locations"
+msgstr ""
+
+msgid "Searching in %s"
+msgstr ""
+
+msgid "Select Application"
+msgstr ""
+
+msgid "Select Font"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select a Color"
+msgstr ""
+
+msgid "Select a File"
+msgstr ""
+
+msgid "Select a filename"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Select an Object"
+msgstr ""
+
+msgid ""
+"Select the color you want from the outer ring. Select the darkness or "
+"lightness of that color using the inner triangle."
+msgstr ""
+
+msgid "Select which type of documents are shown"
+msgstr ""
+
+msgid "Select which types of files are shown"
+msgstr ""
+
+msgid "Selector"
+msgstr ""
+
+msgid "Self"
+msgstr ""
+
+msgid "Self 1"
+msgstr ""
+
+msgid "Self 2"
+msgstr ""
+
+msgid "Serialized data is malformed"
+msgstr ""
+
+msgid ""
+"Serialized data is malformed. First section isn't GTKTEXTBUFFERCONTENTS-0001"
+msgstr ""
+
+msgid "Server Addresses"
+msgstr ""
+
+msgid ""
+"Server addresses are made up of a protocol prefix and an address. Examples:"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Setting is hardcoded by GTK_TEST_TOUCHSCREEN"
+msgstr ""
+
+msgid "Setting:"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show All"
+msgstr ""
+
+msgid "Show Baselines"
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Show GTK+ Options"
+msgstr ""
+
+msgid "Show Graphic Updates"
+msgstr ""
+
+msgid "Show Layout Borders"
+msgstr ""
+
+msgid "Show Pixel Cache"
+msgstr ""
+
+msgid "Show Widget Resizes"
+msgstr ""
+
+msgid "Show _Hidden Files"
+msgstr ""
+
+msgid "Show _Private Resources"
+msgstr ""
+
+msgid "Show _Size Column"
+msgstr ""
+
+msgid "Show _Time"
+msgstr ""
+
+msgid "Show all Objects"
+msgstr ""
+
+msgid "Show all Resources"
+msgstr ""
+
+msgid "Show data"
+msgstr ""
+
+msgid "Show other locations"
+msgstr ""
+
+msgid "Show program version"
+msgstr ""
+
+msgid "Si_ze:"
+msgstr ""
+
+msgid "Signal"
+msgstr ""
+
+msgid "Signals"
+msgstr ""
+
+msgid "Similar"
+msgstr ""
+
+msgid "Simulate touchscreen"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Size Groups"
+msgstr ""
+
+msgid "Size of the palette in 8 bit mode"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Slowdown"
+msgstr ""
+
+msgid "Smileys & People"
+msgstr ""
+
+msgid "Software GL"
+msgstr ""
+
+msgid "Software Surfaces"
+msgstr ""
+
+msgid "Some of the settings in the dialog conflict"
+msgstr ""
+
+msgid "Sort _Folders before Files"
+msgstr ""
+
+msgid "Source:"
+msgstr ""
+
+msgid ""
+"Specify one or more page ranges,\n"
+" e.g. 1–3, 7, 11"
+msgstr ""
+
+msgid ""
+"Specify the time of print,\n"
+" e.g. 15∶30, 2∶35 pm, 14∶15∶20, 11∶46∶30 am, 4 pm"
+msgstr ""
+
+msgid "Starred"
+msgstr ""
+
+msgid "Starting %s"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Best _Fit"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "C_onnect"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Cu_t"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Decrease Indent"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Error"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Find and _Replace"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Increase Indent"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Information"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Page Set_up"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Portrait"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Print Pre_view"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Question"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Reverse landscape"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Reverse portrait"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Save _As"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Select _All"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Warning"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Zoom _In"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "Zoom _Out"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_About"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Add"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Apply"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Ascending"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Bold"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_CD-ROM"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Cancel"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Center"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Clear"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Close"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Color"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Convert"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Copy"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Delete"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Descending"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Discard"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Disconnect"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Edit"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Execute"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_File"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Fill"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Find"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Floppy"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Font"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Fullscreen"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Hard Disk"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Help"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Home"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Index"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Information"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Italic"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Jump to"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Leave Fullscreen"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Left"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Network"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_New"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_No"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Normal Size"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_OK"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Open"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Paste"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Preferences"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Print"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Properties"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Quit"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Redo"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Refresh"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Remove"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Revert"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Right"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Save"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Spell Check"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Stop"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Strikethrough"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Undelete"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Underline"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Undo"
+msgstr ""
+
+msgctxt "Stock label"
+msgid "_Yes"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "P_ause"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "Pre_vious"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "R_ewind"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "_Forward"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "_Next"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "_Play"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "_Record"
+msgstr ""
+
+msgctxt "Stock label, media"
+msgid "_Stop"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Back"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Bottom"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Down"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_First"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Forward"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Last"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Top"
+msgstr ""
+
+msgctxt "Stock label, navigation"
+msgid "_Up"
+msgstr ""
+
+msgid "Style Classes"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
+msgid ""
+"System policy prevents changes.\n"
+"Contact your system administrator"
+msgstr ""
+
+msgid "T_wo-sided:"
+msgstr ""
+
+msgid "Tag \"%s\" already defined"
+msgstr ""
+
+msgid "Tag \"%s\" does not exist in buffer and tags can not be created."
+msgstr ""
+
+msgid "Tag \"%s\" has invalid priority \"%s\""
+msgstr ""
+
+msgid "Tag \"%s\" has not been defined."
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Terminal Pager"
+msgstr ""
+
+msgid "Text Direction"
+msgstr ""
+
+msgid "Text may not appear inside <%s>"
+msgstr ""
+
+msgid "Texture Rectangle Extension"
+msgstr ""
+
+msgid "The MIT License (MIT)"
+msgstr ""
+
+msgid "The attribute \"%s\" was found twice on the <%s> element"
+msgstr ""
+
+msgid "The color you’ve chosen."
+msgstr ""
+
+msgid ""
+"The color you’ve chosen. You can drag this color to a palette entry to save "
+"it for use in the future."
+msgstr ""
+
+msgid "The cover is open on printer “%s”."
+msgstr ""
+
+msgid "The current backend does not support OpenGL"
+msgstr ""
+
+msgid "The door is open on printer “%s”."
+msgstr ""
+
+msgid ""
+"The file already exists in “%s”.  Replacing it will overwrite its contents."
+msgstr ""
+
+msgid "The file could not be deleted"
+msgstr ""
+
+msgid "The file could not be moved to the Trash"
+msgstr ""
+
+msgid "The file could not be renamed"
+msgstr ""
+
+msgid "The folder contents could not be displayed"
+msgstr ""
+
+msgid "The folder could not be created"
+msgstr ""
+
+msgid ""
+"The folder could not be created, as a file with the same name already "
+"exists.  Try using a different name for the folder, or rename the file "
+"first."
+msgstr ""
+
+msgid "The generated cache was invalid.\n"
+msgstr ""
+
+msgid "The item that you selected is not a folder try using a different item."
+msgstr ""
+
+msgid ""
+"The most probable reason is that a temporary file could not be created."
+msgstr ""
+
+msgid ""
+"The previously-selected color, for comparison to the color you’re selecting "
+"now."
+msgstr ""
+
+msgid ""
+"The previously-selected color, for comparison to the color you’re selecting "
+"now. You can drag this color to a palette entry, or select this color as "
+"current by dragging it to the other color swatch alongside."
+msgstr ""
+
+msgid "Theme"
+msgstr ""
+
+msgid "Theme is hardcoded by GTK_THEME"
+msgstr ""
+
+msgid "There is a problem on printer “%s”."
+msgstr ""
+
+msgid "This name is already taken"
+msgstr ""
+
+msgid ""
+"This program comes with absolutely no warranty.\n"
+"See the <a href=\"%s\">%s</a> for details."
+msgstr ""
+
+msgid "Tick callback"
+msgstr ""
+
+msgid "Time of print"
+msgstr ""
+
+msgid "Top Command"
+msgstr ""
+
+msgid "Top to bottom"
+msgstr ""
+
+msgid "Top to bottom, left to right"
+msgstr ""
+
+msgid "Top to bottom, right to left"
+msgstr ""
+
+msgid "Trace signal emissions on this object"
+msgstr ""
+
+msgid "Translated by"
+msgstr ""
+
+msgid "Transparency of the color."
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Travel & Places"
+msgstr ""
+
+msgid "Try \"%s --help\" for more information."
+msgstr ""
+
+msgid "Try a different search"
+msgstr ""
+
+msgid "Try using a shorter name."
+msgstr ""
+
+msgid "Turn off verbose output"
+msgstr ""
+
+msgid "Turns volume up or down"
+msgstr ""
+
+msgid "Two finger pinch"
+msgstr ""
+
+msgid "Two finger stretch"
+msgstr ""
+
+msgid "Two finger swipe left"
+msgstr ""
+
+msgid "Two finger swipe right"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type name of new folder"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Unable to access location"
+msgstr ""
+
+msgid "Unable to access “%s”"
+msgstr ""
+
+msgid "Unable to create a GL context"
+msgstr ""
+
+msgid "Unable to eject %s"
+msgstr ""
+
+msgid "Unable to eject “%s”"
+msgstr ""
+
+msgid "Unable to end process"
+msgstr ""
+
+msgid "Unable to find an item with URI '%s'"
+msgstr ""
+
+msgid "Unable to get remote server location"
+msgstr ""
+
+msgid "Unable to move the item with URI '%s' to '%s'"
+msgstr ""
+
+msgid "Unable to poll “%s” for media changes"
+msgstr ""
+
+msgid "Unable to start “%s”"
+msgstr ""
+
+msgid "Unable to stop “%s”"
+msgstr ""
+
+msgid "Unable to unmount volume"
+msgstr ""
+
+msgid "Unable to unmount “%s”"
+msgstr ""
+
+msgid "Uneditable property type: %s"
+msgstr ""
+
+msgid "Unexpected character data on line %d char %d"
+msgstr ""
+
+msgid "Unexpected start tag '%s' on line %d char %d"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown Application (PID %d)"
+msgstr ""
+
+msgid "Unknown error when trying to deserialize %s"
+msgstr ""
+
+msgid "Unknown item"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Unmount"
+msgstr ""
+
+msgid "Unnamed section"
+msgstr ""
+
+msgid "Unspecified error"
+msgstr ""
+
+msgid "Unspecified profile"
+msgstr ""
+
+msgid "Untitled filter"
+msgstr ""
+
+msgid "Up Path"
+msgstr ""
+
+msgid "Urgent"
+msgstr ""
+
+msgid ""
+"Usage:\n"
+"  gtk-builder-tool [COMMAND] FILE\n"
+"\n"
+"Commands:\n"
+"  validate           Validate the file\n"
+"  simplify [OPTIONS] Simplify the file\n"
+"  enumerate          List all named objects\n"
+"  preview [OPTIONS]  Preview the file\n"
+"\n"
+"Simplify Options:\n"
+"  --replace          Replace the file\n"
+"\n"
+"Preview Options:\n"
+"  --id=ID            Preview only the named object\n"
+"  --css=FILE         Use style from CSS file\n"
+"\n"
+"Perform various tasks on GtkBuilder .ui files.\n"
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid "Validate existing icon cache"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Visual"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Volume Down"
+msgstr ""
+
+msgid "Volume Up"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "WebDAV"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "When needed"
+msgstr ""
+
+msgid "Window scaling"
+msgstr ""
+
+msgid "X display to use"
+msgstr ""
+
+msgid "XSettings"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid ""
+"You can enter an HTML-style hexadecimal color value, or simply a color name "
+"such as “orange” in this entry."
+msgstr ""
+
+msgid ""
+"You can temporarily disable this custom CSS by clicking on the “Pause” "
+"button above."
+msgstr ""
+
+msgid "You can type here any CSS rule recognized by GTK+."
+msgstr ""
+
+msgid "You do not have access to the specified folder."
+msgstr ""
+
+msgid "You may only select folders"
+msgstr ""
+
+msgid "You need to choose a valid filename."
+msgstr ""
+
+msgid "Z Shell"
+msgstr ""
+
+msgid "ZWJ Zero width _joiner"
+msgstr ""
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr ""
+
+msgid "ZWS _Zero width space"
+msgstr ""
+
+msgid "_Add Bookmark"
+msgstr ""
+
+msgid "_Add to Bookmarks"
+msgstr ""
+
+msgid "_After:"
+msgstr ""
+
+msgid "_All Pages"
+msgstr ""
+
+msgid "_Anonymous"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Back"
+msgstr ""
+
+msgid "_Billing info:"
+msgstr ""
+
+msgid "_Blue:"
+msgstr ""
+
+msgid "_Bottom:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Clear List"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Connect"
+msgstr ""
+
+msgid "_Connect Drive"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copy Location"
+msgstr ""
+
+msgid "_Create"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Detect Media"
+msgstr ""
+
+msgid "_Disconnect"
+msgstr ""
+
+msgid "_Disconnect Drive"
+msgstr ""
+
+msgid "_Domain"
+msgstr ""
+
+msgid "_Eject"
+msgstr ""
+
+msgid "_End Process"
+msgstr ""
+
+msgid "_Family:"
+msgstr ""
+
+msgid "_Find New Applications"
+msgstr ""
+
+msgid "_Finish"
+msgstr ""
+
+msgid "_Format for:"
+msgstr ""
+
+msgid "_Green:"
+msgstr ""
+
+msgid "_Height:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hue:"
+msgstr ""
+
+msgid "_Left:"
+msgstr ""
+
+msgid "_License"
+msgstr ""
+
+msgid "_Lock Device"
+msgstr ""
+
+msgid "_Mount"
+msgstr ""
+
+msgid "_Move to Trash"
+msgstr ""
+
+msgid "_Name"
+msgstr ""
+
+msgid "_Name:"
+msgstr ""
+
+msgid "_Next"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "_Now"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Only print:"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open Link"
+msgstr ""
+
+msgid "_Open With File Manager"
+msgstr ""
+
+msgid "_Orientation:"
+msgstr ""
+
+msgid "_Output format"
+msgstr ""
+
+msgid "_Palette:"
+msgstr ""
+
+msgid "_Paper size:"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Power On"
+msgstr ""
+
+msgid "_Preview:"
+msgstr ""
+
+msgid "_Print"
+msgstr ""
+
+msgid "_Red:"
+msgstr ""
+
+msgid "_Remember password"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Remove From List"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Reverse"
+msgstr ""
+
+msgid "_Right:"
+msgstr ""
+
+msgid "_Safely Remove Drive"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save color here"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Show All"
+msgstr ""
+
+msgid "_Start"
+msgstr ""
+
+msgid "_Start Multi-disk Device"
+msgstr ""
+
+msgid "_Stop"
+msgstr ""
+
+msgid "_Stop Multi-disk Device"
+msgstr ""
+
+msgid "_Style:"
+msgstr ""
+
+msgid "_Top:"
+msgstr ""
+
+msgid "_Unlock Device"
+msgstr ""
+
+msgid "_Unmount"
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Value:"
+msgstr ""
+
+msgid "_View All Applications"
+msgstr ""
+
+msgid "_Visit File"
+msgstr ""
+
+msgid "_Width:"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "abcdefghijk ABCDEFGHIJK"
+msgstr ""
+
+msgid "bidirectional"
+msgstr ""
+
+msgid "bidirectional, inverted"
+msgstr ""
+
+msgctxt "calendar year format"
+msgid "%Y"
+msgstr ""
+
+msgid "calendar:MY"
+msgstr ""
+
+msgctxt "calendar:day:digits"
+msgid "%d"
+msgstr ""
+
+msgctxt "calendar:week:digits"
+msgid "%d"
+msgstr ""
+
+msgid "calendar:week_start:0"
+msgstr ""
+
+msgctxt "cover page"
+msgid "Classified"
+msgstr ""
+
+msgctxt "cover page"
+msgid "Confidential"
+msgstr ""
+
+msgctxt "cover page"
+msgid "None"
+msgstr ""
+
+msgctxt "cover page"
+msgid "Secret"
+msgstr ""
+
+msgctxt "cover page"
+msgid "Standard"
+msgstr ""
+
+msgctxt "cover page"
+msgid "Top Secret"
+msgstr ""
+
+msgctxt "cover page"
+msgid "Unclassified"
+msgstr ""
+
+msgid "dav:// or davs://"
+msgstr ""
+
+msgid "default:LTR"
+msgstr ""
+
+msgid "default:mm"
+msgstr ""
+
+msgctxt "emoji category"
+msgid "Objects"
+msgstr ""
+
+msgctxt "event phase"
+msgid "Bubble"
+msgstr ""
+
+msgctxt "event phase"
+msgid "Capture"
+msgstr ""
+
+msgctxt "event phase"
+msgid "None"
+msgstr ""
+
+msgctxt "event phase"
+msgid "Target"
+msgstr ""
+
+msgctxt "font"
+msgid "None"
+msgstr ""
+
+msgid "ftp:// or ftps://"
+msgstr ""
+
+msgid "inch"
+msgstr ""
+
+msgctxt "input menthod menu"
+msgid "Cyrillic (Transliterated)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Amharic (EZ+)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Broadway"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Cedilla"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "IPA"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Inuktitut (Transliterated)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Mac OS X Quartz"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Multipress"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "None"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Simple"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "System"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "System (%s)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Thai-Lao"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Tigrigna-Eritrean (EZ+)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Tigrigna-Ethiopian (EZ+)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Vietnamese (VIQR)"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Wayland"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "Windows IME"
+msgstr ""
+
+msgctxt "input method menu"
+msgid "X Input Method"
+msgstr ""
+
+msgid "inverted"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Alt"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioLowerVolume"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioMedia"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioMicMute"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioMute"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioNext"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioPause"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioPlay"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioPrev"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioRaiseVolume"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioRecord"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioRewind"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "AudioStop"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Back"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "BackSpace"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Backslash"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Battery"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Begin"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Calculator"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Ctrl"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Delete"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Display"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Down"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Eject"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "End"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Escape"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Explorer"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Forward"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Hibernate"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Home"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Hyper"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Insert"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Begin"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Delete"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Down"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_End"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Enter"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Home"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Insert"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Left"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Next"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Page_Down"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Page_Up"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Prior"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Right"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Space"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Tab"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KP_Up"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KbdBrightnessDown"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "KbdBrightnessUp"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Launch1"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Left"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Mail"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Meta"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "MonBrightnessDown"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "MonBrightnessUp"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Multi_key"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Num_Lock"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Page_Down"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Page_Up"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Pause"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Print"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Return"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Right"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "ScreenSaver"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Scroll_Lock"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Search"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Shift"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Sleep"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Space"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Super"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Suspend"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Sys_Req"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Tab"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Tools"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "TouchpadToggle"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "Up"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "WLAN"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "WWW"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "WakeUp"
+msgstr ""
+
+msgctxt "keyboard label"
+msgid "WebCam"
+msgstr ""
+
+msgctxt "keyboard side marker"
+msgid "L"
+msgstr ""
+
+msgctxt "keyboard side marker"
+msgid "R"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "output"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Bottom Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Center Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Face Down Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Face Up Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Large Capacity Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Left Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Mailbox %d"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Middle Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "My Mailbox"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Rear Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Right Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Side Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Stacker %d"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Top Bin"
+msgstr ""
+
+msgctxt "output-bin"
+msgid "Tray %d"
+msgstr ""
+
+msgctxt "paper size"
+msgid "#10 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "#11 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "#12 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "#14 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "#9 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "10×11"
+msgstr ""
+
+msgctxt "paper size"
+msgid "10×13"
+msgstr ""
+
+msgctxt "paper size"
+msgid "10×14"
+msgstr ""
+
+msgctxt "paper size"
+msgid "10×15"
+msgstr ""
+
+msgctxt "paper size"
+msgid "11×12"
+msgstr ""
+
+msgctxt "paper size"
+msgid "11×15"
+msgstr ""
+
+msgctxt "paper size"
+msgid "12×19"
+msgstr ""
+
+msgctxt "paper size"
+msgid "5×7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "6×9 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "7×9 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "8×10 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "9×11 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "9×12 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A0"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A0×2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A0×3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A1"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A10"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A1×3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A1×4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A2×3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A2×4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A2×5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3 Extra"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3×3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3×4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3×5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3×6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A3×7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4 Extra"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4 Tab"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×8"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A4×9"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A5 Extra"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A8"
+msgstr ""
+
+msgctxt "paper size"
+msgid "A9"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Arch A"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Arch B"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Arch C"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Arch D"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Arch E"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B0"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B1"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B10"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B5 Extra"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B6/C4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B8"
+msgstr ""
+
+msgctxt "paper size"
+msgid "B9"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C0"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C1"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C10"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C6/C5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C7/C6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C8"
+msgstr ""
+
+msgctxt "paper size"
+msgid "C9"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Choukei 2 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Choukei 3 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Choukei 4 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Choukei 40 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "DL Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Dai-pa-kai"
+msgstr ""
+
+msgctxt "paper size"
+msgid "European edp"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Executive"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Fan-Fold European"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Fan-Fold German Legal"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Fan-Fold US"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Folio"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Folio sp"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Government Legal"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Government Letter"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Index 3×5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Index 4×6 (postcard)"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Index 4×6 ext"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Index 5×8"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Invite Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Invoice"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Italian Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB0"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB1"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB10"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB5"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB6"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB7"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB8"
+msgstr ""
+
+msgctxt "paper size"
+msgid "JB9"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Large Photo"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Medium Photo"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Monarch Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Oficio"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Personal Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Photo L"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Postfix Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Quarto"
+msgstr ""
+
+msgctxt "paper size"
+msgid "RA0"
+msgstr ""
+
+msgctxt "paper size"
+msgid "RA1"
+msgstr ""
+
+msgctxt "paper size"
+msgid "RA2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "RA3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "RA4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "ROC 16k"
+msgstr ""
+
+msgctxt "paper size"
+msgid "ROC 8k"
+msgstr ""
+
+msgctxt "paper size"
+msgid "SRA0"
+msgstr ""
+
+msgctxt "paper size"
+msgid "SRA1"
+msgstr ""
+
+msgctxt "paper size"
+msgid "SRA2"
+msgstr ""
+
+msgctxt "paper size"
+msgid "SRA3"
+msgstr ""
+
+msgctxt "paper size"
+msgid "SRA4"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Small Photo"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Super A"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Super B"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Tabloid"
+msgstr ""
+
+msgctxt "paper size"
+msgid "US Legal"
+msgstr ""
+
+msgctxt "paper size"
+msgid "US Legal Extra"
+msgstr ""
+
+msgctxt "paper size"
+msgid "US Letter"
+msgstr ""
+
+msgctxt "paper size"
+msgid "US Letter Extra"
+msgstr ""
+
+msgctxt "paper size"
+msgid "US Letter Plus"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Wide Format"
+msgstr ""
+
+msgctxt "paper size"
+msgid "Wide Photo"
+msgstr ""
+
+msgctxt "paper size"
+msgid "a2 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "asme_f"
+msgstr ""
+
+msgctxt "paper size"
+msgid "b-plus"
+msgstr ""
+
+msgctxt "paper size"
+msgid "c"
+msgstr ""
+
+msgctxt "paper size"
+msgid "c5 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "d"
+msgstr ""
+
+msgctxt "paper size"
+msgid "e"
+msgstr ""
+
+msgctxt "paper size"
+msgid "edp"
+msgstr ""
+
+msgctxt "paper size"
+msgid "f"
+msgstr ""
+
+msgctxt "paper size"
+msgid "hagaki (postcard)"
+msgstr ""
+
+msgctxt "paper size"
+msgid "jis exec"
+msgstr ""
+
+msgctxt "paper size"
+msgid "juuro-ku-kai"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kahu Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kaku2 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kaku3 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kaku4 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kaku5 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kaku7 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "kaku8 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "oufuku (reply postcard)"
+msgstr ""
+
+msgctxt "paper size"
+msgid "pa-kai"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc 16k"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc 32k"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc1 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc10 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc2 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc3 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc4 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc5 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc6 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc7 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc8 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "prc9 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "you4 Envelope"
+msgstr ""
+
+msgctxt "paper size"
+msgid "you6 Envelope"
+msgstr ""
+
+msgid "paused"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Blocking on issue"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Finished"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Finished with error"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Generating data"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Initial state"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Preparing to print"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Printing"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Sending data"
+msgstr ""
+
+msgctxt "print operation status"
+msgid "Waiting"
+msgstr ""
+
+msgid "printer offline"
+msgstr ""
+
+msgctxt "printer option"
+msgid "After"
+msgstr ""
+
+msgctxt "printer option"
+msgid "Before"
+msgstr ""
+
+msgctxt "printer option"
+msgid "Page Ordering"
+msgstr ""
+
+msgctxt "printer option"
+msgid "Pages per Sheet"
+msgstr ""
+
+msgctxt "printer option"
+msgid "Print at"
+msgstr ""
+
+msgctxt "printer option"
+msgid "Print at time"
+msgstr ""
+
+msgctxt "printer option"
+msgid "Printer Profile"
+msgstr ""
+
+msgctxt "printer option value"
+msgid "Unavailable"
+msgstr ""
+
+msgctxt "printing option"
+msgid "GhostScript pre-filtering"
+msgstr ""
+
+msgctxt "printing option"
+msgid "Output Tray"
+msgstr ""
+
+msgctxt "printing option"
+msgid "Paper Source"
+msgstr ""
+
+msgctxt "printing option"
+msgid "Paper Type"
+msgstr ""
+
+msgctxt "printing option"
+msgid "Resolution"
+msgstr ""
+
+msgctxt "printing option"
+msgid "Two Sided"
+msgstr ""
+
+msgctxt "printing option group"
+msgid "Miscellaneous"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Auto Select"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Convert to PS level 1"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Convert to PS level 2"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Embed GhostScript fonts only"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Long Edge (Standard)"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "No pre-filtering"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "One Sided"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Printer Default"
+msgstr ""
+
+msgctxt "printing option value"
+msgid "Short Edge (Flip)"
+msgstr ""
+
+msgid "processing job"
+msgstr ""
+
+msgctxt "progress bar label"
+msgid "%.0f %%"
+msgstr ""
+
+msgctxt "progress bar label"
+msgid "%d %%"
+msgstr ""
+
+msgctxt "property name"
+msgid "None"
+msgstr ""
+
+msgid "ready to print"
+msgstr ""
+
+msgctxt "recent menu label"
+msgid "%d. %s"
+msgstr ""
+
+msgctxt "recent menu label"
+msgid "_%d. %s"
+msgstr ""
+
+msgid "sftp:// or ssh://"
+msgstr ""
+
+msgctxt "sides"
+msgid "Long Edge (Standard)"
+msgstr ""
+
+msgctxt "sides"
+msgid "One Sided"
+msgstr ""
+
+msgctxt "sides"
+msgid "Short Edge (Flip)"
+msgstr ""
+
+msgctxt "sizegroup mode"
+msgid "Both"
+msgstr ""
+
+msgctxt "sizegroup mode"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "sizegroup mode"
+msgid "None"
+msgstr ""
+
+msgctxt "sizegroup mode"
+msgid "Vertical"
+msgstr ""
+
+msgid "test-output.%s"
+msgstr ""
+
+msgctxt "throbbing progress animation widget"
+msgid "Spinner"
+msgstr ""
+
+msgctxt "type name"
+msgid "Unknown"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgctxt "volume percentage"
+msgid "%d %%"
+msgstr ""
+
+msgctxt "year measurement template"
+msgid "2000"
+msgstr ""

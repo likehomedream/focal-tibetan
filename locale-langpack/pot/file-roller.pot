@@ -1,0 +1,897 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: file-roller master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/file-roller/issues\n"
+"PO-Revision-Date: 2020-04-07 06:56+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:07+0000\n"
+
+msgid "%d %B %Y, %H:%M"
+msgstr ""
+
+msgid "%d file remaining"
+msgid_plural "%'d files remaining"
+msgstr[0] ""
+
+msgid "%s Properties"
+msgstr ""
+
+msgid "10,0"
+msgstr ""
+
+msgid ""
+"A file named “%s” already exists.\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "A file named “%s” already exists.  Do you want to replace it?"
+msgstr ""
+
+msgid ""
+"A folder named “%s” already exists.\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "ARCHIVE"
+msgstr ""
+
+msgctxt "Action"
+msgid "Add Files"
+msgstr ""
+
+msgctxt "Action"
+msgid "Extract"
+msgstr ""
+
+msgctxt "Action"
+msgid "Load Options"
+msgstr ""
+
+msgctxt "Action"
+msgid "Open"
+msgstr ""
+
+msgctxt "Action"
+msgid "Save Options"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add files asking the name of the archive and quit the program"
+msgstr ""
+
+msgid "Add files to the specified archive and quit the program"
+msgstr ""
+
+msgid "Add only if _newer"
+msgstr ""
+
+msgid "Adding the files to “%s”"
+msgstr ""
+
+msgid "Adding “%s”"
+msgstr ""
+
+msgid "All archives"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "An archive manager for GNOME."
+msgstr ""
+
+msgid "An error occurred while adding files to the archive."
+msgstr ""
+
+msgid "An error occurred while deleting files from the archive."
+msgstr ""
+
+msgid "An error occurred while extracting files."
+msgstr ""
+
+msgid "An error occurred while loading the archive."
+msgstr ""
+
+msgid "An error occurred while renaming the files."
+msgstr ""
+
+msgid "An error occurred while saving the archive."
+msgstr ""
+
+msgid "An error occurred while testing archive."
+msgstr ""
+
+msgid "An error occurred while updating the files."
+msgstr ""
+
+msgid "An error occurred."
+msgstr ""
+
+msgid "Another file with the same name already exists in “%s”."
+msgstr ""
+
+msgid "Archive Manager"
+msgstr ""
+
+msgid ""
+"Archive Manager (also known as File Roller) is the default GNOME application"
+" for opening, creating, and modifying archive and compressed archive files."
+msgstr ""
+
+msgid ""
+"Archive Manager supports a wide range of different archive files, including:"
+msgstr ""
+
+msgid "Archive not found"
+msgstr ""
+
+msgid "Archive size:"
+msgstr ""
+
+msgid "Archive type not supported."
+msgstr ""
+
+msgid "C_ommand Line Output:"
+msgstr ""
+
+msgid "C_reate"
+msgstr ""
+
+msgid "Change password visibility"
+msgstr ""
+
+msgid "Command exited abnormally."
+msgstr ""
+
+msgid "Command not found."
+msgstr ""
+
+msgid "Compress"
+msgstr ""
+
+msgid "Compression level"
+msgstr ""
+
+msgid ""
+"Compression level used when adding files to an archive. Possible values: "
+"very-fast, fast, normal, maximum."
+msgstr ""
+
+msgid "Compression ratio:"
+msgstr ""
+
+msgid "Content size:"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copying the extracted files to the destination"
+msgstr ""
+
+msgid "Copying the files from “%s” to “%s”"
+msgstr ""
+
+msgid "Copying the files to add to “%s”"
+msgstr ""
+
+msgid "Copyright © 2001–2014 Free Software Foundation, Inc."
+msgstr ""
+
+msgid "Could not add the files to the archive"
+msgstr ""
+
+msgid "Could not create the archive"
+msgstr ""
+
+msgid "Could not create the destination folder: %s."
+msgstr ""
+
+msgid "Could not delete the old archive."
+msgstr ""
+
+msgid "Could not display help"
+msgstr ""
+
+msgid "Could not display the folder “%s”"
+msgstr ""
+
+msgid "Could not find the volume: %s"
+msgstr ""
+
+msgid "Could not load the location"
+msgstr ""
+
+msgid "Could not open this file type"
+msgstr ""
+
+msgid "Could not open “%s”"
+msgstr ""
+
+msgid "Could not perform the operation"
+msgstr ""
+
+msgid "Could not rename the file"
+msgstr ""
+
+msgid "Could not rename the folder"
+msgstr ""
+
+msgid "Could not save the archive “%s”"
+msgstr ""
+
+msgid "Create _Archive"
+msgstr ""
+
+msgid "Create _Folder"
+msgstr ""
+
+msgid "Create and modify an archive"
+msgstr ""
+
+msgid "Create destination folder without asking confirmation"
+msgstr ""
+
+msgid "Creating “%s”"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "D_eselect All"
+msgstr ""
+
+msgid "Decompressing archive"
+msgstr ""
+
+msgid "Default folder to use for the “--add” and “--extract” commands"
+msgstr ""
+
+msgid "Default volume size"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Deleting files from archive"
+msgstr ""
+
+msgid "Deleting the files from “%s”"
+msgstr ""
+
+msgid "Dese_lect All"
+msgstr ""
+
+msgid ""
+"Destination folder “%s” does not exist.\n"
+"\n"
+"Do you want to create it?"
+msgstr ""
+
+msgid "Display path"
+msgstr ""
+
+msgid "Display size"
+msgstr ""
+
+msgid "Display the path column in the main window."
+msgstr ""
+
+msgid "Display the size column in the main window."
+msgstr ""
+
+msgid "Display the time column in the main window."
+msgstr ""
+
+msgid "Display the type column in the main window."
+msgstr ""
+
+msgid "Display time"
+msgstr ""
+
+msgid "Display type"
+msgstr ""
+
+msgid "Do not _overwrite newer files"
+msgstr ""
+
+msgid "Do not overwrite newer files"
+msgstr ""
+
+msgid ""
+"Do you want to add this file to the current archive or open it as a new "
+"archive?"
+msgstr ""
+
+msgid "Do you want to create a new archive with these files?"
+msgstr ""
+
+msgid "E_xclude files:"
+msgstr ""
+
+msgid "Editors"
+msgstr ""
+
+msgid "Encrypt the archive header"
+msgstr ""
+
+msgid "Enter a password for “%s”"
+msgstr ""
+
+msgid "Extract Here"
+msgstr ""
+
+msgid "Extract To…"
+msgstr ""
+
+msgid "Extract archives asking the destination folder and quit the program"
+msgstr ""
+
+msgid "Extract archives to the specified folder and quit the program"
+msgstr ""
+
+msgid ""
+"Extract the contents of the archives in the archive folder and quit the "
+"program"
+msgstr ""
+
+msgid "Extract the selected archive"
+msgstr ""
+
+msgid "Extract the selected archive to the current position"
+msgstr ""
+
+msgid "Extracting the files from “%s”"
+msgstr ""
+
+msgid "Extracting “%s”"
+msgstr ""
+
+msgid "Extraction completed successfully"
+msgstr ""
+
+msgid "Extraction not performed"
+msgstr ""
+
+msgid "FOLDER"
+msgstr ""
+
+msgctxt "File"
+msgid "Location"
+msgstr ""
+
+msgctxt "File"
+msgid "Modified"
+msgstr ""
+
+msgctxt "File"
+msgid "Name"
+msgstr ""
+
+msgctxt "File"
+msgid "Name:"
+msgstr ""
+
+msgctxt "File"
+msgid "Size"
+msgstr ""
+
+msgctxt "File"
+msgid "Type"
+msgstr ""
+
+msgid "File Roller"
+msgstr ""
+
+msgid "Find files by name"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Getting the file list"
+msgstr ""
+
+msgid "Go to the home location"
+msgstr ""
+
+msgid "Go to the next visited location"
+msgstr ""
+
+msgid "Go to the previous visited location"
+msgstr ""
+
+msgid "Go up one level"
+msgstr ""
+
+msgid "How to sort files"
+msgstr ""
+
+msgid "Include _files:"
+msgstr ""
+
+msgid "Last Output"
+msgstr ""
+
+msgid "Last modified:"
+msgstr ""
+
+msgid "List Mode"
+msgstr ""
+
+msgid ""
+"List of applications entered in the “Open File” dialog and not associated "
+"with the file type."
+msgstr ""
+
+msgid "Loading “%s”"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "Moving the files from “%s” to “%s”"
+msgstr ""
+
+msgid "Name column width"
+msgstr ""
+
+msgid ""
+"Name “%s” is not valid because it contains at least one of the following "
+"characters: %s, please type other name."
+msgstr ""
+
+msgid "New Archive"
+msgstr ""
+
+msgid "New name is the same as old one, please type other name."
+msgstr ""
+
+msgid "New name is void, please type a name."
+msgstr ""
+
+msgid "Number of files:"
+msgstr ""
+
+msgid "Open, modify and create compressed archive files"
+msgstr ""
+
+msgid "Operation completed"
+msgstr ""
+
+msgid "Pass_word…"
+msgstr ""
+
+msgid "Password required for “%s”"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Paste Selection"
+msgstr ""
+
+msgid "Please use a different name."
+msgstr ""
+
+msgid "Please wait…"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Reading “%s”"
+msgstr ""
+
+msgid "Recompressing archive"
+msgstr ""
+
+msgid "Recreate the folders stored in the archive"
+msgstr ""
+
+msgid "Removing “%s”"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Renaming the files in “%s”"
+msgstr ""
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Replace _Nothing"
+msgstr ""
+
+msgid "Replace file “%s”?"
+msgstr ""
+
+msgid "Reset Options"
+msgstr ""
+
+msgid "S_elect the files you want to update:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save As…"
+msgstr ""
+
+msgid "Save _As…"
+msgstr ""
+
+msgid "Saving “%s”"
+msgstr ""
+
+msgid "Set Pass_word…"
+msgstr ""
+
+msgid "Show Hidden Files"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
+
+msgid "Split into _volumes of"
+msgstr ""
+
+msgid "Start as a service"
+msgstr ""
+
+msgid "Test Result"
+msgstr ""
+
+msgid "Testing “%s”"
+msgstr ""
+
+msgid "The default size for volumes."
+msgstr ""
+
+msgid "The default width of the name column in the file list."
+msgstr ""
+
+msgid ""
+"The file already exists in “%s”.  Replacing it will overwrite its contents."
+msgstr ""
+
+msgid ""
+"The file has been modified with an external application. If you don’t update"
+" the file in the archive, all of your changes will be lost."
+msgid_plural ""
+"%d files have been modified with an external application. If you don’t "
+"update the files in the archive, all of your changes will be lost."
+msgstr[0] ""
+
+msgid ""
+"There is no command installed for %s files.\n"
+"Do you want to search for a command to open this file?"
+msgstr ""
+
+msgid "There was an internal error trying to search for applications:"
+msgstr ""
+
+msgid "This archive type cannot be modified"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Update Files"
+msgstr ""
+
+msgid "Update the file “%s” in the archive “%s”?"
+msgstr ""
+
+msgid "Update the files in the archive “%s”?"
+msgstr ""
+
+msgid "Updating the files in “%s”"
+msgstr ""
+
+msgid "Use the notification system to notify the operation completion"
+msgstr ""
+
+msgid ""
+"Use “all-files” to view all the files in the archive in a single list, use "
+"“as-folder” to navigate the archive as a folder."
+msgstr ""
+
+msgid "View All _Files"
+msgstr ""
+
+msgid "View as a F_older"
+msgstr ""
+
+msgid "View the sidebar"
+msgstr ""
+
+msgid ""
+"What criteria must be used to arrange files. Possible values: name, size, "
+"type, time, path."
+msgstr ""
+
+msgid "Whether to display the sidebar."
+msgstr ""
+
+msgid ""
+"Whether to encrypt the archive header. If the header is encrypted the "
+"password will be required to list the archive content as well."
+msgstr ""
+
+msgid ""
+"Whether to sort in ascending or descending direction. Possible values: "
+"ascending, descending."
+msgstr ""
+
+msgctxt "Window title"
+msgid "Add Files"
+msgstr ""
+
+msgctxt "Window title"
+msgid "Extract"
+msgstr ""
+
+msgctxt "Window title"
+msgid "Extract archive"
+msgstr ""
+
+msgctxt "Window title"
+msgid "Load Options"
+msgstr ""
+
+msgctxt "Window title"
+msgid "Open"
+msgstr ""
+
+msgctxt "Window title"
+msgid "Save Options"
+msgstr ""
+
+msgid "Wrong password."
+msgstr ""
+
+msgid "You can’t add an archive to itself."
+msgstr ""
+
+msgid "You don’t have permission to create an archive in this folder"
+msgstr ""
+
+msgid ""
+"You don’t have the right permissions to extract archives in the folder “%s”"
+msgstr ""
+
+msgid "You don’t have the right permissions to read files from folder “%s”"
+msgstr ""
+
+msgid "You don’t have the right permissions."
+msgstr ""
+
+msgid "You have to specify an archive name."
+msgstr ""
+
+msgid "[read only]"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_About Archive Manager"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Add Files…"
+msgstr ""
+
+msgid "_All files"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Delete Files…"
+msgstr ""
+
+msgid "_Destination folder:"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Encrypt the file list"
+msgstr ""
+
+msgid "_Encrypt the file list too"
+msgstr ""
+
+msgid "_Exclude folders:"
+msgstr ""
+
+msgid "_Extract"
+msgstr ""
+
+msgid "_Extract Files…"
+msgstr ""
+
+msgid "_Extract…"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Filename:"
+msgstr ""
+
+msgid "_Files:"
+msgstr ""
+
+msgid "_Find"
+msgstr ""
+
+msgid "_Follow symbolic links"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keep directory structure"
+msgstr ""
+
+msgid "_Location:"
+msgstr ""
+
+msgid "_New Archive…"
+msgstr ""
+
+msgid "_New file name:"
+msgstr ""
+
+msgid "_New folder name:"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open With…"
+msgstr ""
+
+msgid "_Open the Archive"
+msgstr ""
+
+msgid "_Open…"
+msgstr ""
+
+msgid "_Options"
+msgstr ""
+
+msgid "_Options Name:"
+msgstr ""
+
+msgid "_Other Options"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Rename…"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Search Command"
+msgstr ""
+
+msgid "_Select All"
+msgstr ""
+
+msgid "_Selected files"
+msgstr ""
+
+msgid "_Show the Files"
+msgstr ""
+
+msgid "_Skip"
+msgstr ""
+
+msgid "_Test Integrity"
+msgstr ""
+
+msgid "_Update"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "bzip archives (.tar.bz, .tbz)"
+msgstr ""
+
+msgid "example: *.o; *.bak"
+msgstr ""
+
+msgid "example: *.txt; *.doc"
+msgstr ""
+
+msgid "gzip archives (.tar.gz, .tgz)"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "xz archives (.tar.xz)"
+msgstr ""
+
+msgid "zip archives (.zip)"
+msgstr ""
+
+msgid "zip;tar;extract;unpack;"
+msgstr ""
+
+msgid "— Create and modify an archive"
+msgstr ""
+
+msgid "“%s” created successfully"
+msgstr ""

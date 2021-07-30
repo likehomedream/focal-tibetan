@@ -1,0 +1,962 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: deja-dup\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-04-03 12:00+0000\n"
+"Last-Translator: Kakurady Drakenar <kakurady@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:12+0000\n"
+
+msgid "%1$s on %2$s"
+msgstr ""
+
+msgid "%d day"
+msgid_plural "%d days"
+msgstr[0] ""
+
+msgid "%s on Amazon S3"
+msgstr ""
+
+msgid "%s on Rackspace Cloud Files"
+msgstr ""
+
+msgid "%x %X"
+msgstr ""
+
+msgid "A backup automatically starts every %d day."
+msgid_plural "A backup automatically starts every %d days."
+msgstr[0] ""
+
+msgid "A backup automatically starts every day."
+msgstr ""
+
+msgid "A backup automatically starts every week."
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Amazon S3"
+msgstr ""
+
+msgid "Amazon S3 Access Key ID"
+msgstr ""
+
+msgid ""
+"An optional folder name to store files in. This folder will be created in "
+"the chosen bucket."
+msgstr ""
+
+msgid "AppleTalk"
+msgstr ""
+
+msgid "At least %d day"
+msgid_plural "At least %d days"
+msgstr[0] ""
+
+msgid "At least a year"
+msgstr ""
+
+msgid "At least six months"
+msgstr ""
+
+msgid "Authentication URL"
+msgstr ""
+
+msgid "Available Protocols"
+msgstr ""
+
+msgid "Back Up"
+msgstr ""
+
+msgid "Back Up Now…"
+msgstr ""
+
+msgid "Backing Up…"
+msgstr ""
+
+msgid "Backing up:"
+msgstr ""
+
+msgid "Backing up…"
+msgstr ""
+
+msgid "Backup Failed"
+msgstr ""
+
+msgid "Backup Finished"
+msgstr ""
+
+msgid "Backup Monitor"
+msgstr ""
+
+msgid "Backup completed"
+msgstr ""
+
+msgid "Backup encryption password"
+msgstr ""
+
+msgid "Backup finished"
+msgstr ""
+
+msgid "Backup location"
+msgstr ""
+
+msgid "Backup location ‘%s’ does not exist."
+msgstr ""
+
+msgid "Backup will begin when a network connection becomes available."
+msgstr ""
+
+msgid "Backups"
+msgstr ""
+
+msgid "Bad encryption password."
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Change your backup settings"
+msgstr ""
+
+msgid "Checking for Backups…"
+msgstr ""
+
+msgid "Checking for backups…"
+msgstr ""
+
+msgid "Choose Folder"
+msgstr ""
+
+msgid "Choose destination for restored files"
+msgstr ""
+
+msgid "Choose folders"
+msgstr ""
+
+msgid "Cleaning up…"
+msgstr ""
+
+msgid "Co_ntinue"
+msgstr ""
+
+msgid "Computer name changed"
+msgstr ""
+
+msgid "Confir_m password"
+msgstr ""
+
+msgid "Connect _anonymously"
+msgstr ""
+
+msgid "Connect as u_ser"
+msgstr ""
+
+msgid "Connect to Amazon S3"
+msgstr ""
+
+msgid "Connect to Rackspace Cloud Files"
+msgstr ""
+
+msgid "Connect to Server"
+msgstr ""
+
+msgid ""
+"Could not back up the following files.  Please make sure you are able to "
+"open them."
+msgstr ""
+
+msgid "Could not display %s"
+msgstr ""
+
+msgid ""
+"Could not restore the following files.  Please make sure you are able to "
+"write to them."
+msgstr ""
+
+msgid "Could not restore ‘%s’: File not found in backup"
+msgstr ""
+
+msgid "Could not restore ‘%s’: Not a valid file location"
+msgstr ""
+
+msgid "Could not understand duplicity version ‘%s’."
+msgstr ""
+
+msgid "Could not understand duplicity version."
+msgstr ""
+
+msgid ""
+"Creating a fresh backup to protect against backup corruption.  This will "
+"take longer than normal."
+msgstr ""
+
+msgid "Creating the first backup.  This may take a while."
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Directory does not exist"
+msgstr ""
+
+msgid "Déjà Dup Backup Tool"
+msgstr ""
+
+msgid ""
+"Déjà Dup Backup Tool requires at least version %d.%d.%.2d of duplicity, but "
+"only found version %d.%d.%.2d"
+msgstr ""
+
+msgid ""
+"Déjà Dup is a simple backup tool. It hides the complexity of backing up the "
+"Right Way (encrypted, off-site, and regular) and uses duplicity as the "
+"backend."
+msgstr ""
+
+msgid ""
+"Déjà Dup needs to occasionally make fresh full backups. This is the number "
+"of days to wait between full backups."
+msgstr ""
+
+msgid "E_ncryption password"
+msgstr ""
+
+msgid "Encryption Password Needed"
+msgstr ""
+
+msgid "Error reading file ‘%s’."
+msgstr ""
+
+msgid "Error writing file ‘%s’."
+msgstr ""
+
+msgid "Failed with an unknown error."
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File to restore"
+msgid_plural "Files to restore"
+msgstr[0] ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Folders to ignore"
+msgstr ""
+
+msgid "Folders to save"
+msgstr ""
+
+msgid "Forever"
+msgstr ""
+
+msgid "Google Cloud Storage"
+msgstr ""
+
+msgid "Google Cloud Storage Access Key ID"
+msgstr ""
+
+msgid "Google Drive"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Home (%s)"
+msgstr ""
+
+msgid "How long to keep backup files"
+msgstr ""
+
+msgid "How long to wait between full backups"
+msgstr ""
+
+msgid "How often to periodically back up"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Immediately start a backup"
+msgstr ""
+
+msgid ""
+"Important documents, data, and settings can be protected by storing them in "
+"a backup. In the case of a disaster, you would be able to recover them from "
+"that backup."
+msgstr ""
+
+msgid ""
+"In order to check that you will be able to retrieve your files in the case "
+"of an emergency, please enter your encryption password again to perform a "
+"brief restore test."
+msgstr ""
+
+msgid ""
+"In order to prevent you from forgetting your passwords, Déjà Dup will "
+"occasionally notify you to confirm the password. This time should be either "
+"‘disabled’ to turn off this check or in ISO 8601 format."
+msgstr ""
+
+msgid "Incrementally backs up, letting you restore from any particular backup"
+msgstr ""
+
+msgid "Install Packages"
+msgstr ""
+
+msgid "Integrates well into your GNOME desktop"
+msgstr ""
+
+msgid "Invalid ID."
+msgstr ""
+
+msgid "Invalid secret key."
+msgstr ""
+
+msgid "Keep your files safe by backing up regularly"
+msgstr ""
+
+msgid "Keep your important documents safe from disaster"
+msgstr ""
+
+msgid "Last backup was %d day ago."
+msgid_plural "Last backup was %d days ago."
+msgstr[0] ""
+
+msgid "Last backup was today."
+msgstr ""
+
+msgid "Last backup was yesterday."
+msgstr ""
+
+msgid "Last seen"
+msgstr ""
+
+msgid "Listing files…"
+msgstr ""
+
+msgid "Local Folder"
+msgstr ""
+
+msgid "Location not available"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Network File System"
+msgstr ""
+
+msgid "Network Locations"
+msgstr ""
+
+msgid "Network Server"
+msgstr ""
+
+msgid "Next backup is %d day from now."
+msgid_plural "Next backup is %d days from now."
+msgstr[0] ""
+
+msgid "Next backup is today."
+msgstr ""
+
+msgid "Next backup is tomorrow."
+msgstr ""
+
+msgid "No backup files found"
+msgstr ""
+
+msgid "No backup scheduled."
+msgstr ""
+
+msgid "No backups to restore"
+msgstr ""
+
+msgid "No directory provided"
+msgstr ""
+
+msgid "No recent backups."
+msgstr ""
+
+msgid "No space left in ‘%s’."
+msgstr ""
+
+msgid "No space left."
+msgstr ""
+
+msgid ""
+"Not all files were successfully backed up.  See dialog for more details."
+msgstr ""
+
+msgid ""
+"Old backups will be deleted earlier if the storage location is low on space."
+msgstr ""
+
+msgid "Only one directory can be shown at once"
+msgstr ""
+
+msgid "OpenStack Swift"
+msgstr ""
+
+msgid "Original location"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "Paused (no network)"
+msgstr ""
+
+msgid "Permission denied"
+msgstr ""
+
+msgid "Permission denied when trying to create ‘%s’."
+msgstr ""
+
+msgid "Permission denied when trying to delete ‘%s’."
+msgstr ""
+
+msgid "Permission denied when trying to read ‘%s’."
+msgstr ""
+
+msgid "Prefix"
+msgstr ""
+
+msgid "Preparing…"
+msgstr ""
+
+msgid "Rackspace Cloud Files"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Require Password?"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Restore Failed"
+msgstr ""
+
+msgid "Restore Finished"
+msgstr ""
+
+msgid "Restore From When?"
+msgstr ""
+
+msgid "Restore From Where?"
+msgstr ""
+
+msgid "Restore Missing Files…"
+msgstr ""
+
+msgid "Restore Test"
+msgstr ""
+
+msgid "Restore _folder"
+msgstr ""
+
+msgid "Restore date"
+msgstr ""
+
+msgid "Restore deleted files"
+msgstr ""
+
+msgid "Restore deleted files from backup"
+msgstr ""
+
+msgid "Restore file from backup"
+msgid_plural "Restore files from backup"
+msgstr[0] ""
+
+msgid "Restore files to _original locations"
+msgstr ""
+
+msgid "Restore folder"
+msgstr ""
+
+msgid "Restore given files"
+msgstr ""
+
+msgid "Restore to Where?"
+msgstr ""
+
+msgid "Restore to _specific folder"
+msgstr ""
+
+msgid "Restore which Files?"
+msgstr ""
+
+msgid "Restore…"
+msgstr ""
+
+msgid "Restoring files…"
+msgstr ""
+
+msgid "Restoring:"
+msgstr ""
+
+msgid "Restoring…"
+msgstr ""
+
+msgid "Revert to Previous Version…"
+msgid_plural "Revert to Previous Versions…"
+msgstr[0] ""
+
+msgid "S3 Access Key I_D"
+msgstr ""
+
+msgid "S3 bucket name is not available."
+msgstr ""
+
+msgid "S_how API access key"
+msgstr ""
+
+msgid "S_how password"
+msgstr ""
+
+msgid "S_how secret access key"
+msgstr ""
+
+msgid "Samba"
+msgstr ""
+
+msgid "Scanning finished"
+msgstr ""
+
+msgid "Scanning for files from about a month ago…"
+msgid_plural "Scanning for files from about %d months ago…"
+msgstr[0] ""
+
+msgid "Scanning for files from about a year ago…"
+msgid_plural "Scanning for files from about %d years ago…"
+msgstr[0] ""
+
+msgid "Scanning for files from up to a day ago…"
+msgstr ""
+
+msgid "Scanning for files from up to a month ago…"
+msgstr ""
+
+msgid "Scanning for files from up to a week ago…"
+msgstr ""
+
+msgid "Scanning:"
+msgstr ""
+
+msgid "Scanning…"
+msgstr ""
+
+msgid "Scheduled backup delayed"
+msgstr ""
+
+msgid "Schedules regular backups"
+msgstr ""
+
+msgid "Scheduling"
+msgstr ""
+
+msgid "Securely encrypts and compresses your data"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
+
+msgid "Starting scheduled backup"
+msgstr ""
+
+msgid "Storage location"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Test every two _months"
+msgstr ""
+
+msgid "The Amazon S3 bucket name to use"
+msgstr ""
+
+msgid "The Amazon S3 folder"
+msgstr ""
+
+msgid "The Google Cloud Storage bucket name to use"
+msgstr ""
+
+msgid "The Google Cloud Storage folder"
+msgstr ""
+
+msgid "The OpenStack Swift container"
+msgstr ""
+
+msgid "The Rackspace Cloud Files container"
+msgstr ""
+
+msgid ""
+"The existing backup is of a computer named %s, but the current computer’s "
+"name is %s.  If this is unexpected, you should back up to a different "
+"location."
+msgstr ""
+
+msgid "The folder where backups are stored"
+msgstr ""
+
+msgid "The last time Déjà Dup backed up"
+msgstr ""
+
+msgid ""
+"The last time Déjà Dup checked whether it should prompt about backing up"
+msgstr ""
+
+msgid ""
+"The last time Déjà Dup checked whether it should prompt about your password"
+msgstr ""
+
+msgid "The last time Déjà Dup restored"
+msgstr ""
+
+msgid ""
+"The last time Déjà Dup successfully completed a backup. This time should be "
+"in ISO 8601 format."
+msgstr ""
+
+msgid ""
+"The last time Déjà Dup successfully completed a restore. This time should be"
+" in ISO 8601 format."
+msgstr ""
+
+msgid "The last time Déjà Dup was run"
+msgstr ""
+
+msgid ""
+"The last time Déjà Dup was successfully run. This time should be in ISO 8601"
+" format."
+msgstr ""
+
+msgid "The number of days between backups."
+msgstr ""
+
+msgid ""
+"The number of days to keep backup files on the backup location. A value of 0"
+" means forever. This is a minimum number of days; the files may be kept "
+"longer."
+msgstr ""
+
+msgid ""
+"The type of backup location. If ‘auto’, a default will be chosen based on "
+"what is available."
+msgstr ""
+
+msgid ""
+"This is the Authentication URL, or keystone URL for the OpenStack service"
+msgstr ""
+
+msgid "This is your tenant for the OpenStack Swift service."
+msgstr ""
+
+msgid "This is your username for the OpenStack Swift service."
+msgstr ""
+
+msgid "This is your username for the Rackspace Cloud Files service."
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Type of location to store backup"
+msgstr ""
+
+msgid "UUID"
+msgstr ""
+
+msgid "Uploading…"
+msgstr ""
+
+msgid "Verifying backup…"
+msgstr ""
+
+msgid "Waiting for a network connection…"
+msgstr ""
+
+msgid "Waiting for ‘%s’ to become connected…"
+msgstr ""
+
+msgid "WebDAV"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid ""
+"When a user logs in, the Déjà Dup monitor checks whether it should prompt "
+"about backing up. This is used to increase discoverability for users that "
+"don’t know about backups. This time should be either ‘disabled’ to turn off "
+"this check or in ISO 8601 format."
+msgstr ""
+
+msgid "Whether to automatically back up on a regular schedule."
+msgstr ""
+
+msgid "Whether to periodically back up"
+msgstr ""
+
+msgid "Whether to request the root password"
+msgstr ""
+
+msgid ""
+"Whether to request the root password when backing up from or restoring to "
+"system folders."
+msgstr ""
+
+msgid ""
+"Which Amazon S3 bucket to store files in. This does not need to exist "
+"already. Only legal hostname strings are valid."
+msgstr ""
+
+msgid ""
+"Which Google Cloud Storage bucket to store files in. This does not need to "
+"exist already. Only legal hostname strings are valid."
+msgstr ""
+
+msgid ""
+"Which OpenStack Swift container to store files in. This does not need to "
+"exist already. Only legal hostname strings are valid."
+msgstr ""
+
+msgid ""
+"Which Rackspace Cloud Files container to store files in. This does not need "
+"to exist already. Only legal hostname strings are valid."
+msgstr ""
+
+msgid ""
+"You can sign up for a Rackspace Cloud Files account <a "
+"href=\"%s\">online</a>."
+msgstr ""
+
+msgid "You can sign up for an Amazon S3 account <a href=\"%s\">online</a>."
+msgstr ""
+
+msgid "You may use the %s button to browse for existing backups."
+msgstr ""
+
+msgid "You must provide a directory, not a file"
+msgstr ""
+
+msgid ""
+"You should <a href=''>enable</a> automatic backups or use the %s button to "
+"start one now."
+msgstr ""
+
+msgid ""
+"You will need your password to restore your files. You might want to write "
+"it down."
+msgstr ""
+
+msgid "Your Amazon S3 Access Key Identifier. This acts as your S3 username."
+msgstr ""
+
+msgid "Your Amazon Web Services account is not signed up for the S3 service."
+msgstr ""
+
+msgid ""
+"Your Google Cloud Storage Access Key Identifier. This acts as your Google "
+"Cloud Storage username."
+msgstr ""
+
+msgid "Your OpenStack tenant"
+msgstr ""
+
+msgid "Your OpenStack username"
+msgstr ""
+
+msgid "Your Rackspace username"
+msgstr ""
+
+msgid ""
+"Your backup appears to be corrupted.  You should delete the backup and try "
+"again."
+msgstr ""
+
+msgid "Your file was successfully restored."
+msgid_plural "Your files were successfully restored."
+msgstr[0] ""
+
+msgid "Your files were successfully backed up and tested."
+msgstr ""
+
+msgid "Your files were successfully restored."
+msgstr ""
+
+msgid "_API access key"
+msgstr ""
+
+msgid "_Access key ID"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Allow restoring without a password"
+msgstr ""
+
+msgid "_Automatic backup"
+msgstr ""
+
+msgid "_Back"
+msgstr ""
+
+msgid "_Back Up Now…"
+msgstr ""
+
+msgid "_Backup location"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Choose Folder…"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Container"
+msgstr ""
+
+msgid "_Date"
+msgstr ""
+
+msgid "_Details"
+msgstr ""
+
+msgid "_Domain"
+msgstr ""
+
+msgid "_Don't Show Again"
+msgstr ""
+
+msgid "_Every"
+msgstr ""
+
+msgid "_Folder"
+msgstr ""
+
+msgid "_Forward"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Network Location"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open Backup Settings"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Password-protect your backup"
+msgstr ""
+
+msgid "_Remember API access key"
+msgstr ""
+
+msgid "_Remember password"
+msgstr ""
+
+msgid "_Remember secret access key"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Restore"
+msgstr ""
+
+msgid "_Restore…"
+msgstr ""
+
+msgid "_Resume Later"
+msgstr ""
+
+msgid "_Secret access key"
+msgstr ""
+
+msgid "_Show password"
+msgstr ""
+
+msgid "_Storage location"
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgctxt "back up is verb"
+msgid "Back Up"
+msgstr ""
+
+msgctxt "back up is verb"
+msgid "_Back Up"
+msgstr ""
+
+msgid "dav:// or davs://"
+msgstr ""
+
+msgid "déjà;deja;dup;"
+msgstr ""
+
+msgid "ftp:// or ftps://"
+msgstr ""
+
+msgid "sftp:// or ssh://"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgid "smb://"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgctxt "verb"
+msgid "_Install"
+msgstr ""
+
+msgctxt "verb"
+msgid "_Keep"
+msgstr ""
+
+msgctxt "verb"
+msgid "_Test"
+msgstr ""

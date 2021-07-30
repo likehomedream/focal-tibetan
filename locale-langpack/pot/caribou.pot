@@ -1,0 +1,188 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: caribou master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=caribou&keywords=I18N+L10N&component=default\n"
+"PO-Revision-Date: 2018-02-23 10:46+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:46+0000\n"
+
+msgid "- accessibility event monitoring daemon for screen keyboard"
+msgstr ""
+
+msgid "Alt Gr"
+msgstr ""
+
+msgid "Antler"
+msgstr ""
+
+msgid "Antler Preferences"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Auto-restart scanning"
+msgstr ""
+
+msgid "Automatically restart scanning after item activation"
+msgstr ""
+
+msgid "Button 1"
+msgstr ""
+
+msgid "Button 2"
+msgstr ""
+
+msgid "Button 3"
+msgstr ""
+
+msgid "Caribou"
+msgstr ""
+
+msgid "Caribou Preferences"
+msgstr ""
+
+msgid "Enable scanning"
+msgstr ""
+
+msgid "Enable switch scanning"
+msgstr ""
+
+msgid "Five"
+msgstr ""
+
+msgid "Four"
+msgstr ""
+
+msgid "Full scale"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "Inverse scanning"
+msgstr ""
+
+msgid "Key to use with scanning mode"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Keyboard Type"
+msgstr ""
+
+msgid "Left shift"
+msgstr ""
+
+msgid "Linear"
+msgstr ""
+
+msgid "Maximal opacity of keyboard"
+msgstr ""
+
+msgid "Maximum Alpha"
+msgstr ""
+
+msgid "Maximum Distance"
+msgstr ""
+
+msgid "Maximum distance when keyboard is hidden"
+msgstr ""
+
+msgid "Minimal opacity of keyboard"
+msgstr ""
+
+msgid "Minimum Alpha"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Mouse button to use in the scanning mode"
+msgstr ""
+
+msgid "Num lock"
+msgstr ""
+
+msgid "One"
+msgstr ""
+
+msgid "Right shift"
+msgstr ""
+
+msgid "Rows"
+msgstr ""
+
+msgid "Scan"
+msgstr ""
+
+msgid "Scan cycles"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Scanning mode"
+msgstr ""
+
+msgid "Scanning type, subgroups, rows or linear"
+msgstr ""
+
+msgid "Space"
+msgstr ""
+
+msgid "Step time"
+msgstr ""
+
+msgid "Step with the switch, activate by dwelling"
+msgstr ""
+
+msgid "Subgroups"
+msgstr ""
+
+msgid "Switch button"
+msgstr ""
+
+msgid "Switch device"
+msgstr ""
+
+msgid "Switch device, keyboard or mouse"
+msgstr ""
+
+msgid "Switch key"
+msgstr ""
+
+msgid "The keyboard geometry Caribou should use"
+msgstr ""
+
+msgid ""
+"The keyboard geometry determines the shape and complexity of the keyboard, "
+"it could range from a 'natural' look and feel good for composing simple "
+"text, to a fullscale keyboard."
+msgstr ""
+
+msgid "Three"
+msgstr ""
+
+msgid "Time between key transitions"
+msgstr ""
+
+msgid "Touch"
+msgstr ""
+
+msgid "Two"
+msgstr ""
+
+msgid "Use System Theme"
+msgstr ""

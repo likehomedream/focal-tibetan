@@ -1,0 +1,566 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nmap\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-05-31 17:10+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:46+0000\n"
+
+msgid "# scanned ports:"
+msgstr ""
+
+msgid ""
+"%s is a free and open source utility for network exploration and security "
+"auditing."
+msgstr ""
+
+msgid "<undefined>"
+msgstr ""
+
+msgid ""
+"A required module was not found.\n"
+"\n"
+msgstr ""
+
+msgid "About %s"
+msgstr ""
+
+msgid "About %s and %s"
+msgstr ""
+
+msgid "Accuracy"
+msgstr ""
+
+msgid "Accuracy:"
+msgstr ""
+
+msgid "Addresses"
+msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "Append"
+msgstr ""
+
+msgid ""
+"Begin with the specified profile selected. If combined with the -t "
+"(--target) option, automatically run the profile against the specified "
+"target."
+msgstr ""
+
+msgid ""
+"Can't open file to write.\n"
+"%s"
+msgstr ""
+
+msgid "Can't save file"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot open selected file"
+msgstr ""
+
+msgid "Choose file"
+msgstr ""
+
+msgid "Class:"
+msgstr ""
+
+msgid "Close Window"
+msgstr ""
+
+msgid "Close anyway"
+msgstr ""
+
+msgid "Closed ports:"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Command Info"
+msgstr ""
+
+msgid "Command:"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Compare Results"
+msgstr ""
+
+msgid "Compare Scan Results using Diffies"
+msgstr ""
+
+msgid "Contributors"
+msgstr ""
+
+msgid "Controls"
+msgstr ""
+
+msgid "Count"
+msgstr ""
+
+msgid "Crash Report"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Debug level:"
+msgstr ""
+
+msgid "Deleting Profile"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Design"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Difficulty:"
+msgstr ""
+
+msgid "Edit selected scan profile"
+msgstr ""
+
+msgid "Error executing command"
+msgstr ""
+
+msgid "Error loading file"
+msgstr ""
+
+msgid "Error parsing file"
+msgstr ""
+
+msgid "Error parsing the configuration file"
+msgstr ""
+
+msgid "Expressions "
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Filtered ports:"
+msgstr ""
+
+msgid "Fingerprint"
+msgstr ""
+
+msgid "Finished on:"
+msgstr ""
+
+msgid "Fisheye"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "General Info"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Highlight definitions"
+msgstr ""
+
+msgid "Host"
+msgstr ""
+
+msgid "Host Details"
+msgstr ""
+
+msgid "Host Status"
+msgstr ""
+
+msgid "Hostname"
+msgstr ""
+
+msgid "Hostnames"
+msgstr ""
+
+msgid "Hosts"
+msgstr ""
+
+msgid "Hosts down:"
+msgstr ""
+
+msgid "Hosts scanned:"
+msgstr ""
+
+msgid "Hosts up:"
+msgstr ""
+
+msgid "Hosts viewer"
+msgstr ""
+
+msgid "How to Report a Bug"
+msgstr ""
+
+msgid "IP ID Sequence"
+msgstr ""
+
+msgid "IPv4:"
+msgstr ""
+
+msgid "IPv6:"
+msgstr ""
+
+msgid "Import error"
+msgstr ""
+
+msgid ""
+"Increase verbosity of the output. May be used more than once to get even "
+"more verbosity"
+msgstr ""
+
+msgid "Index:"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Last boot:"
+msgstr ""
+
+msgid "MAC:"
+msgstr ""
+
+msgid "Maemo"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name - Type:"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Nmap Output"
+msgstr ""
+
+msgid "Nmap Output Properties"
+msgstr ""
+
+msgid "Nmap Version:"
+msgstr ""
+
+msgid "No host selected."
+msgstr ""
+
+msgid "No module named dbapi2.pysqlite2 or sqlite3"
+msgstr ""
+
+msgid "No search method selected!"
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Not available"
+msgstr ""
+
+msgid "Nothing to save"
+msgstr ""
+
+msgid "OS"
+msgstr ""
+
+msgid "OS Family"
+msgstr ""
+
+msgid "OS Generation"
+msgstr ""
+
+msgid "Open ports:"
+msgstr ""
+
+msgid "Open the results of a previous scan"
+msgstr ""
+
+msgid "Operating System"
+msgstr ""
+
+msgid "Parse error"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Port-Protocol-State:"
+msgstr ""
+
+msgid "Ports / Hosts"
+msgstr ""
+
+msgid "Ports used"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Profile Editor"
+msgstr ""
+
+msgid "Profile Information"
+msgstr ""
+
+msgid "Profile name"
+msgstr ""
+
+msgid "Profile:"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Protocol:"
+msgstr ""
+
+msgid "Python 2.4 or later is required."
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Quit the application"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Report a bug"
+msgstr ""
+
+msgid "Run %s with the specified args."
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Save Scan"
+msgstr ""
+
+msgid "Save current scan results"
+msgstr ""
+
+msgid "Sc_an"
+msgstr ""
+
+msgid "Scan"
+msgstr ""
+
+msgid "Scan Info"
+msgstr ""
+
+msgid "Scan is running"
+msgstr ""
+
+msgid "Scan type:"
+msgstr ""
+
+msgid "Scanned ports:"
+msgstr ""
+
+msgid "Search Scan Results"
+msgstr ""
+
+msgid "Search for a scan result"
+msgstr ""
+
+msgid "Search:"
+msgstr ""
+
+msgid "Select Scan Result"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Services:"
+msgstr ""
+
+msgid "Shows the application help"
+msgstr ""
+
+msgid "SoC 2007"
+msgstr ""
+
+msgid ""
+"Specify a target to be used along with other options. If specified alone, "
+"open with the target field filled with the specified target"
+msgstr ""
+
+msgid "Started on:"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "State:"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "TCP Sequence"
+msgstr ""
+
+msgid "TCP TS Sequence"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Target:"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid ""
+"The given scan has unsaved changes.\n"
+"What do you want to do?"
+msgstr ""
+
+msgid "Topology"
+msgstr ""
+
+msgid "Translation"
+msgstr ""
+
+msgid "Trying to close"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown Host"
+msgstr ""
+
+msgid "Unknown version"
+msgstr ""
+
+msgid "Unnamed profile"
+msgstr ""
+
+msgid "Unsaved changes"
+msgstr ""
+
+msgid "Up time:"
+msgstr ""
+
+msgid "Values:"
+msgstr ""
+
+msgid "Vendor"
+msgstr ""
+
+msgid "Vendor:"
+msgstr ""
+
+msgid "Verbosity level:"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Written by"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "You must provide a name for this profile."
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Edit Selected Profile"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_Open Scan"
+msgstr ""
+
+msgid "_Profile"
+msgstr ""
+
+msgid "_Report a bug"
+msgstr ""
+
+msgid "_Save Scan"
+msgstr ""
+
+msgid "_Tools"
+msgstr ""
+
+msgid "closed port"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "details"
+msgstr ""
+
+msgid "filtered port"
+msgstr ""
+
+msgid "highlight color"
+msgstr ""
+
+msgid "hostname"
+msgstr ""
+
+msgid "ip"
+msgstr ""
+
+msgid "open port"
+msgstr ""
+
+msgid "port listing title"
+msgstr ""
+
+msgid "text color"
+msgstr ""
+
+msgid "unknown"
+msgstr ""

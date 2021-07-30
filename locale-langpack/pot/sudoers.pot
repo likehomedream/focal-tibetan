@@ -1,0 +1,1395 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sudoers 1.8.29rc1\n"
+"Report-Msgid-Bugs-To: https://bugzilla.sudo.ws\n"
+"PO-Revision-Date: 2020-04-03 07:37+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:49+0000\n"
+
+msgid "\thost  unmatched"
+msgstr ""
+
+msgid ""
+"\n"
+"Command allowed"
+msgstr ""
+
+msgid ""
+"\n"
+"Command denied"
+msgstr ""
+
+msgid ""
+"\n"
+"Command unmatched"
+msgstr ""
+
+msgid ""
+"\n"
+"LDAP Role: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Options:\n"
+"  -b, --base=dn              the base DN for sudo LDAP queries\n"
+"  -c, --config=conf_file     the path to the configuration file\n"
+"  -d, --defaults=deftypes    only convert Defaults of the specified types\n"
+"  -e, --expand-aliases       expand aliases when converting\n"
+"  -f, --output-format=format set output format: JSON, LDIF or sudoers\n"
+"  -i, --input-format=format  set input format: LDIF or sudoers\n"
+"  -I, --increment=num        amount to increase each sudoOrder by\n"
+"  -h, --help                 display help message and exit\n"
+"  -m, --match=filter         only convert entries that match the filter\n"
+"  -M, --match-local          match filter uses passwd and group databases\n"
+"  -o, --output=output_file   write converted sudoers to output_file\n"
+"  -O, --order-start=num      starting point for first sudoOrder\n"
+"  -p, --prune-matches        prune non-matching users, groups and hosts\n"
+"  -P, --padding=num          base padding for sudoOrder increment\n"
+"  -s, --suppress=sections    suppress output of certain sections\n"
+"  -V, --version              display version information and exit"
+msgstr ""
+
+msgid ""
+"\n"
+"Options:\n"
+"  -c, --check              check-only mode\n"
+"  -f, --file=sudoers       specify sudoers file location\n"
+"  -h, --help               display help message and exit\n"
+"  -q, --quiet              less verbose (quiet) syntax error messages\n"
+"  -s, --strict             strict syntax checking\n"
+"  -V, --version            display version information and exit\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Options:\n"
+"  -d, --directory=dir    specify directory for session logs\n"
+"  -f, --filter=filter    specify which I/O type(s) to display\n"
+"  -h, --help             display help message and exit\n"
+"  -l, --list             list available session IDs, with optional expression\n"
+"  -m, --max-wait=num     max number of seconds to wait between events\n"
+"  -n, --non-interactive  no prompts, session is sent to the standard output\n"
+"  -R, --no-resize        do not attempt to re-size the terminal\n"
+"  -S, --suspend-wait     wait while the command was suspended\n"
+"  -s, --speed=num        speed up or slow down output\n"
+"  -V, --version          display version information and exit"
+msgstr ""
+
+msgid ""
+"\n"
+"Sudoers entry:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Sudoers path: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"We trust you have received the usual lecture from the local System\n"
+"Administrator. It usually boils down to these three things:\n"
+"\n"
+"    #1) Respect the privacy of others.\n"
+"    #2) Think before you type.\n"
+"    #3) With great power comes great responsibility.\n"
+"\n"
+msgstr ""
+
+msgid "    Commands:\n"
+msgstr ""
+
+msgid "    Options: "
+msgstr ""
+
+msgid "    RunAsGroups: "
+msgstr ""
+
+msgid "    RunAsUsers: "
+msgstr ""
+
+msgid "%8s : %s"
+msgstr ""
+
+msgid "%8s : (command continued) %s"
+msgstr ""
+
+msgid "%p's password: "
+msgstr ""
+
+msgid ""
+"%s - convert between sudoers file formats\n"
+"\n"
+msgstr ""
+
+msgid ""
+"%s - replay sudo session logs\n"
+"\n"
+msgstr ""
+
+msgid ""
+"%s - safely edit the sudoers file\n"
+"\n"
+msgstr ""
+
+msgid "%s and %s not on the same file system, using mv to rename"
+msgstr ""
+
+msgid "%s busy, try again later"
+msgstr ""
+
+msgid "%s exists but is not a directory (0%o)"
+msgstr ""
+
+msgid "%s grammar version %d\n"
+msgstr ""
+
+msgid "%s is group writable"
+msgstr ""
+
+msgid "%s is not a regular file"
+msgstr ""
+
+msgid "%s is not allowed to run sudo on %s.  This incident will be reported.\n"
+msgstr ""
+
+msgid "%s is not in the sudoers file.  This incident will be reported.\n"
+msgstr ""
+
+msgid "%s is owned by gid %u, should be %u"
+msgstr ""
+
+msgid "%s is owned by uid %u, should be %u"
+msgstr ""
+
+msgid "%s is world writable"
+msgstr ""
+
+msgid "%s must be owned by uid %d"
+msgstr ""
+
+msgid "%s must only be writable by owner"
+msgstr ""
+
+msgid "%s requires an argument"
+msgstr ""
+
+msgid "%s unchanged"
+msgstr ""
+
+msgid "%s version %s\n"
+msgstr ""
+
+msgid "%s/%.2s/%.2s/%.2s/timing: %s"
+msgstr ""
+
+msgid "%s/%s/timing: %s"
+msgstr ""
+
+msgid "%s/timing: %s"
+msgstr ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid "%s: %s: %s: %s"
+msgstr ""
+
+msgid "%s: Cannot verify TGT! Possible attack!: %s"
+msgstr ""
+
+msgid "%s: bad permissions, should be mode 0%o\n"
+msgstr ""
+
+msgid "%s: command not found"
+msgstr ""
+
+msgid "%s: incompatible group plugin major version %d, expected %d"
+msgstr ""
+
+msgid "%s: input and output files must be different"
+msgstr ""
+
+msgid "%s: internal error, I/O log file for event %d not open"
+msgstr ""
+
+msgid "%s: internal error, invalid signal %d"
+msgstr ""
+
+msgid "%s: invalid Defaults type 0x%x for option \"%s\""
+msgstr ""
+
+msgid "%s: invalid log file"
+msgstr ""
+
+msgid "%s: no value specified for \"%s\""
+msgstr ""
+
+msgid "%s: option \"%s\" does not take a value"
+msgstr ""
+
+msgid "%s: parsed OK\n"
+msgstr ""
+
+msgid "%s: read error"
+msgstr ""
+
+msgid "%s: runas group field is missing"
+msgstr ""
+
+msgid "%s: runas user field is missing"
+msgstr ""
+
+msgid "%s: time stamp %s: %s"
+msgstr ""
+
+msgid "%s: time stamp field is missing"
+msgstr ""
+
+msgid "%s: unable to allocate options: %s"
+msgstr ""
+
+msgid "%s: unable to convert principal to string ('%s'): %s"
+msgstr ""
+
+msgid "%s: unable to get credentials: %s"
+msgstr ""
+
+msgid "%s: unable to get host principal: %s"
+msgstr ""
+
+msgid "%s: unable to initialize credential cache: %s"
+msgstr ""
+
+msgid "%s: unable to parse '%s': %s"
+msgstr ""
+
+msgid "%s: unable to resolve credential cache: %s"
+msgstr ""
+
+msgid "%s: unable to store credential in cache: %s"
+msgstr ""
+
+msgid "%s: unknown defaults entry \"%s\""
+msgstr ""
+
+msgid "%s: unknown key word: %s"
+msgstr ""
+
+msgid "%s: user field is missing"
+msgstr ""
+
+msgid "%s: value \"%s\" is invalid for option \"%s\""
+msgstr ""
+
+msgid "%s: values for \"%s\" must start with a '/'"
+msgstr ""
+
+msgid "%s: wrong owner (uid, gid) should be (%u, %u)\n"
+msgstr ""
+
+msgid "%s:%d invalid Defaults type 0x%x for option \"%s\""
+msgstr ""
+
+msgid "%s:%d no value specified for \"%s\""
+msgstr ""
+
+msgid "%s:%d option \"%s\" does not take a value"
+msgstr ""
+
+msgid "%s:%d unknown defaults entry \"%s\""
+msgstr ""
+
+msgid "%s:%d value \"%s\" is invalid for option \"%s\""
+msgstr ""
+
+msgid "%s:%d values for \"%s\" must start with a '/'"
+msgstr ""
+
+msgid "%u incorrect password attempt"
+msgid_plural "%u incorrect password attempts"
+msgstr[0] ""
+
+msgid "*** SECURITY information for %h ***"
+msgstr ""
+
+msgid ""
+"Account expired or PAM config lacks an \"account\" section for sudo, contact"
+" your system administrator"
+msgstr ""
+
+msgid "Account or password is expired, reset your password and try again"
+msgstr ""
+
+msgid "Add an entry to the utmp/utmpx file when allocating a pty"
+msgstr ""
+
+msgid "Address to send mail from: %s"
+msgstr ""
+
+msgid "Address to send mail to: %s"
+msgstr ""
+
+msgid "Alias \"%s\" already defined"
+msgstr ""
+
+msgid "Allow commands to be run even if sudo cannot write to the I/O log"
+msgstr ""
+
+msgid "Allow commands to be run even if sudo cannot write to the audit log"
+msgstr ""
+
+msgid "Allow commands to be run even if sudo cannot write to the log file"
+msgstr ""
+
+msgid "Allow some information gathering to give useful error messages"
+msgstr ""
+
+msgid "Allow sudo to prompt for a password even if it would be visible"
+msgstr ""
+
+msgid "Allow the user to specify a timeout on the command line"
+msgstr ""
+
+msgid "Allow users to set arbitrary environment variables"
+msgstr ""
+
+msgid "Always run commands in a pseudo-tty"
+msgstr ""
+
+msgid "Always send mail when sudo is run"
+msgstr ""
+
+msgid "Always set $HOME to the target user's home directory"
+msgstr ""
+
+msgid "Apply defaults in the target user's login class if there is one"
+msgstr ""
+
+msgid "Attempt to establish PAM credentials for the target user"
+msgstr ""
+
+msgid "Authentication failure message: %s"
+msgstr ""
+
+msgid "Authentication methods:"
+msgstr ""
+
+msgid "Authentication timestamp timeout: %.1f minutes"
+msgstr ""
+
+msgid ""
+"Check parent directories for writability when editing files with sudoedit"
+msgstr ""
+
+msgid "Compress I/O logs using zlib"
+msgstr ""
+
+msgid "Could not determine audit condition"
+msgstr ""
+
+msgid "Create a new PAM session for the command to run in"
+msgstr ""
+
+msgid "Default password prompt: %s"
+msgstr ""
+
+msgid "Default user to run commands as: %s"
+msgstr ""
+
+msgid "Directory in which to store input/output logs: %s"
+msgstr ""
+
+msgid "Don't initialize the group vector to that of the target user"
+msgstr ""
+
+msgid "Edit anyway? [y/N]"
+msgstr ""
+
+msgid "Enable sudoers netgroup support"
+msgstr ""
+
+msgid "Environment variables to check for sanity:"
+msgstr ""
+
+msgid "Environment variables to preserve:"
+msgstr ""
+
+msgid "Environment variables to remove:"
+msgstr ""
+
+msgid "Error: %s:%d %s \"%s\" referenced but not defined"
+msgstr ""
+
+msgid "Error: %s:%d cycle in %s \"%s\""
+msgstr ""
+
+msgid "Execute commands by file descriptor instead of by path: %s"
+msgstr ""
+
+msgid "File containing the sudo lecture: %s"
+msgstr ""
+
+msgid "File descriptors >= %d will be closed before executing a command"
+msgstr ""
+
+msgid "File in which to store the input/output log: %s"
+msgstr ""
+
+msgid "File mode to use for the I/O log files: 0%o"
+msgstr ""
+
+msgid "Flags for mail program: %s"
+msgstr ""
+
+msgid "Flush I/O log data to disk immediately instead of buffering it"
+msgstr ""
+
+msgid "Follow symbolic links when editing files with sudoedit"
+msgstr ""
+
+msgid "Group that will own the I/O log files: %s"
+msgstr ""
+
+msgid "If LDAP directory is up, do we ignore local sudoers file"
+msgstr ""
+
+msgid "If set, passprompt will override system prompt in all cases."
+msgstr ""
+
+msgid "If set, users may override the value of `closefrom' with the -C option"
+msgstr ""
+
+msgid "If sudo is invoked with no arguments, start a shell"
+msgstr ""
+
+msgid "Ignore '.' in $PATH"
+msgstr ""
+
+msgid "Ignore case when matching group names"
+msgstr ""
+
+msgid "Ignore case when matching user names"
+msgstr ""
+
+msgid ""
+"Ignore unknown Defaults entries in sudoers instead of producing a warning"
+msgstr ""
+
+msgid "Include the process ID when logging via syslog"
+msgstr ""
+
+msgid "Incorrect password message: %s"
+msgstr ""
+
+msgid "Insult the user when they enter an incorrect password"
+msgstr ""
+
+msgid ""
+"Invalid authentication methods compiled into sudo!  You may not mix "
+"standalone and non-standalone authentication."
+msgstr ""
+
+msgid "Lecture user the first time they run sudo"
+msgstr ""
+
+msgid "Length at which to wrap log file lines (0 for no wrap): %u"
+msgstr ""
+
+msgid "Local IP address and netmask pairs:\n"
+msgstr ""
+
+msgid "Locale to use while parsing sudoers: %s"
+msgstr ""
+
+msgid ""
+"Log entries larger than this value will be split into multiple syslog "
+"messages: %u"
+msgstr ""
+
+msgid "Log geometry is %d x %d, your terminal's geometry is %d x %d."
+msgstr ""
+
+msgid "Log the hostname in the (non-syslog) log file"
+msgstr ""
+
+msgid "Log the output of the command being run"
+msgstr ""
+
+msgid "Log the year in the (non-syslog) log file"
+msgstr ""
+
+msgid "Log user's input for the command being run"
+msgstr ""
+
+msgid "Log when a command is allowed by sudoers"
+msgstr ""
+
+msgid "Log when a command is denied by sudoers"
+msgstr ""
+
+msgid "Match netgroups based on the entire tuple: user, host and domain"
+msgstr ""
+
+msgid "Matching Defaults entries for %s on %s:\n"
+msgstr ""
+
+msgid "Maximum I/O log sequence number: %u"
+msgstr ""
+
+msgid "No user or host"
+msgstr ""
+
+msgid "Number of tries to enter a password: %u"
+msgstr ""
+
+msgid "Only allow the user to run sudo if they have a tty"
+msgstr ""
+
+msgid "Only set the effective uid to the target user, not the real uid"
+msgstr ""
+
+msgid ""
+"Options are:\n"
+"  (e)dit sudoers file again\n"
+"  e(x)it without saving changes to sudoers file\n"
+"  (Q)uit and save changes to sudoers file (DANGER!)\n"
+msgstr ""
+
+msgid "Owner of the authentication timestamp dir: %s"
+msgstr ""
+
+msgid "PAM account management error: %s"
+msgstr ""
+
+msgid "PAM authentication error: %s"
+msgstr ""
+
+msgid "PAM service name to use for login shells: %s"
+msgstr ""
+
+msgid "PAM service name to use: %s"
+msgstr ""
+
+msgid "Password expired, contact your system administrator"
+msgstr ""
+
+msgid "Password prompt timeout: %.1f minutes"
+msgstr ""
+
+msgid "Password: "
+msgstr ""
+
+msgid "Path to authentication timestamp dir: %s"
+msgstr ""
+
+msgid "Path to lecture status dir: %s"
+msgstr ""
+
+msgid "Path to log file: %s"
+msgstr ""
+
+msgid "Path to mail program: %s"
+msgstr ""
+
+msgid "Path to the editor for use by visudo: %s"
+msgstr ""
+
+msgid "Path to the restricted sudo-specific environment file: %s"
+msgstr ""
+
+msgid "Path to the sudo-specific environment file: %s"
+msgstr ""
+
+msgid "Perform PAM account validation management"
+msgstr ""
+
+msgid "Plugin for non-Unix group support: %s"
+msgstr ""
+
+msgid "Preload the dummy exec functions contained in the sudo_noexec library"
+msgstr ""
+
+msgid "Prompt for root's password, not the users's"
+msgstr ""
+
+msgid "Prompt for the runas_default user's password, not the users's"
+msgstr ""
+
+msgid "Prompt for the target user's password, not the users's"
+msgstr ""
+
+msgid ""
+"Provide visual feedback at the password prompt when there is user input"
+msgstr ""
+
+msgid "Put OTP prompt on its own line"
+msgstr ""
+
+msgid "Query the group plugin for unknown system groups"
+msgstr ""
+
+msgid "Replay finished, press any key to restore the terminal."
+msgstr ""
+
+msgid "Replaying sudo session: %s"
+msgstr ""
+
+msgid "Require fully-qualified hostnames in the sudoers file"
+msgstr ""
+
+msgid "Require users to authenticate by default"
+msgstr ""
+
+msgid "Reset the environment to a default set of variables"
+msgstr ""
+
+msgid "Resolve groups in sudoers and match on the group ID, not the name"
+msgstr ""
+
+msgid "Root may run sudo"
+msgstr ""
+
+msgid "Run commands on a pty in the background"
+msgstr ""
+
+msgid "Runas and Command-specific defaults for %s:\n"
+msgstr ""
+
+msgid "SELinux role to use in the new security context: %s"
+msgstr ""
+
+msgid "SELinux type to use in the new security context: %s"
+msgstr ""
+
+msgid "SecurID communication failed"
+msgstr ""
+
+msgid "Send mail if the user is not allowed to run a command"
+msgstr ""
+
+msgid "Send mail if the user is not in sudoers"
+msgstr ""
+
+msgid "Send mail if the user is not in sudoers for this host"
+msgstr ""
+
+msgid "Send mail if the user tries to run a command"
+msgstr ""
+
+msgid "Send mail if user authentication fails"
+msgstr ""
+
+msgid "Set $HOME to the target user when starting a shell with -s"
+msgstr ""
+
+msgid "Set of limit privileges: %s"
+msgstr ""
+
+msgid "Set of permitted privileges: %s"
+msgstr ""
+
+msgid "Set the LOGNAME and USER environment variables"
+msgstr ""
+
+msgid "Set the user in utmp to the runas user, not the invoking user"
+msgstr ""
+
+msgid "Sorry, try again."
+msgstr ""
+
+msgid "Sorry, user %s is not allowed to execute '%s%s%s' as %s%s%s on %s.\n"
+msgstr ""
+
+msgid "Sorry, user %s may not run sudo on %s.\n"
+msgstr ""
+
+msgid "Subject line for mail messages: %s"
+msgstr ""
+
+msgid "Sudoers file grammar version %d\n"
+msgstr ""
+
+msgid "Sudoers policy plugin version %s\n"
+msgstr ""
+
+msgid "Syslog facility if syslog is being used for logging: %s"
+msgstr ""
+
+msgid "Syslog priority to use when user authenticates successfully: %s"
+msgstr ""
+
+msgid "Syslog priority to use when user authenticates unsuccessfully: %s"
+msgstr ""
+
+msgid ""
+"The umask specified in sudoers will override the user's, even if it is more "
+"permissive"
+msgstr ""
+
+msgid ""
+"There are no authentication methods compiled into sudo!  If you want to turn"
+" off authentication, use the --disable-authentication configure option."
+msgstr ""
+
+msgid "Time in seconds after which the command will be terminated: %u"
+msgstr ""
+
+msgid "Type of authentication timestamp record: %s"
+msgstr ""
+
+msgid "Umask to use or 0777 to use user's: 0%o"
+msgstr ""
+
+msgid "Unable to initialize authentication methods."
+msgstr ""
+
+msgid "Use a separate timestamp for each user/tty combo"
+msgstr ""
+
+msgid ""
+"Use faster globbing that is less accurate but does not access the filesystem"
+msgstr ""
+
+msgid "User %s is not allowed to run sudo on %s.\n"
+msgstr ""
+
+msgid "User %s may run the following commands on %s:\n"
+msgstr ""
+
+msgid "User ID locked for SecurID Authentication"
+msgstr ""
+
+msgid "User that will own the I/O log files: %s"
+msgstr ""
+
+msgid "Users in this group are exempt from password and PATH requirements: %s"
+msgstr ""
+
+msgid "Value to override user's $PATH with: %s"
+msgstr ""
+
+msgid "Visudo will honor the EDITOR environment variable"
+msgstr ""
+
+msgid "Warning: %s:%d %s \"%s\" referenced but not defined"
+msgstr ""
+
+msgid "Warning: %s:%d cycle in %s \"%s\""
+msgstr ""
+
+msgid "Warning: %s:%d unused %s \"%s\""
+msgstr ""
+
+msgid "Warning: your terminal is too small to properly replay the log.\n"
+msgstr ""
+
+msgid "What now? "
+msgstr ""
+
+msgid "When to require a password for 'list' pseudocommand: %s"
+msgstr ""
+
+msgid "When to require a password for 'verify' pseudocommand: %s"
+msgstr ""
+
+msgid "[sudo] password for %p: "
+msgstr ""
+
+msgid "a digest requires a path name"
+msgstr ""
+
+msgid "a password is required"
+msgstr ""
+
+msgid "account validation failure, is your account locked?"
+msgstr ""
+
+msgid "ambiguous expression \"%s\""
+msgstr ""
+
+msgid "approval failed"
+msgstr ""
+
+msgid "audit_failure message too long"
+msgstr ""
+
+msgid "authentication failure"
+msgstr ""
+
+msgid ""
+"authentication server error:\n"
+"%s"
+msgstr ""
+
+msgid "command failed: '%s %s %s', %s unchanged"
+msgstr ""
+
+msgid "command in current directory"
+msgstr ""
+
+msgid "command not allowed"
+msgstr ""
+
+msgid "command too long"
+msgstr ""
+
+msgid "could not parse date \"%s\""
+msgstr ""
+
+msgid "digest for %s (%s) is not in %s form"
+msgstr ""
+
+msgid "editor (%s) failed, %s unchanged"
+msgstr ""
+
+msgid "error renaming %s, %s unchanged"
+msgstr ""
+
+msgid "failed to initialise the ACE API library"
+msgstr ""
+
+msgid "failed to parse %s file, unknown error"
+msgstr ""
+
+msgid "group-ID not set by sudo front-end"
+msgstr ""
+
+msgid "host name not set by sudo front-end"
+msgstr ""
+
+msgid ""
+"ignoring \"%s\" found in '.'\n"
+"Use \"sudo ./%s\" if this is the \"%s\" you wish to run."
+msgstr ""
+
+msgid "ignoring incomplete sudoRole: cn: %s"
+msgstr ""
+
+msgid "ignoring time stamp from the future"
+msgstr ""
+
+msgid "illegal trailing \"!\""
+msgstr ""
+
+msgid "illegal trailing \"or\""
+msgstr ""
+
+msgid "internal error, %s overflow"
+msgstr ""
+
+msgid "internal error, unable to find %s in list!"
+msgstr ""
+
+msgid "invalid %.*s set by sudo front-end"
+msgstr ""
+
+msgid "invalid Authentication Handle for SecurID"
+msgstr ""
+
+msgid "invalid LDIF attribute: %s"
+msgstr ""
+
+msgid "invalid authentication methods"
+msgstr ""
+
+msgid "invalid authentication type"
+msgstr ""
+
+msgid "invalid defaults type: %s"
+msgstr ""
+
+msgid "invalid filter option: %s"
+msgstr ""
+
+msgid "invalid filter: %s"
+msgstr ""
+
+msgid "invalid max wait: %s"
+msgstr ""
+
+msgid "invalid notafter value"
+msgstr ""
+
+msgid "invalid notbefore value"
+msgstr ""
+
+msgid "invalid passcode length for SecurID"
+msgstr ""
+
+msgid "invalid regular expression: %s"
+msgstr ""
+
+msgid "invalid speed factor: %s"
+msgstr ""
+
+msgid "invalid sudoOrder attribute: %s"
+msgstr ""
+
+msgid "invalid suppression type: %s"
+msgstr ""
+
+msgid "invalid timeout value"
+msgstr ""
+
+msgid "invalid timing file line: %s"
+msgstr ""
+
+msgid "invalid username length for SecurID"
+msgstr ""
+
+msgid "ldap.conf path: %s\n"
+msgstr ""
+
+msgid "ldap.secret path: %s\n"
+msgstr ""
+
+msgid "lecture status path too long: %s/%s"
+msgstr ""
+
+msgid "lost connection to authentication server"
+msgstr ""
+
+msgid "no authentication methods"
+msgstr ""
+
+msgid "no editor found (editor path = %s)"
+msgstr ""
+
+msgid "no tty"
+msgstr ""
+
+msgid "no valid sudoers sources found, quitting"
+msgstr ""
+
+msgid "nsswitch path: %s\n"
+msgstr ""
+
+msgid "only root can use \"-c %s\""
+msgstr ""
+
+msgid "order increment: %s: %s"
+msgstr ""
+
+msgid "order padding: %s: %s"
+msgstr ""
+
+msgid "parse error in %s"
+msgstr ""
+
+msgid "parse error in %s\n"
+msgstr ""
+
+msgid "parse error in %s near line %d"
+msgstr ""
+
+msgid "parse error in %s near line %d\n"
+msgstr ""
+
+msgid "perm stack overflow"
+msgstr ""
+
+msgid "perm stack underflow"
+msgstr ""
+
+msgid "please consider using the cvtsudoers utility instead"
+msgstr ""
+
+msgid "press return to edit %s: "
+msgstr ""
+
+msgid "problem with defaults entries"
+msgstr ""
+
+msgid "sorry, you are not allowed set a command timeout"
+msgstr ""
+
+msgid "sorry, you are not allowed to preserve the environment"
+msgstr ""
+
+msgid ""
+"sorry, you are not allowed to set the following environment variables: %s"
+msgstr ""
+
+msgid "sorry, you must have a tty to run sudo"
+msgstr ""
+
+msgid "specified editor (%s) doesn't exist"
+msgstr ""
+
+msgid ""
+"start_tls specified but LDAP libs do not support ldap_start_tls_s() or "
+"ldap_start_tls_s_np()"
+msgstr ""
+
+msgid "starting order: %s: %s"
+msgstr ""
+
+msgid "starttls not supported when using ldaps"
+msgstr ""
+
+msgid "sudo_ldap_conf_add_ports: port too large"
+msgstr ""
+
+msgid "sudo_putenv: corrupted envp, length mismatch"
+msgstr ""
+
+msgid "sudoers specifies that root is not allowed to sudo"
+msgstr ""
+
+msgid "syntax error"
+msgstr ""
+
+msgid "the -x option will be removed in a future release"
+msgstr ""
+
+msgid ""
+"the SUDOERS_BASE environment variable is not set and the -b option was not "
+"specified."
+msgstr ""
+
+msgid "time stamp too far in the future: %20.20s"
+msgstr ""
+
+msgid "timeout value too large"
+msgstr ""
+
+msgid "timestamp owner (%s): No such user"
+msgstr ""
+
+msgid "too many levels of includes"
+msgstr ""
+
+msgid "too many processes"
+msgstr ""
+
+msgid "too many sudoers entries, maximum %u"
+msgstr ""
+
+msgid "truncated audit path argv[0]: %s"
+msgstr ""
+
+msgid "truncated audit path user_cmnd: %s"
+msgstr ""
+
+msgid "unable to add event to queue"
+msgstr ""
+
+msgid "unable to allocate memory"
+msgstr ""
+
+msgid "unable to begin bsd authentication"
+msgstr ""
+
+msgid "unable to cache gid %u"
+msgstr ""
+
+msgid "unable to cache gid %u, already exists"
+msgstr ""
+
+msgid "unable to cache group %s"
+msgstr ""
+
+msgid "unable to cache group %s, already exists"
+msgstr ""
+
+msgid "unable to cache group list for %s"
+msgstr ""
+
+msgid "unable to cache group list for %s, already exists"
+msgstr ""
+
+msgid "unable to cache uid %u"
+msgstr ""
+
+msgid "unable to cache uid %u, already exists"
+msgstr ""
+
+msgid "unable to cache user %s"
+msgstr ""
+
+msgid "unable to cache user %s, already exists"
+msgstr ""
+
+msgid "unable to change expired password: %s"
+msgstr ""
+
+msgid "unable to change mode of %s to 0%o"
+msgstr ""
+
+msgid "unable to change password for %s"
+msgstr ""
+
+msgid "unable to change to root gid"
+msgstr ""
+
+msgid "unable to change to runas gid"
+msgstr ""
+
+msgid "unable to change to runas uid"
+msgstr ""
+
+msgid "unable to change to sudoers gid"
+msgstr ""
+
+msgid "unable to commit audit record"
+msgstr ""
+
+msgid "unable to connect to authentication server"
+msgstr ""
+
+msgid "unable to contact the SecurID server"
+msgstr ""
+
+msgid "unable to convert sudoOption: %s%s%s"
+msgstr ""
+
+msgid "unable to create %s"
+msgstr ""
+
+msgid "unable to dup stdin: %m"
+msgstr ""
+
+msgid "unable to execute %s"
+msgstr ""
+
+msgid "unable to execute %s: %m"
+msgstr ""
+
+msgid "unable to find symbol \"%s\" in %s"
+msgstr ""
+
+msgid "unable to find symbol \"group_plugin\" in %s"
+msgstr ""
+
+msgid "unable to fork"
+msgstr ""
+
+msgid "unable to fork: %m"
+msgstr ""
+
+msgid "unable to format timestamp"
+msgstr ""
+
+msgid "unable to get GMT time"
+msgstr ""
+
+msgid "unable to get current working directory"
+msgstr ""
+
+msgid "unable to get login class for user %s"
+msgstr ""
+
+msgid "unable to initialize BSD authentication"
+msgstr ""
+
+msgid "unable to initialize LDAP: %s"
+msgstr ""
+
+msgid "unable to initialize PAM: %s"
+msgstr ""
+
+msgid "unable to initialize SIA session"
+msgstr ""
+
+msgid "unable to initialize SSL cert and key db: %s"
+msgstr ""
+
+msgid "unable to initialize SSS source. Is SSSD installed on your machine?"
+msgstr ""
+
+msgid "unable to initialize sudoers default values"
+msgstr ""
+
+msgid "unable to load %s: %s"
+msgstr ""
+
+msgid "unable to lock %s"
+msgstr ""
+
+msgid "unable to lock log file: %s"
+msgstr ""
+
+msgid "unable to lock time stamp file %s"
+msgstr ""
+
+msgid "unable to mix ldap and ldaps URIs"
+msgstr ""
+
+msgid "unable to mkdir %s"
+msgstr ""
+
+msgid "unable to open %s"
+msgstr ""
+
+msgid "unable to open audit system"
+msgstr ""
+
+msgid "unable to open log file: %s"
+msgstr ""
+
+msgid "unable to open pipe: %m"
+msgstr ""
+
+msgid "unable to parse IP address \"%s\""
+msgstr ""
+
+msgid "unable to parse gids for %s"
+msgstr ""
+
+msgid "unable to parse groups for %s"
+msgstr ""
+
+msgid "unable to parse netmask \"%s\""
+msgstr ""
+
+msgid "unable to parse network address list"
+msgstr ""
+
+msgid "unable to re-open temporary file (%s), %s unchanged."
+msgstr ""
+
+msgid "unable to read %s"
+msgstr ""
+
+msgid "unable to read fwtk config"
+msgstr ""
+
+msgid "unable to read the clock"
+msgstr ""
+
+msgid "unable to rebuild the environment"
+msgstr ""
+
+msgid "unable to register hook of type %d (version %d.%d)"
+msgstr ""
+
+msgid "unable to resolve host %s"
+msgstr ""
+
+msgid "unable to run %s"
+msgstr ""
+
+msgid "unable to send audit message"
+msgstr ""
+
+msgid "unable to set (uid, gid) of %s to (%u, %u)"
+msgstr ""
+
+msgid "unable to set runas group vector"
+msgstr ""
+
+msgid "unable to set tty to raw mode"
+msgstr ""
+
+msgid "unable to stat %s"
+msgstr ""
+
+msgid "unable to stat temporary file (%s), %s unchanged"
+msgstr ""
+
+msgid "unable to truncate time stamp file to %lld bytes"
+msgstr ""
+
+msgid "unable to write log file: %s"
+msgstr ""
+
+msgid "unable to write to %s"
+msgstr ""
+
+msgid "unable to write to I/O log file: %s"
+msgstr ""
+
+msgid "unabled to parse temporary file (%s), unknown error"
+msgstr ""
+
+msgid "unknown SecurID error"
+msgstr ""
+
+msgid "unknown defaults entry \"%s\""
+msgstr ""
+
+msgid "unknown group: %s"
+msgstr ""
+
+msgid "unknown login class: %s"
+msgstr ""
+
+msgid "unknown search term \"%s\""
+msgstr ""
+
+msgid "unknown search type %d"
+msgstr ""
+
+msgid "unknown uid: %u"
+msgstr ""
+
+msgid "unknown user: %s"
+msgstr ""
+
+msgid "unmatched '(' in expression"
+msgstr ""
+
+msgid "unmatched ')' in expression"
+msgstr ""
+
+msgid "unsupported LDAP uri type: %s"
+msgstr ""
+
+msgid "unsupported digest type %d for %s"
+msgstr ""
+
+msgid "unsupported input format %s"
+msgstr ""
+
+msgid "unsupported output format %s"
+msgstr ""
+
+msgid "usage: %s [-h] [-d dir] -l [search expression]\n"
+msgstr ""
+
+msgid "usage: %s [-hnRS] [-d dir] [-m num] [-s num] ID\n"
+msgstr ""
+
+msgid "user NOT authorized on host"
+msgstr ""
+
+msgid "user NOT in sudoers"
+msgstr ""
+
+msgid "user name not set by sudo front-end"
+msgstr ""
+
+msgid "user-ID not set by sudo front-end"
+msgstr ""
+
+msgid "validation failure"
+msgstr ""
+
+msgid "write error"
+msgstr ""
+
+msgid "you are not permitted to use the -C option"
+msgstr ""
+
+msgid "you do not exist in the %s database"
+msgstr ""
+
+msgid "you must set TLS_CERT in %s to use SSL"
+msgstr ""
+
+msgid "your account has expired"
+msgstr ""
+
+msgid "zero length temporary file (%s), %s unchanged"
+msgstr ""

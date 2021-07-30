@@ -1,0 +1,372 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Linux-PAM\n"
+"Report-Msgid-Bugs-To: http://sourceforge.net/projects/pam\n"
+"PO-Revision-Date: 2016-03-19 13:46+0000\n"
+"Last-Translator: Christopher Meng <i@cicku.me>\n"
+"Language-Team: Chinese (China) <trans-zh_cn@lists.fedoraproject.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:38+0000\n"
+
+msgid " %a %b %e %H:%M:%S %Z %Y"
+msgstr ""
+
+msgid " from %.*s"
+msgstr ""
+
+msgid " on %.*s"
+msgstr ""
+
+msgid "%s failed: caught signal %d%s"
+msgstr ""
+
+msgid "%s failed: exit code %d"
+msgstr ""
+
+msgid "%s failed: unknown status 0x%x"
+msgstr ""
+
+msgid "%s: Bad number given to --reset=\n"
+msgstr ""
+
+msgid "%s: Can't reset all users to non-zero\n"
+msgstr ""
+
+msgid "%s: Unrecognised option %s\n"
+msgstr ""
+
+msgid "%s: [--file rooted-filename] [--user username] [--reset[=n]] [--quiet]\n"
+msgstr ""
+
+msgid ""
+"%s: [-f rooted-filename] [--file rooted-filename]\n"
+"   [-u username] [--user username]\n"
+"   [-r] [--reset[=n]] [--quiet]\n"
+msgstr ""
+
+msgid "...Sorry, your time is up!\n"
+msgstr ""
+
+msgid "...Time is running out...\n"
+msgstr ""
+
+msgid "Access granted (last access was %ld seconds ago)."
+msgstr ""
+
+msgid "Account locked due to %u failed logins"
+msgstr ""
+
+msgid "Account temporary locked (%ld seconds left)"
+msgstr ""
+
+msgid "Application needs to call libpam again"
+msgstr ""
+
+msgid "Authentication error"
+msgstr ""
+
+msgid "Authentication failure"
+msgstr ""
+
+msgid "Authentication information cannot be recovered"
+msgstr ""
+
+msgid "Authentication service cannot retrieve authentication info"
+msgstr ""
+
+msgid "Authentication service cannot retrieve user credentials"
+msgstr ""
+
+msgid "Authentication token aging disabled"
+msgstr ""
+
+msgid "Authentication token expired"
+msgstr ""
+
+msgid "Authentication token is no longer valid; new one required"
+msgstr ""
+
+msgid "Authentication token lock busy"
+msgstr ""
+
+msgid "Authentication token manipulation error"
+msgstr ""
+
+msgid "BAD PASSWORD: %s"
+msgstr ""
+
+msgid "Bad item passed to pam_*_item()"
+msgstr ""
+
+msgid "Cannot make/remove an entry for the specified session"
+msgstr ""
+
+msgid "Changing STRESS password for %s."
+msgstr ""
+
+msgid "Changing password for %s."
+msgstr ""
+
+msgid "Conversation error"
+msgstr ""
+
+msgid "Conversation is waiting for event"
+msgstr ""
+
+msgid "Creating directory '%s'."
+msgstr ""
+
+msgid "Critical error - immediate abort"
+msgstr ""
+
+msgid "Default Security Context %s\n"
+msgstr ""
+
+msgid "Enter new STRESS password: "
+msgstr ""
+
+msgid "Error in service module"
+msgstr ""
+
+msgid "Failed preliminary check by password service"
+msgstr ""
+
+msgid "Failed to load module"
+msgstr ""
+
+msgid "Failure setting user credentials"
+msgstr ""
+
+msgid "Have exhausted maximum number of retries for service"
+msgstr ""
+
+msgid "Insufficient credentials to access authentication data"
+msgstr ""
+
+msgid "Key Creation Context %s Assigned"
+msgstr ""
+
+msgid "Last failed login:%s%s%s"
+msgstr ""
+
+msgid "Last login:%s%s%s"
+msgstr ""
+
+msgid "Login           Failures Latest failure     From\n"
+msgstr ""
+
+msgid "Memory buffer error"
+msgstr ""
+
+msgid "Module is unknown"
+msgstr ""
+
+msgid "NIS password could not be changed."
+msgstr ""
+
+msgid "New %s%spassword: "
+msgstr ""
+
+msgid "No default type for role %s\n"
+msgstr ""
+
+msgid "No mail."
+msgstr ""
+
+msgid "No module specific data is present"
+msgstr ""
+
+msgid "No password supplied"
+msgstr ""
+
+msgid "Not a valid security context"
+msgstr ""
+
+msgid "Password change aborted."
+msgstr ""
+
+msgid "Password has been already used."
+msgstr ""
+
+msgid "Password has been already used. Choose another."
+msgstr ""
+
+msgid "Password unchanged"
+msgstr ""
+
+msgid "Password: "
+msgstr ""
+
+msgid "Permission denied"
+msgstr ""
+
+msgid "Retype %s"
+msgstr ""
+
+msgid "Retype new %s%spassword: "
+msgstr ""
+
+msgid "Retype new STRESS password: "
+msgstr ""
+
+msgid "Security Context %s Assigned"
+msgstr ""
+
+msgid "Service error"
+msgstr ""
+
+msgid "Sorry, passwords do not match."
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Symbol not found"
+msgstr ""
+
+msgid "System error"
+msgstr ""
+
+msgid "The return value should be ignored by PAM dispatch"
+msgstr ""
+
+msgid "There was %d failed login attempt since the last successful login."
+msgid_plural ""
+"There were %d failed login attempts since the last successful login."
+msgstr[0] ""
+
+msgid "There were %d failed login attempts since the last successful login."
+msgstr ""
+
+msgid "Too many logins for '%s'."
+msgstr ""
+
+msgid "Unable to create and initialize directory '%s'."
+msgstr ""
+
+msgid "Unable to get valid context for %s"
+msgstr ""
+
+msgid "Unknown PAM error"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown user"
+msgstr ""
+
+msgid "User account has expired"
+msgstr ""
+
+msgid "User credentials expired"
+msgstr ""
+
+msgid "User not known to the underlying authentication module"
+msgstr ""
+
+msgid "Verification mis-typed; password unchanged"
+msgstr ""
+
+msgid "Warning: your password will expire in %d day"
+msgid_plural "Warning: your password will expire in %d days"
+msgstr[0] ""
+
+msgid "Warning: your password will expire in %d days"
+msgstr ""
+
+msgid "Welcome to your new account!"
+msgstr ""
+
+msgid "Would you like to enter a different role or level?"
+msgstr ""
+
+msgid "You have mail in folder %s."
+msgstr ""
+
+msgid "You have mail."
+msgstr ""
+
+msgid "You have new mail in folder %s."
+msgstr ""
+
+msgid "You have new mail."
+msgstr ""
+
+msgid "You have no mail in folder %s."
+msgstr ""
+
+msgid "You have old mail in folder %s."
+msgstr ""
+
+msgid "You have old mail."
+msgstr ""
+
+msgid "You must choose a longer password"
+msgstr ""
+
+msgid "You must wait longer to change your password"
+msgstr ""
+
+msgid "Your account has expired; please contact your system administrator"
+msgstr ""
+
+msgid "case changes only"
+msgstr ""
+
+msgid "contains the user name in some form"
+msgstr ""
+
+msgid "contains too long of a monotonic character sequence"
+msgstr ""
+
+msgid "contains too many same characters consecutively"
+msgstr ""
+
+msgid "erroneous conversation (%d)\n"
+msgstr ""
+
+msgid "failed to initialize PAM\n"
+msgstr ""
+
+msgid "failed to pam_set_item()\n"
+msgstr ""
+
+msgid "is a palindrome"
+msgstr ""
+
+msgid "is rotated"
+msgstr ""
+
+msgid "is the same as the old one"
+msgstr ""
+
+msgid "is too similar to the old one"
+msgstr ""
+
+msgid "is too simple"
+msgstr ""
+
+msgid "level:"
+msgstr ""
+
+msgid "login:"
+msgstr ""
+
+msgid "login: failure forking: %m"
+msgstr ""
+
+msgid "memory allocation error"
+msgstr ""
+
+msgid "not enough character classes"
+msgstr ""
+
+msgid "role:"
+msgstr ""

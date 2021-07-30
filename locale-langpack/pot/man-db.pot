@@ -1,0 +1,646 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: man-db 2.9.0-pre1\n"
+"Report-Msgid-Bugs-To: Colin Watson <cjwatson@debian.org>\n"
+"PO-Revision-Date: 2019-11-20 19:35+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:43+0000\n"
+
+msgid ""
+"\n"
+"Updating cat files for section %s of man hierarchy %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"cannot write to %s in catman mode"
+msgstr ""
+
+msgid " Manual page "
+msgstr ""
+
+msgid "%d man subdirectory contained newer manual pages.\n"
+msgid_plural "%d man subdirectories contained newer manual pages.\n"
+msgstr[0] ""
+
+msgid "%d manual page was added.\n"
+msgid_plural "%d manual pages were added.\n"
+msgstr[0] ""
+
+msgid "%d old database entry was purged.\n"
+msgid_plural "%d old database entries were purged.\n"
+msgstr[0] ""
+
+msgid "%d stray cat was added.\n"
+msgid_plural "%d stray cats were added.\n"
+msgstr[0] ""
+
+msgid "%s is self referencing"
+msgstr ""
+
+msgid "%s what?\n"
+msgstr ""
+
+msgid "%s: incompatible options"
+msgstr ""
+
+msgid "%s: nothing appropriate.\n"
+msgstr ""
+
+msgid "%s: relying on whatis refs is deprecated\n"
+msgstr ""
+
+msgid "%s:%d: .so requests nested too deeply or are recursive"
+msgstr ""
+
+msgid "%s:%d: unterminated quote in roff request"
+msgstr ""
+
+msgid "%s:%d: warning: failed .so request"
+msgstr ""
+
+msgid "%s:%d: warning: malformed .lf request, ignoring"
+msgstr ""
+
+msgid "%s:%d: warning: newline in .lf request, ignoring"
+msgstr ""
+
+msgid "%s:%d: warning: newline in .so request, ignoring"
+msgstr ""
+
+msgid "(Alternatively, what manual page do you want from section %s?)\n"
+msgstr ""
+
+msgid "(unknown subject)"
+msgstr ""
+
+msgid "--Man-- next: %s [ view (return) | skip (Ctrl-D) | quit (Ctrl-C) ]\n"
+msgstr ""
+
+msgid "--suffix and --in-place are mutually exclusive"
+msgstr ""
+
+msgid "-t CODE {--suffix SUFFIX | --in-place} FILENAME..."
+msgstr ""
+
+msgid "BROWSER"
+msgstr ""
+
+msgid "CODE"
+msgstr ""
+
+msgid "CODE[:...]"
+msgstr ""
+
+msgid "Can't convert %s to cat name"
+msgstr ""
+
+msgid "Checking for stray cats under %s...\n"
+msgstr ""
+
+msgid "Controlling formatted output:"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "Database %s corrupted; rebuild with mandb --create"
+msgstr ""
+
+msgid "ENCODING"
+msgstr ""
+
+msgid "EXTENSION"
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "FILE..."
+msgstr ""
+
+msgid "FILENAME"
+msgstr ""
+
+msgid "Finding manual pages:"
+msgstr ""
+
+msgid "For example, try 'man man'.\n"
+msgstr ""
+
+msgid "KEYWORD..."
+msgstr ""
+
+msgid "LIST"
+msgstr ""
+
+msgid "LOCALE"
+msgstr ""
+
+msgid "Main modes of operation:"
+msgstr ""
+
+msgid "NULL content for key: %s"
+msgstr ""
+
+msgid "No databases created."
+msgstr ""
+
+msgid "No manual entry for %s\n"
+msgstr ""
+
+msgid "No manual entry for %s in section %s\n"
+msgstr ""
+
+msgid "PAGER"
+msgstr ""
+
+msgid "PATH"
+msgstr ""
+
+msgid "PATH SECTION NAME"
+msgstr ""
+
+msgid "Processing manual pages under %s...\n"
+msgstr ""
+
+msgid "Purging old database entries in %s...\n"
+msgstr ""
+
+msgid "RESOLUTION"
+msgstr ""
+
+msgid "Removing obsolete cat directory %s...\n"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid ""
+"STRING indicates which preprocessors to run:\n"
+"e - [n]eqn, p - pic, t - tbl,\n"
+"g - grap, r - refer, v - vgrind"
+msgstr ""
+
+msgid "SUFFIX"
+msgstr ""
+
+msgid "SYSTEM"
+msgstr ""
+
+msgid "See '%s' for help when manual pages are not available.\n"
+msgstr ""
+
+msgid "The --regex option is enabled by default."
+msgstr ""
+
+msgid "The defaults are --man and --whatis."
+msgstr ""
+
+msgid "The man database defaults to %s%s."
+msgstr ""
+
+msgid "Updating index cache for path `%s/%s'. Wait..."
+msgstr ""
+
+msgid "WARNINGS"
+msgstr ""
+
+msgid "What manual page do you want?\n"
+msgstr ""
+
+msgid "[-f CODE[:...]] -t CODE [FILENAME]"
+msgstr ""
+
+msgid "[MAN DATABASE]"
+msgstr ""
+
+msgid "[MANPATH]"
+msgstr ""
+
+msgid "[SECTION...]"
+msgstr ""
+
+msgid "[SECTION] PAGE..."
+msgstr ""
+
+msgid "bad fetch on multi key %s"
+msgstr ""
+
+msgid "can't change to directory %s"
+msgstr ""
+
+msgid "can't chmod %s"
+msgstr ""
+
+msgid "can't chown %s"
+msgstr ""
+
+msgid "can't create index cache %s"
+msgstr ""
+
+msgid "can't create temporary cat for %s"
+msgstr ""
+
+msgid "can't create temporary directory"
+msgstr ""
+
+msgid "can't determine current directory"
+msgstr ""
+
+msgid "can't lock index cache %s"
+msgstr ""
+
+msgid "can't make sense of the manpath configuration file %s"
+msgstr ""
+
+msgid "can't open %s"
+msgstr ""
+
+msgid "can't open %s for reading"
+msgstr ""
+
+msgid "can't open temporary file %s"
+msgstr ""
+
+msgid "can't open the manpath configuration file %s"
+msgstr ""
+
+msgid "can't parse directory list `%s'"
+msgstr ""
+
+msgid "can't read from %s"
+msgstr ""
+
+msgid "can't remove %s"
+msgstr ""
+
+msgid "can't remove directory %s"
+msgstr ""
+
+msgid "can't rename %s to %s"
+msgstr ""
+
+msgid "can't resolve %s"
+msgstr ""
+
+msgid "can't search directory %s"
+msgstr ""
+
+msgid "can't set effective uid"
+msgstr ""
+
+msgid "can't set times on %s"
+msgstr ""
+
+msgid "can't unlink %s"
+msgstr ""
+
+msgid "can't update index cache %s"
+msgstr ""
+
+msgid "can't write to %s"
+msgstr ""
+
+msgid "can't write to standard output"
+msgstr ""
+
+msgid "cannot read database %s"
+msgstr ""
+
+msgid "cannot replace key %s"
+msgstr ""
+
+msgid "cannot write within %s"
+msgstr ""
+
+msgid "check manual pages for correctness"
+msgstr ""
+
+msgid "command exited with status %d: %s"
+msgstr ""
+
+msgid "compatibility switch (ignored)"
+msgstr ""
+
+msgid "create dbs from scratch, rather than updating"
+msgstr ""
+
+msgid "define the locale for this particular man search"
+msgstr ""
+
+msgid "define the locale for this search"
+msgstr ""
+
+msgid "display ASCII translation of certain latin1 chars"
+msgstr ""
+
+msgid "do not trim output to terminal width"
+msgstr ""
+
+msgid "don't look for or add stray cats to the dbs"
+msgstr ""
+
+msgid "don't purge obsolete entries from the dbs"
+msgstr ""
+
+msgid "don't try subpages, e.g. 'man foo bar' => 'man foo-bar'"
+msgstr ""
+
+msgid "done.\n"
+msgstr ""
+
+msgid "emit debugging messages"
+msgstr ""
+
+msgid "enable warnings from groff"
+msgstr ""
+
+msgid "encoding for output"
+msgstr ""
+
+msgid "equivalent to apropos"
+msgstr ""
+
+msgid "equivalent to whatis"
+msgstr ""
+
+msgid "fatal: regex `%s': %s"
+msgstr ""
+
+msgid "fatal: unable to insert version identifier into %s"
+msgstr ""
+
+msgid "find all matching manual pages"
+msgstr ""
+
+msgid "force a cache consistency check"
+msgstr ""
+
+msgid "iconv: incomplete character at end of buffer"
+msgstr ""
+
+msgid "ignoring unknown preprocessor `%c'"
+msgstr ""
+
+msgid "index cache %s corrupt"
+msgstr ""
+
+msgid "internal error: candidate type %d out of range"
+msgstr ""
+
+msgid "interpret PAGE argument(s) as local filename(s)"
+msgstr ""
+
+msgid "interpret each keyword as a regex"
+msgstr ""
+
+msgid "interpret page name as a regex"
+msgstr ""
+
+msgid "limit search to extension type EXTENSION"
+msgstr ""
+
+msgid "look for pages case-insensitively (default)"
+msgstr ""
+
+msgid "look for pages case-sensitively"
+msgstr ""
+
+msgid "make --regex and --wildcard match page names only, not descriptions"
+msgstr ""
+
+msgid "man command failed with exit status %d"
+msgstr ""
+
+msgid "mandb command failed with exit status %d"
+msgstr ""
+
+msgid "multi key %s does not exist"
+msgstr ""
+
+msgid "must specify an output encoding"
+msgstr ""
+
+msgid "must use either --suffix or --in-place"
+msgstr ""
+
+msgid "only %d field in content"
+msgid_plural "only %d fields in content"
+msgstr[0] ""
+
+msgid "output source page encoded in ENCODING"
+msgstr ""
+
+msgid "overwrite input files in place"
+msgstr ""
+
+msgid "parse as cat page"
+msgstr ""
+
+msgid "parse as man page"
+msgstr ""
+
+msgid "possible encodings of original text"
+msgstr ""
+
+msgid "print physical location of cat file(s)"
+msgstr ""
+
+msgid "print physical location of man page(s)"
+msgstr ""
+
+msgid "print verbose warning messages"
+msgstr ""
+
+msgid "produce fewer warnings"
+msgstr ""
+
+msgid "produce user databases only"
+msgstr ""
+
+msgid "provide the `less' pager with a prompt"
+msgstr ""
+
+msgid "require all keywords to match"
+msgstr ""
+
+msgid "reset all options to their default values"
+msgstr ""
+
+msgid "search each keyword for exact match"
+msgstr ""
+
+msgid "search for text in all pages"
+msgstr ""
+
+msgid "search only these sections (colon-separated)"
+msgstr ""
+
+msgid "set search path for manual pages to PATH"
+msgstr ""
+
+msgid "show all pages matching regex"
+msgstr ""
+
+msgid "show all pages matching wildcard"
+msgstr ""
+
+msgid "show guessed series of preprocessing filters"
+msgstr ""
+
+msgid "show relative catpaths"
+msgstr ""
+
+msgid "show the entire global manpath"
+msgstr ""
+
+msgid "show whatis information"
+msgstr ""
+
+msgid "suffix to append to output file name"
+msgstr ""
+
+msgid "the keyword(s) contain wildcards"
+msgstr ""
+
+msgid "the page name contains wildcards"
+msgstr ""
+
+msgid "the setuid man user \"%s\" does not exist"
+msgstr ""
+
+msgid "turn off hyphenation"
+msgstr ""
+
+msgid "turn off justification"
+msgstr ""
+
+msgid "unable to update %s"
+msgstr ""
+
+msgid "update just the entry for this filename"
+msgstr ""
+
+msgid "use %s or BROWSER to display HTML output"
+msgstr ""
+
+msgid "use %s to format pages"
+msgstr ""
+
+msgid "use %s with selected device"
+msgstr ""
+
+msgid "use colon separated section list"
+msgstr ""
+
+msgid ""
+"use groff and display through gxditview (X11):\n"
+"-X = -TX75, -X100 = -TX100, -X100-12 = -TX100-12"
+msgstr ""
+
+msgid "use groff and force it to produce ditroff"
+msgstr ""
+
+msgid "use manual pages from other systems"
+msgstr ""
+
+msgid "use program PAGER to display output"
+msgstr ""
+
+msgid "use selected output encoding"
+msgstr ""
+
+msgid "use this user configuration file"
+msgstr ""
+
+msgid "used by catman to reformat out of date cat pages"
+msgstr ""
+
+msgid "warning: $MANPATH set, appending %s"
+msgstr ""
+
+msgid "warning: $MANPATH set, ignoring %s"
+msgstr ""
+
+msgid "warning: $MANPATH set, inserting %s"
+msgstr ""
+
+msgid "warning: $MANPATH set, prepending %s"
+msgstr ""
+
+msgid "warning: $PATH not set"
+msgstr ""
+
+msgid "warning: %s"
+msgstr ""
+
+msgid "warning: %s contains a pointer loop"
+msgstr ""
+
+msgid "warning: %s does not begin with %s"
+msgstr ""
+
+msgid "warning: %s has no version identifier\n"
+msgstr ""
+
+msgid "warning: %s is a dangling symlink"
+msgstr ""
+
+msgid "warning: %s is version %s, expecting %s\n"
+msgstr ""
+
+msgid "warning: %s isn't a directory"
+msgstr ""
+
+msgid "warning: %s/man%s/%s.%s*: competing extensions"
+msgstr ""
+
+msgid "warning: %s: bad symlink or ROFF `.so' request"
+msgstr ""
+
+msgid "warning: %s: ignoring bogus filename"
+msgstr ""
+
+msgid "warning: %s: ignoring empty file"
+msgstr ""
+
+msgid "warning: %s: whatis parse for %s(%s) failed"
+msgstr ""
+
+msgid "warning: can't update index cache %s"
+msgstr ""
+
+msgid "warning: cannot create catdir %s"
+msgstr ""
+
+msgid "warning: empty $PATH"
+msgstr ""
+
+msgid "warning: failed to store entry for %s(%s)"
+msgstr ""
+
+msgid "warning: mandatory directory %s doesn't exist"
+msgstr ""
+
+msgid "warning: no MANDB_MAP directives in %s, using your manpath"
+msgstr ""
+
+msgid "warning: no global manpaths set in config file %s"
+msgstr ""
+
+msgid "warning: whatis for %s exceeds %d byte, truncating."
+msgid_plural "warning: whatis for %s exceeds %d bytes, truncating."
+msgstr[0] ""
+
+msgid "work quietly, except for 'bogus' warning"
+msgstr ""

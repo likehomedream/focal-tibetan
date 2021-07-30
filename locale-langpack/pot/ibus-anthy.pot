@@ -1,0 +1,128 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: IBus-Anthy\n"
+"Report-Msgid-Bugs-To: https://github.com/ibus/ibus-anthy/issues\n"
+"PO-Revision-Date: 2014-11-25 08:28+0000\n"
+"Last-Translator: Peng Huang <Unknown>\n"
+"Language-Team: Peng Huang <shawn.p.huang@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:14+0000\n"
+
+msgid "Add words"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Configure Anthy"
+msgstr ""
+
+msgid "Configure dictionaries"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Dictionary - Anthy"
+msgstr ""
+
+msgid "Edit dictionaries"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Halfwidth Katakana"
+msgstr ""
+
+msgid "Hiragana"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "Kana"
+msgstr ""
+
+msgid "Katakana"
+msgstr ""
+
+msgid "Latin"
+msgstr ""
+
+msgid "Launch the dictionary tool"
+msgstr ""
+
+msgid "Preferences - Anthy"
+msgstr ""
+
+msgid "Romaji"
+msgstr ""
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Switch input mode"
+msgstr ""
+
+msgid "Symbol"
+msgstr ""
+
+msgid "Wide Latin"
+msgstr ""
+
+msgid "You cannot add dictionaries in the anthy private directory: "
+msgstr ""
+
+msgid "Your choosed file has already been added: "
+msgstr ""
+
+msgid "Your choosed file is a directory: "
+msgstr ""
+
+msgid "Your file path is not good: "
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Down"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Refresh"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Up"
+msgstr ""
+
+msgid "translator_credits"
+msgstr ""

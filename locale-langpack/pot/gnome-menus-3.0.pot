@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-menus HEAD\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-menus&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-03 07:40+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:25+0000\n"
+
+msgid "Accessories"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Applications and sites saved from Web"
+msgstr ""
+
+msgid "Applications that did not fit in other categories"
+msgstr ""
+
+msgid "Desktop accessories"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Games and amusements"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Graphics applications"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "Multimedia menu"
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Office Applications"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Programming"
+msgstr ""
+
+msgid "Programs for Internet access such as web and email"
+msgstr ""
+
+msgid "Small but useful GNOME tools"
+msgstr ""
+
+msgid "Sound & Video"
+msgstr ""
+
+msgid "Sundry"
+msgstr ""
+
+msgid "System Tools"
+msgstr ""
+
+msgid "System configuration and monitoring"
+msgstr ""
+
+msgid "Tools for software development"
+msgstr ""
+
+msgid "Universal Access"
+msgstr ""
+
+msgid "Universal Access Settings"
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "Web Applications"
+msgstr ""

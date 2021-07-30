@@ -1,0 +1,187 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-characters master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-characters/issues\n"
+"PO-Revision-Date: 2020-04-16 04:13+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:10+0000\n"
+
+msgid "%s (%s only)"
+msgstr ""
+
+msgid "%s Category List Row"
+msgstr ""
+
+msgid "%s Character List"
+msgstr ""
+
+msgid "@appid@"
+msgstr ""
+
+msgid "About Characters"
+msgstr ""
+
+msgid "Activities"
+msgstr ""
+
+msgid "Animals & Nature"
+msgstr ""
+
+msgid "Arrows"
+msgstr ""
+
+msgid "Bullets"
+msgstr ""
+
+msgid "Character Map"
+msgstr ""
+
+msgid "Character copied to clipboard"
+msgstr ""
+
+msgid "Character map application"
+msgstr ""
+
+msgid "Characters"
+msgstr ""
+
+msgid "Characters Application"
+msgstr ""
+
+msgid "Characters Application exiting"
+msgstr ""
+
+msgid "Characters Application started"
+msgstr ""
+
+msgid ""
+"Characters is a simple utility application to find and insert unusual "
+"characters. It allows you to quickly find the character you are looking for "
+"by searching for keywords."
+msgstr ""
+
+msgid "Characters will appear here if you use them."
+msgstr ""
+
+msgid "Copy Character"
+msgstr ""
+
+msgid "Currencies"
+msgstr ""
+
+msgid "Current page"
+msgstr ""
+
+msgid "Emojis"
+msgstr ""
+
+msgid "Filter by Font"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Font to display characters"
+msgstr ""
+
+msgid "Food & Drink"
+msgstr ""
+
+msgid "GNOME Characters"
+msgstr ""
+
+msgid "Letters"
+msgstr ""
+
+msgid "Letters & Symbols"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Math"
+msgstr ""
+
+msgid "Maximum recent characters"
+msgstr ""
+
+msgid "No recent characters found"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Objects"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Punctuation"
+msgstr ""
+
+msgid "Recently Used"
+msgstr ""
+
+msgid "Recently Used %s Character List"
+msgstr ""
+
+msgid "Search Result"
+msgstr ""
+
+msgid "Search Result Character List"
+msgstr ""
+
+msgid "Search found no results"
+msgstr ""
+
+msgid "See Also"
+msgstr ""
+
+msgid "Smileys & People"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
+msgid "Travel & Places"
+msgstr ""
+
+msgid "Try a different search."
+msgstr ""
+
+msgid "U+%s, %s: %s"
+msgstr ""
+
+msgid "Unassigned"
+msgstr ""
+
+msgid "Unicode U+%04s"
+msgstr ""
+
+msgid "Unknown character name"
+msgstr ""
+
+msgid "Use the font to render characters on the character list."
+msgstr ""
+
+msgid "Utility application to find and insert unusual characters"
+msgstr ""
+
+msgid ""
+"You can also browse characters by categories, such as Punctuation, Pictures,"
+" etc."
+msgstr ""
+
+msgid "characters;unicode;punctuation;math;letters;emoji;emoticon;"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

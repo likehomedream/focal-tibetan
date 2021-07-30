@@ -1,0 +1,173 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GNU indent 2.2.12\n"
+"Report-Msgid-Bugs-To: bug-indent@gnu.org\n"
+"PO-Revision-Date: 2019-02-24 00:58+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:31+0000\n"
+
+msgid "%s: missing argument to parameter %s\n"
+msgstr ""
+
+msgid "%s: option ``%s'' requires a numeric parameter\n"
+msgstr ""
+
+msgid "%s: unknown option \"%s\"\n"
+msgstr ""
+
+msgid "(Lines with comments)/(Lines with code): %6.3f\n"
+msgstr ""
+
+msgid "CANNOT FIND '@' FILE!"
+msgstr ""
+
+msgid "Can't close output file %s"
+msgstr ""
+
+msgid "Can't open backup file %s"
+msgstr ""
+
+msgid "Can't open input file %s"
+msgstr ""
+
+msgid "Can't preserve modification time on backup file %s"
+msgstr ""
+
+msgid "Can't preserve modification time on output file %s"
+msgstr ""
+
+msgid "Can't stat input file %s"
+msgstr ""
+
+msgid "Can't write to backup file %s"
+msgstr ""
+
+msgid "EOF encountered in comment"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error closing input file %s"
+msgstr ""
+
+msgid "Error reading input file %s"
+msgstr ""
+
+msgid "File %s contains NULL-characters: cannot proceed\n"
+msgstr ""
+
+msgid "File %s is too big to read"
+msgstr ""
+
+msgid ""
+"File named by environment variable %s does not exist or is not readable"
+msgstr ""
+
+msgid "GNU indent %s\n"
+msgstr ""
+
+msgid "Line broken"
+msgstr ""
+
+msgid "Line broken 2"
+msgstr ""
+
+msgid "Profile contains an unterminated comment"
+msgstr ""
+
+msgid "Profile contains unpalatable characters"
+msgstr ""
+
+msgid "Read profile %s\n"
+msgstr ""
+
+msgid "Stmt nesting error."
+msgstr ""
+
+msgid "System problem reading file %s"
+msgstr ""
+
+msgid "There were %d non-blank output lines and %d comments\n"
+msgstr ""
+
+msgid "Unexpected end of file"
+msgstr ""
+
+msgid "Unknown code to parser"
+msgstr ""
+
+msgid "Unmatched 'else'"
+msgstr ""
+
+msgid "Unterminated character constant"
+msgstr ""
+
+msgid "Unterminated string constant"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Zero-length file %s"
+msgstr ""
+
+msgid "command line"
+msgstr ""
+
+msgid "indent:  Strange version-control value\n"
+msgstr ""
+
+msgid "indent:  Using numbered-existing\n"
+msgstr ""
+
+msgid "indent: %s:%d: %s:"
+msgstr ""
+
+msgid "indent: Can't make backup filename of %s\n"
+msgstr ""
+
+msgid "indent: Fatal Error: "
+msgstr ""
+
+msgid "indent: System Error: "
+msgstr ""
+
+msgid "indent: Virtual memory exhausted.\n"
+msgstr ""
+
+msgid "indent: can't create %s\n"
+msgstr ""
+
+msgid "indent: can't have filenames when specifying standard input\n"
+msgstr ""
+
+msgid "indent: only one input file when output file is specified\n"
+msgstr ""
+
+msgid "indent: only one input file when stdout is used\n"
+msgstr ""
+
+msgid "indent: only one output file (2nd was %s)\n"
+msgstr ""
+
+msgid "old style assignment ambiguity in \"=%s\". Assuming \"= %s\"\n"
+msgstr ""
+
+msgid "option: %s\n"
+msgstr ""
+
+msgid "set_option: internal error: p_type %d\n"
+msgstr ""
+
+msgid ""
+"usage: indent file [-o outfile ] [ options ]\n"
+"       indent file1 file2 ... fileN [ options ]\n"
+msgstr ""

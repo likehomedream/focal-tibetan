@@ -1,0 +1,588 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: polari master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/polari/issues\n"
+"PO-Revision-Date: 2020-04-16 04:07+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:03+0000\n"
+
+msgid "%A, %H∶%M"
+msgstr ""
+
+msgid "%A, %l∶%M %p"
+msgstr ""
+
+msgid "%B %d %Y, %H∶%M"
+msgstr ""
+
+msgid "%B %d %Y, %l∶%M %p"
+msgstr ""
+
+msgid "%B %d, %H∶%M"
+msgstr ""
+
+msgid "%B %d, %l∶%M %p"
+msgstr ""
+
+msgid "%H∶%M"
+msgstr ""
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] ""
+
+msgid "%d user"
+msgid_plural "%d users"
+msgstr[0] ""
+
+msgid "%d user joined"
+msgid_plural "%d users joined"
+msgstr[0] ""
+
+msgid "%d user left"
+msgid_plural "%d users left"
+msgstr[0] ""
+
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+
+msgid "%l∶%M %p"
+msgstr ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "%s has been banned"
+msgstr ""
+
+msgid "%s has been banned by %s"
+msgstr ""
+
+msgid "%s has been kicked"
+msgstr ""
+
+msgid "%s has been kicked by %s"
+msgstr ""
+
+msgid "%s has disconnected"
+msgstr ""
+
+msgid "%s is now known as %s"
+msgstr ""
+
+msgid "%s joined"
+msgstr ""
+
+msgid "%s left"
+msgstr ""
+
+msgid "%s removed."
+msgstr ""
+
+msgid "%s requires a password."
+msgstr ""
+
+msgid ""
+"/CLOSE [<channel>] [<reason>] — closes <channel>, by default the current one"
+msgstr ""
+
+msgid ""
+"/HELP [<command>] — displays help for <command>, or a list of available "
+"commands"
+msgstr ""
+
+msgid ""
+"/INVITE <nick> [<channel>] — invites <nick> to <channel>, or the current one"
+msgstr ""
+
+msgid "/JOIN <channel> — joins <channel>"
+msgstr ""
+
+msgid "/KICK <nick> — kicks <nick> from current channel"
+msgstr ""
+
+msgid "/ME <action> — sends <action> to the current channel"
+msgstr ""
+
+msgid "/MSG <nick> [<message>] — sends a private message to <nick>"
+msgstr ""
+
+msgid "/NAMES — lists users on the current channel"
+msgstr ""
+
+msgid "/NICK <nickname> — sets your nick to <nickname>"
+msgstr ""
+
+msgid ""
+"/PART [<channel>] [<reason>] — leaves <channel>, by default the current one"
+msgstr ""
+
+msgid "/QUERY <nick> — opens a private conversation with <nick>"
+msgstr ""
+
+msgid "/QUIT [<reason>] — disconnects from the current server"
+msgstr ""
+
+msgid "/SAY <text> — sends <text> to the current room/contact"
+msgstr ""
+
+msgid "/TOPIC <topic> — sets the topic to <topic>, or shows the current one"
+msgstr ""
+
+msgid ""
+"A simple Internet Relay Chat (IRC) client that is designed to integrate "
+"seamlessly with GNOME; it features a simple and beautiful interface which "
+"allows you to focus on your conversations."
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Add Network"
+msgstr ""
+
+msgid "Add rooms and networks"
+msgstr ""
+
+msgid "Allow running alongside another instance"
+msgstr ""
+
+msgid "Already added"
+msgstr ""
+
+msgid "An Internet Relay Chat Client for GNOME"
+msgstr ""
+
+msgid "Available in another room."
+msgstr ""
+
+msgid "C_onnection"
+msgstr ""
+
+msgid "Change nickname"
+msgstr ""
+
+msgid "Change nickname:"
+msgstr ""
+
+msgid "Command used to identify with bot"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connecting…"
+msgstr ""
+
+msgid "Connection Problem"
+msgstr ""
+
+msgid "Copy Link Address"
+msgstr ""
+
+msgid "Could not connect to %s in a safe way."
+msgstr ""
+
+msgid "Could not connect to %s."
+msgstr ""
+
+msgid "Could not connect to %s. The server is busy."
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "End conversation"
+msgstr ""
+
+msgid "Enter room name to add"
+msgstr ""
+
+msgid "Failed to open link"
+msgstr ""
+
+msgid "Good Bye"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "IRC;Internet;Relay;Chat;"
+msgstr ""
+
+msgid ""
+"Identification will happen automatically the next time you connect to %s"
+msgstr ""
+
+msgid "Identify botname"
+msgstr ""
+
+msgid "Identify command"
+msgstr ""
+
+msgid "Identify username"
+msgstr ""
+
+msgid "Identify username supported"
+msgstr ""
+
+msgid "Join Chat Room"
+msgstr ""
+
+msgid "Join a room using the + button."
+msgstr ""
+
+msgid "Keep running in background when closed."
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Known commands:"
+msgstr ""
+
+msgid "Last Activity:"
+msgstr ""
+
+msgid "Last active (selected) channel"
+msgstr ""
+
+msgid "Last active channel"
+msgstr ""
+
+msgid "Learn more about Polari"
+msgstr ""
+
+msgid "Leave chatroom"
+msgstr ""
+
+msgid "List of channels to restore on startup"
+msgstr ""
+
+msgid "Loading details"
+msgstr ""
+
+msgid "Net_work Name"
+msgstr ""
+
+msgid "Network %s has an error"
+msgstr ""
+
+msgid "New Messages"
+msgstr ""
+
+msgid "Nickname of the bot to identify with"
+msgstr ""
+
+msgid "No results."
+msgstr ""
+
+msgid "No topic set"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Open Link"
+msgstr ""
+
+msgid "Paste %s line of text to public paste service?"
+msgid_plural "Paste %s lines of text to public paste service?"
+msgstr[0] ""
+
+msgid "Paste from %s"
+msgstr ""
+
+msgid "Please connect to the internet to continue the setup."
+msgstr ""
+
+msgid "Polari"
+msgstr ""
+
+msgid "Polari NickServ password for %s"
+msgstr ""
+
+msgid "Polari Setup"
+msgstr ""
+
+msgid ""
+"Polari disconnected due to a network error. Please check if the address "
+"field is correct."
+msgstr ""
+
+msgid ""
+"Polari is an easy way to chat using IRC. Select a network to get started."
+msgstr ""
+
+msgid "Polari server password for %s"
+msgstr ""
+
+msgid "Print version and exit"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Reconnect"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Run in Background"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Saved channel list"
+msgstr ""
+
+msgid ""
+"Select rooms you want to connect to. You can add more networks and rooms "
+"later, by clicking the + button."
+msgstr ""
+
+msgid "Should the password be saved?"
+msgstr ""
+
+msgid "Show connected users"
+msgstr ""
+
+msgid "Start Conversation"
+msgstr ""
+
+msgid "Start Telepathy client"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown command — try /HELP for a list of available commands"
+msgstr ""
+
+msgid "Upload image to public paste service?"
+msgstr ""
+
+msgid "Upload “%s” to public paste service?"
+msgstr ""
+
+msgid "Uploading %s line of text to public paste service…"
+msgid_plural "Uploading %s lines of text to public paste service…"
+msgstr[0] ""
+
+msgid "Uploading image to public paste service…"
+msgstr ""
+
+msgid "Uploading “%s” to public paste service…"
+msgstr ""
+
+msgid "Usage: %s"
+msgstr ""
+
+msgid "Use secure c_onnection"
+msgstr ""
+
+msgid "User %s is now online."
+msgstr ""
+
+msgid "User is online"
+msgstr ""
+
+msgid "Username to use in identify command"
+msgstr ""
+
+msgid "Users on %s:"
+msgstr ""
+
+msgid "Welcome to Polari"
+msgstr ""
+
+msgid ""
+"Whether the identify command is known to support the username parameter"
+msgstr ""
+
+msgid "Will notify if user appears online."
+msgstr ""
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window maximized state"
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "Yesterday, %H∶%M"
+msgstr ""
+
+msgid "Yesterday, %l∶%M %p"
+msgstr ""
+
+msgid ""
+"You can use Polari to publicly chat with people in a channel, and to have "
+"private one-to-one conversations. Notifications make sure that you never "
+"miss an important message — for private conversations, they even allow you "
+"to reply instantly without switching back to the application!"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Add Network"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Back"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Change"
+msgstr ""
+
+msgid "_Custom Network"
+msgstr ""
+
+msgid "_Done"
+msgstr ""
+
+msgid "_Join"
+msgstr ""
+
+msgid "_Next"
+msgstr ""
+
+msgid "_Nickname"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Real Name"
+msgstr ""
+
+msgid "_Save Password"
+msgstr ""
+
+msgid "_Server Address"
+msgstr ""
+
+msgid "optional"
+msgstr ""
+
+msgid "org.gnome.Polari"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "First Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "First – Ninth Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Join Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Last Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Leave Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Next Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Next Room with Unread Messages"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Previous Room"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Previous Room with Unread Messages"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show Emoji Picker"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show Userlist"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "“%s” Properties"
+msgstr ""

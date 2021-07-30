@@ -1,0 +1,210 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-python\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gimp/issues\n"
+"PO-Revision-Date: 2020-04-05 13:03+0000\n"
+"Last-Translator: kai <Unknown>\n"
+"Language-Team: zh_CN <i18n-translation@lists.linux.net.cn>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:21+0000\n"
+
+msgid "Add a drop shadow to a layer, and optionally bevel it"
+msgstr ""
+
+msgid "Add a layer of fog"
+msgstr ""
+
+msgid "An error occurred running %s"
+msgstr ""
+
+msgid "Channel to _sort"
+msgstr ""
+
+msgid "Character _source"
+msgstr ""
+
+msgid "Clouds"
+msgstr ""
+
+msgid "Colored XHTML"
+msgstr ""
+
+msgid "Could not open '%s' for writing: %s"
+msgstr ""
+
+msgid "Could not write to '%s': %s"
+msgstr ""
+
+msgid "Create a gradient using colors from the palette"
+msgstr ""
+
+msgid "Create a repeating gradient using colors from the palette"
+msgstr ""
+
+msgid ""
+"Cuts an image along its guides, creates images and a HTML table snippet"
+msgstr ""
+
+msgid "Drop shadow _X displacement"
+msgstr ""
+
+msgid "Drop shadow _Y displacement"
+msgstr ""
+
+msgid "Entry box"
+msgstr ""
+
+msgid "Filename for export"
+msgstr ""
+
+msgid "Fo_nt size in pixels"
+msgstr ""
+
+msgid "Folder for image export"
+msgstr ""
+
+msgid "Image format"
+msgstr ""
+
+msgid "Image name prefix"
+msgstr ""
+
+msgid "Interactive GIMP Python interpreter"
+msgstr ""
+
+msgid "Invalid input for '%s'"
+msgstr ""
+
+msgid "Javascript for onmouseover and clicked"
+msgstr ""
+
+msgid "Missing exception information"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Off_set"
+msgstr ""
+
+msgid "Offset the colors in a palette"
+msgstr ""
+
+msgid "Op_acity"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "Palette to _Gradient"
+msgstr ""
+
+msgid "Palette to _Repeating Gradient"
+msgstr ""
+
+msgid "Path for HTML export"
+msgstr ""
+
+msgid "Python Console"
+msgstr ""
+
+msgid "Python Procedure Browser"
+msgstr ""
+
+msgid "Python-Fu Color Selection"
+msgstr ""
+
+msgid "Python-Fu File Selection"
+msgstr ""
+
+msgid "Python-Fu Folder Selection"
+msgstr ""
+
+msgid "Save Python-Fu Console Output"
+msgstr ""
+
+msgid "Save as colored XHTML"
+msgstr ""
+
+msgid "Saving as colored XHTML"
+msgstr ""
+
+msgid "Separate image folder"
+msgstr ""
+
+msgid "Skip animation for table caps"
+msgstr ""
+
+msgid "Slice"
+msgstr ""
+
+msgid "Sort the colors in a palette"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid "Space between table elements"
+msgstr ""
+
+msgid "Text file"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "_Ascending"
+msgstr ""
+
+msgid "_Bevel"
+msgstr ""
+
+msgid "_Browse..."
+msgstr ""
+
+msgid "_Console"
+msgstr ""
+
+msgid "_Drop Shadow and Bevel..."
+msgstr ""
+
+msgid "_Drop shadow"
+msgstr ""
+
+msgid "_File to read or characters to use"
+msgstr ""
+
+msgid "_Fog color"
+msgstr ""
+
+msgid "_Fog..."
+msgstr ""
+
+msgid "_Layer name"
+msgstr ""
+
+msgid "_More Information"
+msgstr ""
+
+msgid "_Offset Palette..."
+msgstr ""
+
+msgid "_Shadow blur"
+msgstr ""
+
+msgid "_Slice..."
+msgstr ""
+
+msgid "_Sort Palette..."
+msgstr ""
+
+msgid "_Turbulence"
+msgstr ""
+
+msgid "_Write a separate CSS file"
+msgstr ""

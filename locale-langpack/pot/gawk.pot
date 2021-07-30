@@ -1,0 +1,2405 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gawk 4.2.63\n"
+"Report-Msgid-Bugs-To: bug-gawk@gnu.org\n"
+"PO-Revision-Date: 2020-04-03 08:21+0000\n"
+"Last-Translator: zwpwjwtz <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:11+0000\n"
+
+msgid ""
+"\t# %s rule(s)\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\t# Rule(s)\n"
+"\n"
+msgstr ""
+
+msgid "\t# gawk profile, created %s\n"
+msgstr ""
+
+msgid "\t------[Enter] to continue or q [Enter] to quit------"
+msgstr ""
+
+msgid "\t-C\t\t\t--copyright\n"
+msgstr ""
+
+msgid "\t-D[file]\t\t--debug[=file]\n"
+msgstr ""
+
+msgid "\t-E file\t\t\t--exec=file\n"
+msgstr ""
+
+msgid "\t-F fs\t\t\t--field-separator=fs\n"
+msgstr ""
+
+msgid "\t-M\t\t\t--bignum\n"
+msgstr ""
+
+msgid "\t-N\t\t\t--use-lc-numeric\n"
+msgstr ""
+
+msgid "\t-O\t\t\t--optimize\n"
+msgstr ""
+
+msgid "\t-P\t\t\t--posix\n"
+msgstr ""
+
+msgid "\t-S\t\t\t--sandbox\n"
+msgstr ""
+
+msgid "\t-V\t\t\t--version\n"
+msgstr ""
+
+msgid "\t-W nostalgia\t\t--nostalgia\n"
+msgstr ""
+
+msgid "\t-Y\t\t\t--parsedebug\n"
+msgstr ""
+
+msgid "\t-Z locale-name\t\t--locale=locale-name\n"
+msgstr ""
+
+msgid "\t-b\t\t\t--characters-as-bytes\n"
+msgstr ""
+
+msgid "\t-c\t\t\t--traditional\n"
+msgstr ""
+
+msgid "\t-d[file]\t\t--dump-variables[=file]\n"
+msgstr ""
+
+msgid "\t-e 'program-text'\t--source='program-text'\n"
+msgstr ""
+
+msgid "\t-f progfile\t\t--file=progfile\n"
+msgstr ""
+
+msgid "\t-g\t\t\t--gen-pot\n"
+msgstr ""
+
+msgid "\t-h\t\t\t--help\n"
+msgstr ""
+
+msgid "\t-i includefile\t\t--include=includefile\n"
+msgstr ""
+
+msgid "\t-l library\t\t--load=library\n"
+msgstr ""
+
+msgid "\t-n\t\t\t--non-decimal-data\n"
+msgstr ""
+
+msgid "\t-o[file]\t\t--pretty-print[=file]\n"
+msgstr ""
+
+msgid "\t-p[file]\t\t--profile[=file]\n"
+msgstr ""
+
+msgid "\t-r\t\t\t--re-interval\n"
+msgstr ""
+
+msgid "\t-s\t\t\t--no-optimize\n"
+msgstr ""
+
+msgid "\t-t\t\t\t--lint-old\n"
+msgstr ""
+
+msgid "\t-v var=val\t\t--assign=var=val\n"
+msgstr ""
+
+msgid "\tcommands:\n"
+msgstr ""
+
+msgid "\tignore next %ld hit(s)\n"
+msgstr ""
+
+msgid "\tno of hits = %ld\n"
+msgstr ""
+
+msgid "\tstop condition: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\t# Function Call Stack:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"\t# Functions, listed alphabetically\n"
+msgstr ""
+
+msgid ""
+"\n"
+"# Included files (-i and/or @include)\n"
+"\n"
+msgstr ""
+
+msgid " at `%s':%d"
+msgstr ""
+
+msgid " in file `%s', line %d\n"
+msgstr ""
+
+msgid "#%ld\tin "
+msgstr ""
+
+msgid "$%ld = uninitialized field\n"
+msgstr ""
+
+msgid "%%%c format is POSIX standard but not portable to other awks"
+msgstr ""
+
+msgid "%d is invalid as number of arguments for %s"
+msgstr ""
+
+msgid "%d: [\"%.*s\"] not in array `%s'\n"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid "%s %s `%s': could not get fd flags: (fcntl F_GETFD: %s)"
+msgstr ""
+
+msgid "%s %s `%s': could not set close-on-exec: (fcntl F_SETFD: %s)"
+msgstr ""
+
+msgid "%s blocks must have an action part"
+msgstr ""
+
+msgid "%s third parameter is not a changeable object"
+msgstr ""
+
+msgid "%s to \"%s\" failed (%s)"
+msgstr ""
+
+msgid ""
+"%s# Loaded extensions (-l and/or @load)\n"
+"\n"
+msgstr ""
+
+msgid "%s: %d: tawk regex modifier `/.../%c' doesn't work in gawk"
+msgstr ""
+
+msgid ""
+"%s: `%s' argument to `-v' not in `var=value' form\n"
+"\n"
+msgstr ""
+
+msgid "%s: argument #%d fractional value %Rg will be truncated"
+msgstr ""
+
+msgid "%s: argument #%d has invalid value %Rg, using 0"
+msgstr ""
+
+msgid "%s: argument #%d negative value %Rg is not allowed"
+msgstr ""
+
+msgid "%s: argument #%d negative value %Zd is not allowed"
+msgstr ""
+
+msgid "%s: can be called indirectly only with two arguments"
+msgstr ""
+
+msgid "%s: close failed (%s)"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous; possibilities:"
+msgstr ""
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option `-W %s' unrecognized, ignored\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- %c\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: received non-numeric argument"
+msgstr ""
+
+msgid "%s: received non-numeric argument #%d"
+msgstr ""
+
+msgid "%s: string literal as last arg of substitute has no effect"
+msgstr ""
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr ""
+
+msgid "'finish' not meaningful in the outermost frame main()\n"
+msgstr ""
+
+msgid "'finish' not meaningful with non-local jump '%s'\n"
+msgstr ""
+
+msgid "'return' not meaningful in the outermost frame main()\n"
+msgstr ""
+
+msgid "'system' function not allowed in sandbox mode"
+msgstr ""
+
+msgid "'until' not meaningful with non-local jump '%s'\n"
+msgstr ""
+
+msgid "(un)set or show instruction tracing (value=on|off)."
+msgstr ""
+
+msgid "(un)set or show saving of command history (value=on|off)."
+msgstr ""
+
+msgid "(un)set or show saving of options (value=on|off)."
+msgstr ""
+
+msgid "-Ft does not set FS to tab in POSIX awk"
+msgstr ""
+
+msgid "-M ignored: MPFR/GMP support not compiled in"
+msgstr ""
+
+msgid "-l / @load are gawk extensions"
+msgstr ""
+
+msgid "@include is a gawk extension"
+msgstr ""
+
+msgid "@load is a gawk extension"
+msgstr ""
+
+msgid "@namespace is a gawk extension"
+msgstr ""
+
+msgid ""
+"All defined functions:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"All defined variables:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Auto-display variables:\n"
+"\n"
+msgstr ""
+
+msgid "BINMODE value `%s' is invalid, treated as 3"
+msgstr ""
+
+msgid "Breakpoint %d set at file `%s', line %d\n"
+msgstr ""
+
+msgid "Called by frame: "
+msgstr ""
+
+msgid "Caller of frame: "
+msgstr ""
+
+msgid "Can only debug programs provided with the `-f' option.\n"
+msgstr ""
+
+msgid "Can't find rule!!!\n"
+msgstr ""
+
+msgid "Can't find specified location %d in file `%s'\n"
+msgstr ""
+
+msgid "Can't find specified location in function `%s'\n"
+msgstr ""
+
+msgid "Can't set breakpoint at `%s':%d\n"
+msgstr ""
+
+msgid "Can't set breakpoint in file `%s'\n"
+msgstr ""
+
+msgid "Can't set breakpoint in function `%s'\n"
+msgstr ""
+
+msgid "Can't use command `commands' for breakpoint/watchpoint commands"
+msgstr ""
+
+msgid ""
+"Copyright (C) 1989, 1991-%d Free Software Foundation.\n"
+"\n"
+"This program is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+msgstr ""
+
+msgid "Current frame: "
+msgstr ""
+
+msgid "Current source file: %s\n"
+msgstr ""
+
+msgid "Delete all breakpoints? (y or n) "
+msgstr ""
+
+msgid "Deleted breakpoint %d"
+msgstr ""
+
+msgid "Display %d deleted because parameter is out of scope.\n"
+msgstr ""
+
+msgid "End with the command \"end\"\n"
+msgstr ""
+
+msgid ""
+"Examples:\n"
+"\tgawk '{ sum += $1 }; END { print sum }' file\n"
+"\tgawk -F: '{ print $1 }' /etc/passwd\n"
+msgstr ""
+
+msgid "Failed to restart debugger"
+msgstr ""
+
+msgid "IPv6 communication is not supported"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr ""
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid ""
+"Invalid multibyte data detected. There may be a mismatch between your data "
+"and your locale."
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr ""
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr ""
+
+msgid "More stack frames follow ...\n"
+msgstr ""
+
+msgid "NF set to negative value"
+msgstr ""
+
+msgid "No arguments.\n"
+msgstr ""
+
+msgid "No breakpoint at file `%s', line #%d\n"
+msgstr ""
+
+msgid "No breakpoint(s) at entry to function `%s'\n"
+msgstr ""
+
+msgid "No display item numbered %ld"
+msgstr ""
+
+msgid "No locals.\n"
+msgstr ""
+
+msgid "No match"
+msgstr ""
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "No symbol `%s' in current context"
+msgstr ""
+
+msgid "No watch item numbered %ld"
+msgstr ""
+
+msgid "None in main().\n"
+msgstr ""
+
+msgid "Not stopped at any breakpoint; argument ignored.\n"
+msgstr ""
+
+msgid "Note: breakpoint %d (disabled), also set at %s:%d"
+msgstr ""
+
+msgid ""
+"Note: breakpoint %d (disabled, ignore next %ld hits), also set at %s:%d"
+msgstr ""
+
+msgid "Note: breakpoint %d (enabled), also set at %s:%d"
+msgstr ""
+
+msgid "Note: breakpoint %d (enabled, ignore next %ld hits), also set at %s:%d"
+msgstr ""
+
+msgid ""
+"Number  Disp  Enabled  Location\n"
+"\n"
+msgstr ""
+
+msgid "Number of lines: %d\n"
+msgstr ""
+
+msgid "PEBKAC error: invalid character '\\%03o' in source code"
+msgstr ""
+
+msgid "POSIX does not allow `%s'"
+msgstr ""
+
+msgid "POSIX does not allow `\\x' escapes"
+msgstr ""
+
+msgid "POSIX does not allow operator `**'"
+msgstr ""
+
+msgid "POSIX does not allow operator `**='"
+msgstr ""
+
+msgid "POSIX does not allow physical newlines in string values"
+msgstr ""
+
+msgid "POSIX options:\t\tGNU long options: (standard)\n"
+msgstr ""
+
+msgid "PREC value `%.*s' is invalid"
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Program already running. Restart from beginning (y/n)? "
+msgstr ""
+
+msgid "Program exited abnormally with exit value: %d\n"
+msgstr ""
+
+msgid "Program exited normally with exit value: %d\n"
+msgstr ""
+
+msgid "Program indentation level too deep. Consider refactoring your code"
+msgstr ""
+
+msgid "Program not restarted\n"
+msgstr ""
+
+msgid "RNDMODE value `%.*s' is invalid"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Run till return from "
+msgstr ""
+
+msgid "Short options:\t\tGNU long options: (extensions)\n"
+msgstr ""
+
+msgid "Source file (lines): %s (%d)\n"
+msgstr ""
+
+msgid "Starting program: \n"
+msgstr ""
+
+msgid "Stopping in %s ...\n"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "TCP/IP communications are not supported"
+msgstr ""
+
+msgid "The program is running. Exit anyway (y/n)? "
+msgstr ""
+
+msgid ""
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Type (g)awk statement(s). End with the command \"end\"\n"
+msgstr ""
+
+msgid "Type commands for when %s %d is hit, one per line.\n"
+msgstr ""
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [, [^, [:, [., or [="
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid "Usage: %s [POSIX or GNU style options] -f progfile [--] file ...\n"
+msgstr ""
+
+msgid "Usage: %s [POSIX or GNU style options] [--] %cprogram%c file ...\n"
+msgstr ""
+
+msgid "WARNING: source file `%s' modified since program compilation.\n"
+msgstr ""
+
+msgid ""
+"Watch variables:\n"
+"\n"
+msgstr ""
+
+msgid "Watchpoint %d deleted because parameter is out of scope.\n"
+msgstr ""
+
+msgid "Will ignore next %ld crossing(s) of breakpoint %d.\n"
+msgstr ""
+
+msgid "Will ignore next %ld crossings of breakpoint %d.\n"
+msgstr ""
+
+msgid "Will stop next time breakpoint %d is reached.\n"
+msgstr ""
+
+msgid ""
+"You should have received a copy of the GNU General Public License\n"
+"along with this program. If not, see http://www.gnu.org/licenses/.\n"
+msgstr ""
+
+msgid "[\"%.*s\"] not in array `%s'"
+msgstr ""
+
+msgid "[\"%.*s\"] not in array `%s'\n"
+msgstr ""
+
+msgid "[s]printf: format specifier does not have control letter"
+msgstr ""
+
+msgid "[s]printf: value %g is not a valid wide character"
+msgstr ""
+
+msgid "[s]printf: value %g is out of range for `%%%c' format"
+msgstr ""
+
+msgid "[s]printf: value %g is too big for %%c format"
+msgstr ""
+
+msgid "[s]printf: value %s is out of range for `%%%c' format"
+msgstr ""
+
+msgid "^ ran out for this one"
+msgstr ""
+
+msgid "`%s' is a built-in function, it cannot be redefined"
+msgstr ""
+
+msgid "`%s' is a function"
+msgstr ""
+
+msgid "`%s' is a gawk extension"
+msgstr ""
+
+msgid "`%s' is invalid as a function name"
+msgstr ""
+
+msgid "`%s' is not a legal variable name"
+msgstr ""
+
+msgid "`%s' is not a scalar variable"
+msgstr ""
+
+msgid "`%s' is not a variable name, looking for file `%s=%s'"
+msgstr ""
+
+msgid "`%s' is not an array\n"
+msgstr ""
+
+msgid "`%s' is not supported in old awk"
+msgstr ""
+
+msgid "`%s' not allowed in current context; statement ignored"
+msgstr ""
+
+msgid "`%s[\"%.*s\"]' is not an array\n"
+msgstr ""
+
+msgid "`*' must be the last designator in FIELDWIDTHS"
+msgstr ""
+
+msgid "`--posix' overrides `--characters-as-bytes'"
+msgstr ""
+
+msgid "`--posix' overrides `--traditional'"
+msgstr ""
+
+msgid "`--posix'/`--traditional' overrides `--non-decimal-data'"
+msgstr ""
+
+msgid "`--profile' overrides `--pretty-print'"
+msgstr ""
+
+msgid "`BINMODE' is a gawk extension"
+msgstr ""
+
+msgid "`FIELDWIDTHS' is a gawk extension"
+msgstr ""
+
+msgid "`FPAT' is a gawk extension"
+msgstr ""
+
+msgid "`IGNORECASE' is a gawk extension"
+msgstr ""
+
+msgid "`L' is meaningless in awk formats; ignored"
+msgstr ""
+
+msgid "`break' is not allowed outside a loop or switch"
+msgstr ""
+
+msgid "`continue' is not allowed outside a loop"
+msgstr ""
+
+msgid "`delete' is not allowed with FUNCTAB"
+msgstr ""
+
+msgid "`delete' is not allowed with SYMTAB"
+msgstr ""
+
+msgid "`delete(array)' is a non-portable tawk extension"
+msgstr ""
+
+msgid "`end' valid only in command `commands' or `eval'"
+msgstr ""
+
+msgid "`goto' considered harmful!"
+msgstr ""
+
+msgid "`h' is meaningless in awk formats; ignored"
+msgstr ""
+
+msgid "`l' is meaningless in awk formats; ignored"
+msgstr ""
+
+msgid "`length(array)' is a gawk extension"
+msgstr ""
+
+msgid "`next' used in %s action"
+msgstr ""
+
+msgid "`nextfile' used in %s action"
+msgstr ""
+
+msgid "`return' not allowed in current context; statement ignored"
+msgstr ""
+
+msgid "`return' used outside function context"
+msgstr ""
+
+msgid "`silent' valid only in command `commands'"
+msgstr ""
+
+msgid "`|&' not supported"
+msgstr ""
+
+msgid "accessing fields from an END rule may not be portable"
+msgstr ""
+
+msgid "add_ext_func: received NULL name_space parameter"
+msgstr ""
+
+msgid "adump: first argument not an array"
+msgstr ""
+
+msgid "already included source file `%s'"
+msgstr ""
+
+msgid "already loaded shared library `%s'"
+msgstr ""
+
+msgid "and: argument %d is non-numeric"
+msgstr ""
+
+msgid "and: argument %d negative value %g is not allowed"
+msgstr ""
+
+msgid "and: called with less than two arguments"
+msgstr ""
+
+msgid "api_flatten_array_typed: could not convert index %d to %s"
+msgstr ""
+
+msgid "api_flatten_array_typed: could not convert value %d to %s"
+msgstr ""
+
+msgid "api_get_mpfr: MPFR not supported"
+msgstr ""
+
+msgid "argument not a string"
+msgstr ""
+
+msgid "array `%s' is empty\n"
+msgstr ""
+
+msgid "array value has unknown type %d"
+msgstr ""
+
+msgid "asort: cannot use a subarray of first arg for second arg"
+msgstr ""
+
+msgid "asort: cannot use a subarray of second arg for first arg"
+msgstr ""
+
+msgid "asort: first argument not an array"
+msgstr ""
+
+msgid "asort: second argument not an array"
+msgstr ""
+
+msgid "asorti: cannot use a subarray of first arg for second arg"
+msgstr ""
+
+msgid "asorti: cannot use a subarray of second arg for first arg"
+msgstr ""
+
+msgid "asorti: first argument not an array"
+msgstr ""
+
+msgid "asorti: second argument not an array"
+msgstr ""
+
+msgid "atan2: received non-numeric first argument"
+msgstr ""
+
+msgid "atan2: received non-numeric second argument"
+msgstr ""
+
+msgid "attempt to access field %ld"
+msgstr ""
+
+msgid "attempt to field reference from non-numeric value"
+msgstr ""
+
+msgid "attempt to field reference from null string"
+msgstr ""
+
+msgid "attempt to use a scalar value as array"
+msgstr ""
+
+msgid "attempt to use array `%s' in a scalar context"
+msgstr ""
+
+msgid "attempt to use array `%s[\"%.*s\"]' in a scalar context"
+msgstr ""
+
+msgid "attempt to use non-function `%s' in function call"
+msgstr ""
+
+msgid "attempt to use scalar `%s' as an array"
+msgstr ""
+
+msgid "attempt to use scalar `%s[\"%.*s\"]' as an array"
+msgstr ""
+
+msgid "attempt to use scalar `%s[\"%.*s\"]' as array"
+msgstr ""
+
+msgid "attempt to use scalar parameter `%s' as an array"
+msgstr ""
+
+msgid "attempt to use scalar value as array"
+msgstr ""
+
+msgid "awk_value_to_node: MPFR not supported"
+msgstr ""
+
+msgid "awk_value_to_node: invalid number type `%d'"
+msgstr ""
+
+msgid "awk_value_to_node: not in MPFR mode"
+msgstr ""
+
+msgid "awk_value_to_node: received null retval"
+msgstr ""
+
+msgid "backslash not last character on line"
+msgstr ""
+
+msgid "backslash string continuation is not portable"
+msgstr ""
+
+msgid ""
+"backtrace [N] - print trace of all or N innermost (outermost if N < 0) "
+"frames."
+msgstr ""
+
+msgid "bad `%sFMT' specification `%s'"
+msgstr ""
+
+msgid ""
+"behavior of matching a regexp containing NUL characters is not defined by "
+"POSIX"
+msgstr ""
+
+msgid ""
+"break [[filename:]N|function] - set breakpoint at the specified location."
+msgstr ""
+
+msgid "breakpoint %d set at file `%s', line %d is unconditional\n"
+msgstr ""
+
+msgid "buffer overflow in genflags2str"
+msgstr ""
+
+msgid "call of `length' without parentheses is not portable"
+msgstr ""
+
+msgid "can not pop main context"
+msgstr ""
+
+msgid "can not use special variable `%s' for indirect function call"
+msgstr ""
+
+msgid "can't include `%s' and use it as a program file"
+msgstr ""
+
+msgid "can't open pipe `%s' for input (%s)"
+msgstr ""
+
+msgid "can't open pipe `%s' for output (%s)"
+msgstr ""
+
+msgid "can't open shared library `%s' for reading (%s)"
+msgstr ""
+
+msgid "can't open source file `%s' for reading (%s)"
+msgstr ""
+
+msgid "can't open two way pipe `%s' for input/output (%s)"
+msgstr ""
+
+msgid "can't read command (%s)"
+msgstr ""
+
+msgid "can't read command (%s)\n"
+msgstr ""
+
+msgid "can't read source file `%s' (%s)"
+msgstr ""
+
+msgid "can't read sourcefile `%s' (%s)"
+msgstr ""
+
+msgid "can't redirect from `%s' (%s)"
+msgstr ""
+
+msgid "can't redirect to `%s' (%s)"
+msgstr ""
+
+msgid "can't set binary mode on stderr (%s)"
+msgstr ""
+
+msgid "can't set binary mode on stdin (%s)"
+msgstr ""
+
+msgid "can't set binary mode on stdout (%s)"
+msgstr ""
+
+msgid ""
+"cannot assign a value to the result of a field post-increment expression"
+msgstr ""
+
+msgid "cannot create child process for `%s' (fork: %s)"
+msgstr ""
+
+msgid "cannot find end of BEGINFILE rule"
+msgstr ""
+
+msgid "cannot find source file named `%s' (%s)"
+msgstr ""
+
+msgid "cannot open file `%s' for reading (%s)"
+msgstr ""
+
+msgid "cannot open pipe `%s' (%s)"
+msgstr ""
+
+msgid "cannot open unrecognized file type `%s' for `%s'"
+msgstr ""
+
+msgid "cannot use function `%s' as variable name"
+msgstr ""
+
+msgid "cannot use gawk builtin `%s' as variable name"
+msgstr ""
+
+msgid "character class syntax is [[:space:]], not [:space:]"
+msgstr ""
+
+msgid "chr: called with inappropriate argument(s)"
+msgstr ""
+
+msgid "clear [[filename:]N|function] - delete breakpoints previously set."
+msgstr ""
+
+msgid "close of `%s' failed (%s)."
+msgstr ""
+
+msgid "close of fd %d (`%s') failed (%s)"
+msgstr ""
+
+msgid "close of master pty failed (%s)"
+msgstr ""
+
+msgid "close of pipe failed (%s)"
+msgstr ""
+
+msgid "close of redirection that was never opened"
+msgstr ""
+
+msgid "close of slave pty failed (%s)"
+msgstr ""
+
+msgid "close of stdin in child failed (%s)"
+msgstr ""
+
+msgid "close of stdout in child failed (%s)"
+msgstr ""
+
+msgid "close: `%.*s' is not an open file, pipe or co-process"
+msgstr ""
+
+msgid "close: redirection `%s' not opened with `|&', second argument ignored"
+msgstr ""
+
+msgid "close: second argument is a gawk extension"
+msgstr ""
+
+msgid "close: second argument must be `to' or `from'"
+msgstr ""
+
+msgid "cmd. line:"
+msgstr ""
+
+msgid "co-process flush of pipe to `%s' failed (%s)."
+msgstr ""
+
+msgid "command line argument `%s' is a directory: skipped"
+msgstr ""
+
+msgid ""
+"commands [num] - starts a list of commands to be executed at a "
+"breakpoint(watchpoint) hit."
+msgstr ""
+
+msgid "comp(%Rg): fractional value will be truncated"
+msgstr ""
+
+msgid "compl(%Rg): negative value is not allowed"
+msgstr ""
+
+msgid "compl(%Zd): negative values are not allowed"
+msgstr ""
+
+msgid "compl(%f): fractional value will be truncated"
+msgstr ""
+
+msgid "compl(%f): negative value is not allowed"
+msgstr ""
+
+msgid "compl: received non-numeric argument"
+msgstr ""
+
+msgid "concatenation as I/O `>' redirection target is ambiguous"
+msgstr ""
+
+msgid ""
+"condition num [expr] - set or clear breakpoint or watchpoint condition."
+msgstr ""
+
+msgid "condition: invalid breakpoint/watchpoint number"
+msgstr ""
+
+msgid "continue [COUNT] - continue program being debugged."
+msgstr ""
+
+msgid "cos: received non-numeric argument"
+msgstr ""
+
+msgid "could not allocate more input memory"
+msgstr ""
+
+msgid "could not create child process or open pty"
+msgstr ""
+
+msgid "could not make typed regex"
+msgstr ""
+
+msgid "could not open `%s' for writing (%s)"
+msgstr ""
+
+msgid "could not open `%s' for writing: %s"
+msgstr ""
+
+msgid "could not open `%s', mode `%s'"
+msgstr ""
+
+msgid "could not pre-open /dev/null for fd %d"
+msgstr ""
+
+msgid "data file `%s' is empty"
+msgstr ""
+
+msgid "dcgettext: `%s' is not a valid locale category"
+msgstr ""
+
+msgid "decrementing NF is not portable to many awk versions"
+msgstr ""
+
+msgid "delete [breakpoints] [range] - delete specified breakpoints."
+msgstr ""
+
+msgid "delete: index `%.*s' not in array `%s'"
+msgstr ""
+
+msgid "dir_take_control_of: opendir/fdopendir failed: %s"
+msgstr ""
+
+msgid "disable [breakpoints] [range] - disable specified breakpoints."
+msgstr ""
+
+msgid "display [var] - print value of variable each time the program stops."
+msgstr ""
+
+msgid "division by zero attempted"
+msgstr ""
+
+msgid "division by zero attempted in `%%'"
+msgstr ""
+
+msgid "division by zero attempted in `%%='"
+msgstr ""
+
+msgid "division by zero attempted in `/='"
+msgstr ""
+
+msgid "do_reada: argument 0 is not a string\n"
+msgstr ""
+
+msgid "do_reada: argument 1 is not an array\n"
+msgstr ""
+
+msgid "do_reada: clear_array failed\n"
+msgstr ""
+
+msgid "do_writea: argument 0 is not a string\n"
+msgstr ""
+
+msgid "do_writea: argument 1 is not an array\n"
+msgstr ""
+
+msgid "down [N] - move N frames down the stack."
+msgstr ""
+
+msgid "dump [filename] - dump instructions to file or stdout."
+msgstr ""
+
+msgid "duplicate `default' detected in switch body"
+msgstr ""
+
+msgid "duplicate case values in switch body: %s"
+msgstr ""
+
+msgid "each rule must have a pattern or an action part"
+msgstr ""
+
+msgid "element not in array\n"
+msgstr ""
+
+msgid "empty argument to `-e/--source' ignored"
+msgstr ""
+
+msgid "empty filename after @include"
+msgstr ""
+
+msgid "empty filename after @load"
+msgstr ""
+
+msgid "empty program text on command line"
+msgstr ""
+
+msgid ""
+"enable [once|del] [breakpoints] [range] - enable specified breakpoints."
+msgstr ""
+
+msgid "enable: invalid option - \"%s\""
+msgstr ""
+
+msgid "end - end a list of commands or awk statements."
+msgstr ""
+
+msgid "environment variable `POSIXLY_CORRECT' set: turning on `--posix'"
+msgstr ""
+
+msgid "error (%s): cannot restart, ignoring rest of the commands\n"
+msgstr ""
+
+msgid "error writing standard error (%s)"
+msgstr ""
+
+msgid "error writing standard output (%s)"
+msgstr ""
+
+msgid "error: "
+msgstr ""
+
+msgid "error: cannot restart, operation not allowed\n"
+msgstr ""
+
+msgid "escape sequence `\\%c' treated as plain `%c'"
+msgstr ""
+
+msgid "eval stmt|[p1, p2, ...] - evaluate awk statement(s)."
+msgstr ""
+
+msgid "exit - (same as quit) exit debugger."
+msgstr ""
+
+msgid "exp: argument %g is out of range"
+msgstr ""
+
+msgid "exp: received non-numeric argument"
+msgstr ""
+
+msgid "expression for `%s' redirection has null string value"
+msgstr ""
+
+msgid "expression in `%s' redirection is a number"
+msgstr ""
+
+msgid "extensions are not allowed in sandbox mode"
+msgstr ""
+
+msgid "failure status (%d) on file close of `%s' (%s)"
+msgstr ""
+
+msgid "failure status (%d) on pipe close of `%s' (%s)"
+msgstr ""
+
+msgid "fatal error: internal error"
+msgstr ""
+
+msgid "fatal error: internal error: segfault"
+msgstr ""
+
+msgid "fatal error: internal error: stack overflow"
+msgstr ""
+
+msgid "fatal: "
+msgstr ""
+
+msgid "fatal: `$' is not permitted in awk formats"
+msgstr ""
+
+msgid "fatal: `$' not permitted after period in format"
+msgstr ""
+
+msgid "fatal: `L' is not permitted in POSIX awk formats"
+msgstr ""
+
+msgid "fatal: `h' is not permitted in POSIX awk formats"
+msgstr ""
+
+msgid "fatal: `l' is not permitted in POSIX awk formats"
+msgstr ""
+
+msgid "fatal: arg count %ld greater than total number of supplied arguments"
+msgstr ""
+
+msgid "fatal: arg count with `$' must be > 0"
+msgstr ""
+
+msgid "fatal: must use `count$' on all formats or none"
+msgstr ""
+
+msgid "fatal: no `$' supplied for positional field width or precision"
+msgstr ""
+
+msgid "fatal: not enough arguments to satisfy format string"
+msgstr ""
+
+msgid "fflush: `%.*s' is not an open file, pipe or co-process"
+msgstr ""
+
+msgid "fflush: cannot flush file `%.*s': %s"
+msgstr ""
+
+msgid "fflush: cannot flush standard error: %s"
+msgstr ""
+
+msgid "fflush: cannot flush standard output: %s"
+msgstr ""
+
+msgid "fflush: cannot flush: file `%.*s' opened for reading, not writing"
+msgstr ""
+
+msgid "fflush: cannot flush: pipe `%.*s' opened for reading, not writing"
+msgstr ""
+
+msgid "fflush: cannot flush: two-way pipe `%.*s' has closed write end"
+msgstr ""
+
+msgid "field width and precision are ignored for `%%' specifier"
+msgstr ""
+
+msgid "field width is ignored for `%%' specifier"
+msgstr ""
+
+msgid "file flush of `%s' failed (%s)."
+msgstr ""
+
+msgid ""
+"filename `%.*s' for `%s' redirection may be result of logical expression"
+msgstr ""
+
+msgid "fill_error_element: could not set element"
+msgstr ""
+
+msgid "fill_path_element: could not set element"
+msgstr ""
+
+msgid "fill_stat_element: could not create array"
+msgstr ""
+
+msgid "fill_stat_element: could not set element"
+msgstr ""
+
+msgid "finish - execute until selected stack frame returns."
+msgstr ""
+
+msgid "floating point exception"
+msgstr ""
+
+msgid "fnmatch init: could not add FNM_NOMATCH variable"
+msgstr ""
+
+msgid "fnmatch init: could not install FNM array"
+msgstr ""
+
+msgid "fnmatch init: could not set array element %s"
+msgstr ""
+
+msgid "fnmatch is not implemented on this system\n"
+msgstr ""
+
+msgid "fnmatch: could not get first argument"
+msgstr ""
+
+msgid "fnmatch: could not get second argument"
+msgstr ""
+
+msgid "fnmatch: could not get third argument"
+msgstr ""
+
+msgid "fork: PROCINFO is not an array!"
+msgstr ""
+
+msgid "frame [N] - select and print stack frame number N."
+msgstr ""
+
+msgid "from %s"
+msgstr ""
+
+msgid "fts init: could not create variable %s"
+msgstr ""
+
+msgid "fts is not supported on this system"
+msgstr ""
+
+msgid "fts-process: could not create array"
+msgstr ""
+
+msgid "fts-process: could not set element"
+msgstr ""
+
+msgid "fts: bad first parameter"
+msgstr ""
+
+msgid "fts: bad second parameter"
+msgstr ""
+
+msgid "fts: bad third parameter"
+msgstr ""
+
+msgid "fts: called with incorrect number of arguments, expecting 3"
+msgstr ""
+
+msgid "fts: clear_array() failed\n"
+msgstr ""
+
+msgid "fts: could not flatten array\n"
+msgstr ""
+
+msgid "fts: ignoring sneaky FTS_NOSTAT flag. nyah, nyah, nyah."
+msgstr ""
+
+msgid "function `%s' called but never defined"
+msgstr ""
+
+msgid "function `%s' called with more arguments than declared"
+msgstr ""
+
+msgid ""
+"function `%s' called with space between name and `(',\n"
+"or used as a variable or an array"
+msgstr ""
+
+msgid "function `%s' defined but never called directly"
+msgstr ""
+
+msgid "function `%s': argument #%d: attempt to use array as a scalar"
+msgstr ""
+
+msgid "function `%s': argument #%d: attempt to use scalar as an array"
+msgstr ""
+
+msgid "function `%s': can't use function `%s' as a parameter name"
+msgstr ""
+
+msgid "function `%s': can't use function name as parameter name"
+msgstr ""
+
+msgid "function `%s': can't use special variable `%s' as a function parameter"
+msgstr ""
+
+msgid "function `%s': parameter #%d, `%s', duplicates parameter #%d"
+msgstr ""
+
+msgid "function `%s': parameter `%s' cannot contain a namespace"
+msgstr ""
+
+msgid "function `%s': parameter `%s' shadows global variable"
+msgstr ""
+
+msgid "function name `%s' previously defined"
+msgstr ""
+
+msgid ""
+"gawk is a pattern scanning and processing language.\n"
+"By default it reads standard input and writes standard output.\n"
+"\n"
+msgstr ""
+
+msgid "gensub: third argument `%.*s' treated as 1"
+msgstr ""
+
+msgid "get_file cannot create pipe `%s' with fd %d"
+msgstr ""
+
+msgid ""
+"get_file socket creation not supported on this platform for `%s' with fd %d"
+msgstr ""
+
+msgid "getline: attempt to read from closed read end of two-way pipe"
+msgstr ""
+
+msgid "gettimeofday: not supported on this platform"
+msgstr ""
+
+msgid "help [command] - print list of commands or explanation of command."
+msgstr ""
+
+msgid ""
+"hex escape \\x%.*s of %d characters probably not interpreted the way you "
+"expect"
+msgstr ""
+
+msgid "identifier %s: namespace separator is two colons, not one"
+msgstr ""
+
+msgid "identifier %s: qualified names not allowed in traditional / POSIX mode"
+msgstr ""
+
+msgid ""
+"identifier `%s': namespace separator can only appear once in a qualified "
+"name"
+msgstr ""
+
+msgid "ignore N COUNT - set ignore-count of breakpoint number N to COUNT."
+msgstr ""
+
+msgid ""
+"ignoring unknown format specifier character `%c': no argument converted"
+msgstr ""
+
+msgid "index: received non-string first argument"
+msgstr ""
+
+msgid "index: received non-string second argument"
+msgstr ""
+
+msgid "index: regexp constant as second argument is not allowed"
+msgstr ""
+
+msgid "indirect call to %s requires at least two arguments"
+msgstr ""
+
+msgid "indirect function calls are a gawk extension"
+msgstr ""
+
+msgid ""
+"info topic - "
+"source|sources|variables|functions|break|frame|args|locals|display|watch."
+msgstr ""
+
+msgid "info: invalid option - \"%s\""
+msgstr ""
+
+msgid "inplace::begin: Cannot stat `%s' (%s)"
+msgstr ""
+
+msgid "inplace::begin: `%s' is not a regular file"
+msgstr ""
+
+msgid "inplace::begin: cannot retrieve 1st argument as a string filename"
+msgstr ""
+
+msgid "inplace::begin: chmod failed (%s)"
+msgstr ""
+
+msgid "inplace::begin: close(%d) failed (%s)"
+msgstr ""
+
+msgid "inplace::begin: disabling in-place editing for invalid FILENAME `%s'"
+msgstr ""
+
+msgid "inplace::begin: dup(stdout) failed (%s)"
+msgstr ""
+
+msgid "inplace::begin: dup2(%d, stdout) failed (%s)"
+msgstr ""
+
+msgid "inplace::begin: expects 2 arguments but called with %d"
+msgstr ""
+
+msgid "inplace::begin: in-place editing already active"
+msgstr ""
+
+msgid "inplace::begin: mkstemp(`%s') failed (%s)"
+msgstr ""
+
+msgid "inplace::end: cannot retrieve 1st argument as a string filename"
+msgstr ""
+
+msgid "inplace::end: close(%d) failed (%s)"
+msgstr ""
+
+msgid "inplace::end: dup2(%d, stdout) failed (%s)"
+msgstr ""
+
+msgid "inplace::end: expects 2 arguments but called with %d"
+msgstr ""
+
+msgid "inplace::end: fsetpos(stdout) failed (%s)"
+msgstr ""
+
+msgid "inplace::end: in-place editing not active"
+msgstr ""
+
+msgid "inplace::end: link(`%s', `%s') failed (%s)"
+msgstr ""
+
+msgid "inplace::end: rename(`%s', `%s') failed (%s)"
+msgstr ""
+
+msgid ""
+"input parser `%s' conflicts with previously installed input parser `%s'"
+msgstr ""
+
+msgid "input parser `%s' failed to open `%s'"
+msgstr ""
+
+msgid "input record too large"
+msgstr ""
+
+msgid "int: received non-numeric argument"
+msgstr ""
+
+msgid "intdiv: division by zero attempted"
+msgstr ""
+
+msgid "intdiv: received non-numeric first argument"
+msgstr ""
+
+msgid "intdiv: received non-numeric second argument"
+msgstr ""
+
+msgid "intdiv: third argument is not an array"
+msgstr ""
+
+msgid "internal error: %s with null vname"
+msgstr ""
+
+msgid "internal error: builtin with null fname"
+msgstr ""
+
+msgid "invalid FIELDWIDTHS value, for field %d, near `%s'"
+msgstr ""
+
+msgid "invalid NUL byte in dynamic regexp"
+msgstr ""
+
+msgid "invalid breakpoint number"
+msgstr ""
+
+msgid "invalid breakpoint number %d."
+msgstr ""
+
+msgid "invalid breakpoint/watchpoint number"
+msgstr ""
+
+msgid "invalid char '%c' in expression"
+msgstr ""
+
+msgid "invalid character"
+msgstr ""
+
+msgid "invalid character class"
+msgstr ""
+
+msgid "invalid character in command"
+msgstr ""
+
+msgid "invalid content of \\{\\}"
+msgstr ""
+
+msgid "invalid frame number"
+msgstr ""
+
+msgid "invalid frame number: %d"
+msgstr ""
+
+msgid "invalid number"
+msgstr ""
+
+msgid "invalid range specification: %d - %d"
+msgstr ""
+
+msgid "invalid source line %d in file `%s'"
+msgstr ""
+
+msgid "invalid subscript expression"
+msgstr ""
+
+msgid "invalid target of assignment (opcode %s)"
+msgstr ""
+
+msgid "length: received array argument"
+msgstr ""
+
+msgid "length: received non-string argument"
+msgstr ""
+
+msgid "line number %d in file `%s' out of range"
+msgstr ""
+
+msgid "line number %d out of range; `%s' has %d lines"
+msgstr ""
+
+msgid "list [-|+|[filename:]lineno|function|range] - list specified line(s)."
+msgstr ""
+
+msgid "load_ext: cannot open library `%s' (%s)"
+msgstr ""
+
+msgid "load_ext: library `%s' initialization routine `%s' failed"
+msgstr ""
+
+msgid "load_ext: library `%s': cannot call function `%s' (%s)"
+msgstr ""
+
+msgid ""
+"load_ext: library `%s': does not define `plugin_is_GPL_compatible' (%s)"
+msgstr ""
+
+msgid "load_ext: received NULL lib_name"
+msgstr ""
+
+msgid "local port %s invalid in `/inet'"
+msgstr ""
+
+msgid "local port %s invalid in `/inet': %s"
+msgstr ""
+
+msgid "log: received negative argument %g"
+msgstr ""
+
+msgid "log: received non-numeric argument"
+msgstr ""
+
+msgid "lshift(%f, %f): fractional values will be truncated"
+msgstr ""
+
+msgid "lshift(%f, %f): negative values are not allowed"
+msgstr ""
+
+msgid "lshift(%f, %f): too large shift value will give strange results"
+msgstr ""
+
+msgid "lshift: received non-numeric first argument"
+msgstr ""
+
+msgid "lshift: received non-numeric second argument"
+msgstr ""
+
+msgid "make_builtin: can't redefine function `%s'"
+msgstr ""
+
+msgid "make_builtin: can't use gawk built-in `%s' as function name"
+msgstr ""
+
+msgid "make_builtin: can't use gawk built-in `%s' as namespace name"
+msgstr ""
+
+msgid "make_builtin: function `%s' already defined"
+msgstr ""
+
+msgid "make_builtin: function name `%s' previously defined"
+msgstr ""
+
+msgid "make_builtin: missing function name"
+msgstr ""
+
+msgid "make_builtin: negative argument count for function `%s'"
+msgstr ""
+
+msgid "match: third argument is a gawk extension"
+msgstr ""
+
+msgid "match: third argument is not an array"
+msgstr ""
+
+msgid "mktime: at least one of the values is out of the default range"
+msgstr ""
+
+msgid "mktime: received non-string argument"
+msgstr ""
+
+msgid "moving pipe to stdin in child failed (dup: %s)"
+msgstr ""
+
+msgid "moving pipe to stdout in child failed (dup: %s)"
+msgstr ""
+
+msgid "moving slave pty to stdin in child failed (dup: %s)"
+msgstr ""
+
+msgid "moving slave pty to stdout in child failed (dup: %s)"
+msgstr ""
+
+msgid "multicharacter value of `RS' is a gawk extension"
+msgstr ""
+
+msgid "multidimensional arrays are a gawk extension"
+msgstr ""
+
+msgid "multistage two-way pipelines don't work"
+msgstr ""
+
+msgid "namespace name `%s' must meet identifier naming rules"
+msgstr ""
+
+msgid "next [COUNT] - step program, proceeding through subroutine calls."
+msgstr ""
+
+msgid ""
+"nexti [COUNT] - step one instruction, but proceed through subroutine calls."
+msgstr ""
+
+msgid "no breakpoint/watchpoint has been set yet"
+msgstr ""
+
+msgid "no current source file."
+msgstr ""
+
+msgid "no explicit close of co-process `%s' provided"
+msgstr ""
+
+msgid "no explicit close of file `%s' provided"
+msgstr ""
+
+msgid "no explicit close of pipe `%s' provided"
+msgstr ""
+
+msgid "no explicit close of socket `%s' provided"
+msgstr ""
+
+msgid "no hex digits in `\\x' escape sequence"
+msgstr ""
+
+msgid "no pre-opened fd %d"
+msgstr ""
+
+msgid "no program text at all!"
+msgstr ""
+
+msgid "no such function - \"%s\""
+msgstr ""
+
+msgid "no symbol `%s' in current context\n"
+msgstr ""
+
+msgid "no syntax specified"
+msgstr ""
+
+msgid ""
+"node_to_awk_value detected invalid flags combination `%s'; please file a bug"
+" report."
+msgstr ""
+
+msgid ""
+"node_to_awk_value: detected invalid numeric flags combination `%s'; please "
+"file a bug report."
+msgstr ""
+
+msgid "node_to_awk_value: received null node"
+msgstr ""
+
+msgid "node_to_awk_value: received null val"
+msgstr ""
+
+msgid "non-numeric value for field number"
+msgstr ""
+
+msgid "non-numeric value found, numeric expected"
+msgstr ""
+
+msgid "non-redirected `getline' invalid inside `%s' rule"
+msgstr ""
+
+msgid "non-redirected `getline' undefined inside END action"
+msgstr ""
+
+msgid "non-zero integer value"
+msgstr ""
+
+msgid "null string for `FS' is a gawk extension"
+msgstr ""
+
+msgid "old awk does not support multidimensional arrays"
+msgstr ""
+
+msgid "old awk does not support multiple `BEGIN' or `END' rules"
+msgstr ""
+
+msgid "old awk does not support operator `**'"
+msgstr ""
+
+msgid "old awk does not support operator `**='"
+msgstr ""
+
+msgid "old awk does not support regexps as value of `FS'"
+msgstr ""
+
+msgid "old awk does not support the `\\%c' escape sequence"
+msgstr ""
+
+msgid "old awk does not support the keyword `in' except after `for'"
+msgstr ""
+
+msgid "opcode %s not an operator or keyword"
+msgstr ""
+
+msgid "operator `^' is not supported in old awk"
+msgstr ""
+
+msgid "operator `^=' is not supported in old awk"
+msgstr ""
+
+msgid "option [name[=value]] - set or display debugger option(s)."
+msgstr ""
+
+msgid "option: invalid parameter - \"%s\""
+msgstr ""
+
+msgid "or: argument %d is non-numeric"
+msgstr ""
+
+msgid "or: argument %d negative value %g is not allowed"
+msgstr ""
+
+msgid "or: called with less than two arguments"
+msgstr ""
+
+msgid "ord: called with inappropriate argument(s)"
+msgstr ""
+
+msgid ""
+"output wrapper `%s' conflicts with previously installed output wrapper `%s'"
+msgstr ""
+
+msgid "output wrapper `%s' failed to open `%s'"
+msgstr ""
+
+msgid "patsplit: cannot use a subarray of fourth arg for second arg"
+msgstr ""
+
+msgid "patsplit: cannot use a subarray of second arg for fourth arg"
+msgstr ""
+
+msgid "patsplit: cannot use the same array for second and fourth args"
+msgstr ""
+
+msgid "patsplit: fourth argument is not an array"
+msgstr ""
+
+msgid "patsplit: second argument is not an array"
+msgstr ""
+
+msgid "patsplit: third argument must be non-null"
+msgstr ""
+
+msgid "pipe flush of `%s' failed (%s)."
+msgstr ""
+
+msgid "plain `print' in BEGIN or END rule should probably be `print \"\"'"
+msgstr ""
+
+msgid "precision is ignored for `%%' specifier"
+msgstr ""
+
+msgid "print var [var] - print value of a variable or array."
+msgstr ""
+
+msgid "print: attempt to write to closed write end of two-way pipe"
+msgstr ""
+
+msgid "printf format, [arg], ... - formatted output."
+msgstr ""
+
+msgid "printf: attempt to write to closed write end of two-way pipe"
+msgstr ""
+
+msgid "printf: no arguments"
+msgstr ""
+
+msgid "program not running."
+msgstr ""
+
+msgid "q"
+msgstr ""
+
+msgid "qualified identifier `%s' is badly formed"
+msgstr ""
+
+msgid "quit - exit debugger."
+msgstr ""
+
+msgid ""
+"reached system limit for open files: starting to multiplex file descriptors"
+msgstr ""
+
+msgid "read_array: set_array_element failed\n"
+msgstr ""
+
+msgid "readfile: called with wrong kind of argument"
+msgstr ""
+
+msgid "reason unknown"
+msgstr ""
+
+msgid "redir2str: unknown redirection type %d"
+msgstr ""
+
+msgid "redirection not allowed in sandbox mode"
+msgstr ""
+
+msgid "reference to uninitialized argument `%s'"
+msgstr ""
+
+msgid "reference to uninitialized field `$%d'"
+msgstr ""
+
+msgid "reference to uninitialized field `$%ld'"
+msgstr ""
+
+msgid "reference to uninitialized variable `%s'"
+msgstr ""
+
+msgid "regexp component `%.*s' should probably be `[%.*s]'"
+msgstr ""
+
+msgid "regexp constant `/%s/' looks like a C comment, but is not"
+msgstr ""
+
+msgid "regexp constant `//' looks like a C++ comment, but is not"
+msgstr ""
+
+msgid "regexp constant for parameter #%d yields boolean value"
+msgstr ""
+
+msgid "regexp escape sequence `\\%c' is not a known regexp operator"
+msgstr ""
+
+msgid "regexp escape sequence `\\%c' treated as plain `%c'"
+msgstr ""
+
+msgid "register_input_parser: received NULL pointer"
+msgstr ""
+
+msgid "register_output_processor: received NULL pointer"
+msgstr ""
+
+msgid "register_output_wrapper: received NULL pointer"
+msgstr ""
+
+msgid "regular expression on left of `~' or `!~' operator"
+msgstr ""
+
+msgid "regular expression on right of assignment"
+msgstr ""
+
+msgid "regular expression on right of comparison"
+msgstr ""
+
+msgid "regular expression too big"
+msgstr ""
+
+msgid "remote host and port information (%s, %s) invalid"
+msgstr ""
+
+msgid "remote host and port information (%s, %s) invalid: %s"
+msgstr ""
+
+msgid "remove_element: received null array"
+msgstr ""
+
+msgid "remove_element: received null subscript"
+msgstr ""
+
+msgid "restoring stdin in parent process failed"
+msgstr ""
+
+msgid "restoring stdout in parent process failed"
+msgstr ""
+
+msgid "return [value] - make selected stack frame return to its caller."
+msgstr ""
+
+msgid "revoutput: could not initialize REVOUT variable"
+msgstr ""
+
+msgid "rshift(%f, %f): fractional values will be truncated"
+msgstr ""
+
+msgid "rshift(%f, %f): negative values are not allowed"
+msgstr ""
+
+msgid "rshift(%f, %f): too large shift value will give strange results"
+msgstr ""
+
+msgid "rshift: received non-numeric first argument"
+msgstr ""
+
+msgid "rshift: received non-numeric second argument"
+msgstr ""
+
+msgid "run - start or restart executing program."
+msgstr ""
+
+msgid "running %s setuid root may be a security problem"
+msgstr ""
+
+msgid "save \"%s\": command not permitted."
+msgstr ""
+
+msgid "save filename - save commands from the session to file."
+msgstr ""
+
+msgid "sending output to stdout\n"
+msgstr ""
+
+msgid "sending profile to standard error"
+msgstr ""
+
+msgid "sending variable list to standard error"
+msgstr ""
+
+msgid "set or show debugger prompt."
+msgstr ""
+
+msgid "set or show gawk output file."
+msgstr ""
+
+msgid "set or show the list command window size."
+msgstr ""
+
+msgid "set or show the number of lines to keep in history file."
+msgstr ""
+
+msgid "set var = value - assign value to a scalar variable."
+msgstr ""
+
+msgid "shadow_funcs() called twice!"
+msgstr ""
+
+msgid ""
+"silent - suspends usual message when stopped at a breakpoint/watchpoint."
+msgstr ""
+
+msgid "sin: received non-numeric argument"
+msgstr ""
+
+msgid "sleep: argument is negative"
+msgstr ""
+
+msgid "sleep: missing required numeric argument"
+msgstr ""
+
+msgid "sleep: not supported on this platform"
+msgstr ""
+
+msgid "sort comparison function `%s' is not defined"
+msgstr ""
+
+msgid "source \"%s\": already sourced."
+msgstr ""
+
+msgid "source file - execute commands from file."
+msgstr ""
+
+msgid "source file `%s' is empty"
+msgstr ""
+
+msgid "source file `%s' is empty.\n"
+msgstr ""
+
+msgid "source file `%s' modified since start of program execution"
+msgstr ""
+
+msgid "source file does not end in newline"
+msgstr ""
+
+msgid ""
+"source files / command-line arguments must contain complete functions or "
+"rules"
+msgstr ""
+
+msgid "split: cannot use a subarray of fourth arg for second arg"
+msgstr ""
+
+msgid "split: cannot use a subarray of second arg for fourth arg"
+msgstr ""
+
+msgid "split: cannot use the same array for second and fourth args"
+msgstr ""
+
+msgid "split: fourth argument is a gawk extension"
+msgstr ""
+
+msgid "split: fourth argument is not an array"
+msgstr ""
+
+msgid "split: null string for third arg is a non-standard extension"
+msgstr ""
+
+msgid "split: second argument is not an array"
+msgstr ""
+
+msgid "sprintf: no arguments"
+msgstr ""
+
+msgid "sqrt: called with negative argument %g"
+msgstr ""
+
+msgid "sqrt: received non-numeric argument"
+msgstr ""
+
+msgid "srand: received non-numeric argument"
+msgstr ""
+
+msgid "standard error"
+msgstr ""
+
+msgid "standard output"
+msgstr ""
+
+msgid "stat: bad parameters"
+msgstr ""
+
+msgid "stat: unable to read symbolic link `%s'"
+msgstr ""
+
+msgid "step [COUNT] - step program until it reaches a different source line."
+msgstr ""
+
+msgid "stepi [COUNT] - step one instruction exactly."
+msgstr ""
+
+msgid "strftime: format value in PROCINFO[\"strftime\"] has numeric type"
+msgstr ""
+
+msgid "strftime: received empty format string"
+msgstr ""
+
+msgid "strftime: received non-numeric second argument"
+msgstr ""
+
+msgid "strftime: received non-string first argument"
+msgstr ""
+
+msgid "strftime: second argument less than 0 or too big for time_t"
+msgstr ""
+
+msgid "strftime: second argument out of range for time_t"
+msgstr ""
+
+msgid ""
+"substr: length %g at start index %g exceeds length of first argument (%lu)"
+msgstr ""
+
+msgid "substr: length %g is not >= 0"
+msgstr ""
+
+msgid "substr: length %g is not >= 1"
+msgstr ""
+
+msgid "substr: length %g too big for string indexing, truncating to %g"
+msgstr ""
+
+msgid "substr: non-integer length %g will be truncated"
+msgstr ""
+
+msgid "substr: non-integer start index %g will be truncated"
+msgstr ""
+
+msgid "substr: source string is zero length"
+msgstr ""
+
+msgid "substr: start index %g is invalid, using 1"
+msgstr ""
+
+msgid "substr: start index %g is past end of string"
+msgstr ""
+
+msgid "system: received non-string argument"
+msgstr ""
+
+msgid "tawk regex modifier `/.../%c' doesn't work in gawk"
+msgstr ""
+
+msgid "tbreak [[filename:]N|function] - set a temporary breakpoint."
+msgstr ""
+
+msgid "there were shadowed variables."
+msgstr ""
+
+msgid "tolower: received non-string argument"
+msgstr ""
+
+msgid "too many arguments supplied for format string"
+msgstr ""
+
+msgid "too many pipes or input files open"
+msgstr ""
+
+msgid "toupper: received non-string argument"
+msgstr ""
+
+msgid "trace on|off - print instruction before executing."
+msgstr ""
+
+msgid "trace: invalid option - \"%s\""
+msgstr ""
+
+msgid "treating recovered value with unknown type code %d as a string"
+msgstr ""
+
+msgid "turning off `--lint' due to assignment to `LINT'"
+msgstr ""
+
+msgid "two way processor `%s' failed to open `%s'"
+msgstr ""
+
+msgid ""
+"two-way processor `%s' conflicts with previously installed two-way processor"
+" `%s'"
+msgstr ""
+
+msgid ""
+"typeof detected invalid flags combination `%s'; please file a bug report."
+msgstr ""
+
+msgid "typeof: invalid argument type `%s'"
+msgstr ""
+
+msgid "typeof: second argument is not an array"
+msgstr ""
+
+msgid "typeof: unknown argument type `%s'"
+msgstr ""
+
+msgid "unbalanced ("
+msgstr ""
+
+msgid "unbalanced )"
+msgstr ""
+
+msgid "unbalanced ["
+msgstr ""
+
+msgid "undefined command: %s\n"
+msgstr ""
+
+msgid "undisplay [N] - remove variable(s) from automatic display list."
+msgstr ""
+
+msgid "unexpected eof while reading file `%s', line %d"
+msgstr ""
+
+msgid "unexpected newline or end of string"
+msgstr ""
+
+msgid "unfinished \\ escape"
+msgstr ""
+
+msgid "unknown command - \"%.*s\", try help"
+msgstr ""
+
+msgid "unknown nodetype %d"
+msgstr ""
+
+msgid "unknown opcode %d"
+msgstr ""
+
+msgid "unnecessary mixing of `>' and `>>' for file `%.*s'"
+msgstr ""
+
+msgid "unterminated regexp"
+msgstr ""
+
+msgid "unterminated regexp at end of file"
+msgstr ""
+
+msgid "unterminated regexp ends with `\\' at end of file"
+msgstr ""
+
+msgid "unterminated string"
+msgstr ""
+
+msgid ""
+"until [[filename:]N|function] - execute until program reaches a different "
+"line or line N within current frame."
+msgstr ""
+
+msgid "untyped variable\n"
+msgstr ""
+
+msgid "unwatch [N] - remove variable(s) from watch list."
+msgstr ""
+
+msgid "unwind_stack: unexpected type `%s'"
+msgstr ""
+
+msgid "up [N] - move N frames up the stack."
+msgstr ""
+
+msgid "use of `\\ #...' line continuation is not portable"
+msgstr ""
+
+msgid "use of dcgettext(_\"...\") is incorrect: remove leading underscore"
+msgstr ""
+
+msgid "use of dcngettext(_\"...\") is incorrect: remove leading underscore"
+msgstr ""
+
+msgid "using reserved identifier `%s' as a namespace is not allowed"
+msgstr ""
+
+msgid ""
+"using reserved identifier `%s' as second component of a qualified name is "
+"not allowed"
+msgstr ""
+
+msgid "warning: "
+msgstr ""
+
+msgid "watch var - set a watchpoint for a variable."
+msgstr ""
+
+msgid "watchpoint %d is unconditional\n"
+msgstr ""
+
+msgid ""
+"where [N] - (same as backtrace) print trace of all or N innermost (outermost"
+" if N < 0) frames."
+msgstr ""
+
+msgid "write_array: could not flatten array\n"
+msgstr ""
+
+msgid "write_array: could not release flattened array\n"
+msgstr ""
+
+msgid "xor: argument %d is non-numeric"
+msgstr ""
+
+msgid "xor: argument %d negative value %g is not allowed"
+msgstr ""
+
+msgid "xor: called with less than two arguments"
+msgstr ""
+
+msgid "y"
+msgstr ""

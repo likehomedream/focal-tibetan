@@ -1,0 +1,676 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-photos master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-photos/issues\n"
+"PO-Revision-Date: 2020-04-05 18:40+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:00+0000\n"
+
+msgid "%-d %B %Y"
+msgstr ""
+
+msgid "%d item deleted"
+msgid_plural "%d items deleted"
+msgstr[0] ""
+
+msgid "%d item exported"
+msgid_plural "%d items exported"
+msgstr[0] ""
+
+msgid "%d selected"
+msgid_plural "%d selected"
+msgstr[0] ""
+
+msgid "%d×%d (%s)"
+msgstr ""
+
+msgid "%ld × %ld pixel"
+msgid_plural "%ld × %ld pixels"
+msgstr[0] ""
+
+msgid "%s — %s"
+msgstr ""
+
+msgid "10×8 / 5×4"
+msgstr ""
+
+msgid "16×10 (1280×800)"
+msgstr ""
+
+msgid "16×9 (1920×1080)"
+msgstr ""
+
+msgid "1947"
+msgstr ""
+
+msgid "1×1 (Square)"
+msgstr ""
+
+msgid "3×2 / 6×4"
+msgstr ""
+
+msgid "4×3 / 8×6 (1024×768)"
+msgstr ""
+
+msgid "7×5"
+msgstr ""
+
+msgid "About Photos"
+msgstr ""
+
+msgid "Access, organize and share photos"
+msgstr ""
+
+msgid "Access, organize and share your photos on GNOME"
+msgstr ""
+
+msgid "Add to Album"
+msgstr ""
+
+msgid "Add to _Existing"
+msgstr ""
+
+msgid "Add to favorites"
+msgstr ""
+
+msgid "Album"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "An album for that date already exists"
+msgstr ""
+
+msgid "An album with that name already exists"
+msgstr ""
+
+msgid "Analyze"
+msgstr ""
+
+msgid "Aperture"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Blacks"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "C_enter:"
+msgstr ""
+
+msgid "Caap"
+msgstr ""
+
+msgid "Calculating export size…"
+msgstr ""
+
+msgid "Calistoga"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Click on items to select them"
+msgstr ""
+
+msgid "Collection View"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Create _New"
+msgstr ""
+
+msgid "Crop"
+msgstr ""
+
+msgid "D-Bus address to use"
+msgstr ""
+
+msgid "DLNA Renderer Devices"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Denoise"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgctxt "Dialog title"
+msgid "Organize"
+msgstr ""
+
+msgid "Dimensions"
+msgstr ""
+
+msgid "Discard all Edits"
+msgstr ""
+
+msgid "Display on…"
+msgstr ""
+
+msgctxt "Document Author"
+msgid "Author"
+msgstr ""
+
+msgctxt "Document Title"
+msgid "Title"
+msgstr ""
+
+msgctxt "Document Type"
+msgid "Type"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "E-Mail"
+msgstr ""
+
+msgctxt "Edit Filter"
+msgid "None"
+msgstr ""
+
+msgid "Edited in Photos"
+msgstr ""
+
+msgid "Empty Trash"
+msgstr ""
+
+msgid "Enhance"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export Folder"
+msgstr ""
+
+msgid "Export…"
+msgstr ""
+
+msgid "Exposure"
+msgstr ""
+
+msgid "F_ull"
+msgstr ""
+
+msgid "Failed to export"
+msgstr ""
+
+msgid "Failed to export: not enough space"
+msgstr ""
+
+msgid "Failed to upload photo"
+msgstr ""
+
+msgid "Failed to upload photo: Service not authorized"
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Fetching photos from %s"
+msgstr ""
+
+msgid "Fetching photos from online accounts"
+msgstr ""
+
+msgid "Filters"
+msgstr ""
+
+msgid "Flash"
+msgstr ""
+
+msgid "Focal Length"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Highlights"
+msgstr ""
+
+msgid "Hometown"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "ISO Speed"
+msgstr ""
+
+msgid "Image Settings"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import…"
+msgstr ""
+
+msgid "Inches"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Lock aspect ratio"
+msgstr ""
+
+msgid "Match"
+msgstr ""
+
+msgid "Millimeters"
+msgstr ""
+
+msgid "Modifications"
+msgstr ""
+
+msgid "Mogadishu"
+msgstr ""
+
+msgid "New device discovered"
+msgstr ""
+
+msgid "No albums found"
+msgstr ""
+
+msgid "No photos found"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Off, did not fire"
+msgstr ""
+
+msgid "On, fired"
+msgstr ""
+
+msgid "Online Accounts"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open with %s"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Photos from your %s and %s will appear here."
+msgstr ""
+
+msgid "Photos;Pictures;"
+msgstr ""
+
+msgid "Pictures folder"
+msgstr ""
+
+msgid "Portrait"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Print photos"
+msgstr ""
+
+msgid "Printing “%s”: %s"
+msgstr ""
+
+msgid "Print…"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Remove from favorites"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgctxt "Search Filter"
+msgid "Author"
+msgstr ""
+
+msgctxt "Search Filter"
+msgid "Title"
+msgstr ""
+
+msgctxt "Search Filter"
+msgid "Type"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Items"
+msgstr ""
+
+msgid "Select None"
+msgstr ""
+
+msgid "Select favorites"
+msgstr ""
+
+msgid "Select items for import"
+msgstr ""
+
+msgid "Select items for import (%u selected)"
+msgid_plural "Select items for import (%u selected)"
+msgstr[0] ""
+
+msgid "Set as Background"
+msgstr ""
+
+msgid "Set as Lock Screen"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shadows"
+msgstr ""
+
+msgid "Sharpen"
+msgstr ""
+
+msgid "Show the application's version"
+msgstr ""
+
+msgid "Show the empty state"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Some photos might not be available during this process"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Sources"
+msgstr ""
+
+msgid "Starred photos will appear here"
+msgstr ""
+
+msgid "Try a different search"
+msgstr ""
+
+msgid "Unable to fetch the list of photos"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Untouched"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "View recent local and online photos"
+msgstr ""
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window maximized state"
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window position (x and y)."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "You can create albums from the Photos view"
+msgstr ""
+
+msgid "Your %s credentials have expired"
+msgstr ""
+
+msgid "Your photos are being indexed"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Bottom:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Export"
+msgstr ""
+
+msgid "_Folder Name"
+msgstr ""
+
+msgid "_Height:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Left:"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Reduced"
+msgstr ""
+
+msgid "_Right:"
+msgstr ""
+
+msgid "_Scaling:"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Top:"
+msgstr ""
+
+msgid "_Unit:"
+msgstr ""
+
+msgid "_Width:"
+msgstr ""
+
+msgctxt "dialog title"
+msgid "Export"
+msgstr ""
+
+msgctxt "dialog title"
+msgid "Name Album"
+msgstr ""
+
+msgctxt "dialog title"
+msgid "Share"
+msgstr ""
+
+msgid "org.gnome.Photos"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Action menu"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Best fit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Cancel"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Delete"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Delete selected photos"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Edit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Edit view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Export"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Next photo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Overview"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Photo view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Previous photo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print selected photos"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "“%s” deleted"
+msgstr ""
+
+msgid "“%s” edited"
+msgstr ""
+
+msgid "“%s” exported"
+msgstr ""
+
+msgid "“%s” shared"
+msgstr ""

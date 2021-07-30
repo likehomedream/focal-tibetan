@@ -1,0 +1,1704 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-builder master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-builder&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-15 19:46+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:09+0000\n"
+
+msgid "%s contained invalid ASCII"
+msgstr ""
+
+msgid "%s is invalid for %s"
+msgstr ""
+
+msgid "%s: This file format is not supported\n"
+msgstr ""
+
+msgid "%s: failed to parse\n"
+msgstr ""
+
+msgid "%s: palette is empty\n"
+msgstr ""
+
+msgid "%u of %u"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "A failure occurred while initializing version control"
+msgstr ""
+
+msgid "A file with that name already exists."
+msgstr ""
+
+msgid "A folder with that name already exists."
+msgstr ""
+
+msgid "A place for all your projects"
+msgstr ""
+
+msgid "A valid Git URL is required"
+msgstr ""
+
+msgid "A zoomed out view to enhance navigating source code"
+msgstr ""
+
+msgid "AGPLv3+"
+msgstr ""
+
+msgid "A_dd"
+msgstr ""
+
+msgid "Add Word"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "All _Lower Case"
+msgstr ""
+
+msgid "All _Upper Case"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "All supported palettes formats"
+msgstr ""
+
+msgid "Allow the editor to scroll past the end of the buffer"
+msgstr ""
+
+msgid "An IDE for GNOME"
+msgstr ""
+
+msgid "An integrated software profiler for native applications"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Apply Fix-It"
+msgstr ""
+
+msgid "Auto indentation support for C, Python, Vala, and XML"
+msgstr ""
+
+msgid "Automatically Hide Overview Map"
+msgstr ""
+
+msgid "Automatically hide map when editor loses focus"
+msgstr ""
+
+msgid "Automatically hide overview map"
+msgstr ""
+
+msgid "Automatically indent"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid ""
+"Backspace will remove additional spaces to keep you aligned to the "
+"indentation size."
+msgstr ""
+
+msgid ""
+"Backspace will remove extra space to keep you aligned with your indentation"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Beautify"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Bootstrapping…"
+msgstr ""
+
+msgid "Bottom Panel Position"
+msgstr ""
+
+msgid "Branch"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "Build Output"
+msgstr ""
+
+msgid "Build Parallelism"
+msgstr ""
+
+msgid "Build Preferences"
+msgstr ""
+
+msgid "Build Profile"
+msgstr ""
+
+msgid "Build Workers"
+msgstr ""
+
+msgid "Build failed"
+msgstr ""
+
+msgid "Build software for GNOME"
+msgstr ""
+
+msgid "Build successful"
+msgstr ""
+
+msgid "Build;Develop;"
+msgstr ""
+
+msgid "Builder"
+msgstr ""
+
+msgid "Builder Dark"
+msgstr ""
+
+msgid ""
+"Builder has discovered that this file has been modified externally. Would "
+"you like to reload the file?"
+msgstr ""
+
+msgid ""
+"Builder is an actively developed Integrated Development Environment for "
+"GNOME. It combines integrated support for essential GNOME technologies such "
+"as GTK+, GLib, and GNOME APIs with features that any developer will "
+"appreciate, like syntax highlighting and snippets."
+msgstr ""
+
+msgid "Building cache…"
+msgstr ""
+
+msgid "Building dependencies…"
+msgstr ""
+
+msgid "Building…"
+msgstr ""
+
+msgid "Built in syntax highlighting for many languages"
+msgstr ""
+
+msgid "C_ut"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel build"
+msgstr ""
+
+msgid "Cannot run target, another target is running"
+msgstr ""
+
+msgid "Case sensitive"
+msgstr ""
+
+msgid "Cha_nge"
+msgstr ""
+
+msgid "Change A_ll"
+msgstr ""
+
+msgid "Change _to"
+msgstr ""
+
+msgid ""
+"Characters were used which might cause technical issues as a project name"
+msgstr ""
+
+msgid "Cielab a"
+msgstr ""
+
+msgid "Cielab b"
+msgstr ""
+
+msgid "Cielab l"
+msgstr ""
+
+msgid "Clang"
+msgstr ""
+
+msgid "Clang based auto-completion, semantic highlighting, and diagnostics"
+msgstr ""
+
+msgid "Clean"
+msgstr ""
+
+msgid "Cleaning…"
+msgstr ""
+
+msgid "Clone Project"
+msgstr ""
+
+msgid "Clone Repository"
+msgstr ""
+
+msgid "Close without Saving"
+msgstr ""
+
+msgid "Code Insight"
+msgstr ""
+
+msgid "Code Overview"
+msgstr ""
+
+msgid "Code assistance requires a local file."
+msgstr ""
+
+msgid "Color Components"
+msgstr ""
+
+msgid "Color Plane"
+msgstr ""
+
+msgid "Color Scheme"
+msgstr ""
+
+msgid "Color components"
+msgstr ""
+
+msgid "Color filter"
+msgstr ""
+
+msgid "Color name"
+msgstr ""
+
+msgid "Color strings"
+msgstr ""
+
+msgid "Color strings visibility"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Comment code"
+msgstr ""
+
+msgid "Completed spell checking"
+msgstr ""
+
+msgid "Completion"
+msgstr ""
+
+msgid "Configure Options"
+msgstr ""
+
+msgid "Configuring…"
+msgstr ""
+
+msgid "Could not parse XML from stream"
+msgstr ""
+
+msgid "Ctags based autocompletion"
+msgstr ""
+
+msgid "Current line"
+msgstr ""
+
+msgid "Cursor"
+msgstr ""
+
+msgid "Dark color scheme for Builder using the Tango color palette"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default keybinding mode which mimics gedit"
+msgstr ""
+
+msgid "Destination file must be within the project tree."
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Diagnostics"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "Directory already exists with that name"
+msgstr ""
+
+msgid "Directory for all Builder projects."
+msgstr ""
+
+msgid "Display Options"
+msgstr ""
+
+msgid "Display a grid pattern underneath source code"
+msgstr ""
+
+msgid "Display line numbers"
+msgstr ""
+
+msgid "Display right margin"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Downloading application sources…"
+msgstr ""
+
+msgid "Downloading…"
+msgstr ""
+
+msgid "Draw Spaces"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Emacs"
+msgstr ""
+
+msgid "Empty Project"
+msgstr ""
+
+msgid "Emulates the Emacs text editor"
+msgstr ""
+
+msgid "Emulates the Vim text editor"
+msgstr ""
+
+msgid "Emulation"
+msgstr ""
+
+msgid "Enable Pylint"
+msgstr ""
+
+msgid "Enable semantic highlighting"
+msgstr ""
+
+msgid ""
+"Enable the use of pylint to find additional diagnostics in Python programs. "
+"This may result in the execution of code in your project."
+msgstr ""
+
+msgid "Enable the use of pylint, which may execute code in your project"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enter a new name for the color"
+msgstr ""
+
+msgid "Enter a new name for the palette"
+msgstr ""
+
+msgid "Environment"
+msgstr ""
+
+msgid "Errors"
+msgstr ""
+
+msgid "Exporting…"
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failed to create the XML tree."
+msgstr ""
+
+msgid "Failed to initialize defaults."
+msgstr ""
+
+msgid "Failed to load the project"
+msgstr ""
+
+msgid "Failed to locate runtime"
+msgstr ""
+
+msgid "Failed to locate working directory"
+msgstr ""
+
+msgid "Failed to parse integer from “%s”"
+msgstr ""
+
+msgid "Features:"
+msgstr ""
+
+msgid "File Name"
+msgstr ""
+
+msgid "File must be saved locally to parse."
+msgstr ""
+
+msgid "File must be within the project tree."
+msgstr ""
+
+msgid "Filters:"
+msgstr ""
+
+msgid "Flatpak"
+msgstr ""
+
+msgid "Folder Name"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "From current document"
+msgstr ""
+
+msgid "Funded By"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "GIMP palette"
+msgstr ""
+
+msgid "GNOME Application"
+msgstr ""
+
+msgid "GNOME Builder"
+msgstr ""
+
+msgid "GNOME Builder palette"
+msgstr ""
+
+msgid "GPLv2+"
+msgstr ""
+
+msgid "GPLv3+"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Generate Support Log"
+msgstr ""
+
+msgid "Generated"
+msgstr ""
+
+msgid "Go"
+msgstr ""
+
+msgid "Go to Line"
+msgstr ""
+
+msgid "Go to line number"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Grid Pattern"
+msgstr ""
+
+msgid "H"
+msgstr ""
+
+msgid "HEX3"
+msgstr ""
+
+msgid "HEX6"
+msgstr ""
+
+msgid "HSL"
+msgstr ""
+
+msgid "HSLA"
+msgstr ""
+
+msgid "HSV visibility"
+msgstr ""
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Highlight all occurrences of words matching the current selection"
+msgstr ""
+
+msgid "Highlight current line"
+msgstr ""
+
+msgid "Highlight matching brackets"
+msgstr ""
+
+msgid "Highlight matching brackets based on cursor position"
+msgstr ""
+
+msgid "Highlighting"
+msgstr ""
+
+msgid "Home moves to first non-whitespace character"
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid ""
+"If enabled, Builder will automatically hide the overview map when mouse "
+"focus leaves the editor, or a timeout occurs."
+msgstr ""
+
+msgid ""
+"If enabled, Builder will display an overview map of the source file next to "
+"the editor."
+msgstr ""
+
+msgid ""
+"If enabled, additional highlighting will be provided in supported languages "
+"based on information extracted from the source code."
+msgstr ""
+
+msgid "If enabled, the bottom panel will be displayed."
+msgstr ""
+
+msgid "If enabled, the editor will highlight matching brackets."
+msgstr ""
+
+msgid "If enabled, the editor will highlight the line containing the cursor."
+msgstr ""
+
+msgid "If enabled, the editor will show grid lines in the document."
+msgstr ""
+
+msgid ""
+"If enabled, the editor will show line additions and changes next to the "
+"source code."
+msgstr ""
+
+msgid "If enabled, the editor will show line numbers."
+msgstr ""
+
+msgid "If enabled, the left panel will be displayed."
+msgstr ""
+
+msgid ""
+"If enabled, the project tree will display files that are ignored by the VCS."
+msgstr ""
+
+msgid "If enabled, the right panel will be displayed."
+msgstr ""
+
+msgid "If the HSV components are visible."
+msgstr ""
+
+msgid "If the LAB components are visible."
+msgstr ""
+
+msgid "If the RGB components are visible."
+msgstr ""
+
+msgid "If the plugin should be enabled"
+msgstr ""
+
+msgid "If the type within the extension is enabled."
+msgstr ""
+
+msgid "Ignore _All"
+msgstr ""
+
+msgid "Indent source code as you type"
+msgstr ""
+
+msgid "Indentation"
+msgstr ""
+
+msgid "Insert spaces instead of tabs"
+msgstr ""
+
+msgid "Insert “%s”"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installing…"
+msgstr ""
+
+msgid "Integration with Git"
+msgstr ""
+
+msgid "Invalid :syntax subcommand: %s"
+msgstr ""
+
+msgid "Invalid search and replace request"
+msgstr ""
+
+msgid "Join Lines"
+msgstr ""
+
+msgid "Jump to the last position when reopening a file"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgctxt "Keywords"
+msgid "editor font monospace"
+msgstr ""
+
+msgctxt "Keywords"
+msgid "terminal font monospace"
+msgstr ""
+
+msgid "L*"
+msgstr ""
+
+msgid "LAB visibility"
+msgstr ""
+
+msgid "LGPLv2.1+"
+msgstr ""
+
+msgid "LGPLv3+"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Last build"
+msgstr ""
+
+msgid "Leading Only"
+msgstr ""
+
+msgid "Learn more about GNOME Builder"
+msgstr ""
+
+msgid "Left Panel Position"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Line Information"
+msgstr ""
+
+msgid "Line changes"
+msgstr ""
+
+msgid "Line numbers"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "Load"
+msgstr ""
+
+msgid "Load or generate a palette using the preferences"
+msgstr ""
+
+msgid "Load palette"
+msgstr ""
+
+msgid "MANIFEST"
+msgstr ""
+
+msgid "MIT/X11"
+msgstr ""
+
+msgid "Make current line stand out with highlights"
+msgstr ""
+
+msgid "Margins"
+msgstr ""
+
+msgid "Match whole word only"
+msgstr ""
+
+msgid "Matching brackets"
+msgstr ""
+
+msgid "Minimum number of lines to keep above and below the cursor"
+msgstr ""
+
+msgid "Misspelled"
+msgstr ""
+
+msgid "Move Left"
+msgstr ""
+
+msgid "Move Right"
+msgstr ""
+
+msgid "Movement"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New line and carriage return"
+msgstr ""
+
+msgid "New variable…"
+msgstr ""
+
+msgid "Night Mode"
+msgstr ""
+
+msgid "No beautifier available"
+msgstr ""
+
+msgid "No beautifier available for “%s”"
+msgstr ""
+
+msgid "No file was provided."
+msgstr ""
+
+msgid "No language selected"
+msgstr ""
+
+msgid "No language specified"
+msgstr ""
+
+msgid "No license"
+msgstr ""
+
+msgid "No loaded palettes"
+msgstr ""
+
+msgid "No open palettes"
+msgstr ""
+
+msgid "No selected palettes"
+msgstr ""
+
+msgid "No suggestions"
+msgstr ""
+
+msgid "Non-breaking spaces"
+msgstr ""
+
+msgid "Not a command: %s"
+msgstr ""
+
+msgid "Number of CPU"
+msgstr ""
+
+msgid "Number of parallel build workers"
+msgstr ""
+
+msgid ""
+"Number of workers to use when performing builds. -1 for sensible default. 0 "
+"for number of CPU."
+msgstr ""
+
+msgid "Number required"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open File"
+msgstr ""
+
+msgid "Open previously opened files when loading a project"
+msgstr ""
+
+msgid "Overscroll"
+msgstr ""
+
+msgid "Overwrite Braces"
+msgstr ""
+
+msgid "Overwrite closing braces"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "Palette management"
+msgstr ""
+
+msgid "Palette name"
+msgstr ""
+
+msgid "Palette view mode:"
+msgstr ""
+
+msgid "Palette: "
+msgstr ""
+
+msgid "Palettes"
+msgstr ""
+
+msgid "Palettes options"
+msgstr ""
+
+msgid "Path to ctags executable"
+msgstr ""
+
+msgid "Position in spaces for the right margin"
+msgstr ""
+
+msgid "Prefer dark application chrome."
+msgstr ""
+
+msgid "Prefer spaces over use of tabs"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preparing…"
+msgstr ""
+
+msgid "Process quit unexpectedly"
+msgstr ""
+
+msgid "Profiler"
+msgstr ""
+
+msgid "Programming Languages"
+msgstr ""
+
+msgid "Project Destination"
+msgstr ""
+
+msgid "Project Location"
+msgstr ""
+
+msgid "Project Name"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Projects directory"
+msgstr ""
+
+msgid "Provide a number between 1 and %u"
+msgstr ""
+
+msgid "Pylint"
+msgstr ""
+
+msgid "Python based auto-completion, semantic highlighting, and diagnostics"
+msgstr ""
+
+msgid "R"
+msgstr ""
+
+msgid "RGB"
+msgstr ""
+
+msgid "RGB unit"
+msgstr ""
+
+msgid "RGB visibility"
+msgstr ""
+
+msgid "RGBA"
+msgstr ""
+
+msgid "Ready"
+msgstr ""
+
+msgid "Rebuild"
+msgstr ""
+
+msgid "Recent Projects"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Regular expressions"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Rename %s"
+msgstr ""
+
+msgid "Rename symbol"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace All"
+msgstr ""
+
+msgid "Replace “%s” with “%s”"
+msgstr ""
+
+msgid "Repository URL"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Restore Previous Files"
+msgstr ""
+
+msgid "Restore cursor position"
+msgstr ""
+
+msgid "Restore cursor position when a file is reopened"
+msgstr ""
+
+msgid "Restore last position"
+msgstr ""
+
+msgid "Restore previously opened files"
+msgstr ""
+
+msgid "Restore previously opened files when loading a project."
+msgstr ""
+
+msgid "Right Panel Position"
+msgstr ""
+
+msgid "Right margin position"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Run with Profiler"
+msgstr ""
+
+msgid "Runtime"
+msgstr ""
+
+msgid "S"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save As…"
+msgstr ""
+
+msgid "Save Terminal Content As"
+msgstr ""
+
+msgid "Save palette"
+msgstr ""
+
+msgid "Scroll Offset"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search languages…"
+msgstr ""
+
+msgid "Select Project Directory"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select _None"
+msgstr ""
+
+msgid "Select a Template"
+msgstr ""
+
+msgid "Select a palette file"
+msgstr ""
+
+msgid ""
+"Select the color spaces for which you want to see sliders in the panel."
+msgstr ""
+
+msgid "Select the color strings you want to see in the panel."
+msgstr ""
+
+msgid "Select the palette you want to see in the panel or close one."
+msgstr ""
+
+msgid ""
+"Select the type of unit you want to use for RGB components and strings in "
+"the panel."
+msgstr ""
+
+msgid "Selected palette ID"
+msgstr ""
+
+msgid "Selection"
+msgstr ""
+
+msgid "Semantic Highlighting"
+msgstr ""
+
+msgid "Shared Library"
+msgstr ""
+
+msgid "Show Bottom Panel"
+msgstr ""
+
+msgid "Show Icons"
+msgstr ""
+
+msgid "Show Ignored Files"
+msgstr ""
+
+msgid "Show Left Panel"
+msgstr ""
+
+msgid "Show Right Panel"
+msgstr ""
+
+msgid "Show errors and warnings provided by Clang"
+msgstr ""
+
+msgid "Show grid lines"
+msgstr ""
+
+msgid "Show if a line was added or modified next to line number"
+msgstr ""
+
+msgid "Show line number at beginning of each line"
+msgstr ""
+
+msgid "Show line numbers"
+msgstr ""
+
+msgid "Show modified lines"
+msgstr ""
+
+msgid "Show or hide search options such as case sensitivity"
+msgstr ""
+
+msgid "Show overview map"
+msgstr ""
+
+msgid "Show right margin"
+msgstr ""
+
+msgid "Side-by-side code editors"
+msgstr ""
+
+msgid "Smart Backspace"
+msgstr ""
+
+msgid "Smart Home and End"
+msgstr ""
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Sort Directories First"
+msgstr ""
+
+msgid "Sort Lines"
+msgstr ""
+
+msgid "Source Code Editor"
+msgstr ""
+
+msgid "Spaces"
+msgstr ""
+
+msgid "Spaces inside of text"
+msgstr ""
+
+msgid "Split"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Suggest completions using Ctags"
+msgstr ""
+
+msgid "Swatches"
+msgstr ""
+
+msgid "Switch between Search and Search-and-Replace"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
+msgid "Sysprof Capture (*.syscap)"
+msgstr ""
+
+msgid "Tab width"
+msgstr ""
+
+msgid "Tabs"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "The current language lacks a symbol resolver."
+msgstr ""
+
+msgid "The default color scheme for Builder"
+msgstr ""
+
+msgid "The filter used on the color scales and color plane."
+msgstr ""
+
+msgid "The height in pixel units of the bottom panel."
+msgstr ""
+
+msgid "The number of lines to scroll beyond the end of the buffer."
+msgstr ""
+
+msgid "The path to the ctags executable on the system."
+msgstr ""
+
+msgid "The selected palette ID among the loaded ones."
+msgstr ""
+
+msgid "The unit used by RGB component and strings."
+msgstr ""
+
+msgid "The various types of space to draw in the editor."
+msgstr ""
+
+msgid "The visible color strings."
+msgstr ""
+
+msgid "The width in pixel units of the left panel."
+msgstr ""
+
+msgid "The width in pixel units of the right panel."
+msgstr ""
+
+msgid "The word is not in the dictionary"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "This command requires a GtkSourceView to be focused"
+msgstr ""
+
+msgid "This command requires a view to be focused"
+msgstr ""
+
+msgid "This word is already in the %s dictionary"
+msgstr ""
+
+msgid "This word is already in the personal dictionary"
+msgstr ""
+
+msgid "Trailing Only"
+msgstr ""
+
+msgid "Trim trailing whitespace"
+msgstr ""
+
+msgid "Try loading or generating a palette using the menu"
+msgstr ""
+
+msgid "Unable to open %s\n"
+msgstr ""
+
+msgid "Unable to save %s\n"
+msgstr ""
+
+msgid "Uncomment code"
+msgstr ""
+
+msgid "Units:"
+msgstr ""
+
+msgid "Unknown option: %s"
+msgstr ""
+
+msgid "Unsaved palette %u"
+msgstr ""
+
+msgid "Untitled terminal"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Upon saving, trailing whitespace from modified lines will be trimmed."
+msgstr ""
+
+msgid "Use Clang to suggest completions for C and C++ languages"
+msgstr ""
+
+msgid "Use Ctags for autocompletion."
+msgstr ""
+
+msgid "Use Jedi to provide completions for the Python language"
+msgstr ""
+
+msgid ""
+"Use code insight to highlight additional information discovered in source "
+"file"
+msgstr ""
+
+msgid "Uses the Git version control system"
+msgstr ""
+
+msgid "V"
+msgstr ""
+
+msgid "Vala"
+msgstr ""
+
+msgid "Vala based auto-completion and diagnostics"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Version Control"
+msgstr ""
+
+msgid "Vim"
+msgstr ""
+
+msgid "Visibility:"
+msgstr ""
+
+msgid "Warnings"
+msgstr ""
+
+msgid "Whether Builder should use a dark theme"
+msgstr ""
+
+msgid "Whether or not Home moves to first non-space character."
+msgstr ""
+
+msgid "Width of a tab character in spaces"
+msgstr ""
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window maximized state"
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window position (x and y)."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "Words matching selection"
+msgstr ""
+
+msgid "Workspace"
+msgstr ""
+
+msgid ""
+"You can rely on predictable releases of Builder with each new release of "
+"GNOME every six months."
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Zoom _In"
+msgstr ""
+
+msgid "Zoom _Out"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copy Link Address"
+msgstr ""
+
+msgid "_Create"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Go to Definition"
+msgstr ""
+
+msgid "_Ignore"
+msgstr ""
+
+msgid "_Invert Case"
+msgstr ""
+
+msgid "_Language"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open Link"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Suggestions"
+msgstr ""
+
+msgid "_Title Case"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "a*"
+msgstr ""
+
+msgid "anonymous"
+msgstr ""
+
+msgid "b*"
+msgstr ""
+
+msgid "clang diagnostics warnings errors"
+msgstr ""
+
+msgid "dark theme"
+msgstr ""
+
+msgid "failed to parse\n"
+msgstr ""
+
+msgid "failed to parse line %i\n"
+msgstr ""
+
+msgid "language defaults missing version in [global] group."
+msgstr ""
+
+msgid "org.gnome.Builder"
+msgstr ""
+
+msgid "pylint python lint code execute execution"
+msgstr ""
+
+msgid "quick highlight words matching current selection"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Build"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Build and Run"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Clear highlight"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Command Bar"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy and Paste"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy selected text to clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Create new document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Cut selected text to clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Decrement number at cursor"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Delete line"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Duplicate current line or selection"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Editing"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Editor Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Files"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find and replace"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find the next match"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find the previous match"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Global Search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Increment number at cursor"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Join selected lines"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Jump to definition of symbol"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move to matching bracket"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move to next edit location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move to next error in file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move to previous edit location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move to previous error in file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move viewport down within the file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move viewport to beginning of file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move viewport to end of file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move viewport up within the file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Panels"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Paste text from clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Profile"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Redo previous command"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reindent line"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rename symbol"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Requires semantic language support"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Run"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Selections"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show completion window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show list of open documents"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to the next document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to the previous document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Terminal"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Terminal Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle bottom panel"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle left panel"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle overwrite"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Touchpad gestures"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo and Redo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo previous command"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Unselect all"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "unversioned"
+msgstr ""
+
+msgid "user@host:repository.git"
+msgstr ""

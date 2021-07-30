@@ -1,0 +1,342 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: webkit HEAD\n"
+"Report-Msgid-Bugs-To: http://bugs.webkit.org/\n"
+"PO-Revision-Date: 2018-05-25 08:34+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:06+0000\n"
+
+msgid "Check Spelling While _Typing"
+msgstr ""
+
+msgid "Check _Grammar With Spelling"
+msgstr ""
+
+msgid "Choose File"
+msgstr ""
+
+msgid "Cop_y Image"
+msgstr ""
+
+msgid "Copy Link Loc_ation"
+msgstr ""
+
+msgid "Determines the current progress of the download"
+msgstr ""
+
+msgid "Editable"
+msgstr ""
+
+msgid "Enable Caret Browsing"
+msgstr ""
+
+msgid "Enable Site Specific Quirks"
+msgstr ""
+
+msgid "Enable embedded plugin objects."
+msgstr ""
+
+msgid "Enable offline web application cache"
+msgstr ""
+
+msgid "Enable page cache"
+msgstr ""
+
+msgid "Enables the site-specific compatibility workarounds"
+msgstr ""
+
+msgid "Ignore _Grammar"
+msgstr ""
+
+msgid "Input _Methods"
+msgstr ""
+
+msgid "Inspect _Element"
+msgstr ""
+
+msgid "Inspected URI"
+msgstr ""
+
+msgid "JavaScript can open windows automatically"
+msgstr ""
+
+msgid "LRE Left-to-right _embedding"
+msgstr ""
+
+msgid "LRM _Left-to-right mark"
+msgstr ""
+
+msgid "LRO Left-to-right _override"
+msgstr ""
+
+msgid "Live Broadcast"
+msgstr ""
+
+msgid "Load images automatically."
+msgstr ""
+
+msgid "No Guesses Found"
+msgstr ""
+
+msgid "No recent searches"
+msgstr ""
+
+msgid "Open Link in New _Window"
+msgstr ""
+
+msgid "Open _Frame in New Window"
+msgstr ""
+
+msgid "Open _Image in New Window"
+msgstr ""
+
+msgid "PDF _Pop directional formatting"
+msgstr ""
+
+msgid "Print Backgrounds"
+msgstr ""
+
+msgid "RLE Right-to-left e_mbedding"
+msgstr ""
+
+msgid "RLM _Right-to-left mark"
+msgstr ""
+
+msgid "RLO Right-to-left o_verride"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Sa_ve Image As"
+msgstr ""
+
+msgid "Spelling and _Grammar"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Suggested Filename"
+msgstr ""
+
+msgid "The URI that is currently being inspected"
+msgstr ""
+
+msgid "The default font size used to display monospace text."
+msgstr ""
+
+msgid "The default font size used to display text."
+msgstr ""
+
+msgid "The minimum font size used to display text."
+msgstr ""
+
+msgid "This is a searchable index. Enter search keywords: "
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "URI"
+msgstr ""
+
+msgid "User cancelled the download"
+msgstr ""
+
+msgid "Web Inspector"
+msgstr ""
+
+msgid "Web View"
+msgstr ""
+
+msgid "Whether the page cache should be used"
+msgstr ""
+
+msgid "Whether to enable accessibility enhanced keyboard navigation"
+msgstr ""
+
+msgid "ZWJ Zero width _joiner"
+msgstr ""
+
+msgid "ZWNJ Zero width _non-joiner"
+msgstr ""
+
+msgid "ZWS _Zero width space"
+msgstr ""
+
+msgid "Zoom level"
+msgstr ""
+
+msgid "_Check Document Now"
+msgstr ""
+
+msgid "_Download Linked File"
+msgstr ""
+
+msgid "_Font"
+msgstr ""
+
+msgid "_Hide Spelling and Grammar"
+msgstr ""
+
+msgid "_Ignore Spelling"
+msgstr ""
+
+msgid "_Insert Unicode Control Character"
+msgstr ""
+
+msgid "_Learn Spelling"
+msgstr ""
+
+msgid "_Open Link"
+msgstr ""
+
+msgid "_Outline"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remember password"
+msgstr ""
+
+msgid "_Search the Web"
+msgstr ""
+
+msgid "_Show Spelling and Grammar"
+msgstr ""
+
+msgid "activate"
+msgstr ""
+
+msgid "audio element playback controls and status display"
+msgstr ""
+
+msgid "back 30 seconds"
+msgstr ""
+
+msgid "begin playback"
+msgstr ""
+
+msgid "check"
+msgstr ""
+
+msgid "current movie status"
+msgstr ""
+
+msgid "current movie time in seconds"
+msgstr ""
+
+msgid "definition"
+msgstr ""
+
+msgid "elapsed time"
+msgstr ""
+
+msgid "fast forward"
+msgstr ""
+
+msgid "fast reverse"
+msgstr ""
+
+msgid "hide closed captions"
+msgstr ""
+
+msgid "indefinite time"
+msgstr ""
+
+msgid "jump"
+msgstr ""
+
+msgid "movie time"
+msgstr ""
+
+msgid "movie time scrubber"
+msgstr ""
+
+msgid "movie time scrubber thumb"
+msgstr ""
+
+msgid "mute"
+msgstr ""
+
+msgid "mute audio tracks"
+msgstr ""
+
+msgid "number of seconds of movie remaining"
+msgstr ""
+
+msgid "pause"
+msgstr ""
+
+msgid "pause playback"
+msgstr ""
+
+msgid "play"
+msgstr ""
+
+msgid "press"
+msgstr ""
+
+msgid "range overflow"
+msgstr ""
+
+msgid "range underflow"
+msgstr ""
+
+msgid "remaining time"
+msgstr ""
+
+msgid "return to realtime"
+msgstr ""
+
+msgid "seek movie back 30 seconds"
+msgstr ""
+
+msgid "seek quickly back"
+msgstr ""
+
+msgid "seek quickly forward"
+msgstr ""
+
+msgid "select"
+msgstr ""
+
+msgid "show closed captions"
+msgstr ""
+
+msgid "start displaying closed captions"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "stop displaying closed captions"
+msgstr ""
+
+msgid "term"
+msgstr ""
+
+msgid "timeline slider thumb"
+msgstr ""
+
+msgid "uncheck"
+msgstr ""
+
+msgid "unmute"
+msgstr ""
+
+msgid "unmute audio tracks"
+msgstr ""
+
+msgid "video element playback controls and status display"
+msgstr ""

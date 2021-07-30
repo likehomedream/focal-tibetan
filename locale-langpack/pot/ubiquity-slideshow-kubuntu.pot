@@ -1,0 +1,95 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ubiquity-slideshow-ubuntu\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-10-06 13:44+0000\n"
+"Last-Translator: Luo Yufan <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:20+0000\n"
+"X-Poedit-Language: zh_CN\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Document Viewer"
+msgstr ""
+
+msgid "Dolphin"
+msgstr ""
+
+msgid "File Manager"
+msgstr ""
+
+msgid "Find everything you need on your new install"
+msgstr ""
+
+msgid "Getting help with Kubuntu"
+msgstr ""
+
+msgid "Getting involved with Kubuntu"
+msgstr ""
+
+msgid "Kate"
+msgstr ""
+
+msgid ""
+"Kubuntu Community: <a "
+"href=\"https://www.kubuntu.org/community\">http://www.kubuntu.org/community</a>"
+msgstr ""
+
+msgid ""
+"Kubuntu Manual: <a "
+"href=\"https://kubuntu.org/support/\">https://kubuntu.org/support</a>"
+msgstr ""
+
+msgid ""
+"Kubuntu Support: <a "
+"href=\"https://www.kubuntu.org/support\">http://www.kubuntu.org/support</a>"
+msgstr ""
+
+msgid ""
+"Kubuntu comes with most of the applications that you need on a daily basis."
+msgstr ""
+
+msgid "Kubuntu: for all users"
+msgstr ""
+
+msgid "LibreOffice"
+msgstr ""
+
+msgid "Media Player"
+msgstr ""
+
+msgid "Office Suite"
+msgstr ""
+
+msgid "Okular"
+msgstr ""
+
+msgid "Software Center"
+msgstr ""
+
+msgid "Text Editor"
+msgstr ""
+
+msgid "Thanks for picking Kubuntu!"
+msgstr ""
+
+msgid "The installation will finish soon. We hope you enjoy Kubuntu!"
+msgstr ""
+
+msgid "VLC"
+msgstr ""
+
+msgid "We want Kubuntu to work for everyone."
+msgstr ""
+
+msgid "Web Browser"
+msgstr ""
+
+msgid "Welcome to Kubuntu"
+msgstr ""

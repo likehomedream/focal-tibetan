@@ -1,0 +1,184 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=swell-foop&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 03:13+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:56+0000\n"
+
+msgid "%u point"
+msgid_plural "%u points"
+msgstr[0] ""
+
+msgid "%u × %u, %u color"
+msgid_plural "%u × %u, %u colors"
+msgstr[0] ""
+
+msgid "Abandon this game to start a new one?"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Board color count"
+msgstr ""
+
+msgid "Board size"
+msgstr ""
+
+msgid ""
+"Clear as many blocks as you can.\n"
+"Fewer clicks means more points."
+msgstr ""
+
+msgid "Clear the screen by removing groups of colored and shaped tiles"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Copyright © 2009 Tim Horton"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Game Over!"
+msgstr ""
+
+msgid "High Scores"
+msgstr ""
+
+msgid "High _Scores"
+msgstr ""
+
+msgid ""
+"I want to play that game!\n"
+"You know, they all light-up and you click on them and they vanish!"
+msgstr ""
+
+msgid "Is this the first run"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Let’s _Play"
+msgstr ""
+
+msgid "New Game"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Operation"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid ""
+"Remove as many squares as possible from the board. Click on a group of "
+"squares of the same color to make them all disappear in one fell swoop, "
+"causing other squares to fall into place. It is not possible to remove a "
+"single square at a time. You get far more points for clearing a larger group"
+" of squares, and also for clearing the entire board."
+msgstr ""
+
+msgid "Score"
+msgstr ""
+
+msgid "Score: %u"
+msgstr ""
+
+msgid "Setting to decide whether to show first-run hint dialog or not."
+msgstr ""
+
+msgid "Setup"
+msgstr ""
+
+msgid "Shapes and Colors"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Swell Foop"
+msgstr ""
+
+msgid ""
+"Swell Foop is always very quick to play, but you can make it somewhat longer"
+" by changing the board size."
+msgstr ""
+
+msgid "The number of colors of tiles to use in the game."
+msgstr ""
+
+msgid "The size of the game board."
+msgstr ""
+
+msgid "The theme to use"
+msgstr ""
+
+msgid "The title of the tile theme to use."
+msgstr ""
+
+msgid "Use more flashy, but slower, animations."
+msgstr ""
+
+msgid "Welcome to Swell Foop"
+msgstr ""
+
+msgid "Zealous animation"
+msgstr ""
+
+msgid "_Board size:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_New Game"
+msgstr ""
+
+msgid "_Number of colors:"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Play Again"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Theme:"
+msgstr ""
+
+msgid "_Zealous Animation"
+msgstr ""
+
+msgid "game;logic;board;same;matching;"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

@@ -1,0 +1,2695 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shotwell-0.15\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=shotwell&keywords=I18N+L10N&component=Internationalization\n"
+"PO-Revision-Date: 2020-04-07 06:46+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:23+0000\n"
+
+msgid ""
+"\n"
+"\n"
+"And %d other."
+msgid_plural ""
+"\n"
+"\n"
+"And %d others."
+msgstr[0] ""
+
+msgid ""
+"\n"
+"\n"
+"Would you like to continue exporting?"
+msgstr ""
+
+msgid " Site Not Found"
+msgstr ""
+
+msgid "%.1f seconds"
+msgstr ""
+
+msgid "%B"
+msgstr ""
+
+msgid "%Y"
+msgstr ""
+
+msgid "%a %b %d, %Y"
+msgstr ""
+
+msgid "%d Event"
+msgid_plural "%d Events"
+msgstr[0] ""
+
+msgid "%d Photo"
+msgid_plural "%d Photos"
+msgstr[0] ""
+
+msgid "%d Photo/Video"
+msgid_plural "%d Photos/Videos"
+msgstr[0] ""
+
+msgid "%d Video"
+msgid_plural "%d Videos"
+msgstr[0] ""
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+
+msgid "%d%%"
+msgstr ""
+
+msgid "%m/%d/%Y, %H:%M:%S"
+msgstr ""
+
+msgid "%m/%d/%Y, %I:%M:%S %p"
+msgstr ""
+
+msgid "%s (%d%%)"
+msgstr ""
+
+msgid "%s Database"
+msgstr ""
+
+msgid "%s does not exist."
+msgstr ""
+
+msgid ""
+"%s does not support the file format of\n"
+"%s."
+msgstr ""
+
+msgid "%s is not a file."
+msgstr ""
+
+msgid "%s or Better"
+msgstr ""
+
+msgid "(Help)"
+msgstr ""
+
+msgid "(None)"
+msgstr ""
+
+msgid "(and %d more)\n"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "1 day"
+msgstr ""
+
+msgid "1 duplicate photo was not imported:\n"
+msgid_plural "%d duplicate photos were not imported:\n"
+msgstr[0] ""
+
+msgid "1 duplicate photo/video was not imported:\n"
+msgid_plural "%d duplicate photos/videos were not imported:\n"
+msgstr[0] ""
+
+msgid "1 duplicate video was not imported:\n"
+msgid_plural "%d duplicate videos were not imported:\n"
+msgstr[0] ""
+
+msgid "1 file failed to import because it was corrupt:\n"
+msgid_plural "%d files failed to import because it was corrupt:\n"
+msgstr[0] ""
+
+msgid ""
+"1 file failed to import because the photo library folder was not writable:\n"
+msgid_plural ""
+"%d files failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+
+msgid "1 file failed to import due to a camera error:\n"
+msgid_plural "%d files failed to import due to a camera error:\n"
+msgstr[0] ""
+
+msgid "1 file failed to import due to a file or hardware error:\n"
+msgid_plural "%d files failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+
+msgid "1 file skipped due to user cancel:\n"
+msgid_plural "%d file skipped due to user cancel:\n"
+msgstr[0] ""
+
+msgid "1 non-image file skipped.\n"
+msgid_plural "%d non-image files skipped.\n"
+msgstr[0] ""
+
+msgid "1 photo failed to import because it was corrupt:\n"
+msgid_plural "%d photos failed to import because they were corrupt:\n"
+msgstr[0] ""
+
+msgid ""
+"1 photo failed to import because the photo library folder was not "
+"writable:\n"
+msgid_plural ""
+"%d photos failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+
+msgid "1 photo failed to import due to a camera error:\n"
+msgid_plural "%d photos failed to import due to a camera error:\n"
+msgstr[0] ""
+
+msgid "1 photo failed to import due to a file or hardware error:\n"
+msgid_plural "%d photos failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+
+msgid "1 photo skipped due to user cancel:\n"
+msgid_plural "%d photos skipped due to user cancel:\n"
+msgstr[0] ""
+
+msgid "1 photo successfully imported.\n"
+msgid_plural "%d photos successfully imported.\n"
+msgstr[0] ""
+
+msgid "1 photo/video failed to import because it was corrupt:\n"
+msgid_plural "%d photos/videos failed to import because they were corrupt:\n"
+msgstr[0] ""
+
+msgid ""
+"1 photo/video failed to import because the photo library folder was not "
+"writable:\n"
+msgid_plural ""
+"%d photos/videos failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+
+msgid "1 photo/video failed to import due to a camera error:\n"
+msgid_plural "%d photos/videos failed to import due to a camera error:\n"
+msgstr[0] ""
+
+msgid "1 photo/video failed to import due to a file or hardware error:\n"
+msgid_plural ""
+"%d photos/videos failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+
+msgid "1 photo/video skipped due to user cancel:\n"
+msgid_plural "%d photos/videos skipped due to user cancel:\n"
+msgstr[0] ""
+
+msgid "1 photo/video successfully imported.\n"
+msgid_plural "%d photos/videos successfully imported.\n"
+msgstr[0] ""
+
+msgid "1 unsupported photo skipped:\n"
+msgid_plural "%d unsupported photos skipped:\n"
+msgstr[0] ""
+
+msgid "1 video failed to import because it was corrupt:\n"
+msgid_plural "%d videos failed to import because they were corrupt:\n"
+msgstr[0] ""
+
+msgid ""
+"1 video failed to import because the photo library folder was not "
+"writable:\n"
+msgid_plural ""
+"%d videos failed to import because the photo library folder was not "
+"writable:\n"
+msgstr[0] ""
+
+msgid "1 video failed to import due to a camera error:\n"
+msgid_plural "%d videos failed to import due to a camera error:\n"
+msgstr[0] ""
+
+msgid "1 video failed to import due to a file or hardware error:\n"
+msgid_plural "%d videos failed to import due to a file or hardware error:\n"
+msgstr[0] ""
+
+msgid "1 video skipped due to user cancel:\n"
+msgid_plural "%d videos skipped due to user cancel:\n"
+msgstr[0] ""
+
+msgid "1 video successfully imported.\n"
+msgid_plural "%d videos successfully imported.\n"
+msgstr[0] ""
+
+msgid "1024 × 768 pixels"
+msgstr ""
+
+msgid "11 × 14 in."
+msgstr ""
+
+msgid "1280 × 853 pixels"
+msgstr ""
+
+msgid "13 × 18 cm"
+msgstr ""
+
+msgid "16 images per page"
+msgstr ""
+
+msgid "16 × 20 in."
+msgstr ""
+
+msgid "18 × 24 cm"
+msgstr ""
+
+msgid "2 images per page"
+msgstr ""
+
+msgid "20 × 30 cm"
+msgstr ""
+
+msgid "2048 × 1536 pixels"
+msgstr ""
+
+msgid "24 Hr"
+msgstr ""
+
+msgid "24 × 40 cm"
+msgstr ""
+
+msgid "30 × 40 cm"
+msgstr ""
+
+msgid "32 images per page"
+msgstr ""
+
+msgid "4 images per page"
+msgstr ""
+
+msgid "4 × 6 in."
+msgstr ""
+
+msgid "4096 × 3072 pixels"
+msgstr ""
+
+msgid "5 × 7 in."
+msgstr ""
+
+msgid "500 × 375 pixels"
+msgstr ""
+
+msgid "6 images per page"
+msgstr ""
+
+msgid "8 images per page"
+msgstr ""
+
+msgid "8 × 10 in."
+msgstr ""
+
+msgid "<b>Pixel Resolution</b>"
+msgstr ""
+
+msgid "<b>Printed Image Size</b>"
+msgstr ""
+
+msgid "<b>Titles</b>"
+msgstr ""
+
+msgid "A _new album"
+msgstr ""
+
+msgid "A _new album named:"
+msgstr ""
+
+msgid "A temporary file needed for publishing is unavailable"
+msgstr ""
+
+msgid "A3 (297 × 420 mm)"
+msgstr ""
+
+msgid "A4 (210 × 297 mm)"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "Access _type:"
+msgstr ""
+
+msgid "Adjust"
+msgstr ""
+
+msgid "Adjust Date and Time"
+msgstr ""
+
+msgid "Adjust the size of the thumbnails"
+msgstr ""
+
+msgid "Adjusting Date and Time"
+msgstr ""
+
+msgid "Admins"
+msgstr ""
+
+msgid "Admins, Family"
+msgstr ""
+
+msgid "Admins, Family, Friends"
+msgstr ""
+
+msgid "Admins, Family, Friends, Contacts"
+msgstr ""
+
+msgid "Album comment"
+msgstr ""
+
+msgid "All + _Rejected"
+msgstr ""
+
+msgid "All photo source files are missing."
+msgstr ""
+
+msgid "An _existing album"
+msgstr ""
+
+msgid "An _existing album:"
+msgstr ""
+
+msgid "An error message occurred when publishing to Piwigo. Please try again."
+msgstr ""
+
+msgid "Angle:"
+msgstr ""
+
+msgid "Any text"
+msgstr ""
+
+msgid "Apply copied color adjustments to the selected photos"
+msgstr ""
+
+msgid "Applying Color Transformations"
+msgstr ""
+
+msgid "Artist:"
+msgstr ""
+
+msgid "Attempted to import %d file."
+msgid_plural "Attempted to import %d files."
+msgstr[0] ""
+
+msgid "BMP"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Blinds"
+msgstr ""
+
+msgid "Blogs:"
+msgstr ""
+
+msgid "By Exposure _Date"
+msgstr ""
+
+msgid "By _Rating"
+msgstr ""
+
+msgid "By _Title"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Camera error"
+msgstr ""
+
+msgid "Camera make:"
+msgstr ""
+
+msgid "Camera model:"
+msgstr ""
+
+msgid "Cameras"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Certificate of %s"
+msgstr ""
+
+msgid "Change slideshow settings"
+msgstr ""
+
+msgid "Change the rating of your photo"
+msgstr ""
+
+msgid "Chess"
+msgstr ""
+
+msgid "Choose <span weight=\"bold\">File %s Import From Folder</span>"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Circles"
+msgstr ""
+
+msgid "Click and drag to tag a face"
+msgstr ""
+
+msgid "Click to edit face <i>%s</i>"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Close the Faces tool without saving changes"
+msgstr ""
+
+msgid "Close the red-eye tool"
+msgstr ""
+
+msgid "Co_py Photos"
+msgstr ""
+
+msgid "Combine events into a single event"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Con_tinue"
+msgstr ""
+
+msgid "Connect a camera to your computer and import"
+msgstr ""
+
+msgid "Continue the slideshow"
+msgstr ""
+
+msgid "Contrast Expansion"
+msgstr ""
+
+msgid "Copy Color Adjustments"
+msgstr ""
+
+msgid "Copy the color adjustments applied to the photo"
+msgstr ""
+
+msgid "Copyright 2010+ Evgeniy Polyakov <zbr@ioremap.net>"
+msgstr ""
+
+msgid "Copyright 2012 BJA Electronics"
+msgstr ""
+
+msgid "Copyright 2016 Software Freedom Conservancy Inc."
+msgstr ""
+
+msgid "Copyright © 2013 rajce.net"
+msgstr ""
+
+msgid "Copyright:"
+msgstr ""
+
+msgid "Core Publishing Services"
+msgstr ""
+
+msgid "Core Slideshow Transitions"
+msgstr ""
+
+msgid "Corrupt image file"
+msgstr ""
+
+msgid "Could not load UI: %s"
+msgstr ""
+
+msgid "Could not make directory %s writable"
+msgstr ""
+
+msgid "Create Tag"
+msgstr ""
+
+msgid "Create a _new album named:"
+msgstr ""
+
+msgid "Creating New Event"
+msgstr ""
+
+msgid "Creating album…"
+msgstr ""
+
+msgid "Crop"
+msgstr ""
+
+msgid "Crumble"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Current Development:"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "DIRECTORY"
+msgstr ""
+
+msgid "D_escending"
+msgstr ""
+
+msgid "Data Imports"
+msgstr ""
+
+msgid "Database error"
+msgstr ""
+
+msgid "Database file:"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "De_fault:"
+msgstr ""
+
+msgid "Decrease Rating"
+msgstr ""
+
+msgid "Decreasing ratings"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Face"
+msgstr ""
+
+msgid "Delete Search"
+msgstr ""
+
+msgid "Delete Tag"
+msgstr ""
+
+msgid "Delete all photos in the trash"
+msgstr ""
+
+msgid "Delete these files from camera?"
+msgid_plural "Delete these %d files from camera?"
+msgstr[0] ""
+
+msgid "Delete this photo from camera?"
+msgid_plural "Delete these %d photos from camera?"
+msgstr[0] ""
+
+msgid "Delete this photo/video from camera?"
+msgid_plural "Delete these %d photos/videos from camera?"
+msgstr[0] ""
+
+msgid "Delete this video from camera?"
+msgid_plural "Delete these %d videos from camera?"
+msgstr[0] ""
+
+msgid "Deleting Photos"
+msgstr ""
+
+msgid "Developer:"
+msgstr ""
+
+msgid "Disable _comments"
+msgstr ""
+
+msgid "Disk failure"
+msgstr ""
+
+msgid "Disk full"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Display %s"
+msgstr ""
+
+msgid "Display %s or Better"
+msgstr ""
+
+msgid "Do not monitor library directory at runtime for changes"
+msgstr ""
+
+msgid "Drag and drop photos onto the Shotwell window"
+msgstr ""
+
+msgid "Duplicate"
+msgstr ""
+
+msgid "Duplicate Photos/Videos Not Imported:"
+msgstr ""
+
+msgid "Duplicating photos"
+msgstr ""
+
+msgid "Duration:"
+msgstr ""
+
+msgid "E_xtended Information"
+msgstr ""
+
+msgid "E_xternal photo editor:"
+msgstr ""
+
+msgid "Edit Comment"
+msgstr ""
+
+msgid "Edit Event Comment"
+msgstr ""
+
+msgid "Edit Photo/Video Comment"
+msgstr ""
+
+msgid "Empty T_rash"
+msgstr ""
+
+msgid "Empty Trash"
+msgstr ""
+
+msgid "Enhance"
+msgstr ""
+
+msgid "Enhancing"
+msgstr ""
+
+msgid ""
+"Enter the URL of your Piwigo photo library as well as the username and "
+"password associated with your Piwigo account for that library."
+msgstr ""
+
+msgid "Enter the username and password associated with your Tumblr account."
+msgstr ""
+
+msgid ""
+"Error accessing database file:\n"
+" %s\n"
+"\n"
+"Error was: \n"
+"%s"
+msgstr ""
+
+msgid "Error while saving to %s: %s"
+msgstr ""
+
+msgid "Even_ts"
+msgstr ""
+
+msgid "Event %s"
+msgstr ""
+
+msgid "Event name"
+msgstr ""
+
+msgid "Events"
+msgstr ""
+
+msgid "Everyone"
+msgstr ""
+
+msgid "Example:"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export Photo"
+msgid_plural "Export Photos"
+msgstr[0] ""
+
+msgid "Export Photo/Video"
+msgid_plural "Export Photos/Videos"
+msgstr[0] ""
+
+msgid "Export Photos"
+msgstr ""
+
+msgid "Export Video"
+msgstr ""
+
+msgid "Export Videos"
+msgstr ""
+
+msgid "Exporting"
+msgstr ""
+
+msgid "Exposure"
+msgstr ""
+
+msgid "Exposure bias:"
+msgstr ""
+
+msgid "Exposure date:"
+msgstr ""
+
+msgid ""
+"Exposure time will be shifted backward by\n"
+"%d %s, %d %s, %d %s, and %d %s."
+msgstr ""
+
+msgid ""
+"Exposure time will be shifted forward by\n"
+"%d %s, %d %s, %d %s, and %d %s."
+msgstr ""
+
+msgid "Exposure time:"
+msgstr ""
+
+msgid "Exposure:"
+msgstr ""
+
+msgid "External Editors"
+msgstr ""
+
+msgid "External _RAW editor:"
+msgstr ""
+
+msgid "Face"
+msgstr ""
+
+msgid "Faces"
+msgstr ""
+
+msgid "Fade"
+msgstr ""
+
+msgid "Family only"
+msgstr ""
+
+msgid "Fetching photo information"
+msgstr ""
+
+msgid "Fetching preview for %s"
+msgstr ""
+
+msgid "File already exists in database"
+msgstr ""
+
+msgid "File error"
+msgstr ""
+
+msgid "File name"
+msgstr ""
+
+msgid "File size:"
+msgstr ""
+
+msgid "File write error"
+msgstr ""
+
+msgid "Fill the entire page"
+msgstr ""
+
+msgid "Filter Photos"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find an image by typing text that appears in its name or tags"
+msgstr ""
+
+msgid "Fit to _Page"
+msgstr ""
+
+msgid "Flag"
+msgstr ""
+
+msgid "Flag selected photos"
+msgstr ""
+
+msgid "Flag state"
+msgstr ""
+
+msgid "Flagged"
+msgstr ""
+
+msgid "Flagging selected photos"
+msgstr ""
+
+msgid "Flash:"
+msgstr ""
+
+msgid "Flip Hori_zontally"
+msgstr ""
+
+msgid "Flip Horizontally"
+msgstr ""
+
+msgid "Flip Verti_cally"
+msgstr ""
+
+msgid "Flip Vertically"
+msgstr ""
+
+msgid "Flipping Horizontally"
+msgstr ""
+
+msgid "Flipping Vertically"
+msgstr ""
+
+msgid "Focal length:"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Friends"
+msgstr ""
+
+msgid "Friends & family only"
+msgstr ""
+
+msgid "Friends only"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Fulls_creen"
+msgstr ""
+
+msgid "GPS latitude:"
+msgstr ""
+
+msgid "GPS longitude:"
+msgstr ""
+
+msgid "Gallery3 site URL"
+msgstr ""
+
+msgid "Gallery3 username"
+msgstr ""
+
+msgid "Generate desktop background slideshow"
+msgstr ""
+
+msgid "Go _Back"
+msgstr ""
+
+msgid "Go to the next photo"
+msgstr ""
+
+msgid "Go to the previous photo"
+msgstr ""
+
+msgid "Google+ (2048 × 1536 pixels)"
+msgstr ""
+
+msgid "HD Video (16 ∶ 9)"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Hide photos already imported"
+msgstr ""
+
+msgid "High (%d%%)"
+msgstr ""
+
+msgid "Highlights"
+msgstr ""
+
+msgid "Highlights:"
+msgstr ""
+
+msgid "How long each photo is shown on the desktop background"
+msgstr ""
+
+msgid "I understand, please _proceed."
+msgstr ""
+
+msgid "If true, remember last login."
+msgstr ""
+
+msgid "Image Settings"
+msgstr ""
+
+msgid "Import Complete"
+msgstr ""
+
+msgid "Import From Application"
+msgstr ""
+
+msgid "Import From Folder"
+msgstr ""
+
+msgid "Import Results Report"
+msgstr ""
+
+msgid "Import _All"
+msgstr ""
+
+msgid "Import _Selected"
+msgstr ""
+
+msgid "Import media _from:"
+msgstr ""
+
+msgid "Import photos from your %s library"
+msgstr ""
+
+msgid "Import to Library"
+msgstr ""
+
+msgid "Imported %s"
+msgstr ""
+
+msgid "Imported failed (%d)"
+msgstr ""
+
+msgid "Importing"
+msgstr ""
+
+msgid "Increase Rating"
+msgstr ""
+
+msgid "Increasing ratings"
+msgstr ""
+
+msgid "Invalid URL"
+msgstr ""
+
+msgid "Invalid User Name or Password"
+msgstr ""
+
+msgid "Invalid pattern"
+msgstr ""
+
+msgid "Items:"
+msgstr ""
+
+msgid "JPEG"
+msgstr ""
+
+msgid "Just me"
+msgstr ""
+
+msgid "Large (2048 pixels)"
+msgstr ""
+
+msgid "Last Import"
+msgstr ""
+
+msgid "Leave _Fullscreen"
+msgstr ""
+
+msgid "Leave fullscreen"
+msgstr ""
+
+msgid "Letter (8.5 × 11 in.)"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Library Location"
+msgstr ""
+
+msgid "Limit the number of photos displayed based on a filter"
+msgstr ""
+
+msgid "Loading Shotwell"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Lose changes to %s?"
+msgstr ""
+
+msgid "Low (%d%%)"
+msgstr ""
+
+msgid "Make Key Photo for Event"
+msgstr ""
+
+msgid "Make _Key Photo for Event"
+msgstr ""
+
+msgid "Make a duplicate of the photo"
+msgstr ""
+
+msgid "Mark faces of people in the photo"
+msgstr ""
+
+msgid "Maximum (%d%%)"
+msgstr ""
+
+msgid "Media type"
+msgstr ""
+
+msgid "Medium (%d%%)"
+msgstr ""
+
+msgid "Medium (1024 × 768 pixels)"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Merging"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
+msgid "Metric Wallet (9 × 13 cm)"
+msgstr ""
+
+msgid "Missing Files"
+msgstr ""
+
+msgid "Modify Faces"
+msgstr ""
+
+msgid "Modify Tags"
+msgstr ""
+
+msgid "Move Photos"
+msgstr ""
+
+msgid "Move Photos to Trash"
+msgstr ""
+
+msgid "Move or modify the face shape or name and press Enter"
+msgstr ""
+
+msgid "Move photos to an event"
+msgstr ""
+
+msgid "Move the photos to the Shotwell trash"
+msgstr ""
+
+msgid "Move the selected photos back into the library"
+msgstr ""
+
+msgid "Moving Photos to New Event"
+msgstr ""
+
+msgid "Moving Photos to Trash"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "New Event"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Next photo"
+msgstr ""
+
+msgid "No Event"
+msgstr ""
+
+msgid "No events"
+msgstr ""
+
+msgid "No events found"
+msgstr ""
+
+msgid "No photos or videos imported.\n"
+msgstr ""
+
+msgid "No photos/videos"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not a file"
+msgstr ""
+
+msgid "Not an image file"
+msgstr ""
+
+msgid "Notecard (3 × 5 in.)"
+msgstr ""
+
+msgid "Of these, %d file was successfully imported."
+msgid_plural "Of these, %d files were successfully imported."
+msgstr[0] ""
+
+msgid "One original photo could not be adjusted."
+msgid_plural "The following original photos could not be adjusted."
+msgstr[0] ""
+
+msgid "Only display photos that have not been imported"
+msgstr ""
+
+msgid "Only show photos with a rating of %s"
+msgstr ""
+
+msgid "Only show photos with a rating of %s or better"
+msgstr ""
+
+msgid "Open With E_xternal Editor"
+msgstr ""
+
+msgid "Open With RA_W Editor"
+msgstr ""
+
+msgid "Organize your photos"
+msgstr ""
+
+msgid "Original Size"
+msgstr ""
+
+msgid "Original dimensions:"
+msgstr ""
+
+msgid "Original photo could not be adjusted."
+msgstr ""
+
+msgid "Original size"
+msgstr ""
+
+msgid "Original: "
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "PNG"
+msgstr ""
+
+msgid "Paste Color Adjustments"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Pause the slideshow"
+msgstr ""
+
+msgid "Photo Manager"
+msgstr ""
+
+msgid "Photo Viewer"
+msgstr ""
+
+msgid "Photo _size:"
+msgstr ""
+
+msgid "Photo size"
+msgstr ""
+
+msgid "Photo source file missing: %s"
+msgstr ""
+
+msgid "Photo state"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Photos _visible to:"
+msgstr ""
+
+msgid "Photos and videos _visible to:"
+msgstr ""
+
+msgid "Photos cannot be exported to this directory."
+msgstr ""
+
+msgid "Photos cannot be imported from this directory."
+msgstr ""
+
+msgid "Photos will appear in:"
+msgstr ""
+
+msgid "Photos/Videos Not Imported Because Files Are Corrupt:"
+msgstr ""
+
+msgid "Photos/Videos Not Imported Due to Camera Errors:"
+msgstr ""
+
+msgid "Photos/Videos Not Imported for Other Reasons:"
+msgstr ""
+
+msgid "Pictures"
+msgstr ""
+
+msgid "Pin Toolbar"
+msgstr ""
+
+msgid "Pin the toolbar open"
+msgstr ""
+
+msgid "Pivot the crop rectangle between portrait and landscape orientations"
+msgstr ""
+
+msgid "Piwigo URL"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Please close any other application using the camera."
+msgstr ""
+
+msgid "Please unmount the camera."
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Popular photo manager"
+msgstr ""
+
+msgid "Postcard (10 × 15 cm)"
+msgstr ""
+
+msgid "Preparing for upload"
+msgstr ""
+
+msgid "Previous photo"
+msgstr ""
+
+msgid "Print image _title"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Public listed"
+msgstr ""
+
+msgid "Public unlisted"
+msgstr ""
+
+msgid "Publish"
+msgstr ""
+
+msgid "Publish Photos"
+msgstr ""
+
+msgid "Publish Photos and Videos"
+msgstr ""
+
+msgid "Publish Videos"
+msgstr ""
+
+msgid "Publish photos _to:"
+msgstr ""
+
+msgid "Publish photos and videos _to"
+msgstr ""
+
+msgid "Publish to an e_xisting album:"
+msgstr ""
+
+msgid "Publish to various websites"
+msgstr ""
+
+msgid "Publish videos _to"
+msgstr ""
+
+msgid "Publishing"
+msgstr ""
+
+msgid "RAW"
+msgstr ""
+
+msgid "RAW Developer"
+msgstr ""
+
+msgid "RAW Photos"
+msgstr ""
+
+msgid "RAW+JPEG"
+msgstr ""
+
+msgid "R_emove From Library"
+msgstr ""
+
+msgid "R_ename imported files to lowercase"
+msgstr ""
+
+msgid "Rajce URL"
+msgstr ""
+
+msgid "Rajce username, if logged in."
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Rate %s"
+msgstr ""
+
+msgid "Rate Rejected"
+msgstr ""
+
+msgid "Rate Unrated"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Re_vert External Edit"
+msgstr ""
+
+msgid "Re_vert External Edits"
+msgstr ""
+
+msgid "Re_vert to Original"
+msgstr ""
+
+msgid "Recommended (1600 × 1200 pixels)"
+msgstr ""
+
+msgid "Red-eye"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Reduce or eliminate any red-eye effects in the photo"
+msgstr ""
+
+msgid "Rejected"
+msgstr ""
+
+msgid "Rejected Only"
+msgstr ""
+
+msgid "Rejected _Only"
+msgstr ""
+
+msgid "Remove From Library"
+msgstr ""
+
+msgid "Remove Photo From Library"
+msgstr ""
+
+msgid "Remove Photos From Library"
+msgstr ""
+
+msgid "Remove any ratings"
+msgstr ""
+
+msgid "Remove any red-eye effects in the selected region"
+msgstr ""
+
+msgid "Remove the selected photos from the library"
+msgstr ""
+
+msgid "Remove the selected photos from the trash"
+msgstr ""
+
+msgid "Removing Event"
+msgstr ""
+
+msgid "Removing Photo From Library"
+msgstr ""
+
+msgid "Removing Photos From Library"
+msgstr ""
+
+msgid "Removing duplicated photos"
+msgstr ""
+
+msgid "Removing photos/videos from camera"
+msgstr ""
+
+msgid "Rename Event"
+msgstr ""
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Reset Colors"
+msgstr ""
+
+msgid "Reset all color adjustments to original"
+msgstr ""
+
+msgid "Restore Photos from Trash"
+msgstr ""
+
+msgid "Restore the photos back to the Shotwell library"
+msgstr ""
+
+msgid "Restoring Photos From Trash"
+msgstr ""
+
+msgid "Restoring previous RAW developer"
+msgstr ""
+
+msgid "Restoring previous rating"
+msgstr ""
+
+msgid "Return to current photo dimensions"
+msgstr ""
+
+msgid "Revert External E_dits"
+msgstr ""
+
+msgid "Revert External Edit?"
+msgstr ""
+
+msgid "Revert External Edits?"
+msgstr ""
+
+msgid "Revert to Original"
+msgstr ""
+
+msgid "Revert to the master photo"
+msgstr ""
+
+msgid "Reverting"
+msgstr ""
+
+msgid "Rotate"
+msgstr ""
+
+msgid "Rotate Left"
+msgstr ""
+
+msgid "Rotate Right"
+msgstr ""
+
+msgid "Rotate _Left"
+msgstr ""
+
+msgid "Rotate _Right"
+msgstr ""
+
+msgid "Rotate the photos left"
+msgstr ""
+
+msgid "Rotate the photos right (press Ctrl to rotate left)"
+msgstr ""
+
+msgid "Rotating"
+msgstr ""
+
+msgid "SD Video (4 ∶ 3)"
+msgstr ""
+
+msgid "S_idebar"
+msgstr ""
+
+msgid "S_lideshow"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Saturation:"
+msgstr ""
+
+msgid "Save As"
+msgstr ""
+
+msgid "Save Details"
+msgstr ""
+
+msgid "Save _As"
+msgstr ""
+
+msgid "Save _As…"
+msgstr ""
+
+msgid "Save changes and close the Faces tool"
+msgstr ""
+
+msgid "Saved Search"
+msgstr ""
+
+msgid "Saved Searches"
+msgstr ""
+
+msgid "Screen"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select all items"
+msgstr ""
+
+msgid "Send To"
+msgstr ""
+
+msgid "Set Developer"
+msgstr ""
+
+msgid "Set Rating"
+msgstr ""
+
+msgid "Set _all photos/videos to this time"
+msgstr ""
+
+msgid "Set as Desktop Slideshow"
+msgstr ""
+
+msgid "Set as _Desktop Background"
+msgstr ""
+
+msgid "Set rating to %s"
+msgstr ""
+
+msgid "Set rating to rejected"
+msgstr ""
+
+msgid "Set selected image to be the new desktop background"
+msgstr ""
+
+msgid "Set the crop for this photo"
+msgstr ""
+
+msgid "Setting Photos to Previous Event"
+msgstr ""
+
+msgid "Setting RAW developer"
+msgstr ""
+
+msgid "Setting as rejected"
+msgstr ""
+
+msgid "Setting as unrated"
+msgstr ""
+
+msgid "Setting rating to %s"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shadows"
+msgstr ""
+
+msgid "Shadows:"
+msgstr ""
+
+msgid "Shotwell"
+msgstr ""
+
+msgid "Shotwell Connect"
+msgstr ""
+
+msgid "Shotwell Extra Publishing Services"
+msgstr ""
+
+msgid "Shotwell Preferences"
+msgstr ""
+
+msgid "Shotwell Viewer"
+msgstr ""
+
+msgid ""
+"Shotwell can copy the photos into your library folder or it can import them "
+"without copying."
+msgstr ""
+
+msgid ""
+"Shotwell cannot contact your Piwigo photo library. Please verify the URL you"
+" entered"
+msgstr ""
+
+msgid ""
+"Shotwell cannot publish the selected items because you do not have a "
+"compatible publishing plugin enabled. To correct this, choose <b>Edit %s "
+"Preferences</b> and enable one or more of the publishing plugins on the "
+"<b>Plugins</b> tab."
+msgstr ""
+
+msgid "Shotwell default directory"
+msgstr ""
+
+msgid ""
+"Shotwell is an easy-to-use, fast photo organizer designed for the GNOME "
+"desktop. It allows you to import photos from your camera or disk, organize "
+"them by date and subject matter, even ratings. It also offers basic photo "
+"editing, like crop, red-eye correction, color adjustments, and straighten. "
+"Shotwell’s non-destructive photo editor does not alter your master photos, "
+"making it easy to experiment and correct errors."
+msgstr ""
+
+msgid ""
+"Shotwell is configured to import photos to your home directory.\n"
+"We recommend changing this in <span weight=\"bold\">Edit %s Preferences</span>.\n"
+"Do you want to continue importing photos?"
+msgstr ""
+
+msgid "Shotwell supports JPEG, PNG, TIFF, and a variety of RAW file formats."
+msgstr ""
+
+msgid ""
+"Shotwell was unable to play the selected video:\n"
+"%s"
+msgstr ""
+
+msgid "Show all photos"
+msgstr ""
+
+msgid "Show each photo for"
+msgstr ""
+
+msgid "Show in File Mana_ger"
+msgstr ""
+
+msgid "Show only rejected photos"
+msgstr ""
+
+msgid "Show t_itle"
+msgstr ""
+
+msgid "Show the certificate…"
+msgstr ""
+
+msgid "Show title"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Slide"
+msgstr ""
+
+msgid "Slideshow"
+msgstr ""
+
+msgid "Slideshow Transitions"
+msgstr ""
+
+msgid "Small (640 × 480 pixels)"
+msgstr ""
+
+msgid "Software:"
+msgstr ""
+
+msgid "Sort _Events"
+msgstr ""
+
+msgid "Sort _Photos"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Squares"
+msgstr ""
+
+msgid "Standard (720 pixels)"
+msgstr ""
+
+msgid "Stop dragging to add your face and name it."
+msgstr ""
+
+msgid "Straighten"
+msgstr ""
+
+msgid "Straighten the photo"
+msgstr ""
+
+msgid "Stripes"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid ""
+"Switching developers will undo all changes you have made to this photo in "
+"Shotwell"
+msgid_plural ""
+"Switching developers will undo all changes you have made to these photos in "
+"Shotwell"
+msgstr[0] ""
+
+msgid "TIFF"
+msgstr ""
+
+msgid "T_ools"
+msgstr ""
+
+msgid "Ta_gs"
+msgstr ""
+
+msgid "Tabloid (11 × 17 in.)"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Tags (separated by commas):"
+msgstr ""
+
+msgid "Temperature"
+msgstr ""
+
+msgid "Temperature:"
+msgstr ""
+
+msgid "The camera seems to be empty. No photos/videos found to import"
+msgstr ""
+
+msgid "The photo or video cannot be deleted."
+msgid_plural "%d photos/videos cannot be deleted."
+msgstr[0] ""
+
+msgid "The scale of photo thumbnails, ranging from 72 to 360."
+msgstr ""
+
+msgid "The selected photos/videos were successfully published."
+msgstr ""
+
+msgid "The token to access tumblr"
+msgstr ""
+
+msgid "This connection is not secure"
+msgstr ""
+
+msgid "This will remove the photo from the library. Continue?"
+msgid_plural "This will remove %d photos from the library. Continue?"
+msgstr[0] ""
+
+msgid "Time Adjustment Error"
+msgstr ""
+
+msgid "Time adjustments could not be undone on the following photo file."
+msgid_plural ""
+"Time adjustments could not be undone on the following photo files."
+msgstr[0] ""
+
+msgid "Time:"
+msgstr ""
+
+msgid "Tint"
+msgstr ""
+
+msgid "Tint:"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "To get started, import photos in any of these ways:"
+msgstr ""
+
+msgid "To try importing from another service, select one from the above menu."
+msgstr ""
+
+msgid "To try publishing to another service, select one from the above menu."
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Transition d_elay:"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Trash is empty"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type a name for this face, then press Enter"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "URL of the Piwigo server."
+msgstr ""
+
+msgid "URL of the Rajce server."
+msgstr ""
+
+msgid "Un_flag"
+msgstr ""
+
+msgid "Unable to create cache directory %s: %s"
+msgstr ""
+
+msgid "Unable to create data directory %s: %s"
+msgstr ""
+
+msgid "Unable to create data subdirectory %s: %s"
+msgstr ""
+
+msgid "Unable to create temporary directory %s: %s"
+msgstr ""
+
+msgid "Unable to decode file"
+msgstr ""
+
+msgid "Unable to delete %d photo/video from the camera due to errors."
+msgid_plural ""
+"Unable to delete %d photos/videos from the camera due to errors."
+msgstr[0] ""
+
+msgid "Unable to display FAQ: %s"
+msgstr ""
+
+msgid "Unable to display help: %s"
+msgstr ""
+
+msgid "Unable to duplicate one photo due to a file error"
+msgid_plural "Unable to duplicate %d photos due to file errors"
+msgstr[0] ""
+
+msgid "Unable to export %s: %s"
+msgstr ""
+
+msgid "Unable to export background to %s: %s"
+msgstr ""
+
+msgid ""
+"Unable to export the following photo due to a file error.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Unable to fetch previews from the camera:\n"
+"%s"
+msgstr ""
+
+msgid "Unable to generate a temporary file for %s: %s"
+msgstr ""
+
+msgid "Unable to launch Nautilus Send-To: %s"
+msgstr ""
+
+msgid "Unable to launch editor: %s"
+msgstr ""
+
+msgid "Unable to lock camera: %s"
+msgstr ""
+
+msgid "Unable to monitor %s: Not a directory (%s)"
+msgstr ""
+
+msgid "Unable to navigate to bug database: %s"
+msgstr ""
+
+msgid "Unable to open in file manager: %s"
+msgstr ""
+
+msgid "Unable to open/create photo database %s: error code %d"
+msgstr ""
+
+msgid "Unable to prepare desktop slideshow: %s"
+msgstr ""
+
+msgid ""
+"Unable to print photo:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Unable to process monitoring updates: %s"
+msgstr ""
+
+msgid "Unable to publish"
+msgstr ""
+
+msgid ""
+"Unable to write to photo database file:\n"
+" %s"
+msgstr ""
+
+msgid "Unconstrained"
+msgstr ""
+
+msgid "Undated"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undoing Color Transformations"
+msgstr ""
+
+msgid "Undoing Date and Time Adjustment"
+msgstr ""
+
+msgid "Undoing Enhance"
+msgstr ""
+
+msgid "Undoing Flip Horizontally"
+msgstr ""
+
+msgid "Undoing Flip Vertically"
+msgstr ""
+
+msgid "Undoing Revert"
+msgstr ""
+
+msgid "Undoing Rotate"
+msgstr ""
+
+msgid "Unflag"
+msgstr ""
+
+msgid "Unflag selected photos"
+msgstr ""
+
+msgid "Unflagging selected photos"
+msgstr ""
+
+msgid "Unmerging"
+msgstr ""
+
+msgid "Unmodified"
+msgstr ""
+
+msgid "Unrated"
+msgstr ""
+
+msgid "Unrecognized User"
+msgstr ""
+
+msgid "Unsupported file format"
+msgstr ""
+
+msgid "Upload _size:"
+msgstr ""
+
+msgid "Uploading %d of %d"
+msgstr ""
+
+msgid "Use a _standard size:"
+msgstr ""
+
+msgid "Use a c_ustom size:"
+msgstr ""
+
+msgid "Use for Desktop"
+msgstr ""
+
+msgid "Use for Lock Screen"
+msgstr ""
+
+msgid "User _name"
+msgstr ""
+
+msgid "User aborted import"
+msgstr ""
+
+msgid "Username and/or password invalid. Please try again"
+msgstr ""
+
+msgid "Video privacy _setting:"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Videos _visible to:"
+msgstr ""
+
+msgid "Videos and new photo albums _visible to:"
+msgstr ""
+
+msgid "Videos will appear in:"
+msgstr ""
+
+msgid "View Eve_nt for Photo"
+msgstr ""
+
+msgid "Visit the Shotwell home page"
+msgstr ""
+
+msgid "Visit the Yandex.Fotki web site"
+msgstr ""
+
+msgid "Wallet (2 × 3 in.)"
+msgstr ""
+
+msgid "Welcome to Shotwell!"
+msgstr ""
+
+msgid "Welcome!"
+msgstr ""
+
+msgid "Where would you like to publish the selected photos?"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Write tags, titles, and other _metadata to photo files"
+msgstr ""
+
+msgid "Yandex-Fotki authentication token, if logged in."
+msgstr ""
+
+msgid "Year%sMonth"
+msgstr ""
+
+msgid "Year%sMonth%sDay"
+msgstr ""
+
+msgid "Year%sMonth-Day"
+msgstr ""
+
+msgid "Year-Month-Day"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid ""
+"You are logged into Facebook as %s.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You are logged into Flickr as %s.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"You are logged into Tumblr as %s.\n"
+"\n"
+msgstr ""
+
+msgid "You are logged into YouTube as %s."
+msgstr ""
+
+msgid "You are not currently logged into Yandex.Fotki."
+msgstr ""
+
+msgid ""
+"You are not currently logged into YouTube.\n"
+"\n"
+"You must have already signed up for a Google account and set it up for use with YouTube to continue. You can set up most accounts by using your browser to log into the YouTube site at least once."
+msgstr ""
+
+msgid "You can also import photos in any of these ways:"
+msgstr ""
+
+msgid ""
+"You do not have any data imports plugins enabled.\n"
+"\n"
+"In order to use the Import From Application functionality, you need to have at least one data imports plugin enabled. Plugins can be enabled in the Preferences dialog."
+msgstr ""
+
+msgid ""
+"You have already logged in and out of Facebook during this Shotwell session.\n"
+"To continue publishing to Facebook, quit and restart Shotwell, then try publishing again."
+msgstr ""
+
+msgid ""
+"You have already logged in and out of a Google service during this Shotwell session.\n"
+"\n"
+"To continue publishing to Google services, quit and restart Shotwell, then try publishing again."
+msgstr ""
+
+msgid "Your Flickr Pro account entitles you to unlimited uploads."
+msgstr ""
+
+msgid "Zoom _100%"
+msgstr ""
+
+msgid "Zoom _200%"
+msgstr ""
+
+msgid "Zoom _In"
+msgstr ""
+
+msgid "Zoom _Out"
+msgstr ""
+
+msgid "[FILE]"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Adjust"
+msgstr ""
+
+msgid "_Albums (or write new):"
+msgstr ""
+
+msgid "_All Photos"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Ascending"
+msgstr ""
+
+msgid "_Autosize:"
+msgstr ""
+
+msgid "_Basic Information"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Comments"
+msgstr ""
+
+msgid "_Copy Color Adjustments"
+msgstr ""
+
+msgid "_Crop"
+msgstr ""
+
+msgid "_Decrease"
+msgstr ""
+
+msgid "_Delay:"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Developer"
+msgstr ""
+
+msgid "_Directory structure:"
+msgstr ""
+
+msgid "_Do no upload tags"
+msgstr ""
+
+msgid "_Don’t show this message again"
+msgstr ""
+
+msgid "_Duplicate"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Edit…"
+msgstr ""
+
+msgid "_Email address"
+msgstr ""
+
+msgid "_Enhance"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Filter Photos"
+msgstr ""
+
+msgid "_Find"
+msgstr ""
+
+msgid "_Flag"
+msgstr ""
+
+msgid "_Forbid downloading original photo"
+msgstr ""
+
+msgid "_Format:"
+msgstr ""
+
+msgid "_Frequently Asked Questions"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_If a title is set and comment unset, use title as comment"
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_Import in Place"
+msgstr ""
+
+msgid "_Import photos from your %s folder"
+msgstr ""
+
+msgid "_Import photos to:"
+msgstr ""
+
+msgid "_Increase"
+msgstr ""
+
+msgid "_Keep"
+msgstr ""
+
+msgid "_Log in"
+msgstr ""
+
+msgid "_Logout"
+msgstr ""
+
+msgid "_Match"
+msgstr ""
+
+msgid "_Match photo aspect ratio"
+msgstr ""
+
+msgid "_Merge Events"
+msgstr ""
+
+msgid "_Modify original file"
+msgid_plural "_Modify original files"
+msgstr[0] ""
+
+msgid "_Modify original photo file"
+msgid_plural "_Modify original photo files"
+msgstr[0] ""
+
+msgid "_Move to Trash"
+msgstr ""
+
+msgid "_Name of search:"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_New Event"
+msgstr ""
+
+msgid "_Next Photo"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Output photo at:"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_Paste Color Adjustments"
+msgstr ""
+
+msgid "_Pattern:"
+msgstr ""
+
+msgid "_Photo"
+msgstr ""
+
+msgid "_Photos"
+msgstr ""
+
+msgid "_Pixels:"
+msgstr ""
+
+msgid "_Play"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Previous Photo"
+msgstr ""
+
+msgid "_Print…"
+msgstr ""
+
+msgid "_Publish"
+msgstr ""
+
+msgid "_Quality:"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Ratings"
+msgstr ""
+
+msgid "_Red-eye"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Refresh"
+msgstr ""
+
+msgid "_Rejected"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid ""
+"_Remove location, camera, and other identifying information before uploading"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Report a Problem…"
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Restore"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save a Copy"
+msgstr ""
+
+msgid "_Scaling constraint:"
+msgstr ""
+
+msgid "_Search Bar"
+msgstr ""
+
+msgid "_Set Rating"
+msgstr ""
+
+msgid "_Shift photos/videos by the same amount"
+msgstr ""
+
+msgid "_Skip"
+msgstr ""
+
+msgid "_Stop"
+msgstr ""
+
+msgid "_Stop Import"
+msgstr ""
+
+msgid "_Straighten"
+msgstr ""
+
+msgid "_Switch Developer"
+msgstr ""
+
+msgid "_Titles"
+msgstr ""
+
+msgid "_Transition effect:"
+msgstr ""
+
+msgid "_URL of your Piwigo photo library"
+msgstr ""
+
+msgid "_Undelete"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "_Unmount"
+msgstr ""
+
+msgid "_Unrated"
+msgstr ""
+
+msgid "_User name:"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_Watch library directory for new files"
+msgstr ""
+
+msgid "a raw photo"
+msgstr ""
+
+msgid "a video"
+msgstr ""
+
+msgid "access token"
+msgstr ""
+
+msgid ""
+"album;camera;cameras;crop;edit;enhance;export;gallery;image;images;import;organize;photo;photographs;photos;picture;pictures;photography;print;publish;rotate;share;tags;video;facebook;flickr;picasa;youtube;piwigo;"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "and"
+msgstr ""
+
+msgid "and higher"
+msgstr ""
+
+msgid "and lower"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "any photo"
+msgstr ""
+
+msgid "authentication token"
+msgstr ""
+
+msgid "cm"
+msgstr ""
+
+msgid "contains"
+msgstr ""
+
+msgid "day"
+msgid_plural "days"
+msgstr[0] ""
+
+msgid "default blog"
+msgstr ""
+
+msgid "default size"
+msgstr ""
+
+msgid "display search bar"
+msgstr ""
+
+msgid "display sidebar"
+msgstr ""
+
+msgid "display toolbar"
+msgstr ""
+
+msgid "does not contain"
+msgstr ""
+
+msgid "duplicates existing media item"
+msgstr ""
+
+msgid "enable facebook publishing plugin"
+msgstr ""
+
+msgid "enable flickr publishing plugin"
+msgstr ""
+
+msgid "enable gallery3 publishing plugin"
+msgstr ""
+
+msgid "enable piwigo publishing plugin"
+msgstr ""
+
+msgid "enable rajce publishing plugin"
+msgstr ""
+
+msgid "enable tumblr publishing plugin"
+msgstr ""
+
+msgid "enable yandex publishing plugin"
+msgstr ""
+
+msgid "enable youtube publishing plugin"
+msgstr ""
+
+msgid "ends with"
+msgstr ""
+
+msgid "error message:"
+msgstr ""
+
+msgid "external modifications"
+msgstr ""
+
+msgid "flagged"
+msgstr ""
+
+msgid "has"
+msgstr ""
+
+msgid "has no"
+msgstr ""
+
+msgid "hide album"
+msgstr ""
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+
+msgid "import directory"
+msgstr ""
+
+msgid "in."
+msgstr ""
+
+msgid "internal modifications"
+msgstr ""
+
+msgid "is"
+msgstr ""
+
+msgid "is after"
+msgstr ""
+
+msgid "is before"
+msgstr ""
+
+msgid "is between"
+msgstr ""
+
+msgid "is exactly"
+msgstr ""
+
+msgid "is not"
+msgstr ""
+
+msgid "is not set"
+msgstr ""
+
+msgid "label"
+msgstr ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+
+msgid "modifications"
+msgstr ""
+
+msgid "modified"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "not flagged"
+msgstr ""
+
+msgid "of the following:"
+msgstr ""
+
+msgid "only"
+msgstr ""
+
+msgid "open album in web browser"
+msgstr ""
+
+msgid "password"
+msgstr ""
+
+msgid "period of time"
+msgstr ""
+
+msgid "photo thumbnail scale"
+msgstr ""
+
+msgid "pixels"
+msgstr ""
+
+msgid "pixels per inch"
+msgstr ""
+
+msgid "remember password"
+msgstr ""
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "shotwell"
+msgstr ""
+
+msgid "starts with"
+msgstr ""
+
+msgid "titles font"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "untitled"
+msgstr ""
+
+msgid "use 24 hour time"
+msgstr ""
+
+msgid "user name"
+msgstr ""
+
+msgid "username"
+msgstr ""

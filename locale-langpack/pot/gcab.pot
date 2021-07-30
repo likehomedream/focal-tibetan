@@ -1,0 +1,112 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gcab master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gcab&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2017-08-31 23:57+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:08+0000\n"
+
+msgid "- create a Cabinet file"
+msgstr ""
+
+msgid "Be verbose"
+msgstr ""
+
+msgid "Can't add file %s: %s"
+msgstr ""
+
+msgid "Change to directory DIR"
+msgstr ""
+
+msgid "Create archive"
+msgstr ""
+
+msgid "DIR"
+msgstr ""
+
+msgid "Do not include path"
+msgstr ""
+
+msgid "Dump reserved and extra data"
+msgstr ""
+
+msgid "Dumping %s data to: %s ...\n"
+msgstr ""
+
+msgid "Extract all files"
+msgstr ""
+
+msgid "FILE INPUT_FILES..."
+msgstr ""
+
+msgid "List content"
+msgstr ""
+
+msgid "Please specify a single operation."
+msgstr ""
+
+msgid "Print program version"
+msgstr ""
+
+msgid "Removing leading '%s' from member names"
+msgstr ""
+
+msgid "Report bugs to <%s>"
+msgstr ""
+
+msgid "Reserve space in cabinet for signing (e.g. -s 6144 reserves 6K bytes)"
+msgstr ""
+
+msgid "Use zip compression"
+msgstr ""
+
+msgid "cabinet file must be specified."
+msgstr ""
+
+msgid "can't add folder to cab file %s: %s"
+msgstr ""
+
+msgid "can't create cab file %s: %s"
+msgstr ""
+
+msgid "can't open %s for reading: %s\n"
+msgstr ""
+
+msgid "can't write cab file %s: %s"
+msgstr ""
+
+msgid "can't write file %s: %s"
+msgstr ""
+
+msgid "error during extraction: %s"
+msgstr ""
+
+msgid "error reading %s: %s\n"
+msgstr ""
+
+msgid "error while reading signature: %s"
+msgstr ""
+
+msgid ""
+"gcab saves many files together into a cabinet archive, and can restore\n"
+"individual files from the archive."
+msgstr ""
+
+msgid "no files to be archived."
+msgstr ""
+
+msgid "option parsing failed: %s\n"
+msgstr ""
+
+msgid "please specify input files."
+msgstr ""
+
+msgid "unsupported compression method %d"
+msgstr ""

@@ -1,0 +1,124 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apturl\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-08-20 10:38+0000\n"
+"Last-Translator: David Gao <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:58+0000\n"
+
+msgid "Can not deal with protocol '%s' "
+msgstr ""
+
+msgid "Can not install '%s' (%s) "
+msgstr ""
+
+msgid "Could not find package '%s'."
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Do you want to enable the following software channel: '%s'?"
+msgstr ""
+
+msgid "Do you want to install package '%s'?"
+msgstr ""
+
+msgid "Enable additional components"
+msgstr ""
+
+msgid "Enable additional software channel"
+msgstr ""
+
+msgid "Enabling '%s' failed"
+msgstr ""
+
+msgid "Enabling channel '%s' failed"
+msgstr ""
+
+msgid "Exception '%s'"
+msgstr ""
+
+msgid "Install additional software?"
+msgstr ""
+
+msgid "Invalid /etc/apt/sources.list file"
+msgstr ""
+
+msgid "Invalid url: '%s' given, exiting"
+msgstr ""
+
+msgid "Need a url to continue, exiting"
+msgstr ""
+
+msgid "No ':' in the uri"
+msgstr ""
+
+msgid "Non whitelist char in the uri"
+msgstr ""
+
+msgid "Package '%s' is already installed"
+msgstr ""
+
+msgid "Package '%s' is virtual."
+msgstr ""
+
+msgid "Package '%s' requests minimal version '%s', but only '%s' is available"
+msgstr ""
+
+msgid "Run the command in a terminal"
+msgstr ""
+
+msgid "Software index is broken"
+msgstr ""
+
+msgid "The channel '%s' is not known"
+msgstr ""
+
+msgid "The command used to handle \"apt\" URLs, if enabled."
+msgstr ""
+
+msgid "The handler for \"apt\" URLs"
+msgstr ""
+
+msgid ""
+"This is a major failure of your software management system. Please check for"
+" broken packages with synaptic, check the file permissions and correctness "
+"of the file '/etc/apt/sources.list' and reload the software information "
+"with: 'sudo apt-get update' and 'sudo apt-get install -f'."
+msgstr ""
+
+msgid ""
+"True if the command specified in the \"command\" key should handle \"apt\" "
+"URLs."
+msgstr ""
+
+msgid ""
+"True if the command used to handle this type of URL should be run in a "
+"terminal."
+msgstr ""
+
+msgid "Unknown channel '%s'"
+msgstr ""
+
+msgid "Url string '%s' too long"
+msgstr ""
+
+msgid "User requested interrupt."
+msgstr ""
+
+msgid "Whether the specified command should handle \"apt\" URLs"
+msgstr ""
+
+msgid "Whitespace in key=value"
+msgstr ""
+
+msgid "_Install"
+msgstr ""

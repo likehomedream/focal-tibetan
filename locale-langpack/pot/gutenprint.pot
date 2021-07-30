@@ -1,0 +1,8965 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gutenprint 5.2.10-pre2\n"
+"Report-Msgid-Bugs-To: gimp-print-devel@lists.sourceforge.net\n"
+"PO-Revision-Date: 2016-02-18 18:52+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:30+0000\n"
+
+msgid ""
+"\n"
+"Cannot detect printer type.\n"
+"Please use -m to specify your printer model.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Cannot write to %s: %s\n"
+msgstr ""
+
+msgid " "
+msgstr ""
+
+msgid "%.1f mm"
+msgstr ""
+
+msgid "%s -- Print v%s"
+msgstr ""
+
+msgid "%s must be between %d and %d (is %d)\n"
+msgstr ""
+
+msgid "%s must be between %f and %f (is %f)\n"
+msgstr ""
+
+msgid "%s out of range (value %d, min %d, max %d)\n"
+msgstr ""
+
+msgid "(Default Printer)"
+msgstr ""
+
+msgid "11x14"
+msgstr ""
+
+msgid "1200 DPI"
+msgstr ""
+
+msgid "1200 DPI  Unidirectional"
+msgstr ""
+
+msgid "1200 DPI high quality"
+msgstr ""
+
+msgid "1200 DPI highest quality"
+msgstr ""
+
+msgid "1200x600 DPI"
+msgstr ""
+
+msgid "12x18"
+msgstr ""
+
+msgid "13 Inch Roll Paper"
+msgstr ""
+
+msgid "1440 x 1440 DPI"
+msgstr ""
+
+msgid "1440 x 720 DPI"
+msgstr ""
+
+msgid "1440 x 720 DPI Highest Quality"
+msgstr ""
+
+msgid "150x150 DPI"
+msgstr ""
+
+msgid "16x20"
+msgstr ""
+
+msgid "16x24"
+msgstr ""
+
+msgid "17 Inch Roll Paper"
+msgstr ""
+
+msgid "180 DPI Economy"
+msgstr ""
+
+msgid "2-Sided Printing"
+msgstr ""
+
+msgid "20x24"
+msgstr ""
+
+msgid "20x30"
+msgstr ""
+
+msgid "210 mm Roll Paper"
+msgstr ""
+
+msgid "22 Inch Roll Paper"
+msgstr ""
+
+msgid "22x30"
+msgstr ""
+
+msgid "24 Inch Roll Paper"
+msgstr ""
+
+msgid "2400 DPI x 1200 DPI"
+msgstr ""
+
+msgid "2400 DPI x 1200 DPI high quality"
+msgstr ""
+
+msgid "2400 DPI x 1200 DPI highest quality"
+msgstr ""
+
+msgid "2400x600 DPI"
+msgstr ""
+
+msgid "24x30"
+msgstr ""
+
+msgid "2880 x 1440 DPI"
+msgstr ""
+
+msgid "2880 x 2880 DPI"
+msgstr ""
+
+msgid "2880 x 720 DPI"
+msgstr ""
+
+msgid "2880 x 720 DPI Highest Quality"
+msgstr ""
+
+msgid "2A"
+msgstr ""
+
+msgid "2B ISO"
+msgstr ""
+
+msgid "2L"
+msgstr ""
+
+msgid "2x6"
+msgstr ""
+
+msgid "3 1/2 x5"
+msgstr ""
+
+msgid "300 DPI x 600 DPI"
+msgstr ""
+
+msgid "300x300 DPI"
+msgstr ""
+
+msgid "30x40"
+msgstr ""
+
+msgid "36 Inch Roll Paper"
+msgstr ""
+
+msgid "360 DPI"
+msgstr ""
+
+msgid "360 DPI High Quality"
+msgstr ""
+
+msgid "360 x 120 DPI Economy"
+msgstr ""
+
+msgid "360 x 180 DPI Draft"
+msgstr ""
+
+msgid "360 x 240 DPI Draft"
+msgstr ""
+
+msgid "3x5"
+msgstr ""
+
+msgid "4 Inch Roll Paper"
+msgstr ""
+
+msgid "44 Inch Roll Paper"
+msgstr ""
+
+msgid "4A"
+msgstr ""
+
+msgid "4B ISO"
+msgstr ""
+
+msgid "4x5 3/8"
+msgstr ""
+
+msgid "4x6"
+msgstr ""
+
+msgid "4x7"
+msgstr ""
+
+msgid "4x8"
+msgstr ""
+
+msgid "5 Inch Roll Paper"
+msgstr ""
+
+msgid "5760 x 1440 DPI"
+msgstr ""
+
+msgid "5760 x 2880 DPI"
+msgstr ""
+
+msgid "5x7"
+msgstr ""
+
+msgid "5x8"
+msgstr ""
+
+msgid "60 Inch Roll Paper"
+msgstr ""
+
+msgid "600 DPI"
+msgstr ""
+
+msgid "600 DPI Unidirectional"
+msgstr ""
+
+msgid "600 DPI high quality"
+msgstr ""
+
+msgid "600x300 DPI"
+msgstr ""
+
+msgid "600x600 DPI"
+msgstr ""
+
+msgid "600x600 DPI monochrome"
+msgstr ""
+
+msgid "64 Inch Roll Paper"
+msgstr ""
+
+msgid "6x8"
+msgstr ""
+
+msgid "6x9"
+msgstr ""
+
+msgid "720 DPI"
+msgstr ""
+
+msgid "720 DPI High Quality"
+msgstr ""
+
+msgid "720 DPI Highest Quality"
+msgstr ""
+
+msgid "720 x 360 DPI"
+msgstr ""
+
+msgid "89 mm Roll Paper"
+msgstr ""
+
+msgid "8x10"
+msgstr ""
+
+msgid "8x12"
+msgstr ""
+
+msgid "> "
+msgstr ""
+
+msgid "A0"
+msgstr ""
+
+msgid "A1"
+msgstr ""
+
+msgid "A10"
+msgstr ""
+
+msgid "A2"
+msgstr ""
+
+msgid "A3"
+msgstr ""
+
+msgid "A3+"
+msgstr ""
+
+msgid "A4"
+msgstr ""
+
+msgid "A5"
+msgstr ""
+
+msgid "A6"
+msgstr ""
+
+msgid "A7"
+msgstr ""
+
+msgid "A8"
+msgstr ""
+
+msgid "A9"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "About Gutenprint "
+msgstr ""
+
+msgid "About to save settings..."
+msgstr ""
+
+msgid "Adaptive Hybrid"
+msgstr ""
+
+msgid "Adjust Output..."
+msgstr ""
+
+msgid ""
+"Adjust color balance, brightness, contrast, saturation, and dither algorithm"
+msgstr ""
+
+msgid "Adjust the black balance"
+msgstr ""
+
+msgid "Adjust the black density"
+msgstr ""
+
+msgid "Adjust the black gamma"
+msgstr ""
+
+msgid "Adjust the blue density"
+msgstr ""
+
+msgid "Adjust the blue gamma"
+msgstr ""
+
+msgid "Adjust the blue map"
+msgstr ""
+
+msgid "Adjust the cyan balance"
+msgstr ""
+
+msgid "Adjust the cyan density"
+msgstr ""
+
+msgid "Adjust the cyan gamma"
+msgstr ""
+
+msgid "Adjust the cyan gray balance"
+msgstr ""
+
+msgid "Adjust the cyan map"
+msgstr ""
+
+msgid ""
+"Adjust the density (amount of ink) of the print. Reduce the density if the "
+"ink bleeds through the paper or smears; increase the density if black "
+"regions are not solid."
+msgstr ""
+
+msgid "Adjust the gloss level"
+msgstr ""
+
+msgid "Adjust the gray component transition rate"
+msgstr ""
+
+msgid "Adjust the green gamma"
+msgstr ""
+
+msgid "Adjust the magenta balance"
+msgstr ""
+
+msgid "Adjust the magenta density"
+msgstr ""
+
+msgid "Adjust the magenta gamma"
+msgstr ""
+
+msgid "Adjust the magenta gray balance"
+msgstr ""
+
+msgid "Adjust the magenta map"
+msgstr ""
+
+msgid "Adjust the orange density"
+msgstr ""
+
+msgid "Adjust the orange map"
+msgstr ""
+
+msgid "Adjust the red density"
+msgstr ""
+
+msgid "Adjust the red gamma"
+msgstr ""
+
+msgid "Adjust the red map"
+msgstr ""
+
+msgid ""
+"Adjust the saturation (color balance) of the print\n"
+"Use zero saturation to produce grayscale output using color and black inks"
+msgstr ""
+
+msgid "Adjust the yellow balance"
+msgstr ""
+
+msgid "Adjust the yellow density"
+msgstr ""
+
+msgid "Adjust the yellow gamma"
+msgstr ""
+
+msgid "Adjust the yellow gray balance"
+msgstr ""
+
+msgid "Adjust the yellow map"
+msgstr ""
+
+msgid "Advanced Output Control"
+msgstr ""
+
+msgid "Alignment Choices"
+msgstr ""
+
+msgid "Alternate Fill"
+msgstr ""
+
+msgid "Apollo P-2100"
+msgstr ""
+
+msgid "Apollo P-2150"
+msgstr ""
+
+msgid "Apollo P-2200"
+msgstr ""
+
+msgid "Apollo P-2250"
+msgstr ""
+
+msgid "Apollo P-2500"
+msgstr ""
+
+msgid "Apollo P-2550"
+msgstr ""
+
+msgid "Apollo P-2600"
+msgstr ""
+
+msgid "Apollo P-2650"
+msgstr ""
+
+msgid "AppGamma"
+msgstr ""
+
+msgid "Apple Color StyleWriter 4100"
+msgstr ""
+
+msgid "Apple Color StyleWriter 4500"
+msgstr ""
+
+msgid "Apple Color StyleWriter 6500"
+msgstr ""
+
+msgid "Apple LaserWriter Select 360"
+msgstr ""
+
+msgid "ArchA"
+msgstr ""
+
+msgid "ArchB"
+msgstr ""
+
+msgid "ArchC"
+msgstr ""
+
+msgid "ArchD"
+msgstr ""
+
+msgid "ArchE"
+msgstr ""
+
+msgid "Attempting to set alignment..."
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Auto Sheet Feeder"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatic Printing Mode"
+msgstr ""
+
+msgid "Automatic Setting Control"
+msgstr ""
+
+msgid "Automatic printing mode"
+msgstr ""
+
+msgid "Autoselect"
+msgstr ""
+
+msgid "B0 ISO"
+msgstr ""
+
+msgid "B0 JIS"
+msgstr ""
+
+msgid "B1 ISO"
+msgstr ""
+
+msgid "B1 JIS"
+msgstr ""
+
+msgid "B10 ISO"
+msgstr ""
+
+msgid "B10 JIS"
+msgstr ""
+
+msgid "B2 ISO"
+msgstr ""
+
+msgid "B2 JIS"
+msgstr ""
+
+msgid "B3 ISO"
+msgstr ""
+
+msgid "B3 JIS"
+msgstr ""
+
+msgid "B4 ISO"
+msgstr ""
+
+msgid "B4 JIS"
+msgstr ""
+
+msgid "B5 ISO"
+msgstr ""
+
+msgid "B5 JIS"
+msgstr ""
+
+msgid "B6 ISO"
+msgstr ""
+
+msgid "B6 JIS"
+msgstr ""
+
+msgid "B6-C4"
+msgstr ""
+
+msgid "B6-C4 landscape"
+msgstr ""
+
+msgid "B7 ISO"
+msgstr ""
+
+msgid "B7 JIS"
+msgstr ""
+
+msgid "B8 ISO"
+msgstr ""
+
+msgid "B8 JIS"
+msgstr ""
+
+msgid "B9 ISO"
+msgstr ""
+
+msgid "B9 JIS"
+msgstr ""
+
+msgid "Berkeley lpd (/etc/lpc)"
+msgstr ""
+
+msgid "Berkeley lpd (/usr/bsd/lpc)"
+msgstr ""
+
+msgid "Berkeley lpd (/usr/etc/lpc"
+msgstr ""
+
+msgid "Berkeley lpd (/usr/libexec/lpc)"
+msgstr ""
+
+msgid "Berkeley lpd (/usr/sbin/lpc)"
+msgstr ""
+
+msgid "Best"
+msgstr ""
+
+msgid "Bidirectional"
+msgstr ""
+
+msgid "Bit depth per channel"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Black 1"
+msgstr ""
+
+msgid "Black 2"
+msgstr ""
+
+msgid "Black Balance"
+msgstr ""
+
+msgid "Black Curve"
+msgstr ""
+
+msgid "Black Density"
+msgstr ""
+
+msgid "Black and White"
+msgstr ""
+
+msgid "Black curve"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Blue Curve"
+msgstr ""
+
+msgid "Blue Density"
+msgstr ""
+
+msgid "Blue Map"
+msgstr ""
+
+msgid "Blue curve"
+msgstr ""
+
+msgid "Borderless"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Bottom:"
+msgstr ""
+
+msgid "Bright Colors"
+msgstr ""
+
+msgid "Bright White Paper"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Brightness of the print"
+msgstr ""
+
+msgid "Brother DCP-1200"
+msgstr ""
+
+msgid "Brother DCP-8045D"
+msgstr ""
+
+msgid "Brother HL-1040"
+msgstr ""
+
+msgid "Brother HL-1050"
+msgstr ""
+
+msgid "Brother HL-1060"
+msgstr ""
+
+msgid "Brother HL-1070"
+msgstr ""
+
+msgid "Brother HL-10V"
+msgstr ""
+
+msgid "Brother HL-10h"
+msgstr ""
+
+msgid "Brother HL-1240"
+msgstr ""
+
+msgid "Brother HL-1250"
+msgstr ""
+
+msgid "Brother HL-1260"
+msgstr ""
+
+msgid "Brother HL-1270N"
+msgstr ""
+
+msgid "Brother HL-1440"
+msgstr ""
+
+msgid "Brother HL-1450"
+msgstr ""
+
+msgid "Brother HL-1470N"
+msgstr ""
+
+msgid "Brother HL-1650"
+msgstr ""
+
+msgid "Brother HL-1660e"
+msgstr ""
+
+msgid "Brother HL-1670N"
+msgstr ""
+
+msgid "Brother HL-1850"
+msgstr ""
+
+msgid "Brother HL-1870N"
+msgstr ""
+
+msgid "Brother HL-2060"
+msgstr ""
+
+msgid "Brother HL-2460"
+msgstr ""
+
+msgid "Brother HL-2460N"
+msgstr ""
+
+msgid "Brother HL-4Ve"
+msgstr ""
+
+msgid "Brother HL-5030"
+msgstr ""
+
+msgid "Brother HL-5040"
+msgstr ""
+
+msgid "Brother HL-5050"
+msgstr ""
+
+msgid "Brother HL-5070N"
+msgstr ""
+
+msgid "Brother HL-5140"
+msgstr ""
+
+msgid "Brother HL-5150D"
+msgstr ""
+
+msgid "Brother HL-5170DN"
+msgstr ""
+
+msgid "Brother HL-630"
+msgstr ""
+
+msgid "Brother HL-660"
+msgstr ""
+
+msgid "Brother HL-7050"
+msgstr ""
+
+msgid "Brother HL-7050N"
+msgstr ""
+
+msgid "Brother HL-760"
+msgstr ""
+
+msgid "Brother HL-960"
+msgstr ""
+
+msgid "Brother MFC-6550MC"
+msgstr ""
+
+msgid "Brother MFC-8300"
+msgstr ""
+
+msgid "Brother MFC-9500"
+msgstr ""
+
+msgid "Brother MFC-9600"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "C0"
+msgstr ""
+
+msgid "C0 landscape"
+msgstr ""
+
+msgid "C1"
+msgstr ""
+
+msgid "C1 landscape"
+msgstr ""
+
+msgid "C10"
+msgstr ""
+
+msgid "C10 landscape"
+msgstr ""
+
+msgid "C2"
+msgstr ""
+
+msgid "C2 landscape"
+msgstr ""
+
+msgid "C3"
+msgstr ""
+
+msgid "C3 landscape"
+msgstr ""
+
+msgid "C4"
+msgstr ""
+
+msgid "C4 landscape"
+msgstr ""
+
+msgid "C5"
+msgstr ""
+
+msgid "C5 landscape"
+msgstr ""
+
+msgid "C6"
+msgstr ""
+
+msgid "C6 landscape"
+msgstr ""
+
+msgid "C7"
+msgstr ""
+
+msgid "C7 landscape"
+msgstr ""
+
+msgid "C7-6"
+msgstr ""
+
+msgid "C7-6 landscape"
+msgstr ""
+
+msgid "C8"
+msgstr ""
+
+msgid "C8 landscape"
+msgstr ""
+
+msgid "C9"
+msgstr ""
+
+msgid "C9 landscape"
+msgstr ""
+
+msgid "CD - 3 inch"
+msgstr ""
+
+msgid "CD - 5 inch"
+msgstr ""
+
+msgid "CD - Custom"
+msgstr ""
+
+msgid "CD Horizontal Fine Adjustment"
+msgstr ""
+
+msgid "CD Hub Size"
+msgstr ""
+
+msgid "CD Hub Size (Custom)"
+msgstr ""
+
+msgid "CD Size (Custom)"
+msgstr ""
+
+msgid "CD Vertical Fine Adjustment"
+msgstr ""
+
+msgid "CMY"
+msgstr ""
+
+msgid "CMY Color"
+msgstr ""
+
+msgid "CMYK"
+msgstr ""
+
+msgid "CP_L"
+msgstr ""
+
+msgid "CUPS"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot identify printer model.\n"
+msgstr ""
+
+msgid "Cannot open device %s: %s\n"
+msgstr ""
+
+msgid "Cannot read from %s: %s\n"
+msgstr ""
+
+msgid "Cannot write to %s: %s\n"
+msgstr ""
+
+msgid "Canon BJ-30"
+msgstr ""
+
+msgid "Canon BJC-1000"
+msgstr ""
+
+msgid "Canon BJC-2000"
+msgstr ""
+
+msgid "Canon BJC-2010"
+msgstr ""
+
+msgid "Canon BJC-210"
+msgstr ""
+
+msgid "Canon BJC-2100"
+msgstr ""
+
+msgid "Canon BJC-2110"
+msgstr ""
+
+msgid "Canon BJC-240"
+msgstr ""
+
+msgid "Canon BJC-250"
+msgstr ""
+
+msgid "Canon BJC-3000"
+msgstr ""
+
+msgid "Canon BJC-4000"
+msgstr ""
+
+msgid "Canon BJC-4300"
+msgstr ""
+
+msgid "Canon BJC-4400"
+msgstr ""
+
+msgid "Canon BJC-4550"
+msgstr ""
+
+msgid "Canon BJC-50"
+msgstr ""
+
+msgid "Canon BJC-5100"
+msgstr ""
+
+msgid "Canon BJC-55"
+msgstr ""
+
+msgid "Canon BJC-5500"
+msgstr ""
+
+msgid "Canon BJC-5500J"
+msgstr ""
+
+msgid "Canon BJC-6000"
+msgstr ""
+
+msgid "Canon BJC-6100"
+msgstr ""
+
+msgid "Canon BJC-6200"
+msgstr ""
+
+msgid "Canon BJC-6500"
+msgstr ""
+
+msgid "Canon BJC-7000"
+msgstr ""
+
+msgid "Canon BJC-7100"
+msgstr ""
+
+msgid "Canon BJC-80"
+msgstr ""
+
+msgid "Canon BJC-8200"
+msgstr ""
+
+msgid "Canon BJC-85"
+msgstr ""
+
+msgid "Canon BJC-8500"
+msgstr ""
+
+msgid "Canon CP-10"
+msgstr ""
+
+msgid "Canon CP-100"
+msgstr ""
+
+msgid "Canon CP-200"
+msgstr ""
+
+msgid "Canon CP-220"
+msgstr ""
+
+msgid "Canon CP-300"
+msgstr ""
+
+msgid "Canon CP-330"
+msgstr ""
+
+msgid "Canon E500 series"
+msgstr ""
+
+msgid "Canon E510 series"
+msgstr ""
+
+msgid "Canon E600 series"
+msgstr ""
+
+msgid "Canon E610 series"
+msgstr ""
+
+msgid "Canon GP 335"
+msgstr ""
+
+msgid "Canon LBP-1000"
+msgstr ""
+
+msgid "Canon LBP-1260"
+msgstr ""
+
+msgid "Canon LBP-1760"
+msgstr ""
+
+msgid "Canon LBP-3360"
+msgstr ""
+
+msgid "Canon LBP-430"
+msgstr ""
+
+msgid "Canon LBP-4sx"
+msgstr ""
+
+msgid "Canon MG2100 series"
+msgstr ""
+
+msgid "Canon MG2200 series"
+msgstr ""
+
+msgid "Canon MG2400 series"
+msgstr ""
+
+msgid "Canon MG2500 series"
+msgstr ""
+
+msgid "Canon MG3100 series"
+msgstr ""
+
+msgid "Canon MG3200 series"
+msgstr ""
+
+msgid "Canon MG3500 series"
+msgstr ""
+
+msgid "Canon MG4100 series"
+msgstr ""
+
+msgid "Canon MG4200 series"
+msgstr ""
+
+msgid "Canon MG5100 series"
+msgstr ""
+
+msgid "Canon MG5200 series"
+msgstr ""
+
+msgid "Canon MG5300 series"
+msgstr ""
+
+msgid "Canon MG5400 series"
+msgstr ""
+
+msgid "Canon MG5500 series"
+msgstr ""
+
+msgid "Canon MG6100 series"
+msgstr ""
+
+msgid "Canon MG6200 series"
+msgstr ""
+
+msgid "Canon MG6300 series"
+msgstr ""
+
+msgid "Canon MG6400 series"
+msgstr ""
+
+msgid "Canon MG6500 series"
+msgstr ""
+
+msgid "Canon MG7100 series"
+msgstr ""
+
+msgid "Canon MG8100 series"
+msgstr ""
+
+msgid "Canon MG8200 series"
+msgstr ""
+
+msgid "Canon MP140 series"
+msgstr ""
+
+msgid "Canon MP150 series"
+msgstr ""
+
+msgid "Canon MP160 series"
+msgstr ""
+
+msgid "Canon MP170 series"
+msgstr ""
+
+msgid "Canon MP180 series"
+msgstr ""
+
+msgid "Canon MP190 series"
+msgstr ""
+
+msgid "Canon MP210 series"
+msgstr ""
+
+msgid "Canon MP220 series"
+msgstr ""
+
+msgid "Canon MP230 series"
+msgstr ""
+
+msgid "Canon MP240 series"
+msgstr ""
+
+msgid "Canon MP250 series"
+msgstr ""
+
+msgid "Canon MP260 series"
+msgstr ""
+
+msgid "Canon MP270 series"
+msgstr ""
+
+msgid "Canon MP280 series"
+msgstr ""
+
+msgid "Canon MP360 series"
+msgstr ""
+
+msgid "Canon MP370 series"
+msgstr ""
+
+msgid "Canon MP390 series"
+msgstr ""
+
+msgid "Canon MP450 series"
+msgstr ""
+
+msgid "Canon MP460 series"
+msgstr ""
+
+msgid "Canon MP470 series"
+msgstr ""
+
+msgid "Canon MP480 series"
+msgstr ""
+
+msgid "Canon MP490 series"
+msgstr ""
+
+msgid "Canon MP500 series"
+msgstr ""
+
+msgid "Canon MP510 series"
+msgstr ""
+
+msgid "Canon MP520 series"
+msgstr ""
+
+msgid "Canon MP530 series"
+msgstr ""
+
+msgid "Canon MP540 series"
+msgstr ""
+
+msgid "Canon MP550 series"
+msgstr ""
+
+msgid "Canon MP560 series"
+msgstr ""
+
+msgid "Canon MP600 series"
+msgstr ""
+
+msgid "Canon MP610 series"
+msgstr ""
+
+msgid "Canon MP620 series"
+msgstr ""
+
+msgid "Canon MP630 series"
+msgstr ""
+
+msgid "Canon MP640 series"
+msgstr ""
+
+msgid "Canon MP700 series"
+msgstr ""
+
+msgid "Canon MP710 series"
+msgstr ""
+
+msgid "Canon MP730 series"
+msgstr ""
+
+msgid "Canon MP740 series"
+msgstr ""
+
+msgid "Canon MP750 series"
+msgstr ""
+
+msgid "Canon MP760 series"
+msgstr ""
+
+msgid "Canon MP770 series"
+msgstr ""
+
+msgid "Canon MP780 series"
+msgstr ""
+
+msgid "Canon MP790 series"
+msgstr ""
+
+msgid "Canon MP800 series"
+msgstr ""
+
+msgid "Canon MP810 series"
+msgstr ""
+
+msgid "Canon MP830 series"
+msgstr ""
+
+msgid "Canon MP900 series"
+msgstr ""
+
+msgid "Canon MP950 series"
+msgstr ""
+
+msgid "Canon MP960 series"
+msgstr ""
+
+msgid "Canon MP970 series"
+msgstr ""
+
+msgid "Canon MP980 series"
+msgstr ""
+
+msgid "Canon MP990 series"
+msgstr ""
+
+msgid "Canon MX300 series"
+msgstr ""
+
+msgid "Canon MX310 series"
+msgstr ""
+
+msgid "Canon MX320 series"
+msgstr ""
+
+msgid "Canon MX330 series"
+msgstr ""
+
+msgid "Canon MX340 series"
+msgstr ""
+
+msgid "Canon MX350 series"
+msgstr ""
+
+msgid "Canon MX360 series"
+msgstr ""
+
+msgid "Canon MX370 series"
+msgstr ""
+
+msgid "Canon MX390 series"
+msgstr ""
+
+msgid "Canon MX410 series"
+msgstr ""
+
+msgid "Canon MX420 series"
+msgstr ""
+
+msgid "Canon MX430 series"
+msgstr ""
+
+msgid "Canon MX450 series"
+msgstr ""
+
+msgid "Canon MX510 series"
+msgstr ""
+
+msgid "Canon MX520 series"
+msgstr ""
+
+msgid "Canon MX700 series"
+msgstr ""
+
+msgid "Canon MX710 series"
+msgstr ""
+
+msgid "Canon MX720 series"
+msgstr ""
+
+msgid "Canon MX7600 series"
+msgstr ""
+
+msgid "Canon MX850 series"
+msgstr ""
+
+msgid "Canon MX860 series"
+msgstr ""
+
+msgid "Canon MX870 series"
+msgstr ""
+
+msgid "Canon MX880 series"
+msgstr ""
+
+msgid "Canon MX890 series"
+msgstr ""
+
+msgid "Canon MX920 series"
+msgstr ""
+
+msgid "Canon MultiPASS MP360"
+msgstr ""
+
+msgid "Canon MultiPASS MP370"
+msgstr ""
+
+msgid "Canon MultiPASS MP390"
+msgstr ""
+
+msgid "Canon MultiPASS MP700"
+msgstr ""
+
+msgid "Canon MultiPASS MP730"
+msgstr ""
+
+msgid "Canon PIXMA E500"
+msgstr ""
+
+msgid "Canon PIXMA E510"
+msgstr ""
+
+msgid "Canon PIXMA E518"
+msgstr ""
+
+msgid "Canon PIXMA E600"
+msgstr ""
+
+msgid "Canon PIXMA E608"
+msgstr ""
+
+msgid "Canon PIXMA E610"
+msgstr ""
+
+msgid "Canon PIXMA E618"
+msgstr ""
+
+msgid "Canon PIXMA MG2100"
+msgstr ""
+
+msgid "Canon PIXMA MG2110"
+msgstr ""
+
+msgid "Canon PIXMA MG2120"
+msgstr ""
+
+msgid "Canon PIXMA MG2140"
+msgstr ""
+
+msgid "Canon PIXMA MG2150"
+msgstr ""
+
+msgid "Canon PIXMA MG2160"
+msgstr ""
+
+msgid "Canon PIXMA MG2170"
+msgstr ""
+
+msgid "Canon PIXMA MG2180"
+msgstr ""
+
+msgid "Canon PIXMA MG2210"
+msgstr ""
+
+msgid "Canon PIXMA MG2220"
+msgstr ""
+
+msgid "Canon PIXMA MG2240"
+msgstr ""
+
+msgid "Canon PIXMA MG2250"
+msgstr ""
+
+msgid "Canon PIXMA MG2260"
+msgstr ""
+
+msgid "Canon PIXMA MG2270"
+msgstr ""
+
+msgid "Canon PIXMA MG2280"
+msgstr ""
+
+msgid "Canon PIXMA MG2400"
+msgstr ""
+
+msgid "Canon PIXMA MG2410"
+msgstr ""
+
+msgid "Canon PIXMA MG2420"
+msgstr ""
+
+msgid "Canon PIXMA MG2440"
+msgstr ""
+
+msgid "Canon PIXMA MG2450"
+msgstr ""
+
+msgid "Canon PIXMA MG2470"
+msgstr ""
+
+msgid "Canon PIXMA MG2510"
+msgstr ""
+
+msgid "Canon PIXMA MG2520"
+msgstr ""
+
+msgid "Canon PIXMA MG2540"
+msgstr ""
+
+msgid "Canon PIXMA MG2550"
+msgstr ""
+
+msgid "Canon PIXMA MG2560"
+msgstr ""
+
+msgid "Canon PIXMA MG2570"
+msgstr ""
+
+msgid "Canon PIXMA MG2580"
+msgstr ""
+
+msgid "Canon PIXMA MG3100"
+msgstr ""
+
+msgid "Canon PIXMA MG3110"
+msgstr ""
+
+msgid "Canon PIXMA MG3120"
+msgstr ""
+
+msgid "Canon PIXMA MG3122"
+msgstr ""
+
+msgid "Canon PIXMA MG3140"
+msgstr ""
+
+msgid "Canon PIXMA MG3150"
+msgstr ""
+
+msgid "Canon PIXMA MG3160"
+msgstr ""
+
+msgid "Canon PIXMA MG3170"
+msgstr ""
+
+msgid "Canon PIXMA MG3180"
+msgstr ""
+
+msgid "Canon PIXMA MG3210"
+msgstr ""
+
+msgid "Canon PIXMA MG3220"
+msgstr ""
+
+msgid "Canon PIXMA MG3222"
+msgstr ""
+
+msgid "Canon PIXMA MG3240"
+msgstr ""
+
+msgid "Canon PIXMA MG3250"
+msgstr ""
+
+msgid "Canon PIXMA MG3260"
+msgstr ""
+
+msgid "Canon PIXMA MG3270"
+msgstr ""
+
+msgid "Canon PIXMA MG3510"
+msgstr ""
+
+msgid "Canon PIXMA MG3520"
+msgstr ""
+
+msgid "Canon PIXMA MG3540"
+msgstr ""
+
+msgid "Canon PIXMA MG3550"
+msgstr ""
+
+msgid "Canon PIXMA MG3560"
+msgstr ""
+
+msgid "Canon PIXMA MG3570"
+msgstr ""
+
+msgid "Canon PIXMA MG4100"
+msgstr ""
+
+msgid "Canon PIXMA MG4110"
+msgstr ""
+
+msgid "Canon PIXMA MG4120"
+msgstr ""
+
+msgid "Canon PIXMA MG4140"
+msgstr ""
+
+msgid "Canon PIXMA MG4150"
+msgstr ""
+
+msgid "Canon PIXMA MG4160"
+msgstr ""
+
+msgid "Canon PIXMA MG4170"
+msgstr ""
+
+msgid "Canon PIXMA MG4180"
+msgstr ""
+
+msgid "Canon PIXMA MG4210"
+msgstr ""
+
+msgid "Canon PIXMA MG4220"
+msgstr ""
+
+msgid "Canon PIXMA MG4240"
+msgstr ""
+
+msgid "Canon PIXMA MG4250"
+msgstr ""
+
+msgid "Canon PIXMA MG4260"
+msgstr ""
+
+msgid "Canon PIXMA MG4270"
+msgstr ""
+
+msgid "Canon PIXMA MG4280"
+msgstr ""
+
+msgid "Canon PIXMA MG5100"
+msgstr ""
+
+msgid "Canon PIXMA MG5120"
+msgstr ""
+
+msgid "Canon PIXMA MG5140"
+msgstr ""
+
+msgid "Canon PIXMA MG5150"
+msgstr ""
+
+msgid "Canon PIXMA MG5170"
+msgstr ""
+
+msgid "Canon PIXMA MG5180"
+msgstr ""
+
+msgid "Canon PIXMA MG5200"
+msgstr ""
+
+msgid "Canon PIXMA MG5210"
+msgstr ""
+
+msgid "Canon PIXMA MG5220"
+msgstr ""
+
+msgid "Canon PIXMA MG5240"
+msgstr ""
+
+msgid "Canon PIXMA MG5250"
+msgstr ""
+
+msgid "Canon PIXMA MG5270"
+msgstr ""
+
+msgid "Canon PIXMA MG5280"
+msgstr ""
+
+msgid "Canon PIXMA MG5300"
+msgstr ""
+
+msgid "Canon PIXMA MG5310"
+msgstr ""
+
+msgid "Canon PIXMA MG5320"
+msgstr ""
+
+msgid "Canon PIXMA MG5340"
+msgstr ""
+
+msgid "Canon PIXMA MG5350"
+msgstr ""
+
+msgid "Canon PIXMA MG5370"
+msgstr ""
+
+msgid "Canon PIXMA MG5380"
+msgstr ""
+
+msgid "Canon PIXMA MG5410"
+msgstr ""
+
+msgid "Canon PIXMA MG5420"
+msgstr ""
+
+msgid "Canon PIXMA MG5422"
+msgstr ""
+
+msgid "Canon PIXMA MG5440"
+msgstr ""
+
+msgid "Canon PIXMA MG5450"
+msgstr ""
+
+msgid "Canon PIXMA MG5460"
+msgstr ""
+
+msgid "Canon PIXMA MG5470"
+msgstr ""
+
+msgid "Canon PIXMA MG5480"
+msgstr ""
+
+msgid "Canon PIXMA MG5520"
+msgstr ""
+
+msgid "Canon PIXMA MG5522"
+msgstr ""
+
+msgid "Canon PIXMA MG5540"
+msgstr ""
+
+msgid "Canon PIXMA MG5550"
+msgstr ""
+
+msgid "Canon PIXMA MG5570"
+msgstr ""
+
+msgid "Canon PIXMA MG6100"
+msgstr ""
+
+msgid "Canon PIXMA MG6110"
+msgstr ""
+
+msgid "Canon PIXMA MG6120"
+msgstr ""
+
+msgid "Canon PIXMA MG6140"
+msgstr ""
+
+msgid "Canon PIXMA MG6150"
+msgstr ""
+
+msgid "Canon PIXMA MG6170"
+msgstr ""
+
+msgid "Canon PIXMA MG6180"
+msgstr ""
+
+msgid "Canon PIXMA MG6200"
+msgstr ""
+
+msgid "Canon PIXMA MG6210"
+msgstr ""
+
+msgid "Canon PIXMA MG6220"
+msgstr ""
+
+msgid "Canon PIXMA MG6240"
+msgstr ""
+
+msgid "Canon PIXMA MG6250"
+msgstr ""
+
+msgid "Canon PIXMA MG6270"
+msgstr ""
+
+msgid "Canon PIXMA MG6280"
+msgstr ""
+
+msgid "Canon PIXMA MG6310"
+msgstr ""
+
+msgid "Canon PIXMA MG6320"
+msgstr ""
+
+msgid "Canon PIXMA MG6340"
+msgstr ""
+
+msgid "Canon PIXMA MG6350"
+msgstr ""
+
+msgid "Canon PIXMA MG6360"
+msgstr ""
+
+msgid "Canon PIXMA MG6370"
+msgstr ""
+
+msgid "Canon PIXMA MG6380"
+msgstr ""
+
+msgid "Canon PIXMA MG6410"
+msgstr ""
+
+msgid "Canon PIXMA MG6420"
+msgstr ""
+
+msgid "Canon PIXMA MG6440"
+msgstr ""
+
+msgid "Canon PIXMA MG6450"
+msgstr ""
+
+msgid "Canon PIXMA MG6470"
+msgstr ""
+
+msgid "Canon PIXMA MG7110"
+msgstr ""
+
+msgid "Canon PIXMA MG7120"
+msgstr ""
+
+msgid "Canon PIXMA MG7140"
+msgstr ""
+
+msgid "Canon PIXMA MG7150"
+msgstr ""
+
+msgid "Canon PIXMA MG7170"
+msgstr ""
+
+msgid "Canon PIXMA MG8100"
+msgstr ""
+
+msgid "Canon PIXMA MG8120"
+msgstr ""
+
+msgid "Canon PIXMA MG8140"
+msgstr ""
+
+msgid "Canon PIXMA MG8150"
+msgstr ""
+
+msgid "Canon PIXMA MG8170"
+msgstr ""
+
+msgid "Canon PIXMA MG8180"
+msgstr ""
+
+msgid "Canon PIXMA MG8200"
+msgstr ""
+
+msgid "Canon PIXMA MG8220"
+msgstr ""
+
+msgid "Canon PIXMA MG8240"
+msgstr ""
+
+msgid "Canon PIXMA MG8250"
+msgstr ""
+
+msgid "Canon PIXMA MG8270"
+msgstr ""
+
+msgid "Canon PIXMA MG8280"
+msgstr ""
+
+msgid "Canon PIXMA MP140"
+msgstr ""
+
+msgid "Canon PIXMA MP145"
+msgstr ""
+
+msgid "Canon PIXMA MP150"
+msgstr ""
+
+msgid "Canon PIXMA MP160"
+msgstr ""
+
+msgid "Canon PIXMA MP170"
+msgstr ""
+
+msgid "Canon PIXMA MP180"
+msgstr ""
+
+msgid "Canon PIXMA MP190"
+msgstr ""
+
+msgid "Canon PIXMA MP198"
+msgstr ""
+
+msgid "Canon PIXMA MP210"
+msgstr ""
+
+msgid "Canon PIXMA MP218"
+msgstr ""
+
+msgid "Canon PIXMA MP220"
+msgstr ""
+
+msgid "Canon PIXMA MP228"
+msgstr ""
+
+msgid "Canon PIXMA MP230"
+msgstr ""
+
+msgid "Canon PIXMA MP236"
+msgstr ""
+
+msgid "Canon PIXMA MP237"
+msgstr ""
+
+msgid "Canon PIXMA MP240"
+msgstr ""
+
+msgid "Canon PIXMA MP245"
+msgstr ""
+
+msgid "Canon PIXMA MP250"
+msgstr ""
+
+msgid "Canon PIXMA MP252"
+msgstr ""
+
+msgid "Canon PIXMA MP258"
+msgstr ""
+
+msgid "Canon PIXMA MP259"
+msgstr ""
+
+msgid "Canon PIXMA MP260"
+msgstr ""
+
+msgid "Canon PIXMA MP268"
+msgstr ""
+
+msgid "Canon PIXMA MP270"
+msgstr ""
+
+msgid "Canon PIXMA MP272"
+msgstr ""
+
+msgid "Canon PIXMA MP276"
+msgstr ""
+
+msgid "Canon PIXMA MP280"
+msgstr ""
+
+msgid "Canon PIXMA MP282"
+msgstr ""
+
+msgid "Canon PIXMA MP287"
+msgstr ""
+
+msgid "Canon PIXMA MP288"
+msgstr ""
+
+msgid "Canon PIXMA MP360"
+msgstr ""
+
+msgid "Canon PIXMA MP370"
+msgstr ""
+
+msgid "Canon PIXMA MP375R"
+msgstr ""
+
+msgid "Canon PIXMA MP390"
+msgstr ""
+
+msgid "Canon PIXMA MP450"
+msgstr ""
+
+msgid "Canon PIXMA MP460"
+msgstr ""
+
+msgid "Canon PIXMA MP470"
+msgstr ""
+
+msgid "Canon PIXMA MP476"
+msgstr ""
+
+msgid "Canon PIXMA MP480"
+msgstr ""
+
+msgid "Canon PIXMA MP486"
+msgstr ""
+
+msgid "Canon PIXMA MP490"
+msgstr ""
+
+msgid "Canon PIXMA MP492"
+msgstr ""
+
+msgid "Canon PIXMA MP493"
+msgstr ""
+
+msgid "Canon PIXMA MP495"
+msgstr ""
+
+msgid "Canon PIXMA MP496"
+msgstr ""
+
+msgid "Canon PIXMA MP497"
+msgstr ""
+
+msgid "Canon PIXMA MP498"
+msgstr ""
+
+msgid "Canon PIXMA MP499"
+msgstr ""
+
+msgid "Canon PIXMA MP500"
+msgstr ""
+
+msgid "Canon PIXMA MP510"
+msgstr ""
+
+msgid "Canon PIXMA MP520"
+msgstr ""
+
+msgid "Canon PIXMA MP530"
+msgstr ""
+
+msgid "Canon PIXMA MP540"
+msgstr ""
+
+msgid "Canon PIXMA MP545"
+msgstr ""
+
+msgid "Canon PIXMA MP550"
+msgstr ""
+
+msgid "Canon PIXMA MP558"
+msgstr ""
+
+msgid "Canon PIXMA MP560"
+msgstr ""
+
+msgid "Canon PIXMA MP568"
+msgstr ""
+
+msgid "Canon PIXMA MP600"
+msgstr ""
+
+msgid "Canon PIXMA MP600R"
+msgstr ""
+
+msgid "Canon PIXMA MP610"
+msgstr ""
+
+msgid "Canon PIXMA MP620"
+msgstr ""
+
+msgid "Canon PIXMA MP628"
+msgstr ""
+
+msgid "Canon PIXMA MP630"
+msgstr ""
+
+msgid "Canon PIXMA MP638"
+msgstr ""
+
+msgid "Canon PIXMA MP640"
+msgstr ""
+
+msgid "Canon PIXMA MP648"
+msgstr ""
+
+msgid "Canon PIXMA MP700"
+msgstr ""
+
+msgid "Canon PIXMA MP710"
+msgstr ""
+
+msgid "Canon PIXMA MP730"
+msgstr ""
+
+msgid "Canon PIXMA MP740"
+msgstr ""
+
+msgid "Canon PIXMA MP750"
+msgstr ""
+
+msgid "Canon PIXMA MP760"
+msgstr ""
+
+msgid "Canon PIXMA MP770"
+msgstr ""
+
+msgid "Canon PIXMA MP780"
+msgstr ""
+
+msgid "Canon PIXMA MP790"
+msgstr ""
+
+msgid "Canon PIXMA MP800"
+msgstr ""
+
+msgid "Canon PIXMA MP800R"
+msgstr ""
+
+msgid "Canon PIXMA MP810"
+msgstr ""
+
+msgid "Canon PIXMA MP830"
+msgstr ""
+
+msgid "Canon PIXMA MP900"
+msgstr ""
+
+msgid "Canon PIXMA MP950"
+msgstr ""
+
+msgid "Canon PIXMA MP960"
+msgstr ""
+
+msgid "Canon PIXMA MP970"
+msgstr ""
+
+msgid "Canon PIXMA MP980"
+msgstr ""
+
+msgid "Canon PIXMA MP988"
+msgstr ""
+
+msgid "Canon PIXMA MP990"
+msgstr ""
+
+msgid "Canon PIXMA MP996"
+msgstr ""
+
+msgid "Canon PIXMA MX300"
+msgstr ""
+
+msgid "Canon PIXMA MX308"
+msgstr ""
+
+msgid "Canon PIXMA MX310"
+msgstr ""
+
+msgid "Canon PIXMA MX318"
+msgstr ""
+
+msgid "Canon PIXMA MX320"
+msgstr ""
+
+msgid "Canon PIXMA MX328"
+msgstr ""
+
+msgid "Canon PIXMA MX330"
+msgstr ""
+
+msgid "Canon PIXMA MX338"
+msgstr ""
+
+msgid "Canon PIXMA MX340"
+msgstr ""
+
+msgid "Canon PIXMA MX347"
+msgstr ""
+
+msgid "Canon PIXMA MX348"
+msgstr ""
+
+msgid "Canon PIXMA MX350"
+msgstr ""
+
+msgid "Canon PIXMA MX357"
+msgstr ""
+
+msgid "Canon PIXMA MX358"
+msgstr ""
+
+msgid "Canon PIXMA MX360"
+msgstr ""
+
+msgid "Canon PIXMA MX366"
+msgstr ""
+
+msgid "Canon PIXMA MX368"
+msgstr ""
+
+msgid "Canon PIXMA MX370"
+msgstr ""
+
+msgid "Canon PIXMA MX371"
+msgstr ""
+
+msgid "Canon PIXMA MX372"
+msgstr ""
+
+msgid "Canon PIXMA MX374"
+msgstr ""
+
+msgid "Canon PIXMA MX375"
+msgstr ""
+
+msgid "Canon PIXMA MX376"
+msgstr ""
+
+msgid "Canon PIXMA MX377"
+msgstr ""
+
+msgid "Canon PIXMA MX378"
+msgstr ""
+
+msgid "Canon PIXMA MX391"
+msgstr ""
+
+msgid "Canon PIXMA MX392"
+msgstr ""
+
+msgid "Canon PIXMA MX394"
+msgstr ""
+
+msgid "Canon PIXMA MX395"
+msgstr ""
+
+msgid "Canon PIXMA MX396"
+msgstr ""
+
+msgid "Canon PIXMA MX397"
+msgstr ""
+
+msgid "Canon PIXMA MX398"
+msgstr ""
+
+msgid "Canon PIXMA MX410"
+msgstr ""
+
+msgid "Canon PIXMA MX416"
+msgstr ""
+
+msgid "Canon PIXMA MX418"
+msgstr ""
+
+msgid "Canon PIXMA MX420"
+msgstr ""
+
+msgid "Canon PIXMA MX426"
+msgstr ""
+
+msgid "Canon PIXMA MX428"
+msgstr ""
+
+msgid "Canon PIXMA MX430"
+msgstr ""
+
+msgid "Canon PIXMA MX431"
+msgstr ""
+
+msgid "Canon PIXMA MX432"
+msgstr ""
+
+msgid "Canon PIXMA MX434"
+msgstr ""
+
+msgid "Canon PIXMA MX435"
+msgstr ""
+
+msgid "Canon PIXMA MX436"
+msgstr ""
+
+msgid "Canon PIXMA MX437"
+msgstr ""
+
+msgid "Canon PIXMA MX438"
+msgstr ""
+
+msgid "Canon PIXMA MX439"
+msgstr ""
+
+msgid "Canon PIXMA MX451"
+msgstr ""
+
+msgid "Canon PIXMA MX452"
+msgstr ""
+
+msgid "Canon PIXMA MX454"
+msgstr ""
+
+msgid "Canon PIXMA MX455"
+msgstr ""
+
+msgid "Canon PIXMA MX456"
+msgstr ""
+
+msgid "Canon PIXMA MX457"
+msgstr ""
+
+msgid "Canon PIXMA MX458"
+msgstr ""
+
+msgid "Canon PIXMA MX459"
+msgstr ""
+
+msgid "Canon PIXMA MX510"
+msgstr ""
+
+msgid "Canon PIXMA MX511"
+msgstr ""
+
+msgid "Canon PIXMA MX512"
+msgstr ""
+
+msgid "Canon PIXMA MX514"
+msgstr ""
+
+msgid "Canon PIXMA MX515"
+msgstr ""
+
+msgid "Canon PIXMA MX516"
+msgstr ""
+
+msgid "Canon PIXMA MX517"
+msgstr ""
+
+msgid "Canon PIXMA MX518"
+msgstr ""
+
+msgid "Canon PIXMA MX521"
+msgstr ""
+
+msgid "Canon PIXMA MX522"
+msgstr ""
+
+msgid "Canon PIXMA MX524"
+msgstr ""
+
+msgid "Canon PIXMA MX525"
+msgstr ""
+
+msgid "Canon PIXMA MX526"
+msgstr ""
+
+msgid "Canon PIXMA MX527"
+msgstr ""
+
+msgid "Canon PIXMA MX528"
+msgstr ""
+
+msgid "Canon PIXMA MX700"
+msgstr ""
+
+msgid "Canon PIXMA MX710"
+msgstr ""
+
+msgid "Canon PIXMA MX711"
+msgstr ""
+
+msgid "Canon PIXMA MX712"
+msgstr ""
+
+msgid "Canon PIXMA MX714"
+msgstr ""
+
+msgid "Canon PIXMA MX715"
+msgstr ""
+
+msgid "Canon PIXMA MX721"
+msgstr ""
+
+msgid "Canon PIXMA MX722"
+msgstr ""
+
+msgid "Canon PIXMA MX726"
+msgstr ""
+
+msgid "Canon PIXMA MX727"
+msgstr ""
+
+msgid "Canon PIXMA MX728"
+msgstr ""
+
+msgid "Canon PIXMA MX7600"
+msgstr ""
+
+msgid "Canon PIXMA MX850"
+msgstr ""
+
+msgid "Canon PIXMA MX860"
+msgstr ""
+
+msgid "Canon PIXMA MX868"
+msgstr ""
+
+msgid "Canon PIXMA MX870"
+msgstr ""
+
+msgid "Canon PIXMA MX876"
+msgstr ""
+
+msgid "Canon PIXMA MX880"
+msgstr ""
+
+msgid "Canon PIXMA MX882"
+msgstr ""
+
+msgid "Canon PIXMA MX884"
+msgstr ""
+
+msgid "Canon PIXMA MX885"
+msgstr ""
+
+msgid "Canon PIXMA MX886"
+msgstr ""
+
+msgid "Canon PIXMA MX888"
+msgstr ""
+
+msgid "Canon PIXMA MX890"
+msgstr ""
+
+msgid "Canon PIXMA MX892"
+msgstr ""
+
+msgid "Canon PIXMA MX894"
+msgstr ""
+
+msgid "Canon PIXMA MX895"
+msgstr ""
+
+msgid "Canon PIXMA MX897"
+msgstr ""
+
+msgid "Canon PIXMA MX898"
+msgstr ""
+
+msgid "Canon PIXMA MX922"
+msgstr ""
+
+msgid "Canon PIXMA MX924"
+msgstr ""
+
+msgid "Canon PIXMA MX925"
+msgstr ""
+
+msgid "Canon PIXMA MX926"
+msgstr ""
+
+msgid "Canon PIXMA MX927"
+msgstr ""
+
+msgid "Canon PIXMA MX928"
+msgstr ""
+
+msgid "Canon PIXMA Pro9000"
+msgstr ""
+
+msgid "Canon PIXMA Pro9000mk2"
+msgstr ""
+
+msgid "Canon PIXMA Pro9500"
+msgstr ""
+
+msgid "Canon PIXMA Pro9500mk2"
+msgstr ""
+
+msgid "Canon PIXMA iP2000"
+msgstr ""
+
+msgid "Canon PIXMA iP2700"
+msgstr ""
+
+msgid "Canon PIXMA iP2701"
+msgstr ""
+
+msgid "Canon PIXMA iP2702"
+msgstr ""
+
+msgid "Canon PIXMA iP2740"
+msgstr ""
+
+msgid "Canon PIXMA iP2760"
+msgstr ""
+
+msgid "Canon PIXMA iP2770"
+msgstr ""
+
+msgid "Canon PIXMA iP2772"
+msgstr ""
+
+msgid "Canon PIXMA iP2780"
+msgstr ""
+
+msgid "Canon PIXMA iP2788"
+msgstr ""
+
+msgid "Canon PIXMA iP3000"
+msgstr ""
+
+msgid "Canon PIXMA iP3100"
+msgstr ""
+
+msgid "Canon PIXMA iP3300"
+msgstr ""
+
+msgid "Canon PIXMA iP3500"
+msgstr ""
+
+msgid "Canon PIXMA iP3600"
+msgstr ""
+
+msgid "Canon PIXMA iP3680"
+msgstr ""
+
+msgid "Canon PIXMA iP4000"
+msgstr ""
+
+msgid "Canon PIXMA iP4000R"
+msgstr ""
+
+msgid "Canon PIXMA iP4100"
+msgstr ""
+
+msgid "Canon PIXMA iP4100R"
+msgstr ""
+
+msgid "Canon PIXMA iP4200"
+msgstr ""
+
+msgid "Canon PIXMA iP4300"
+msgstr ""
+
+msgid "Canon PIXMA iP4500"
+msgstr ""
+
+msgid "Canon PIXMA iP4600"
+msgstr ""
+
+msgid "Canon PIXMA iP4680"
+msgstr ""
+
+msgid "Canon PIXMA iP4700"
+msgstr ""
+
+msgid "Canon PIXMA iP4760"
+msgstr ""
+
+msgid "Canon PIXMA iP4800"
+msgstr ""
+
+msgid "Canon PIXMA iP4810"
+msgstr ""
+
+msgid "Canon PIXMA iP4820"
+msgstr ""
+
+msgid "Canon PIXMA iP4840"
+msgstr ""
+
+msgid "Canon PIXMA iP4850"
+msgstr ""
+
+msgid "Canon PIXMA iP4870"
+msgstr ""
+
+msgid "Canon PIXMA iP4880"
+msgstr ""
+
+msgid "Canon PIXMA iP4900"
+msgstr ""
+
+msgid "Canon PIXMA iP4910"
+msgstr ""
+
+msgid "Canon PIXMA iP4920"
+msgstr ""
+
+msgid "Canon PIXMA iP4940"
+msgstr ""
+
+msgid "Canon PIXMA iP4950"
+msgstr ""
+
+msgid "Canon PIXMA iP4970"
+msgstr ""
+
+msgid "Canon PIXMA iP4980"
+msgstr ""
+
+msgid "Canon PIXMA iP5000"
+msgstr ""
+
+msgid "Canon PIXMA iP5200"
+msgstr ""
+
+msgid "Canon PIXMA iP5200R"
+msgstr ""
+
+msgid "Canon PIXMA iP5300"
+msgstr ""
+
+msgid "Canon PIXMA iP6000D"
+msgstr ""
+
+msgid "Canon PIXMA iP6100D"
+msgstr ""
+
+msgid "Canon PIXMA iP6210D"
+msgstr ""
+
+msgid "Canon PIXMA iP6220D"
+msgstr ""
+
+msgid "Canon PIXMA iP6310D"
+msgstr ""
+
+msgid "Canon PIXMA iP6320D"
+msgstr ""
+
+msgid "Canon PIXMA iP6600D"
+msgstr ""
+
+msgid "Canon PIXMA iP6700D"
+msgstr ""
+
+msgid "Canon PIXMA iP7100"
+msgstr ""
+
+msgid "Canon PIXMA iP7210"
+msgstr ""
+
+msgid "Canon PIXMA iP7220"
+msgstr ""
+
+msgid "Canon PIXMA iP7240"
+msgstr ""
+
+msgid "Canon PIXMA iP7250"
+msgstr ""
+
+msgid "Canon PIXMA iP7260"
+msgstr ""
+
+msgid "Canon PIXMA iP7270"
+msgstr ""
+
+msgid "Canon PIXMA iP7280"
+msgstr ""
+
+msgid "Canon PIXMA iP7500"
+msgstr ""
+
+msgid "Canon PIXMA iP8100"
+msgstr ""
+
+msgid "Canon PIXMA iP8500"
+msgstr ""
+
+msgid "Canon PIXMA iP8600"
+msgstr ""
+
+msgid "Canon PIXMA iP90"
+msgstr ""
+
+msgid "Canon PIXMA iP90v"
+msgstr ""
+
+msgid "Canon PIXMA iP9910"
+msgstr ""
+
+msgid "Canon PIXMA iX4000"
+msgstr ""
+
+msgid "Canon PIXMA iX5000"
+msgstr ""
+
+msgid "Canon PIXMA iX6500"
+msgstr ""
+
+msgid "Canon PIXMA iX6510"
+msgstr ""
+
+msgid "Canon PIXMA iX6520"
+msgstr ""
+
+msgid "Canon PIXMA iX6540"
+msgstr ""
+
+msgid "Canon PIXMA iX6550"
+msgstr ""
+
+msgid "Canon PIXMA iX6560"
+msgstr ""
+
+msgid "Canon PIXMA iX6580"
+msgstr ""
+
+msgid "Canon PIXMA iX7000"
+msgstr ""
+
+msgid "Canon PIXMA mini220"
+msgstr ""
+
+msgid "Canon PIXMA mini320"
+msgstr ""
+
+msgid "Canon PIXMA mini360"
+msgstr ""
+
+msgid "Canon PIXUS MG2130"
+msgstr ""
+
+msgid "Canon PIXUS MG3130"
+msgstr ""
+
+msgid "Canon PIXUS MG3230"
+msgstr ""
+
+msgid "Canon PIXUS MG3530"
+msgstr ""
+
+msgid "Canon PIXUS MG4130"
+msgstr ""
+
+msgid "Canon PIXUS MG4230"
+msgstr ""
+
+msgid "Canon PIXUS MG5130"
+msgstr ""
+
+msgid "Canon PIXUS MG5230"
+msgstr ""
+
+msgid "Canon PIXUS MG5330"
+msgstr ""
+
+msgid "Canon PIXUS MG5430"
+msgstr ""
+
+msgid "Canon PIXUS MG5530"
+msgstr ""
+
+msgid "Canon PIXUS MG6130"
+msgstr ""
+
+msgid "Canon PIXUS MG6230"
+msgstr ""
+
+msgid "Canon PIXUS MG6330"
+msgstr ""
+
+msgid "Canon PIXUS MG6530"
+msgstr ""
+
+msgid "Canon PIXUS MG7130"
+msgstr ""
+
+msgid "Canon PIXUS MG8130"
+msgstr ""
+
+msgid "Canon PIXUS MG8230"
+msgstr ""
+
+msgid "Canon PIXUS MP170"
+msgstr ""
+
+msgid "Canon PIXUS MP270"
+msgstr ""
+
+msgid "Canon PIXUS MP280"
+msgstr ""
+
+msgid "Canon PIXUS MP360"
+msgstr ""
+
+msgid "Canon PIXUS MP370"
+msgstr ""
+
+msgid "Canon PIXUS MP375R"
+msgstr ""
+
+msgid "Canon PIXUS MP390"
+msgstr ""
+
+msgid "Canon PIXUS MP450"
+msgstr ""
+
+msgid "Canon PIXUS MP460"
+msgstr ""
+
+msgid "Canon PIXUS MP470"
+msgstr ""
+
+msgid "Canon PIXUS MP480"
+msgstr ""
+
+msgid "Canon PIXUS MP490"
+msgstr ""
+
+msgid "Canon PIXUS MP493"
+msgstr ""
+
+msgid "Canon PIXUS MP500"
+msgstr ""
+
+msgid "Canon PIXUS MP510"
+msgstr ""
+
+msgid "Canon PIXUS MP520"
+msgstr ""
+
+msgid "Canon PIXUS MP540"
+msgstr ""
+
+msgid "Canon PIXUS MP550"
+msgstr ""
+
+msgid "Canon PIXUS MP560"
+msgstr ""
+
+msgid "Canon PIXUS MP600"
+msgstr ""
+
+msgid "Canon PIXUS MP610"
+msgstr ""
+
+msgid "Canon PIXUS MP620"
+msgstr ""
+
+msgid "Canon PIXUS MP630"
+msgstr ""
+
+msgid "Canon PIXUS MP640"
+msgstr ""
+
+msgid "Canon PIXUS MP700"
+msgstr ""
+
+msgid "Canon PIXUS MP710"
+msgstr ""
+
+msgid "Canon PIXUS MP730"
+msgstr ""
+
+msgid "Canon PIXUS MP740"
+msgstr ""
+
+msgid "Canon PIXUS MP770"
+msgstr ""
+
+msgid "Canon PIXUS MP790"
+msgstr ""
+
+msgid "Canon PIXUS MP800"
+msgstr ""
+
+msgid "Canon PIXUS MP810"
+msgstr ""
+
+msgid "Canon PIXUS MP830"
+msgstr ""
+
+msgid "Canon PIXUS MP900"
+msgstr ""
+
+msgid "Canon PIXUS MP950"
+msgstr ""
+
+msgid "Canon PIXUS MP960"
+msgstr ""
+
+msgid "Canon PIXUS MP970"
+msgstr ""
+
+msgid "Canon PIXUS MP980"
+msgstr ""
+
+msgid "Canon PIXUS MP990"
+msgstr ""
+
+msgid "Canon PIXUS MX350"
+msgstr ""
+
+msgid "Canon PIXUS MX420"
+msgstr ""
+
+msgid "Canon PIXUS MX513"
+msgstr ""
+
+msgid "Canon PIXUS MX523"
+msgstr ""
+
+msgid "Canon PIXUS MX7600"
+msgstr ""
+
+msgid "Canon PIXUS MX850"
+msgstr ""
+
+msgid "Canon PIXUS MX860"
+msgstr ""
+
+msgid "Canon PIXUS MX870"
+msgstr ""
+
+msgid "Canon PIXUS MX883"
+msgstr ""
+
+msgid "Canon PIXUS MX893"
+msgstr ""
+
+msgid "Canon PIXUS MX923"
+msgstr ""
+
+msgid "Canon PIXUS Pro9000"
+msgstr ""
+
+msgid "Canon PIXUS Pro9000mk2"
+msgstr ""
+
+msgid "Canon PIXUS Pro9500"
+msgstr ""
+
+msgid "Canon PIXUS Pro9500mk2"
+msgstr ""
+
+msgid "Canon PIXUS iP2700"
+msgstr ""
+
+msgid "Canon PIXUS iP3100"
+msgstr ""
+
+msgid "Canon PIXUS iP3300"
+msgstr ""
+
+msgid "Canon PIXUS iP3500"
+msgstr ""
+
+msgid "Canon PIXUS iP3600"
+msgstr ""
+
+msgid "Canon PIXUS iP4100"
+msgstr ""
+
+msgid "Canon PIXUS iP4100R"
+msgstr ""
+
+msgid "Canon PIXUS iP4200"
+msgstr ""
+
+msgid "Canon PIXUS iP4300"
+msgstr ""
+
+msgid "Canon PIXUS iP4500"
+msgstr ""
+
+msgid "Canon PIXUS iP4600"
+msgstr ""
+
+msgid "Canon PIXUS iP4700"
+msgstr ""
+
+msgid "Canon PIXUS iP4830"
+msgstr ""
+
+msgid "Canon PIXUS iP4930"
+msgstr ""
+
+msgid "Canon PIXUS iP5200R"
+msgstr ""
+
+msgid "Canon PIXUS iP6100D"
+msgstr ""
+
+msgid "Canon PIXUS iP6600D"
+msgstr ""
+
+msgid "Canon PIXUS iP6700D"
+msgstr ""
+
+msgid "Canon PIXUS iP7100"
+msgstr ""
+
+msgid "Canon PIXUS iP7230"
+msgstr ""
+
+msgid "Canon PIXUS iP7500"
+msgstr ""
+
+msgid "Canon PIXUS iP8100"
+msgstr ""
+
+msgid "Canon PIXUS iP8600"
+msgstr ""
+
+msgid "Canon PIXUS iP9910"
+msgstr ""
+
+msgid "Canon PIXUS iX5000"
+msgstr ""
+
+msgid "Canon PIXUS iX6530"
+msgstr ""
+
+msgid "Canon PIXUS iX7000"
+msgstr ""
+
+msgid "Canon Pro9000 Mk.II series"
+msgstr ""
+
+msgid "Canon Pro9000 series"
+msgstr ""
+
+msgid "Canon Pro9500 Mk.II series"
+msgstr ""
+
+msgid "Canon Pro9500 series"
+msgstr ""
+
+msgid "Canon S100"
+msgstr ""
+
+msgid "Canon S200"
+msgstr ""
+
+msgid "Canon S300"
+msgstr ""
+
+msgid "Canon S330"
+msgstr ""
+
+msgid "Canon S400"
+msgstr ""
+
+msgid "Canon S450"
+msgstr ""
+
+msgid "Canon S4500"
+msgstr ""
+
+msgid "Canon S500"
+msgstr ""
+
+msgid "Canon S520"
+msgstr ""
+
+msgid "Canon S530D"
+msgstr ""
+
+msgid "Canon S600"
+msgstr ""
+
+msgid "Canon S630"
+msgstr ""
+
+msgid "Canon S750"
+msgstr ""
+
+msgid "Canon S800"
+msgstr ""
+
+msgid "Canon S820"
+msgstr ""
+
+msgid "Canon S830D"
+msgstr ""
+
+msgid "Canon S900"
+msgstr ""
+
+msgid "Canon S9000"
+msgstr ""
+
+msgid "Canon SELPHY CP400"
+msgstr ""
+
+msgid "Canon SELPHY CP500"
+msgstr ""
+
+msgid "Canon SELPHY CP510"
+msgstr ""
+
+msgid "Canon SELPHY CP520"
+msgstr ""
+
+msgid "Canon SELPHY CP530"
+msgstr ""
+
+msgid "Canon SELPHY CP600"
+msgstr ""
+
+msgid "Canon SELPHY CP710"
+msgstr ""
+
+msgid "Canon SELPHY CP720"
+msgstr ""
+
+msgid "Canon SELPHY CP730"
+msgstr ""
+
+msgid "Canon SELPHY CP740"
+msgstr ""
+
+msgid "Canon SELPHY CP750"
+msgstr ""
+
+msgid "Canon SELPHY CP760"
+msgstr ""
+
+msgid "Canon SELPHY CP770"
+msgstr ""
+
+msgid "Canon SELPHY CP780"
+msgstr ""
+
+msgid "Canon SELPHY CP790"
+msgstr ""
+
+msgid "Canon SELPHY CP800"
+msgstr ""
+
+msgid "Canon SELPHY CP810"
+msgstr ""
+
+msgid "Canon SELPHY CP900"
+msgstr ""
+
+msgid "Canon SELPHY DS700"
+msgstr ""
+
+msgid "Canon SELPHY DS810"
+msgstr ""
+
+msgid "Canon SELPHY ES1"
+msgstr ""
+
+msgid "Canon SELPHY ES2"
+msgstr ""
+
+msgid "Canon SELPHY ES20"
+msgstr ""
+
+msgid "Canon SELPHY ES3"
+msgstr ""
+
+msgid "Canon SELPHY ES30"
+msgstr ""
+
+msgid "Canon SELPHY ES40"
+msgstr ""
+
+msgid "Canon SmartBase MP360"
+msgstr ""
+
+msgid "Canon SmartBase MP360S"
+msgstr ""
+
+msgid "Canon SmartBase MP370"
+msgstr ""
+
+msgid "Canon SmartBase MP390"
+msgstr ""
+
+msgid "Canon SmartBase MP700"
+msgstr ""
+
+msgid "Canon SmartBase MP730"
+msgstr ""
+
+msgid "Canon i450"
+msgstr ""
+
+msgid "Canon i450X"
+msgstr ""
+
+msgid "Canon i455"
+msgstr ""
+
+msgid "Canon i455X"
+msgstr ""
+
+msgid "Canon i470D"
+msgstr ""
+
+msgid "Canon i475D"
+msgstr ""
+
+msgid "Canon i550"
+msgstr ""
+
+msgid "Canon i550X"
+msgstr ""
+
+msgid "Canon i560"
+msgstr ""
+
+msgid "Canon i560X"
+msgstr ""
+
+msgid "Canon i6100"
+msgstr ""
+
+msgid "Canon i6500"
+msgstr ""
+
+msgid "Canon i70"
+msgstr ""
+
+msgid "Canon i80"
+msgstr ""
+
+msgid "Canon i850"
+msgstr ""
+
+msgid "Canon i850old"
+msgstr ""
+
+msgid "Canon i860"
+msgstr ""
+
+msgid "Canon i860old"
+msgstr ""
+
+msgid "Canon i865"
+msgstr ""
+
+msgid "Canon i865old"
+msgstr ""
+
+msgid "Canon i900D"
+msgstr ""
+
+msgid "Canon i905D"
+msgstr ""
+
+msgid "Canon i9100"
+msgstr ""
+
+msgid "Canon i950"
+msgstr ""
+
+msgid "Canon i960"
+msgstr ""
+
+msgid "Canon i965"
+msgstr ""
+
+msgid "Canon i990"
+msgstr ""
+
+msgid "Canon i9900"
+msgstr ""
+
+msgid "Canon i9950"
+msgstr ""
+
+msgid "Canon iP2700 series"
+msgstr ""
+
+msgid "Canon iP3300 series"
+msgstr ""
+
+msgid "Canon iP3500 series"
+msgstr ""
+
+msgid "Canon iP3600 series"
+msgstr ""
+
+msgid "Canon iP4200 series"
+msgstr ""
+
+msgid "Canon iP4300 series"
+msgstr ""
+
+msgid "Canon iP4500 series"
+msgstr ""
+
+msgid "Canon iP4600 series"
+msgstr ""
+
+msgid "Canon iP4700 series"
+msgstr ""
+
+msgid "Canon iP4800 series"
+msgstr ""
+
+msgid "Canon iP4900 series"
+msgstr ""
+
+msgid "Canon iP5200R series"
+msgstr ""
+
+msgid "Canon iP6600D series"
+msgstr ""
+
+msgid "Canon iP6700D series"
+msgstr ""
+
+msgid "Canon iP7200 series"
+msgstr ""
+
+msgid "Canon iX5000 series"
+msgstr ""
+
+msgid "Canon iX6500 series"
+msgstr ""
+
+msgid "Canon iX7000 series"
+msgstr ""
+
+msgid "Canon imageRunner 330s"
+msgstr ""
+
+msgid "Center:"
+msgstr ""
+
+msgid "Channel "
+msgstr ""
+
+msgid "Channel Bit Depth"
+msgstr ""
+
+msgid "Channel Names"
+msgstr ""
+
+msgid "Choose the correct PPD filename for your printer"
+msgstr ""
+
+msgid ""
+"Choose the dither algorithm to be used.\n"
+"Adaptive Hybrid usually produces the best all-around quality.\n"
+"EvenTone is a new, experimental algorithm that often produces excellent results.\n"
+"Ordered is faster and produces almost as good quality on photographs.\n"
+"Fast and Very Fast are considerably faster, and work well for text and line art.\n"
+"Hybrid Floyd-Steinberg generally produces inferior output."
+msgstr ""
+
+msgid ""
+"Choose the printer model, PPD file, and command that is used to print to "
+"this printer"
+msgstr ""
+
+msgid "Citizen ProJet II"
+msgstr ""
+
+msgid "Cleaning heads...\n"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Coated"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color + Black Cartridges"
+msgstr ""
+
+msgid "Color + Photo Cartridges"
+msgstr ""
+
+msgid "Color Correction"
+msgstr ""
+
+msgid "Color Precision"
+msgstr ""
+
+msgid "Color conversion module"
+msgstr ""
+
+msgid "Color correction to be applied"
+msgstr ""
+
+msgid "Color output"
+msgstr ""
+
+msgid "ColorLife Paper"
+msgstr ""
+
+msgid "Compaq IJ1200"
+msgstr ""
+
+msgid "Composite Gamma"
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Contrast of the print (0 is solid gray)"
+msgstr ""
+
+msgid "Correct Hue Only"
+msgstr ""
+
+msgid "Credit Card"
+msgstr ""
+
+msgid "Crop (preserve dimensions)"
+msgstr ""
+
+msgid "Curve for raw channel "
+msgstr ""
+
+msgid "Curve type"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom Command"
+msgstr ""
+
+msgid "Cyan"
+msgstr ""
+
+msgid "Cyan Balance"
+msgstr ""
+
+msgid "Cyan Curve"
+msgstr ""
+
+msgid "Cyan Density"
+msgstr ""
+
+msgid "Cyan Map"
+msgstr ""
+
+msgid "Cyan curve"
+msgstr ""
+
+msgid "DEC 1800"
+msgstr ""
+
+msgid "DEC LN17"
+msgstr ""
+
+msgid "DL"
+msgstr ""
+
+msgid "DL landscape"
+msgstr ""
+
+msgid "Dai Nippon Printing DS40"
+msgstr ""
+
+msgid "Dai Nippon Printing DS80"
+msgstr ""
+
+msgid "Dark Gray Transition"
+msgstr ""
+
+msgid "Dark Gray Value"
+msgstr ""
+
+msgid "Dark Yellow"
+msgstr ""
+
+msgid "Dark Yellow Transition"
+msgstr ""
+
+msgid "Dark Yellow Value"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Define New Printer"
+msgstr ""
+
+msgid "Density"
+msgstr ""
+
+msgid "Desaturated"
+msgstr ""
+
+msgid "Dimensions:"
+msgstr ""
+
+msgid "Dither Algorithm"
+msgstr ""
+
+msgid "Dither algorithm"
+msgstr ""
+
+msgid "Do not correct for screen gamma"
+msgstr ""
+
+msgid "Double-Sided Printing"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Drop Size Large"
+msgstr ""
+
+msgid "Drop Size Medium"
+msgstr ""
+
+msgid "Drop Size Segmented"
+msgstr ""
+
+msgid "Drop Size Segmented New"
+msgstr ""
+
+msgid "Drop Size Small"
+msgstr ""
+
+msgid "Dump file for LUT for external color adjustment"
+msgstr ""
+
+msgid "Duplex/Tumble Setting"
+msgstr ""
+
+msgid "EA5"
+msgstr ""
+
+msgid "EA5 landscape"
+msgstr ""
+
+msgid "EPSON Standard Inks"
+msgstr ""
+
+msgid "Economy"
+msgstr ""
+
+msgid "Edit Curve..."
+msgstr ""
+
+msgid "Engineering C 17x22"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Enter the correct PPD filename for your printer"
+msgstr ""
+
+msgid "Enter the file to print to. "
+msgstr ""
+
+msgid "Envelopes"
+msgstr ""
+
+msgid "Epson 4x6 Photo Paper (tear-off borders)"
+msgstr ""
+
+msgid "Epson AL-C2000"
+msgstr ""
+
+msgid "Epson AL-C2000 PS3"
+msgstr ""
+
+msgid "Epson AL-C8500"
+msgstr ""
+
+msgid "Epson AL-C8500PS"
+msgstr ""
+
+msgid "Epson AL-C8600"
+msgstr ""
+
+msgid "Epson AL-C8600 PS3"
+msgstr ""
+
+msgid "Epson ActionLaser 1100"
+msgstr ""
+
+msgid "Epson ActionLaser II"
+msgstr ""
+
+msgid "Epson Artisan 50"
+msgstr ""
+
+msgid "Epson Artisan 700"
+msgstr ""
+
+msgid "Epson Artisan 710"
+msgstr ""
+
+msgid "Epson Artisan 800"
+msgstr ""
+
+msgid "Epson Artisan 810"
+msgstr ""
+
+msgid "Epson Artisan 835"
+msgstr ""
+
+msgid "Epson B-300"
+msgstr ""
+
+msgid "Epson B-308"
+msgstr ""
+
+msgid "Epson B-310"
+msgstr ""
+
+msgid "Epson B-310N"
+msgstr ""
+
+msgid "Epson B-500DN"
+msgstr ""
+
+msgid "Epson B-508DN"
+msgstr ""
+
+msgid "Epson B-510DN"
+msgstr ""
+
+msgid "Epson CL 700"
+msgstr ""
+
+msgid "Epson CL 750"
+msgstr ""
+
+msgid "Epson CL 760"
+msgstr ""
+
+msgid "Epson E 100"
+msgstr ""
+
+msgid "Epson E 150"
+msgstr ""
+
+msgid "Epson E 200"
+msgstr ""
+
+msgid "Epson E 300"
+msgstr ""
+
+msgid "Epson E 500"
+msgstr ""
+
+msgid "Epson E 520"
+msgstr ""
+
+msgid "Epson E 700"
+msgstr ""
+
+msgid "Epson E 720"
+msgstr ""
+
+msgid "Epson EM 900C"
+msgstr ""
+
+msgid "Epson EM 930C"
+msgstr ""
+
+msgid "Epson EP 302"
+msgstr ""
+
+msgid "Epson EP 702A"
+msgstr ""
+
+msgid "Epson EP 801A"
+msgstr ""
+
+msgid "Epson EP 901A"
+msgstr ""
+
+msgid "Epson EP 901F"
+msgstr ""
+
+msgid "Epson EPL-5200"
+msgstr ""
+
+msgid "Epson EPL-5200+"
+msgstr ""
+
+msgid "Epson EPL-5700"
+msgstr ""
+
+msgid "Epson EPL-5700PS"
+msgstr ""
+
+msgid "Epson EPL-5800"
+msgstr ""
+
+msgid "Epson EPL-5800PS"
+msgstr ""
+
+msgid "Epson EPL-5900"
+msgstr ""
+
+msgid "Epson EPL-5900 PS3"
+msgstr ""
+
+msgid "Epson EPL-6100"
+msgstr ""
+
+msgid "Epson EPL-6100 PS3"
+msgstr ""
+
+msgid "Epson EPL-7100"
+msgstr ""
+
+msgid "Epson EPL-N2050"
+msgstr ""
+
+msgid "Epson EPL-N2050+"
+msgstr ""
+
+msgid "Epson EPL-N2050PS"
+msgstr ""
+
+msgid "Epson EPL-N2050PS+"
+msgstr ""
+
+msgid "Epson EPL-N2120"
+msgstr ""
+
+msgid "Epson EPL-N2500"
+msgstr ""
+
+msgid "Epson EPL-N2500 PS3"
+msgstr ""
+
+msgid "Epson EPL-N2750"
+msgstr ""
+
+msgid "Epson EPL-N2750PS"
+msgstr ""
+
+msgid "Epson L Photo Paper (tear-off borders)"
+msgstr ""
+
+msgid "Epson MC 10000"
+msgstr ""
+
+msgid "Epson MC 2000"
+msgstr ""
+
+msgid "Epson MC 5000"
+msgstr ""
+
+msgid "Epson MC 7000"
+msgstr ""
+
+msgid "Epson MC 9000"
+msgstr ""
+
+msgid "Epson ME 300"
+msgstr ""
+
+msgid "Epson ME 320"
+msgstr ""
+
+msgid "Epson ME Office 1100"
+msgstr ""
+
+msgid "Epson ME Office 360"
+msgstr ""
+
+msgid "Epson ME Office 600F"
+msgstr ""
+
+msgid "Epson ME Office 620F"
+msgstr ""
+
+msgid "Epson ME Office 70"
+msgstr ""
+
+msgid "Epson ME Office 700FW"
+msgstr ""
+
+msgid "Epson ME Office 80W"
+msgstr ""
+
+msgid "Epson ME Office 940FW"
+msgstr ""
+
+msgid "Epson MJ 5100C"
+msgstr ""
+
+msgid "Epson MJ 6000C"
+msgstr ""
+
+msgid "Epson MJ 8000C"
+msgstr ""
+
+msgid "Epson MJ 930C"
+msgstr ""
+
+msgid "Epson Offirio PX B300"
+msgstr ""
+
+msgid "Epson Offirio PX B500"
+msgstr ""
+
+msgid "Epson PM 10000"
+msgstr ""
+
+msgid "Epson PM 2000C"
+msgstr ""
+
+msgid "Epson PM 2200C"
+msgstr ""
+
+msgid "Epson PM 3000C"
+msgstr ""
+
+msgid "Epson PM 3300C"
+msgstr ""
+
+msgid "Epson PM 3500C"
+msgstr ""
+
+msgid "Epson PM 3700C"
+msgstr ""
+
+msgid "Epson PM 4000PX"
+msgstr ""
+
+msgid "Epson PM 5000C"
+msgstr ""
+
+msgid "Epson PM 670C"
+msgstr ""
+
+msgid "Epson PM 7000C"
+msgstr ""
+
+msgid "Epson PM 700C"
+msgstr ""
+
+msgid "Epson PM 730C"
+msgstr ""
+
+msgid "Epson PM 740C"
+msgstr ""
+
+msgid "Epson PM 750C"
+msgstr ""
+
+msgid "Epson PM 760C"
+msgstr ""
+
+msgid "Epson PM 770C"
+msgstr ""
+
+msgid "Epson PM 780C"
+msgstr ""
+
+msgid "Epson PM 790PT"
+msgstr ""
+
+msgid "Epson PM 800C"
+msgstr ""
+
+msgid "Epson PM 850PT"
+msgstr ""
+
+msgid "Epson PM 870C"
+msgstr ""
+
+msgid "Epson PM 880C"
+msgstr ""
+
+msgid "Epson PM 9000C"
+msgstr ""
+
+msgid "Epson PM 930C"
+msgstr ""
+
+msgid "Epson PM 940C"
+msgstr ""
+
+msgid "Epson PM 950C"
+msgstr ""
+
+msgid "Epson PM 970C"
+msgstr ""
+
+msgid "Epson PM 980C"
+msgstr ""
+
+msgid "Epson PM A650"
+msgstr ""
+
+msgid "Epson PM A750"
+msgstr ""
+
+msgid "Epson PM A820"
+msgstr ""
+
+msgid "Epson PM A890"
+msgstr ""
+
+msgid "Epson PM A900"
+msgstr ""
+
+msgid "Epson PM A940"
+msgstr ""
+
+msgid "Epson PM A950"
+msgstr ""
+
+msgid "Epson PM D1000"
+msgstr ""
+
+msgid "Epson PM D600"
+msgstr ""
+
+msgid "Epson PM D750"
+msgstr ""
+
+msgid "Epson PM D770"
+msgstr ""
+
+msgid "Epson PM D800"
+msgstr ""
+
+msgid "Epson PM D870"
+msgstr ""
+
+msgid "Epson PM G4500"
+msgstr ""
+
+msgid "Epson PM G700"
+msgstr ""
+
+msgid "Epson PM G720"
+msgstr ""
+
+msgid "Epson PM G730"
+msgstr ""
+
+msgid "Epson PM G800"
+msgstr ""
+
+msgid "Epson PM G820"
+msgstr ""
+
+msgid "Epson PM G850"
+msgstr ""
+
+msgid "Epson PM T960"
+msgstr ""
+
+msgid "Epson PX 1001"
+msgstr ""
+
+msgid "Epson PX 101"
+msgstr ""
+
+msgid "Epson PX 1200"
+msgstr ""
+
+msgid "Epson PX 1600F"
+msgstr ""
+
+msgid "Epson PX 1700F"
+msgstr ""
+
+msgid "Epson PX 201"
+msgstr ""
+
+msgid "Epson PX 204"
+msgstr ""
+
+msgid "Epson PX 401A"
+msgstr ""
+
+msgid "Epson PX 504A"
+msgstr ""
+
+msgid "Epson PX 5500"
+msgstr ""
+
+msgid "Epson PX 601F"
+msgstr ""
+
+msgid "Epson PX 7000"
+msgstr ""
+
+msgid "Epson PX 7V"
+msgstr ""
+
+msgid "Epson PX 9000"
+msgstr ""
+
+msgid "Epson PX A650"
+msgstr ""
+
+msgid "Epson PX G5000"
+msgstr ""
+
+msgid "Epson PX G5300"
+msgstr ""
+
+msgid "Epson PX G5600"
+msgstr ""
+
+msgid "Epson PX G900"
+msgstr ""
+
+msgid "Epson PX G920"
+msgstr ""
+
+msgid "Epson PX V500"
+msgstr ""
+
+msgid "Epson PX V600"
+msgstr ""
+
+msgid "Epson PX V630"
+msgstr ""
+
+msgid "Epson PX V780"
+msgstr ""
+
+msgid "Epson PictureMate"
+msgstr ""
+
+msgid "Epson PictureMate 100"
+msgstr ""
+
+msgid "Epson PictureMate 200"
+msgstr ""
+
+msgid "Epson PictureMate 2005"
+msgstr ""
+
+msgid "Epson PictureMate 210"
+msgstr ""
+
+msgid "Epson PictureMate 215"
+msgstr ""
+
+msgid "Epson PictureMate 240"
+msgstr ""
+
+msgid "Epson PictureMate 250"
+msgstr ""
+
+msgid "Epson PictureMate 260"
+msgstr ""
+
+msgid "Epson PictureMate 270"
+msgstr ""
+
+msgid "Epson PictureMate 280"
+msgstr ""
+
+msgid "Epson PictureMate 290"
+msgstr ""
+
+msgid "Epson PictureMate 500"
+msgstr ""
+
+msgid "Epson PictureMate Dash"
+msgstr ""
+
+msgid "Epson PictureMate Deluxe"
+msgstr ""
+
+msgid "Epson PictureMate Flash"
+msgstr ""
+
+msgid "Epson PictureMate Pal"
+msgstr ""
+
+msgid "Epson PictureMate Snap"
+msgstr ""
+
+msgid "Epson Stylus C110"
+msgstr ""
+
+msgid "Epson Stylus C120"
+msgstr ""
+
+msgid "Epson Stylus C20"
+msgstr ""
+
+msgid "Epson Stylus C20SX"
+msgstr ""
+
+msgid "Epson Stylus C20UX"
+msgstr ""
+
+msgid "Epson Stylus C40"
+msgstr ""
+
+msgid "Epson Stylus C40SX"
+msgstr ""
+
+msgid "Epson Stylus C40UX"
+msgstr ""
+
+msgid "Epson Stylus C41"
+msgstr ""
+
+msgid "Epson Stylus C41SX"
+msgstr ""
+
+msgid "Epson Stylus C41UX"
+msgstr ""
+
+msgid "Epson Stylus C42"
+msgstr ""
+
+msgid "Epson Stylus C42SX"
+msgstr ""
+
+msgid "Epson Stylus C42UX"
+msgstr ""
+
+msgid "Epson Stylus C43"
+msgstr ""
+
+msgid "Epson Stylus C43SX"
+msgstr ""
+
+msgid "Epson Stylus C43UX"
+msgstr ""
+
+msgid "Epson Stylus C44"
+msgstr ""
+
+msgid "Epson Stylus C44SX"
+msgstr ""
+
+msgid "Epson Stylus C44UX"
+msgstr ""
+
+msgid "Epson Stylus C45"
+msgstr ""
+
+msgid "Epson Stylus C46"
+msgstr ""
+
+msgid "Epson Stylus C48"
+msgstr ""
+
+msgid "Epson Stylus C50"
+msgstr ""
+
+msgid "Epson Stylus C60"
+msgstr ""
+
+msgid "Epson Stylus C61"
+msgstr ""
+
+msgid "Epson Stylus C62"
+msgstr ""
+
+msgid "Epson Stylus C63"
+msgstr ""
+
+msgid "Epson Stylus C64"
+msgstr ""
+
+msgid "Epson Stylus C65"
+msgstr ""
+
+msgid "Epson Stylus C66"
+msgstr ""
+
+msgid "Epson Stylus C68"
+msgstr ""
+
+msgid "Epson Stylus C70"
+msgstr ""
+
+msgid "Epson Stylus C79"
+msgstr ""
+
+msgid "Epson Stylus C80"
+msgstr ""
+
+msgid "Epson Stylus C82"
+msgstr ""
+
+msgid "Epson Stylus C83"
+msgstr ""
+
+msgid "Epson Stylus C84"
+msgstr ""
+
+msgid "Epson Stylus C85"
+msgstr ""
+
+msgid "Epson Stylus C86"
+msgstr ""
+
+msgid "Epson Stylus C87"
+msgstr ""
+
+msgid "Epson Stylus C88"
+msgstr ""
+
+msgid "Epson Stylus C92"
+msgstr ""
+
+msgid "Epson Stylus CX1500"
+msgstr ""
+
+msgid "Epson Stylus CX3100"
+msgstr ""
+
+msgid "Epson Stylus CX3200"
+msgstr ""
+
+msgid "Epson Stylus CX3500"
+msgstr ""
+
+msgid "Epson Stylus CX3600"
+msgstr ""
+
+msgid "Epson Stylus CX3650"
+msgstr ""
+
+msgid "Epson Stylus CX3700"
+msgstr ""
+
+msgid "Epson Stylus CX3800"
+msgstr ""
+
+msgid "Epson Stylus CX3805"
+msgstr ""
+
+msgid "Epson Stylus CX3810"
+msgstr ""
+
+msgid "Epson Stylus CX3900"
+msgstr ""
+
+msgid "Epson Stylus CX4100"
+msgstr ""
+
+msgid "Epson Stylus CX4200"
+msgstr ""
+
+msgid "Epson Stylus CX4400"
+msgstr ""
+
+msgid "Epson Stylus CX4500"
+msgstr ""
+
+msgid "Epson Stylus CX4600"
+msgstr ""
+
+msgid "Epson Stylus CX4700"
+msgstr ""
+
+msgid "Epson Stylus CX4800"
+msgstr ""
+
+msgid "Epson Stylus CX4900"
+msgstr ""
+
+msgid "Epson Stylus CX5000"
+msgstr ""
+
+msgid "Epson Stylus CX5000F"
+msgstr ""
+
+msgid "Epson Stylus CX5100"
+msgstr ""
+
+msgid "Epson Stylus CX5200"
+msgstr ""
+
+msgid "Epson Stylus CX5300"
+msgstr ""
+
+msgid "Epson Stylus CX5400"
+msgstr ""
+
+msgid "Epson Stylus CX5500"
+msgstr ""
+
+msgid "Epson Stylus CX5600"
+msgstr ""
+
+msgid "Epson Stylus CX5700"
+msgstr ""
+
+msgid "Epson Stylus CX5800"
+msgstr ""
+
+msgid "Epson Stylus CX6000"
+msgstr ""
+
+msgid "Epson Stylus CX6300"
+msgstr ""
+
+msgid "Epson Stylus CX6400"
+msgstr ""
+
+msgid "Epson Stylus CX6500"
+msgstr ""
+
+msgid "Epson Stylus CX6600"
+msgstr ""
+
+msgid "Epson Stylus CX7000F"
+msgstr ""
+
+msgid "Epson Stylus CX7400"
+msgstr ""
+
+msgid "Epson Stylus CX7700"
+msgstr ""
+
+msgid "Epson Stylus CX7800"
+msgstr ""
+
+msgid "Epson Stylus CX8300"
+msgstr ""
+
+msgid "Epson Stylus CX8400"
+msgstr ""
+
+msgid "Epson Stylus CX9300F"
+msgstr ""
+
+msgid "Epson Stylus CX9400"
+msgstr ""
+
+msgid "Epson Stylus CX9400F"
+msgstr ""
+
+msgid "Epson Stylus CX9475F"
+msgstr ""
+
+msgid "Epson Stylus Color"
+msgstr ""
+
+msgid "Epson Stylus Color 1160"
+msgstr ""
+
+msgid "Epson Stylus Color 1500"
+msgstr ""
+
+msgid "Epson Stylus Color 1520"
+msgstr ""
+
+msgid "Epson Stylus Color 3000"
+msgstr ""
+
+msgid "Epson Stylus Color 400"
+msgstr ""
+
+msgid "Epson Stylus Color 440"
+msgstr ""
+
+msgid "Epson Stylus Color 460"
+msgstr ""
+
+msgid "Epson Stylus Color 480"
+msgstr ""
+
+msgid "Epson Stylus Color 500"
+msgstr ""
+
+msgid "Epson Stylus Color 580"
+msgstr ""
+
+msgid "Epson Stylus Color 600"
+msgstr ""
+
+msgid "Epson Stylus Color 640"
+msgstr ""
+
+msgid "Epson Stylus Color 660"
+msgstr ""
+
+msgid "Epson Stylus Color 670"
+msgstr ""
+
+msgid "Epson Stylus Color 680"
+msgstr ""
+
+msgid "Epson Stylus Color 740"
+msgstr ""
+
+msgid "Epson Stylus Color 760"
+msgstr ""
+
+msgid "Epson Stylus Color 777"
+msgstr ""
+
+msgid "Epson Stylus Color 8 3"
+msgstr ""
+
+msgid "Epson Stylus Color 800"
+msgstr ""
+
+msgid "Epson Stylus Color 850"
+msgstr ""
+
+msgid "Epson Stylus Color 860"
+msgstr ""
+
+msgid "Epson Stylus Color 880"
+msgstr ""
+
+msgid "Epson Stylus Color 900"
+msgstr ""
+
+msgid "Epson Stylus Color 980"
+msgstr ""
+
+msgid "Epson Stylus Color I"
+msgstr ""
+
+msgid "Epson Stylus Color II"
+msgstr ""
+
+msgid "Epson Stylus Color IIs"
+msgstr ""
+
+msgid "Epson Stylus Color PRO"
+msgstr ""
+
+msgid "Epson Stylus D120"
+msgstr ""
+
+msgid "Epson Stylus D68"
+msgstr ""
+
+msgid "Epson Stylus D78"
+msgstr ""
+
+msgid "Epson Stylus D88"
+msgstr ""
+
+msgid "Epson Stylus D92"
+msgstr ""
+
+msgid "Epson Stylus DX3800"
+msgstr ""
+
+msgid "Epson Stylus DX3850"
+msgstr ""
+
+msgid "Epson Stylus DX4000"
+msgstr ""
+
+msgid "Epson Stylus DX4050"
+msgstr ""
+
+msgid "Epson Stylus DX4200"
+msgstr ""
+
+msgid "Epson Stylus DX4250"
+msgstr ""
+
+msgid "Epson Stylus DX4400"
+msgstr ""
+
+msgid "Epson Stylus DX4450"
+msgstr ""
+
+msgid "Epson Stylus DX4800"
+msgstr ""
+
+msgid "Epson Stylus DX4850"
+msgstr ""
+
+msgid "Epson Stylus DX7000F"
+msgstr ""
+
+msgid "Epson Stylus DX7400"
+msgstr ""
+
+msgid "Epson Stylus DX7450"
+msgstr ""
+
+msgid "Epson Stylus DX8400"
+msgstr ""
+
+msgid "Epson Stylus DX8450"
+msgstr ""
+
+msgid "Epson Stylus DX9400F"
+msgstr ""
+
+msgid "Epson Stylus NX100"
+msgstr ""
+
+msgid "Epson Stylus NX105"
+msgstr ""
+
+msgid "Epson Stylus NX115"
+msgstr ""
+
+msgid "Epson Stylus NX200"
+msgstr ""
+
+msgid "Epson Stylus NX215"
+msgstr ""
+
+msgid "Epson Stylus NX300"
+msgstr ""
+
+msgid "Epson Stylus NX400"
+msgstr ""
+
+msgid "Epson Stylus NX415"
+msgstr ""
+
+msgid "Epson Stylus NX420"
+msgstr ""
+
+msgid "Epson Stylus NX515"
+msgstr ""
+
+msgid "Epson Stylus NX530"
+msgstr ""
+
+msgid "Epson Stylus NX635"
+msgstr ""
+
+msgid "Epson Stylus Office B1100"
+msgstr ""
+
+msgid "Epson Stylus Office B30"
+msgstr ""
+
+msgid "Epson Stylus Office B33"
+msgstr ""
+
+msgid "Epson Stylus Office B40W"
+msgstr ""
+
+msgid "Epson Stylus Office BX300F"
+msgstr ""
+
+msgid "Epson Stylus Office BX535WD"
+msgstr ""
+
+msgid "Epson Stylus Office BX600FW"
+msgstr ""
+
+msgid "Epson Stylus Office BX630FW"
+msgstr ""
+
+msgid "Epson Stylus Office BX635FWD"
+msgstr ""
+
+msgid "Epson Stylus Office SX600FW"
+msgstr ""
+
+msgid "Epson Stylus Office T1100"
+msgstr ""
+
+msgid "Epson Stylus Office T1110"
+msgstr ""
+
+msgid "Epson Stylus Office T30"
+msgstr ""
+
+msgid "Epson Stylus Office T33"
+msgstr ""
+
+msgid "Epson Stylus Office T40W"
+msgstr ""
+
+msgid "Epson Stylus Office TX300F"
+msgstr ""
+
+msgid "Epson Stylus Office TX600FW"
+msgstr ""
+
+msgid "Epson Stylus Office TX620FWD"
+msgstr ""
+
+msgid "Epson Stylus Photo"
+msgstr ""
+
+msgid "Epson Stylus Photo 1200"
+msgstr ""
+
+msgid "Epson Stylus Photo 1270"
+msgstr ""
+
+msgid "Epson Stylus Photo 1280"
+msgstr ""
+
+msgid "Epson Stylus Photo 1290"
+msgstr ""
+
+msgid "Epson Stylus Photo 1290s"
+msgstr ""
+
+msgid "Epson Stylus Photo 1400"
+msgstr ""
+
+msgid "Epson Stylus Photo 1410"
+msgstr ""
+
+msgid "Epson Stylus Photo 2000P"
+msgstr ""
+
+msgid "Epson Stylus Photo 2100"
+msgstr ""
+
+msgid "Epson Stylus Photo 2200"
+msgstr ""
+
+msgid "Epson Stylus Photo 700"
+msgstr ""
+
+msgid "Epson Stylus Photo 720"
+msgstr ""
+
+msgid "Epson Stylus Photo 750"
+msgstr ""
+
+msgid "Epson Stylus Photo 780"
+msgstr ""
+
+msgid "Epson Stylus Photo 785"
+msgstr ""
+
+msgid "Epson Stylus Photo 790"
+msgstr ""
+
+msgid "Epson Stylus Photo 810"
+msgstr ""
+
+msgid "Epson Stylus Photo 820"
+msgstr ""
+
+msgid "Epson Stylus Photo 825"
+msgstr ""
+
+msgid "Epson Stylus Photo 830"
+msgstr ""
+
+msgid "Epson Stylus Photo 830U"
+msgstr ""
+
+msgid "Epson Stylus Photo 870"
+msgstr ""
+
+msgid "Epson Stylus Photo 875"
+msgstr ""
+
+msgid "Epson Stylus Photo 890"
+msgstr ""
+
+msgid "Epson Stylus Photo 895"
+msgstr ""
+
+msgid "Epson Stylus Photo 900"
+msgstr ""
+
+msgid "Epson Stylus Photo 915"
+msgstr ""
+
+msgid "Epson Stylus Photo 925"
+msgstr ""
+
+msgid "Epson Stylus Photo 935"
+msgstr ""
+
+msgid "Epson Stylus Photo 950"
+msgstr ""
+
+msgid "Epson Stylus Photo 960"
+msgstr ""
+
+msgid "Epson Stylus Photo EX"
+msgstr ""
+
+msgid "Epson Stylus Photo EX3"
+msgstr ""
+
+msgid "Epson Stylus Photo P50"
+msgstr ""
+
+msgid "Epson Stylus Photo PX650"
+msgstr ""
+
+msgid "Epson Stylus Photo PX700W"
+msgstr ""
+
+msgid "Epson Stylus Photo PX710W"
+msgstr ""
+
+msgid "Epson Stylus Photo PX800FW"
+msgstr ""
+
+msgid "Epson Stylus Photo PX810FW"
+msgstr ""
+
+msgid "Epson Stylus Photo R1800"
+msgstr ""
+
+msgid "Epson Stylus Photo R1900"
+msgstr ""
+
+msgid "Epson Stylus Photo R200"
+msgstr ""
+
+msgid "Epson Stylus Photo R2000"
+msgstr ""
+
+msgid "Epson Stylus Photo R210"
+msgstr ""
+
+msgid "Epson Stylus Photo R220"
+msgstr ""
+
+msgid "Epson Stylus Photo R230"
+msgstr ""
+
+msgid "Epson Stylus Photo R240"
+msgstr ""
+
+msgid "Epson Stylus Photo R2400"
+msgstr ""
+
+msgid "Epson Stylus Photo R245"
+msgstr ""
+
+msgid "Epson Stylus Photo R260"
+msgstr ""
+
+msgid "Epson Stylus Photo R265"
+msgstr ""
+
+msgid "Epson Stylus Photo R270"
+msgstr ""
+
+msgid "Epson Stylus Photo R280"
+msgstr ""
+
+msgid "Epson Stylus Photo R285"
+msgstr ""
+
+msgid "Epson Stylus Photo R2880"
+msgstr ""
+
+msgid "Epson Stylus Photo R290"
+msgstr ""
+
+msgid "Epson Stylus Photo R300"
+msgstr ""
+
+msgid "Epson Stylus Photo R3000"
+msgstr ""
+
+msgid "Epson Stylus Photo R310"
+msgstr ""
+
+msgid "Epson Stylus Photo R320"
+msgstr ""
+
+msgid "Epson Stylus Photo R340"
+msgstr ""
+
+msgid "Epson Stylus Photo R350"
+msgstr ""
+
+msgid "Epson Stylus Photo R360"
+msgstr ""
+
+msgid "Epson Stylus Photo R380"
+msgstr ""
+
+msgid "Epson Stylus Photo R390"
+msgstr ""
+
+msgid "Epson Stylus Photo R800"
+msgstr ""
+
+msgid "Epson Stylus Photo RX400"
+msgstr ""
+
+msgid "Epson Stylus Photo RX420"
+msgstr ""
+
+msgid "Epson Stylus Photo RX425"
+msgstr ""
+
+msgid "Epson Stylus Photo RX430"
+msgstr ""
+
+msgid "Epson Stylus Photo RX500"
+msgstr ""
+
+msgid "Epson Stylus Photo RX510"
+msgstr ""
+
+msgid "Epson Stylus Photo RX560"
+msgstr ""
+
+msgid "Epson Stylus Photo RX580"
+msgstr ""
+
+msgid "Epson Stylus Photo RX585"
+msgstr ""
+
+msgid "Epson Stylus Photo RX590"
+msgstr ""
+
+msgid "Epson Stylus Photo RX595"
+msgstr ""
+
+msgid "Epson Stylus Photo RX600"
+msgstr ""
+
+msgid "Epson Stylus Photo RX610"
+msgstr ""
+
+msgid "Epson Stylus Photo RX620"
+msgstr ""
+
+msgid "Epson Stylus Photo RX630"
+msgstr ""
+
+msgid "Epson Stylus Photo RX640"
+msgstr ""
+
+msgid "Epson Stylus Photo RX650"
+msgstr ""
+
+msgid "Epson Stylus Photo RX680"
+msgstr ""
+
+msgid "Epson Stylus Photo RX685"
+msgstr ""
+
+msgid "Epson Stylus Photo RX690"
+msgstr ""
+
+msgid "Epson Stylus Photo RX700"
+msgstr ""
+
+msgid "Epson Stylus Photo TX700W"
+msgstr ""
+
+msgid "Epson Stylus Photo TX710W"
+msgstr ""
+
+msgid "Epson Stylus Photo TX800FW"
+msgstr ""
+
+msgid "Epson Stylus Photo TX810FW"
+msgstr ""
+
+msgid "Epson Stylus Pro 10000"
+msgstr ""
+
+msgid "Epson Stylus Pro 11800"
+msgstr ""
+
+msgid "Epson Stylus Pro 11800/11880 Back Compatible"
+msgstr ""
+
+msgid "Epson Stylus Pro 11880"
+msgstr ""
+
+msgid "Epson Stylus Pro 3800"
+msgstr ""
+
+msgid "Epson Stylus Pro 3880"
+msgstr ""
+
+msgid "Epson Stylus Pro 3885"
+msgstr ""
+
+msgid "Epson Stylus Pro 4000"
+msgstr ""
+
+msgid "Epson Stylus Pro 4800"
+msgstr ""
+
+msgid "Epson Stylus Pro 4800/4880 Back Compatible"
+msgstr ""
+
+msgid "Epson Stylus Pro 4880"
+msgstr ""
+
+msgid "Epson Stylus Pro 5000"
+msgstr ""
+
+msgid "Epson Stylus Pro 5500"
+msgstr ""
+
+msgid "Epson Stylus Pro 7000"
+msgstr ""
+
+msgid "Epson Stylus Pro 7500"
+msgstr ""
+
+msgid "Epson Stylus Pro 7600"
+msgstr ""
+
+msgid "Epson Stylus Pro 7700"
+msgstr ""
+
+msgid "Epson Stylus Pro 7800"
+msgstr ""
+
+msgid "Epson Stylus Pro 7880"
+msgstr ""
+
+msgid "Epson Stylus Pro 7890"
+msgstr ""
+
+msgid "Epson Stylus Pro 7900"
+msgstr ""
+
+msgid "Epson Stylus Pro 9000"
+msgstr ""
+
+msgid "Epson Stylus Pro 9500"
+msgstr ""
+
+msgid "Epson Stylus Pro 9600"
+msgstr ""
+
+msgid "Epson Stylus Pro 9700"
+msgstr ""
+
+msgid "Epson Stylus Pro 9800"
+msgstr ""
+
+msgid "Epson Stylus Pro 9880"
+msgstr ""
+
+msgid "Epson Stylus Pro 9890"
+msgstr ""
+
+msgid "Epson Stylus Pro 9900"
+msgstr ""
+
+msgid "Epson Stylus Pro XL"
+msgstr ""
+
+msgid "Epson Stylus S20"
+msgstr ""
+
+msgid "Epson Stylus S21"
+msgstr ""
+
+msgid "Epson Stylus S50"
+msgstr ""
+
+msgid "Epson Stylus SX100"
+msgstr ""
+
+msgid "Epson Stylus SX105"
+msgstr ""
+
+msgid "Epson Stylus SX110"
+msgstr ""
+
+msgid "Epson Stylus SX115"
+msgstr ""
+
+msgid "Epson Stylus SX200"
+msgstr ""
+
+msgid "Epson Stylus SX205"
+msgstr ""
+
+msgid "Epson Stylus SX210"
+msgstr ""
+
+msgid "Epson Stylus SX215"
+msgstr ""
+
+msgid "Epson Stylus SX400"
+msgstr ""
+
+msgid "Epson Stylus SX405"
+msgstr ""
+
+msgid "Epson Stylus SX410"
+msgstr ""
+
+msgid "Epson Stylus SX415"
+msgstr ""
+
+msgid "Epson Stylus SX420"
+msgstr ""
+
+msgid "Epson Stylus SX445W"
+msgstr ""
+
+msgid "Epson Stylus SX510W"
+msgstr ""
+
+msgid "Epson Stylus SX515"
+msgstr ""
+
+msgid "Epson Stylus SX525"
+msgstr ""
+
+msgid "Epson Stylus SX535FW"
+msgstr ""
+
+msgid "Epson Stylus SX600FW"
+msgstr ""
+
+msgid "Epson Stylus SX610FW"
+msgstr ""
+
+msgid "Epson Stylus SX615"
+msgstr ""
+
+msgid "Epson Stylus SX650"
+msgstr ""
+
+msgid "Epson Stylus Scan 2000"
+msgstr ""
+
+msgid "Epson Stylus Scan 2500"
+msgstr ""
+
+msgid "Epson Stylus T13"
+msgstr ""
+
+msgid "Epson Stylus T20"
+msgstr ""
+
+msgid "Epson Stylus T21"
+msgstr ""
+
+msgid "Epson Stylus T22"
+msgstr ""
+
+msgid "Epson Stylus T22E"
+msgstr ""
+
+msgid "Epson Stylus T26"
+msgstr ""
+
+msgid "Epson Stylus T30"
+msgstr ""
+
+msgid "Epson Stylus T40W"
+msgstr ""
+
+msgid "Epson Stylus T50"
+msgstr ""
+
+msgid "Epson Stylus T59"
+msgstr ""
+
+msgid "Epson Stylus T60"
+msgstr ""
+
+msgid "Epson Stylus TX100"
+msgstr ""
+
+msgid "Epson Stylus TX101"
+msgstr ""
+
+msgid "Epson Stylus TX102"
+msgstr ""
+
+msgid "Epson Stylus TX103"
+msgstr ""
+
+msgid "Epson Stylus TX104"
+msgstr ""
+
+msgid "Epson Stylus TX105"
+msgstr ""
+
+msgid "Epson Stylus TX106"
+msgstr ""
+
+msgid "Epson Stylus TX109"
+msgstr ""
+
+msgid "Epson Stylus TX110"
+msgstr ""
+
+msgid "Epson Stylus TX125"
+msgstr ""
+
+msgid "Epson Stylus TX200"
+msgstr ""
+
+msgid "Epson Stylus TX210"
+msgstr ""
+
+msgid "Epson Stylus TX300F"
+msgstr ""
+
+msgid "Epson Stylus TX400"
+msgstr ""
+
+msgid "Epson Stylus TX410"
+msgstr ""
+
+msgid "Epson Stylus TX420"
+msgstr ""
+
+msgid "Epson Stylus TX510FN"
+msgstr ""
+
+msgid "Epson Stylus TX550W"
+msgstr ""
+
+msgid "Epson Stylus TX610FW"
+msgstr ""
+
+msgid "Epson Stylus TX615"
+msgstr ""
+
+msgid "Epson Stylus TX650"
+msgstr ""
+
+msgid "Epson Stylus TX659"
+msgstr ""
+
+msgid "Epson WF-7010 Series"
+msgstr ""
+
+msgid "Epson WF-7011 Series"
+msgstr ""
+
+msgid "Epson WF-7015 Series"
+msgstr ""
+
+msgid "Epson WF-7018 Series"
+msgstr ""
+
+msgid "Epson WF-7510 Series"
+msgstr ""
+
+msgid "Epson WF-7511 Series"
+msgstr ""
+
+msgid "Epson WF-7515 Series"
+msgstr ""
+
+msgid "Epson WF-7520 Series"
+msgstr ""
+
+msgid "Epson WF-7521 Series"
+msgstr ""
+
+msgid "Epson WF-7525 Series"
+msgstr ""
+
+msgid "Epson WorkForce 1100"
+msgstr ""
+
+msgid "Epson WorkForce 30"
+msgstr ""
+
+msgid "Epson WorkForce 310"
+msgstr ""
+
+msgid "Epson WorkForce 315"
+msgstr ""
+
+msgid "Epson WorkForce 40"
+msgstr ""
+
+msgid "Epson WorkForce 500"
+msgstr ""
+
+msgid "Epson WorkForce 545"
+msgstr ""
+
+msgid "Epson WorkForce 600"
+msgstr ""
+
+msgid "Epson WorkForce 610"
+msgstr ""
+
+msgid "Epson WorkForce 615"
+msgstr ""
+
+msgid "Epson WorkForce 630"
+msgstr ""
+
+msgid "Epson WorkForce 635"
+msgstr ""
+
+msgid "Epson WorkForce 645"
+msgstr ""
+
+msgid "Error in input\n"
+msgstr ""
+
+msgid "Error: Fatal Error\n"
+msgstr ""
+
+msgid "Error: Ink out\n"
+msgstr ""
+
+msgid "Error: Paper out\n"
+msgstr ""
+
+msgid "Escputil version "
+msgstr ""
+
+msgid "EvenBetter"
+msgstr ""
+
+msgid "EvenTone"
+msgstr ""
+
+msgid "Exiting\n"
+msgstr ""
+
+msgid "Expand (use maximum page area)"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Fast Economy"
+msgstr ""
+
+msgid "Fatal error!"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Fine Adjustment"
+msgstr ""
+
+msgid "Fine adjustment to horizontal position for CD printing"
+msgstr ""
+
+msgid "Five Color Photo Composite"
+msgstr ""
+
+msgid "Four Color Standard"
+msgstr ""
+
+msgid "Front Tray"
+msgstr ""
+
+msgid "Fujifilm FinePix-NX-500"
+msgstr ""
+
+msgid "Fujifilm Printpix-CX-400"
+msgstr ""
+
+msgid "Fujifilm Printpix-CX-550"
+msgstr ""
+
+msgid "Fujitsu PrintPartner 10V"
+msgstr ""
+
+msgid "Fujitsu PrintPartner 16DV"
+msgstr ""
+
+msgid "Fujitsu PrintPartner 20W"
+msgstr ""
+
+msgid "Fujitsu PrintPartner 8000"
+msgstr ""
+
+msgid "Full Manual Control"
+msgstr ""
+
+msgid "GCR Lower Bound"
+msgstr ""
+
+msgid "GCR Transition"
+msgstr ""
+
+msgid "GCR Upper Bound"
+msgstr ""
+
+msgid "Gamma"
+msgstr ""
+
+msgid "Gamma for raw channel "
+msgstr ""
+
+msgid "Gamma value assumed by application"
+msgstr ""
+
+msgid "Generic PCL 4 LF Printer"
+msgstr ""
+
+msgid "Generic PCL 4 Printer"
+msgstr ""
+
+msgid "Generic PCL 5 LF Printer"
+msgstr ""
+
+msgid "Generic PCL 5 Printer"
+msgstr ""
+
+msgid "Generic PCL 5c LF Printer"
+msgstr ""
+
+msgid "Generic PCL 5c Printer"
+msgstr ""
+
+msgid "Generic PCL 5e LF Printer"
+msgstr ""
+
+msgid "Generic PCL 5e Printer"
+msgstr ""
+
+msgid "Generic PCL 6/PCL XL LF Printer"
+msgstr ""
+
+msgid "Generic PCL 6/PCL XL Printer"
+msgstr ""
+
+msgid "Gestetner 10512"
+msgstr ""
+
+msgid "Gestetner 2212"
+msgstr ""
+
+msgid "Gestetner 2712"
+msgstr ""
+
+msgid "Gestetner 3212"
+msgstr ""
+
+msgid "Gestetner 3502"
+msgstr ""
+
+msgid "Gestetner 3532/4235g"
+msgstr ""
+
+msgid "Gestetner 4502"
+msgstr ""
+
+msgid "Gestetner 4532/4245g"
+msgstr ""
+
+msgid "Gestetner 6002"
+msgstr ""
+
+msgid "Gestetner 7502"
+msgstr ""
+
+msgid "Gestetner 9002"
+msgstr ""
+
+msgid "Gestetner DSm415"
+msgstr ""
+
+msgid "Gestetner DSm615"
+msgstr ""
+
+msgid "Gestetner DSm616"
+msgstr ""
+
+msgid "Gestetner DSm618"
+msgstr ""
+
+msgid "Gestetner DSm618d"
+msgstr ""
+
+msgid "Gestetner DSm620"
+msgstr ""
+
+msgid "Gestetner DSm620d"
+msgstr ""
+
+msgid "Gestetner DSm622"
+msgstr ""
+
+msgid "Gestetner DSm627"
+msgstr ""
+
+msgid "Gestetner DSm635/635G"
+msgstr ""
+
+msgid "Gestetner DSm645/645G"
+msgstr ""
+
+msgid "Gestetner DSm651"
+msgstr ""
+
+msgid "Gestetner DSm660"
+msgstr ""
+
+msgid "Gestetner DSm675"
+msgstr ""
+
+msgid "Gestetner DSm725"
+msgstr ""
+
+msgid "Gestetner DSm730"
+msgstr ""
+
+msgid "Gestetner DSm735/735G"
+msgstr ""
+
+msgid "Gestetner DSm745/745G"
+msgstr ""
+
+msgid "Gestetner MP 161/DSm416"
+msgstr ""
+
+msgid "Gestetner MP 2510/DSm725e"
+msgstr ""
+
+msgid "Gestetner MP 2550"
+msgstr ""
+
+msgid "Gestetner MP 2550B"
+msgstr ""
+
+msgid "Gestetner MP 3010/DSm730e"
+msgstr ""
+
+msgid "Gestetner MP 3350"
+msgstr ""
+
+msgid "Gestetner MP 3350B"
+msgstr ""
+
+msgid "Gestetner MP 4000"
+msgstr ""
+
+msgid "Gestetner MP 4000B"
+msgstr ""
+
+msgid "Gestetner MP 5000"
+msgstr ""
+
+msgid "Gestetner MP 5000B"
+msgstr ""
+
+msgid "Gestetner MP1100/DSm7110"
+msgstr ""
+
+msgid "Gestetner MP1350/DSm7135"
+msgstr ""
+
+msgid "Gestetner MP1600/DSm716"
+msgstr ""
+
+msgid "Gestetner MP2000/DSm721d"
+msgstr ""
+
+msgid "Gestetner MP2500/DSm625"
+msgstr ""
+
+msgid "Gestetner MP3500/DSm735e"
+msgstr ""
+
+msgid "Gestetner MP4500/DSm745e"
+msgstr ""
+
+msgid "Gestetner MP5500/DSm755"
+msgstr ""
+
+msgid "Gestetner MP6500/DSm765"
+msgstr ""
+
+msgid "Gestetner MP7500/DSm775"
+msgstr ""
+
+msgid "Gestetner MP9000/DSm790"
+msgstr ""
+
+msgid "Gloss Level"
+msgstr ""
+
+msgid "Glossy"
+msgstr ""
+
+msgid "Glossy Film"
+msgstr ""
+
+msgid "Glossy Photo"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Gray 1"
+msgstr ""
+
+msgid "Gray 2"
+msgstr ""
+
+msgid "Gray 3"
+msgstr ""
+
+msgid "Gray 4"
+msgstr ""
+
+msgid "Gray 5"
+msgstr ""
+
+msgid "Gray Component Reduction"
+msgstr ""
+
+msgid "Gray Transition"
+msgstr ""
+
+msgid "Gray Value"
+msgstr ""
+
+msgid "Grayscale"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Green Curve"
+msgstr ""
+
+msgid "Green curve"
+msgstr ""
+
+msgid "Gutenprint Version "
+msgstr ""
+
+msgid "HP Business Inkjet 2200"
+msgstr ""
+
+msgid "HP Business Inkjet 2230"
+msgstr ""
+
+msgid "HP Business Inkjet 2250"
+msgstr ""
+
+msgid "HP Business Inkjet 2250TN"
+msgstr ""
+
+msgid "HP Business Inkjet 2280"
+msgstr ""
+
+msgid "HP Color Inkjet Printer CP1160"
+msgstr ""
+
+msgid "HP Color Inkjet Printer CP1700"
+msgstr ""
+
+msgid "HP Color LaserJet 2500"
+msgstr ""
+
+msgid "HP Color LaserJet 4500"
+msgstr ""
+
+msgid "HP Color LaserJet 4550"
+msgstr ""
+
+msgid "HP Color LaserJet 4600"
+msgstr ""
+
+msgid "HP Color LaserJet 5"
+msgstr ""
+
+msgid "HP Color LaserJet 5000"
+msgstr ""
+
+msgid "HP Color LaserJet 5500"
+msgstr ""
+
+msgid "HP Color LaserJet 8550GN"
+msgstr ""
+
+msgid "HP DesignJet 230"
+msgstr ""
+
+msgid "HP DesignJet 2500CP"
+msgstr ""
+
+msgid "HP DesignJet 250C"
+msgstr ""
+
+msgid "HP DesignJet 3500CP"
+msgstr ""
+
+msgid "HP DesignJet 430"
+msgstr ""
+
+msgid "HP DesignJet 450C"
+msgstr ""
+
+msgid "HP DesignJet 455CA"
+msgstr ""
+
+msgid "HP DesignJet 488CA"
+msgstr ""
+
+msgid "HP DesignJet 700"
+msgstr ""
+
+msgid "HP DesignJet 750C"
+msgstr ""
+
+msgid "HP DesignJet 750C Plus"
+msgstr ""
+
+msgid "HP DesignJet ColorPro CAD"
+msgstr ""
+
+msgid "HP DeskJet 1100C"
+msgstr ""
+
+msgid "HP DeskJet 1120C"
+msgstr ""
+
+msgid "HP DeskJet 1125C"
+msgstr ""
+
+msgid "HP DeskJet 1200C"
+msgstr ""
+
+msgid "HP DeskJet 1220C"
+msgstr ""
+
+msgid "HP DeskJet 1600C"
+msgstr ""
+
+msgid "HP DeskJet 1600CM"
+msgstr ""
+
+msgid "HP DeskJet 2000"
+msgstr ""
+
+msgid "HP DeskJet 2500"
+msgstr ""
+
+msgid "HP DeskJet 2500CM"
+msgstr ""
+
+msgid "HP DeskJet 340C"
+msgstr ""
+
+msgid "HP DeskJet 3810"
+msgstr ""
+
+msgid "HP DeskJet 3816"
+msgstr ""
+
+msgid "HP DeskJet 3820"
+msgstr ""
+
+msgid "HP DeskJet 3822"
+msgstr ""
+
+msgid "HP DeskJet 400"
+msgstr ""
+
+msgid "HP DeskJet 420C"
+msgstr ""
+
+msgid "HP DeskJet 450"
+msgstr ""
+
+msgid "HP DeskJet 500"
+msgstr ""
+
+msgid "HP DeskJet 500C"
+msgstr ""
+
+msgid "HP DeskJet 505J Plus"
+msgstr ""
+
+msgid "HP DeskJet 510"
+msgstr ""
+
+msgid "HP DeskJet 520"
+msgstr ""
+
+msgid "HP DeskJet 540C"
+msgstr ""
+
+msgid "HP DeskJet 550C"
+msgstr ""
+
+msgid "HP DeskJet 5550"
+msgstr ""
+
+msgid "HP DeskJet 5551"
+msgstr ""
+
+msgid "HP DeskJet 560C"
+msgstr ""
+
+msgid "HP DeskJet 600"
+msgstr ""
+
+msgid "HP DeskJet 600C"
+msgstr ""
+
+msgid "HP DeskJet 610C"
+msgstr ""
+
+msgid "HP DeskJet 610CL"
+msgstr ""
+
+msgid "HP DeskJet 6122"
+msgstr ""
+
+msgid "HP DeskJet 6127"
+msgstr ""
+
+msgid "HP DeskJet 612C"
+msgstr ""
+
+msgid "HP DeskJet 640C"
+msgstr ""
+
+msgid "HP DeskJet 648C"
+msgstr ""
+
+msgid "HP DeskJet 660C"
+msgstr ""
+
+msgid "HP DeskJet 670C"
+msgstr ""
+
+msgid "HP DeskJet 670TV"
+msgstr ""
+
+msgid "HP DeskJet 672C"
+msgstr ""
+
+msgid "HP DeskJet 680C"
+msgstr ""
+
+msgid "HP DeskJet 682C"
+msgstr ""
+
+msgid "HP DeskJet 690C"
+msgstr ""
+
+msgid "HP DeskJet 692C"
+msgstr ""
+
+msgid "HP DeskJet 693C"
+msgstr ""
+
+msgid "HP DeskJet 694C"
+msgstr ""
+
+msgid "HP DeskJet 695C"
+msgstr ""
+
+msgid "HP DeskJet 697C"
+msgstr ""
+
+msgid "HP DeskJet 810C"
+msgstr ""
+
+msgid "HP DeskJet 812C"
+msgstr ""
+
+msgid "HP DeskJet 815C"
+msgstr ""
+
+msgid "HP DeskJet 816C"
+msgstr ""
+
+msgid "HP DeskJet 825C"
+msgstr ""
+
+msgid "HP DeskJet 830C"
+msgstr ""
+
+msgid "HP DeskJet 832C"
+msgstr ""
+
+msgid "HP DeskJet 840C"
+msgstr ""
+
+msgid "HP DeskJet 841C"
+msgstr ""
+
+msgid "HP DeskJet 842C"
+msgstr ""
+
+msgid "HP DeskJet 843C"
+msgstr ""
+
+msgid "HP DeskJet 845C"
+msgstr ""
+
+msgid "HP DeskJet 850C"
+msgstr ""
+
+msgid "HP DeskJet 855C"
+msgstr ""
+
+msgid "HP DeskJet 870C"
+msgstr ""
+
+msgid "HP DeskJet 880C"
+msgstr ""
+
+msgid "HP DeskJet 882C"
+msgstr ""
+
+msgid "HP DeskJet 890C"
+msgstr ""
+
+msgid "HP DeskJet 895C"
+msgstr ""
+
+msgid "HP DeskJet 916C"
+msgstr ""
+
+msgid "HP DeskJet 920C"
+msgstr ""
+
+msgid "HP DeskJet 9300"
+msgstr ""
+
+msgid "HP DeskJet 930C"
+msgstr ""
+
+msgid "HP DeskJet 932C"
+msgstr ""
+
+msgid "HP DeskJet 933C"
+msgstr ""
+
+msgid "HP DeskJet 934C"
+msgstr ""
+
+msgid "HP DeskJet 935C"
+msgstr ""
+
+msgid "HP DeskJet 940C"
+msgstr ""
+
+msgid "HP DeskJet 948C"
+msgstr ""
+
+msgid "HP DeskJet 950C"
+msgstr ""
+
+msgid "HP DeskJet 952C"
+msgstr ""
+
+msgid "HP DeskJet 955C"
+msgstr ""
+
+msgid "HP DeskJet 957C"
+msgstr ""
+
+msgid "HP DeskJet 959C"
+msgstr ""
+
+msgid "HP DeskJet 960C"
+msgstr ""
+
+msgid "HP DeskJet 970C"
+msgstr ""
+
+msgid "HP DeskJet 975C"
+msgstr ""
+
+msgid "HP DeskJet 980C"
+msgstr ""
+
+msgid "HP DeskJet 990C"
+msgstr ""
+
+msgid "HP DeskJet 995C"
+msgstr ""
+
+msgid "HP LaserJet 1010"
+msgstr ""
+
+msgid "HP LaserJet 1012"
+msgstr ""
+
+msgid "HP LaserJet 1015"
+msgstr ""
+
+msgid "HP LaserJet 1022"
+msgstr ""
+
+msgid "HP LaserJet 1100"
+msgstr ""
+
+msgid "HP LaserJet 1100A"
+msgstr ""
+
+msgid "HP LaserJet 1150"
+msgstr ""
+
+msgid "HP LaserJet 1160"
+msgstr ""
+
+msgid "HP LaserJet 1200"
+msgstr ""
+
+msgid "HP LaserJet 1220"
+msgstr ""
+
+msgid "HP LaserJet 1300"
+msgstr ""
+
+msgid "HP LaserJet 1320"
+msgstr ""
+
+msgid "HP LaserJet 2"
+msgstr ""
+
+msgid "HP LaserJet 2100"
+msgstr ""
+
+msgid "HP LaserJet 2100M"
+msgstr ""
+
+msgid "HP LaserJet 2200"
+msgstr ""
+
+msgid "HP LaserJet 2300"
+msgstr ""
+
+msgid "HP LaserJet 2410"
+msgstr ""
+
+msgid "HP LaserJet 2420"
+msgstr ""
+
+msgid "HP LaserJet 2430"
+msgstr ""
+
+msgid "HP LaserJet 2D"
+msgstr ""
+
+msgid "HP LaserJet 2P"
+msgstr ""
+
+msgid "HP LaserJet 2P Plus"
+msgstr ""
+
+msgid "HP LaserJet 3"
+msgstr ""
+
+msgid "HP LaserJet 3015"
+msgstr ""
+
+msgid "HP LaserJet 3020"
+msgstr ""
+
+msgid "HP LaserJet 3030"
+msgstr ""
+
+msgid "HP LaserJet 3050"
+msgstr ""
+
+msgid "HP LaserJet 3052"
+msgstr ""
+
+msgid "HP LaserJet 3055"
+msgstr ""
+
+msgid "HP LaserJet 3200"
+msgstr ""
+
+msgid "HP LaserJet 3200m"
+msgstr ""
+
+msgid "HP LaserJet 3200se"
+msgstr ""
+
+msgid "HP LaserJet 3300 MFP"
+msgstr ""
+
+msgid "HP LaserJet 3310 MFP"
+msgstr ""
+
+msgid "HP LaserJet 3320 MFP"
+msgstr ""
+
+msgid "HP LaserJet 3320N MFP"
+msgstr ""
+
+msgid "HP LaserJet 3330 MFP"
+msgstr ""
+
+msgid "HP LaserJet 3380"
+msgstr ""
+
+msgid "HP LaserJet 3390"
+msgstr ""
+
+msgid "HP LaserJet 3392"
+msgstr ""
+
+msgid "HP LaserJet 3D"
+msgstr ""
+
+msgid "HP LaserJet 3P w/ PCL5"
+msgstr ""
+
+msgid "HP LaserJet 3P w/PS"
+msgstr ""
+
+msgid "HP LaserJet 4"
+msgstr ""
+
+msgid "HP LaserJet 4 Plus"
+msgstr ""
+
+msgid "HP LaserJet 4000"
+msgstr ""
+
+msgid "HP LaserJet 4050"
+msgstr ""
+
+msgid "HP LaserJet 4100"
+msgstr ""
+
+msgid "HP LaserJet 4200"
+msgstr ""
+
+msgid "HP LaserJet 4240"
+msgstr ""
+
+msgid "HP LaserJet 4250"
+msgstr ""
+
+msgid "HP LaserJet 4300"
+msgstr ""
+
+msgid "HP LaserJet 4345 mfp"
+msgstr ""
+
+msgid "HP LaserJet 4350"
+msgstr ""
+
+msgid "HP LaserJet 4L"
+msgstr ""
+
+msgid "HP LaserJet 4M"
+msgstr ""
+
+msgid "HP LaserJet 4ML"
+msgstr ""
+
+msgid "HP LaserJet 4P"
+msgstr ""
+
+msgid "HP LaserJet 4Si"
+msgstr ""
+
+msgid "HP LaserJet 4V"
+msgstr ""
+
+msgid "HP LaserJet 5"
+msgstr ""
+
+msgid "HP LaserJet 5000"
+msgstr ""
+
+msgid "HP LaserJet 5100"
+msgstr ""
+
+msgid "HP LaserJet 5200"
+msgstr ""
+
+msgid "HP LaserJet 5200L"
+msgstr ""
+
+msgid "HP LaserJet 5L"
+msgstr ""
+
+msgid "HP LaserJet 5M"
+msgstr ""
+
+msgid "HP LaserJet 5MP"
+msgstr ""
+
+msgid "HP LaserJet 5P"
+msgstr ""
+
+msgid "HP LaserJet 5Si"
+msgstr ""
+
+msgid "HP LaserJet 6"
+msgstr ""
+
+msgid "HP LaserJet 6L"
+msgstr ""
+
+msgid "HP LaserJet 6MP"
+msgstr ""
+
+msgid "HP LaserJet 6P"
+msgstr ""
+
+msgid "HP LaserJet 8000"
+msgstr ""
+
+msgid "HP LaserJet 8100"
+msgstr ""
+
+msgid "HP LaserJet 8150"
+msgstr ""
+
+msgid "HP LaserJet 9000"
+msgstr ""
+
+msgid "HP LaserJet 9040"
+msgstr ""
+
+msgid "HP LaserJet 9040 MFP"
+msgstr ""
+
+msgid "HP LaserJet 9050"
+msgstr ""
+
+msgid "HP LaserJet 9050 MFP"
+msgstr ""
+
+msgid "HP LaserJet M3027 MFP"
+msgstr ""
+
+msgid "HP LaserJet M3035 MFP"
+msgstr ""
+
+msgid "HP LaserJet M4345 MFP"
+msgstr ""
+
+msgid "HP LaserJet M5025 MFP"
+msgstr ""
+
+msgid "HP LaserJet M5035 MFP"
+msgstr ""
+
+msgid "HP LaserJet P2010"
+msgstr ""
+
+msgid "HP LaserJet P2015"
+msgstr ""
+
+msgid "HP LaserJet P3004"
+msgstr ""
+
+msgid "HP LaserJet P3005"
+msgstr ""
+
+msgid "HP Mopier 240"
+msgstr ""
+
+msgid "HP Mopier 320"
+msgstr ""
+
+msgid "HP OfficeJet"
+msgstr ""
+
+msgid "HP OfficeJet 300"
+msgstr ""
+
+msgid "HP OfficeJet 330"
+msgstr ""
+
+msgid "HP OfficeJet 350"
+msgstr ""
+
+msgid "HP OfficeJet 500"
+msgstr ""
+
+msgid "HP OfficeJet 5105"
+msgstr ""
+
+msgid "HP OfficeJet 5110"
+msgstr ""
+
+msgid "HP OfficeJet 5110xi"
+msgstr ""
+
+msgid "HP OfficeJet 520"
+msgstr ""
+
+msgid "HP OfficeJet 570"
+msgstr ""
+
+msgid "HP OfficeJet 580"
+msgstr ""
+
+msgid "HP OfficeJet 590"
+msgstr ""
+
+msgid "HP OfficeJet 600"
+msgstr ""
+
+msgid "HP OfficeJet 610"
+msgstr ""
+
+msgid "HP OfficeJet 6105"
+msgstr ""
+
+msgid "HP OfficeJet 6110"
+msgstr ""
+
+msgid "HP OfficeJet 625"
+msgstr ""
+
+msgid "HP OfficeJet 630"
+msgstr ""
+
+msgid "HP OfficeJet 635"
+msgstr ""
+
+msgid "HP OfficeJet 700"
+msgstr ""
+
+msgid "HP OfficeJet 710"
+msgstr ""
+
+msgid "HP OfficeJet 7110"
+msgstr ""
+
+msgid "HP OfficeJet 7130"
+msgstr ""
+
+msgid "HP OfficeJet 7140"
+msgstr ""
+
+msgid "HP OfficeJet 720"
+msgstr ""
+
+msgid "HP OfficeJet 725"
+msgstr ""
+
+msgid "HP OfficeJet D125"
+msgstr ""
+
+msgid "HP OfficeJet D135"
+msgstr ""
+
+msgid "HP OfficeJet D145"
+msgstr ""
+
+msgid "HP OfficeJet D155"
+msgstr ""
+
+msgid "HP OfficeJet G55"
+msgstr ""
+
+msgid "HP OfficeJet G85"
+msgstr ""
+
+msgid "HP OfficeJet G95"
+msgstr ""
+
+msgid "HP OfficeJet K60"
+msgstr ""
+
+msgid "HP OfficeJet K60xi"
+msgstr ""
+
+msgid "HP OfficeJet K80"
+msgstr ""
+
+msgid "HP OfficeJet K80xi"
+msgstr ""
+
+msgid "HP OfficeJet LX"
+msgstr ""
+
+msgid "HP OfficeJet Pro 1150C"
+msgstr ""
+
+msgid "HP OfficeJet Pro 1170C"
+msgstr ""
+
+msgid "HP OfficeJet Pro 1175C"
+msgstr ""
+
+msgid "HP OfficeJet R40"
+msgstr ""
+
+msgid "HP OfficeJet R45"
+msgstr ""
+
+msgid "HP OfficeJet R60"
+msgstr ""
+
+msgid "HP OfficeJet R65"
+msgstr ""
+
+msgid "HP OfficeJet R80"
+msgstr ""
+
+msgid "HP OfficeJet T45"
+msgstr ""
+
+msgid "HP OfficeJet T65"
+msgstr ""
+
+msgid "HP OfficeJet V40"
+msgstr ""
+
+msgid "HP OfficeJet V40xi"
+msgstr ""
+
+msgid "HP PSC 2110"
+msgstr ""
+
+msgid "HP PSC 2150"
+msgstr ""
+
+msgid "HP PSC 2210"
+msgstr ""
+
+msgid "HP PSC 370"
+msgstr ""
+
+msgid "HP PSC 380"
+msgstr ""
+
+msgid "HP PSC 500"
+msgstr ""
+
+msgid "HP PSC 750"
+msgstr ""
+
+msgid "HP PSC 950"
+msgstr ""
+
+msgid "HP PSC 950xi"
+msgstr ""
+
+msgid "HP PhotoSmart 7150"
+msgstr ""
+
+msgid "HP PhotoSmart 7345"
+msgstr ""
+
+msgid "HP PhotoSmart 7350"
+msgstr ""
+
+msgid "HP PhotoSmart 7550"
+msgstr ""
+
+msgid "HP PhotoSmart P100"
+msgstr ""
+
+msgid "HP PhotoSmart P1000"
+msgstr ""
+
+msgid "HP PhotoSmart P1100"
+msgstr ""
+
+msgid "HP PhotoSmart P1115"
+msgstr ""
+
+msgid "HP PhotoSmart P1215"
+msgstr ""
+
+msgid "HP PhotoSmart P1218"
+msgstr ""
+
+msgid "HP PhotoSmart P130"
+msgstr ""
+
+msgid "HP PhotoSmart P1315"
+msgstr ""
+
+msgid "HP PhotoSmart P230"
+msgstr ""
+
+msgid "HP e-printer e20"
+msgstr ""
+
+msgid "Height must be greater than zero\n"
+msgstr ""
+
+msgid "Height:"
+msgstr ""
+
+msgid "High Accuracy"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Hue Map"
+msgstr ""
+
+msgid "Hue adjustment curve"
+msgstr ""
+
+msgid "Hybrid EvenBetter"
+msgstr ""
+
+msgid "Hybrid EvenTone"
+msgstr ""
+
+msgid "Hybrid Floyd-Steinberg"
+msgstr ""
+
+msgid "Hybrid UniTone"
+msgstr ""
+
+msgid "IBM 4019"
+msgstr ""
+
+msgid "IBM 4029 030 LaserPrinter 10"
+msgstr ""
+
+msgid "IBM 4312"
+msgstr ""
+
+msgid "IBM Infoprint 12"
+msgstr ""
+
+msgid "IBM Page Printer 3112"
+msgstr ""
+
+msgid "Image Position"
+msgstr ""
+
+msgid "Image Size"
+msgstr ""
+
+msgid "Image Type"
+msgstr ""
+
+msgid "Image dimensions must match paper dimensions"
+msgstr ""
+
+msgid "Image preview"
+msgstr ""
+
+msgid "Inch"
+msgstr ""
+
+msgid "Infotec 4353 MF"
+msgstr ""
+
+msgid "Infotec 4452 MF"
+msgstr ""
+
+msgid "Infotec 4651 MF"
+msgstr ""
+
+msgid "Infotec IS 2015"
+msgstr ""
+
+msgid "Infotec IS 2018"
+msgstr ""
+
+msgid "Infotec IS 2018D"
+msgstr ""
+
+msgid "Infotec IS 2060"
+msgstr ""
+
+msgid "Infotec IS 2075"
+msgstr ""
+
+msgid "Infotec IS 2122"
+msgstr ""
+
+msgid "Infotec IS 2127"
+msgstr ""
+
+msgid "Infotec IS 2132"
+msgstr ""
+
+msgid "Infotec IS 2135"
+msgstr ""
+
+msgid "Infotec IS 2145"
+msgstr ""
+
+msgid "Infotec IS 2151"
+msgstr ""
+
+msgid "Infotec IS 2160"
+msgstr ""
+
+msgid "Infotec IS 2175"
+msgstr ""
+
+msgid "Infotec IS 2215"
+msgstr ""
+
+msgid "Infotec IS 2216"
+msgstr ""
+
+msgid "Infotec IS 2220"
+msgstr ""
+
+msgid "Infotec IS 2220D"
+msgstr ""
+
+msgid "Infotec IS 2225"
+msgstr ""
+
+msgid "Infotec IS 2230"
+msgstr ""
+
+msgid "Infotec IS 2235"
+msgstr ""
+
+msgid "Infotec IS 2245"
+msgstr ""
+
+msgid "Infotec IS 2255"
+msgstr ""
+
+msgid "Infotec IS 2265"
+msgstr ""
+
+msgid "Infotec IS 2275"
+msgstr ""
+
+msgid "Infotec IS 2316"
+msgstr ""
+
+msgid "Infotec IS 2320"
+msgstr ""
+
+msgid "Infotec IS 2325"
+msgstr ""
+
+msgid "Infotec IS 2416"
+msgstr ""
+
+msgid "Infotec IS 2425"
+msgstr ""
+
+msgid "Infotec IS 2430"
+msgstr ""
+
+msgid "Infotec IS 2435"
+msgstr ""
+
+msgid "Infotec IS 2445"
+msgstr ""
+
+msgid "Infotec IS 3090"
+msgstr ""
+
+msgid "Infotec IS 3110"
+msgstr ""
+
+msgid "Infotec IS 3135"
+msgstr ""
+
+msgid "Infotec IS2022"
+msgstr ""
+
+msgid "Infotec IS2027"
+msgstr ""
+
+msgid "Infotec IS2032"
+msgstr ""
+
+msgid "Infotec IS2035"
+msgstr ""
+
+msgid "Infotec IS2045"
+msgstr ""
+
+msgid "Infotec IS2090"
+msgstr ""
+
+msgid "Infotec IS2105"
+msgstr ""
+
+msgid "Infotec MP 2550"
+msgstr ""
+
+msgid "Infotec MP 2550B"
+msgstr ""
+
+msgid "Infotec MP 3350"
+msgstr ""
+
+msgid "Infotec MP 3350B"
+msgstr ""
+
+msgid "Infotec MP 4000"
+msgstr ""
+
+msgid "Infotec MP 4000B"
+msgstr ""
+
+msgid "Infotec MP 5000"
+msgstr ""
+
+msgid "Infotec MP 5000B"
+msgstr ""
+
+msgid "Ink Channels"
+msgstr ""
+
+msgid "Ink Levels:\n"
+msgstr ""
+
+msgid "Ink Limit"
+msgstr ""
+
+msgid "Ink Set"
+msgstr ""
+
+msgid "Ink Type"
+msgstr ""
+
+msgid "Ink cartridge"
+msgstr ""
+
+msgid "Ink change command"
+msgstr ""
+
+msgid "Ink color"
+msgstr ""
+
+msgid "Inkjet Paper"
+msgstr ""
+
+msgid "Input Image Type"
+msgstr ""
+
+msgid "Input image type"
+msgstr ""
+
+msgid "Interleave Method"
+msgstr ""
+
+msgid "Interleave pattern to use"
+msgstr ""
+
+msgid "Is this curve linear, spline interpolated, or free-form"
+msgstr ""
+
+msgid "Japanese Business Card"
+msgstr ""
+
+msgid "Job"
+msgstr ""
+
+msgid "Job Mode"
+msgstr ""
+
+msgid "Job Name: "
+msgstr ""
+
+msgid "KCMY"
+msgstr ""
+
+msgid "KG"
+msgstr ""
+
+msgid "Kodak 1400"
+msgstr ""
+
+msgid "Kodak 605"
+msgstr ""
+
+msgid "Kodak 6800"
+msgstr ""
+
+msgid "Kodak 6850"
+msgstr ""
+
+msgid "Kodak 805"
+msgstr ""
+
+msgid "Kodak 8500"
+msgstr ""
+
+msgid "Kodak 9810"
+msgstr ""
+
+msgid "Kodak EasyShare-G600-Printer-Dock"
+msgstr ""
+
+msgid "Kodak Easyshare-Printer-Dock"
+msgstr ""
+
+msgid "Kodak PD-4000"
+msgstr ""
+
+msgid "Kodak PD-6000"
+msgstr ""
+
+msgid "Kodak Photo-Printer"
+msgstr ""
+
+msgid "Kodak Photo-Printer-500"
+msgstr ""
+
+msgid "Kodak Printer-Dock-Plus"
+msgstr ""
+
+msgid "Kodak Printer-Dock-Plus-S3"
+msgstr ""
+
+msgid "Kyocera CS-1815"
+msgstr ""
+
+msgid "Kyocera F-1010"
+msgstr ""
+
+msgid "Kyocera FS-1000"
+msgstr ""
+
+msgid "Kyocera FS-1000+"
+msgstr ""
+
+msgid "Kyocera FS-1010"
+msgstr ""
+
+msgid "Kyocera FS-1018MFP"
+msgstr ""
+
+msgid "Kyocera FS-1020D"
+msgstr ""
+
+msgid "Kyocera FS-1030D"
+msgstr ""
+
+msgid "Kyocera FS-1050"
+msgstr ""
+
+msgid "Kyocera FS-1118MFP"
+msgstr ""
+
+msgid "Kyocera FS-1200"
+msgstr ""
+
+msgid "Kyocera FS-1600"
+msgstr ""
+
+msgid "Kyocera FS-1600+"
+msgstr ""
+
+msgid "Kyocera FS-1700"
+msgstr ""
+
+msgid "Kyocera FS-1700+"
+msgstr ""
+
+msgid "Kyocera FS-1714M"
+msgstr ""
+
+msgid "Kyocera FS-1750"
+msgstr ""
+
+msgid "Kyocera FS-1800"
+msgstr ""
+
+msgid "Kyocera FS-1800+"
+msgstr ""
+
+msgid "Kyocera FS-1900"
+msgstr ""
+
+msgid "Kyocera FS-1920"
+msgstr ""
+
+msgid "Kyocera FS-2000D"
+msgstr ""
+
+msgid "Kyocera FS-3500"
+msgstr ""
+
+msgid "Kyocera FS-3600"
+msgstr ""
+
+msgid "Kyocera FS-3600+"
+msgstr ""
+
+msgid "Kyocera FS-3700"
+msgstr ""
+
+msgid "Kyocera FS-3700+"
+msgstr ""
+
+msgid "Kyocera FS-3718M"
+msgstr ""
+
+msgid "Kyocera FS-3750"
+msgstr ""
+
+msgid "Kyocera FS-3800"
+msgstr ""
+
+msgid "Kyocera FS-3820N"
+msgstr ""
+
+msgid "Kyocera FS-3830N"
+msgstr ""
+
+msgid "Kyocera FS-3900DN"
+msgstr ""
+
+msgid "Kyocera FS-4000DN"
+msgstr ""
+
+msgid "Kyocera FS-5800C"
+msgstr ""
+
+msgid "Kyocera FS-5900C"
+msgstr ""
+
+msgid "Kyocera FS-600"
+msgstr ""
+
+msgid "Kyocera FS-600 - KPDL-2"
+msgstr ""
+
+msgid "Kyocera FS-6020"
+msgstr ""
+
+msgid "Kyocera FS-6026"
+msgstr ""
+
+msgid "Kyocera FS-6300"
+msgstr ""
+
+msgid "Kyocera FS-6500"
+msgstr ""
+
+msgid "Kyocera FS-6500+"
+msgstr ""
+
+msgid "Kyocera FS-6700"
+msgstr ""
+
+msgid "Kyocera FS-6750"
+msgstr ""
+
+msgid "Kyocera FS-680"
+msgstr ""
+
+msgid "Kyocera FS-6900"
+msgstr ""
+
+msgid "Kyocera FS-6950DN"
+msgstr ""
+
+msgid "Kyocera FS-7000"
+msgstr ""
+
+msgid "Kyocera FS-7000+"
+msgstr ""
+
+msgid "Kyocera FS-7028M"
+msgstr ""
+
+msgid "Kyocera FS-800"
+msgstr ""
+
+msgid "Kyocera FS-8000C"
+msgstr ""
+
+msgid "Kyocera FS-9000"
+msgstr ""
+
+msgid "Kyocera FS-9100DN"
+msgstr ""
+
+msgid "Kyocera FS-9130DN"
+msgstr ""
+
+msgid "Kyocera FS-920"
+msgstr ""
+
+msgid "Kyocera FS-9500DN"
+msgstr ""
+
+msgid "Kyocera FS-9530DN"
+msgstr ""
+
+msgid "Kyocera KM-1510"
+msgstr ""
+
+msgid "Kyocera KM-1530"
+msgstr ""
+
+msgid "Kyocera KM-1810"
+msgstr ""
+
+msgid "Kyocera KM-1815"
+msgstr ""
+
+msgid "Kyocera KM-1820"
+msgstr ""
+
+msgid "Kyocera KM-2030"
+msgstr ""
+
+msgid "Kyocera KM-2530"
+msgstr ""
+
+msgid "Kyocera KM-3050"
+msgstr ""
+
+msgid "Kyocera KM-3530"
+msgstr ""
+
+msgid "Kyocera KM-4050"
+msgstr ""
+
+msgid "Kyocera KM-4230"
+msgstr ""
+
+msgid "Kyocera KM-4230/5230"
+msgstr ""
+
+msgid "Kyocera KM-4530"
+msgstr ""
+
+msgid "Kyocera KM-5050"
+msgstr ""
+
+msgid "Kyocera KM-5230"
+msgstr ""
+
+msgid "Kyocera KM-5530"
+msgstr ""
+
+msgid "Kyocera KM-6030"
+msgstr ""
+
+msgid "Kyocera KM-6230"
+msgstr ""
+
+msgid "Kyocera KM-8030"
+msgstr ""
+
+msgid "L"
+msgstr ""
+
+msgid "LUT dump file"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Lanier 5622"
+msgstr ""
+
+msgid "Lanier 5627"
+msgstr ""
+
+msgid "Lanier 5632"
+msgstr ""
+
+msgid "Lanier 5635"
+msgstr ""
+
+msgid "Lanier 5645"
+msgstr ""
+
+msgid "Lanier LD0105"
+msgstr ""
+
+msgid "Lanier LD015"
+msgstr ""
+
+msgid "Lanier LD035"
+msgstr ""
+
+msgid "Lanier LD045"
+msgstr ""
+
+msgid "Lanier LD060"
+msgstr ""
+
+msgid "Lanier LD075"
+msgstr ""
+
+msgid "Lanier LD090"
+msgstr ""
+
+msgid "Lanier LD115"
+msgstr ""
+
+msgid "Lanier LD116"
+msgstr ""
+
+msgid "Lanier LD118"
+msgstr ""
+
+msgid "Lanier LD118d"
+msgstr ""
+
+msgid "Lanier LD120"
+msgstr ""
+
+msgid "Lanier LD120d"
+msgstr ""
+
+msgid "Lanier LD122"
+msgstr ""
+
+msgid "Lanier LD127"
+msgstr ""
+
+msgid "Lanier LD132"
+msgstr ""
+
+msgid "Lanier LD135"
+msgstr ""
+
+msgid "Lanier LD145"
+msgstr ""
+
+msgid "Lanier LD151"
+msgstr ""
+
+msgid "Lanier LD160"
+msgstr ""
+
+msgid "Lanier LD175"
+msgstr ""
+
+msgid "Lanier LD225"
+msgstr ""
+
+msgid "Lanier LD230"
+msgstr ""
+
+msgid "Lanier LD235"
+msgstr ""
+
+msgid "Lanier LD245"
+msgstr ""
+
+msgid "Lanier MP 1100/LD1100"
+msgstr ""
+
+msgid "Lanier MP 1350/LD1135"
+msgstr ""
+
+msgid "Lanier MP 1600/LD316"
+msgstr ""
+
+msgid "Lanier MP 161/LD016"
+msgstr ""
+
+msgid "Lanier MP 2000/LD320d"
+msgstr ""
+
+msgid "Lanier MP 2510/LD325"
+msgstr ""
+
+msgid "Lanier MP 2550/LD425"
+msgstr ""
+
+msgid "Lanier MP 2550B/LD425B"
+msgstr ""
+
+msgid "Lanier MP 3010/LD330"
+msgstr ""
+
+msgid "Lanier MP 3350/LD433"
+msgstr ""
+
+msgid "Lanier MP 3350B/LD433B"
+msgstr ""
+
+msgid "Lanier MP 3500/LD335"
+msgstr ""
+
+msgid "Lanier MP 4000/LD040"
+msgstr ""
+
+msgid "Lanier MP 4000B/LD040B"
+msgstr ""
+
+msgid "Lanier MP 4500/LD345"
+msgstr ""
+
+msgid "Lanier MP 5000/LD050"
+msgstr ""
+
+msgid "Lanier MP 5000B/LD050B"
+msgstr ""
+
+msgid "Lanier MP 5500/LD255"
+msgstr ""
+
+msgid "Lanier MP 6500/LD265"
+msgstr ""
+
+msgid "Lanier MP 7500/LD275"
+msgstr ""
+
+msgid "Lanier MP 9000/LD190"
+msgstr ""
+
+msgid "Lanier MP2500/LD125"
+msgstr ""
+
+msgid "Left:"
+msgstr ""
+
+msgid "Letter"
+msgstr ""
+
+msgid "Lexmark 4076"
+msgstr ""
+
+msgid "Lexmark Optra E"
+msgstr ""
+
+msgid "Lexmark Optra E+"
+msgstr ""
+
+msgid "Lexmark Optra E220"
+msgstr ""
+
+msgid "Lexmark Optra E321"
+msgstr ""
+
+msgid "Lexmark Optra E323"
+msgstr ""
+
+msgid "Lexmark Valuewriter 300"
+msgstr ""
+
+msgid "Lexmark X73"
+msgstr ""
+
+msgid "Lexmark Z42"
+msgstr ""
+
+msgid "Lexmark Z43"
+msgstr ""
+
+msgid "Lexmark Z52"
+msgstr ""
+
+msgid "Lexmark Z53"
+msgstr ""
+
+msgid "Light Cyan"
+msgstr ""
+
+msgid "Light Cyan Density Scale"
+msgstr ""
+
+msgid "Light Cyan Transition"
+msgstr ""
+
+msgid "Light Cyan Value"
+msgstr ""
+
+msgid "Light Gray Transition"
+msgstr ""
+
+msgid "Light Gray Value"
+msgstr ""
+
+msgid "Light Magenta"
+msgstr ""
+
+msgid "Light Magenta Density Scale"
+msgstr ""
+
+msgid "Light Magenta Transition"
+msgstr ""
+
+msgid "Light Magenta Value"
+msgstr ""
+
+msgid "Light Yellow Transition"
+msgstr ""
+
+msgid "Limit the total ink printed to the page"
+msgstr ""
+
+msgid "Line Art"
+msgstr ""
+
+msgid "Linear Contrast Adjustment"
+msgstr ""
+
+msgid "Long Edge (Standard)"
+msgstr ""
+
+msgid "Luminosity Map"
+msgstr ""
+
+msgid "Luminosity adjustment curve"
+msgstr ""
+
+msgid "Magenta"
+msgstr ""
+
+msgid "Magenta Balance"
+msgstr ""
+
+msgid "Magenta Curve"
+msgstr ""
+
+msgid "Magenta Density"
+msgstr ""
+
+msgid "Magenta Map"
+msgstr ""
+
+msgid "Magenta curve"
+msgstr ""
+
+msgid "Main Input"
+msgstr ""
+
+msgid "Main Tray"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Manual - Movable Guides"
+msgstr ""
+
+msgid "Manual Control"
+msgstr ""
+
+msgid "Manual with Pause"
+msgstr ""
+
+msgid "Manual without Pause"
+msgstr ""
+
+msgid "Matte"
+msgstr ""
+
+msgid "Matte +1"
+msgstr ""
+
+msgid "Matte +2"
+msgstr ""
+
+msgid "Matte +3"
+msgstr ""
+
+msgid "Matte +4"
+msgstr ""
+
+msgid "Matte +5"
+msgstr ""
+
+msgid "Matte -1"
+msgstr ""
+
+msgid "Matte -2"
+msgstr ""
+
+msgid "Matte -3"
+msgstr ""
+
+msgid "Matte -4"
+msgstr ""
+
+msgid "Matte -5"
+msgstr ""
+
+msgid "Matte Paper"
+msgstr ""
+
+msgid "Media Size"
+msgstr ""
+
+msgid "Media Source"
+msgstr ""
+
+msgid "Media Type"
+msgstr ""
+
+msgid "Medium Gray Transition"
+msgstr ""
+
+msgid "Mid Gray Transition"
+msgstr ""
+
+msgid "Minolta PagePro 1100"
+msgstr ""
+
+msgid "Minolta PagePro 6"
+msgstr ""
+
+msgid "Minolta PagePro 6e"
+msgstr ""
+
+msgid "Minolta PagePro 6ex"
+msgstr ""
+
+msgid "Minolta PagePro 8"
+msgstr ""
+
+msgid "Minolta PagePro 8L"
+msgstr ""
+
+msgid "Miscellaneous (unclassified)"
+msgstr ""
+
+msgid "Mitsubishi CP-3020D"
+msgstr ""
+
+msgid "Mitsubishi CP-3020DA"
+msgstr ""
+
+msgid "Mitsubishi CP-3020DAE"
+msgstr ""
+
+msgid "Mitsubishi CP-3020DE"
+msgstr ""
+
+msgid "Mitsubishi CP-3020DU"
+msgstr ""
+
+msgid "Mitsubishi CP-9550D"
+msgstr ""
+
+msgid "Mitsubishi CP-9550DW"
+msgstr ""
+
+msgid "Mitsubishi CP-9810D"
+msgstr ""
+
+msgid "Mitsubishi CP-9810DW"
+msgstr ""
+
+msgid "Mitsubishi CP-D707DW"
+msgstr ""
+
+msgid "Mitsubishi CP-D70DW"
+msgstr ""
+
+msgid "Mixed Text and Graphics"
+msgstr ""
+
+msgid "Model Name"
+msgstr ""
+
+msgid "NEC SuperScript 1260"
+msgstr ""
+
+msgid "NEC SuperScript 1400"
+msgstr ""
+
+msgid "NEC SuperScript 1800"
+msgstr ""
+
+msgid "NEC SuperScript 660i"
+msgstr ""
+
+msgid "NEC SuperScript 860"
+msgstr ""
+
+msgid "NEC SuperScript 870"
+msgstr ""
+
+msgid "NRG 10515/10518/10512"
+msgstr ""
+
+msgid "NRG 2205/2238/2212"
+msgstr ""
+
+msgid "NRG 2705/2738/2712"
+msgstr ""
+
+msgid "NRG 3205/3238/3212"
+msgstr ""
+
+msgid "NRG 3525/3508/3502"
+msgstr ""
+
+msgid "NRG 3545/3518/3532"
+msgstr ""
+
+msgid "NRG 4525/4508/4502"
+msgstr ""
+
+msgid "NRG 4545/4518/4532"
+msgstr ""
+
+msgid "NRG 6002/6005/6008"
+msgstr ""
+
+msgid "NRG 7502/7505/7508"
+msgstr ""
+
+msgid "NRG 9005/9008/9002"
+msgstr ""
+
+msgid "NRG DSm415"
+msgstr ""
+
+msgid "NRG DSm615"
+msgstr ""
+
+msgid "NRG DSm616"
+msgstr ""
+
+msgid "NRG DSm618"
+msgstr ""
+
+msgid "NRG DSm618d"
+msgstr ""
+
+msgid "NRG DSm620"
+msgstr ""
+
+msgid "NRG DSm620d"
+msgstr ""
+
+msgid "NRG DSm622"
+msgstr ""
+
+msgid "NRG DSm627"
+msgstr ""
+
+msgid "NRG DSm632"
+msgstr ""
+
+msgid "NRG DSm635"
+msgstr ""
+
+msgid "NRG DSm645"
+msgstr ""
+
+msgid "NRG DSm651"
+msgstr ""
+
+msgid "NRG DSm660"
+msgstr ""
+
+msgid "NRG DSm675"
+msgstr ""
+
+msgid "NRG DSm725"
+msgstr ""
+
+msgid "NRG DSm730"
+msgstr ""
+
+msgid "NRG DSm735"
+msgstr ""
+
+msgid "NRG DSm745"
+msgstr ""
+
+msgid "NRG MP 1100"
+msgstr ""
+
+msgid "NRG MP 1350"
+msgstr ""
+
+msgid "NRG MP 1600"
+msgstr ""
+
+msgid "NRG MP 161"
+msgstr ""
+
+msgid "NRG MP 2000"
+msgstr ""
+
+msgid "NRG MP 2500"
+msgstr ""
+
+msgid "NRG MP 2510"
+msgstr ""
+
+msgid "NRG MP 2550"
+msgstr ""
+
+msgid "NRG MP 2550B"
+msgstr ""
+
+msgid "NRG MP 3010"
+msgstr ""
+
+msgid "NRG MP 3350"
+msgstr ""
+
+msgid "NRG MP 3350B"
+msgstr ""
+
+msgid "NRG MP 3500"
+msgstr ""
+
+msgid "NRG MP 4000"
+msgstr ""
+
+msgid "NRG MP 4000B"
+msgstr ""
+
+msgid "NRG MP 4500"
+msgstr ""
+
+msgid "NRG MP 5000"
+msgstr ""
+
+msgid "NRG MP 5000B"
+msgstr ""
+
+msgid "NRG MP 5500"
+msgstr ""
+
+msgid "NRG MP 6500"
+msgstr ""
+
+msgid "NRG MP 7500"
+msgstr ""
+
+msgid "NRG MP 9000"
+msgstr ""
+
+msgid "New Printer..."
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "None; please provide a PPD file"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Number of Copies"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Oki B4350"
+msgstr ""
+
+msgid "Oki OL400"
+msgstr ""
+
+msgid "Oki OL400e"
+msgstr ""
+
+msgid "Oki OL400ex"
+msgstr ""
+
+msgid "Oki OL410e"
+msgstr ""
+
+msgid "Oki OL600e"
+msgstr ""
+
+msgid "Oki OL610e/S"
+msgstr ""
+
+msgid "Oki OL800"
+msgstr ""
+
+msgid "Oki OL810ex"
+msgstr ""
+
+msgid "Oki Okipage 10e"
+msgstr ""
+
+msgid "Oki Okipage 10ex"
+msgstr ""
+
+msgid "Oki Okipage 14ex"
+msgstr ""
+
+msgid "Oki Okipage 6e"
+msgstr ""
+
+msgid "Oki Okipage 6ex"
+msgstr ""
+
+msgid "Oki Okipage 8p"
+msgstr ""
+
+msgid "Oki Super 6e"
+msgstr ""
+
+msgid "Olivetti JP350S"
+msgstr ""
+
+msgid "Olivetti PG 306"
+msgstr ""
+
+msgid "Olympus P-10"
+msgstr ""
+
+msgid "Olympus P-11"
+msgstr ""
+
+msgid "Olympus P-200"
+msgstr ""
+
+msgid "Olympus P-300"
+msgstr ""
+
+msgid "Olympus P-300E"
+msgstr ""
+
+msgid "Olympus P-300U"
+msgstr ""
+
+msgid "Olympus P-330E"
+msgstr ""
+
+msgid "Olympus P-330NE"
+msgstr ""
+
+msgid "Olympus P-400"
+msgstr ""
+
+msgid "Olympus P-440"
+msgstr ""
+
+msgid "Olympus P-S100"
+msgstr ""
+
+msgid "Orange"
+msgstr ""
+
+msgid "Orange Density"
+msgstr ""
+
+msgid "Orange Map"
+msgstr ""
+
+msgid "Ordered"
+msgstr ""
+
+msgid "Ordered New"
+msgstr ""
+
+msgid "Orientation:"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "Output Control"
+msgstr ""
+
+msgid "Output Image Type"
+msgstr ""
+
+msgid "Output Level Adjustment"
+msgstr ""
+
+msgid "Output Order"
+msgstr ""
+
+msgid "Output Type:"
+msgstr ""
+
+msgid "Output image type"
+msgstr ""
+
+msgid "PCPI 1030"
+msgstr ""
+
+msgid "PPD File"
+msgstr ""
+
+msgid "PPD File Model Name"
+msgstr ""
+
+msgid "PPD File:"
+msgstr ""
+
+msgid "PPDFile"
+msgstr ""
+
+msgid "PPI"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Page Number"
+msgstr ""
+
+msgid "Page Size"
+msgstr ""
+
+msgid "Page number"
+msgstr ""
+
+msgid "Page size is not valid\n"
+msgstr ""
+
+msgid "Panasonic KX-P4410"
+msgstr ""
+
+msgid "Panasonic KX-P4450"
+msgstr ""
+
+msgid "Panasonic KX-P6150"
+msgstr ""
+
+msgid "Panasonic KX-P6500"
+msgstr ""
+
+msgid "Paper Size"
+msgstr ""
+
+msgid "Part number"
+msgstr ""
+
+msgid "Pass #%d"
+msgstr ""
+
+msgid "Percent"
+msgstr ""
+
+msgid "Percent remaining"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Photo Paper"
+msgstr ""
+
+msgid "Photo Quality Glossy Paper"
+msgstr ""
+
+msgid "Photo Quality Inkjet Paper"
+msgstr ""
+
+msgid "Photo Tray"
+msgstr ""
+
+msgid "Photograph"
+msgstr ""
+
+msgid "Plain"
+msgstr ""
+
+msgid "Plain Paper"
+msgstr ""
+
+msgid ""
+"Please report the above information to gimp-print-"
+"devel@lists.sourceforge.net"
+msgstr ""
+
+msgid "Portrait"
+msgstr ""
+
+msgid "PostScript Level 1"
+msgstr ""
+
+msgid "PostScript Level 2"
+msgstr ""
+
+msgid "Postcard"
+msgstr ""
+
+msgid "Pre-Dithered"
+msgstr ""
+
+msgid "Predithered Input"
+msgstr ""
+
+msgid "Premium"
+msgstr ""
+
+msgid "Premium Glossy Photo Paper"
+msgstr ""
+
+msgid "Press enter to continue > "
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print Color Adjust"
+msgstr ""
+
+msgid "Print Quality"
+msgstr ""
+
+msgid "Print To File"
+msgstr ""
+
+msgid "Print To Hub"
+msgstr ""
+
+msgid ""
+"Print and\n"
+"Save Settings"
+msgstr ""
+
+msgid "Print in shades of gray using black ink"
+msgstr ""
+
+msgid "Print only outside of the hub of the CD, or all the way to the hole"
+msgstr ""
+
+msgid "Print options not verified; cannot print.\n"
+msgstr ""
+
+msgid "Print to CD"
+msgstr ""
+
+msgid "Print to a file"
+msgstr ""
+
+msgid "Print without borders"
+msgstr ""
+
+msgid "Printer"
+msgstr ""
+
+msgid "Printer Default"
+msgstr ""
+
+msgid "Printer Features"
+msgstr ""
+
+msgid "Printer Make:"
+msgstr ""
+
+msgid "Printer Model:"
+msgstr ""
+
+msgid "Printer Name:"
+msgstr ""
+
+msgid "Printer Name: %s\n"
+msgstr ""
+
+msgid "Printer Queue:"
+msgstr ""
+
+msgid "Printer Settings"
+msgstr ""
+
+msgid "Printing Direction"
+msgstr ""
+
+msgid "Printing Mode"
+msgstr ""
+
+msgid "Printing Output Mode"
+msgstr ""
+
+msgid "Printing direction (unidirectional is higher quality, but slower)"
+msgstr ""
+
+msgid "Printing..."
+msgstr ""
+
+msgid "Quick-dry Photo"
+msgstr ""
+
+msgid "Quick-dry Transparency"
+msgstr ""
+
+msgid "RA0"
+msgstr ""
+
+msgid "RA1"
+msgstr ""
+
+msgid "RA2"
+msgstr ""
+
+msgid "RA3"
+msgstr ""
+
+msgid "RA4"
+msgstr ""
+
+msgid "RAW DATA 16 bit"
+msgstr ""
+
+msgid "RAW DATA 8 bit"
+msgstr ""
+
+msgid "RGB"
+msgstr ""
+
+msgid "RGB Color"
+msgstr ""
+
+msgid "Raven LP-410"
+msgstr ""
+
+msgid "Raw"
+msgstr ""
+
+msgid "Raw Channels"
+msgstr ""
+
+msgid "Read from printer timed out\n"
+msgstr ""
+
+msgid "Rear Tray"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Red Curve"
+msgstr ""
+
+msgid "Red Density"
+msgstr ""
+
+msgid "Red Map"
+msgstr ""
+
+msgid "Red curve"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Resolution and quality of the print"
+msgstr ""
+
+msgid "Resolution of the print"
+msgstr ""
+
+msgid "Ricoh Aficio 1022"
+msgstr ""
+
+msgid "Ricoh Aficio 1027"
+msgstr ""
+
+msgid "Ricoh Aficio 1032"
+msgstr ""
+
+msgid "Ricoh Aficio 1035"
+msgstr ""
+
+msgid "Ricoh Aficio 1045"
+msgstr ""
+
+msgid "Ricoh Aficio 1060"
+msgstr ""
+
+msgid "Ricoh Aficio 1075"
+msgstr ""
+
+msgid "Ricoh Aficio 1515"
+msgstr ""
+
+msgid "Ricoh Aficio 2015"
+msgstr ""
+
+msgid "Ricoh Aficio 2016"
+msgstr ""
+
+msgid "Ricoh Aficio 2018"
+msgstr ""
+
+msgid "Ricoh Aficio 2018D"
+msgstr ""
+
+msgid "Ricoh Aficio 2020"
+msgstr ""
+
+msgid "Ricoh Aficio 2020D"
+msgstr ""
+
+msgid "Ricoh Aficio 2022"
+msgstr ""
+
+msgid "Ricoh Aficio 2027"
+msgstr ""
+
+msgid "Ricoh Aficio 2032"
+msgstr ""
+
+msgid "Ricoh Aficio 2035"
+msgstr ""
+
+msgid "Ricoh Aficio 2035e"
+msgstr ""
+
+msgid "Ricoh Aficio 2045"
+msgstr ""
+
+msgid "Ricoh Aficio 2045e"
+msgstr ""
+
+msgid "Ricoh Aficio 2051"
+msgstr ""
+
+msgid "Ricoh Aficio 2060"
+msgstr ""
+
+msgid "Ricoh Aficio 2075"
+msgstr ""
+
+msgid "Ricoh Aficio 2090"
+msgstr ""
+
+msgid "Ricoh Aficio 2105"
+msgstr ""
+
+msgid "Ricoh Aficio 220"
+msgstr ""
+
+msgid "Ricoh Aficio 3025"
+msgstr ""
+
+msgid "Ricoh Aficio 3030"
+msgstr ""
+
+msgid "Ricoh Aficio 3035"
+msgstr ""
+
+msgid "Ricoh Aficio 3045"
+msgstr ""
+
+msgid "Ricoh Aficio 401"
+msgstr ""
+
+msgid "Ricoh Aficio 700"
+msgstr ""
+
+msgid "Ricoh Aficio MP 1100"
+msgstr ""
+
+msgid "Ricoh Aficio MP 1350"
+msgstr ""
+
+msgid "Ricoh Aficio MP 1600"
+msgstr ""
+
+msgid "Ricoh Aficio MP 161"
+msgstr ""
+
+msgid "Ricoh Aficio MP 2000"
+msgstr ""
+
+msgid "Ricoh Aficio MP 2500"
+msgstr ""
+
+msgid "Ricoh Aficio MP 2510"
+msgstr ""
+
+msgid "Ricoh Aficio MP 2550"
+msgstr ""
+
+msgid "Ricoh Aficio MP 2550B"
+msgstr ""
+
+msgid "Ricoh Aficio MP 3010"
+msgstr ""
+
+msgid "Ricoh Aficio MP 3350"
+msgstr ""
+
+msgid "Ricoh Aficio MP 3350B"
+msgstr ""
+
+msgid "Ricoh Aficio MP 3500"
+msgstr ""
+
+msgid "Ricoh Aficio MP 4000"
+msgstr ""
+
+msgid "Ricoh Aficio MP 4000B"
+msgstr ""
+
+msgid "Ricoh Aficio MP 4500"
+msgstr ""
+
+msgid "Ricoh Aficio MP 5000"
+msgstr ""
+
+msgid "Ricoh Aficio MP 5000B"
+msgstr ""
+
+msgid "Ricoh Aficio MP 5500"
+msgstr ""
+
+msgid "Ricoh Aficio MP 6500"
+msgstr ""
+
+msgid "Ricoh Aficio MP 7500"
+msgstr ""
+
+msgid "Ricoh Aficio MP 9000"
+msgstr ""
+
+msgid "Right:"
+msgstr ""
+
+msgid "SRA0"
+msgstr ""
+
+msgid "SRA1"
+msgstr ""
+
+msgid "SRA2"
+msgstr ""
+
+msgid "SRA3"
+msgstr ""
+
+msgid "SRA4"
+msgstr ""
+
+msgid "Samsung ML-1250"
+msgstr ""
+
+msgid "Samsung ML-1450"
+msgstr ""
+
+msgid "Samsung ML-1450PS"
+msgstr ""
+
+msgid "Samsung ML-1650"
+msgstr ""
+
+msgid "Samsung ML-1651N"
+msgstr ""
+
+msgid "Samsung ML-1750"
+msgstr ""
+
+msgid "Samsung ML-2150"
+msgstr ""
+
+msgid "Samsung ML-2150PS"
+msgstr ""
+
+msgid "Samsung ML-2151N"
+msgstr ""
+
+msgid "Samsung ML-2151NPS"
+msgstr ""
+
+msgid "Samsung ML-2152W"
+msgstr ""
+
+msgid "Samsung ML-2152WPS"
+msgstr ""
+
+msgid "Samsung ML-2250"
+msgstr ""
+
+msgid "Samsung ML-2550"
+msgstr ""
+
+msgid "Samsung ML-2551N"
+msgstr ""
+
+msgid "Samsung ML-2552W"
+msgstr ""
+
+msgid "Samsung ML-4600"
+msgstr ""
+
+msgid "Samsung ML-5000a"
+msgstr ""
+
+msgid "Samsung ML-6000"
+msgstr ""
+
+msgid "Samsung ML-6100"
+msgstr ""
+
+msgid "Samsung ML-7000"
+msgstr ""
+
+msgid "Samsung ML-7000N"
+msgstr ""
+
+msgid "Samsung ML-7000P"
+msgstr ""
+
+msgid "Samsung ML-7050"
+msgstr ""
+
+msgid "Samsung ML-7300"
+msgstr ""
+
+msgid "Samsung ML-7300N"
+msgstr ""
+
+msgid "Samsung ML-85"
+msgstr ""
+
+msgid "Samsung QL-5100A"
+msgstr ""
+
+msgid "Samsung QL-6050"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Saturation Map"
+msgstr ""
+
+msgid "Saturation adjustment curve"
+msgstr ""
+
+msgid ""
+"Save\n"
+"Settings"
+msgstr ""
+
+msgid "Savin 2522"
+msgstr ""
+
+msgid "Savin 2527"
+msgstr ""
+
+msgid "Savin 2532"
+msgstr ""
+
+msgid "Savin 2535/2235"
+msgstr ""
+
+msgid "Savin 2545/2245"
+msgstr ""
+
+msgid "Savin 2560"
+msgstr ""
+
+msgid "Savin 2575"
+msgstr ""
+
+msgid "Savin 3515"
+msgstr ""
+
+msgid "Savin 40105"
+msgstr ""
+
+msgid "Savin 4015"
+msgstr ""
+
+msgid "Savin 4018"
+msgstr ""
+
+msgid "Savin 4018d"
+msgstr ""
+
+msgid "Savin 4022"
+msgstr ""
+
+msgid "Savin 4027"
+msgstr ""
+
+msgid "Savin 4035/4135g"
+msgstr ""
+
+msgid "Savin 4035e/4135eG"
+msgstr ""
+
+msgid "Savin 4045/4145g"
+msgstr ""
+
+msgid "Savin 4045e/4145eG"
+msgstr ""
+
+msgid "Savin 4051"
+msgstr ""
+
+msgid "Savin 4060"
+msgstr ""
+
+msgid "Savin 4075"
+msgstr ""
+
+msgid "Savin 4090"
+msgstr ""
+
+msgid "Savin 7025"
+msgstr ""
+
+msgid "Savin 8016"
+msgstr ""
+
+msgid "Savin 8020"
+msgstr ""
+
+msgid "Savin 8020d"
+msgstr ""
+
+msgid "Savin 8025"
+msgstr ""
+
+msgid "Savin 8025e"
+msgstr ""
+
+msgid "Savin 8030"
+msgstr ""
+
+msgid "Savin 8030e"
+msgstr ""
+
+msgid "Savin 8035/8035g"
+msgstr ""
+
+msgid "Savin 8035e"
+msgstr ""
+
+msgid "Savin 8045/8045g"
+msgstr ""
+
+msgid "Savin 8045e"
+msgstr ""
+
+msgid "Savin 8055"
+msgstr ""
+
+msgid "Savin 8065"
+msgstr ""
+
+msgid "Savin 8075"
+msgstr ""
+
+msgid "Savin 8090"
+msgstr ""
+
+msgid "Savin 8110"
+msgstr ""
+
+msgid "Savin 8135"
+msgstr ""
+
+msgid "Savin 816"
+msgstr ""
+
+msgid "Savin 9016"
+msgstr ""
+
+msgid "Savin 9021d"
+msgstr ""
+
+msgid "Savin 9025"
+msgstr ""
+
+msgid "Savin 9025b"
+msgstr ""
+
+msgid "Savin 9033"
+msgstr ""
+
+msgid "Savin 9033b"
+msgstr ""
+
+msgid "Savin 9040"
+msgstr ""
+
+msgid "Savin 9040b"
+msgstr ""
+
+msgid "Savin 9050"
+msgstr ""
+
+msgid "Savin 9050b"
+msgstr ""
+
+msgid "Seiko SpeedJET 200"
+msgstr ""
+
+msgid "Select File..."
+msgstr ""
+
+msgid "Select the desired output type"
+msgstr ""
+
+msgid "Select the make of your printer"
+msgstr ""
+
+msgid ""
+"Select the name of the printer (not the type, or model, of printer) that you"
+" wish to print to"
+msgstr ""
+
+msgid "Select the number of copies to print; a value between 1 and 100"
+msgstr ""
+
+msgid "Select your printer model"
+msgstr ""
+
+msgid "Set Printer Option Defaults"
+msgstr ""
+
+msgid "Set all printer options to their defaults"
+msgstr ""
+
+msgid "Set the base unit of measurement to centimetres"
+msgstr ""
+
+msgid "Set the base unit of measurement to inches"
+msgstr ""
+
+msgid "Set the base unit of measurement to millimetres"
+msgstr ""
+
+msgid "Set the base unit of measurement to picas (1/12\")"
+msgstr ""
+
+msgid "Set the base unit of measurement to points (1/72\")"
+msgstr ""
+
+msgid "Set the height of the print"
+msgstr ""
+
+msgid "Set the print size to the size of the image"
+msgstr ""
+
+msgid "Set the width of the print"
+msgstr ""
+
+msgid "Setup Printer"
+msgstr ""
+
+msgid "Setup Printer..."
+msgstr ""
+
+msgid "Sharp AR-161"
+msgstr ""
+
+msgid "Sharp AR-M257"
+msgstr ""
+
+msgid "Shinko CHC-S2145"
+msgstr ""
+
+msgid "Shinko CHC-S9045"
+msgstr ""
+
+msgid "Short Edge (Flip)"
+msgstr ""
+
+msgid "Short Edge(Flip)"
+msgstr ""
+
+msgid "Show All Paper Sizes"
+msgstr ""
+
+msgid "Shrink (print the whole page)"
+msgstr ""
+
+msgid "Shrink Page If Necessary to Fit Borders"
+msgstr ""
+
+msgid "SimpleGamma"
+msgstr ""
+
+msgid "Six Color Photo"
+msgstr ""
+
+msgid "Size Units:"
+msgstr ""
+
+msgid "Size of the paper being printed to"
+msgstr ""
+
+msgid "Sony DPP-EX5"
+msgstr ""
+
+msgid "Sony DPP-EX7"
+msgstr ""
+
+msgid "Sony IJP-V100"
+msgstr ""
+
+msgid "Sony UP-DP10"
+msgstr ""
+
+msgid "Sony UP-DR100"
+msgstr ""
+
+msgid "Sony UP-DR150"
+msgstr ""
+
+msgid "Sony UP-DR200"
+msgstr ""
+
+msgid "Source (input slot) of the media"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Standard Command"
+msgstr ""
+
+msgid "Star LS-04"
+msgstr ""
+
+msgid "Star LaserPrinter 8"
+msgstr ""
+
+msgid "Status: Busy\n"
+msgstr ""
+
+msgid "Status: Error\n"
+msgstr ""
+
+msgid "Status: Idle\n"
+msgstr ""
+
+msgid "Status: Paused\n"
+msgstr ""
+
+msgid "Status: Unknown (%d)\n"
+msgstr ""
+
+msgid "Status: Waiting\n"
+msgstr ""
+
+msgid "Super A0"
+msgstr ""
+
+msgid "Super A1 24x36"
+msgstr ""
+
+msgid "Super B0 JIS"
+msgstr ""
+
+msgid "Super Photo"
+msgstr ""
+
+msgid "Supports D4 Packet Mode"
+msgstr ""
+
+msgid "Supports Packet Mode"
+msgstr ""
+
+msgid "System V lp"
+msgstr ""
+
+msgid "Tally MT908"
+msgstr ""
+
+msgid "Tektronix Phaser 750DP"
+msgstr ""
+
+msgid "Tektronix Phaser 750DX"
+msgstr ""
+
+msgid "Tektronix Phaser 750N"
+msgstr ""
+
+msgid "Tektronix Phaser 750P"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Texture"
+msgstr ""
+
+msgid "Three Color Composite"
+msgstr ""
+
+msgid "Threshold"
+msgstr ""
+
+msgid "Top:"
+msgstr ""
+
+msgid "Traditional Gutenprint color conversion"
+msgstr ""
+
+msgid "Transparencies"
+msgstr ""
+
+msgid "Transparency"
+msgstr ""
+
+msgid "Tray"
+msgstr ""
+
+msgid "Tray 1"
+msgstr ""
+
+msgid "Tray 1 - Movable Guides"
+msgstr ""
+
+msgid "Tray 2"
+msgstr ""
+
+msgid "Tray 2 - Movable Guides"
+msgstr ""
+
+msgid "Tray 3"
+msgstr ""
+
+msgid "Tray 3 - Movable Guides"
+msgstr ""
+
+msgid "Tray 4"
+msgstr ""
+
+msgid "Tray 4 - Movable Guides"
+msgstr ""
+
+msgid "Type `%s --help' for more information.\n"
+msgstr ""
+
+msgid "Type `%s -h' for more information.\n"
+msgstr ""
+
+msgid "Type of image being printed"
+msgstr ""
+
+msgid "Type of ink in the printer"
+msgstr ""
+
+msgid "Type of inkset in the printer"
+msgstr ""
+
+msgid "Type of media (plain paper, photo paper, etc.)"
+msgstr ""
+
+msgid "Ultra Photo"
+msgstr ""
+
+msgid "Unable to send command to printer\n"
+msgstr ""
+
+msgid "Uncorrected"
+msgstr ""
+
+msgid "UniTone"
+msgstr ""
+
+msgid "Unidirectional"
+msgstr ""
+
+msgid "Units:"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown option %c\n"
+msgstr ""
+
+msgid "Unknown printer %s!\n"
+msgstr ""
+
+msgid "Unrecognized command.\n"
+msgstr ""
+
+msgid "Usage: %s [OPTIONS] command\n"
+msgstr ""
+
+msgid ""
+"Use Original\n"
+"Image Size"
+msgstr ""
+
+msgid "Use custom print command"
+msgstr ""
+
+msgid "Use standard print command"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value must be set for %s\n"
+msgstr ""
+
+msgid "Variable adjustment for the outer diameter of CD"
+msgstr ""
+
+msgid "Variable adjustment to the inner hub of the CD"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Very Fast"
+msgstr ""
+
+msgid "View Output Channels:"
+msgstr ""
+
+msgid "Vivid Light Magenta"
+msgstr ""
+
+msgid "Vivid Magenta"
+msgstr ""
+
+msgid "Warning: %s Ink Low\n"
+msgstr ""
+
+msgid "White Curve"
+msgstr ""
+
+msgid "White curve"
+msgstr ""
+
+msgid "Whitescale"
+msgstr ""
+
+msgid "Wide Postcard"
+msgstr ""
+
+msgid "Width must be greater than zero\n"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "Xerox Able 1406"
+msgstr ""
+
+msgid "Xerox DocuPrint 4508"
+msgstr ""
+
+msgid "Xerox DocuPrint C20"
+msgstr ""
+
+msgid "Xerox DocuPrint N4512"
+msgstr ""
+
+msgid "Xerox DocuPrint N4512PS"
+msgstr ""
+
+msgid "Xerox DocuPrint P12"
+msgstr ""
+
+msgid "Xerox DocuPrint P1202"
+msgstr ""
+
+msgid "Xerox DocuPrint P8e"
+msgstr ""
+
+msgid "Xerox Document Centre 400"
+msgstr ""
+
+msgid "Xerox Phaser 2135"
+msgstr ""
+
+msgid "Xerox Phaser 4400B"
+msgstr ""
+
+msgid "Xerox Phaser 4400DT"
+msgstr ""
+
+msgid "Xerox Phaser 4400DX"
+msgstr ""
+
+msgid "Xerox Phaser 4400N"
+msgstr ""
+
+msgid "Xerox Phaser 4500B"
+msgstr ""
+
+msgid "Xerox Phaser 4500DT"
+msgstr ""
+
+msgid "Xerox Phaser 4500DX"
+msgstr ""
+
+msgid "Xerox Phaser 4500N"
+msgstr ""
+
+msgid "Xerox Phaser 4510B"
+msgstr ""
+
+msgid "Xerox Phaser 4510DT"
+msgstr ""
+
+msgid "Xerox Phaser 4510DX"
+msgstr ""
+
+msgid "Xerox Phaser 4510N"
+msgstr ""
+
+msgid "Xerox Phaser 5500B"
+msgstr ""
+
+msgid "Xerox Phaser 5500DN"
+msgstr ""
+
+msgid "Xerox Phaser 5500DT"
+msgstr ""
+
+msgid "Xerox Phaser 5500DX"
+msgstr ""
+
+msgid "Xerox Phaser 5500N"
+msgstr ""
+
+msgid "Xerox Phaser 6130N"
+msgstr ""
+
+msgid "Xerox Phaser 6180DN"
+msgstr ""
+
+msgid "Xerox Phaser 6180MFP-D"
+msgstr ""
+
+msgid "Xerox Phaser 6200B"
+msgstr ""
+
+msgid "Xerox Phaser 6200DP"
+msgstr ""
+
+msgid "Xerox Phaser 6200DX"
+msgstr ""
+
+msgid "Xerox Phaser 6200N"
+msgstr ""
+
+msgid "Xerox Phaser 6250B"
+msgstr ""
+
+msgid "Xerox Phaser 6250DP"
+msgstr ""
+
+msgid "Xerox Phaser 6250DT"
+msgstr ""
+
+msgid "Xerox Phaser 6250DX"
+msgstr ""
+
+msgid "Xerox Phaser 6250N"
+msgstr ""
+
+msgid "Xerox Phaser 6300DN"
+msgstr ""
+
+msgid "Xerox Phaser 6300N"
+msgstr ""
+
+msgid "Xerox Phaser 6350DP"
+msgstr ""
+
+msgid "Xerox Phaser 6350DT"
+msgstr ""
+
+msgid "Xerox Phaser 6350DX"
+msgstr ""
+
+msgid "Xerox Phaser 6360DN"
+msgstr ""
+
+msgid "Xerox Phaser 6360DX"
+msgstr ""
+
+msgid "Xerox Phaser 7300B"
+msgstr ""
+
+msgid "Xerox Phaser 7300DN"
+msgstr ""
+
+msgid "Xerox Phaser 7300DT"
+msgstr ""
+
+msgid "Xerox Phaser 7300DX"
+msgstr ""
+
+msgid "Xerox Phaser 7300N"
+msgstr ""
+
+msgid "Xerox Phaser 7400DN"
+msgstr ""
+
+msgid "Xerox Phaser 7400DT"
+msgstr ""
+
+msgid "Xerox Phaser 7400DX"
+msgstr ""
+
+msgid "Xerox Phaser 7400DXF"
+msgstr ""
+
+msgid "Xerox Phaser 7400N"
+msgstr ""
+
+msgid "Xerox Phaser 7700DN"
+msgstr ""
+
+msgid "Xerox Phaser 7700DX"
+msgstr ""
+
+msgid "Xerox Phaser 7700GX"
+msgstr ""
+
+msgid "Xerox Phaser 7750B"
+msgstr ""
+
+msgid "Xerox Phaser 7750DN"
+msgstr ""
+
+msgid "Xerox Phaser 7750DXF"
+msgstr ""
+
+msgid "Xerox Phaser 7750GX"
+msgstr ""
+
+msgid "Xerox Phaser 7760DN"
+msgstr ""
+
+msgid "Xerox Phaser 7760DX"
+msgstr ""
+
+msgid "Xerox Phaser 7760GX"
+msgstr ""
+
+msgid "Xerox Phaser 8400B"
+msgstr ""
+
+msgid "Xerox Phaser 8400BD"
+msgstr ""
+
+msgid "Xerox Phaser 8400DP"
+msgstr ""
+
+msgid "Xerox Phaser 8400DX"
+msgstr ""
+
+msgid "Xerox Phaser 8400N"
+msgstr ""
+
+msgid "Xerox Phaser 8500DN"
+msgstr ""
+
+msgid "Xerox Phaser 8500N"
+msgstr ""
+
+msgid "Xerox Phaser 8550DP"
+msgstr ""
+
+msgid "Xerox Phaser 8550DT"
+msgstr ""
+
+msgid "Xerox Phaser 8550DX"
+msgstr ""
+
+msgid "Xerox Phaser 8560DN"
+msgstr ""
+
+msgid "Xerox WorkCentre 7345"
+msgstr ""
+
+msgid "Xerox WorkCentre M118"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Yellow Balance"
+msgstr ""
+
+msgid "Yellow Curve"
+msgstr ""
+
+msgid "Yellow Density"
+msgstr ""
+
+msgid "Yellow Map"
+msgstr ""
+
+msgid "Yellow curve"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "_Gamma value"
+msgstr ""
+
+msgid "_Print with Gutenprint..."
+msgstr ""
+
+msgid "`%s' is not a valid %s\n"
+msgstr ""
+
+msgid "cm"
+msgstr ""
+
+msgid "failed!\n"
+msgstr ""
+
+msgid "ink levels"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "succeeded!\n"
+msgstr ""
+
+msgid "succeeded.\n"
+msgstr ""
+
+msgid "test print"
+msgstr ""

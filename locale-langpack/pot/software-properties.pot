@@ -1,0 +1,721 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager HEAD\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-02 06:20+0000\n"
+"Last-Translator: xcffl <xcffl@outlook.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:47+0000\n"
+
+msgid " "
+msgstr ""
+
+msgid "    "
+msgstr ""
+
+msgid " More info: %s"
+msgstr ""
+
+msgid "%(count)d proprietary driver in use."
+msgid_plural "%(count)d proprietary drivers in use."
+msgstr[0] ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "%s Software"
+msgstr ""
+
+msgid "'%s' distribution component disabled for all sources."
+msgstr ""
+
+msgid "'%s' distribution component enabled for all sources."
+msgstr ""
+
+msgid "'%s' distribution component is already disabled for all sources."
+msgstr ""
+
+msgid "'%s' distribution component is already enabled for all sources."
+msgstr ""
+
+msgid "(Source Code)"
+msgstr ""
+
+msgid "({} day ago)"
+msgid_plural "({} days ago)"
+msgstr[0] ""
+
+msgid "({} hour ago)"
+msgid_plural "({} hours ago)"
+msgstr[0] ""
+
+msgid "({} minute ago)"
+msgid_plural "({} minutes ago)"
+msgstr[0] ""
+
+msgid ""
+"<b><big>Testing download servers</big></b>\n"
+"\n"
+"A series of tests will be performed to find the best mirror for your location."
+msgstr ""
+
+msgid ""
+"<b><big>The information about available software is out-of-date</big></b>\n"
+"\n"
+"To install software and updates from newly added or changed sources, you have to reload the information about available software.\n"
+"\n"
+"You need a working internet connection to continue."
+msgstr ""
+
+msgid "<b>Comment:</b>"
+msgstr ""
+
+msgid "<b>Components:</b>"
+msgstr ""
+
+msgid "<b>Distribution:</b>"
+msgstr ""
+
+msgid "<b>Downloadable from the Internet</b>"
+msgstr ""
+
+msgid "<b>Installable from CD-ROM/DVD</b>"
+msgstr ""
+
+msgid "<b>Trusted software providers</b>"
+msgstr ""
+
+msgid "<b>Type:</b>"
+msgstr ""
+
+msgid "<b>URI:</b>"
+msgstr ""
+
+msgid ""
+"<big><b>Enter the complete APT line of the repository that you want to add "
+"as source</b></big>"
+msgstr ""
+
+msgid ""
+"<i>To improve the user experiece of Debian please take part in the popularity contest. If you do so the list of installed software and how often it was used will be collected and sent anonymously to the Debian project.\n"
+"\n"
+"The results are used to optimise the layout of the installation CDs."
+msgstr ""
+
+msgid ""
+"<i>To improve the user experience of Ubuntu please take part in the popularity contest. If you do so the list of installed software and how often it was used will be collected and sent anonymously to the Ubuntu project on a weekly basis.\n"
+"\n"
+"The results are used to improve the support for popular applications and to rank applications in the search results.</i>"
+msgstr ""
+
+msgid ""
+"<small>A proprietary driver has private code that Ubuntu developers can't "
+"review or improve. Security and other updates are dependent on the driver "
+"vendor.</small>"
+msgstr ""
+
+msgid "A new copy will be downloaded."
+msgstr ""
+
+msgid "APT line:"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add Software Channels"
+msgstr ""
+
+msgid "Add Volume..."
+msgstr ""
+
+msgid "Add another…"
+msgstr ""
+
+msgid "Add..."
+msgstr ""
+
+msgid "Additional Drivers"
+msgstr ""
+
+msgid "Allow downloading of the source packages from the repository"
+msgstr ""
+
+msgid "An error occurred while searching for drivers."
+msgstr ""
+
+msgid "Applying changes..."
+msgstr ""
+
+msgid "Assume yes to all queries"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Automatically check for updates:"
+msgstr ""
+
+msgid "Binary"
+msgstr ""
+
+msgid "CD Error"
+msgstr ""
+
+msgid "CD Name"
+msgstr ""
+
+msgid "Cache Refresh"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Canceling..."
+msgstr ""
+
+msgid ""
+"Canonical Livepatch has experienced an internal error. Please refer to {} "
+"for further information."
+msgstr ""
+
+msgid ""
+"Canonical Livepatch helps keep your system secure by applying security "
+"updates that don't require a restart. <a "
+"href=\"https://www.ubuntu.com/livepatch\">Learn More</a>"
+msgstr ""
+
+msgid "Canonical Livepatch snap cannot be enabled: {}"
+msgstr ""
+
+msgid "Canonical Livepatch snap cannot be installed."
+msgstr ""
+
+msgid "Canonical Livepatch snap cannot be installed: {}"
+msgstr ""
+
+msgid "Canonical Livepatch snap is not available."
+msgstr ""
+
+msgid "Checking availability…"
+msgstr ""
+
+msgid "Choose _Server"
+msgstr ""
+
+msgid "Choose a Download Server"
+msgstr ""
+
+msgid "Completed %s of %s tests"
+msgstr ""
+
+msgid "Configure the sources for installable software and updates"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Continue using a manually installed driver"
+msgstr ""
+
+msgid "Could not find a suitable CD."
+msgstr ""
+
+msgid "Could not refresh cache"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Developer Options"
+msgstr ""
+
+msgid "Display every two weeks"
+msgstr ""
+
+msgid "Display immediately"
+msgstr ""
+
+msgid "Display weekly"
+msgstr ""
+
+msgid "Do not update package cache after adding"
+msgstr ""
+
+msgid "Do not use the device"
+msgstr ""
+
+msgid "Download and install automatically"
+msgstr ""
+
+msgid "Download automatically"
+msgstr ""
+
+msgid "Download from:"
+msgstr ""
+
+msgid "Drivers;Repositories;Repository;PPA;"
+msgstr ""
+
+msgid "Edit Source"
+msgstr ""
+
+msgid "Edit..."
+msgstr ""
+
+msgid "Enable PPA with the given name"
+msgstr ""
+
+msgid "Enable the specified component of the distro's repositories"
+msgstr ""
+
+msgid "Enter the complete APT line of the repository that you want to add."
+msgstr ""
+
+msgid "Error importing key"
+msgstr ""
+
+msgid "Error importing selected file"
+msgstr ""
+
+msgid "Error removing the key"
+msgstr ""
+
+msgid "Error scanning the CD"
+msgstr ""
+
+msgid "Error while applying changes"
+msgstr ""
+
+msgid "Error while refreshing cache"
+msgstr ""
+
+msgid "Error: '%s' doesn't exist in a sourcelist file"
+msgstr ""
+
+msgid "Error: '%s' invalid"
+msgstr ""
+
+msgid "Error: must run as root"
+msgstr ""
+
+msgid "Error: need a repository as argument"
+msgstr ""
+
+msgid "Error: need a single repository as argument"
+msgstr ""
+
+msgid "Every %s days"
+msgstr ""
+
+msgid "Every two days"
+msgstr ""
+
+msgid "Every two weeks"
+msgstr ""
+
+msgid "Failed to disable Livepatch: {}"
+msgstr ""
+
+msgid "Failed to enable Livepatch: {}"
+msgstr ""
+
+msgid "Failed to retrieve Livepatch status."
+msgstr ""
+
+msgid "For any new version"
+msgstr ""
+
+msgid "For long-term support versions"
+msgstr ""
+
+msgid "Gnome Online Accounts is required to enable Livepatch."
+msgstr ""
+
+msgid "Ignore"
+msgstr ""
+
+msgid "Import key"
+msgstr ""
+
+msgid "Import the public key from a trusted software provider"
+msgstr ""
+
+msgid ""
+"Include the type, location and components of the repository. Example: %s"
+msgstr ""
+
+msgid "Insert Disk"
+msgstr ""
+
+msgid "Install software additionally or only from this source?"
+msgid_plural "Install software additionally or only from these sources?"
+msgstr[0] ""
+
+msgid "Key"
+msgstr ""
+
+msgid ""
+"Keys are used to authenticate the correct source of software and so protect "
+"your computer from malicious software"
+msgstr ""
+
+msgid "Last check for updates: {}"
+msgstr ""
+
+msgid "Legacy option, unused"
+msgstr ""
+
+msgid "Legacy option, unused."
+msgstr ""
+
+msgid "Livepatch is not available for this release."
+msgstr ""
+
+msgid "Livepatch is not available for this system."
+msgstr ""
+
+msgid "Livepatch is off."
+msgstr ""
+
+msgid "Livepatch is on."
+msgstr ""
+
+msgid "Livepatch requires an Internet connection."
+msgstr ""
+
+msgid "Manage Canonical Livepatch"
+msgstr ""
+
+msgid "Mirror"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New mirror"
+msgstr ""
+
+msgid "No additional drivers available."
+msgstr ""
+
+msgid "No proprietary drivers are in use."
+msgstr ""
+
+msgid "No suitable download server was found"
+msgstr ""
+
+msgid ""
+"No update on repository change (useful if called from an external program)"
+msgstr ""
+
+msgid "No updates currently applied."
+msgstr ""
+
+msgid "None yet"
+msgstr ""
+
+msgid "Notify me of a new Ubuntu version:"
+msgstr ""
+
+msgid "Open specific tab number on startup"
+msgstr ""
+
+msgid "Other Software"
+msgstr ""
+
+msgid "Other..."
+msgstr ""
+
+msgid "Performs a connection test to find the best mirror for your location"
+msgstr ""
+
+msgid "Please check your Internet connection."
+msgstr ""
+
+msgid "Please enter a name for the disc"
+msgstr ""
+
+msgid "Please insert a disk in the drive:"
+msgstr ""
+
+msgid "Press [ENTER] to continue or Ctrl-c to cancel adding it."
+msgstr ""
+
+msgid "Press [ENTER] to continue or Ctrl-c to cancel removing it."
+msgstr ""
+
+msgid "Print a lot of debug information to the command line"
+msgstr ""
+
+msgid "Print some debug information to the command line"
+msgstr ""
+
+msgid "Protocol:"
+msgstr ""
+
+msgid "Re_vert"
+msgstr ""
+
+msgid "Refreshing software cache"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Restore _Defaults"
+msgstr ""
+
+msgid "Restore the default keys of your distribution"
+msgstr ""
+
+msgid "Scanning CD-ROM"
+msgstr ""
+
+msgid "Searching for available drivers..."
+msgstr ""
+
+msgid "Security;Update;"
+msgstr ""
+
+msgid "Settings…"
+msgstr ""
+
+msgid "Show Livepatch status in the top bar"
+msgstr ""
+
+msgid "Sign In / Register…"
+msgstr ""
+
+msgid "Sign In…"
+msgstr ""
+
+msgid "Sign Out"
+msgstr ""
+
+msgid "Software & Updates"
+msgstr ""
+
+msgid "Software &amp; Updates"
+msgstr ""
+
+msgid "Software Sources"
+msgstr ""
+
+msgid "Software updates"
+msgstr ""
+
+msgid "Sorry, there's been a problem with setting up Canonical Livepatch."
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Source Code"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid ""
+"Submit the list of installed software and how often it is is used to the "
+"distribution project."
+msgstr ""
+
+msgid "Testing Mirrors"
+msgstr ""
+
+msgid ""
+"The --enable-component/-e command-line switch has been deprecated. Instead of 'software-properties-gtk -e multiverse' you can use \n"
+"'add-apt-repository multiverse'"
+msgstr ""
+
+msgid ""
+"The APT line includes the type, location and components of a repository, for"
+" example  '%s'."
+msgstr ""
+
+msgid ""
+"The Software &amp; Updates app is a utility for configuring which apt "
+"repositories your computer uses for updates and how frequently your computer"
+" checks for updates."
+msgstr ""
+
+msgid "The current release is no longer supported."
+msgstr ""
+
+msgid "The error was:"
+msgstr ""
+
+msgid "The file '%s' does not contain any valid software sources."
+msgstr ""
+
+msgid ""
+"The key you selected could not be removed. Please report this as a bug."
+msgstr ""
+
+msgid "The selected data may not be a GPG key file or it might be corrupt."
+msgstr ""
+
+msgid "The selected file may not be a GPG key file or it might be corrupt."
+msgstr ""
+
+msgid ""
+"The utility also allows selecting additional drivers for your computer and "
+"enabling the Canonical Livepatch service."
+msgstr ""
+
+msgid "There are no sources to install software from"
+msgstr ""
+
+msgid "This device is not working."
+msgstr ""
+
+msgid "This device is using a manually-installed driver."
+msgstr ""
+
+msgid "This device is using an alternative driver."
+msgstr ""
+
+msgid "This device is using the recommended driver."
+msgstr ""
+
+msgid "To change software repository settings, you need to authenticate."
+msgstr ""
+
+msgid "To install from a CD-ROM or DVD, insert the medium into the drive."
+msgstr ""
+
+msgid "To use Livepatch you need to sign in."
+msgstr ""
+
+msgid "To use Livepatch, you need to use an Ubuntu One account."
+msgstr ""
+
+msgid "To use Livepatch, you need to use your Ubuntu One account."
+msgstr ""
+
+msgid "Ubuntu Archive Automatic Signing Key (2012) <ftpmaster@ubuntu.com>"
+msgstr ""
+
+msgid "Ubuntu Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+msgstr ""
+
+msgid "Ubuntu CD Image Automatic Signing Key (2012) <cdimage@ubuntu.com>"
+msgstr ""
+
+msgid "Ubuntu CD Image Automatic Signing Key <cdimage@ubuntu.com>"
+msgstr ""
+
+msgid "Ubuntu Extras Archive Automatic Signing Key <ftpmaster@ubuntu.com>"
+msgstr ""
+
+msgid "Ubuntu Software"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Update package cache after adding (legacy option)"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Updates currently applied:"
+msgstr ""
+
+msgid "Use"
+msgstr ""
+
+msgid ""
+"Use proposed updates if you’re willing to report bugs on any problems that "
+"occur."
+msgstr ""
+
+msgid "Using {}"
+msgstr ""
+
+msgid "Using {} from {}"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "When there are other updates:"
+msgstr ""
+
+msgid "When there are security updates:"
+msgstr ""
+
+msgid "Win ID to act as a dialogue for"
+msgstr ""
+
+msgid "Write Configuration"
+msgstr ""
+
+msgid ""
+"You can either add the following sources or replace your current sources by "
+"them. Only install software from trusted sources."
+msgstr ""
+
+msgid "You need to restart the computer to complete the driver changes."
+msgstr ""
+
+msgid "Your local copy of the software catalog is out of date."
+msgstr ""
+
+msgid "_Add Source"
+msgstr ""
+
+msgid "_Add key from paste data"
+msgstr ""
+
+msgid "_Apply Changes"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Import Key File..."
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Restart..."
+msgstr ""
+
+msgid "_Select Best Server"
+msgstr ""
+
+msgid "column"
+msgstr ""
+
+msgid "data directory for UI files"
+msgstr ""
+
+msgid "open source"
+msgstr ""
+
+msgid "proprietary"
+msgstr ""
+
+msgid "remove repository from sources.list.d directory"
+msgstr ""
+
+msgid "{base_description} ({licence})"
+msgstr ""
+
+msgid "{base_description} ({licence}, tested)"
+msgstr ""

@@ -1,0 +1,146 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: lvm2\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2010-03-04 13:43+0000\n"
+"Last-Translator: sxdhaoren <hupengnihao@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:42+0000\n"
+
+msgid "%s not symbolic link - not removing"
+msgstr ""
+
+msgid "<backtrace>"
+msgstr ""
+
+msgid "Activation enabled. Device-mapper kernel driver will be used."
+msgstr ""
+
+msgid "Couldn't copy archive directory name."
+msgstr ""
+
+msgid "Couldn't copy backup directory name."
+msgstr ""
+
+msgid "Couldn't create backup object."
+msgstr ""
+
+msgid "Couldn't create destination pathname for logical volume link for %s"
+msgstr ""
+
+msgid "Couldn't create path for %s"
+msgstr ""
+
+msgid "Couldn't create path for volume group dir %s"
+msgstr ""
+
+msgid "Couldn't create pathname for LVM1 group file for %s"
+msgstr ""
+
+msgid "Couldn't create source pathname for logical volume link %s"
+msgstr ""
+
+msgid "Couldn't create text format object."
+msgstr ""
+
+msgid "Couldn't determine link pathname."
+msgstr ""
+
+msgid "Couldn't find snapshot for '%s'."
+msgstr ""
+
+msgid "Creating volume group backup \"%s\""
+msgstr ""
+
+msgid "Failed to add device (%u:%u) to dtree"
+msgstr ""
+
+msgid "Failed to create symlinks for %s."
+msgstr ""
+
+msgid "Failed to disable open_count"
+msgstr ""
+
+msgid "Failed to get %s target version"
+msgstr ""
+
+msgid "Failed to get info for %s [%s]."
+msgstr ""
+
+msgid "Getting device info for %s"
+msgstr ""
+
+msgid "Getting device info for %s [%s]"
+msgstr ""
+
+msgid "Getting driver version"
+msgstr ""
+
+msgid "Getting target version for %s"
+msgstr ""
+
+msgid "Ignoring empty string in config file activation/volume_list"
+msgstr ""
+
+msgid "Ignoring empty tag in config file activation/volume_list"
+msgstr ""
+
+msgid "Ignoring invalid string in config file activation/volume_list"
+msgstr ""
+
+msgid "LV percent: %f"
+msgstr ""
+
+msgid "Linking %s -> %s"
+msgstr ""
+
+msgid "Non-LVM1 character device found at %s"
+msgstr ""
+
+msgid "Not activating %s/%s due to config file settings"
+msgstr ""
+
+msgid "Number of segments in active LV %s does not match metadata"
+msgstr ""
+
+msgid "PV %s is a different format (%s)"
+msgstr ""
+
+msgid "PV %s missing from cache"
+msgstr ""
+
+msgid "Removing %s"
+msgstr ""
+
+msgid "Removing directory %s"
+msgstr ""
+
+msgid "Removing link %s"
+msgstr ""
+
+msgid "Renaming %s to %s"
+msgstr ""
+
+msgid "Skipping: Activating '%s'."
+msgstr ""
+
+msgid "Skipping: Deactivating '%s'."
+msgstr ""
+
+msgid "Skipping: Resuming '%s'."
+msgstr ""
+
+msgid "Skipping: Suspending '%s'."
+msgstr ""
+
+msgid "Symbolic link %s not created: file exists"
+msgstr ""
+
+msgid "Test mode: Skipping archiving of volume group."
+msgstr ""

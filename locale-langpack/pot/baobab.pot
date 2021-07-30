@@ -1,0 +1,207 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: baobab master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=baobab&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-09-03 01:25+0000\n"
+"Last-Translator: Jeremy Bicha <jeremy@bicha.net>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:16+0000\n"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+
+msgid "%lu day"
+msgid_plural "%lu days"
+msgstr[0] ""
+
+msgid "%lu month"
+msgid_plural "%lu months"
+msgstr[0] ""
+
+msgid "%lu year"
+msgid_plural "%lu years"
+msgstr[0] ""
+
+msgid "%s Available"
+msgstr ""
+
+msgid "%s Total"
+msgstr ""
+
+msgid "%s Used"
+msgstr ""
+
+msgid "A graphical tool to analyze disk usage."
+msgstr ""
+
+msgid "A list of URIs for partitions to be excluded from scanning."
+msgstr ""
+
+msgid ""
+"A simple application to keep your disk usage and available space under "
+"control."
+msgstr ""
+
+msgid "Active Chart"
+msgstr ""
+
+msgid "Apparent sizes are shown instead."
+msgstr ""
+
+msgid "Baobab"
+msgstr ""
+
+msgid "Check folder sizes and available disk space"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Could not analyze disk usage."
+msgstr ""
+
+msgid "Could not analyze volume."
+msgstr ""
+
+msgid "Could not detect occupied disk sizes."
+msgstr ""
+
+msgid "Could not scan folder “%s”"
+msgstr ""
+
+msgid "Could not scan some of the folders contained in “%s”"
+msgstr ""
+
+msgid "Devices & Locations"
+msgstr ""
+
+msgid "Disk Usage Analyzer"
+msgstr ""
+
+msgid ""
+"Disk Usage Analyzer can scan specific folders, storage devices and online "
+"accounts. It provides both a tree and a graphical representation showing the"
+" size of each folder, making it easy to identify where disk space is wasted."
+msgstr ""
+
+msgid "Excluded partitions URIs"
+msgstr ""
+
+msgid "Failed to move file to the trash"
+msgstr ""
+
+msgid "Failed to open file"
+msgstr ""
+
+msgid "Failed to show help"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Go to _parent folder"
+msgstr ""
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Mo_ve to Trash"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Print version information and exit"
+msgstr ""
+
+msgid "Recursively analyze mount points"
+msgstr ""
+
+msgid "Remote Locations"
+msgstr ""
+
+msgid "Rings Chart"
+msgstr ""
+
+msgid "Scan Folder…"
+msgstr ""
+
+msgid "Select Folder"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "The GdkWindowState of the window"
+msgstr ""
+
+msgid "The initial size of the window"
+msgstr ""
+
+msgid "This Computer"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Treemap Chart"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unmounted"
+msgstr ""
+
+msgid "Which type of chart should be displayed."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window state"
+msgstr ""
+
+msgid "Zoom _in"
+msgstr ""
+
+msgid "Zoom _out"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Copy Path to Clipboard"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open Folder"
+msgstr ""
+
+msgid "storage;space;cleanup;"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "“%s” is not a valid folder"
+msgstr ""

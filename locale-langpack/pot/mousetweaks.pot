@@ -1,0 +1,106 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: mousetweak master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=mousetweaks&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2012-04-05 07:56+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:59+0000\n"
+
+msgid "- GNOME mouse accessibility daemon"
+msgstr ""
+
+msgid "Button Style"
+msgstr ""
+
+msgid "Button style of the click-type window."
+msgstr ""
+
+msgid "Click-type window geometry"
+msgstr ""
+
+msgid "Click-type window orientation"
+msgstr ""
+
+msgid "Click-type window style"
+msgstr ""
+
+msgid "Double Click"
+msgstr ""
+
+msgid "Drag"
+msgstr ""
+
+msgid "Enable dwell click"
+msgstr ""
+
+msgid "Enable simulated secondary click"
+msgstr ""
+
+msgid "Failed to Display Help"
+msgstr ""
+
+msgid "Hide the click-type window"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Hover Click"
+msgstr ""
+
+msgid "Icons only"
+msgstr ""
+
+msgid "Ignore small pointer movements"
+msgstr ""
+
+msgid "Orientation"
+msgstr ""
+
+msgid "Orientation of the click-type window."
+msgstr ""
+
+msgid "Secondary Click"
+msgstr ""
+
+msgid "Set the active dwell mode"
+msgstr ""
+
+msgid "Shut down mousetweaks"
+msgstr ""
+
+msgid "Single Click"
+msgstr ""
+
+msgid ""
+"Size and position of the click-type window. The format is a standard X "
+"Window System geometry string."
+msgstr ""
+
+msgid "Start mousetweaks as a daemon"
+msgstr ""
+
+msgid "Start mousetweaks in login mode"
+msgstr ""
+
+msgid "Text and Icons"
+msgstr ""
+
+msgid "Text only"
+msgstr ""
+
+msgid "Time to wait before a dwell click"
+msgstr ""
+
+msgid "Time to wait before a simulated secondary click"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""

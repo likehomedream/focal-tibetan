@@ -1,0 +1,6427 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anjuta master\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-04-06 07:11+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:58+0000\n"
+
+msgid ""
+"\n"
+"Field \"%s\" is mandatory. Please enter it."
+msgstr ""
+
+msgid ""
+"\n"
+"Missing packages: %s."
+msgstr ""
+
+msgid ""
+"\n"
+"Missing programs: %s."
+msgstr ""
+
+msgid " This property is not modifiable."
+msgstr ""
+
+msgid " [read-only]"
+msgstr ""
+
+msgid "%d Error"
+msgid_plural "%d Errors"
+msgstr[0] ""
+
+msgid "%d Info"
+msgid_plural "%d Infos"
+msgstr[0] ""
+
+msgid "%d Message"
+msgid_plural "%d Messages"
+msgstr[0] ""
+
+msgid "%d Warning"
+msgid_plural "%d Warnings"
+msgstr[0] ""
+
+msgid "%d file scanned out of %d"
+msgid_plural "%d files scanned out of %d"
+msgstr[0] ""
+
+msgid "%s: %d file scanned out of %d"
+msgid_plural "%s: %d files scanned out of %d"
+msgstr[0] ""
+
+msgid "%s: Generating inheritances…"
+msgstr ""
+
+msgid "%s: Install it from '%s'\n"
+msgstr ""
+
+msgid "(error)"
+msgstr ""
+
+msgid "(output)"
+msgstr ""
+
+msgid "- Integrated Development Environment"
+msgstr ""
+
+msgid "<Invalid>"
+msgstr ""
+
+msgid "<Select a folder>"
+msgstr ""
+
+msgid "<Select a target or a folder>"
+msgstr ""
+
+msgid "<Select a target>"
+msgstr ""
+
+msgid "<Select any module>"
+msgstr ""
+
+msgid "<Select any project node>"
+msgstr ""
+
+msgid "<b>Branch:</b> %s"
+msgstr ""
+
+msgid ""
+"<b>Cannot open \"%s\"</b>.\n"
+"\n"
+"There is no plugin, default action, or application configured to handle this file type.\n"
+"\n"
+"MIME type: %s\n"
+"\n"
+"You may choose to try opening it with the following plugins or applications."
+msgstr ""
+
+msgid "<b>Error:</b> The snippet must belong to a group!"
+msgstr ""
+
+msgid ""
+"<b>Error:</b> The trigger key can only contain alphanumeric characters and "
+"\"_\"!"
+msgstr ""
+
+msgid ""
+"<b>Error:</b> The trigger key is already in use for one of the languages!"
+msgstr ""
+
+msgid "<b>Error:</b> You haven't entered a trigger key for the snippet!"
+msgstr ""
+
+msgid "<b>Error:</b> You must choose at least one language for the snippet!"
+msgstr ""
+
+msgid ""
+"<b>Please note: </b>\n"
+"\n"
+"Pressing OK will delete the file from disk and from CVS. Of course, the file won't be removed from CVS before you use CVS Commit. <b>You have been warned!</b>"
+msgstr ""
+
+msgid "<b>Please select a plugin to activate</b>"
+msgstr ""
+
+msgid "<b>Remote:</b> %s"
+msgstr ""
+
+msgid "<b>Selected Remote:</b>"
+msgstr ""
+
+msgid "<b>Tag:</b> %s"
+msgstr ""
+
+msgid "<b>Warning:</b> You should choose a name for the snippet!"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">Are you sure you want to debug a program not using the Debug configuration?</span>\n"
+"\n"
+"When optimizations are enabled, the debugger cannot always identify the source code corresponding to the instructions, so some commands can perform in a strange way, especially steps."
+msgstr ""
+
+msgid "A Subversion client plugin based on libsvn"
+msgstr ""
+
+msgid "A file named \"%s\" already exists. Do you want to replace it?"
+msgstr ""
+
+msgid ""
+"A file named \"%s\" cannot be written: %s. Check if you have write access to"
+" the project directory."
+msgstr ""
+
+msgid "A generic C++ project"
+msgstr ""
+
+msgid "A generic Xlib dock applet"
+msgstr ""
+
+msgid "A generic Xlib project"
+msgstr ""
+
+msgid "A generic java project using automake project management"
+msgstr ""
+
+msgid "A generic minimal and flat project"
+msgstr ""
+
+msgid ""
+"A generic natively compiled java project using the GNU Java Compiler (gcj)"
+msgstr ""
+
+msgid "A generic project"
+msgstr ""
+
+msgid "A generic python project using automake project management"
+msgstr ""
+
+msgid "A generic wx Widgets project"
+msgstr ""
+
+msgid "A minimal GTKmm project"
+msgstr ""
+
+msgid "A minimal Gnome Shell extension"
+msgstr ""
+
+msgid ""
+"A process is already running.\n"
+"Would you like to terminate it and attach the new process?"
+msgstr ""
+
+msgid "A sample SDL project"
+msgstr ""
+
+msgid "A shared or a static library project"
+msgstr ""
+
+msgid "A tool with the same name already exists!"
+msgstr ""
+
+msgid "A version control system plugin"
+msgstr ""
+
+msgid "API"
+msgstr ""
+
+msgid "API Browser"
+msgstr ""
+
+msgid "API Help"
+msgstr ""
+
+msgid "API Tags (C/C++)"
+msgstr ""
+
+msgid "Abort"
+msgstr ""
+
+msgid "Abort the rebase and return the repository to its previous state"
+msgstr ""
+
+msgid "About Anjuta"
+msgstr ""
+
+msgid "About External _Plugins"
+msgstr ""
+
+msgid "About third-party Anjuta plugins"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Activated plugins"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add '(' after function call autocompletion"
+msgstr ""
+
+msgid "Add ')' after function call autocompletion"
+msgstr ""
+
+msgid "Add Breakpoint…"
+msgstr ""
+
+msgid "Add C++ support:"
+msgstr ""
+
+msgid "Add Files"
+msgstr ""
+
+msgid "Add Files:"
+msgstr ""
+
+msgid "Add Library"
+msgstr ""
+
+msgid "Add License Information:"
+msgstr ""
+
+msgid "Add Remote"
+msgstr ""
+
+msgid "Add Snippets Group…"
+msgstr ""
+
+msgid "Add Snippet…"
+msgstr ""
+
+msgid "Add Source"
+msgstr ""
+
+msgid "Add Watch"
+msgstr ""
+
+msgid "Add Watch…"
+msgstr ""
+
+msgid "Add Windows support:"
+msgstr ""
+
+msgid "Add _Library"
+msgstr ""
+
+msgid "Add _Library…"
+msgstr ""
+
+msgid "Add _Package"
+msgstr ""
+
+msgid "Add _Source File"
+msgstr ""
+
+msgid "Add _Source File…"
+msgstr ""
+
+msgid "Add _module"
+msgstr ""
+
+msgid "Add a breakpoint"
+msgstr ""
+
+msgid "Add a library to a target"
+msgstr ""
+
+msgid "Add a module to a target"
+msgstr ""
+
+msgid "Add a new file/directory to the CVS tree"
+msgstr ""
+
+msgid "Add a new file/directory to the Subversion tree"
+msgstr ""
+
+msgid "Add a new folder to the project"
+msgstr ""
+
+msgid "Add a new target to the project"
+msgstr ""
+
+msgid "Add a remote"
+msgstr ""
+
+msgid "Add a remote repository"
+msgstr ""
+
+msgid "Add a source file to a target"
+msgstr ""
+
+msgid "Add a space after function call autocompletion"
+msgstr ""
+
+msgid "Add additional source paths"
+msgstr ""
+
+msgid "Add bookmark"
+msgstr ""
+
+msgid "Add file/directory"
+msgstr ""
+
+msgid "Add files to the index"
+msgstr ""
+
+msgid "Add gtk-doc system:"
+msgstr ""
+
+msgid "Add internationalization:"
+msgstr ""
+
+msgid "Add one more view of current document"
+msgstr ""
+
+msgid "Add shared library support:"
+msgstr ""
+
+msgid "Add signed off by line"
+msgstr ""
+
+msgid "Add snippet"
+msgstr ""
+
+msgid "Add source paths…"
+msgstr ""
+
+msgid "Add support to compile shared and static libraries with Libtool."
+msgstr ""
+
+msgid "Add to Project Target:"
+msgstr ""
+
+msgid "Add to Repository"
+msgstr ""
+
+msgid "Add to project target:"
+msgstr ""
+
+msgid "Add to repository"
+msgstr ""
+
+msgid "Added"
+msgstr ""
+
+msgid "Added: %s"
+msgstr ""
+
+msgid "Additional C compiler flags for this target."
+msgstr ""
+
+msgid "Additional C preprocessor flags for this target."
+msgstr ""
+
+msgid "Additional C++ compiler flags for this target."
+msgstr ""
+
+msgid "Additional Fortran compiler flags for this target."
+msgstr ""
+
+msgid "Additional Java compiler flags for this target."
+msgstr ""
+
+msgid ""
+"Additional Lex or Flex lexical analyser generator flags for this target."
+msgstr ""
+
+msgid "Additional Objective C compiler flags for this target."
+msgstr ""
+
+msgid "Additional Vala compiler flags for this target."
+msgstr ""
+
+msgid "Additional Yacc or Bison parser generator flags for this target."
+msgstr ""
+
+msgid "Additional dependencies for this target."
+msgstr ""
+
+msgid "Additional dependencies:"
+msgstr ""
+
+msgid "Additional libraries for this target."
+msgstr ""
+
+msgid "Additional libraries:"
+msgstr ""
+
+msgid "Additional linker flags for this target."
+msgstr ""
+
+msgid "Additional object files for this target."
+msgstr ""
+
+msgid "Additional objects:"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address:"
+msgstr ""
+
+msgid "Adds C++ support to the project so that C++ source files can be built"
+msgstr ""
+
+msgid "Adds support for building on Windows platforms"
+msgstr ""
+
+msgid "Adds support for building shared libraries in your project"
+msgstr ""
+
+msgid ""
+"Adds support for internationalization so that your project can have "
+"translations in different languages"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "All text files"
+msgstr ""
+
+msgid "Allow to execute program without debugger."
+msgstr ""
+
+msgid "Allows insertion of snippets into the editor."
+msgstr ""
+
+msgid "Allows loading Anjuta plugins written in Python"
+msgstr ""
+
+msgid "Amend the previous commit"
+msgstr ""
+
+msgid ""
+"An email address or a link to a web page where the user can report bug. It "
+"is optional."
+msgstr ""
+
+msgid ""
+"An error has occurred!\n"
+"Maybe your permissions are insufficient or the filename is wrong"
+msgstr ""
+
+msgid "An link to the project web page if provided."
+msgstr ""
+
+msgid "Anjuta"
+msgstr ""
+
+msgid "Anjuta Class Generator Plugin"
+msgstr ""
+
+msgid ""
+"Anjuta DevStudio is a versatile software development studio featuring a "
+"number of advanced programming facilities including project management, "
+"application wizard, interactive debugger, source editor, version control, "
+"GUI designer, profiler and many more tools. It focuses on providing simple "
+"and usable user interface, yet powerful for efficient development."
+msgstr ""
+
+msgid "Anjuta File Assistant Plugin"
+msgstr ""
+
+msgid "Anjuta Plugin"
+msgstr ""
+
+msgid "Anjuta Preferences"
+msgstr ""
+
+msgid "Anjuta Projects"
+msgstr ""
+
+msgid "Anjuta Shell"
+msgstr ""
+
+msgid "Anjuta Status"
+msgstr ""
+
+msgid "Anjuta _Home Page"
+msgstr ""
+
+msgid "Anjuta frequently asked questions"
+msgstr ""
+
+msgid "Anjuta is unable to attach to itself."
+msgstr ""
+
+msgid ""
+"Anjuta is very extensible with plugins. Almost all features in Anjuta are "
+"implemented using plugins which can be dynamically enabled or disabled. You "
+"can choose which plugins should be active for your project. Like the user "
+"interface layout, the set of active plugins is also persistent for each "
+"project making it easy to work on projects with various levels of "
+"complexity. Using plugins, you can extend Anjuta with your own features."
+msgstr ""
+
+msgid "Anjuta plugin project that uses libanjuta framework"
+msgstr ""
+
+msgid "Anjuta shell for which the plugins are made"
+msgstr ""
+
+msgid "Anjuta shell that will contain the plugin"
+msgstr ""
+
+msgid "Anjuta status to use in loading and unloading of plugins"
+msgstr ""
+
+msgid "Anjuta user's manual"
+msgstr ""
+
+msgid "Anjuta variables"
+msgstr ""
+
+msgid ""
+"Anjuta was not able to automatically determine the encoding of the file you "
+"want to open."
+msgstr ""
+
+msgid "Annotate this tag:"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Append fetch data"
+msgstr ""
+
+msgid "Append signed-off-by line"
+msgstr ""
+
+msgid "Append to buffer"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Apply Mailbox Files"
+msgstr ""
+
+msgid "Apply and restore index"
+msgstr ""
+
+msgid "Apply mailbox files"
+msgstr ""
+
+msgid "Apply patches from mailbox files"
+msgstr ""
+
+msgid "Apply selected stash"
+msgstr ""
+
+msgid "Apply stash and restore index"
+msgstr ""
+
+msgid "Apply stashed changes back into the working tree"
+msgstr ""
+
+msgid "Apply stashed changes back into the working tree and the index"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Are you sure that you do not want a log message?"
+msgstr ""
+
+msgid "Are you sure that you want to pass an empty log message?"
+msgstr ""
+
+msgid "Are you sure you want to delete all the breakpoints?"
+msgstr ""
+
+msgid "Are you sure you want to delete branch %s?"
+msgstr ""
+
+msgid "Are you sure you want to delete the '%s' tool?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to reload '%s'?\n"
+"Any unsaved changes will be lost."
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove %d element from the project?\n"
+"\n"
+msgid_plural ""
+"Are you sure you want to remove %d elements from the project?\n"
+"\n"
+msgstr[0] ""
+
+msgid ""
+"Are you sure you want to remove the element \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove the group \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove the module \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove the package \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove the shortcut \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove the source \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove the target \"%s\" from the project?\n"
+"\n"
+msgstr ""
+
+msgid "Arguments"
+msgstr ""
+
+msgid "Arguments:"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Ask a _Question"
+msgstr ""
+
+msgid "Ask the user to get additional parameters"
+msgstr ""
+
+msgid "Attach to process"
+msgstr ""
+
+msgid "Attaching to process: %d…\n"
+msgstr ""
+
+msgid "Authentication canceled"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author Email Address:"
+msgstr ""
+
+msgid "Author Name:"
+msgstr ""
+
+msgid "Author/Date-Time"
+msgstr ""
+
+msgid "Author/Date/Time"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Auto-Indent"
+msgstr ""
+
+msgid "Auto-complete"
+msgstr ""
+
+msgid "Auto-complete the current word"
+msgstr ""
+
+msgid "Auto-indent current line or selection based on indentation settings"
+msgstr ""
+
+msgid "Autocomplete"
+msgstr ""
+
+msgid "Autocompletion"
+msgstr ""
+
+msgid "Autogen is busy"
+msgstr ""
+
+msgid "Autogen template used for the header file"
+msgstr ""
+
+msgid "Autogen template used for the implementation file"
+msgstr ""
+
+msgid "Automake Build"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatic update"
+msgstr ""
+
+msgid "Automatically load required libraries of the project"
+msgstr ""
+
+msgid "Automatically select the current document"
+msgstr ""
+
+msgid "Automatically update symbols without saving file"
+msgstr ""
+
+msgid ""
+"Automatically update the file's symbols without saving. The update occurs "
+"after 10 seconds without keypresses by the user."
+msgstr ""
+
+msgid "Autosave"
+msgstr ""
+
+msgid "Autosave completed"
+msgstr ""
+
+msgid "Autosave failed for %s"
+msgstr ""
+
+msgid "Autotools backend"
+msgstr ""
+
+msgid "Available Plugins"
+msgstr ""
+
+msgid "Available plugins"
+msgstr ""
+
+msgid "Available pretty printers"
+msgstr ""
+
+msgid "BSD Public License"
+msgstr ""
+
+msgid "Backend:"
+msgstr ""
+
+msgid "Baltic"
+msgstr ""
+
+msgid "Base Class Inheritance:"
+msgstr ""
+
+msgid "Base Class:"
+msgstr ""
+
+msgid "Base Path"
+msgstr ""
+
+msgid "Basic autotools build plugin."
+msgstr ""
+
+msgid "Basic information"
+msgstr ""
+
+msgid "Be verbose"
+msgstr ""
+
+msgid ""
+"Before using this new configuration, the default one needs to be removed. Do"
+" you want to do that?"
+msgstr ""
+
+msgid "Berkeley Software Distribution License (BSD)"
+msgstr ""
+
+msgid "Block comment the selected text"
+msgstr ""
+
+msgid "Blurb"
+msgstr ""
+
+msgid "Bo_x Comment/Uncomment"
+msgstr ""
+
+msgid "Bookmar_k"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Box comment the selected text"
+msgstr ""
+
+msgid "Brace indentation size in spaces:"
+msgstr ""
+
+msgid "Branch"
+msgstr ""
+
+msgid "Branch name:"
+msgstr ""
+
+msgid "Branch popup menu"
+msgstr ""
+
+msgid "Branch tools"
+msgstr ""
+
+msgid "Branch/Tag URL:"
+msgstr ""
+
+msgid "Branch:"
+msgstr ""
+
+msgid "Branches"
+msgstr ""
+
+msgid "Branches must be fully merged"
+msgstr ""
+
+msgid "Branches:"
+msgstr ""
+
+msgid "Breakpoint number %s hit\n"
+msgstr ""
+
+msgid "Breakpoint operations"
+msgstr ""
+
+msgid "Breakpoint properties"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr ""
+
+msgid "Browse API Pages"
+msgstr ""
+
+msgid "Browse…"
+msgstr ""
+
+msgid "Bug report URL:"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "Build %d: %s"
+msgstr ""
+
+msgid "Build Autotools"
+msgstr ""
+
+msgid "Build Directory:"
+msgstr ""
+
+msgid "Build _Tarball"
+msgstr ""
+
+msgid "Build and run programs inside the JHBuild environment"
+msgstr ""
+
+msgid "Build but do not install the target."
+msgstr ""
+
+msgid "Build commands"
+msgstr ""
+
+msgid "Build for check only:"
+msgstr ""
+
+msgid "Build library as"
+msgstr ""
+
+msgid "Build module"
+msgstr ""
+
+msgid "Build module associated with current file"
+msgstr ""
+
+msgid "Build popup commands"
+msgstr ""
+
+msgid "Build project tarball distribution"
+msgstr ""
+
+msgid "Build this target only when running automatic tests."
+msgstr ""
+
+msgid "Build whole project"
+msgstr ""
+
+msgid "C Indentation"
+msgstr ""
+
+msgid "C Source File"
+msgstr ""
+
+msgid "C compiler flags:"
+msgstr ""
+
+msgid "C preprocessor flags:"
+msgstr ""
+
+msgid "C# Source File"
+msgstr ""
+
+msgid "C# source files"
+msgstr ""
+
+msgid "C++ Source File"
+msgstr ""
+
+msgid "C++ and Java support Plugin"
+msgstr ""
+
+msgid ""
+"C++ and Java support plugin for code completion, auto-indentation, etc."
+msgstr ""
+
+msgid "C++ compiler flags:"
+msgstr ""
+
+msgid "C++/Java Assistance"
+msgstr ""
+
+msgid "C/C++"
+msgstr ""
+
+msgid "C/C++ Header File"
+msgstr ""
+
+msgid "C/C++ source files"
+msgstr ""
+
+msgid "CPU Registers"
+msgstr ""
+
+msgid "CVS"
+msgstr ""
+
+msgid "CVS Options"
+msgstr ""
+
+msgid "CVS Plugin"
+msgstr ""
+
+msgid "CVS Preferences"
+msgstr ""
+
+msgid "CVS command failed. See above for details"
+msgstr ""
+
+msgid "CVS command is running — please wait until it finishes!"
+msgstr ""
+
+msgid "CVS command is running! Please wait until it is finished!"
+msgstr ""
+
+msgid "CVS command successful! Time taken: %ld second"
+msgid_plural "CVS command successful! Time taken: %ld seconds"
+msgstr[0] ""
+
+msgid "CVS operations"
+msgstr ""
+
+msgid "CVS popup operations"
+msgstr ""
+
+msgid "CVS: Add file/directory"
+msgstr ""
+
+msgid "CVS: Commit file/directory"
+msgstr ""
+
+msgid "CVS: Diff file/directory"
+msgstr ""
+
+msgid "CVS: Import"
+msgstr ""
+
+msgid "CVS: Log file/directory"
+msgstr ""
+
+msgid "CVS: Remove file/directory"
+msgstr ""
+
+msgid "CVS: Status"
+msgstr ""
+
+msgid "CVS: Status from file/directory"
+msgstr ""
+
+msgid "CVS: Update file/directory"
+msgstr ""
+
+msgid "CVSROOT"
+msgstr ""
+
+msgid "CVSROOT:"
+msgstr ""
+
+msgid "C_onfigure Project…"
+msgstr ""
+
+msgid "C_ut"
+msgstr ""
+
+msgid "Calltips"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel build command"
+msgstr ""
+
+msgid "Cannot add group"
+msgstr ""
+
+msgid "Cannot add modules"
+msgstr ""
+
+msgid "Cannot add packages"
+msgstr ""
+
+msgid "Cannot add source files"
+msgstr ""
+
+msgid "Cannot add target"
+msgstr ""
+
+msgid "Cannot compile \"%s\": No compile rule defined for this file type."
+msgstr ""
+
+msgid "Cannot configure project: Missing configure script in %s."
+msgstr ""
+
+msgid "Cannot execute command \"%s\": %s"
+msgstr ""
+
+msgid "Cannot execute command: \"%s\""
+msgstr ""
+
+msgid "Cannot execute command: %s (using shell %s): %s\n"
+msgstr ""
+
+msgid "Cannot find a terminal; using xterm, even if it may not work"
+msgstr ""
+
+msgid ""
+"Cannot open \"%s\".\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Cannot start terminal for debugging."
+msgstr ""
+
+msgid "Case Sensitive"
+msgstr ""
+
+msgid "Case sensitive"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Celtic"
+msgstr ""
+
+msgid "Central European"
+msgstr ""
+
+msgid "Change Value"
+msgstr ""
+
+msgid "Change Watch"
+msgstr ""
+
+msgid "Changed but not updated"
+msgstr ""
+
+msgid "Changes"
+msgstr ""
+
+msgid "Changes to be committed"
+msgstr ""
+
+msgid "Changes:"
+msgstr ""
+
+msgid "Check Out Files"
+msgstr ""
+
+msgid "Check module"
+msgstr ""
+
+msgid "Check module associated with current file"
+msgstr ""
+
+msgid "Check out"
+msgstr ""
+
+msgid "Check out the branch after it is created"
+msgstr ""
+
+msgid "Check the packages that your project requires"
+msgstr ""
+
+msgid "Check whole project"
+msgstr ""
+
+msgid "Cherry Pick"
+msgstr ""
+
+msgid "Cherry pick"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr ""
+
+msgid "Chinese Traditional"
+msgstr ""
+
+msgid "Choose Directory to show if no project is open"
+msgstr ""
+
+msgid "Choose Icon"
+msgstr ""
+
+msgid "Choose a working directory"
+msgstr ""
+
+msgid "Choose directory"
+msgstr ""
+
+msgid "Choose file"
+msgstr ""
+
+msgid "Choose file or directory to add:"
+msgstr ""
+
+msgid "Choose file or directory to commit:"
+msgstr ""
+
+msgid "Choose file or directory to diff:"
+msgstr ""
+
+msgid "Choose file or directory to get log for:"
+msgstr ""
+
+msgid "Choose file or directory to get the status from:"
+msgstr ""
+
+msgid "Choose file or directory to remove:"
+msgstr ""
+
+msgid "Choose file or directory to update:"
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "Class Elements"
+msgstr ""
+
+msgid "Class Function Prefix:"
+msgstr ""
+
+msgid "Class Generator"
+msgstr ""
+
+msgid "Class Methods"
+msgstr ""
+
+msgid "Class Name:"
+msgstr ""
+
+msgid "Class Options:"
+msgstr ""
+
+msgid "Class Scope:"
+msgstr ""
+
+msgid "Clean module"
+msgstr ""
+
+msgid "Clean module associated with current file"
+msgstr ""
+
+msgid ""
+"Clean project (distclean) and remove configuration directory if possible"
+msgstr ""
+
+msgid "Clean whole project"
+msgstr ""
+
+msgid "Clear Highlight"
+msgstr ""
+
+msgid "Clear all highlighted text"
+msgstr ""
+
+msgid "Clear all stashes"
+msgstr ""
+
+msgid "Clear bookmarks"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close All"
+msgstr ""
+
+msgid "Close Others"
+msgstr ""
+
+msgid "Close Pro_ject"
+msgstr ""
+
+msgid "Close all code folds in the editor"
+msgstr ""
+
+msgid "Close all files"
+msgstr ""
+
+msgid "Close all message tabs"
+msgstr ""
+
+msgid "Close current file"
+msgstr ""
+
+msgid "Close file"
+msgstr ""
+
+msgid "Close other documents"
+msgstr ""
+
+msgid "Close project"
+msgstr ""
+
+msgid "Co_mment"
+msgstr ""
+
+msgid "Co_mpile"
+msgstr ""
+
+msgid "Co_mpile (%s)"
+msgstr ""
+
+msgid "Co_mpile File"
+msgstr ""
+
+msgid "Code Snippets"
+msgstr ""
+
+msgid "Code added for widget."
+msgstr ""
+
+msgid "Col"
+msgstr ""
+
+msgid "Color scheme:"
+msgstr ""
+
+msgid "Column %i"
+msgstr ""
+
+msgid "Column 1"
+msgstr ""
+
+msgid "ComboBox model"
+msgstr ""
+
+msgid ""
+"Comma separated, other plugins that this plugin depends on. It could be "
+"either primary interface name or plugin location (library:class)"
+msgstr ""
+
+msgid ""
+"Comma-separated list of gnome-shell version your plugin is compatible with"
+msgstr ""
+
+msgid "Command"
+msgstr ""
+
+msgid "Command aborted"
+msgstr ""
+
+msgid "Command aborted by user"
+msgstr ""
+
+msgid "Command canceled by user"
+msgstr ""
+
+msgid "Command exited with status %d"
+msgstr ""
+
+msgid "Command line parameters"
+msgstr ""
+
+msgid "Command terminated for an unknown reason"
+msgstr ""
+
+msgid "Command terminated with signal %d"
+msgstr ""
+
+msgid "Command used for starting a terminal"
+msgstr ""
+
+msgid "Command used to be allowed to install files"
+msgstr ""
+
+msgid "Command:"
+msgstr ""
+
+msgid "Command?"
+msgstr ""
+
+msgid "Comment or uncomment current selection"
+msgstr ""
+
+msgid "Comment/Uncomment"
+msgstr ""
+
+msgid "Commit"
+msgstr ""
+
+msgid "Commit %s.diff"
+msgstr ""
+
+msgid "Commit Changes"
+msgstr ""
+
+msgid "Commit changes"
+msgstr ""
+
+msgid "Commit on fast-forward merges"
+msgstr ""
+
+msgid "Commit to cherry pick:"
+msgstr ""
+
+msgid "Commit to revert:"
+msgstr ""
+
+msgid "Commit your changes to the CVS tree"
+msgstr ""
+
+msgid "Commit your changes to the Subversion tree"
+msgstr ""
+
+msgid "Common additional C compiler flags for all targets in this group."
+msgstr ""
+
+msgid "Common additional C preprocessor flags for all targets in this group."
+msgstr ""
+
+msgid "Common additional C++ compiler flags for all targets in this group."
+msgstr ""
+
+msgid ""
+"Common additional Fortran compiler flags for all targets in this group."
+msgstr ""
+
+msgid "Common additional Java compiler flags for all targets in this group."
+msgstr ""
+
+msgid ""
+"Common additional Lex or Flex lexical analyser generator flags for all "
+"targets in this group."
+msgstr ""
+
+msgid ""
+"Common additional Objective C compiler flags for all targets in this group."
+msgstr ""
+
+msgid "Common additional Vala compiler flags for all targets in this group."
+msgstr ""
+
+msgid ""
+"Common additional Yacc or Bison parser generator flags for all targets in "
+"this group."
+msgstr ""
+
+msgid "Common additional linker flags for all targets in this group."
+msgstr ""
+
+msgid "Compile current editor file"
+msgstr ""
+
+msgid "Compile file"
+msgstr ""
+
+msgid "Completed successfully\n"
+msgstr ""
+
+msgid "Completed unsuccessfully\n"
+msgstr ""
+
+msgid "Completed unsuccessfully with status code %d\n"
+msgstr ""
+
+msgid "Compression Level (0=off, 10=max):"
+msgstr ""
+
+msgid "Condition"
+msgstr ""
+
+msgid "Configuration:"
+msgstr ""
+
+msgid "Configure Options:"
+msgstr ""
+
+msgid "Configure Project"
+msgstr ""
+
+msgid "Configure external packages"
+msgstr ""
+
+msgid "Configure external packages:"
+msgstr ""
+
+msgid "Configure project"
+msgstr ""
+
+msgid "Confirm remove"
+msgstr ""
+
+msgid "Confirm the following information:"
+msgstr ""
+
+msgid "Conflicted"
+msgstr ""
+
+msgid "Conflicted: %s"
+msgstr ""
+
+msgid "Connect to a remote debugging target"
+msgstr ""
+
+msgid "Connect to remote target"
+msgstr ""
+
+msgid "Constants/Variables"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Continue a rebase with resolved conflicts"
+msgstr ""
+
+msgid "Continue applying patches with resolved conflicts"
+msgstr ""
+
+msgid "Continue on errors"
+msgstr ""
+
+msgid "Continue or suspend the execution of the program"
+msgstr ""
+
+msgid "Continue the execution of the program"
+msgstr ""
+
+msgid "Convert EOL to CR"
+msgstr ""
+
+msgid "Convert EOL to CRLF"
+msgstr ""
+
+msgid "Convert EOL to LF"
+msgstr ""
+
+msgid "Convert EOL to Majority EOL"
+msgstr ""
+
+msgid "Convert End Of Line characters to DOS EOL (CRLF)"
+msgstr ""
+
+msgid "Convert End Of Line characters to Mac OS EOL (CR)"
+msgstr ""
+
+msgid "Convert End Of Line characters to Unix EOL (LF)"
+msgstr ""
+
+msgid ""
+"Convert End Of Line characters to the most common EOL found in the file"
+msgstr ""
+
+msgid "Copy All Messages"
+msgstr ""
+
+msgid "Copy Files/Folders…"
+msgstr ""
+
+msgid "Copy files/folders"
+msgstr ""
+
+msgid "Copy files/folders in the repository"
+msgstr ""
+
+msgid "Copy message"
+msgstr ""
+
+msgid "Copy the selected text to the clipboard"
+msgstr ""
+
+msgid "Copyright © Naba Kumar"
+msgstr ""
+
+msgid "Copy…"
+msgstr ""
+
+msgid "Could not create a new glade project."
+msgstr ""
+
+msgid ""
+"Could not find a valid project backend for the given directory (%s). Please "
+"select a different directory, or try upgrading to a newer version of Anjuta."
+msgstr ""
+
+msgid "Could not find application pixmap file: %s"
+msgstr ""
+
+msgid ""
+"Could not find autogen version 5; please install the autogen package. You "
+"can get it from http://autogen.sourceforge.net."
+msgstr ""
+
+msgid "Could not find the JHBuild install prefix."
+msgstr ""
+
+msgid ""
+"Could not find the JHBuild library directory. You need JHBuild from "
+"2012-11-06 or later."
+msgstr ""
+
+msgid ""
+"Could not load %s\n"
+"This usually means that your installation is corrupted. The error message leading to this was:\n"
+"%s"
+msgstr ""
+
+msgid "Could not open %s"
+msgstr ""
+
+msgid "Could not open %s: %s"
+msgstr ""
+
+msgid "Could not open file \"%s\": %s"
+msgstr ""
+
+msgid "Could not save %s: %s"
+msgstr ""
+
+msgid "Could not save file because filename not yet specified"
+msgstr ""
+
+msgid "Could not write definition file \"%s\": %s"
+msgstr ""
+
+msgid "Couldn't check out the supplied URI \"%s\". The error returned was: \"%s\""
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create Gtk Builder interface file"
+msgstr ""
+
+msgid "Create Tag"
+msgstr ""
+
+msgid "Create a branch"
+msgstr ""
+
+msgid "Create a new project"
+msgstr ""
+
+msgid "Create a tag"
+msgstr ""
+
+msgid "Create a template Gtk Builder interface file"
+msgstr ""
+
+msgid "Create backup files"
+msgstr ""
+
+msgid "Create corresponding header file"
+msgstr ""
+
+msgid "Create new directories"
+msgstr ""
+
+msgid "Creating %s (using AutoGen)… %s"
+msgstr ""
+
+msgid "Creating %s … %s"
+msgstr ""
+
+msgid "Creating %s … Failed to create directory"
+msgstr ""
+
+msgid "Ctrl-C"
+msgstr ""
+
+msgid "Ctrl-X"
+msgstr ""
+
+msgid "Ctrl-Z"
+msgstr ""
+
+msgid "Current buffer"
+msgstr ""
+
+msgid "Current line in editor"
+msgstr ""
+
+msgid "Current selection"
+msgstr ""
+
+msgid "Current stack of profiles"
+msgstr ""
+
+msgid "Current word in editor"
+msgstr ""
+
+msgid "Currently activated plugins"
+msgstr ""
+
+msgid "Currently available plugins found in plugin paths"
+msgstr ""
+
+msgid "Currently edited file directory"
+msgstr ""
+
+msgid "Currently edited file name"
+msgstr ""
+
+msgid "Currently edited file name without extension"
+msgstr ""
+
+msgid "Currently selected text in editor"
+msgstr ""
+
+msgid "Custom debugger command"
+msgstr ""
+
+msgid "Cut the selected text from the editor to the clipboard"
+msgstr ""
+
+msgid "Cyrillic"
+msgstr ""
+
+msgid "Cyrillic/Russian"
+msgstr ""
+
+msgid "Cyrillic/Ukrainian"
+msgstr ""
+
+msgid "DER certificate:"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Deactivate all breakpoints"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Debug Manager plugin."
+msgstr ""
+
+msgid "Debug _Remote Target…"
+msgstr ""
+
+msgid "Debugger"
+msgstr ""
+
+msgid "Debugger Command…"
+msgstr ""
+
+msgid "Debugger Log"
+msgstr ""
+
+msgid "Debugger command"
+msgstr ""
+
+msgid "Debugger command:"
+msgstr ""
+
+msgid "Debugger connected\n"
+msgstr ""
+
+msgid "Debugger operations"
+msgstr ""
+
+msgid "Debugger terminated with error %d: %s\n"
+msgstr ""
+
+msgid "Debugger:"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default email used in new project"
+msgstr ""
+
+msgid "Default user name used in new project"
+msgstr ""
+
+msgid "Default value"
+msgstr ""
+
+msgid "Delete a remote"
+msgstr ""
+
+msgid "Delete all stashes in this repository"
+msgstr ""
+
+msgid "Delete branches"
+msgstr ""
+
+msgid "Delete empty directories"
+msgstr ""
+
+msgid "Delete selected remote"
+msgstr ""
+
+msgid "Delete selected tags"
+msgstr ""
+
+msgid "Delete the selected stash"
+msgstr ""
+
+msgid "Delete the selected text from the editor"
+msgstr ""
+
+msgid "Delete..."
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Deleted: %s"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Destination:"
+msgstr ""
+
+msgid "Detaching the process…\n"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Develop software in an integrated development environment"
+msgstr ""
+
+msgid "Devhelp Plugin for Anjuta."
+msgstr ""
+
+msgid "Diagonal"
+msgstr ""
+
+msgid "Diff"
+msgstr ""
+
+msgid "Diff Selected Revisions"
+msgstr ""
+
+msgid "Diff file/directory"
+msgstr ""
+
+msgid "Diff files"
+msgstr ""
+
+msgid "Diff local tree with repository"
+msgstr ""
+
+msgid "Diff to Previous"
+msgstr ""
+
+msgid "Diff…"
+msgstr ""
+
+msgid ""
+"Directory \"%s\" is not empty. Project creation could fail if some files "
+"cannot be written. Do you want to continue?"
+msgstr ""
+
+msgid "Directory backend"
+msgstr ""
+
+msgid ""
+"Directory project backend, get only source files, use it when other backend "
+"fails"
+msgstr ""
+
+msgid "Directory where the new projects are created by default"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disable All Breakpoints"
+msgstr ""
+
+msgid "Disable Breakpoint"
+msgstr ""
+
+msgid "Disable a breakpoint"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disassembly"
+msgstr ""
+
+msgid "Discard output"
+msgstr ""
+
+msgid "Display an Add button"
+msgstr ""
+
+msgid "Display description of the plugin"
+msgstr ""
+
+msgid "Display process _tree"
+msgstr ""
+
+msgid "Display program version"
+msgstr ""
+
+msgid "Display title of the plugin"
+msgstr ""
+
+msgid "Django Project"
+msgstr ""
+
+msgid "Django Project information"
+msgstr ""
+
+msgid "Do not act recursively"
+msgstr ""
+
+msgid "Do not commit"
+msgstr ""
+
+msgid "Do not display warning if not using a Debug configuration"
+msgstr ""
+
+msgid "Do not follow tags"
+msgstr ""
+
+msgid "Do not install:"
+msgstr ""
+
+msgid "Do not load last project and files on startup"
+msgstr ""
+
+msgid "Do not load last session on startup"
+msgstr ""
+
+msgid "Do not open last project and files on startup"
+msgstr ""
+
+msgid "Do not open last session on startup"
+msgstr ""
+
+msgid ""
+"Do not rename the target with an optional prefix, used to avoid overwriting "
+"system program. "
+msgstr ""
+
+msgid "Do not show again"
+msgstr ""
+
+msgid "Do not show backup files"
+msgstr ""
+
+msgid "Do not show binary files (.o, .la, etc.)"
+msgstr ""
+
+msgid "Do not show hidden files"
+msgstr ""
+
+msgid "Do not show open documents"
+msgstr ""
+
+msgid "Do not show that warning again"
+msgstr ""
+
+msgid "Do not show the splash screen"
+msgstr ""
+
+msgid "Do not show unversioned files"
+msgstr ""
+
+msgid "Do not use prefix:"
+msgstr ""
+
+msgid "Do you prefer coffee to tea? Check it out."
+msgstr ""
+
+msgid "Dock switcher style:"
+msgstr ""
+
+msgid "Document Manager"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Drag and resize widgets in the workspace"
+msgstr ""
+
+msgid "Drop"
+msgstr ""
+
+msgid "Drop a file or enter a path here"
+msgstr ""
+
+msgid "Drop selected stash"
+msgstr ""
+
+msgid "Dry run"
+msgstr ""
+
+msgid "Dubious entry"
+msgstr ""
+
+msgid "E-mail:"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Breakpoint"
+msgstr ""
+
+msgid "Edit as script"
+msgstr ""
+
+msgid "Edit breakpoint properties"
+msgstr ""
+
+msgid "Edit command as script in Anjuta on close"
+msgstr ""
+
+msgid "Edit widget alignment"
+msgstr ""
+
+msgid "Edit widget margins"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Editor code commenting"
+msgstr ""
+
+msgid "Editor edit operations"
+msgstr ""
+
+msgid "Editor file operations"
+msgstr ""
+
+msgid "Editor navigations"
+msgstr ""
+
+msgid "Editor print operations"
+msgstr ""
+
+msgid "Editor syntax highlighting styles"
+msgstr ""
+
+msgid "Editor text formatting"
+msgstr ""
+
+msgid "Editor text selection"
+msgstr ""
+
+msgid "Editor text transformation"
+msgstr ""
+
+msgid "Editor view settings"
+msgstr ""
+
+msgid "Editor zoom operations"
+msgstr ""
+
+msgid ""
+"Either python path is wrong or python-rope (http://rope.sf.net) libraries\n"
+"aren't installed. Both are required for autocompletion in python files.\n"
+"Please install them and check the python path in the preferences."
+msgstr ""
+
+msgid "Email address:"
+msgstr ""
+
+msgid "Enable Breakpoint"
+msgstr ""
+
+msgid "Enable _all"
+msgstr ""
+
+msgid "Enable a breakpoint"
+msgstr ""
+
+msgid "Enable adaptive indentation"
+msgstr ""
+
+msgid "Enable autocompletion for document words"
+msgstr ""
+
+msgid "Enable code completion"
+msgstr ""
+
+msgid "Enable files autosave"
+msgstr ""
+
+msgid "Enable smart brace completion"
+msgstr ""
+
+msgid "Enable smart indentation"
+msgstr ""
+
+msgid "Enable/disable line wrapping"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "End Revision:"
+msgstr ""
+
+msgid "Enter an address in hexadecimal or select one in the data"
+msgstr ""
+
+msgid ""
+"Enter the File name.\n"
+"The extension will be added according to the type."
+msgstr ""
+
+msgid "Entering: %s"
+msgstr ""
+
+msgid "Environment"
+msgstr ""
+
+msgid "Environment Variables:"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error closing project: %s"
+msgstr ""
+
+msgid "Error message indicator style:"
+msgstr ""
+
+msgid "Error when loading external tools"
+msgstr ""
+
+msgid ""
+"Error while setting up build environment:\n"
+" %s"
+msgstr ""
+
+msgid "Error whilst signaling the process."
+msgstr ""
+
+msgid "Error: %s"
+msgstr ""
+
+msgid "Error: cant bind port"
+msgstr ""
+
+msgid "Errors:"
+msgstr ""
+
+msgid "Executable '%s' is not up-to-date."
+msgstr ""
+
+msgid "Execute"
+msgstr ""
+
+msgid "Executing: %s"
+msgstr ""
+
+msgid "Existing message pane"
+msgstr ""
+
+msgid "Export snippets"
+msgstr ""
+
+msgid "Export snippets from the database"
+msgstr ""
+
+msgid "Extension URL"
+msgstr ""
+
+msgid "Extern (rsh)"
+msgstr ""
+
+msgid "Externally Updated: %s"
+msgstr ""
+
+msgid "Failed to activate plugin: %s"
+msgstr ""
+
+msgid "Failed to activate the JHBuild Plugin: %s"
+msgstr ""
+
+msgid ""
+"Failed to create FIFO file named %s. The program will run without a "
+"terminal."
+msgstr ""
+
+msgid "Failed to execute autogen: %s"
+msgstr ""
+
+msgid ""
+"Failed to parse project (the project is opened, but there will be no project"
+" view) %s: %s\n"
+msgstr ""
+
+msgid "Failed to read '%s': Following mandatory plugins are missing"
+msgstr ""
+
+msgid ""
+"Failed to read '%s': XML parse error. Invalid or corrupted Anjuta plugins "
+"profile."
+msgstr ""
+
+msgid ""
+"Failed to remove '%s':\n"
+"%s"
+msgstr ""
+
+msgid "Failed to retrieve URI info of %s: %s"
+msgstr ""
+
+msgid "Failed to run \"%s\". The returned error was: \"%s\"."
+msgstr ""
+
+msgid "Failed to run \"jhbuild run\""
+msgstr ""
+
+msgid "Failed to run \"jhbuild run\" (%s)"
+msgstr ""
+
+msgid "Fetch"
+msgstr ""
+
+msgid "Fetch changes from remote repositories"
+msgstr ""
+
+msgid "Fetch remote branches after creation"
+msgstr ""
+
+msgid ""
+"Field \"%s\" must contains only ASCII printable characters, no accentuated "
+"characters by example. Please fix it."
+msgstr ""
+
+msgid ""
+"Field \"%s\" must contains only letters, digits or the following characters "
+"\"#$:%%+,.=@^_`~\". In addition you cannot have a leading dash. Please fix "
+"it."
+msgstr ""
+
+msgid ""
+"Field \"%s\" must contains only letters, digits, the following characters "
+"\"#$:%%+,.=@^_`~\" or directory separators. In addition you cannot have a "
+"leading dash. Please fix it."
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File \"%s\" already exists. Do you want to overwrite it?"
+msgstr ""
+
+msgid "File Assistant"
+msgstr ""
+
+msgid "File Information"
+msgstr ""
+
+msgid "File Loader"
+msgstr ""
+
+msgid "File Manager"
+msgstr ""
+
+msgid "File is binary"
+msgstr ""
+
+msgid "File loader to load different files"
+msgstr ""
+
+msgid "File manager for project and single files"
+msgstr ""
+
+msgid "File manager popup actions"
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "File or directory to diff:"
+msgstr ""
+
+msgid "File to syncronize the profile XML"
+msgstr ""
+
+msgid "File to which the processed template will be written"
+msgstr ""
+
+msgid "File/Directory to patch"
+msgstr ""
+
+msgid "File/Directory to patch:"
+msgstr ""
+
+msgid "File/URL to Remove:"
+msgstr ""
+
+msgid "Filename"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Find Symbol"
+msgstr ""
+
+msgid "Find _Next"
+msgstr ""
+
+msgid "Find _Previous"
+msgstr ""
+
+msgid "Find and R_eplace…"
+msgstr ""
+
+msgid "Find in Files"
+msgstr ""
+
+msgid "Find in files"
+msgstr ""
+
+msgid "Fingerprint:"
+msgstr ""
+
+msgid "First Path:"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Folder properties"
+msgstr ""
+
+msgid "Folder to create patches in:"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Font:"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid "Force"
+msgstr ""
+
+msgid "Forget selected plugin"
+msgstr ""
+
+msgid "Fortran compiler flags:"
+msgstr ""
+
+msgid "Frame"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Full features Gtk+ Application with file handling"
+msgstr ""
+
+msgid "Function"
+msgstr ""
+
+msgid "Function finished\n"
+msgstr ""
+
+msgid "GCJ needs to know which class contains the main() function"
+msgstr ""
+
+msgid "GFile representing the top-most path displayed"
+msgstr ""
+
+msgid "GLib.Object"
+msgstr ""
+
+msgid "GNOME toolbar setting"
+msgstr ""
+
+msgid "GNU Debugger"
+msgstr ""
+
+msgid "GNU Debugger Plugin"
+msgstr ""
+
+msgid "GObject Class\t"
+msgstr ""
+
+msgid "GObject Prefix and Type:"
+msgstr ""
+
+msgid "GTK+ (Application)"
+msgstr ""
+
+msgid "GTK+ (simple)"
+msgstr ""
+
+msgid "GTKmm (Simple)"
+msgstr ""
+
+msgid "GType"
+msgstr ""
+
+msgid "GbfProject Object"
+msgstr ""
+
+msgid "Gdb Debugger"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "General Class Properties"
+msgstr ""
+
+msgid "General Project Information"
+msgstr ""
+
+msgid "General Public License (GPL)"
+msgstr ""
+
+msgid "Generate Patch Series"
+msgstr ""
+
+msgid "Generate a patch series"
+msgstr ""
+
+msgid "Generate patches relative to:"
+msgstr ""
+
+msgid "Generating inheritances…"
+msgstr ""
+
+msgid "Generic"
+msgstr ""
+
+msgid "Generic (Minimal)"
+msgstr ""
+
+msgid "Generic C++"
+msgstr ""
+
+msgid "Generic C++ Class"
+msgstr ""
+
+msgid "Generic JavaScript"
+msgstr ""
+
+msgid "Generic gcj compiled java"
+msgstr ""
+
+msgid "Generic java (automake)"
+msgstr ""
+
+msgid "Generic python (automake)"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "Get Stack trace"
+msgstr ""
+
+msgid "Getter"
+msgstr ""
+
+msgid "Getting ready to start debugging session…\n"
+msgstr ""
+
+msgid "Gir repository's directory:"
+msgstr ""
+
+msgid "Git"
+msgstr ""
+
+msgid "Git Error"
+msgstr ""
+
+msgid "Git Warning"
+msgstr ""
+
+msgid "Git version control"
+msgstr ""
+
+msgid ""
+"Give a package name that your project require. You may also mention what is "
+"the required version of the package. For example, 'libgnomeui-2.0' or "
+"'libgnomeui-2.0 >= 2.2.0'"
+msgstr ""
+
+msgid "Gjs repository's directory:"
+msgstr ""
+
+msgid "Glade Plugin for Anjuta."
+msgstr ""
+
+msgid "Glade Properties…"
+msgstr ""
+
+msgid "Glade designer operations"
+msgstr ""
+
+msgid "Glade interface designer"
+msgstr ""
+
+msgid "Glade project '%s' saved"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Gnome Shell Compatibility:"
+msgstr ""
+
+msgid "Gnome Shell Extension"
+msgstr ""
+
+msgid "Go to"
+msgstr ""
+
+msgid "Go to a particular line in the editor"
+msgstr ""
+
+msgid "Go to next history"
+msgstr ""
+
+msgid "Go to previous history"
+msgstr ""
+
+msgid "Go to symbol declaration"
+msgstr ""
+
+msgid "Go to symbol definition"
+msgstr ""
+
+msgid "Go to the end of the current block"
+msgstr ""
+
+msgid "Go to the matching brace in the editor"
+msgstr ""
+
+msgid "Go to the start of the current block"
+msgstr ""
+
+msgid "Graph"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Group name can only contain alphanumeric or \"#$:%+,-.=@^_`~/\" characters"
+msgstr ""
+
+msgid "GtkSourceView Editor"
+msgstr ""
+
+msgid "GtkSourceView editor"
+msgstr ""
+
+msgid "Guess from type"
+msgstr ""
+
+msgid "Hard"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "Header File:"
+msgstr ""
+
+msgid "Header Files"
+msgstr ""
+
+msgid "Header or source file has not been created"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hebrew Visual"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Help operations"
+msgstr ""
+
+msgid "Help text"
+msgstr ""
+
+msgid "Hide process para_meters"
+msgstr ""
+
+msgid "Highlight All"
+msgstr ""
+
+msgid "Highlight all occurrences"
+msgstr ""
+
+msgid "Highlight build warnings and errors in editor"
+msgstr ""
+
+msgid "Highlight current line"
+msgstr ""
+
+msgid "Highlight matching brackets"
+msgstr ""
+
+msgid "Highlight missed semicolon"
+msgstr ""
+
+msgid "Highlight source code"
+msgstr ""
+
+msgid "Highlight syntax"
+msgstr ""
+
+msgid "Highlights"
+msgstr ""
+
+msgid "Hostname:"
+msgstr ""
+
+msgid "Hypertext markup files"
+msgstr ""
+
+msgid "IDE;development;programming;"
+msgstr ""
+
+msgid "INS"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Icon File:"
+msgstr ""
+
+msgid "Icon file for the plugin"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "Icons only"
+msgstr ""
+
+msgid "If empty, current login and machine name is used."
+msgstr ""
+
+msgid "If empty, the current user name is used."
+msgstr ""
+
+msgid ""
+"If empty, the user home directory is used. If the path is relative, it is "
+"relative to the home directory."
+msgstr ""
+
+msgid "If you do not save, all your changes will be lost."
+msgstr ""
+
+msgid "Ignore .cvsrc file (recommended)"
+msgstr ""
+
+msgid "Ignore ancestry"
+msgstr ""
+
+msgid "Ignored"
+msgstr ""
+
+msgid "Implement plugin interfaces"
+msgstr ""
+
+msgid "Implementation"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import Snippets"
+msgstr ""
+
+msgid "Import a new source tree to CVS"
+msgstr ""
+
+msgid "Import a project"
+msgstr ""
+
+msgid "Import an existing autotools project to Anjuta"
+msgstr ""
+
+msgid "Import from folder"
+msgstr ""
+
+msgid "Import from version control system"
+msgstr ""
+
+msgid "Import options"
+msgstr ""
+
+msgid "Import project"
+msgstr ""
+
+msgid "Import snippets to the database"
+msgstr ""
+
+msgid "Important:"
+msgstr ""
+
+msgid "Imports"
+msgstr ""
+
+msgid "Include in distribution:"
+msgstr ""
+
+msgid "Include this target in the distributed package."
+msgstr ""
+
+msgid "Indent:"
+msgstr ""
+
+msgid "Indentation"
+msgstr ""
+
+msgid "Indentation and auto-format options"
+msgstr ""
+
+msgid "Indentation parameters"
+msgstr ""
+
+msgid "Indentation size in spaces:"
+msgstr ""
+
+msgid "Indicators"
+msgstr ""
+
+msgid "Info Documentation"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Initializer Arguments:"
+msgstr ""
+
+msgid "Initializing Project…"
+msgstr ""
+
+msgid "Inline the declaration and implementation"
+msgstr ""
+
+msgid "Ins_pect/Evaluate…"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Insert a snippet using auto-completion"
+msgstr ""
+
+msgid "Insert a snippet using the trigger-key"
+msgstr ""
+
+msgid "Insert into buffer"
+msgstr ""
+
+msgid "Insert snippet into editor at current cursor position"
+msgstr ""
+
+msgid "Inspect"
+msgstr ""
+
+msgid "Inspect or evaluate an expression or variable"
+msgstr ""
+
+msgid "Inspect/Evaluate"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Install as root:"
+msgstr ""
+
+msgid "Install missing packages"
+msgstr ""
+
+msgid "Install module"
+msgstr ""
+
+msgid "Install module associated with current file"
+msgstr ""
+
+msgid "Install whole project"
+msgstr ""
+
+msgid "Installation directories:"
+msgstr ""
+
+msgid "Installation directory:"
+msgstr ""
+
+msgid "Installation failed: %s"
+msgstr ""
+
+msgid "Installed plugins"
+msgstr ""
+
+msgid "Instant value"
+msgstr ""
+
+msgid "Integrated Development Environment"
+msgstr ""
+
+msgid "Interface implemented by the plugin"
+msgstr ""
+
+msgid "Interface:"
+msgstr ""
+
+msgid "Interpreter"
+msgstr ""
+
+msgid "Interrupting the process\n"
+msgstr ""
+
+msgid "Invalid Glade file name"
+msgstr ""
+
+msgid "Invalid entry"
+msgstr ""
+
+msgid "Invalid profile %s: %s"
+msgstr ""
+
+msgid "Issuer DN:"
+msgstr ""
+
+msgid ""
+"It has to be a standard directory or a custom one defined in group "
+"properties."
+msgstr ""
+
+msgid "Item"
+msgstr ""
+
+msgid "JHBuild"
+msgstr ""
+
+msgid "JS Find dirs"
+msgstr ""
+
+msgid "JS Support Plugin"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Java Module"
+msgstr ""
+
+msgid "Java Source File"
+msgstr ""
+
+msgid "Java compiler flags:"
+msgstr ""
+
+msgid "Java source files"
+msgstr ""
+
+msgid "JavaScript"
+msgstr ""
+
+msgid "JavaScript Class"
+msgstr ""
+
+msgid "JavaScript Support Plugin"
+msgstr ""
+
+msgid "Javascript Debugger"
+msgstr ""
+
+msgid "Javascript Debugger Plugin"
+msgstr ""
+
+msgid "Jump to Breakpoint"
+msgstr ""
+
+msgid "Jump to breakpoint location"
+msgstr ""
+
+msgid "Jump to the next bookmark in the file"
+msgstr ""
+
+msgid "Jump to the previous bookmark in the file"
+msgstr ""
+
+msgid ""
+"Keep relative target path for installing it. By example if you have a "
+"program subdir/app installed in bin directory it will be installed in "
+"bin/subdir/app not in bin/app."
+msgstr ""
+
+msgid "Keep target path:"
+msgstr ""
+
+msgid "Kernel Signals"
+msgstr ""
+
+msgid "Kernel signals"
+msgstr ""
+
+msgid ""
+"Keywords are used for better searching of the snippets. They should be "
+"relevant to the snippet content. Type them separated by a single space."
+msgstr ""
+
+msgid "Keywords:"
+msgstr ""
+
+msgid "Kill program"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Language Manager"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Languages:"
+msgstr ""
+
+msgid "Leading asterisk in multi-line comment"
+msgstr ""
+
+msgid "Leaving: %s"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Lesser General Public License (LGPL)"
+msgstr ""
+
+msgid "Lex/Flex flags:"
+msgstr ""
+
+msgid "Libraries:"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Libtool support:"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "License:"
+msgstr ""
+
+msgid "Line"
+msgstr ""
+
+msgid "Line _Wrapping"
+msgstr ""
+
+msgid "Line numbers"
+msgstr ""
+
+msgid "Line up parentheses"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Linker flags:"
+msgstr ""
+
+msgid "Lisp Module"
+msgstr ""
+
+msgid "List of custom installation directories used by targets in this group."
+msgstr ""
+
+msgid "Load"
+msgstr ""
+
+msgid "Load API tags for C standard library"
+msgstr ""
+
+msgid "Load API tags for C++ standard template library"
+msgstr ""
+
+msgid "Load Target to run"
+msgstr ""
+
+msgid "Loaded"
+msgstr ""
+
+msgid "Loaded Session…"
+msgstr ""
+
+msgid "Loading Core: %s\n"
+msgstr ""
+
+msgid "Loading Executable: "
+msgstr ""
+
+msgid "Loading Executable: %s\n"
+msgstr ""
+
+msgid "Loading Glade…"
+msgstr ""
+
+msgid "Loading files..."
+msgstr ""
+
+msgid "Loading project: %s"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Loading:"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Locals"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Location reached\n"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Lock the current dock layout so that widgets cannot be moved"
+msgstr ""
+
+msgid "Locked"
+msgstr ""
+
+msgid "Log"
+msgstr ""
+
+msgid "Log Message:"
+msgstr ""
+
+msgid "Log message:"
+msgstr ""
+
+msgid "Log popup menu"
+msgstr ""
+
+msgid "Long description of your plugin"
+msgstr ""
+
+msgid "Lua files"
+msgstr ""
+
+msgid "Mailbox files"
+msgstr ""
+
+msgid "Mailbox files to apply:"
+msgstr ""
+
+msgid "Main Class:"
+msgstr ""
+
+msgid "Main class"
+msgstr ""
+
+msgid "Make Selection Lowercase"
+msgstr ""
+
+msgid "Make sure 'gdb' is installed on the system.\n"
+msgstr ""
+
+msgid "Make the selected text lowercase"
+msgstr ""
+
+msgid "Make the selected text uppercase"
+msgstr ""
+
+msgid "Makefile backend"
+msgstr ""
+
+msgid "Makefile project"
+msgstr ""
+
+msgid "Makefile project backend, allowing only to read the project"
+msgstr ""
+
+msgid "Makefile-based project"
+msgstr ""
+
+msgid "Makefiles"
+msgstr ""
+
+msgid "Man Documentation"
+msgstr ""
+
+msgid "Manages messages from external apps"
+msgstr ""
+
+msgid "Manual section:"
+msgstr ""
+
+msgid "Mark selected conflicted files as resolved"
+msgstr ""
+
+msgid "Marshaller"
+msgstr ""
+
+msgid "Match case in search results."
+msgstr ""
+
+msgid "Matching _Brace"
+msgstr ""
+
+msgid "Meaning"
+msgstr ""
+
+msgid "Member Functions/Variables"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Merge a revision into the current branch"
+msgstr ""
+
+msgid "Merge an individual commit from another branch"
+msgstr ""
+
+msgid "Merge changes into working copy"
+msgstr ""
+
+msgid "Merge changes into your working copy"
+msgstr ""
+
+msgid "Merge..."
+msgstr ""
+
+msgid "Merged: %s"
+msgstr ""
+
+msgid "Merge…"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Manager"
+msgstr ""
+
+msgid "Message colors"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Methods"
+msgstr ""
+
+msgid "Min character for completion:"
+msgstr ""
+
+msgid "Minimum SDL version required"
+msgstr ""
+
+msgid "Miscellaneous Data"
+msgstr ""
+
+msgid "Missing"
+msgstr ""
+
+msgid "Missing components"
+msgstr ""
+
+msgid "Missing location of plugin %s"
+msgstr ""
+
+msgid "Missing module name"
+msgstr ""
+
+msgid "Missing name"
+msgstr ""
+
+msgid "Missing tool name"
+msgstr ""
+
+msgid "Missing type defined by plugin %s"
+msgstr ""
+
+msgid "Missing: %s"
+msgstr ""
+
+msgid "Mixed"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Mode:"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Modified: %s"
+msgstr ""
+
+msgid "Module"
+msgstr ""
+
+msgid "Module (Libtool)"
+msgstr ""
+
+msgid "Module Details:"
+msgstr ""
+
+msgid "Module name:"
+msgstr ""
+
+msgid "Module properties"
+msgstr ""
+
+msgid "Module target name must be of the form 'xxx.la'"
+msgstr ""
+
+msgid "Modules:"
+msgstr ""
+
+msgid "More options:"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name of the plugin profile"
+msgstr ""
+
+msgid "Name of the value to watch"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New Autotools backend for project manager"
+msgstr ""
+
+msgid "New File"
+msgstr ""
+
+msgid "New Folder"
+msgstr ""
+
+msgid "New Library"
+msgstr ""
+
+msgid "New Project Assistant"
+msgstr ""
+
+msgid "New Target"
+msgstr ""
+
+msgid "New _Folder"
+msgstr ""
+
+msgid "New _Folder…"
+msgstr ""
+
+msgid "New _Target"
+msgstr ""
+
+msgid "New _Target…"
+msgstr ""
+
+msgid "New accelerator…"
+msgstr ""
+
+msgid "New buffer"
+msgstr ""
+
+msgid "New empty file"
+msgstr ""
+
+msgid "New file %d"
+msgstr ""
+
+msgid "New file, project and project components."
+msgstr ""
+
+msgid "New message pane"
+msgstr ""
+
+msgid "New project creation has failed."
+msgstr ""
+
+msgid "New project has been created successfully."
+msgstr ""
+
+msgid "Next Document"
+msgstr ""
+
+msgid "Next Histor_y"
+msgstr ""
+
+msgid "Next message"
+msgstr ""
+
+msgid "Next/Previous Message"
+msgstr ""
+
+msgid "Nick"
+msgstr ""
+
+msgid "No License"
+msgstr ""
+
+msgid "No conflicted files selected."
+msgstr ""
+
+msgid "No document currently open: command aborted"
+msgstr ""
+
+msgid "No executable for this file."
+msgstr ""
+
+msgid "No executable specified.\n"
+msgstr ""
+
+msgid "No executables in this project!"
+msgstr ""
+
+msgid "No file or project currently opened."
+msgstr ""
+
+msgid "No group selected"
+msgstr ""
+
+msgid "No items found"
+msgstr ""
+
+msgid "No license"
+msgstr ""
+
+msgid "No parent group selected"
+msgstr ""
+
+msgid "No plugin is able to load other plugins in %s"
+msgstr ""
+
+msgid "No project loaded"
+msgstr ""
+
+msgid "No recently used resource found with URI \"%s\""
+msgstr ""
+
+msgid "No remote selected"
+msgstr ""
+
+msgid "No remote selected."
+msgstr ""
+
+msgid ""
+"No remote selected; using origin by default.\n"
+"To push to a different remote, select one from the Remotes list above."
+msgstr ""
+
+msgid "No revision selected"
+msgstr ""
+
+msgid "No staged files selected."
+msgstr ""
+
+msgid "No stash selected."
+msgstr ""
+
+msgid "No tags selected."
+msgstr ""
+
+msgid "No target has been selected"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Nordic"
+msgstr ""
+
+msgid "Normal message indicator style:"
+msgstr ""
+
+msgid "Not local file: %s"
+msgstr ""
+
+msgid "Number of characters of one tabulation"
+msgstr ""
+
+msgid "Number of spaces on every indentation step"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "OVR"
+msgstr ""
+
+msgid "Objective C compiler flags:"
+msgstr ""
+
+msgid "Obstructed: %s"
+msgstr ""
+
+msgid "Online documentation and resources"
+msgstr ""
+
+msgid "Only Shared"
+msgstr ""
+
+msgid "Only Static"
+msgstr ""
+
+msgid "Only show user activatable plugins"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open '%s'"
+msgstr ""
+
+msgid "Open With"
+msgstr ""
+
+msgid "Open _Recent"
+msgstr ""
+
+msgid "Open _With"
+msgstr ""
+
+msgid "Open a file"
+msgstr ""
+
+msgid "Open all code folds in the editor"
+msgstr ""
+
+msgid "Open an executable or attach to a process to start debugging.\n"
+msgstr ""
+
+msgid "Open documents"
+msgstr ""
+
+msgid "Open file"
+msgstr ""
+
+msgid "Open recent file"
+msgstr ""
+
+msgid "Open recent files"
+msgstr ""
+
+msgid "Open with"
+msgstr ""
+
+msgid "Open with:"
+msgstr ""
+
+msgid "Opening %s"
+msgstr ""
+
+msgid "Optimized"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Options for project build system"
+msgstr ""
+
+msgid "Options:"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Other Revision:"
+msgstr ""
+
+msgid "PHP source files"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "PROFILE_FILE"
+msgstr ""
+
+msgid "Pa_use Program"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Package list:"
+msgstr ""
+
+msgid ""
+"Package name, it can contains only alphanumerics and underscore "
+"characters.It is generated from the project name if not provided."
+msgstr ""
+
+msgid "Package name:"
+msgstr ""
+
+msgid "Package properties"
+msgstr ""
+
+msgid "Packages"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "Parallel scan of project and global symbols"
+msgstr ""
+
+msgid "ParamSpec"
+msgstr ""
+
+msgid "Parameters:"
+msgstr ""
+
+msgid "Parenthesis indentation"
+msgstr ""
+
+msgid "Pascal source files"
+msgstr ""
+
+msgid "Pass"
+msgstr ""
+
+msgid "Pass count"
+msgstr ""
+
+msgid "Pass:"
+msgstr ""
+
+msgid "Password server (pserver)"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Paste the content of clipboard at the current position"
+msgstr ""
+
+msgid "Patch"
+msgstr ""
+
+msgid "Patch Plugin"
+msgstr ""
+
+msgid ""
+"Patch failed.\n"
+"Please review the failure messages.\n"
+"Examine and remove any rejected files.\n"
+msgstr ""
+
+msgid "Patch file"
+msgstr ""
+
+msgid "Patch file:"
+msgstr ""
+
+msgid "Patch files/directories"
+msgstr ""
+
+msgid "Patch level:"
+msgstr ""
+
+msgid "Patch series"
+msgstr ""
+
+msgid "Patch-Style diff"
+msgstr ""
+
+msgid "Patches"
+msgstr ""
+
+msgid "Patches files and directories."
+msgstr ""
+
+msgid "Patching %s using %s\n"
+msgstr ""
+
+msgid "Patching complete"
+msgstr ""
+
+msgid "Patching…"
+msgstr ""
+
+msgid "Patching…\n"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Path that all files in the list should be relative to"
+msgstr ""
+
+msgid "Path that dropped files should be relative to"
+msgstr ""
+
+msgid "Path to \"cvs\" command"
+msgstr ""
+
+msgid "Path:"
+msgstr ""
+
+msgid "Pauses the execution of the program"
+msgstr ""
+
+msgid "Perl Source File"
+msgstr ""
+
+msgid "Perl source files"
+msgstr ""
+
+msgid "Pixbuf Object"
+msgstr ""
+
+msgid "Please enter a URL"
+msgstr ""
+
+msgid "Please enter a URL."
+msgstr ""
+
+msgid "Please enter a branch name."
+msgstr ""
+
+msgid "Please enter a branch/tag URL."
+msgstr ""
+
+msgid "Please enter a commit."
+msgstr ""
+
+msgid "Please enter a destination path."
+msgstr ""
+
+msgid "Please enter a filename!"
+msgstr ""
+
+msgid "Please enter a log message."
+msgstr ""
+
+msgid "Please enter a path."
+msgstr ""
+
+msgid "Please enter a remote name."
+msgstr ""
+
+msgid "Please enter a revision."
+msgstr ""
+
+msgid "Please enter a source path."
+msgstr ""
+
+msgid "Please enter a tag name."
+msgstr ""
+
+msgid "Please enter a working copy path."
+msgstr ""
+
+msgid "Please enter the commit author's e-mail address."
+msgstr ""
+
+msgid "Please enter the commit author's name"
+msgstr ""
+
+msgid "Please enter the end revision."
+msgstr ""
+
+msgid "Please enter the first path."
+msgstr ""
+
+msgid "Please enter the second path."
+msgstr ""
+
+msgid "Please enter the start revision."
+msgstr ""
+
+msgid "Please fill field: %s"
+msgstr ""
+
+msgid "Please select a plugin from the list"
+msgstr ""
+
+msgid "Please select a plugin to activate"
+msgstr ""
+
+msgid "Please select a plugin to open <b>%s</b>."
+msgstr ""
+
+msgid "Please select a project backend to open %s."
+msgstr ""
+
+msgid "Please select a project backend to use."
+msgstr ""
+
+msgid "Please select the directory where the patch should be applied"
+msgstr ""
+
+msgid "Please specify group name"
+msgstr ""
+
+msgid "Please specify target name"
+msgstr ""
+
+msgid "Plugin '%s' does not want to be deactivated"
+msgstr ""
+
+msgid "Plugin Class Name:"
+msgstr ""
+
+msgid "Plugin Dependencies:"
+msgstr ""
+
+msgid "Plugin Description:"
+msgstr ""
+
+msgid "Plugin Manager"
+msgstr ""
+
+msgid "Plugin Name:"
+msgstr ""
+
+msgid "Plugin Title:"
+msgstr ""
+
+msgid "Plugin class name"
+msgstr ""
+
+msgid "Plugin has menus or/and toolbars"
+msgstr ""
+
+msgid "Plugin interfaces to implement"
+msgstr ""
+
+msgid "Plugin to keep track of multiple programming languages"
+msgstr ""
+
+msgid "Populating symbol database…"
+msgstr ""
+
+msgid "Popup dialog"
+msgstr ""
+
+msgid "Popup menu entries"
+msgstr ""
+
+msgid "Port:"
+msgstr ""
+
+msgid "Position:"
+msgstr ""
+
+msgid "Prefer vim/emacs modelines over indentation settings"
+msgstr ""
+
+msgid "Preferred plugins"
+msgstr ""
+
+msgid "Preparing pages for printing"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Preview the current file in print format"
+msgstr ""
+
+msgid "Previous Commit Messages:"
+msgstr ""
+
+msgid "Previous Document"
+msgstr ""
+
+msgid "Previous _History"
+msgstr ""
+
+msgid "Previous message"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print the current file"
+msgstr ""
+
+msgid "Print:"
+msgstr ""
+
+msgid "Profile Name"
+msgstr ""
+
+msgid "Profiles"
+msgstr ""
+
+msgid "Profiling"
+msgstr ""
+
+msgid "Program"
+msgstr ""
+
+msgid "Program '%s' does not exist"
+msgstr ""
+
+msgid "Program '%s' does not have execution permission"
+msgstr ""
+
+msgid "Program '%s' is not a local file"
+msgstr ""
+
+msgid "Program Interrupt"
+msgstr ""
+
+msgid "Program Parameters"
+msgstr ""
+
+msgid "Program Parameters…"
+msgstr ""
+
+msgid "Program attached\n"
+msgstr ""
+
+msgid "Program detached\n"
+msgstr ""
+
+msgid "Program directory '%s' is not local"
+msgstr ""
+
+msgid "Program exited normally\n"
+msgstr ""
+
+msgid "Program exited with error code %s\n"
+msgstr ""
+
+msgid "Program has received signal: %s\n"
+msgstr ""
+
+msgid "Program terminated\n"
+msgstr ""
+
+msgid "Program:"
+msgstr ""
+
+msgid "Project"
+msgstr ""
+
+msgid "Project Assistant"
+msgstr ""
+
+msgid "Project Import Assistant"
+msgstr ""
+
+msgid "Project Loaded"
+msgstr ""
+
+msgid "Project Manager"
+msgstr ""
+
+msgid "Project Manager Plugin for Anjuta."
+msgstr ""
+
+msgid "Project Name:"
+msgstr ""
+
+msgid "Project Type: %s\n"
+msgstr ""
+
+msgid "Project directory, output file etc."
+msgstr ""
+
+msgid "Project directory:"
+msgstr ""
+
+msgid "Project doesn't allow to set properties"
+msgstr ""
+
+msgid "Project doesn't exist or has an invalid path"
+msgstr ""
+
+msgid "Project doesn't exist or invalid path"
+msgstr ""
+
+msgid "Project from Existing Sources"
+msgstr ""
+
+msgid "Project manager actions"
+msgstr ""
+
+msgid "Project manager popup actions"
+msgstr ""
+
+msgid "Project name"
+msgstr ""
+
+msgid ""
+"Project name must not contain spaces, because it will be the name of the "
+"project build target (executable, library etc.)"
+msgstr ""
+
+msgid "Project name, it can contain spaces by example 'GNU Autoconf'"
+msgstr ""
+
+msgid "Project name:"
+msgstr ""
+
+msgid "Project options"
+msgstr ""
+
+msgid "Project properties"
+msgstr ""
+
+msgid "Project root URI"
+msgstr ""
+
+msgid "Project root directory:"
+msgstr ""
+
+msgid "Project root path"
+msgstr ""
+
+msgid ""
+"Project version, typically a few numbers separated by dot by example '1.0.0'"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Properties of group/target/source"
+msgstr ""
+
+msgid "Provides document management capabilities."
+msgstr ""
+
+msgid "Pull"
+msgstr ""
+
+msgid "Pull changes from a remote repository"
+msgstr ""
+
+msgid "Pull..."
+msgstr ""
+
+msgid "Push"
+msgstr ""
+
+msgid "Push all branches and tags"
+msgstr ""
+
+msgid "Push all tags"
+msgstr ""
+
+msgid "Push changes to a remote repository"
+msgstr ""
+
+msgid "Push..."
+msgstr ""
+
+msgid "PyGTK (automake)"
+msgstr ""
+
+msgid "PyGTK project using automake"
+msgstr ""
+
+msgid "Python"
+msgstr ""
+
+msgid "Python Assistance"
+msgstr ""
+
+msgid "Python Class"
+msgstr ""
+
+msgid "Python Indentation"
+msgstr ""
+
+msgid "Python Module"
+msgstr ""
+
+msgid "Python Source File"
+msgstr ""
+
+msgid "Python loader"
+msgstr ""
+
+msgid "Python source files"
+msgstr ""
+
+msgid "Python support warning"
+msgstr ""
+
+msgid "Python webproject using Django Web Framework"
+msgstr ""
+
+msgid "Quick Open"
+msgstr ""
+
+msgid "Quick editor embedded search"
+msgstr ""
+
+msgid "Quick open"
+msgstr ""
+
+msgid "Quick open operations"
+msgstr ""
+
+msgid "Quickly open a file in the current project."
+msgstr ""
+
+msgid "Quit Anjuta IDE"
+msgstr ""
+
+msgid "R_emove All Breakpoints"
+msgstr ""
+
+msgid "Re_move"
+msgstr ""
+
+msgid "Realm:"
+msgstr ""
+
+msgid "Rebase"
+msgstr ""
+
+msgid "Rebase against selected remote"
+msgstr ""
+
+msgid "Recent _Files"
+msgstr ""
+
+msgid "Recurse"
+msgstr ""
+
+msgid "Redo the last undone action"
+msgstr ""
+
+msgid "Regenerate project"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Register Function"
+msgstr ""
+
+msgid "Registers"
+msgstr ""
+
+msgid "Regular Expression"
+msgstr ""
+
+msgid "Regular expression"
+msgstr ""
+
+msgid "Release"
+msgstr ""
+
+msgid "Release tag:"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Reload F_ile"
+msgstr ""
+
+msgid "Reload current file"
+msgstr ""
+
+msgid "Reloading project: %s"
+msgstr ""
+
+msgid "Remember Password"
+msgstr ""
+
+msgid "Remember this decision"
+msgstr ""
+
+msgid "Remember this selection"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Remote Repositories:"
+msgstr ""
+
+msgid "Remote debugging"
+msgstr ""
+
+msgid "Remote name:"
+msgstr ""
+
+msgid "Remote popup menu"
+msgstr ""
+
+msgid "Remote repository tools"
+msgstr ""
+
+msgid "Remotes"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Breakpoint"
+msgstr ""
+
+msgid "Remove Configuration"
+msgstr ""
+
+msgid "Remove Files"
+msgstr ""
+
+msgid "Remove Files:"
+msgstr ""
+
+msgid "Remove Watch"
+msgstr ""
+
+msgid "Remove a breakpoint"
+msgstr ""
+
+msgid "Remove a file/directory from CVS tree"
+msgstr ""
+
+msgid "Remove a file/directory from Subversion tree"
+msgstr ""
+
+msgid "Remove all"
+msgstr ""
+
+msgid "Remove all breakpoints"
+msgstr ""
+
+msgid "Remove bookmark"
+msgstr ""
+
+msgid "Remove current view of the document"
+msgstr ""
+
+msgid "Remove file/directory"
+msgstr ""
+
+msgid "Remove files from the repository"
+msgstr ""
+
+msgid "Remove from project"
+msgstr ""
+
+msgid "Remove recently used project from list"
+msgstr ""
+
+msgid "Remove selected snippet"
+msgstr ""
+
+msgid "Remove staged files from the index"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Rename file or directory"
+msgstr ""
+
+msgid "Repeat the last Find command"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace All"
+msgstr ""
+
+msgid "Replace all"
+msgstr ""
+
+msgid "Replace buffer"
+msgstr ""
+
+msgid "Replace selection"
+msgstr ""
+
+msgid "Report _Bugs/Patches/Requests"
+msgstr ""
+
+msgid "Repository Head"
+msgstr ""
+
+msgid "Repository Status:"
+msgstr ""
+
+msgid "Repository authorization"
+msgstr ""
+
+msgid "Repository head; Drop or type a different revision here"
+msgstr ""
+
+msgid "Repository origin; Drop or type a different revision here"
+msgstr ""
+
+msgid "Repository to pull from:"
+msgstr ""
+
+msgid "Repository to push to:"
+msgstr ""
+
+msgid "Repository:"
+msgstr ""
+
+msgid "Require Package:"
+msgstr ""
+
+msgid "Require SDL version:"
+msgstr ""
+
+msgid "Require SDL_gfx library"
+msgstr ""
+
+msgid "Require SDL_gfx:"
+msgstr ""
+
+msgid "Require SDL_image library"
+msgstr ""
+
+msgid "Require SDL_image:"
+msgstr ""
+
+msgid "Require SDL_mixer library"
+msgstr ""
+
+msgid "Require SDL_mixer:"
+msgstr ""
+
+msgid "Require SDL_net library"
+msgstr ""
+
+msgid "Require SDL_net:"
+msgstr ""
+
+msgid "Require SDL_ttf library"
+msgstr ""
+
+msgid "Require SDL_ttf:"
+msgstr ""
+
+msgid "Required Packages:"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset sticky tags"
+msgstr ""
+
+msgid "Reset the widgets docking layout to default"
+msgstr ""
+
+msgid "Reset tree"
+msgstr ""
+
+msgid "Reset tree to a previous revision"
+msgstr ""
+
+msgid "Reset..."
+msgstr ""
+
+msgid "Reset/Revert"
+msgstr ""
+
+msgid "Resolve conflicts"
+msgstr ""
+
+msgid "Resolve conflicts in your working copy."
+msgstr ""
+
+msgid "Resolved: %s"
+msgstr ""
+
+msgid "Resuming glb scan."
+msgstr ""
+
+msgid "Retrieving status…"
+msgstr ""
+
+msgid "Retrieving status……"
+msgstr ""
+
+msgid "Revert"
+msgstr ""
+
+msgid "Revert Changes"
+msgstr ""
+
+msgid "Revert a commit"
+msgstr ""
+
+msgid "Revert changes in unstaged files"
+msgstr ""
+
+msgid "Revert changes to your working copy."
+msgstr ""
+
+msgid "Revert commit"
+msgstr ""
+
+msgid "Revision"
+msgstr ""
+
+msgid "Revision to merge with:"
+msgstr ""
+
+msgid "Revision tools"
+msgstr ""
+
+msgid "Revision:"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right margin position in characters"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Root"
+msgstr ""
+
+msgid "Root directory if no project is open:"
+msgstr ""
+
+msgid "Run Program"
+msgstr ""
+
+msgid "Run from the cursor"
+msgstr ""
+
+msgid "Run in Terminal"
+msgstr ""
+
+msgid "Run in terminal"
+msgstr ""
+
+msgid "Run operations"
+msgstr ""
+
+msgid "Run program without debugger"
+msgstr ""
+
+msgid "Run several commands at a time:"
+msgstr ""
+
+msgid "Run to the cursor"
+msgstr ""
+
+msgid "Run/_Continue"
+msgstr ""
+
+msgid "Running command: %s…\n"
+msgstr ""
+
+msgid "Running…"
+msgstr ""
+
+msgid "SDL"
+msgstr ""
+
+msgid "SIGINT"
+msgstr ""
+
+msgid "Same as output"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save A_ll"
+msgstr ""
+
+msgid "Save _As…"
+msgstr ""
+
+msgid "Save all currently open files, except new files"
+msgstr ""
+
+msgid "Save all files"
+msgstr ""
+
+msgid "Save current file"
+msgstr ""
+
+msgid "Save file as"
+msgstr ""
+
+msgid "Save files interval in minutes"
+msgstr ""
+
+msgid "Save in folder:"
+msgstr ""
+
+msgid "Save open files before diffing"
+msgstr ""
+
+msgid "Save session interval in minutes"
+msgstr ""
+
+msgid "Save the current file with a different name"
+msgstr ""
+
+msgid "Save uncommitted changes without committing them"
+msgstr ""
+
+msgid "Say goodbye to the debugger"
+msgstr ""
+
+msgid "Scope"
+msgstr ""
+
+msgid "Script"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search Help:"
+msgstr ""
+
+msgid "Search and replace"
+msgstr ""
+
+msgid ""
+"Search for \"%s\" reached the end and was continued at the top but no new "
+"match was found."
+msgstr ""
+
+msgid "Search for \"%s\" reached the end and was continued at the top."
+msgstr ""
+
+msgid ""
+"Search for \"%s\" reached top and was continued at the bottom but no new "
+"match was found."
+msgstr ""
+
+msgid "Search for \"%s\" reached top and was continued at the bottom."
+msgstr ""
+
+msgid "Search for a term in help"
+msgstr ""
+
+msgid "Search for example code"
+msgstr ""
+
+msgid "Search for next appearance of term."
+msgstr ""
+
+msgid "Search help for the current word in the editor"
+msgstr ""
+
+msgid "Search in project files"
+msgstr ""
+
+msgid "Search using regular expressions"
+msgstr ""
+
+msgid "Second Path:"
+msgstr ""
+
+msgid ""
+"Section where are installed the man pages. Valid section names are the "
+"digits ‘0’ through ‘9’, and the letters ‘l’ and ‘n’. "
+msgstr ""
+
+msgid "Select Changes to Revert:"
+msgstr ""
+
+msgid "Select Configuration"
+msgstr ""
+
+msgid "Select Files"
+msgstr ""
+
+msgid "Select Files to Commit:"
+msgstr ""
+
+msgid "Select Files to Mark as Resolved:"
+msgstr ""
+
+msgid "Select Package to add:"
+msgstr ""
+
+msgid "Select Program"
+msgstr ""
+
+msgid "Select Program to run:"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select _Code Block"
+msgstr ""
+
+msgid "Select a build directory inside the project directory"
+msgstr ""
+
+msgid "Select a plugin"
+msgstr ""
+
+msgid "Select a pretty printer file"
+msgstr ""
+
+msgid "Select a project type"
+msgstr ""
+
+msgid "Select all text in the editor"
+msgstr ""
+
+msgid "Select an Image File"
+msgstr ""
+
+msgid "Select code license"
+msgstr ""
+
+msgid "Select current configuration"
+msgstr ""
+
+msgid "Select directory"
+msgstr ""
+
+msgid "Select file"
+msgstr ""
+
+msgid "Select library type to build"
+msgstr ""
+
+msgid "Select one directory"
+msgstr ""
+
+msgid "Select package"
+msgstr ""
+
+msgid "Select snippets"
+msgstr ""
+
+msgid "Select sources…"
+msgstr ""
+
+msgid "Select the Snippets Group to which this snippet belongs."
+msgstr ""
+
+msgid "Select the _target for the library:"
+msgstr ""
+
+msgid "Select the _target for the new source files:"
+msgstr ""
+
+msgid "Select the current code block"
+msgstr ""
+
+msgid "Select the items to save:"
+msgstr ""
+
+msgid "Select the languages for which you want to use this snippet."
+msgstr ""
+
+msgid ""
+"Select the name of the Snippet. \n"
+"The role of the name is purely informative."
+msgstr ""
+
+msgid "Select widgets in the workspace"
+msgstr ""
+
+msgid "Selected URI in the file manager plugin"
+msgstr ""
+
+msgid "Selected URI in the project manager plugin"
+msgstr ""
+
+msgid "Selected directory in the file manager plugin"
+msgstr ""
+
+msgid "Selected directory in the project manager plugin"
+msgstr ""
+
+msgid "Selected file extension in the project manager plugin"
+msgstr ""
+
+msgid "Selected file name in the file manager plugin"
+msgstr ""
+
+msgid "Selected file name in the project manager plugin"
+msgstr ""
+
+msgid "Selected file name without extension in the file manager plugin"
+msgstr ""
+
+msgid "Selected file name without extension in the project manager plugin"
+msgstr ""
+
+msgid "Selected file's extension in the file manager plugin"
+msgstr ""
+
+msgid "Selected full file name in the file manager plugin"
+msgstr ""
+
+msgid "Selected full file name in the project manager plugin"
+msgstr ""
+
+msgid "Selected full file name without extension in the file manager plugin"
+msgstr ""
+
+msgid ""
+"Selected full file name without extension in the project manager plugin"
+msgstr ""
+
+msgid "Send to process"
+msgstr ""
+
+msgid "Sending signal %s to the process: %d"
+msgstr ""
+
+msgid "Sensitive"
+msgstr ""
+
+msgid "Serial Line Connection"
+msgstr ""
+
+msgid "Session"
+msgstr ""
+
+msgid "Set Conflicts as Resolved"
+msgstr ""
+
+msgid "Set Signal Property"
+msgstr ""
+
+msgid "Set current frame"
+msgstr ""
+
+msgid "Set current program, arguments, etc."
+msgstr ""
+
+msgid "Setter"
+msgstr ""
+
+msgid "Shared Libraries"
+msgstr ""
+
+msgid "Shared Library (Libtool)"
+msgstr ""
+
+msgid "Shared Object"
+msgstr ""
+
+msgid "Shared and Static library"
+msgstr ""
+
+msgid "Shared libraries"
+msgstr ""
+
+msgid "Shared library operations"
+msgstr ""
+
+msgid "Shared library target name must be of the form 'libxxx.la'"
+msgstr ""
+
+msgid "Shell Script File"
+msgstr ""
+
+msgid "Shell script files"
+msgstr ""
+
+msgid "Shell values to watch"
+msgstr ""
+
+msgid "Short Log"
+msgstr ""
+
+msgid "Short but descriptive user-visible plugin name"
+msgstr ""
+
+msgid "Short cut:"
+msgstr ""
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show Add button"
+msgstr ""
+
+msgid "Show Diff"
+msgstr ""
+
+msgid "Show Line Markers"
+msgstr ""
+
+msgid "Show Line Numbers"
+msgstr ""
+
+msgid "Show a diff of the selected revision"
+msgstr ""
+
+msgid "Show calltips"
+msgstr ""
+
+msgid "Show commit diff"
+msgstr ""
+
+msgid "Show differences between your local copy and the tree"
+msgstr ""
+
+msgid "Show drop-down list"
+msgstr ""
+
+msgid "Show in File manager"
+msgstr ""
+
+msgid "Show kernel signals"
+msgstr ""
+
+msgid "Show line numbers"
+msgstr ""
+
+msgid "Show marks"
+msgstr ""
+
+msgid "Show or hide the toolbar"
+msgstr ""
+
+msgid "Show right margin"
+msgstr ""
+
+msgid "Show shared library mappings"
+msgstr ""
+
+msgid "Show source revision in log message"
+msgstr ""
+
+msgid "Show tabs"
+msgstr ""
+
+msgid "Show the log of a file/directory"
+msgstr ""
+
+msgid "Show the status of a file/directory"
+msgstr ""
+
+msgid "Show/Hide line end characters"
+msgstr ""
+
+msgid "Show/Hide line numbers"
+msgstr ""
+
+msgid "Show/Hide marker margin"
+msgstr ""
+
+msgid "Show/Hide white spaces"
+msgstr ""
+
+msgid "Shut down Anjuta properly, releasing all resources (for debugging)"
+msgstr ""
+
+msgid "Sign this tag"
+msgstr ""
+
+msgid "Signal"
+msgstr ""
+
+msgid "Signal operations"
+msgstr ""
+
+msgid "Signal:"
+msgstr ""
+
+msgid "Signals"
+msgstr ""
+
+msgid "Simple GTK+ project"
+msgstr ""
+
+msgid "Simple searching"
+msgstr ""
+
+msgid "Single step into function"
+msgstr ""
+
+msgid "Single step out of function"
+msgstr ""
+
+msgid "Single step over function"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Skip the current patch in the series"
+msgstr ""
+
+msgid "Skip the current revision"
+msgstr ""
+
+msgid "Skipping %s: file already exists"
+msgstr ""
+
+msgid "Snippet Content"
+msgstr ""
+
+msgid "Snippet Name:"
+msgstr ""
+
+msgid "Snippet Properties"
+msgstr ""
+
+msgid "Snippet Variables"
+msgstr ""
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Snippets Group:"
+msgstr ""
+
+msgid "Snippets Manager actions"
+msgstr ""
+
+msgid "Soft"
+msgstr ""
+
+msgid ""
+"Some important programs or development packages required to build this "
+"project are missing. Please make sure they are installed properly before "
+"generating the project.\n"
+msgstr ""
+
+msgid "Sort shortcuts"
+msgstr ""
+
+msgid "Sorted by most recent use"
+msgstr ""
+
+msgid "Sorted in alphabetical order"
+msgstr ""
+
+msgid "Sorted in opening order"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Source Directories"
+msgstr ""
+
+msgid "Source File:"
+msgstr ""
+
+msgid "Source file must be a regular file, not a directory"
+msgstr ""
+
+msgid "Source files:"
+msgstr ""
+
+msgid "Source properties"
+msgstr ""
+
+msgid "Source/Destination Paths:"
+msgstr ""
+
+msgid "Source/Header Headings:"
+msgstr ""
+
+msgid "Source:"
+msgstr ""
+
+msgid "South European"
+msgstr ""
+
+msgid "Specify _where to create the folder:"
+msgstr ""
+
+msgid "Specify _where to create the target:"
+msgstr ""
+
+msgid "Specify another profile"
+msgstr ""
+
+msgid "Specify the size and location of the main window"
+msgstr ""
+
+msgid "Squash"
+msgstr ""
+
+msgid "Stack"
+msgstr ""
+
+msgid "Stack frame operations"
+msgstr ""
+
+msgid "Standard diff"
+msgstr ""
+
+msgid "Standard error:"
+msgstr ""
+
+msgid "Standard input:"
+msgstr ""
+
+msgid "Standard output:"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start Debugger"
+msgstr ""
+
+msgid "Start Revision:"
+msgstr ""
+
+msgid "Start a new instance and do not open the file in an existing instance"
+msgstr ""
+
+msgid "Start a rebase operation relative to the selected remote repository"
+msgstr ""
+
+msgid "Start debugger and attach to a running program"
+msgstr ""
+
+msgid "Start debugger and load the program"
+msgstr ""
+
+msgid "Started"
+msgstr ""
+
+msgid "Starter"
+msgstr ""
+
+msgid "Stash"
+msgstr ""
+
+msgid "Stash Message (Optional):"
+msgstr ""
+
+msgid "Stash Uncommitted Changes"
+msgstr ""
+
+msgid "Stash indexed changes"
+msgstr ""
+
+msgid "Stash tools"
+msgstr ""
+
+msgid "Stash uncommitted changes"
+msgstr ""
+
+msgid "Stashed Changes:"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Statement indentation size in spaces:"
+msgstr ""
+
+msgid "Static Library (Libtool)"
+msgstr ""
+
+msgid "Static library target name must be of the form 'libxxx.a'"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status popup menu"
+msgstr ""
+
+msgid "Step O_ver"
+msgstr ""
+
+msgid "Step _In"
+msgstr ""
+
+msgid "Step _Out"
+msgstr ""
+
+msgid "Stepping finished\n"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop Debugger"
+msgstr ""
+
+msgid "Stop Program"
+msgstr ""
+
+msgid ""
+"Stop applying the patch series and return the tree to its previous state"
+msgstr ""
+
+msgid "Stop:"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Stream comment the selected text"
+msgstr ""
+
+msgid "Strike-Out"
+msgstr ""
+
+msgid "String"
+msgstr ""
+
+msgid "Submit a bug report, patch or feature request for Anjuta"
+msgstr ""
+
+msgid "Submit a question for FAQs"
+msgstr ""
+
+msgid "Subversion"
+msgstr ""
+
+msgid "Subversion Log"
+msgstr ""
+
+msgid "Subversion Options"
+msgstr ""
+
+msgid "Subversion Preferences"
+msgstr ""
+
+msgid "Subversion operations"
+msgstr ""
+
+msgid "Subversion popup operations"
+msgstr ""
+
+msgid "Subversion: Commit complete."
+msgstr ""
+
+msgid "Subversion: Committing changes to the repository…"
+msgstr ""
+
+msgid "Subversion: Copy complete."
+msgstr ""
+
+msgid "Subversion: Diff complete."
+msgstr ""
+
+msgid "Subversion: File retrieved."
+msgstr ""
+
+msgid "Subversion: File will be added on next commit."
+msgstr ""
+
+msgid "Subversion: File will be removed on next commit."
+msgstr ""
+
+msgid "Subversion: Merge complete."
+msgstr ""
+
+msgid "Subversion: Resolve complete."
+msgstr ""
+
+msgid "Subversion: Retrieving diff…"
+msgstr ""
+
+msgid "Subversion: Retrieving file…"
+msgstr ""
+
+msgid "Subversion: Retrieving log…"
+msgstr ""
+
+msgid "Subversion: Revert complete."
+msgstr ""
+
+msgid "Subversion: Switch complete."
+msgstr ""
+
+msgid "Subversion: Update complete."
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Swap .h/.c"
+msgstr ""
+
+msgid "Swap C header and source files"
+msgstr ""
+
+msgid "Switch"
+msgstr ""
+
+msgid "Switch between library versions and check deprecations"
+msgstr ""
+
+msgid "Switch to a Branch/Tag…"
+msgstr ""
+
+msgid "Switch to branch/tag"
+msgstr ""
+
+msgid "Switch to next document"
+msgstr ""
+
+msgid "Switch to previous document"
+msgstr ""
+
+msgid "Switch to the selected branch"
+msgstr ""
+
+msgid "Switch your local copy to a branch or tag in the repository"
+msgstr ""
+
+msgid "Symbol"
+msgstr ""
+
+msgid "Symbol Database"
+msgstr ""
+
+msgid "Symbol Database Plugin for Anjuta."
+msgstr ""
+
+msgid "SymbolDb menu actions"
+msgstr ""
+
+msgid "SymbolDb popup actions"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
+msgid "Symbols read"
+msgstr ""
+
+msgid "Synchronization file"
+msgstr ""
+
+msgid "Syncronize your local copy with the CVS tree"
+msgstr ""
+
+msgid "Syncronize your local copy with the Subversion tree"
+msgstr ""
+
+msgid "System:"
+msgstr ""
+
+msgid "TCP/IP Connection"
+msgstr ""
+
+msgid "Tab size in spaces:"
+msgstr ""
+
+msgid "Tabs"
+msgstr ""
+
+msgid "Tag De_claration"
+msgstr ""
+
+msgid "Tag _Implementation"
+msgstr ""
+
+msgid "Tag name:"
+msgstr ""
+
+msgid "Tag tools"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Tags:"
+msgstr ""
+
+msgid "Target _name:"
+msgstr ""
+
+msgid "Target _type:"
+msgstr ""
+
+msgid ""
+"Target name can only contain alphanumeric, '_', '-', '/' or '.' characters"
+msgstr ""
+
+msgid "Target parent is not a valid group"
+msgstr ""
+
+msgid "Target properties"
+msgstr ""
+
+msgid "Target:"
+msgstr ""
+
+msgid "TargetTypes"
+msgstr ""
+
+msgid "Tasks"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "Terminal Plugin for Anjuta."
+msgstr ""
+
+msgid "Terminal options"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text + Icons"
+msgstr ""
+
+msgid "Text below icons"
+msgstr ""
+
+msgid "Text beside icons"
+msgstr ""
+
+msgid "Text only"
+msgstr ""
+
+msgid "Text to render"
+msgstr ""
+
+msgid "Text to show the user what to enter into the entry"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid ""
+"The \"%s\" package is not installed.\n"
+"Please install it."
+msgstr ""
+
+msgid ""
+"The \"%s\" utility is not installed.\n"
+"Please install it."
+msgstr ""
+
+msgid ""
+"The command has to contain \"%s\" or \"%q\". This will be replaced by the "
+"command used to install the files, by example \"make install\". %s is "
+"replaced by the command without any change while %q is replaced by the "
+"quoted command. You can use %% to get a \"%\" character. A typical value is "
+"\"sudo %s\" or \"su -c %q\"."
+msgstr ""
+
+msgid "The default editor based on GtkSourceView"
+msgstr ""
+
+msgid ""
+"The file \"%s\" has been deleted on the disk.\n"
+"Do you want to close it?"
+msgstr ""
+
+msgid "The file \"%s\" is read-only! Edit anyway?"
+msgstr ""
+
+msgid ""
+"The file \"%s\" on the disk is more recent than the current buffer.\n"
+"Do you want to reload it?"
+msgstr ""
+
+msgid ""
+"The file '%s' already exists.\n"
+"Do you want to replace it with the one you are saving?"
+msgstr ""
+
+msgid "The file you are trying to open contains an invalid byte sequence."
+msgstr ""
+
+msgid "The group will be deleted from the file system.\n"
+msgstr ""
+
+msgid "The group will not be deleted from the file system.\n"
+msgstr ""
+
+msgid ""
+"The missing programs are usually part of some distribution packages and can "
+"be searched for in your Application Manager. Similarly, the development "
+"packages are contained in special packages that your distribution provides "
+"to allow development of projects based on them. They usually end with a "
+"\"-dev\" or \"-devel\" suffix in package names and can be found by searching"
+" in your Application Manager."
+msgstr ""
+
+msgid "The model for the combo box"
+msgstr ""
+
+msgid "The pixbuf to render."
+msgstr ""
+
+msgid "The plugin manager to use for resolving plugins"
+msgstr ""
+
+msgid ""
+"The program is already running.\n"
+"Do you still want to stop the debugger?"
+msgstr ""
+
+msgid ""
+"The program is already running.\n"
+"Do you want to stop it before restarting a new instance?"
+msgstr ""
+
+msgid ""
+"The program is attached.\n"
+"Do you still want to stop the debugger?"
+msgstr ""
+
+msgid ""
+"The program is running.\n"
+"Do you still want to stop the debugger?"
+msgstr ""
+
+msgid ""
+"The project wizard lets you create new projects from a selection of project "
+"templates. The selection includes simple generic, flat (no subdirectory), "
+"GTK+, GNOME, Java, Python projects and more. New templates can be easily "
+"downloaded and installed."
+msgstr ""
+
+msgid ""
+"The register function hasn't been found automatically in the following pretty printer files:\n"
+"%s\n"
+"You need to fill yourself the register function columns before enabling the rows. Most of the time the register function name contains the word \"register\"."
+msgstr ""
+
+msgid "The selected node cannot contain source files."
+msgstr ""
+
+msgid ""
+"The shortcut is already used by another component in Anjuta. Do you want to "
+"keep it anyway?"
+msgstr ""
+
+msgid "The source file will be deleted from the file system.\n"
+msgstr ""
+
+msgid "The source file will not be deleted from the file system.\n"
+msgstr ""
+
+msgid ""
+"The trigger key is used for fast insertion of the snippet. Type the trigger key in the editor, followed by the \"Fast Insert\" shortcut to insert a snippet.\n"
+"<b>Warning: Must be unique per language. </b>"
+msgstr ""
+
+msgid "There are unfinished jobs: please wait until they are finished."
+msgstr ""
+
+msgid "There is %d item with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d items with unsaved changes. Save changes before closing?"
+msgstr[0] ""
+
+msgid "There is an item with unsaved changes. Save changes before closing?"
+msgstr ""
+
+msgid "There was an error whilst launching the debugger.\n"
+msgstr ""
+
+msgid ""
+"These are the plugins selected by you when you have been prompted to choose "
+"one of many suitable plugins. Removing the preferred plugin will let you "
+"choose a different plugin."
+msgstr ""
+
+msgid "This commit concludes a failed merge (use -i)"
+msgstr ""
+
+msgid "This function is not implemented for widgets of class '%s'"
+msgstr ""
+
+msgid ""
+"This option means that the global system packages will be scanned "
+"simultaneously with the project's ones"
+msgstr ""
+
+msgid "Thread"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Toggle Breakpoint"
+msgstr ""
+
+msgid "Toggle bookmark at the current line position"
+msgstr ""
+
+msgid "Toggle breakpoint at the current location"
+msgstr ""
+
+msgid "Toggle current code fold in the editor"
+msgstr ""
+
+msgid "Toggle fullscreen mode"
+msgstr ""
+
+msgid "Toggle search options"
+msgstr ""
+
+msgid "Tool"
+msgstr ""
+
+msgid "Tool Editor"
+msgstr ""
+
+msgid "Tool operations"
+msgstr ""
+
+msgid "Toolbar button labels:"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Total time taken: %lu secs\n"
+msgstr ""
+
+msgid "Translate messages"
+msgstr ""
+
+msgid "Trigger"
+msgstr ""
+
+msgid "Trigger Key:"
+msgstr ""
+
+msgid "True if we need a special command to install files"
+msgstr ""
+
+msgid "Trust server"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "URL:"
+msgstr ""
+
+msgid "UUID:"
+msgstr ""
+
+msgid "U_ndo"
+msgstr ""
+
+msgid ""
+"Unable to connect to remote target, %s\n"
+"Do you want to try again?"
+msgstr ""
+
+msgid "Unable to create a buffer: command aborted"
+msgstr ""
+
+msgid "Unable to delete file"
+msgstr ""
+
+msgid "Unable to detect MIME type of %s. Debugger cannot start."
+msgstr ""
+
+msgid "Unable to edit script"
+msgstr ""
+
+msgid "Unable to execute command"
+msgstr ""
+
+msgid "Unable to execute: \"%s\". The returned error was: \"%s\"."
+msgstr ""
+
+msgid "Unable to extract project template %s: %s"
+msgstr ""
+
+msgid "Unable to find a debugger plugin supporting a target with %s MIME type"
+msgstr ""
+
+msgid "Unable to find any project template in %s"
+msgstr ""
+
+msgid "Unable to find plugin module %s"
+msgstr ""
+
+msgid "Unable to find plugin registration function %s in module %s"
+msgstr ""
+
+msgid ""
+"Unable to find: %s.\n"
+"Unable to initialize debugger.\n"
+"Make sure Anjuta is installed correctly."
+msgstr ""
+
+msgid "Unable to load user interface file: %s"
+msgstr ""
+
+msgid "Unable to open %s for writing"
+msgstr ""
+
+msgid "Unable to open %s. Debugger cannot start."
+msgstr ""
+
+msgid "Unable to open input file %s, command aborted"
+msgstr ""
+
+msgid "Unable to open the file: %s\n"
+msgstr ""
+
+msgid "Unable to parse make file"
+msgstr ""
+
+msgid "Unable to parse project file"
+msgstr ""
+
+msgid "Underline-Plain"
+msgstr ""
+
+msgid "Underline-Squiggle"
+msgstr ""
+
+msgid "Underline-TT"
+msgstr ""
+
+msgid "Undo the last action"
+msgstr ""
+
+msgid "Unexpected element \"%s\""
+msgstr ""
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Unified format instead of context format"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown error in module %s"
+msgstr ""
+
+msgid "Unknown error."
+msgstr ""
+
+msgid "Unknown item"
+msgstr ""
+
+msgid "Unknown properties"
+msgstr ""
+
+msgid "Unlist Project"
+msgstr ""
+
+msgid "Unloaded"
+msgstr ""
+
+msgid "Unstage"
+msgstr ""
+
+msgid "Unversioned"
+msgstr ""
+
+msgid "Up-to-date"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update Watch"
+msgstr ""
+
+msgid "Update all"
+msgstr ""
+
+msgid "Update file/directory"
+msgstr ""
+
+msgid "Update project view…"
+msgstr ""
+
+msgid "Updated: %s"
+msgstr ""
+
+msgid "Use GNOME Terminal profile:"
+msgstr ""
+
+msgid "Use GtkBuilder for user interface:"
+msgstr ""
+
+msgid ""
+"Use GtkBuilder to create the user-interface in a graphical way and load it "
+"from xml files at runtime"
+msgstr ""
+
+msgid "Use Template for the Header file"
+msgstr ""
+
+msgid "Use a custom log message:"
+msgstr ""
+
+msgid "Use custom author information:"
+msgstr ""
+
+msgid "Use default GNOME terminal profile"
+msgstr ""
+
+msgid "Use external program from Anjuta"
+msgstr ""
+
+msgid "Use first path"
+msgstr ""
+
+msgid "Use pkg-config to add library support from other packages"
+msgstr ""
+
+msgid "Use previous message"
+msgstr ""
+
+msgid "Use revision/tag:"
+msgstr ""
+
+msgid "Use revision:"
+msgstr ""
+
+msgid "Use spaces for parenthesis indentation"
+msgstr ""
+
+msgid "Use tabs for indentation"
+msgstr ""
+
+msgid "Use tabulation for indentation"
+msgstr ""
+
+msgid "Use the context menu of the \"Find\" icon for more search options"
+msgstr ""
+
+msgid "Use theme font"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "User interface file"
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid ""
+"Uuid is a globally-unique identifier for your extension.\n"
+"This should be in the format of an email address (foo.bar@extensions.example.com), but\n"
+"need not be an actual email address, though it's a good idea to base the uuid on your\n"
+"email address."
+msgstr ""
+
+msgid "Vala Class"
+msgstr ""
+
+msgid "Vala Source File"
+msgstr ""
+
+msgid "Vala compiler flags:"
+msgstr ""
+
+msgid "Vala support Plugin"
+msgstr ""
+
+msgid "Vala support plugin, adds code completion."
+msgstr ""
+
+msgid "Valid from:"
+msgstr ""
+
+msgid "Valid until:"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value Name:"
+msgstr ""
+
+msgid "Value doesn't exist"
+msgstr ""
+
+msgid "Values to watch"
+msgstr ""
+
+msgid "Variable"
+msgstr ""
+
+msgid "Variable list"
+msgstr ""
+
+msgid "Variable text"
+msgstr ""
+
+msgid "Variables"
+msgstr ""
+
+msgid "Vendor"
+msgstr ""
+
+msgid "Vendor tag:"
+msgstr ""
+
+msgid "Version:"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View Log"
+msgstr ""
+
+msgid "View Selected Revision"
+msgstr ""
+
+msgid "View Source"
+msgstr ""
+
+msgid "View file history"
+msgstr ""
+
+msgid "View local Anjuta FAQ"
+msgstr ""
+
+msgid "View local Anjuta documentation"
+msgstr ""
+
+msgid "View online library documentation"
+msgstr ""
+
+msgid "View the Log for File/Folder:"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "WIDTHxHEIGHT+XOFF+YOFF"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Warning message indicator style:"
+msgstr ""
+
+msgid "Warnings:"
+msgstr ""
+
+msgid "Watch operations"
+msgstr ""
+
+msgid "Watches"
+msgstr ""
+
+msgid "Welcome page with most common actions."
+msgstr ""
+
+msgid "Western"
+msgstr ""
+
+msgid "Whether the plugin has menus or toolbars"
+msgstr ""
+
+msgid "Whether to display line marker pixbufs"
+msgstr ""
+
+msgid "Whether to display line numbers"
+msgstr ""
+
+msgid "Whole Project"
+msgstr ""
+
+msgid "Whole project"
+msgstr ""
+
+msgid "Whole project; Drop a file here to view a file or folder log"
+msgstr ""
+
+msgid "Widget not found: %s"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+msgid "Working Copy"
+msgstr ""
+
+msgid "Working Copy Path:"
+msgstr ""
+
+msgid "Working Directory:"
+msgstr ""
+
+msgid "Working directory:"
+msgstr ""
+
+msgid "Wrap lines"
+msgstr ""
+
+msgid "Wx Widgets"
+msgstr ""
+
+msgid "XML description of the user interface"
+msgstr ""
+
+msgid "Xlib"
+msgstr ""
+
+msgid "Xlib dock"
+msgstr ""
+
+msgid "Yacc/Bison flags:"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You can't rename \"/\"!"
+msgstr ""
+
+msgid ""
+"You do not seem to have PackageKit installed. PackageKit is required for "
+"installing missing packages. Please install \"packagekit-gnome\" package "
+"from your distribution, or install the missing packages manually."
+msgstr ""
+
+msgid "You must provide a tool command!"
+msgstr ""
+
+msgid "You must provide a tool name!"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
+msgid "Zoom in: Increase font size"
+msgstr ""
+
+msgid "Zoom out: Decrease font size"
+msgstr ""
+
+msgid "[Head/Working Copy]"
+msgstr ""
+
+msgid "[Pp]assword.*:"
+msgstr ""
+
+msgid "[read-only]"
+msgstr ""
+
+msgid "_API Reference"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Add Editor View"
+msgstr ""
+
+msgid "_Add to Project"
+msgstr ""
+
+msgid "_Add…"
+msgstr ""
+
+msgid "_Attach"
+msgstr ""
+
+msgid "_Auto complete insert"
+msgstr ""
+
+msgid "_Auto-Complete"
+msgstr ""
+
+msgid "_Automatic update"
+msgstr ""
+
+msgid "_Block Comment/Uncomment"
+msgstr ""
+
+msgid "_Breakpoints"
+msgstr ""
+
+msgid "_Build"
+msgstr ""
+
+msgid "_Build (%s)"
+msgstr ""
+
+msgid "_Build Module"
+msgstr ""
+
+msgid "_Build Project"
+msgstr ""
+
+msgid "_CVS"
+msgstr ""
+
+msgid "_Cancel command"
+msgstr ""
+
+msgid "_Check"
+msgstr ""
+
+msgid "_Check Module"
+msgstr ""
+
+msgid "_Check Project"
+msgstr ""
+
+msgid "_Clean"
+msgstr ""
+
+msgid "_Clean (%s)"
+msgstr ""
+
+msgid "_Clean Module"
+msgstr ""
+
+msgid "_Clean Project"
+msgstr ""
+
+msgid "_Clear"
+msgstr ""
+
+msgid "_Clear All Bookmarks"
+msgstr ""
+
+msgid "_Close All Folds"
+msgstr ""
+
+msgid "_Close File"
+msgstr ""
+
+msgid "_Commit"
+msgstr ""
+
+msgid "_Commit…"
+msgstr ""
+
+msgid "_Compile"
+msgstr ""
+
+msgid "_Condition:"
+msgstr ""
+
+msgid "_Context Help"
+msgstr ""
+
+msgid "_Continue/Suspend"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copy All Messages"
+msgstr ""
+
+msgid "_Copy Message"
+msgstr ""
+
+msgid "_Debug"
+msgstr ""
+
+msgid "_Debug Process…"
+msgstr ""
+
+msgid "_Debug Program"
+msgstr ""
+
+msgid "_Diff"
+msgstr ""
+
+msgid "_Diff…"
+msgstr ""
+
+msgid "_Disable all"
+msgstr ""
+
+msgid "_Discard changes"
+msgstr ""
+
+msgid "_Documents"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Editor"
+msgstr ""
+
+msgid "_End of Block"
+msgstr ""
+
+msgid "_Export snippets …"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Find Symbol…"
+msgstr ""
+
+msgid "_Folder name:"
+msgstr ""
+
+msgid "_Frequently Asked Questions"
+msgstr ""
+
+msgid "_Full Screen"
+msgstr ""
+
+msgid "_Go to"
+msgstr ""
+
+msgid "_Go to address"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hide paths"
+msgstr ""
+
+msgid "_Highlight Mode"
+msgstr ""
+
+msgid "_Import Tree"
+msgstr ""
+
+msgid "_Import snippets …"
+msgstr ""
+
+msgid "_Info"
+msgstr ""
+
+msgid "_Install"
+msgstr ""
+
+msgid "_Install (%s)"
+msgstr ""
+
+msgid "_Install Module"
+msgstr ""
+
+msgid "_Install Project"
+msgstr ""
+
+msgid "_Line End Characters"
+msgstr ""
+
+msgid "_Line Number Margin"
+msgstr ""
+
+msgid "_Line Number…"
+msgstr ""
+
+msgid "_Location:"
+msgstr ""
+
+msgid "_Lock Dock Layout"
+msgstr ""
+
+msgid "_Make Selection Uppercase"
+msgstr ""
+
+msgid "_Marker Margin"
+msgstr ""
+
+msgid "_Module name:"
+msgstr ""
+
+msgid "_Name:"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_New library…"
+msgstr ""
+
+msgid "_Next Bookmark"
+msgstr ""
+
+msgid "_Next Message"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open All Folds"
+msgstr ""
+
+msgid "_Open…"
+msgstr ""
+
+msgid "_Pass count:"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Patch…"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Previous Bookmark"
+msgstr ""
+
+msgid "_Previous Message"
+msgstr ""
+
+msgid "_Print Preview"
+msgstr ""
+
+msgid "_Print…"
+msgstr ""
+
+msgid "_Process to attach to:"
+msgstr ""
+
+msgid "_Project"
+msgstr ""
+
+msgid "_Properties"
+msgstr ""
+
+msgid "_Quick Search"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Remove Editor View"
+msgstr ""
+
+msgid "_Remove all"
+msgstr ""
+
+msgid "_Remove…"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Reset Dock Layout"
+msgstr ""
+
+msgid "_Resolve Conflicts…"
+msgstr ""
+
+msgid "_Revert…"
+msgstr ""
+
+msgid "_Run"
+msgstr ""
+
+msgid "_Run from Cursor"
+msgstr ""
+
+msgid "_Run to Cursor"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Search"
+msgstr ""
+
+msgid "_Search Help"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Select file to add…"
+msgstr ""
+
+msgid "_Show Log"
+msgstr ""
+
+msgid "_Show Status"
+msgstr ""
+
+msgid "_Show in File manager"
+msgstr ""
+
+msgid "_Sort"
+msgstr ""
+
+msgid "_Start Debugger"
+msgstr ""
+
+msgid "_Start of Block"
+msgstr ""
+
+msgid "_Stream Comment/Uncomment"
+msgstr ""
+
+msgid "_Subversion"
+msgstr ""
+
+msgid "_Toggle Bookmark"
+msgstr ""
+
+msgid "_Toggle Current Fold"
+msgstr ""
+
+msgid "_Toolbar"
+msgstr ""
+
+msgid "_Tools"
+msgstr ""
+
+msgid "_Transform"
+msgstr ""
+
+msgid "_Trigger insert"
+msgstr ""
+
+msgid "_Update"
+msgstr ""
+
+msgid "_Update…"
+msgstr ""
+
+msgid "_User's Manual"
+msgstr ""
+
+msgid "_Value:"
+msgstr ""
+
+msgid "_Variable…"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_View Log…"
+msgstr ""
+
+msgid "_White Space"
+msgstr ""
+
+msgid "ask at runtime"
+msgstr ""
+
+msgid "error:"
+msgstr ""
+
+msgid "error:-old"
+msgstr ""
+
+msgid "execvp failed"
+msgstr ""
+
+msgid ""
+"gtk-doc is used to compile API documentations for GObject based classes"
+msgstr ""
+
+msgid "is Sub-Class"
+msgstr ""
+
+msgid "make(\\[\\d+\\])?:\\s+Entering\\s+directory\\s+'(.+)'"
+msgstr ""
+
+msgid "make(\\[\\d+\\])?:\\s+Entering\\s+directory\\s+`(.+)'"
+msgstr ""
+
+msgid "make(\\[\\d+\\])?:\\s+Leaving\\s+directory\\s+'(.+)'"
+msgstr ""
+
+msgid "make(\\[\\d+\\])?:\\s+Leaving\\s+directory\\s+`(.+)'"
+msgstr ""
+
+msgid "more children"
+msgstr ""
+
+msgid "page 1"
+msgstr ""
+
+msgid "page 2"
+msgstr ""
+
+msgid "plugin %s fails to register type %s"
+msgstr ""
+
+msgid "project name"
+msgstr ""
+
+msgid "realm"
+msgstr ""
+
+msgctxt "recent menu label"
+msgid "%d. %s"
+msgstr ""
+
+msgctxt "recent menu label"
+msgid "_%d. %s"
+msgstr ""
+
+msgid "su -c"
+msgstr ""
+
+msgid "sudo"
+msgstr ""
+
+msgid "terminal operations"
+msgstr ""
+
+msgid "undefined"
+msgstr ""
+
+msgid "warning:"
+msgstr ""
+
+msgid "warning:-old"
+msgstr ""

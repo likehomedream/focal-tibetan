@@ -1,0 +1,532 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: simple-scan\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=simple-scan&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-03-27 01:35+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:28+0000\n"
+
+msgid "%d dpi"
+msgstr ""
+
+msgid "%d dpi (default)"
+msgstr ""
+
+msgid "%d dpi (draft)"
+msgstr ""
+
+msgid "%d dpi (high resolution)"
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "15"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4×6"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "A file named “%s” already exists.  Do you want to replace it?"
+msgstr ""
+
+msgid "A_4"
+msgstr ""
+
+msgid "A_5"
+msgstr ""
+
+msgid "A_6"
+msgstr ""
+
+msgid "Additional software needed"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "All Pages From _Feeder"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Brightness of scan"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Combine sides"
+msgstr ""
+
+msgid "Combine sides (reverse)"
+msgstr ""
+
+msgid "Compression:"
+msgstr ""
+
+msgid "Contacting scanner…"
+msgstr ""
+
+msgid "Contrast of scan"
+msgstr ""
+
+msgid "Crop the selected page"
+msgstr ""
+
+msgid "Darker"
+msgstr ""
+
+msgid "Delay in millisecond between pages"
+msgstr ""
+
+msgid "Delay in millisecond between pages."
+msgstr ""
+
+msgid "Delete the selected page"
+msgstr ""
+
+msgid "Device to scan from"
+msgstr ""
+
+msgid "Directory to save files to"
+msgstr ""
+
+msgid "Discard Changes"
+msgstr ""
+
+msgid "Document Scanner"
+msgstr ""
+
+msgid ""
+"Drivers for this are available on the <a "
+"href=\"http://samsung.com/support\">Samsung website</a>."
+msgstr ""
+
+msgid ""
+"Drivers for this are available on the <a "
+"href=\"http://support.brother.com\">Brother website</a>."
+msgstr ""
+
+msgid ""
+"Drivers for this are available on the <a "
+"href=\"http://support.epson.com\">Epson website</a>."
+msgstr ""
+
+msgid "Drivers installed successfully!"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Error communicating with scanner"
+msgstr ""
+
+msgid "Failed to install drivers (error code %d)."
+msgstr ""
+
+msgid "Failed to install drivers."
+msgstr ""
+
+msgid "Failed to save file"
+msgstr ""
+
+msgid "Failed to scan"
+msgstr ""
+
+msgid "File format:"
+msgstr ""
+
+msgid "Front"
+msgstr ""
+
+msgid "Height of paper in tenths of a mm"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "If you don’t save, changes will be permanently lost."
+msgstr ""
+
+msgid "Image Files"
+msgstr ""
+
+msgid "Install drivers"
+msgstr ""
+
+msgid "Installing drivers…"
+msgstr ""
+
+msgid "JPEG (compressed)"
+msgstr ""
+
+msgid "Keep unchanged"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Le_gal"
+msgstr ""
+
+msgid "Less"
+msgstr ""
+
+msgid "Lighter"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Move Left"
+msgstr ""
+
+msgid "Move Right"
+msgstr ""
+
+msgid "Multiple pages from flatbed"
+msgstr ""
+
+msgid "No scanners available.  Please connect a scanner."
+msgstr ""
+
+msgid "No scanners detected"
+msgstr ""
+
+msgid "PDF (multi-page document)"
+msgstr ""
+
+msgid "PNG (lossless)"
+msgstr ""
+
+msgid "Page side to scan"
+msgstr ""
+
+msgid "Please check your scanner is connected and powered on"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Print debugging messages"
+msgstr ""
+
+msgid "Quality value to use for JPEG compression"
+msgstr ""
+
+msgid "Quality value to use for JPEG compression."
+msgstr ""
+
+msgid "Quit without Saving"
+msgstr ""
+
+msgid "Ready to Scan"
+msgstr ""
+
+msgid "Resolution for text scans"
+msgstr ""
+
+msgid "Reverse"
+msgstr ""
+
+msgid "Rotate _Left"
+msgstr ""
+
+msgid "Rotate _Right"
+msgstr ""
+
+msgid "Rotate the page to the left (counter-clockwise)"
+msgstr ""
+
+msgid "Rotate the page to the right (clockwise)"
+msgstr ""
+
+msgid "Run “%s --help” to see a full list of available command line options."
+msgstr ""
+
+msgid "SANE device to acquire images from."
+msgstr ""
+
+msgid "Save As…"
+msgstr ""
+
+msgid "Save current document?"
+msgstr ""
+
+msgid "Save document before quitting?"
+msgstr ""
+
+msgid "Save document to a file"
+msgstr ""
+
+msgid "Saving"
+msgstr ""
+
+msgid "Scan a single page from the scanner"
+msgstr ""
+
+msgid "Scan in progress"
+msgstr ""
+
+msgid "Scanned Document.pdf"
+msgstr ""
+
+msgid "Searching for Scanners…"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "Show release version"
+msgstr ""
+
+msgid "Simple document scanning tool"
+msgstr ""
+
+msgid "Start Again…"
+msgstr ""
+
+msgid "Stop the current scan"
+msgstr ""
+
+msgid "The brightness adjustment from -100 to 100 (0 being none)."
+msgstr ""
+
+msgid "The contrast adjustment from -100 to 100 (0 being none)."
+msgstr ""
+
+msgid ""
+"The directory to save files to. Defaults to the documents directory if "
+"unset."
+msgstr ""
+
+msgid ""
+"The height of the paper in tenths of a mm (or 0 for automatic paper "
+"detection)."
+msgstr ""
+
+msgid "The page side to scan."
+msgstr ""
+
+msgid "The resolution in dots-per-inch to use when scanning text."
+msgstr ""
+
+msgid ""
+"The width of the paper in tenths of a mm (or 0 for automatic paper "
+"detection)."
+msgstr ""
+
+msgid ""
+"This program is free software: you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation, either version 3 of the License, or\n"
+"(at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program.  If not, see <http://www.gnu.org/licenses/>."
+msgstr ""
+
+msgid "Type of document being scanned"
+msgstr ""
+
+msgid ""
+"Type of document being scanned. This setting decides on the scan resolution,"
+" colors and post-processing."
+msgstr ""
+
+msgid "Unable to connect to scanner"
+msgstr ""
+
+msgid "Unable to encode page %i"
+msgstr ""
+
+msgid "Unable to open help file"
+msgstr ""
+
+msgid "Unable to open image preview application"
+msgstr ""
+
+msgid "Unable to save image for preview"
+msgstr ""
+
+msgid "Unable to start scan"
+msgstr ""
+
+msgid "Username and password required to access “%s”"
+msgstr ""
+
+msgid "WebP (compressed)"
+msgstr ""
+
+msgid "Width of paper in tenths of a mm"
+msgstr ""
+
+msgid "You appear to have a Brother scanner."
+msgstr ""
+
+msgid "You appear to have a Samsung scanner."
+msgstr ""
+
+msgid "You appear to have an Epson scanner."
+msgstr ""
+
+msgid "You appear to have an HP scanner."
+msgstr ""
+
+msgid ""
+"You need to <a href=\"install-firmware\">install driver software</a> for "
+"your scanner."
+msgstr ""
+
+msgid "You need to install the %s package."
+msgid_plural "You need to install the %s packages."
+msgstr[0] ""
+
+msgid "[DEVICE…] — Scanning utility"
+msgstr ""
+
+msgid "_Authorize"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Crop"
+msgstr ""
+
+msgid "_Custom"
+msgstr ""
+
+msgid "_Letter"
+msgstr ""
+
+msgid "_Multiple Pages From Flatbed"
+msgstr ""
+
+msgid "_None"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Rotate Crop"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Text Resolution"
+msgstr ""
+
+msgid "_Username for resource:"
+msgstr ""
+
+msgid "scan;scanner;flatbed;adf;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy current page to clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Delete page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Document Management"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Document Modification"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Email scanned document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move page left"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move page right"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print scanned document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate page to the left (anti-clockwise)"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate page to the right (clockwise)"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save scanned document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Scan a single page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Scan all pages from document feeder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Scan continuously from a flatbed scanner"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Scanning"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Start new document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Stop scan in progress"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

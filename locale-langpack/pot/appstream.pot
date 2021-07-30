@@ -1,0 +1,589 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: AppStream\n"
+"Report-Msgid-Bugs-To: appstream@lists.freedesktop.org\n"
+"PO-Revision-Date: 2020-04-04 15:54+0000\n"
+"Last-Translator: xiazhang <Unknown>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/appstream/translations/zh_Hans/>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:54+0000\n"
+
+msgid "'%s' command"
+msgstr ""
+
+msgid "Add-ons"
+msgstr ""
+
+msgid "Also show pedantic hints."
+msgstr ""
+
+msgid "An item type (e.g. lib, bin, python3, …)"
+msgstr ""
+
+msgid "An utility to work with AppStream metadata"
+msgstr ""
+
+msgid "AppStream CLI"
+msgstr ""
+
+msgid ""
+"AppStream CLI tool version: %s\n"
+"AppStream library version: %s"
+msgstr ""
+
+msgid "AppStream Status:"
+msgstr ""
+
+msgid "AppStream cache update completed successfully."
+msgstr ""
+
+msgid "AppStream cache update is not necessary."
+msgstr ""
+
+msgid "AppStream command-line interface"
+msgstr ""
+
+msgid ""
+"AppStream is a cross-distribution specification to provide metadata about "
+"software components."
+msgstr ""
+
+msgid "AppStream version: %s"
+msgstr ""
+
+msgid "Audio & Video"
+msgstr ""
+
+msgid "Binaries"
+msgstr ""
+
+msgid "Bundle"
+msgstr ""
+
+msgid "Cache location '%s' is not writable."
+msgstr ""
+
+msgid ""
+"Can not copy '%s': File does not have a '.metainfo.xml' or '.appdata.xml' "
+"suffix."
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgctxt "Category of Addons"
+msgid "Codecs"
+msgstr ""
+
+msgctxt "Category of Addons"
+msgid "Fonts"
+msgstr ""
+
+msgctxt "Category of Addons"
+msgid "Input Sources"
+msgstr ""
+
+msgctxt "Category of Addons"
+msgid "Language Packs"
+msgstr ""
+
+msgctxt "Category of Addons"
+msgid "Localization"
+msgstr ""
+
+msgctxt "Category of AudioVideo"
+msgid "Audio Creation & Editing"
+msgstr ""
+
+msgctxt "Category of AudioVideo"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of AudioVideo"
+msgid "Music Players"
+msgstr ""
+
+msgctxt "Category of Communication"
+msgid "Chat"
+msgstr ""
+
+msgctxt "Category of Communication"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Communication"
+msgid "News"
+msgstr ""
+
+msgctxt "Category of Communication"
+msgid "Web Browsers"
+msgstr ""
+
+msgctxt "Category of Development"
+msgid "Debuggers"
+msgstr ""
+
+msgctxt "Category of Development"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Development"
+msgid "IDEs"
+msgstr ""
+
+msgctxt "Category of Education"
+msgid "Astronomy"
+msgstr ""
+
+msgctxt "Category of Education"
+msgid "Chemistry"
+msgstr ""
+
+msgctxt "Category of Education"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Education"
+msgid "Languages"
+msgstr ""
+
+msgctxt "Category of Education"
+msgid "Math"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Action"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Adventure"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Arcade"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Blocks"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Board"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Card"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Emulators"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Kids"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Logic"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Role Playing"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Sports"
+msgstr ""
+
+msgctxt "Category of Games"
+msgid "Strategy"
+msgstr ""
+
+msgctxt "Category of Graphics"
+msgid "3D Graphics"
+msgstr ""
+
+msgctxt "Category of Graphics"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Graphics"
+msgid "Photography"
+msgstr ""
+
+msgctxt "Category of Graphics"
+msgid "Scanning"
+msgstr ""
+
+msgctxt "Category of Graphics"
+msgid "Vector Graphics"
+msgstr ""
+
+msgctxt "Category of Graphics"
+msgid "Viewers"
+msgstr ""
+
+msgctxt "Category of Office"
+msgid "Calendar"
+msgstr ""
+
+msgctxt "Category of Office"
+msgid "Database"
+msgstr ""
+
+msgctxt "Category of Office"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Office"
+msgid "Finance"
+msgstr ""
+
+msgctxt "Category of Office"
+msgid "Word Processor"
+msgstr ""
+
+msgctxt "Category of Science"
+msgid "Artificial Intelligence"
+msgstr ""
+
+msgctxt "Category of Science"
+msgid "Astronomy"
+msgstr ""
+
+msgctxt "Category of Science"
+msgid "Chemistry"
+msgstr ""
+
+msgctxt "Category of Science"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Science"
+msgid "Math"
+msgstr ""
+
+msgctxt "Category of Science"
+msgid "Robotics"
+msgstr ""
+
+msgctxt "Category of Utility"
+msgid "Featured"
+msgstr ""
+
+msgctxt "Category of Utility"
+msgid "File System"
+msgstr ""
+
+msgctxt "Category of Utility"
+msgid "Security"
+msgstr ""
+
+msgctxt "Category of Utility"
+msgid "System Monitoring"
+msgstr ""
+
+msgctxt "Category of Utility"
+msgid "Terminal Emulators"
+msgstr ""
+
+msgctxt "Category of Utility"
+msgid "Text Editors"
+msgstr ""
+
+msgid "Communication & News"
+msgstr ""
+
+msgid "Component '%s' has no installation candidate."
+msgstr ""
+
+msgid "Compulsory for"
+msgstr ""
+
+msgid "Convert collection XML to YAML or vice versa."
+msgstr ""
+
+msgid "Could not find component providing '%s::%s'."
+msgstr ""
+
+msgid "Default Screenshot URL"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Developer"
+msgstr ""
+
+msgid "Developer Tools"
+msgstr ""
+
+msgid "Display status information about available AppStream metadata."
+msgstr ""
+
+msgid "Distribution metadata:"
+msgstr ""
+
+msgid "Don't show colored output."
+msgstr ""
+
+msgid "Dump raw XML metadata for a component matching the ID."
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Empty."
+msgstr ""
+
+msgid "Enforce a cache refresh."
+msgstr ""
+
+msgid "Error while loading the metadata pool: %s"
+msgstr ""
+
+msgid "Extends"
+msgstr ""
+
+msgid "Flashed Firmware"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Found %i components in legacy paths."
+msgstr ""
+
+msgid "Found %i components."
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Get components which provide the given item."
+msgstr ""
+
+msgid "Get information about a component by its ID."
+msgstr ""
+
+msgid "Graphics & Photography"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Iconsets"
+msgstr ""
+
+msgid "Identifier"
+msgstr ""
+
+msgid "Install a metadata file into the right location."
+msgstr ""
+
+msgid "Invalid type for provided item selected. Valid values are:"
+msgstr ""
+
+msgid "Libraries"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Metadata file '%s' does not exist."
+msgstr ""
+
+msgid "Metadata files have errors:"
+msgstr ""
+
+msgid "Metainfo files:"
+msgstr ""
+
+msgid "Modaliases"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "No component matching '%s' found."
+msgstr ""
+
+msgid "No icons."
+msgstr ""
+
+msgid ""
+"No suitable package manager CLI found. Please make sure that e.g. \"pkcon\" "
+"(part of PackageKit) is available."
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Option '%s' is unknown."
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Print detailed output about found components."
+msgstr ""
+
+msgid "Project Group"
+msgstr ""
+
+msgid "Provided Items"
+msgstr ""
+
+msgid "Python (Version 2)"
+msgstr ""
+
+msgid "Python 3"
+msgstr ""
+
+msgid "Rebuild the component metadata cache."
+msgstr ""
+
+msgid "Run '%s --help' to see a full list of available command line options."
+msgstr ""
+
+msgid ""
+"Run '%s --help' to see a list of available commands and options, and '%s %s "
+"--help' to see a list of options specific for this subcommand."
+msgstr ""
+
+msgid "Runtime Firmware"
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Search the component database."
+msgstr ""
+
+msgid "Show extra debugging information."
+msgstr ""
+
+msgid "Show the program version."
+msgstr ""
+
+msgid "Subcommands:"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Summary:"
+msgstr ""
+
+msgid "The .desktop file '%s' does not exist."
+msgstr ""
+
+msgid "The TYPE must be a valid component-type, such as: %s"
+msgstr ""
+
+msgid ""
+"The software component type '%s' is not valid in AppStream. Possible values "
+"are:"
+msgstr ""
+
+msgid ""
+"Unable to convert file: Could not determine output format, please set it "
+"explicitly using '--format='."
+msgstr ""
+
+msgid "Unable to find component matching %s!"
+msgstr ""
+
+msgid "Unable to find component with ID '%s'!"
+msgstr ""
+
+msgid "Unable to read the .desktop file: %s"
+msgstr ""
+
+msgid "Unable to spawn package manager: %s"
+msgstr ""
+
+msgid "Unable to write to '%s', can not install metainfo file."
+msgstr ""
+
+msgid "Utilities"
+msgstr ""
+
+msgid "Validate AppStream XML files for issues."
+msgstr ""
+
+msgid "Validate an installed file-tree of an application for valid metadata."
+msgstr ""
+
+msgid "Validation failed: %s"
+msgstr ""
+
+msgid "Validation was successful."
+msgstr ""
+
+msgid "Validation was successful: %s"
+msgstr ""
+
+msgid "Value of the item that should be found."
+msgstr ""
+
+msgid "Version: %s"
+msgstr ""
+
+msgid "We have information on %i software components."
+msgstr ""
+
+msgid ""
+"You can find information about subcommand-specific options by passing \"--"
+"help\" to the subcommand."
+msgstr ""
+
+msgid "You might need superuser permissions to perform this action."
+msgstr ""
+
+msgid ""
+"You need to give an AppStream software component type to generate a "
+"template. Possible values are:"
+msgstr ""
+
+msgid "You need to specify a command."
+msgstr ""
+
+msgid "You need to specify a component-ID."
+msgstr ""
+
+msgid "You need to specify a metadata file."
+msgstr ""
+
+msgid "You need to specify a root directory to start validation!"
+msgstr ""
+
+msgid "You need to specify a term to search for."
+msgstr ""
+
+msgid "You need to specify an input and output file."
+msgstr ""
+
+msgid "app;application;package;program;programme;suite;tool"
+msgstr ""
+
+msgid "errors: %lu"
+msgstr ""
+
+msgid "infos: %lu"
+msgstr ""
+
+msgid "warnings: %lu"
+msgstr ""

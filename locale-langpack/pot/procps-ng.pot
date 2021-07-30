@@ -1,0 +1,217 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: procps-ng 3.3.10-rc1\n"
+"Report-Msgid-Bugs-To: procps@freelists.org\n"
+"PO-Revision-Date: 2018-06-06 01:08+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:39+0000\n"
+
+msgid "\n"
+msgstr ""
+
+msgid ""
+"\n"
+"For more details see %s.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Options:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Usage:\n"
+msgstr ""
+
+msgid ""
+"              total        used        free      shared     buffers       "
+"cache   available"
+msgstr ""
+
+msgid ""
+"              total        used        free      shared  buff/cache   "
+"available"
+msgstr ""
+
+msgid "     --help     display this help and exit\n"
+msgstr ""
+
+msgid "     --tera          show output in terabytes\n"
+msgstr ""
+
+msgid "   IDLE WHAT\n"
+msgstr ""
+
+msgid ""
+"  k,r       Manipulate tasks: '~1k~2' kill; '~1r~2' renice\n"
+"  d or s    Set update interval\n"
+msgstr ""
+
+msgid " %s [options]\n"
+msgstr ""
+
+msgid " -V, --version  output version information and exit\n"
+msgstr ""
+
+msgid " -b, --bytes         show output in bytes\n"
+msgstr ""
+
+msgid " -h, --help     display this help and exit\n"
+msgstr ""
+
+msgid " -w, --wide          wide output\n"
+msgstr ""
+
+msgid "%-*s TTY      "
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "COMMAND"
+msgstr ""
+
+msgid "EiB"
+msgstr ""
+
+msgid "FROM"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "GROUP"
+msgstr ""
+
+msgid "GiB"
+msgstr ""
+
+msgid "High:"
+msgstr ""
+
+msgid "Invalid signal"
+msgstr ""
+
+msgid "KiB"
+msgstr ""
+
+msgid "Low:"
+msgstr ""
+
+msgid "Mem:"
+msgstr ""
+
+msgid "MiB"
+msgstr ""
+
+msgid "Only 1 cpu detected"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "PR"
+msgstr ""
+
+msgid "PiB"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "S"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Swap:"
+msgstr ""
+
+msgid "TIME"
+msgstr ""
+
+msgid "Tasks"
+msgstr ""
+
+msgid "TiB"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total:"
+msgstr ""
+
+msgid "USER"
+msgstr ""
+
+msgid "active"
+msgstr ""
+
+msgid "buff"
+msgstr ""
+
+msgid "cache"
+msgstr ""
+
+msgid "cannot stat %s"
+msgstr ""
+
+msgid "case sensitive"
+msgstr ""
+
+msgid "command exit with a non-zero status, press a key to exit"
+msgstr ""
+
+msgid "fdopen"
+msgstr ""
+
+msgid "free"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "inact"
+msgstr ""
+
+msgid "s"
+msgstr ""
+
+msgid "sectors"
+msgstr ""
+
+msgid "swpd"
+msgstr ""
+
+msgid "too many arguments"
+msgstr ""
+
+msgid "total"
+msgstr ""
+
+msgid "unable to fork process"
+msgstr ""
+
+msgid "unicode handling error (malloc)\n"
+msgstr ""
+
+msgid "unsupported SysV option"
+msgstr ""
+
+msgid "write error"
+msgstr ""
+
+msgid ""
+"your kernel does not support slabinfo or your permissions are insufficient"
+msgstr ""

@@ -1,0 +1,66 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kubuntu-notification-helper\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-01-19 08:12+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:28+0000\n"
+
+msgctxt "Comment"
+msgid "A system restart is required"
+msgstr ""
+
+msgctxt "Comment"
+msgid "An application has crashed on your system (now or in the past)"
+msgstr ""
+
+msgctxt "Comment"
+msgid "Control the notifications for system helpers"
+msgstr ""
+
+msgctxt "Comment"
+msgid "Extra packages can be installed to enhance application functionality"
+msgstr ""
+
+msgctxt "Comment"
+msgid "Software upgrade notifications are available"
+msgstr ""
+
+msgctxt "Comment"
+msgid "System Notification Helper"
+msgstr ""
+
+msgctxt "Name"
+msgid "Apport Crash"
+msgstr ""
+
+msgctxt "Name"
+msgid "Notification Helper"
+msgstr ""
+
+msgctxt "Name"
+msgid "Other Notifications"
+msgstr ""
+
+msgctxt "Name"
+msgid "Reboot Required"
+msgstr ""
+
+msgctxt "Name"
+msgid "Restricted Install"
+msgstr ""
+
+msgctxt "Name"
+msgid "Upgrade Hook"
+msgstr ""
+
+msgctxt "X-KDE-Keywords"
+msgid "Notify,Alerts,Notification,popups"
+msgstr ""

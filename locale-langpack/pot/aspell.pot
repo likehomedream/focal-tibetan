@@ -1,0 +1,954 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: aspell-0.60.8-pre2\n"
+"Report-Msgid-Bugs-To: kevina@gnu.org\n"
+"PO-Revision-Date: 2019-11-20 18:33+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:44+0000\n"
+
+msgid ""
+"\n"
+"  %s filter: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"#######################################################################\n"
+"#\n"
+"# Filter: %s\n"
+"#   %s\n"
+"#\n"
+"# configured as follows:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Aspell %s.  Copyright 2000-2019 by Kevin Atkinson.\n"
+"\n"
+msgstr ""
+
+msgid "    converts from one encoding to another"
+msgstr ""
+
+msgid ""
+"    dumps, creates or merges a master, personal, or replacement dictionary."
+msgstr ""
+
+msgid "    lists available dictionaries / filters / filter modes"
+msgstr ""
+
+msgid "    perform Unicode normalization"
+msgstr ""
+
+msgid "    reduce the size of a word list via affix compression"
+msgstr ""
+
+msgid "  -?|usage         display a brief usage message"
+msgstr ""
+
+msgid "  -a|pipe          \"ispell -a\" compatibility mode"
+msgstr ""
+
+msgid "  -c|check <file>  spellchecks a file"
+msgstr ""
+
+msgid "  -v|version       prints a version line"
+msgstr ""
+
+msgid ""
+"  <norm-form>      normalization form to use, either none, internal, or "
+"strict"
+msgstr ""
+
+msgid "  [dump] config    dumps the current configuration to stdout"
+msgstr ""
+
+msgid "  [dump] dicts | filters | modes"
+msgstr ""
+
+msgid ""
+"  clean [strict]   cleans a word list so that every line is a valid word"
+msgstr ""
+
+msgid "  config <key>     prints the current value of an option"
+msgstr ""
+
+msgid "  conv <from> <to> [<norm-form>]"
+msgstr ""
+
+msgid "  dump|create|merge master|personal|repl [<name>]"
+msgstr ""
+
+msgid "  expand [1-4]     expands affix flags"
+msgstr ""
+
+msgid "  help             display a detailed help message"
+msgstr ""
+
+msgid ""
+"  list             produce a list of misspelled words from standard input"
+msgstr ""
+
+msgid "  munch            generate possible root words and affixes"
+msgstr ""
+
+msgid "  munch-list [simple] [single|multi] [keep]"
+msgstr ""
+
+msgid "  norm (<norm-map> | <from> <norm-map> <to>) [<norm-form>]"
+msgstr ""
+
+msgid ""
+"  soundslike       returns the sounds like equivalent for each word entered"
+msgstr ""
+
+msgid " does not take any parameters."
+msgstr ""
+
+msgid "\"%expression:1\" is not a valid regular expression."
+msgstr ""
+
+msgid "\"%mode:1\" error"
+msgstr ""
+
+msgid "\"%mode:1\" error while extend Aspell modes. (out of memory?)"
+msgstr ""
+
+msgid ""
+"\"%mode:1\": Magic \"%magic:2\": bad regular expression after location "
+"specifier; regexp reports: \"%regerr:3\"."
+msgstr ""
+
+msgid "\"%mode:1\": no magic expression available for magic \"%magic:2\"."
+msgstr ""
+
+msgid "\"%mode:1\": no range for magic search given for magic \"%magic:2\"."
+msgstr ""
+
+msgid "\"%mode:1\": no start for magic search given for magic \"%magic:2\"."
+msgstr ""
+
+msgid "\"%s\" is not a regular file"
+msgstr ""
+
+msgid "\"%s\" is not a valid flag for the \"munch-list\" command."
+msgstr ""
+
+msgid "# default: "
+msgstr ""
+
+msgid "%file:1:"
+msgstr ""
+
+msgid "<command> is one of:"
+msgstr ""
+
+msgid "ASPELL_CONF env var"
+msgstr ""
+
+msgid "Abort"
+msgstr ""
+
+msgid "Abort This Operation"
+msgstr ""
+
+msgid "Accept Changes"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Lower"
+msgstr ""
+
+msgid "Affix '%aff:1' is corrupt."
+msgstr ""
+
+msgid "Affix flags found in word but no affix file given."
+msgstr ""
+
+msgid "Are you sure you want to abort (y/n)? "
+msgstr ""
+
+msgid "Aspell version does not match filter's requirement."
+msgstr ""
+
+msgid "Aspell version does not match mode's requirement."
+msgstr ""
+
+msgid ""
+"Available Dictionaries:\n"
+"    Dictionaries can be selected directly via the \"-d\" or \"master\"\n"
+"    option.  They can also be selected indirectly via the \"lang\",\n"
+"    \"variety\", and \"size\" options.\n"
+msgstr ""
+
+msgid ""
+"Available Filter Modes:\n"
+"    Filter Modes are reconfigured combinations of filters optimized for\n"
+"    files of a specific type. A mode is selected via the \"mode\" option.\n"
+"    This will happen implicitly if Aspell is able to identify the file\n"
+"    type from the extension, and possibility the contents, of the file.\n"
+msgstr ""
+
+msgid ""
+"Available Filters (and associated options):\n"
+"    Filters can be added or removed via the \"filter\" option.\n"
+msgstr ""
+
+msgid "Backspace"
+msgstr ""
+
+msgid "Can't merge a master word list yet. Sorry."
+msgstr ""
+
+msgid "Confused by version control."
+msgstr ""
+
+msgid "Control-A"
+msgstr ""
+
+msgid "Control-B"
+msgstr ""
+
+msgid "Control-C"
+msgstr ""
+
+msgid "Control-D"
+msgstr ""
+
+msgid "Control-E"
+msgstr ""
+
+msgid "Control-F"
+msgstr ""
+
+msgid "Control-H"
+msgstr ""
+
+msgid "Control-K"
+msgstr ""
+
+msgid "Could not open the file \"%s\" for reading"
+msgstr ""
+
+msgid "Could not open the file \"%s\" for writing. File not saved."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete the next character"
+msgstr ""
+
+msgid "Delete the previous character"
+msgstr ""
+
+msgid "Does not contain any alphabetic characters."
+msgstr ""
+
+msgid "Empty extension at char %char:1."
+msgstr ""
+
+msgid "Empty option specifier."
+msgstr ""
+
+msgid "Empty string."
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Error setting filter description."
+msgstr ""
+
+msgid "Error: "
+msgstr ""
+
+msgid "Error: %s\n"
+msgstr ""
+
+msgid "Error: Stdin not a terminal."
+msgstr ""
+
+msgid "Error: You must specify at least %d parameters for \"%s\".\n"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Expected language \"%lang:1\" but got \"%prev:2\"."
+msgstr ""
+
+msgid "Expecting \"%modekey:1\" key."
+msgstr ""
+
+msgid "Filter option already exists."
+msgstr ""
+
+msgid "HTML attributes to always check"
+msgstr ""
+
+msgid "HTML tags to always skip the contents of"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Ignore"
+msgstr ""
+
+msgid "Ignore all"
+msgstr ""
+
+msgid "Incompatible hash function."
+msgstr ""
+
+msgid "Invalid Input"
+msgstr ""
+
+msgid "Invalid Option: %s"
+msgstr ""
+
+msgid "Invalid UTF-8 sequence at position %ld."
+msgstr ""
+
+msgid "Invalid keymapping: %s"
+msgstr ""
+
+msgid "Kill all characters to the EOL"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Missing magic mode expression."
+msgstr ""
+
+msgid "Move Back one space"
+msgstr ""
+
+msgid "Move Forward one space"
+msgstr ""
+
+msgid "Move to the beginning of the line"
+msgstr ""
+
+msgid "Move to the end of the line"
+msgstr ""
+
+msgid "No word lists can be found for the language \"%lang:1\"."
+msgstr ""
+
+msgid "Only one file name may be specified."
+msgstr ""
+
+msgid "Operation Not Supported: %what:1"
+msgstr ""
+
+msgid "Option \"%option:1\" possibly specified prior to filter."
+msgstr ""
+
+msgid "Option modifier unknown."
+msgstr ""
+
+msgid "Possibly incorrect count."
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace all"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "SGML attributes to always check"
+msgstr ""
+
+msgid "SGML tags to always skip the contents of"
+msgstr ""
+
+msgid "Sorry \"create/merge personal\" is currently unimplemented.\n"
+msgstr ""
+
+msgid "Sorry \"create/merge repl\" is currently unimplemented.\n"
+msgstr ""
+
+msgid "Sorry I won't overwrite \"%s\""
+msgstr ""
+
+msgid "Sorry that is an invalid choice!"
+msgstr ""
+
+msgid "Suggestion Time: %f\n"
+msgstr ""
+
+msgid "TeX commands"
+msgstr ""
+
+msgid "Texinfo commands to ignore the parameters of"
+msgstr ""
+
+msgid "Texinfo environments to ignore"
+msgstr ""
+
+msgid "The Unicode code point U+%04X is unsupported."
+msgstr ""
+
+msgid "The affix flag '%aff:1' can not be applied to word \"%word:2\"."
+msgstr ""
+
+msgid "The affix flag '%aff:1' is invalid for word \"%word:2\"."
+msgstr ""
+
+msgid "The character '%s' (U+%02X) may not appear at the beginning of a word."
+msgstr ""
+
+msgid "The character '%s' (U+%02X) may not appear at the end of a word."
+msgstr ""
+
+msgid "The character '%s' (U+%02X) may not appear in the middle of a word."
+msgstr ""
+
+msgid ""
+"The character '%s' (U+%02X) must be followed by an alphabetic character."
+msgstr ""
+
+msgid ""
+"The character '\\r' (U+0D) may not appear at the end of a word. This "
+"probably means means that the file is using MS-DOS EOL instead of Unix EOL."
+msgstr ""
+
+msgid ""
+"The condition \"%cond:1\" does not guarantee that \"%strip:2\" can always be"
+" stripped."
+msgstr ""
+
+msgid "The condition \"%cond:1\" is invalid."
+msgstr ""
+
+msgid "The conversion from \"%encod:1\" to \"%encod2:2\" is not supported."
+msgstr ""
+
+msgid "The directory \"%dir:1\" can not be opened for reading."
+msgstr ""
+
+msgid "The encoding \"%encod:1\" is not known."
+msgstr ""
+
+msgid "The encoding \"%encod:1\" is not supported."
+msgstr ""
+
+msgid "The file \"%file:1\" can not be opened"
+msgstr ""
+
+msgid "The file \"%file:1\" can not be opened for reading."
+msgstr ""
+
+msgid "The file \"%file:1\" can not be opened for writing."
+msgstr ""
+
+msgid "The file \"%file:1\" is not in the proper format."
+msgstr ""
+
+msgid ""
+"The file \"%file:1\" is not in the proper format. Expected the file to be in"
+" \"%exp:2\" not \"%got:3\"."
+msgstr ""
+
+msgid "The file \"%filter:1\" does not contain any filters."
+msgstr ""
+
+msgid "The file name \"%file:1\" is invalid."
+msgstr ""
+
+msgid "The filter \"%filter:1\" does not exist."
+msgstr ""
+
+msgid "The key \"%key:1\" does not take any parameters when prefixed by a \"clear-\"."
+msgstr ""
+
+msgid ""
+"The key \"%key:1\" does not take any parameters when prefixed by a \"dont-\""
+" or \"disable-\"."
+msgstr ""
+
+msgid "The key \"%key:1\" does not take any parameters when prefixed by a \"reset-\"."
+msgstr ""
+
+msgid ""
+"The key \"%key:1\" does not take any parameters when prefixed by an "
+"\"enable-\"."
+msgstr ""
+
+msgid "The key \"%key:1\" is not %accepted:2 and is thus invalid."
+msgstr ""
+
+msgid "The key \"%key:1\" is not a boolean."
+msgstr ""
+
+msgid "The key \"%key:1\" is not a list."
+msgstr ""
+
+msgid "The key \"%key:1\" is not a string."
+msgstr ""
+
+msgid "The key \"%key:1\" is not an integer."
+msgstr ""
+
+msgid "The key \"%key:1\" is unknown."
+msgstr ""
+
+msgid "The language \"%lang:1\" is not known."
+msgstr ""
+
+msgid "The language \"%lang:1\" is not supported."
+msgstr ""
+
+msgid "The main word list is unavailable."
+msgstr ""
+
+msgid "The method \"%what:1\" is unimplemented in \"%where:2\"."
+msgstr ""
+
+msgid "The personal word list is unavailable."
+msgstr ""
+
+msgid "The required field \"name\" is missing."
+msgstr ""
+
+msgid "The session word list is unavailable."
+msgstr ""
+
+msgid "The soundslike \"%sl:2\" is not known."
+msgstr ""
+
+msgid "The string \"%str:1\" is invalid."
+msgstr ""
+
+msgid "The total length is larger than 240 characters."
+msgstr ""
+
+msgid ""
+"The total word length, with soundslike data, is larger than 240 characters."
+msgstr ""
+
+msgid ""
+"The value \"%value:2\" is not %accepted:3 and is thus invalid for the key "
+"\"%key:1\"."
+msgstr ""
+
+msgid "The value for option \"%key:1\" can not be changed."
+msgstr ""
+
+msgid "The word \"%word:1\" is invalid."
+msgstr ""
+
+msgid "There must be at least one \"add\" line."
+msgstr ""
+
+msgid ""
+"This could also mean that the file \"%s\" could not be opened for reading or"
+" does not exist."
+msgstr ""
+
+msgid "This is probably because: "
+msgstr ""
+
+msgid "Time to load word list: "
+msgstr ""
+
+msgid "Unhandled Error: "
+msgstr ""
+
+msgid "Unicode normalization form: none, nfd, nfc, comp"
+msgstr ""
+
+msgid "Unicode normalization required for current lang"
+msgstr ""
+
+msgid "Unknown Action: %s"
+msgstr ""
+
+msgid "Unknown mode description key \"%key:1\"."
+msgstr ""
+
+msgid "Unknown mode: \"%mode:1\"."
+msgstr ""
+
+msgid "Usage: aspell [options] <command>"
+msgstr ""
+
+msgid "Use option modifiers only within named option."
+msgstr ""
+
+msgid "Version specifier missing key: \"aspell\"."
+msgstr ""
+
+msgid "WARNING: Unable to enter Nroff mode: %s\n"
+msgstr ""
+
+msgid "Warning: %s Skipping string.\n"
+msgstr ""
+
+msgid "Warning: %s Skipping word.\n"
+msgstr ""
+
+msgid "Warning: Removing inapplicable affix '%s' from word %s.\n"
+msgstr ""
+
+msgid "Warning: Removing invalid affix '%s' from word %s.\n"
+msgstr ""
+
+msgid "With: "
+msgstr ""
+
+msgid "Wrong endian order."
+msgstr ""
+
+msgid "Wrong soundslike version."
+msgstr ""
+
+msgid "Wrong soundslike."
+msgstr ""
+
+msgid "You must specify a file name."
+msgstr ""
+
+msgid "You must specify a parameter for \"%s\"."
+msgstr ""
+
+msgid "You must specify an action"
+msgstr ""
+
+msgid "Yy"
+msgstr ""
+
+msgid "[options] is any of the following:"
+msgstr ""
+
+msgid "a number between 0 and 1"
+msgstr ""
+
+msgid "a positive integer"
+msgstr ""
+
+msgid "a string of 'o','O','p',or 'P'"
+msgstr ""
+
+msgid "add or removes a filter"
+msgstr ""
+
+msgid "attempts to clean words so that they are valid"
+msgstr ""
+
+msgid "avoid lossy conversions when normalization"
+msgstr ""
+
+msgid "base name of the main dictionary to use"
+msgstr ""
+
+msgid "boolean"
+msgstr ""
+
+msgid "characters to insert when a word is split"
+msgstr ""
+
+msgid "check TeX comments"
+msgstr ""
+
+msgid "check if affix flags are valid"
+msgstr ""
+
+msgid "check if words are valid"
+msgstr ""
+
+msgid "compute soundslike on demand rather than storing"
+msgstr ""
+
+msgid "consider camel case words legal"
+msgstr ""
+
+msgid "consider run-together words legal"
+msgstr ""
+
+msgid "context delimiters (separated by spaces)"
+msgstr ""
+
+msgid "create a backup file by appending \".bak\""
+msgstr ""
+
+msgid "create dictionary aliases"
+msgstr ""
+
+msgid "create missing root/affix combinations"
+msgstr ""
+
+msgid "deprecated, use lang instead"
+msgstr ""
+
+msgid "dlopen returned \"%return:1\"."
+msgstr ""
+
+msgid "either \"true\" or \"false\""
+msgstr ""
+
+msgid "email quote characters"
+msgstr ""
+
+msgid "enable Unicode normalization"
+msgstr ""
+
+msgid "enable warnings"
+msgstr ""
+
+msgid "encoding to expect data to be in"
+msgstr ""
+
+msgid "enter Email mode."
+msgstr ""
+
+msgid "enter HTML mode."
+msgstr ""
+
+msgid "enter Markdown mode."
+msgstr ""
+
+msgid "enter Nroff mode."
+msgstr ""
+
+msgid "enter TeX mode."
+msgstr ""
+
+msgid "experimental filter for hiding delimited contexts"
+msgstr ""
+
+msgid "extra dictionaries to use"
+msgstr ""
+
+msgid "extra information for the word list"
+msgstr ""
+
+msgid "filter for Markdown/CommonMark documents"
+msgstr ""
+
+msgid "filter for dealing with HTML documents"
+msgstr ""
+
+msgid "filter for dealing with Nroff documents"
+msgstr ""
+
+msgid "filter for dealing with TeX/LaTeX documents"
+msgstr ""
+
+msgid "filter for dealing with Texinfo documents"
+msgstr ""
+
+msgid "filter for dealing with generic SGML/XML documents"
+msgstr ""
+
+msgid "filter for skipping quoted text in email messages"
+msgstr ""
+
+msgid "filter mode"
+msgstr ""
+
+msgid "filter to skip URL like constructs"
+msgstr ""
+
+msgid "ignore accents when checking words -- CURRENTLY IGNORED"
+msgstr ""
+
+msgid "ignore case when checking words"
+msgstr ""
+
+msgid "ignore commands to store replacement pairs"
+msgstr ""
+
+msgid "ignore words <= n chars"
+msgstr ""
+
+msgid "in the form \"<name> <value>\""
+msgstr ""
+
+msgid "indicator for affix flags in word lists -- CURRENTLY IGNORED"
+msgstr ""
+
+msgid "integer"
+msgstr ""
+
+msgid "is not one of the allowed types"
+msgstr ""
+
+msgid "keyboard definition to use for typo analysis"
+msgstr ""
+
+msgid "keymapping for check mode: \"aspell\" or \"ispell\""
+msgstr ""
+
+msgid "language code"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgid "location for personal files"
+msgstr ""
+
+msgid "location of language data files"
+msgstr ""
+
+msgid "location of local language data files"
+msgstr ""
+
+msgid "location of main configuration file"
+msgstr ""
+
+msgid "location of the main word list"
+msgstr ""
+
+msgid "main configuration file"
+msgstr ""
+
+msgid "maximum number that can be strung together"
+msgstr ""
+
+msgid "minimal length of interior words"
+msgstr ""
+
+msgid "mode for checking C++ comments and string literals"
+msgstr ""
+
+msgid "mode for checking HTML documents"
+msgstr ""
+
+msgid "mode for checking Markdown/CommonMark documents"
+msgstr ""
+
+msgid "mode for checking Nroff documents"
+msgstr ""
+
+msgid "mode for checking Perl comments and string literals"
+msgstr ""
+
+msgid "mode for checking TeX/LaTeX documents"
+msgstr ""
+
+msgid "mode for checking Texinfo documents"
+msgstr ""
+
+msgid "mode for checking generic SGML/XML documents"
+msgstr ""
+
+msgid "mode for skipping quoted text in email messages"
+msgstr ""
+
+msgid "mode to check any lines starting with a #"
+msgstr ""
+
+msgid "mode to disable all filters"
+msgstr ""
+
+msgid "mode to skip URL like constructs (default mode)"
+msgstr ""
+
+msgid "no longer used"
+msgstr ""
+
+msgid "not a version number"
+msgstr ""
+
+msgid "num chars that can appear before the quote char"
+msgstr ""
+
+msgid "one of ultra, fast, normal, slow, or bad-spellers"
+msgstr ""
+
+msgid "partially expand affixes for better suggestions"
+msgstr ""
+
+msgid "path(s) aspell looks for filters"
+msgstr ""
+
+msgid "personal configuration file"
+msgstr ""
+
+msgid "personal dictionary file name"
+msgstr ""
+
+msgid "prefix directory"
+msgstr ""
+
+msgid "remove invalid affix flags"
+msgstr ""
+
+msgid "replacements list file name"
+msgstr ""
+
+msgid "reverse the order of the suggest list"
+msgstr ""
+
+msgid "save replacement pairs on save all"
+msgstr ""
+
+msgid "search order for modules"
+msgstr ""
+
+msgid "search path for word list information files"
+msgstr ""
+
+msgid "set module name"
+msgstr ""
+
+msgid "set the prefix based on executable location"
+msgstr ""
+
+msgid "size of the word list"
+msgstr ""
+
+msgid "skip invalid words"
+msgstr ""
+
+msgid "string"
+msgstr ""
+
+msgid "suggest possible replacements"
+msgstr ""
+
+msgid "suggestion mode"
+msgstr ""
+
+msgid "swaps visible and invisible text"
+msgstr ""
+
+msgid "time load time and suggest time in pipe mode"
+msgstr ""
+
+msgid "use affix compression when creating dictionaries"
+msgstr ""
+
+msgid "use byte offsets instead of character offsets"
+msgstr ""
+
+msgid "use personal, replacement & session dictionaries"
+msgstr ""
+
+msgid "use replacement tables, override sug-mode default"
+msgstr ""
+
+msgid "use typo analysis, override sug-mode default"
+msgstr ""

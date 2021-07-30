@@ -1,0 +1,352 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bijiben master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-notes/issues\n"
+"PO-Revision-Date: 2020-04-12 21:38+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:59+0000\n"
+
+msgid "%d selected"
+msgid_plural "%d selected"
+msgstr[0] ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Bullets"
+msgstr ""
+
+msgid "Click on items to select them"
+msgstr ""
+
+msgid "Copy selection to a new note"
+msgstr ""
+
+msgid "Could not parse arguments"
+msgstr ""
+
+msgid "Could not register the application"
+msgstr ""
+
+msgid "Create a new note"
+msgstr ""
+
+msgid "Custom Font"
+msgstr ""
+
+msgid "Custom Location"
+msgstr ""
+
+msgid "Default Color"
+msgstr ""
+
+msgid "Edit view"
+msgstr ""
+
+msgid "Email this Note"
+msgstr ""
+
+msgid "Enter a name to create a notebook"
+msgstr ""
+
+msgid "Exit selection mode"
+msgstr ""
+
+msgid "GNOME Notes"
+msgstr ""
+
+msgid "Gnote application"
+msgstr ""
+
+msgid "How to show note items"
+msgstr ""
+
+msgid "Import Notes"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "List view"
+msgstr ""
+
+msgid "Load More"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Local storage"
+msgstr ""
+
+msgid "Move to Trash"
+msgstr ""
+
+msgid "New and Recent"
+msgstr ""
+
+msgid "New notebook"
+msgstr ""
+
+msgid "New notes color."
+msgstr ""
+
+msgid "No notes"
+msgstr ""
+
+msgid "Note Appearance"
+msgstr ""
+
+msgid "Note Color"
+msgstr ""
+
+msgid "Note Font"
+msgstr ""
+
+msgid "Note color"
+msgstr ""
+
+msgid "Note-taker"
+msgstr ""
+
+msgid "Notebooks"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Oops"
+msgstr ""
+
+msgid "Open in New Window"
+msgstr ""
+
+msgid "Open in another window"
+msgstr ""
+
+msgid "Permanently Delete"
+msgstr ""
+
+msgid "Please install “Tracker” then restart the application."
+msgstr ""
+
+msgid "Post notes, tag files!"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Press the New button to create a note."
+msgstr ""
+
+msgid "Primary Book"
+msgstr ""
+
+msgid "Primary notes provider to use for new notes."
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Restore"
+msgstr ""
+
+msgid "Results for %s"
+msgstr ""
+
+msgid "Search note titles, content and notebooks"
+msgstr ""
+
+msgid "Select a Folder"
+msgstr ""
+
+msgid "Select import location"
+msgstr ""
+
+msgid "Select the default storage location:"
+msgstr ""
+
+msgid "Select view"
+msgstr ""
+
+msgid "Selection mode"
+msgstr ""
+
+msgid "Share note"
+msgstr ""
+
+msgid "Show the application’s version"
+msgstr ""
+
+msgid "Simple notebook for GNOME"
+msgstr ""
+
+msgid "Strike"
+msgstr ""
+
+msgid "Take notes and export them everywhere."
+msgstr ""
+
+msgid ""
+"The color name set here will be used as the color when creating new notes."
+msgstr ""
+
+msgid "The font name set here will be used as the font when displaying notes."
+msgstr ""
+
+msgid "The primary notebook is the place where new notes are created."
+msgstr ""
+
+msgid "This month"
+msgstr ""
+
+msgid "This week"
+msgstr ""
+
+msgid "This year"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Tomboy application"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Use System Font"
+msgstr ""
+
+msgid "View notes and notebooks in a grid"
+msgstr ""
+
+msgid "View notes and notebooks in a list"
+msgstr ""
+
+msgid "Whether to show note items in icon view or list view."
+msgstr ""
+
+msgid "Whether to use the system monospace font"
+msgstr ""
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window maximized state."
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window position (x and y)."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "[FILE…]"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Empty"
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "notes;reminder;notebook;sticky notes;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Bold"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Cancel selection mode"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Italic"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move note to trash"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "New note"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Note edit mode"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Redo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Selection mode"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Strike through"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

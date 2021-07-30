@@ -1,0 +1,289 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: devhelp master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=devhelp&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-04-09 15:25+0000\n"
+"Last-Translator: Mingye Wang <arthur2e5@aosc.xyz>\n"
+"Language-Team: 汉语 <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:54+0000\n"
+
+msgid "Back"
+msgstr ""
+
+msgid "Book"
+msgstr ""
+
+msgid "Book Shelf"
+msgstr ""
+
+msgid "Book:"
+msgstr ""
+
+msgid "Books disabled"
+msgstr ""
+
+msgid "Devhelp"
+msgstr ""
+
+msgid "Devhelp Website"
+msgstr ""
+
+msgid "Devhelp support"
+msgstr ""
+
+msgid "Devhelp — Assistant"
+msgstr ""
+
+msgid "Display the version and exit"
+msgstr ""
+
+msgid "Empty Page"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enum"
+msgstr ""
+
+msgid "Error opening the requested link."
+msgstr ""
+
+msgid "Font for fixed width text"
+msgstr ""
+
+msgid "Font for text"
+msgstr ""
+
+msgid "Font for text with fixed width, such as code examples."
+msgstr ""
+
+msgid "Font for text with variable width."
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Function"
+msgstr ""
+
+msgid "Group by language"
+msgstr ""
+
+msgid "Height of assistant window"
+msgstr ""
+
+msgid "Height of main window"
+msgstr ""
+
+msgid "KEYWORD"
+msgstr ""
+
+msgid "Keyword"
+msgstr ""
+
+msgid "Language: %s"
+msgstr ""
+
+msgid "Language: Undefined"
+msgstr ""
+
+msgid "List of books disabled by the user."
+msgstr ""
+
+msgid "Macro"
+msgstr ""
+
+msgid "Main window maximized state"
+msgstr ""
+
+msgid "New _Window"
+msgstr ""
+
+msgid "Opens a new Devhelp window"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Quit any running Devhelp"
+msgstr ""
+
+msgid "S_maller Text"
+msgstr ""
+
+msgid "Search and display any hit in the assistant window"
+msgstr ""
+
+msgid "Search for a keyword"
+msgstr ""
+
+msgid "Show API Documentation"
+msgstr ""
+
+msgid "Signal"
+msgstr ""
+
+msgid "Struct"
+msgstr ""
+
+msgid "The height of the assistant window."
+msgstr ""
+
+msgid "The height of the main window."
+msgstr ""
+
+msgid "The width of the assistant window."
+msgstr ""
+
+msgid "The width of the index and search pane."
+msgstr ""
+
+msgid "The width of the main window."
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Use system fonts"
+msgstr ""
+
+msgid "Use the system default fonts."
+msgstr ""
+
+msgid "Whether books should be grouped by language in the UI"
+msgstr ""
+
+msgid "Whether the main window should start maximized."
+msgstr ""
+
+msgid "Width of the assistant window"
+msgstr ""
+
+msgid "Width of the index and search pane"
+msgstr ""
+
+msgid "Width of the main window"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_About Devhelp"
+msgstr ""
+
+msgid "_Find"
+msgstr ""
+
+msgid "_Fixed width:"
+msgstr ""
+
+msgid "_Group by language"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Larger Text"
+msgstr ""
+
+msgid "_Normal Size"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Print"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Use system fonts"
+msgstr ""
+
+msgid "_Variable width: "
+msgstr ""
+
+msgid "documentation;information;manual;developer;api;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close all windows"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close the current window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find in current page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Focus global search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go forward"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a new tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a new window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reset Zoom"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

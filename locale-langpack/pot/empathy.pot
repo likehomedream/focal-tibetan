@@ -1,0 +1,2458 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: empathy master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=empathy&keywords=I18N+L10N&component=General\n"
+"PO-Revision-Date: 2019-08-29 16:58+0000\n"
+"Last-Translator: Tong Hui <Unknown>\n"
+"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:28+0000\n"
+
+msgid ""
+"\n"
+"Message: %s"
+msgstr ""
+
+msgid " (%s)"
+msgstr ""
+
+msgid " - Empathy authentication client"
+msgstr ""
+
+msgid "\"%s\" received from %s"
+msgstr ""
+
+msgid "\"%s\" sent to %s"
+msgstr ""
+
+msgid "%"
+msgstr ""
+
+msgid "%02u.%02u"
+msgstr ""
+
+msgid "%1$s was banned by %2$s"
+msgstr ""
+
+msgid "%1$s was kicked by %2$s"
+msgstr ""
+
+msgid "%B %e, %Y at %R UTC"
+msgstr ""
+
+msgid "%e %B %Y"
+msgstr ""
+
+msgid ""
+"%s\n"
+"Invite required: %s\n"
+"Password required: %s\n"
+"Members: %s"
+msgstr ""
+
+msgid "%s (%d unread from all)"
+msgid_plural "%s (%d unread from all)"
+msgstr[0] ""
+
+msgid "%s (%d unread from others)"
+msgid_plural "%s (%d unread from others)"
+msgstr[0] ""
+
+msgid "%s (%d unread)"
+msgid_plural "%s (%d unread)"
+msgstr[0] ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "%s (SMS)"
+msgstr ""
+
+msgid "%s (and %u other)"
+msgid_plural "%s (and %u others)"
+msgstr[0] ""
+
+msgid "%s account requires authorisation"
+msgstr ""
+
+msgid "%s has disconnected"
+msgstr ""
+
+msgid "%s has joined the room"
+msgstr ""
+
+msgid "%s has left the room"
+msgstr ""
+
+msgid "%s invited you to join %s"
+msgstr ""
+
+msgid "%s is calling you. Do you want to answer?"
+msgstr ""
+
+msgid "%s is inviting you to join %s"
+msgstr ""
+
+msgid "%s is now known as %s"
+msgstr ""
+
+msgid "%s is video calling you. Do you want to answer?"
+msgstr ""
+
+msgid "%s just tried to call you, but you were in another call."
+msgstr ""
+
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] ""
+
+msgid "%s of %s"
+msgstr ""
+
+msgid "%s of %s at %s/s"
+msgstr ""
+
+msgid ""
+"%s of free space are required to save this file, but only %s is available. "
+"Please choose another location."
+msgstr ""
+
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] ""
+
+msgid "%s was banned"
+msgstr ""
+
+msgid "%s was kicked"
+msgstr ""
+
+msgid "%s would like permission to see when you are online"
+msgstr ""
+
+msgid "%s — %d:%02dm"
+msgstr ""
+
+msgid ""
+"%s's software does not understand any of the audio formats supported by your"
+" computer"
+msgstr ""
+
+msgid ""
+"%s's software does not understand any of the video formats supported by your"
+" computer"
+msgstr ""
+
+msgid "%s, %s"
+msgstr ""
+
+msgid "%u:%02u.%02u"
+msgstr ""
+
+msgid "(No Suggestions)"
+msgstr ""
+
+msgid "- Empathy Accounts"
+msgstr ""
+
+msgid "- Empathy Audio/Video Client"
+msgstr ""
+
+msgid "- Empathy Chat Client"
+msgstr ""
+
+msgid "- Empathy Debugger"
+msgstr ""
+
+msgid "- Empathy IM Client"
+msgstr ""
+
+msgid "/clear: clear all messages from the current conversation"
+msgstr ""
+
+msgid ""
+"/help [<command>]: show all supported commands. If <command> is defined, "
+"show its usage."
+msgstr ""
+
+msgid "/j <chat room ID>: join a new chat room"
+msgstr ""
+
+msgid "/join <chat room ID>: join a new chat room"
+msgstr ""
+
+msgid "/me <message>: send an ACTION message to the current conversation"
+msgstr ""
+
+msgid "/msg <contact ID> <message>: open a private chat"
+msgstr ""
+
+msgid "/nick <nickname>: change your nickname on the current server"
+msgstr ""
+
+msgid ""
+"/part [<chat room ID>] [<reason>]: leave the chat room, by default the "
+"current one"
+msgstr ""
+
+msgid "/query <contact ID> [<message>]: open a private chat"
+msgstr ""
+
+msgid ""
+"/say <message>: send <message> to the current conversation. This is used to "
+"send a message starting with a '/'. For example: \"/say /join is used to "
+"join a new chat room\""
+msgstr ""
+
+msgid "/topic <topic>: set the topic of the current conversation"
+msgstr ""
+
+msgid "/whois <contact ID>: display information about a contact"
+msgstr ""
+
+msgid "<account-id>"
+msgstr ""
+
+msgid "<b>%s:</b> %s"
+msgstr ""
+
+msgid ""
+"<b>Current message: %s</b>\n"
+"<small><i>Press Enter to set the new message or Esc to cancel.</i></small>"
+msgstr ""
+
+msgid "<b>Location</b> at (date)"
+msgstr ""
+
+msgid "<b>Location</b> at (date)\t"
+msgstr ""
+
+msgid "<i>* %s %s</i>"
+msgstr ""
+
+msgid "<span size=\"x-large\">Loading…</span>"
+msgstr ""
+
+msgctxt "A date with the time"
+msgid "%A, %e %B %Y %X"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Account connected"
+msgstr ""
+
+msgid "Account disconnected"
+msgstr ""
+
+msgid "Account settings"
+msgstr ""
+
+msgid "Account:"
+msgstr ""
+
+msgid "Accuracy Level:"
+msgstr ""
+
+msgid "Add '%s' to %s Dictionary"
+msgstr ""
+
+msgid "Add '%s' to Dictionary"
+msgstr ""
+
+msgid "Add new account"
+msgstr ""
+
+msgid "Add…"
+msgstr ""
+
+msgid "Alias"
+msgstr ""
+
+msgid "Alias:"
+msgstr ""
+
+msgid "All accounts"
+msgstr ""
+
+msgid "Altitude:"
+msgstr ""
+
+msgid "Always open a separate chat window for new chats."
+msgstr ""
+
+msgid "An Instant Messaging client for GNOME"
+msgstr ""
+
+msgid "And I'll no longer be a Capulet."
+msgstr ""
+
+msgid "Answer"
+msgstr ""
+
+msgid "Answer with video"
+msgstr ""
+
+msgid "Anyone"
+msgstr ""
+
+msgid "Anything"
+msgstr ""
+
+msgid "Anytime"
+msgstr ""
+
+msgid "Are you sure you want to block '%s' from contacting you again?"
+msgstr ""
+
+msgid "Are you sure you want to delete all logs of previous conversations?"
+msgstr ""
+
+msgid "Area:"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Authentication failed"
+msgstr ""
+
+msgid "Authentication failed for account <b>%s</b>"
+msgstr ""
+
+msgid "Auto-Connect"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Away"
+msgstr ""
+
+msgid "Bearing:"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Block %s?"
+msgstr ""
+
+msgid "Blocked Contacts"
+msgstr ""
+
+msgid "Building:"
+msgstr ""
+
+msgid "Busy"
+msgstr ""
+
+msgid "C_lear"
+msgstr ""
+
+msgid "C_ontact"
+msgstr ""
+
+msgid "C_ontinue"
+msgstr ""
+
+msgid "Call"
+msgstr ""
+
+msgid "Call %s"
+msgstr ""
+
+msgid "Call %s (%s)"
+msgstr ""
+
+msgid "Call from %s"
+msgstr ""
+
+msgid "Call took %s, ended at %s"
+msgstr ""
+
+msgid "Call with %s"
+msgstr ""
+
+msgid "Called %s"
+msgstr ""
+
+msgid "Calls"
+msgstr ""
+
+msgid "Camera device"
+msgstr ""
+
+msgid "Camera position"
+msgstr ""
+
+msgid ""
+"Can't establish a connection to %s. One of you might be on a network that "
+"does not allow direct connections."
+msgstr ""
+
+msgid "Can't establish audio stream"
+msgstr ""
+
+msgid "Can't establish video stream"
+msgstr ""
+
+msgid "Can't proceed while disconnected"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Certificate Details"
+msgstr ""
+
+msgid "Certificate error"
+msgstr ""
+
+msgid "Certificate expired"
+msgstr ""
+
+msgid "Certificate fingerprint mismatch"
+msgstr ""
+
+msgid "Certificate has been revoked"
+msgstr ""
+
+msgid "Certificate hostname mismatch"
+msgstr ""
+
+msgid "Certificate hostname: %s"
+msgstr ""
+
+msgid "Certificate is invalid"
+msgstr ""
+
+msgid "Certificate not activated"
+msgstr ""
+
+msgid "Certificate not provided"
+msgstr ""
+
+msgid "Certificate self-signed"
+msgstr ""
+
+msgid "Certificate untrusted"
+msgstr ""
+
+msgid ""
+"Certificate uses an insecure cipher algorithm or is cryptographically weak"
+msgstr ""
+
+msgid "Change your presence to see contacts here"
+msgstr ""
+
+msgid "Channels:"
+msgstr ""
+
+msgid ""
+"Character to add after nickname when using nick completion (tab) in group "
+"chat."
+msgstr ""
+
+msgid "Chat"
+msgstr ""
+
+msgid "Chat Room"
+msgstr ""
+
+msgid "Chat Th_eme:"
+msgstr ""
+
+msgid "Chat in %s"
+msgstr ""
+
+msgid "Chat on Google Talk, Facebook, MSN and many other chat services"
+msgstr ""
+
+msgid "Chat window theme"
+msgstr ""
+
+msgid "Chat window theme variant"
+msgstr ""
+
+msgid "Chat with %s"
+msgstr ""
+
+msgid "Checking integrity of \"%s\""
+msgstr ""
+
+msgid "Choose a contact to invite into the conversation:"
+msgstr ""
+
+msgid "City:"
+msgstr ""
+
+msgid "Clear All"
+msgstr ""
+
+msgid "Click to enlarge"
+msgstr ""
+
+msgid "Click to make this status a favorite"
+msgstr ""
+
+msgid "Click to remove this status as a favorite"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Client Information"
+msgstr ""
+
+msgid "Climb Speed:"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close this window?"
+msgstr ""
+
+msgid "Close window"
+msgstr ""
+
+msgid ""
+"Closing this window will leave %s. You will not receive any further messages"
+" until you rejoin it."
+msgstr ""
+
+msgid ""
+"Closing this window will leave a chat room. You will not receive any further"
+" messages until you rejoin it."
+msgid_plural ""
+"Closing this window will leave %u chat rooms. You will not receive any "
+"further messages until you rejoin them."
+msgstr[0] ""
+
+msgid ""
+"Comma-separated list of spell checker languages to use (e.g. \"en, fr, "
+"nl\")."
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connected to server"
+msgstr ""
+
+msgid "Connecting…"
+msgstr ""
+
+msgid "Connection can't be established"
+msgstr ""
+
+msgid "Connection has been lost"
+msgstr ""
+
+msgid "Connection has been refused"
+msgstr ""
+
+msgid ""
+"Connection has been replaced by a new connection using the same resource"
+msgstr ""
+
+msgid "Connection managers should be used"
+msgstr ""
+
+msgid "Contact Details"
+msgstr ""
+
+msgid "Contact List"
+msgstr ""
+
+msgid "Contact blocking temporarily unavailable"
+msgstr ""
+
+msgid "Contact blocking unavailable"
+msgstr ""
+
+msgid "Contact comes online"
+msgstr ""
+
+msgid "Contact connected"
+msgstr ""
+
+msgid "Contact disconnected"
+msgstr ""
+
+msgid "Contact goes offline"
+msgstr ""
+
+msgid "Contact search is not supported on this account"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Conversation"
+msgstr ""
+
+msgid "Could not block contact"
+msgstr ""
+
+msgid "Could not start a conversation with the given contact"
+msgstr ""
+
+msgid "Couldn't load room list"
+msgstr ""
+
+msgid "Country ISO Code:"
+msgstr ""
+
+msgid "Country:"
+msgstr ""
+
+msgid "Critical"
+msgstr ""
+
+msgid "Custom Message…"
+msgstr ""
+
+msgid "Custom messages…"
+msgstr ""
+
+msgid "D-Bus object path of the last account selected to join a room."
+msgstr ""
+
+msgid "Data too large for a single paste. Please save logs to file."
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Debug Window"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+msgid "Decoding Codec:"
+msgstr ""
+
+msgid "Default camera device to use in video calls, e.g. /dev/video0."
+msgstr ""
+
+msgid "Default directory to select an avatar image from"
+msgstr ""
+
+msgid "Delete All History…"
+msgstr ""
+
+msgid "Delete and _Block"
+msgstr ""
+
+msgid "Delete from:"
+msgstr ""
+
+msgid "Deny thy father and refuse thy name;"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Disable camera"
+msgstr ""
+
+msgid "Disable notifications when _away or busy"
+msgstr ""
+
+msgid "Disable popup notifications when away"
+msgstr ""
+
+msgid "Disable sounds when _away or busy"
+msgstr ""
+
+msgid "Disable sounds when away"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Disconnected"
+msgstr ""
+
+msgid "Disconnected from server"
+msgstr ""
+
+msgid "Disconnected — %s"
+msgstr ""
+
+msgid "Display incoming events in the notification area"
+msgstr ""
+
+msgid "Display incoming events in the status area"
+msgstr ""
+
+msgid ""
+"Display incoming events in the status area. If false, present them to the "
+"user immediately."
+msgstr ""
+
+msgid "Display the dialpad"
+msgstr ""
+
+msgid "Do you really want to remove the contact '%s'?"
+msgstr ""
+
+msgid "Do you really want to remove the group '%s'?"
+msgstr ""
+
+msgid ""
+"Do you really want to remove the linked contact '%s'? Note that this will "
+"remove all the contacts which make up this linked contact."
+msgstr ""
+
+msgid "Do you want to remove %.50s from your computer?"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Don't connect on startup"
+msgstr ""
+
+msgid "Don't display any dialogs unless there are only \"People Nearby\" accounts"
+msgstr ""
+
+msgid "Don't display any dialogs; do any work (eg, importing) and exit"
+msgstr ""
+
+msgid "Don't display the contact list or any other dialogs on startup"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid ""
+"Echo cancellation helps to make your voice sound clearer to the other "
+"person, but may cause problems on some computers. If you or the other person"
+" hear strange noises or glitches during calls, try turning echo cancellation"
+" off and restarting the call."
+msgstr ""
+
+msgid "Echo cancellation support"
+msgstr ""
+
+msgid "Edit %s account options"
+msgstr ""
+
+msgid "Edit Account"
+msgstr ""
+
+msgid "Edit Blocked Contacts"
+msgstr ""
+
+msgid "Edit Connection Parameters"
+msgstr ""
+
+msgid "Edit Contact Information"
+msgstr ""
+
+msgid "Edit Custom Messages"
+msgstr ""
+
+msgid "Edit Custom Messages…"
+msgstr ""
+
+msgctxt "Edit individual (contextual menu)"
+msgid "_Edit"
+msgstr ""
+
+msgid "Emergency calls are not supported on this protocol"
+msgstr ""
+
+msgid "Empathy"
+msgstr ""
+
+msgid "Empathy Accounts"
+msgstr ""
+
+msgid "Empathy Audio/Video Client"
+msgstr ""
+
+msgid "Empathy Debugger"
+msgstr ""
+
+msgid "Empathy Internet Messaging"
+msgstr ""
+
+msgid "Empathy authentication client"
+msgstr ""
+
+msgid ""
+"Empathy can automatically discover and chat with the people connected on the"
+" same network as you. If you want to use this feature, please check that the"
+" details below are correct."
+msgstr ""
+
+msgid "Empathy can publish the user's location"
+msgstr ""
+
+msgid "Empathy default download folder"
+msgstr ""
+
+msgid ""
+"Empathy is the official instant messaging application of the GNOME desktop "
+"environment.  Empathy can connect to AIM, MSN, Jabber (including Facebook "
+"and Google Talk), IRC, and many other messaging networks. You can chat with "
+"text, make audio and video calls, or even transfer files, depending on what "
+"your contact’s chat application allows."
+msgstr ""
+
+msgid ""
+"Empathy provides integrated messaging for the GNOME desktop, so you’ll never"
+" miss a message.  You can respond to your contacts without even having to "
+"open Empathy!"
+msgstr ""
+
+msgid "Empathy should auto-away when idle"
+msgstr ""
+
+msgid "Empathy should auto-connect on startup"
+msgstr ""
+
+msgid "Empathy should reduce the location's accuracy"
+msgstr ""
+
+msgid "Empathy should use the avatar of the contact as the chat window icon"
+msgstr ""
+
+msgid "Enable WebKit Developer Tools"
+msgstr ""
+
+msgid "Enable notifications when a contact comes online"
+msgstr ""
+
+msgid "Enable notifications when a contact goes offline"
+msgstr ""
+
+msgid "Enable notifications when the _chat is not focused"
+msgstr ""
+
+msgid "Enable popup notifications for new messages"
+msgstr ""
+
+msgid "Enable spell checker"
+msgstr ""
+
+msgid "Enable spell checking for languages:"
+msgstr ""
+
+msgid "Encoding Codec:"
+msgstr ""
+
+msgid "Encryption error"
+msgstr ""
+
+msgid "Encryption is not available"
+msgstr ""
+
+msgid "Enter a contact identifier or phone number:"
+msgstr ""
+
+msgid ""
+"Enter the room name to join here or click on one or more rooms in the list."
+msgstr ""
+
+msgid ""
+"Enter the server which hosts the room, or leave it empty if the room is on "
+"the current account&apos;s server"
+msgstr ""
+
+msgid ""
+"Enter the server which hosts the room, or leave it empty if the room is on "
+"the current account's server"
+msgstr ""
+
+msgid ""
+"Enter your password for account\n"
+"<b>%s</b>"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error contacting the Account Manager"
+msgstr ""
+
+msgid "Error receiving \"%s\" from %s"
+msgstr ""
+
+msgid "Error receiving a file"
+msgstr ""
+
+msgid "Error sending \"%s\" to %s"
+msgstr ""
+
+msgid "Error sending a file"
+msgstr ""
+
+msgid "Error sending message '%s': %s"
+msgstr ""
+
+msgid "Error sending message: %s"
+msgstr ""
+
+msgid "Error while trying to transfer the file"
+msgstr ""
+
+msgid "Error:"
+msgstr ""
+
+msgid ""
+"Even if they don't display passwords, logs can contain sensitive information such as your list of contacts or the messages you recently sent or received.\n"
+"If you don't want to see such information available in a public bug report, you can choose to limit the visibility of your bug to Empathy developers when reporting it by displaying the advanced fields in the <a href=\"https://bugzilla.gnome.org/enter_bug.cgi?product=empathy\">bug report</a>."
+msgstr ""
+
+msgid "Expected hostname: %s"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Failed to list rooms"
+msgstr ""
+
+msgid "Failed to open private chat"
+msgstr ""
+
+msgid "Failed to retrieve recent logs"
+msgstr ""
+
+msgid "Favorite"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File Transfers"
+msgstr ""
+
+msgid "File transfer completed"
+msgstr ""
+
+msgid "File transfer completed, but the file was corrupted"
+msgstr ""
+
+msgid "File transfer not supported by remote contact"
+msgstr ""
+
+msgid "Find:"
+msgstr ""
+
+msgid "Floor:"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Go _Online"
+msgstr ""
+
+msgid "Google Talk"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Groups"
+msgstr ""
+
+msgid "HOME"
+msgstr ""
+
+msgid "Hang up"
+msgstr ""
+
+msgid "Hang up current call"
+msgstr ""
+
+msgid "Hashing \"%s\""
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Hide main window"
+msgstr ""
+
+msgid "Hide the main window."
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Horizontal Error (meters):"
+msgstr ""
+
+msgid "IM Client"
+msgstr ""
+
+msgid "Identifier"
+msgstr ""
+
+msgid "Identifier:"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import Accounts"
+msgstr ""
+
+msgid "In a call"
+msgstr ""
+
+msgid "Incoming call"
+msgstr ""
+
+msgid "Incoming call from %s"
+msgstr ""
+
+msgid "Incoming calls"
+msgstr ""
+
+msgid "Incoming chat request"
+msgstr ""
+
+msgid "Incoming file from %s"
+msgstr ""
+
+msgid "Incoming file transfer from %s"
+msgstr ""
+
+msgid "Incoming video call"
+msgstr ""
+
+msgid "Incoming video call from %s"
+msgstr ""
+
+msgid "Incoming voice call"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Infor_mation"
+msgstr ""
+
+msgid "Inform other users when you are typing to them"
+msgstr ""
+
+msgid "Information requested…"
+msgstr ""
+
+msgid ""
+"Initially select given account (eg, gabble/jabber/foo_40example_2eorg0)"
+msgstr ""
+
+msgid "Insert Smiley"
+msgstr ""
+
+msgid "Insert _Smiley"
+msgstr ""
+
+msgid "Insufficient free space to save file"
+msgstr ""
+
+msgid "Integrate your IM accounts"
+msgstr ""
+
+msgid "Internal error"
+msgstr ""
+
+msgid "Invalid contact ID"
+msgstr ""
+
+msgid "Invisible"
+msgstr ""
+
+msgid "Invitation to join %s"
+msgstr ""
+
+msgid "Invite"
+msgstr ""
+
+msgid "Invite Participant"
+msgstr ""
+
+msgid "Invite _Participant…"
+msgstr ""
+
+msgid "Inviting you to this room"
+msgstr ""
+
+msgid "Join"
+msgstr ""
+
+msgid "Join Room"
+msgstr ""
+
+msgid "Join _Favorites"
+msgstr ""
+
+msgid "Juliet"
+msgstr ""
+
+msgid "Juliet has disconnected"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Last Updated on:"
+msgstr ""
+
+msgid "Last account selected in Join Room dialog"
+msgstr ""
+
+msgid "Latitude:"
+msgstr ""
+
+msgid "Le_ave Chat"
+msgstr ""
+
+msgid "Leave %s?"
+msgstr ""
+
+msgid "Leave room"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "Level "
+msgstr ""
+
+msgid "Linked Contacts"
+msgstr ""
+
+msgid "Linked contact containing %u contact"
+msgid_plural "Linked contacts containing %u contacts"
+msgstr[0] ""
+
+msgid "Loading account information"
+msgstr ""
+
+msgid "Local Candidate:"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Log conversations"
+msgstr ""
+
+msgid "Longitude:"
+msgstr ""
+
+msgid "Magic number used to check if sanity cleaning tasks should be run"
+msgstr ""
+
+msgid "Manage Favorite Rooms"
+msgstr ""
+
+msgid "Mat_ch case"
+msgstr ""
+
+msgid "Maximise me"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message edited at %s"
+msgstr ""
+
+msgid "Message received"
+msgstr ""
+
+msgid "Message sent"
+msgstr ""
+
+msgid "Messaging and VoIP Accounts"
+msgstr ""
+
+msgid "Minimise me"
+msgstr ""
+
+msgid "Missed call from %s"
+msgstr ""
+
+msgid "Missed calls"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Move Tab _Left"
+msgstr ""
+
+msgid "Move Tab _Right"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name in use"
+msgstr ""
+
+msgid "Network error"
+msgstr ""
+
+msgid "New Call"
+msgstr ""
+
+msgid "New Contact"
+msgstr ""
+
+msgid "New Conversation"
+msgstr ""
+
+msgid "New _Call…"
+msgstr ""
+
+msgid "New conversation"
+msgstr ""
+
+msgid "Nick completed character"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid ""
+"No accounts to import could be found. Empathy currently only supports "
+"importing accounts from Pidgin."
+msgstr ""
+
+msgid "No contacts found"
+msgstr ""
+
+msgid "No match found"
+msgstr ""
+
+msgid "No online contacts"
+msgstr ""
+
+msgid "No protocol backends installed"
+msgstr ""
+
+msgid "No reason specified"
+msgstr ""
+
+msgid "No reason was specified"
+msgstr ""
+
+msgid "No topic defined"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not now"
+msgstr ""
+
+msgid "Notifications"
+msgstr ""
+
+msgid "Notify for All Messages"
+msgstr ""
+
+msgid "O Romeo, Romeo, wherefore art thou Romeo?"
+msgstr ""
+
+msgid "OS"
+msgstr ""
+
+msgid "Offline"
+msgstr ""
+
+msgid "Offline — %s"
+msgstr ""
+
+msgid "Offline — Account Disabled"
+msgstr ""
+
+msgid "Offline — No Network Connection"
+msgstr ""
+
+msgid "On hold"
+msgstr ""
+
+msgid "Online Accounts"
+msgstr ""
+
+msgid "Online from a phone or mobile device"
+msgstr ""
+
+msgid "Open Hidden in Background"
+msgstr ""
+
+msgid "Open Preferences"
+msgstr ""
+
+msgid "Open new chats in separate windows"
+msgstr ""
+
+msgid "Or if thou wilt not, be but sworn my love"
+msgstr ""
+
+msgid "Outgoing calls"
+msgstr ""
+
+msgid "Outgoing voice call"
+msgstr ""
+
+msgid "P_references"
+msgstr ""
+
+msgid "Password Required"
+msgstr ""
+
+msgid "Password required"
+msgstr ""
+
+msgid "Pastebin link"
+msgstr ""
+
+msgid "Pastebin response"
+msgstr ""
+
+msgid "Path of the Adium theme to use"
+msgstr ""
+
+msgid ""
+"Path of the Adium theme to use if the theme used for chat is Adium. "
+"Deprecated."
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "People Nearby"
+msgstr ""
+
+msgid "People nearby"
+msgstr ""
+
+msgid "Permission Denied"
+msgstr ""
+
+msgid "Permission denied"
+msgstr ""
+
+msgid "Phrase not found"
+msgstr ""
+
+msgid "Play a sound for incoming messages"
+msgstr ""
+
+msgid "Play a sound for new conversations"
+msgstr ""
+
+msgid "Play a sound for outgoing messages"
+msgstr ""
+
+msgid "Play a sound when a contact logs in"
+msgstr ""
+
+msgid "Play a sound when a contact logs out"
+msgstr ""
+
+msgid "Play a sound when we log in"
+msgstr ""
+
+msgid "Play a sound when we log out"
+msgstr ""
+
+msgid "Play sound for events"
+msgstr ""
+
+msgid "Please enter your account details"
+msgstr ""
+
+msgid "Please install gnome-contacts to access contacts details."
+msgstr ""
+
+msgid "Please let me see when you're online. Thanks!"
+msgstr ""
+
+msgid "Pop up notifications if the chat isn't focused"
+msgstr ""
+
+msgid "Pop up notifications when a contact logs in"
+msgstr ""
+
+msgid "Pop up notifications when a contact logs out"
+msgstr ""
+
+msgid "Position the camera preview should be during a call."
+msgstr ""
+
+msgid "Postal Code:"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Protocol"
+msgstr ""
+
+msgid "Provide"
+msgstr ""
+
+msgid "Provide Password"
+msgstr ""
+
+msgid "Re_name"
+msgstr ""
+
+msgid "Received an instant message"
+msgstr ""
+
+msgid "Receiving \"%s\" from %s"
+msgstr ""
+
+msgid "Reconnect"
+msgstr ""
+
+msgid ""
+"Reduced location accuracy means that nothing more precise than your city, "
+"state and country will be published.  GPS coordinates will be accurate to 1 "
+"decimal place."
+msgstr ""
+
+msgid "Reject"
+msgstr ""
+
+msgid "Remaining"
+msgstr ""
+
+msgid "Remember"
+msgstr ""
+
+msgid "Remember password"
+msgstr ""
+
+msgid "Remember this choice for future connections"
+msgstr ""
+
+msgid "Remote Candidate:"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove completed, canceled and failed file transfers from the list"
+msgstr ""
+
+msgid "Remove from _Group '%s'"
+msgstr ""
+
+msgid "Removing contact"
+msgstr ""
+
+msgid "Removing group"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Respond"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Romeo"
+msgstr ""
+
+msgid "Room"
+msgstr ""
+
+msgid "Room List"
+msgstr ""
+
+msgid "Room invitation"
+msgstr ""
+
+msgid "Room:"
+msgstr ""
+
+msgid "SMS:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Avatar"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search contacts"
+msgstr ""
+
+msgid "Search: "
+msgstr ""
+
+msgid "Select a file"
+msgstr ""
+
+msgid "Select account to use to place the call"
+msgstr ""
+
+msgid ""
+"Select the groups you want this contact to appear in.  Note that you can "
+"select more than one group or no groups."
+msgstr ""
+
+msgid "Send File"
+msgstr ""
+
+msgid "Send to pastebin"
+msgstr ""
+
+msgid "Sending \"%s\" to %s"
+msgstr ""
+
+msgid "Sending %d message"
+msgid_plural "Sending %d messages"
+msgstr[0] ""
+
+msgid "Sent an instant message"
+msgstr ""
+
+msgid "Server cannot find contact: %s"
+msgstr ""
+
+msgid "Server is currently too busy to handle the connection"
+msgstr ""
+
+msgid "Set status"
+msgstr ""
+
+msgid "Shall I hear more, or shall I speak at this?"
+msgstr ""
+
+msgid "Share My Desktop"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show Balance in contact list"
+msgstr ""
+
+msgid "Show _Offline Contacts"
+msgstr ""
+
+msgid "Show _smileys as images"
+msgstr ""
+
+msgid "Show a particular service"
+msgstr ""
+
+msgid "Show account balances"
+msgstr ""
+
+msgid "Show contact _list in rooms"
+msgstr ""
+
+msgid "Show contact groups"
+msgstr ""
+
+msgid "Show contact list in rooms"
+msgstr ""
+
+msgid "Show dialpad"
+msgstr ""
+
+msgid "Show groups"
+msgstr ""
+
+msgid "Show hint about closing the main window"
+msgstr ""
+
+msgid "Show offline contacts"
+msgstr ""
+
+msgid ""
+"Something unexpected happened in a Telepathy component. Please <a "
+"href=\"%s\">report this bug</a> and attach logs gathered from the 'Debug' "
+"window in the Help menu."
+msgstr ""
+
+msgid "Sorry, %s accounts can’t be used until your %s software is updated."
+msgstr ""
+
+msgid "Sorry, you don’t have enough credit for that call."
+msgstr ""
+
+msgid "Sounds"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Speed:"
+msgstr ""
+
+msgid "Spell Checking"
+msgstr ""
+
+msgid "Spell checking languages"
+msgstr ""
+
+msgid "Start a video call"
+msgstr ""
+
+msgid "Start an audio call"
+msgstr ""
+
+msgid "Start chats in:"
+msgstr ""
+
+msgid "State:"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status is set to offline"
+msgstr ""
+
+msgid "Street:"
+msgstr ""
+
+msgid "Subscription Request"
+msgstr ""
+
+msgid "Swap camera"
+msgstr ""
+
+msgid "Technical Details"
+msgstr ""
+
+msgid "Text chats"
+msgstr ""
+
+msgid "Text:"
+msgstr ""
+
+msgid "The IP address as seen by a server on the Internet"
+msgstr ""
+
+msgid "The IP address as seen by the machine"
+msgstr ""
+
+msgid "The IP address of a relay server"
+msgstr ""
+
+msgid "The IP address of the multicast group"
+msgstr ""
+
+msgid "The IP address of the peer as seen by the other side"
+msgstr ""
+
+msgid "The account already exists on the server"
+msgstr ""
+
+msgid ""
+"The audio formats necessary for this call are not installed on your computer"
+msgstr ""
+
+msgid "The certificate does not have the expected fingerprint."
+msgstr ""
+
+msgid ""
+"The certificate has been revoked by the issuing Certification Authority."
+msgstr ""
+
+msgid "The certificate has expired."
+msgstr ""
+
+msgid "The certificate hasn't yet been activated."
+msgstr ""
+
+msgid "The certificate is cryptographically weak."
+msgstr ""
+
+msgid "The certificate is malformed."
+msgstr ""
+
+msgid "The certificate is not signed by a Certification Authority."
+msgstr ""
+
+msgid "The certificate is self-signed."
+msgstr ""
+
+msgid "The certificate length exceeds verifiable limits."
+msgstr ""
+
+msgid "The change in state was requested"
+msgstr ""
+
+msgid "The contact does not support this kind of conversation"
+msgstr ""
+
+msgid "The contact is offline"
+msgstr ""
+
+msgid "The default folder to save file transfers in."
+msgstr ""
+
+msgid "The end of the stream was reached"
+msgstr ""
+
+msgid "The following identity can not be blocked:"
+msgid_plural "The following identities can not be blocked:"
+msgstr[0] ""
+
+msgid "The following identity will be blocked:"
+msgid_plural "The following identities will be blocked:"
+msgstr[0] ""
+
+msgid ""
+"The hostname verified by the certificate doesn't match the server name."
+msgstr ""
+
+msgid "The identity provided by the chat server cannot be verified."
+msgstr ""
+
+msgid "The last directory that an avatar image was chosen from."
+msgstr ""
+
+msgid ""
+"The length of the server certificate, or the depth of the server certificate"
+" chain, exceed the limits imposed by the cryptography library"
+msgstr ""
+
+msgid ""
+"The list of languages reflects only the languages for which you have a "
+"dictionary installed."
+msgstr ""
+
+msgid "The other participant canceled the file transfer"
+msgstr ""
+
+msgid "The other participant is unable to transfer the file"
+msgstr ""
+
+msgid "The position for the chat window side pane"
+msgstr ""
+
+msgid "The requested functionality is not implemented for this protocol"
+msgstr ""
+
+msgid ""
+"The selected connection manager does not support the remote debugging "
+"extension."
+msgstr ""
+
+msgid "The selected file is empty"
+msgstr ""
+
+msgid "The selected file is not a regular file"
+msgstr ""
+
+msgid "The specified contact doesn't support calls"
+msgstr ""
+
+msgid "The specified contact is either invalid or unknown"
+msgstr ""
+
+msgid "The specified contact is not valid"
+msgstr ""
+
+msgid "The specified contact is offline"
+msgstr ""
+
+msgid "The stored position (in pixels) of the chat window side pane."
+msgstr ""
+
+msgid "The theme that is used to display the conversation in chat windows."
+msgstr ""
+
+msgid ""
+"The theme variant that is used to display the conversation in chat windows."
+msgstr ""
+
+msgid ""
+"The video formats necessary for this call are not installed on your computer"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "There are unsaved modifications to your %.50s account."
+msgstr ""
+
+msgid "There was a failure in the call engine"
+msgstr ""
+
+msgid "There was a failure on the network"
+msgstr ""
+
+msgid "There was an error starting the call"
+msgstr ""
+
+msgid "There was an error starting the conversation"
+msgstr ""
+
+msgid ""
+"There was an error while trying to connect to the Telepathy Account Manager. The error was:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid ""
+"This account has been disabled because it relies on an old, unsupported "
+"backend. Please install telepathy-haze and restart your session to migrate "
+"the account."
+msgstr ""
+
+msgid "This account is already connected to the server"
+msgstr ""
+
+msgid "This channel is full"
+msgstr ""
+
+msgid "This connection is untrusted. Would you like to continue anyway?"
+msgstr ""
+
+msgid "This room is protected by a password:"
+msgstr ""
+
+msgid "This will not remove your account on the server."
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid ""
+"To add a new account, you first have to install a backend for each protocol "
+"you want to use."
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Toggle audio transmission"
+msgstr ""
+
+msgid "Toggle video transmission"
+msgstr ""
+
+msgid "Top Contacts"
+msgstr ""
+
+msgid "Top Up"
+msgstr ""
+
+msgid "Top up account"
+msgstr ""
+
+msgid "Topic not supported on this conversation"
+msgstr ""
+
+msgid "Topic set by %s to: %s"
+msgstr ""
+
+msgid "Topic set to: %s"
+msgstr ""
+
+msgid "Topic:"
+msgstr ""
+
+msgid "Typing a message."
+msgstr ""
+
+msgid "URI:"
+msgstr ""
+
+msgid "Unable to open URI"
+msgstr ""
+
+msgid "Unable to save avatar"
+msgstr ""
+
+msgid "Ungrouped"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown Status"
+msgstr ""
+
+msgid "Unknown command"
+msgstr ""
+
+msgid "Unknown command; see /help for the available commands"
+msgstr ""
+
+msgid "Unknown or invalid identifier"
+msgstr ""
+
+msgid "Unknown reason"
+msgstr ""
+
+msgid "Untrusted connection"
+msgstr ""
+
+msgid "Update software…"
+msgstr ""
+
+msgid "Usage: %s"
+msgstr ""
+
+msgid "Use _echo cancellation to improve call quality"
+msgstr ""
+
+msgid "Use graphical smileys"
+msgstr ""
+
+msgid "Use notification sounds"
+msgstr ""
+
+msgid "Use theme for chat rooms"
+msgstr ""
+
+msgid "Variant:"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Vertical Error (meters):"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video call"
+msgstr ""
+
+msgid "Voice call ended"
+msgstr ""
+
+msgid "Waiting for the other participant's response"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "What"
+msgstr ""
+
+msgid "What kind of chat account do you have?"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid "Whether Empathy can publish the user's location to their contacts."
+msgstr ""
+
+msgid ""
+"Whether Empathy should automatically log into your accounts on startup."
+msgstr ""
+
+msgid ""
+"Whether Empathy should go into away mode automatically if the user is idle."
+msgstr ""
+
+msgid ""
+"Whether Empathy should reduce the location's accuracy for privacy reasons."
+msgstr ""
+
+msgid ""
+"Whether Empathy should use the avatar of the contact as the chat window "
+"icon."
+msgstr ""
+
+msgid ""
+"Whether WebKit developer tools, such as the Web Inspector, should be "
+"enabled."
+msgstr ""
+
+msgid ""
+"Whether connectivity managers should be used to automatically "
+"disconnect/reconnect."
+msgstr ""
+
+msgid ""
+"Whether to check words typed against the languages you want to check with."
+msgstr ""
+
+msgid "Whether to convert smileys into graphical images in conversations."
+msgstr ""
+
+msgid "Whether to enable Pulseaudio's echo cancellation filter."
+msgstr ""
+
+msgid ""
+"Whether to play a sound to notify of contacts logging into the network."
+msgstr ""
+
+msgid ""
+"Whether to play a sound to notify of contacts logging out of the network."
+msgstr ""
+
+msgid "Whether to play a sound to notify of events."
+msgstr ""
+
+msgid "Whether to play a sound to notify of incoming messages."
+msgstr ""
+
+msgid "Whether to play a sound to notify of new conversations."
+msgstr ""
+
+msgid "Whether to play a sound to notify of outgoing messages."
+msgstr ""
+
+msgid "Whether to play a sound when logging into a network."
+msgstr ""
+
+msgid "Whether to play a sound when logging out of a network."
+msgstr ""
+
+msgid "Whether to play sound notifications when away or busy."
+msgstr ""
+
+msgid ""
+"Whether to send the 'composing' or 'paused' chat states. Does not currently "
+"affect the 'gone' state."
+msgstr ""
+
+msgid "Whether to show a popup notification when a contact goes offline."
+msgstr ""
+
+msgid "Whether to show a popup notification when a contact goes online."
+msgstr ""
+
+msgid ""
+"Whether to show a popup notification when receiving a new message even if "
+"the chat is already opened, but not focused."
+msgstr ""
+
+msgid "Whether to show a popup notification when receiving a new message."
+msgstr ""
+
+msgid "Whether to show account balances in the contact list."
+msgstr ""
+
+msgid "Whether to show contacts that are offline in the contact list."
+msgstr ""
+
+msgid "Whether to show groups in the contact list."
+msgstr ""
+
+msgid "Whether to show popup notifications when away or busy."
+msgstr ""
+
+msgid "Whether to show the contact list in chat rooms."
+msgstr ""
+
+msgid ""
+"Whether to show the message dialog about closing the main window with the "
+"'x' button in the title bar."
+msgstr ""
+
+msgid "Whether to use the theme for chat rooms."
+msgstr ""
+
+msgid "Who"
+msgstr ""
+
+msgid "Windows Live"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Would you like to store this password?"
+msgstr ""
+
+msgid "Wrong password; please try again:"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid ""
+"You are about to close the window, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr ""
+
+msgid ""
+"You are about to select another account, which will discard\n"
+"your changes. Are you sure you want to proceed?"
+msgstr ""
+
+msgid "You are banned from this channel"
+msgstr ""
+
+msgid "You are not allowed to change the topic"
+msgstr ""
+
+msgid ""
+"You can change these details later or disable this feature by choosing <span"
+" style=\"italic\">Edit → Accounts</span> in the Contact List."
+msgstr ""
+
+msgid "You canceled the file transfer"
+msgstr ""
+
+msgid "You don't have enough credit in order to place this call"
+msgstr ""
+
+msgid "You have been invited to join %s"
+msgstr ""
+
+msgid "You haven't added any contacts yet"
+msgstr ""
+
+msgid "You must be invited to join this channel"
+msgstr ""
+
+msgid "You need to enable %s to see contacts here."
+msgstr ""
+
+msgid "You need to enable one of your accounts to see contacts here."
+msgstr ""
+
+msgid "You need to set up an account to see contacts here."
+msgstr ""
+
+msgid ""
+"You will not receive any further messages from this chat room until you "
+"rejoin it."
+msgstr ""
+
+msgid "Your current balance is %s."
+msgstr ""
+
+msgid "Your message introducing yourself:"
+msgstr ""
+
+msgid "Your new account has not been saved yet."
+msgstr ""
+
+msgid "Your software is too old"
+msgstr ""
+
+msgid "_Accept"
+msgstr ""
+
+msgid "_Accounts"
+msgstr ""
+
+msgid "_Add Contact"
+msgstr ""
+
+msgid "_Add Contacts…"
+msgstr ""
+
+msgid "_Add Contact…"
+msgstr ""
+
+msgid "_Add Group"
+msgstr ""
+
+msgid "_Answer"
+msgstr ""
+
+msgid "_Answer with video"
+msgstr ""
+
+msgid "_Audio Call"
+msgstr ""
+
+msgid "_Automatically connect on startup"
+msgstr ""
+
+msgid "_Block"
+msgstr ""
+
+msgid "_Block Contact"
+msgstr ""
+
+msgid "_Blocked Contacts"
+msgstr ""
+
+msgid "_Call"
+msgstr ""
+
+msgid "_Camera"
+msgstr ""
+
+msgid "_Chat"
+msgstr ""
+
+msgid "_Connect"
+msgstr ""
+
+msgid "_Contents"
+msgstr ""
+
+msgid "_Conversation"
+msgstr ""
+
+msgid "_Debug"
+msgstr ""
+
+msgid "_Decline"
+msgstr ""
+
+msgid "_Detach Tab"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Edit Connection Parameters…"
+msgstr ""
+
+msgid "_Enable bubble notifications"
+msgstr ""
+
+msgid "_Enable sound notifications"
+msgstr ""
+
+msgid "_Enabled"
+msgstr ""
+
+msgid "_Favorite Chat Room"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_File Transfers"
+msgstr ""
+
+msgid "_GStreamer"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_Import…"
+msgstr ""
+
+msgid "_Invite to Chat Room"
+msgstr ""
+
+msgid "_Join"
+msgstr ""
+
+msgid "_Join Chat"
+msgstr ""
+
+msgid "_Join…"
+msgstr ""
+
+msgid "_Manage Favorites"
+msgstr ""
+
+msgid "_Match case"
+msgstr ""
+
+msgid "_Microphone"
+msgstr ""
+
+msgid "_New Conversation…"
+msgstr ""
+
+msgid "_Next"
+msgstr ""
+
+msgid "_Next Tab"
+msgstr ""
+
+msgid "_Previous"
+msgstr ""
+
+msgid "_Previous Conversations"
+msgstr ""
+
+msgid "_Previous Tab"
+msgstr ""
+
+msgid "_Publish location to my contacts"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Reduce location accuracy"
+msgstr ""
+
+msgid "_Reject"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Report this contact as abusive"
+msgid_plural "_Report these contacts as abusive"
+msgstr[0] ""
+
+msgid "_Room:"
+msgstr ""
+
+msgid "_Rooms"
+msgstr ""
+
+msgid "_SMS"
+msgstr ""
+
+msgid "_Search for Contacts…"
+msgstr ""
+
+msgid "_Send"
+msgstr ""
+
+msgid "_Server:"
+msgstr ""
+
+msgid "_Settings"
+msgstr ""
+
+msgid "_Show Contact List"
+msgstr ""
+
+msgid "_Skip"
+msgstr ""
+
+msgid "_Spelling Suggestions"
+msgstr ""
+
+msgid "_Tabs"
+msgstr ""
+
+msgid "_Telepathy"
+msgstr ""
+
+msgid "_Undo Close Tab"
+msgstr ""
+
+msgid "_Video Call"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "chat;talk;im;message;irc;voip;gtalk;facebook;jabber;"
+msgstr ""
+
+msgid ""
+"empathy-sanity-cleaning.c uses this number to check if the cleaning tasks "
+"should be executed or not. Users should not change this key manually."
+msgstr ""
+
+msgctxt "file transfer percent"
+msgid "Unknown"
+msgstr ""
+
+msgid "gnome-contacts not installed"
+msgstr ""
+
+msgid "insufficient balance to send message"
+msgstr ""
+
+msgid "insufficient balance to send message. <a href='%s'>Top up</a>."
+msgstr ""
+
+msgid "invalid contact"
+msgstr ""
+
+msgctxt "menu item"
+msgid "_Audio Call"
+msgstr ""
+
+msgctxt "menu item"
+msgid "_Video Call"
+msgstr ""
+
+msgid "new _windows"
+msgstr ""
+
+msgid "new ta_bs"
+msgstr ""
+
+msgid "not capable"
+msgstr ""
+
+msgid "not implemented"
+msgstr ""
+
+msgid "offline"
+msgstr ""
+
+msgid "page 2"
+msgstr ""
+
+msgid "permission denied"
+msgstr ""
+
+msgctxt "presence"
+msgid "Unknown"
+msgstr ""
+
+msgid "too long message"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgctxt "verb in a column header displaying group names"
+msgid "Select"
+msgstr ""

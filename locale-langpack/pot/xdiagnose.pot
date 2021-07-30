@@ -1,0 +1,108 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xdiagnose\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-04-02 02:37+0000\n"
+"Last-Translator: shijing <jingshi@ubuntukylin.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:37+0000\n"
+
+msgid "Authentication is needed to diagnose graphics issues"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Diagnose Graphics Issues"
+msgstr ""
+
+msgid "Disable _PAT memory"
+msgstr ""
+
+msgid "Disable _VESA framebuffer driver"
+msgstr ""
+
+msgid "Disable bootloader _graphics"
+msgstr ""
+
+msgid "Display boot messages"
+msgstr ""
+
+msgid "Enable automatic crash bug reporting"
+msgstr ""
+
+msgid "Error Message"
+msgstr ""
+
+msgid "Extra graphics _debug messages"
+msgstr ""
+
+msgid "List dates on which updates were performed"
+msgstr ""
+
+msgid ""
+"Makes dmesg logs more verbose with details about 3d, plymouth, and monitor "
+"detection"
+msgstr ""
+
+msgid "Only include entries from this date and earlier (YYYY/MM/DD)"
+msgstr ""
+
+msgid "Only include entries from this date forward (YYYY/MM/DD)"
+msgstr ""
+
+msgid ""
+"Removes splash and quiet from kernel options so you can see kernel details "
+"during boot"
+msgstr ""
+
+msgid "Report an Xorg Bug"
+msgstr ""
+
+msgid ""
+"The grub bootloader has a graphics mode using the VESA framebuffer driver "
+"which can sometimes interfere with later loading of the proper video driver."
+"  Checking this forces grub to use text mode only."
+msgstr ""
+
+msgid ""
+"This pagetable extension can interfere with the memory management of "
+"proprietary drivers under certain situations and cause lagging or failures "
+"to allocate video memory, so turning it off can prevent those problems."
+msgstr ""
+
+msgid "Troubleshoot failure to start a graphical X11 session"
+msgstr ""
+
+msgid "Turns on the Apport crash detection and bug reporting tool"
+msgstr ""
+
+msgid "View Errors"
+msgstr ""
+
+msgid "Workarounds"
+msgstr ""
+
+msgid "X Diagnostics Settings"
+msgstr ""
+
+msgid "X.org Diagnostic and Repair Utility"
+msgstr ""
+
+msgid "Xorg Error Messages"
+msgstr ""
+
+msgid ""
+"vesafb is loaded early during boot so the boot logo can display, but can "
+"cause issues when switching to a real graphics driver.  Checking this "
+"prevents vesafb from loading so these issues do not occur."
+msgstr ""
+
+msgid "xdiagnose"
+msgstr ""

@@ -1,0 +1,1609 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: seahorse master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=seahorse&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-05 08:38+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:14+0000\n"
+
+msgid "%02d:%02d"
+msgstr ""
+
+msgid "%02d:%02d %s"
+msgstr ""
+
+msgid "%02d:%02d:%02d"
+msgstr ""
+
+msgid "%02d:%02d:%02d %s"
+msgstr ""
+
+msgid "%04d-%02d-%02d"
+msgstr ""
+
+msgid "%u:%u:%u"
+msgstr ""
+
+msgid "(Unreadable Secure Shell Key)"
+msgstr ""
+
+msgid "(unknown)"
+msgstr ""
+
+msgid "1024 bits"
+msgstr ""
+
+msgid "24hr: no"
+msgstr ""
+
+msgid "256 bits"
+msgstr ""
+
+msgid ":"
+msgstr ""
+
+msgid "<b>%d key is selected for synchronizing</b>"
+msgid_plural "<b>%d keys are selected for synchronizing</b>"
+msgstr[0] ""
+
+msgid ""
+"<big><b>The photo is too large</b></big>\n"
+"The recommended size for a photo on your key is %d × %d pixels."
+msgstr ""
+
+msgid ""
+"<i>Casually:</i> means you have done a casual verification that the key is "
+"owned by the person who claims to own it. For example, you could read the "
+"key fingerprint to the owner over the phone."
+msgstr ""
+
+msgid ""
+"<i>Not at all:</i> means you believe the key is owned by the person who "
+"claims to own it, but you could not or did not verify this to be a fact."
+msgstr ""
+
+msgid ""
+"<i>Very Carefully:</i> Select this only if you are absolutely sure that this"
+" key is genuine."
+msgstr ""
+
+msgid "A PGP key allows you to encrypt email or files to other people."
+msgstr ""
+
+msgid "A Secure Shell (SSH) key lets you connect securely to other computers."
+msgstr ""
+
+msgid "A keyring that is automatically unlocked on login"
+msgstr ""
+
+msgid "A keyring used to store passwords"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "Access a network share or resource"
+msgstr ""
+
+msgid "Access a website"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Key Server"
+msgstr ""
+
+msgid "Add Password"
+msgstr ""
+
+msgid "Add User ID"
+msgstr ""
+
+msgid "Add a new key or item"
+msgstr ""
+
+msgid "Add a photo to this key"
+msgstr ""
+
+msgid "Add password keyring"
+msgstr ""
+
+msgid "Add subkey to %s"
+msgstr ""
+
+msgid "Add user ID to %s"
+msgstr ""
+
+msgctxt "Algorithm"
+msgid "Unknown"
+msgstr ""
+
+msgid "All JPEG files"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "All image files"
+msgstr ""
+
+msgid "All key files"
+msgstr ""
+
+msgid "Are you sure you want to delete %d password?"
+msgid_plural "Are you sure you want to delete %d passwords?"
+msgstr[0] ""
+
+msgid "Are you sure you want to delete %u secure shell key?"
+msgid_plural "Are you sure you want to delete %u secure shell keys?"
+msgstr[0] ""
+
+msgid "Are you sure you want to delete the password keyring “%s”?"
+msgstr ""
+
+msgid "Are you sure you want to delete the password “%s”?"
+msgstr ""
+
+msgid "Are you sure you want to delete the secure shell key “%s”?"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete %d certificate?"
+msgid_plural "Are you sure you want to permanently delete %d certificates?"
+msgstr[0] ""
+
+msgid "Are you sure you want to permanently delete %d keys?"
+msgid_plural "Are you sure you want to permanently delete %d keys?"
+msgstr[0] ""
+
+msgid "Are you sure you want to permanently delete %s?"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete subkey %d of %s?"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete the “%s” user ID?"
+msgstr ""
+
+msgid "Are you sure you want to remove the current photo from your key?"
+msgstr ""
+
+msgid "Armored PGP keys"
+msgstr ""
+
+msgid "Authenticate"
+msgstr ""
+
+msgid "Automatically retrieve keys from _key servers"
+msgstr ""
+
+msgid "Automatically synchronize _modified keys with key servers"
+msgstr ""
+
+msgid "By signing you indicate your trust that this key belongs to:"
+msgstr ""
+
+msgid "C_hange"
+msgstr ""
+
+msgid "C_reate"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot delete"
+msgstr ""
+
+msgid "Certificate"
+msgstr ""
+
+msgid "Certificate request"
+msgstr ""
+
+msgid "Certificates"
+msgstr ""
+
+msgid "Certificates (DER encoded)"
+msgstr ""
+
+msgid "Certify"
+msgstr ""
+
+msgid "Change Passphrase"
+msgstr ""
+
+msgid "Change _Passphrase"
+msgstr ""
+
+msgid "Change _Password"
+msgstr ""
+
+msgid "Change password"
+msgstr ""
+
+msgid "Choose Photo to Add to Key"
+msgstr ""
+
+msgid "Choose Signing Key"
+msgstr ""
+
+msgid "Clipboard text"
+msgstr ""
+
+msgid "Compromised"
+msgstr ""
+
+msgid "Con_firm Passphrase:"
+msgstr ""
+
+msgid "Configuring Secure Shell Keys…"
+msgstr ""
+
+msgid "Confirm new passphrase"
+msgstr ""
+
+msgid "Confirm:"
+msgstr ""
+
+msgid "Connecting to: %s"
+msgstr ""
+
+msgid "Contributions:"
+msgstr ""
+
+msgid "Could not display help: %s"
+msgstr ""
+
+msgid "Couldn’t add item"
+msgstr ""
+
+msgid "Couldn’t add keyring"
+msgstr ""
+
+msgid "Couldn’t add photo"
+msgstr ""
+
+msgid "Couldn’t add revoker"
+msgstr ""
+
+msgid "Couldn’t change authorization for key."
+msgstr ""
+
+msgid "Couldn’t change expiry date"
+msgstr ""
+
+msgid "Couldn’t change keyring password"
+msgstr ""
+
+msgid "Couldn’t change passphrase for key."
+msgstr ""
+
+msgid "Couldn’t change password."
+msgstr ""
+
+msgid "Couldn’t change primary photo"
+msgstr ""
+
+msgid "Couldn’t change primary user ID"
+msgstr ""
+
+msgid "Couldn’t communicate with %s: %s"
+msgstr ""
+
+msgid "Couldn’t communicate with server “%s”: %s"
+msgstr ""
+
+msgid "Couldn’t configure Secure Shell keys on remote computer."
+msgstr ""
+
+msgid "Couldn’t create certificate request"
+msgstr ""
+
+msgid "Couldn’t delete"
+msgstr ""
+
+msgid "Couldn’t delete photo"
+msgstr ""
+
+msgid "Couldn’t delete subkey"
+msgstr ""
+
+msgid "Couldn’t delete user ID"
+msgstr ""
+
+msgid "Couldn’t export data"
+msgstr ""
+
+msgid "Couldn’t export key"
+msgstr ""
+
+msgid "Couldn’t export keys"
+msgstr ""
+
+msgid "Couldn’t generate PGP key"
+msgstr ""
+
+msgid "Couldn’t generate Secure Shell key"
+msgstr ""
+
+msgid "Couldn’t generate private key"
+msgstr ""
+
+msgid "Couldn’t load newly generated Secure Shell key"
+msgstr ""
+
+msgid "Couldn’t lock"
+msgstr ""
+
+msgid "Couldn’t prepare photo"
+msgstr ""
+
+msgid "Couldn’t publish keys to server"
+msgstr ""
+
+msgid "Couldn’t rename key."
+msgstr ""
+
+msgid "Couldn’t resolve address: %s"
+msgstr ""
+
+msgid "Couldn’t retrieve keys from server: %s"
+msgstr ""
+
+msgid "Couldn’t revoke subkey"
+msgstr ""
+
+msgid "Couldn’t save certificate request"
+msgstr ""
+
+msgid "Couldn’t set default keyring"
+msgstr ""
+
+msgid "Couldn’t set description."
+msgstr ""
+
+msgid "Couldn’t sign key"
+msgstr ""
+
+msgid "Couldn’t unlock"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create a certificate request file for this key"
+msgstr ""
+
+msgid "Create a certificate request file."
+msgstr ""
+
+msgid "Create a new private key"
+msgstr ""
+
+msgid "Create the new user ID"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Created on"
+msgstr ""
+
+msgid "Created:"
+msgstr ""
+
+msgid "Creating Secure Shell Key"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "DSA"
+msgstr ""
+
+msgid "DSA (sign only)"
+msgstr ""
+
+msgid "DSA ElGamal"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Dates:"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Day of month part of the lower date limit"
+msgstr ""
+
+msgid "Day of month part of the upper date limit"
+msgstr ""
+
+msgid "Decryption failed. You probably do not have the decryption key."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete this certificate or key"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Display flags"
+msgstr ""
+
+msgid "Displayed date and/or time properties"
+msgstr ""
+
+msgid "Displayed day of month"
+msgstr ""
+
+msgid "Displayed hour"
+msgstr ""
+
+msgid "Displayed minute"
+msgstr ""
+
+msgid "Displayed month"
+msgstr ""
+
+msgid "Displayed second"
+msgstr ""
+
+msgid "Displayed year"
+msgstr ""
+
+msgid "Dropped text"
+msgstr ""
+
+msgid "ECDSA"
+msgstr ""
+
+msgid "ED25519"
+msgstr ""
+
+msgid "ElGamal"
+msgstr ""
+
+msgid "ElGamal (encrypt only)"
+msgstr ""
+
+msgid "Encrypt"
+msgstr ""
+
+msgid "Encryption key password"
+msgstr ""
+
+msgid "Enter Key Passphrase"
+msgstr ""
+
+msgid "Enter PIN or password for: %s"
+msgstr ""
+
+msgid "Enter new passphrase"
+msgstr ""
+
+msgid "Enter new passphrase for “%s”"
+msgstr ""
+
+msgid "Enter passphrase"
+msgstr ""
+
+msgid "Enter passphrase for “%s”"
+msgstr ""
+
+msgid "Enter the date directly"
+msgstr ""
+
+msgid "Enter the new passphrase again: %s"
+msgstr ""
+
+msgid "Enter the new passphrase for: %s"
+msgstr ""
+
+msgid "Enter the old passphrase for: %s"
+msgstr ""
+
+msgid "Enter the passphrase for your new key twice."
+msgstr ""
+
+msgid "Enter the time directly"
+msgstr ""
+
+msgid "Enter your Secure Shell passphrase:"
+msgstr ""
+
+msgid "Expiration Date"
+msgstr ""
+
+msgid "Expire"
+msgstr ""
+
+msgid "Expired"
+msgstr ""
+
+msgid "Expires"
+msgstr ""
+
+msgctxt "Expires"
+msgid "Never"
+msgstr ""
+
+msgid "Expires:"
+msgstr ""
+
+msgid "Expiry: %s"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Export the certificate"
+msgstr ""
+
+msgid "Exporting data"
+msgstr ""
+
+msgid "Failed to export certificate"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Find Remote Keys"
+msgstr ""
+
+msgid "Fingerprint"
+msgstr ""
+
+msgid "Fingerprint:"
+msgstr ""
+
+msgid ""
+"For help contact your system administrator or the administrator of the key "
+"server."
+msgstr ""
+
+msgid "GNOME Online Accounts password"
+msgstr ""
+
+msgid "Generate a new key"
+msgstr ""
+
+msgid "Generate a new subkey"
+msgstr ""
+
+msgid "Generating key"
+msgstr ""
+
+msgid "GnuPG keys"
+msgstr ""
+
+msgid "GnuPG: default keyring directory"
+msgstr ""
+
+msgid "Go to next photo"
+msgstr ""
+
+msgid "Go to previous photo"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Google Chrome password"
+msgstr ""
+
+msgid "HTTP Key Server"
+msgstr ""
+
+msgid "Host:"
+msgstr ""
+
+msgid "Hour"
+msgstr ""
+
+msgid "Hour part of the lower time limit"
+msgstr ""
+
+msgid "Hour part of the upper time limit"
+msgstr ""
+
+msgid "How carefully have you checked this key?"
+msgstr ""
+
+msgid "How others will see this signature:"
+msgstr ""
+
+msgid "I can _revoke this signature at a later date."
+msgstr ""
+
+msgid "I trust signatures from “%s” on other keys"
+msgstr ""
+
+msgid "I understand that all items will be permanently deleted."
+msgstr ""
+
+msgid "I understand that this key will be permanently deleted."
+msgstr ""
+
+msgid "I understand that this secret key will be permanently deleted."
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "IM account password for "
+msgstr ""
+
+msgid "If key never expires"
+msgstr ""
+
+msgid ""
+"If there is a computer you want to use this key with, you can set up that "
+"computer to recognize your new key."
+msgstr ""
+
+msgid ""
+"If you believe that the person that owns this key is “%s”, <i>sign</i> this "
+"key:"
+msgstr ""
+
+msgid ""
+"If you no longer trust that “%s” owns this key, <i>revoke</i> your "
+"signature:"
+msgstr ""
+
+msgid "Import Key"
+msgstr ""
+
+msgid "Import failed"
+msgstr ""
+
+msgid "Importing data"
+msgstr ""
+
+msgid "Importing key. Enter passphrase"
+msgstr ""
+
+msgid "Importing key: %s"
+msgstr ""
+
+msgid "Indicate Trust:"
+msgstr ""
+
+msgid "Instant messaging password"
+msgstr ""
+
+msgid "Invalid expiry date"
+msgstr ""
+
+msgid ""
+"Invalid key data (missing UIDs). This may be due to a computer with a date "
+"set in the future or a missing self-signature."
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Key Data"
+msgstr ""
+
+msgid "Key ID"
+msgstr ""
+
+msgid "Key ID:"
+msgstr ""
+
+msgid "Key Name"
+msgstr ""
+
+msgid "Key Names and Signatures"
+msgstr ""
+
+msgid "Key Server Type:"
+msgstr ""
+
+msgid "Key Servers"
+msgstr ""
+
+msgid "Key Servers:"
+msgstr ""
+
+msgid "Key _Strength (bits):"
+msgstr ""
+
+msgid "Key _Type:"
+msgstr ""
+
+msgid "Key has been compromised"
+msgstr ""
+
+msgid "Key has been superseded"
+msgstr ""
+
+msgid "Key is no longer used"
+msgstr ""
+
+msgid "Key storage password"
+msgstr ""
+
+msgid "Keyring is locked"
+msgstr ""
+
+msgid "Keyring password"
+msgstr ""
+
+msgid "Keyring properties"
+msgstr ""
+
+msgid "Keys used to connect securely to other computers"
+msgstr ""
+
+msgid "LDAP Key Server"
+msgstr ""
+
+msgctxt "Label"
+msgid "Unknown"
+msgstr ""
+
+msgid "Label:"
+msgstr ""
+
+msgid "Last key server search pattern"
+msgstr ""
+
+msgid "Last key servers used"
+msgstr ""
+
+msgid "Lazy mode"
+msgstr ""
+
+msgid "Lazy mode doesn’t normalize entered date and time values"
+msgstr ""
+
+msgid "Length of Key"
+msgstr ""
+
+msgid "Loaded %d key"
+msgid_plural "Loaded %d keys"
+msgstr[0] ""
+
+msgid "Lower limit day"
+msgstr ""
+
+msgid "Lower limit hour"
+msgstr ""
+
+msgid "Lower limit minute"
+msgstr ""
+
+msgid "Lower limit month"
+msgstr ""
+
+msgid "Lower limit second"
+msgstr ""
+
+msgid "Lower limit year"
+msgstr ""
+
+msgid "Make this photo the primary photo"
+msgstr ""
+
+msgid "Manage your passwords and encryption keys"
+msgstr ""
+
+msgid "Minute"
+msgstr ""
+
+msgid "Minute part of the lower time limit"
+msgstr ""
+
+msgid "Minute part of the upper time limit"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Month part of the lower date limit"
+msgstr ""
+
+msgid "Month part of the upper date limit"
+msgstr ""
+
+msgid "Multiple Keys"
+msgstr ""
+
+msgid "Must be at least 5 characters long"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name (CN):"
+msgstr ""
+
+msgid "Name/Email"
+msgstr ""
+
+msgid "Names and Signatures"
+msgstr ""
+
+msgid "Ne_ver Expires"
+msgstr ""
+
+msgid "Network Credentials"
+msgstr ""
+
+msgid "Network Manager secret"
+msgstr ""
+
+msgid "Network password"
+msgstr ""
+
+msgid "Never E_xpires"
+msgstr ""
+
+msgid "New Key Passphrase"
+msgstr ""
+
+msgid "New Keyring Name:"
+msgstr ""
+
+msgid "New Secure Shell Key"
+msgstr ""
+
+msgid "New _Passphrase:"
+msgstr ""
+
+msgid "No keys usable for signing"
+msgstr ""
+
+msgid "No private key file is available for this key."
+msgstr ""
+
+msgid "No public key file is available for this key."
+msgstr ""
+
+msgid "No reason"
+msgstr ""
+
+msgid "No reason for revoking key"
+msgstr ""
+
+msgid "None: Don’t publish keys"
+msgstr ""
+
+msgid "Not Used"
+msgstr ""
+
+msgid "Not a valid Key Server address."
+msgstr ""
+
+msgid "Old Key Passphrase"
+msgstr ""
+
+msgid "OpenSSH keys"
+msgstr ""
+
+msgid "OpenSSH: %s"
+msgstr ""
+
+msgid "Optional comment describing key"
+msgstr ""
+
+msgid "Optional description of revocation"
+msgstr ""
+
+msgid "Optional email address"
+msgstr ""
+
+msgid "Override Owner _Trust:"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "PEM encoded request"
+msgstr ""
+
+msgid "PGP Keys"
+msgstr ""
+
+msgid "PGP key"
+msgstr ""
+
+msgid "PGP keys"
+msgstr ""
+
+msgid "PGP keys are for encrypting email or files"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "Passphrase"
+msgstr ""
+
+msgid "Passphrase for New PGP Key"
+msgstr ""
+
+msgid "Passphrase for New Secure Shell Key"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Passwords"
+msgstr ""
+
+msgid "Passwords and Keys"
+msgstr ""
+
+msgid "Personal PGP key"
+msgstr ""
+
+msgid "Personal SSH key"
+msgstr ""
+
+msgid "Personal certificate"
+msgstr ""
+
+msgid "Personal certificate and key"
+msgstr ""
+
+msgid ""
+"Please choose a name for the new keyring. You will be prompted for an unlock"
+" password."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Private key"
+msgstr ""
+
+msgid "Public Key"
+msgstr ""
+
+msgid "Public SSH keys"
+msgstr ""
+
+msgid "RSA"
+msgstr ""
+
+msgid "RSA (encrypt only)"
+msgstr ""
+
+msgid "RSA (sign only)"
+msgstr ""
+
+msgid "Re_voke"
+msgstr ""
+
+msgid "Reason for revoking the key"
+msgstr ""
+
+msgid "Remote Host Password"
+msgstr ""
+
+msgid "Remove this photo from this key"
+msgstr ""
+
+msgid "Resolving server address: %s"
+msgstr ""
+
+msgid "Retrieving data"
+msgstr ""
+
+msgid "Revoke"
+msgstr ""
+
+msgid "Revoke key"
+msgstr ""
+
+msgid "Revoke: %s"
+msgstr ""
+
+msgid "Revoked"
+msgstr ""
+
+msgid "SSH Key"
+msgstr ""
+
+msgid "SSH key"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save certificate request"
+msgstr ""
+
+msgid "Save changes for this item?"
+msgstr ""
+
+msgid "Saved password or login"
+msgstr ""
+
+msgid "Seahorse"
+msgstr ""
+
+msgid "Seahorse Project Homepage"
+msgstr ""
+
+msgid ""
+"Seahorse is a GNOME application for managing encryption keys. It also "
+"integrates with nautilus, gedit and other places for encryption operations."
+msgstr ""
+
+msgid "Search was not specific enough. Server “%s” found too many keys."
+msgstr ""
+
+msgid "Second"
+msgstr ""
+
+msgid "Second part of the lower time limit"
+msgstr ""
+
+msgid "Second part of the upper time limit"
+msgstr ""
+
+msgid "Secret SSH keys"
+msgstr ""
+
+msgid "Secure Shell"
+msgstr ""
+
+msgid "Secure Shell Key"
+msgstr ""
+
+msgid "Secure Shell key"
+msgstr ""
+
+msgid "Select Date"
+msgstr ""
+
+msgid "Select Time"
+msgstr ""
+
+msgid "Select the date from a calendar"
+msgstr ""
+
+msgid "Select the time from a list"
+msgstr ""
+
+msgid "Sending data"
+msgstr ""
+
+msgid "Set Up"
+msgstr ""
+
+msgid "Set Up Computer for SSH Connection"
+msgstr ""
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Shared Keys Near Me:"
+msgstr ""
+
+msgid "Show _trusted"
+msgstr ""
+
+msgid "Show expiry column"
+msgstr ""
+
+msgid "Show type column"
+msgstr ""
+
+msgid "Show validity column"
+msgstr ""
+
+msgid "Show/Hide password"
+msgstr ""
+
+msgid "Sign"
+msgstr ""
+
+msgid "Sign Key"
+msgstr ""
+
+msgid "Sign key as:"
+msgstr ""
+
+msgid "Signature ID"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Stored at:"
+msgstr ""
+
+msgid "Stored note"
+msgstr ""
+
+msgid "Stored personal passwords, credentials and secrets"
+msgstr ""
+
+msgid "Strength"
+msgstr ""
+
+msgid "Strength:"
+msgstr ""
+
+msgid "Subkey %d of %s"
+msgstr ""
+
+msgid "Superseded"
+msgstr ""
+
+msgid "Sync Keys"
+msgstr ""
+
+msgid "Synchronizing keys…"
+msgstr ""
+
+msgid "Technical Details"
+msgstr ""
+
+msgid "Technical Details:"
+msgstr ""
+
+msgid "Telepathy password"
+msgstr ""
+
+msgid "The common name (CN) placed in the certificate request."
+msgstr ""
+
+msgid "The expiry date must be in the future"
+msgstr ""
+
+msgid "The file could not be loaded. It may be in an invalid format"
+msgstr ""
+
+msgid "The host name or address of the server."
+msgstr ""
+
+msgid ""
+"The key server to publish PGP keys to. Or empty to suppress publishing of "
+"PGP keys."
+msgstr ""
+
+msgid ""
+"The last key server a search was performed against or empty for all key "
+"servers."
+msgstr ""
+
+msgid "The last search pattern searched for against a key server."
+msgstr ""
+
+msgid "The operation was cancelled"
+msgstr ""
+
+msgid "The owner of the key revoked the key. It can no longer be used."
+msgstr ""
+
+msgid "The port to access the server on."
+msgstr ""
+
+msgid "The search for keys failed."
+msgstr ""
+
+msgid ""
+"This is not a image file, or an unrecognized kind of image file. Try to use "
+"a JPEG image."
+msgstr ""
+
+msgid "This key expired on: %s"
+msgstr ""
+
+msgid "This key has been revoked"
+msgstr ""
+
+msgid "This key has expired"
+msgstr ""
+
+msgid ""
+"This key was already signed by\n"
+"“%s”"
+msgstr ""
+
+msgid ""
+"This was the third time you entered a wrong password. Please try again."
+msgstr ""
+
+msgid ""
+"This will find keys for others on the Internet. These keys can then be "
+"imported into your local key ring."
+msgstr ""
+
+msgid ""
+"This will publish the keys in your key ring so they’re available for others "
+"to use. You’ll also get any changes others have made since you received "
+"their keys."
+msgstr ""
+
+msgid ""
+"This will retrieve any changes others have made since you received their "
+"keys. No key server has been chosen for publishing, so your keys will not be"
+" made available to others."
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid ""
+"To use your Secure Shell key with another computer that uses SSH, you must "
+"already have a login account on that computer."
+msgstr ""
+
+msgid "Trust"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Unable to change trust"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Unknown date"
+msgstr ""
+
+msgid "Unknown key type!"
+msgstr ""
+
+msgid "Unknown type"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Unlocks a PGP key"
+msgstr ""
+
+msgid "Unlocks a Secure Shell key"
+msgstr ""
+
+msgid "Unnamed"
+msgstr ""
+
+msgid "Unnamed private key"
+msgstr ""
+
+msgid "Upper limit day"
+msgstr ""
+
+msgid "Upper limit hour"
+msgstr ""
+
+msgid "Upper limit minute"
+msgstr ""
+
+msgid "Upper limit month"
+msgstr ""
+
+msgid "Upper limit second"
+msgstr ""
+
+msgid "Upper limit year"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid "Used to encrypt email and files"
+msgstr ""
+
+msgid "Used to request a certificate"
+msgstr ""
+
+msgid "Used to store application and network passwords"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Full"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Fully"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Marginal"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Marginally"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Never"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Revoked"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Ultimate"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Ultimately"
+msgstr ""
+
+msgctxt "Validity"
+msgid "Unknown"
+msgstr ""
+
+msgid "Version of this application"
+msgstr ""
+
+msgid ""
+"When creating a key we need to generate a lot of\n"
+"random data and we need you to help. It’s a good\n"
+"idea to perform some other action like typing on\n"
+"the keyboard, moving the mouse, using applications.\n"
+"This gives the system the random data that it needs."
+msgstr ""
+
+msgid "Where to search:"
+msgstr ""
+
+msgid ""
+"Whether or not keys should be automatically retrieved from key servers."
+msgstr ""
+
+msgid ""
+"With seahorse you can create and manage PGP keys, create and manage SSH "
+"keys, publish and retrieve keys from key servers, cache your passphrase so "
+"you don’t have to keep typing it and backup your keys and keyring."
+msgstr ""
+
+msgid "Wrong passphrase."
+msgstr ""
+
+msgid "Wrong password"
+msgstr ""
+
+msgid "X.509 certificates and related keys"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Year part of the lower date limit"
+msgstr ""
+
+msgid "Year part of the upper date limit"
+msgstr ""
+
+msgid "You _Trust the Owner:"
+msgstr ""
+
+msgid ""
+"You are about to add %s as a revoker for %s. This operation cannot be "
+"undone! Are you sure you want to continue?"
+msgstr ""
+
+msgid ""
+"You could use a hard to forge photo identification (such as a passport) to "
+"personally check that the name on the key is correct. You should have also "
+"used email to check that the email address belongs to the owner."
+msgstr ""
+
+msgid ""
+"You have no personal PGP keys that can be used to indicate your trust of "
+"this key."
+msgstr ""
+
+msgid ""
+"You have no personal PGP keys that can be used to sign a document or "
+"message."
+msgstr ""
+
+msgid "Your email address, or a reminder of what this key is for."
+msgstr ""
+
+msgid "Your trust is manually specified on the <i>Details</i> tab."
+msgstr ""
+
+msgid "Your trust of this key"
+msgstr ""
+
+msgid "[Unknown]"
+msgstr ""
+
+msgid "_Add Name"
+msgstr ""
+
+msgid "_Advanced key options"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Casually"
+msgstr ""
+
+msgid "_Create and Set Up"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Description:"
+msgstr ""
+
+msgid "_Don’t Resize"
+msgstr ""
+
+msgid "_Export"
+msgstr ""
+
+msgid "_Find keys via:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_Just Create Key"
+msgstr ""
+
+msgid "_Key Servers"
+msgstr ""
+
+msgid "_Keyring:"
+msgstr ""
+
+msgid "_Lock"
+msgstr ""
+
+msgid "_Login name:"
+msgstr ""
+
+msgid "_Never expires"
+msgstr ""
+
+msgid "_Not at all"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Only display the signatures of people I trust"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Other Names:"
+msgstr ""
+
+msgid "_Others may not see this signature"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_People who have signed this key:"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Properties"
+msgstr ""
+
+msgid "_Publish keys to:"
+msgstr ""
+
+msgid "_Reason:"
+msgstr ""
+
+msgid "_Resize"
+msgstr ""
+
+msgid "_Revoke Signature"
+msgstr ""
+
+msgid "_Search"
+msgstr ""
+
+msgid "_Search for keys containing: "
+msgstr ""
+
+msgid "_Server address:"
+msgstr ""
+
+msgid "_Set as default"
+msgstr ""
+
+msgid "_Sign"
+msgstr ""
+
+msgid "_Sign message with key:"
+msgstr ""
+
+msgid "_Sign this Key"
+msgstr ""
+
+msgid "_Signer:"
+msgstr ""
+
+msgid "_Subkeys"
+msgstr ""
+
+msgid "_Sync"
+msgstr ""
+
+msgid "_Unlock"
+msgstr ""
+
+msgid "_Very Carefully"
+msgstr ""
+
+msgid "calendar:week_start:0"
+msgstr ""
+
+msgid "eg: fileserver.example.com:port"
+msgstr ""
+
+msgid "initial temporary item"
+msgstr ""
+
+msgid "keyring;encryption;security;sign;ssh;"
+msgstr ""
+
+msgid "openssh://%s"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

@@ -1,0 +1,3327 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: grub 2.04-pre1\n"
+"Report-Msgid-Bugs-To: bug-grub@gnu.org\n"
+"PO-Revision-Date: 2020-04-16 08:45+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:11+0000\n"
+
+msgid "              total memory: %d KiB\n"
+msgstr ""
+
+msgid "  EDID checksum invalid"
+msgstr ""
+
+msgid "  EDID version: %u.%u\n"
+msgstr ""
+
+msgid "  No info available"
+msgstr ""
+
+msgid "  or: "
+msgstr ""
+
+msgid " - Partition start at %llu%sKiB"
+msgstr ""
+
+msgid " - Sector size %uB"
+msgstr ""
+
+msgid " - Total size %llu%sKiB"
+msgstr ""
+
+msgid " - Total size unknown"
+msgstr ""
+
+msgid " [OPTION...]"
+msgstr ""
+
+msgid "%ds"
+msgstr ""
+
+msgid "%ds remaining."
+msgstr ""
+
+msgid ""
+"%s appears to contain a %s filesystem which isn't known to reserve space for"
+" DOS-style boot.  Installing GRUB there could result in FILESYSTEM "
+"DESTRUCTION if valuable data is overwritten by grub-setup (--skip-fs-probe "
+"disables this check, use at your own risk)"
+msgstr ""
+
+msgid ""
+"%s appears to contain a %s partition map which isn't known to reserve space "
+"for DOS-style boot.  Installing GRUB there could result in FILESYSTEM "
+"DESTRUCTION if valuable data is overwritten by grub-setup (--skip-fs-probe "
+"disables this check, use at your own risk)"
+msgstr ""
+
+msgid "%s does not support UUIDs"
+msgstr ""
+
+msgid "%s doesn't exist. Please specify --target or --directory"
+msgstr ""
+
+msgid "%s doesn't look like an EFI partition"
+msgstr ""
+
+msgid "%s is deprecated. Use set gfxpayload=%s before linux command instead.\n"
+msgstr ""
+
+msgid ""
+"%s is deprecated. VGA mode %d isn't recognized. Use set "
+"gfxpayload=WIDTHxHEIGHT[xDEPTH] before linux command instead.\n"
+msgstr ""
+
+msgid "%s is not yet supported by grub-mkconfig.\\n"
+msgstr ""
+
+msgid "%s, with Hurd %s"
+msgstr ""
+
+msgid "%s, with Linux %s"
+msgstr ""
+
+msgid "%s, with Xen %s and Linux %s"
+msgstr ""
+
+msgid "%s, with kFreeBSD %s"
+msgstr ""
+
+msgid "%s, with kernel %s (via %s)"
+msgstr ""
+
+msgid "%s: HASH MISMATCH\n"
+msgstr ""
+
+msgid "%s: Not found.\\n"
+msgstr ""
+
+msgid "%s: OK\n"
+msgstr ""
+
+msgid "%s: READ ERROR\n"
+msgstr ""
+
+msgid "%s: Too many arguments\n"
+msgstr ""
+
+msgid "%s: You must run this as root\\n"
+msgstr ""
+
+msgid "%s: error:"
+msgstr ""
+
+msgid "%s: info:"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: not found"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- `%s'\\n"
+msgstr ""
+
+msgid "%s: warning:"
+msgstr ""
+
+msgid "(32-bit)"
+msgstr ""
+
+msgid "(64-bit)"
+msgstr ""
+
+msgid "(PROGRAM ERROR) No version known!?"
+msgstr ""
+
+msgid "(PROGRAM ERROR) Option should have been recognized!?"
+msgstr ""
+
+msgid "(on %s)"
+msgstr ""
+
+msgid "- Label `%s'"
+msgstr ""
+
+msgid "- Last modification time %d-%02d-%02d %02d:%02d:%02d %s"
+msgstr ""
+
+msgid "--MORE--"
+msgstr ""
+
+msgid "-h HASH [-c FILE [-p PREFIX]] [FILE1 [FILE2 ...]]"
+msgstr ""
+
+msgid "-l | -r | [-s] grubdev osdisk."
+msgstr ""
+
+msgid ".5"
+msgstr ""
+
+msgid "16-bit protected interface supported\n"
+msgstr ""
+
+msgid "16-bit protected interface unsupported\n"
+msgstr ""
+
+msgid "32-bit protected interface supported\n"
+msgstr ""
+
+msgid "32-bit protected interface unsupported\n"
+msgstr ""
+
+msgid ">"
+msgstr ""
+
+msgid "ACPI shutdown failed"
+msgstr ""
+
+msgid "ADDR"
+msgstr ""
+
+msgid "ADDR VALUE"
+msgstr ""
+
+msgid "ADDR VALUE [MASK]"
+msgstr ""
+
+msgid "ADDR [SIZE]"
+msgstr ""
+
+msgid "ADDR1,MASK1[,ADDR2,MASK2[,...]]"
+msgstr ""
+
+msgid "ADDRESS DNSSERVER"
+msgstr ""
+
+msgid "APM disabled\n"
+msgstr ""
+
+msgid "APM enabled\n"
+msgstr ""
+
+msgid "ARGP_HELP_FMT: %s value is less than or equal to %s"
+msgstr ""
+
+msgid "ASCII"
+msgstr ""
+
+msgid "Accept DOS-style CR/NL line endings."
+msgstr ""
+
+msgid "Active input terminals:"
+msgstr ""
+
+msgid "Active output terminals:"
+msgstr ""
+
+msgid "Adapter `%s':\n"
+msgstr ""
+
+msgid "Add PUBKEY_FILE to trusted keys."
+msgstr ""
+
+msgid "Add a DNS server"
+msgstr ""
+
+msgid "Add a network address."
+msgstr ""
+
+msgid "Add a network route."
+msgstr ""
+
+msgid "Advanced options for %s"
+msgstr ""
+
+msgid "Advanced options for %s (with Xen hypervisor)"
+msgstr ""
+
+msgid "Allow to interrupt with ESC."
+msgstr ""
+
+msgid "Ask for file name to reboot from."
+msgstr ""
+
+msgid "Assume input is hex."
+msgstr ""
+
+msgid "Assume input is passphrase."
+msgstr ""
+
+msgid "Assume input is raw."
+msgstr ""
+
+msgid "Attempting to decrypt master key..."
+msgstr ""
+
+msgid ""
+"Attempting to install GRUB to a disk with multiple partition labels or both "
+"partition label and filesystem.  This is not supported yet."
+msgstr ""
+
+msgid ""
+"Attempting to install GRUB to a disk with multiple partition labels.  This "
+"is not supported yet."
+msgstr ""
+
+msgid ""
+"Attempting to install GRUB to a partitionless disk or to a partition.  This "
+"is a BAD idea."
+msgstr ""
+
+msgid "Available input terminals:"
+msgstr ""
+
+msgid "Available output terminals:"
+msgstr ""
+
+msgid "B"
+msgstr ""
+
+msgid "B/s"
+msgstr ""
+
+msgid "BIOS_DUMP [INT10_DUMP]"
+msgstr ""
+
+msgid "BLOCK"
+msgstr ""
+
+msgid "BYTE:BIT"
+msgstr ""
+
+msgid "Background image mode."
+msgstr ""
+
+msgid "Base directory for hash list."
+msgstr ""
+
+msgid "Boot BIOS-based system."
+msgstr ""
+
+msgid "Boot an operating system."
+msgstr ""
+
+msgid "Boot into single mode."
+msgstr ""
+
+msgid "Boot with debug messages."
+msgstr ""
+
+msgid "Boot with verbose messages."
+msgstr ""
+
+msgid "Booting `%s'"
+msgstr ""
+
+msgid "Booting a command list"
+msgstr ""
+
+msgid "COMMAND [ARGS]"
+msgstr ""
+
+msgid "CPU Idle doesn't slow down processor\n"
+msgstr ""
+
+msgid "CPU Idle slows down processor\n"
+msgstr ""
+
+msgid "CS5536 at %d:%d.%d\n"
+msgstr ""
+
+msgid "Can't create file: %s"
+msgstr ""
+
+msgid "Can't enable ROM area."
+msgstr ""
+
+msgid "Change configured devices."
+msgstr ""
+
+msgid "Change partition type"
+msgstr ""
+
+msgid "Check Alt key."
+msgstr ""
+
+msgid "Check Control key."
+msgstr ""
+
+msgid "Check Shift key."
+msgstr ""
+
+msgid "Check for CPU features."
+msgstr ""
+
+msgid "Check hashes of files with hash list FILE."
+msgstr ""
+
+msgid "Check if CPU supports 64-bit (long) mode (default)."
+msgstr ""
+
+msgid "Check if CPU supports Physical Address Extension."
+msgstr ""
+
+msgid "Check if FILE can be booted as i386 PAE Xen unprivileged guest kernel"
+msgstr ""
+
+msgid "Check if FILE can be booted as x86_64 Xen unprivileged guest kernel"
+msgstr ""
+
+msgid "Check if FILE can be used as Xen x86 privileged guest kernel"
+msgstr ""
+
+msgid "Check if FILE can be used as x86 multiboot kernel"
+msgstr ""
+
+msgid "Check if FILE can be used as x86 multiboot2 kernel"
+msgstr ""
+
+msgid "Check if FILE is ARM EFI file"
+msgstr ""
+
+msgid "Check if FILE is ARM Linux"
+msgstr ""
+
+msgid "Check if FILE is ARM64 EFI file"
+msgstr ""
+
+msgid "Check if FILE is ARM64 Linux"
+msgstr ""
+
+msgid "Check if FILE is BIOS bootsector"
+msgstr ""
+
+msgid "Check if FILE is IA64 EFI file"
+msgstr ""
+
+msgid "Check if FILE is IA64 Linux"
+msgstr ""
+
+msgid "Check if FILE is MIPS Linux"
+msgstr ""
+
+msgid "Check if FILE is MIPSEL Linux"
+msgstr ""
+
+msgid "Check if FILE is POWERPC Linux"
+msgstr ""
+
+msgid "Check if FILE is RISC-V 32bit EFI file"
+msgstr ""
+
+msgid "Check if FILE is RISC-V 64bit EFI file"
+msgstr ""
+
+msgid "Check if FILE is SPARC64 Linux"
+msgstr ""
+
+msgid "Check if FILE is XNU (Mac OS X kernel) hibernated image"
+msgstr ""
+
+msgid "Check if FILE is hiberfil.sys in hibernated state"
+msgstr ""
+
+msgid "Check if FILE is i386 EFI file"
+msgstr ""
+
+msgid "Check if FILE is i386 XNU (Mac OS X kernel)"
+msgstr ""
+
+msgid "Check if FILE is i386 kFreeBSD"
+msgstr ""
+
+msgid "Check if FILE is i386 kNetBSD"
+msgstr ""
+
+msgid "Check if FILE is of specified type."
+msgstr ""
+
+msgid "Check if FILE is x86 Linux"
+msgstr ""
+
+msgid "Check if FILE is x86 Linux supporting 32-bit protocol"
+msgstr ""
+
+msgid "Check if FILE is x86 kFreeBSD"
+msgstr ""
+
+msgid "Check if FILE is x86 kNetBSD"
+msgstr ""
+
+msgid "Check if FILE is x86_64 EFI file"
+msgstr ""
+
+msgid "Check if FILE is x86_64 XNU (Mac OS X kernel)"
+msgstr ""
+
+msgid "Check if FILE is x86_64 kFreeBSD"
+msgstr ""
+
+msgid "Check if FILE is x86_64 kNetBSD"
+msgstr ""
+
+msgid "Check key modifier status."
+msgstr ""
+
+msgid "Checks GRUB script configuration file for syntax errors."
+msgstr ""
+
+msgid "Clear bit at BYTE:BIT in CMOS."
+msgstr ""
+
+msgid "Clear the screen."
+msgstr ""
+
+msgid "Command failed"
+msgstr ""
+
+msgid "Commands:"
+msgstr ""
+
+msgid "Compare FILE with local file LOCAL."
+msgstr ""
+
+msgid "Compare file `%s' with `%s':\n"
+msgstr ""
+
+msgid "Compare two files."
+msgstr ""
+
+msgid "Compute or check hash checksum."
+msgstr ""
+
+msgid "Configure serial port."
+msgstr ""
+
+msgid "Continue loops"
+msgstr ""
+
+msgid "Convert common font file formats into PF2"
+msgstr ""
+
+msgid "Copy FILE to local file LOCAL."
+msgstr ""
+
+msgid "Copy FILE to standard output."
+msgstr ""
+
+msgid "Could not locate FPSWA driver"
+msgstr ""
+
+msgid ""
+"Couldn't find physical volume `%s'. Some modules may be missing from core "
+"image."
+msgstr ""
+
+msgid "Couldn't load sha256"
+msgstr ""
+
+msgid "Couldn't load sha512"
+msgstr ""
+
+msgid ""
+"Create BIOS-like structures for backward compatibility with existing OS."
+msgstr ""
+
+msgid "Create a blank environment block file."
+msgstr ""
+
+msgid "Current terminfo types:"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid "DEVICE [PARTITION[+/-[TYPE]]] ..."
+msgstr ""
+
+msgid "DEVICE must be an OS device (e.g. /dev/sda)."
+msgstr ""
+
+msgid "DEVICE_NAME"
+msgstr ""
+
+msgid "DIR"
+msgstr ""
+
+msgid "DIRECTORY [OSBundleRequired]"
+msgstr ""
+
+msgid "DNSSERVER"
+msgstr ""
+
+msgid "Debug tool for filesystem driver."
+msgstr ""
+
+msgid "Decompressor is too big"
+msgstr ""
+
+msgid "Default server is ${net_default_server}"
+msgstr ""
+
+msgid "Define a menu entry."
+msgstr ""
+
+msgid "Define a submenu."
+msgstr ""
+
+msgid "Delete a network address."
+msgstr ""
+
+msgid "Delete a network route."
+msgstr ""
+
+msgid "Delete variables."
+msgstr ""
+
+msgid "Determine driver."
+msgstr ""
+
+msgid "Determine filesystem UUID."
+msgstr ""
+
+msgid "Determine filesystem label."
+msgstr ""
+
+msgid "Determine filesystem type."
+msgstr ""
+
+msgid "Determine partition map type."
+msgstr ""
+
+msgid "Device %s:"
+msgstr ""
+
+msgid "Devid: %s\n"
+msgstr ""
+
+msgid "Devid: unavailable"
+msgstr ""
+
+msgid "Disable ACPI."
+msgstr ""
+
+msgid "Disable SMP."
+msgstr ""
+
+msgid "Disable all boot output."
+msgstr ""
+
+msgid "Disable/enable SMART (0/1)."
+msgstr ""
+
+msgid "Discarding improperly nested partition (%s,%s,%s%d)"
+msgstr ""
+
+msgid "Disk cache statistics: hits = %lu (%lu.%02lu%%), misses = %lu\n"
+msgstr ""
+
+msgid "Display FPSWA version."
+msgstr ""
+
+msgid "Display SMART health status."
+msgstr ""
+
+msgid "Display a line of text."
+msgstr ""
+
+msgid "Display blocklist of FILE."
+msgstr ""
+
+msgid "Display output on all consoles."
+msgstr ""
+
+msgid "Display power mode."
+msgstr ""
+
+msgid "Display the usage of this command and exit."
+msgstr ""
+
+msgid "Display this help and exit."
+msgstr ""
+
+msgid "Display/set current datetime."
+msgstr ""
+
+msgid "Do not output the trailing newline."
+msgstr ""
+
+msgid "Do not print messages."
+msgstr ""
+
+msgid "Do not probe any floppy drive."
+msgstr ""
+
+msgid "Do not use APM to halt the computer."
+msgstr ""
+
+msgid "Do nothing, successfully."
+msgstr ""
+
+msgid "Do nothing, unsuccessfully."
+msgstr ""
+
+msgid "Don't display boot diagnostic messages."
+msgstr ""
+
+msgid "Don't load host tables specified by comma-separated list."
+msgstr ""
+
+msgid "Don't reboot, just halt."
+msgstr ""
+
+msgid "Don't stop after first error."
+msgstr ""
+
+msgid ""
+"Don't update EBDA. May fix failures or hangs on some BIOSes but makes it "
+"ineffective with OS not receiving RSDP from GRUB."
+msgstr ""
+
+msgid "ENVVAR"
+msgstr ""
+
+msgid "ENVVAR [ENVVAR] ..."
+msgstr ""
+
+msgid "ERROR: no valid keyboard layout found. Check the input.\n"
+msgstr ""
+
+msgid "ESC at any time exits."
+msgstr ""
+
+msgid "EXPRESSION"
+msgstr ""
+
+msgid "EXPRESSION ]"
+msgstr ""
+
+msgid "Elapsed time: %d.%03d s \n"
+msgstr ""
+
+msgid "Elapsed time: %d.%03d seconds \n"
+msgstr ""
+
+msgid ""
+"Embedding is not possible.  GRUB can only be installed in this setup by "
+"using blocklists.  However, blocklists are UNRELIABLE and their use is "
+"discouraged."
+msgstr ""
+
+msgid "Emulate a keystroke sequence"
+msgstr ""
+
+msgid "Enable interpretation of backslash escapes."
+msgstr ""
+
+msgid "Enable/disable RTS/CTS."
+msgstr ""
+
+msgid "Enter ZFS password: "
+msgstr ""
+
+msgid "Enter in KDB on boot."
+msgstr ""
+
+msgid "Enter normal mode."
+msgstr ""
+
+msgid "Enter passphrase for %s%s%s (%s): "
+msgstr ""
+
+msgid "Enter password: "
+msgstr ""
+
+msgid "Enter username: "
+msgstr ""
+
+msgid "Error in parsing command line arguments\n"
+msgstr ""
+
+msgid "Evaluate an expression."
+msgstr ""
+
+msgid "Evaluate arguments as GRUB commands"
+msgstr ""
+
+msgid "Execute syslinux config in new context"
+msgstr ""
+
+msgid "Execute syslinux config in same context"
+msgstr ""
+
+msgid "Exit failed"
+msgstr ""
+
+msgid "Exit from GRUB."
+msgstr ""
+
+msgid "Exit from loops"
+msgstr ""
+
+msgid "Exit from normal mode."
+msgstr ""
+
+msgid "Export variables."
+msgstr ""
+
+msgid "Export version 1 tables to the OS."
+msgstr ""
+
+msgid "Export version 2 and version 3 tables to the OS."
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "FILE [ARG ...]"
+msgstr ""
+
+msgid "FILE [ARGS...]"
+msgstr ""
+
+msgid "FILE | TEMPO [PITCH1 DURATION1] [PITCH2 DURATION2] ... "
+msgstr ""
+
+msgid "FILE..."
+msgstr ""
+
+msgid "FILE1 FILE2"
+msgstr ""
+
+msgid "FILENAME COMMAND"
+msgstr ""
+
+msgid "FILESYSTEM [VARIABLE]"
+msgstr ""
+
+msgid "FPSWA protocol wasn't able to find the interface"
+msgstr ""
+
+msgid "FPSWA revision: %x\n"
+msgstr ""
+
+msgid "FROM[K|M|G] TO[K|M|G]"
+msgstr ""
+
+msgid "FT_Init_FreeType fails"
+msgstr ""
+
+msgid "Failed to boot both default and fallback entries.\n"
+msgstr ""
+
+msgid "Failed to create `device-mapper' tree"
+msgstr ""
+
+msgid "Falling back to `%s'"
+msgstr ""
+
+msgid "File size: %s\n"
+msgstr ""
+
+msgid "File system `%s' doesn't support embedding"
+msgstr ""
+
+msgid "Files differ at the offset %llu: 0x%x [%s], 0x%x [%s]\n"
+msgstr ""
+
+msgid "Files differ in size: %llu [%s], %llu [%s]\n"
+msgstr ""
+
+msgid "Filesystem cannot be accessed"
+msgstr ""
+
+msgid "Filesystem type %s"
+msgstr ""
+
+msgid ""
+"Fill hybrid MBR of GPT drive DEVICE. Specified partitions will be a part of "
+"hybrid MBR. Up to 3 partitions are allowed. TYPE is an MBR type. + means "
+"that partition is active. Only one partition can be active."
+msgstr ""
+
+msgid "Finalize loading of EFI emulator."
+msgstr ""
+
+msgid ""
+"First try the device HINT. If HINT ends in comma, also try subpartitions"
+msgstr ""
+
+msgid "Fix video problem."
+msgstr ""
+
+msgid "Found %s on %s (%s)\\n"
+msgstr ""
+
+msgid "Found %s on %s\\n"
+msgstr ""
+
+msgid "Found GNU Mach: %s"
+msgstr ""
+
+msgid "Found Hurd module: %s"
+msgstr ""
+
+msgid "Found NetBSD kernel: %s\\n"
+msgstr ""
+
+msgid "Found background: %s\\n"
+msgstr ""
+
+msgid "Found initrd image: %s\\n"
+msgstr ""
+
+msgid "Found kernel module directory: %s\\n"
+msgstr ""
+
+msgid "Found kernel of FreeBSD: %s\\n"
+msgstr ""
+
+msgid "Found linux image: %s\\n"
+msgstr ""
+
+msgid "Found theme: %s\\n"
+msgstr ""
+
+msgid "Freeze ATA security settings until reset."
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "G"
+msgstr ""
+
+msgid "GNU GRUB  version %s"
+msgstr ""
+
+msgid "GRUB Boot Menu"
+msgstr ""
+
+msgid "GRUB doesn't know how to halt this machine yet!"
+msgstr ""
+
+msgid "GRUB emulator."
+msgstr ""
+
+msgid "Generate PBKDF2 password hash."
+msgstr ""
+
+msgid "Generate a grub config file"
+msgstr ""
+
+msgid ""
+"Generate a standalone image (containing all modules) in the selected format"
+msgstr ""
+
+msgid "Generating grub configuration file ..."
+msgstr ""
+
+msgid "Get crc32 checksum of FILE."
+msgstr ""
+
+msgid "Get disk cache info."
+msgstr ""
+
+msgid "Get/set ATA disk parameters."
+msgstr ""
+
+msgid "GiB"
+msgstr ""
+
+msgid "GiB/s"
+msgstr ""
+
+msgid "HASH"
+msgstr ""
+
+msgid "HINT"
+msgstr ""
+
+msgid "Halt the system, if possible using APM."
+msgstr ""
+
+msgid ""
+"Halts the computer.  This command does not work on all firmware "
+"implementations."
+msgstr ""
+
+msgid "Handle N bytes in output file."
+msgstr ""
+
+msgid "Hexdump random data."
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "IMAGE1 [IMAGE2 ...] MOUNTPOINT"
+msgstr ""
+
+msgid "IMAGE_PATH COMMANDS"
+msgstr ""
+
+msgid "Incorrect VDEV"
+msgstr ""
+
+msgid "Insert a module."
+msgstr ""
+
+msgid "Install GRUB on your drive."
+msgstr ""
+
+msgid "Installation finished. No error reported."
+msgstr ""
+
+msgid "Installing for %s platform.\n"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid command %s.\n"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid device `%s'.\n"
+msgstr ""
+
+msgid "Invalid disk count.\n"
+msgstr ""
+
+msgid "Invalid parameter"
+msgstr ""
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr ""
+
+msgid "Invalid tempo in %s"
+msgstr ""
+
+msgid "Invoke user configuration routing."
+msgstr ""
+
+msgid "K"
+msgstr ""
+
+msgid "KERNEL ARGS"
+msgstr ""
+
+msgid "KiB"
+msgstr ""
+
+msgid "KiB/s"
+msgstr ""
+
+msgid "Leaf virtual device (file or disk)"
+msgstr ""
+
+msgid "Legacy `ask' parameter no longer supported."
+msgstr ""
+
+msgid "Length of generated hash"
+msgstr ""
+
+msgid "Length of salt"
+msgstr ""
+
+msgid "List DNS servers"
+msgstr ""
+
+msgid "List PCI devices."
+msgstr ""
+
+msgid "List Xen storage."
+msgstr ""
+
+msgid "List all files."
+msgstr ""
+
+msgid ""
+"List available video modes. If resolution is given show only modes matching "
+"it."
+msgstr ""
+
+msgid "List coreboot tables."
+msgstr ""
+
+msgid "List devices and files."
+msgstr ""
+
+msgid "List devices or files."
+msgstr ""
+
+msgid "List devices."
+msgstr ""
+
+msgid "List files in PATH."
+msgstr ""
+
+msgid "List memory map provided by firmware."
+msgstr ""
+
+msgid "List of supported video modes:"
+msgstr ""
+
+msgid "List of users allowed to boot this entry."
+msgstr ""
+
+msgid "List or select an input terminal."
+msgstr ""
+
+msgid "List or select an output terminal."
+msgstr ""
+
+msgid "List the current variables."
+msgstr ""
+
+msgid "List the loaded fonts."
+msgstr ""
+
+msgid "List variables from environment block file."
+msgstr ""
+
+msgid "Load 64-bit XNU image."
+msgstr ""
+
+msgid "Load BIOS dump."
+msgstr ""
+
+msgid "Load DTB file."
+msgstr ""
+
+msgid "Load FreeBSD env."
+msgstr ""
+
+msgid "Load FreeBSD kernel module (ELF)."
+msgstr ""
+
+msgid "Load FreeBSD kernel module."
+msgstr ""
+
+msgid "Load FreeDOS kernel.sys."
+msgstr ""
+
+msgid "Load Linux."
+msgstr ""
+
+msgid "Load NTLDR or BootMGR."
+msgstr ""
+
+msgid "Load NetBSD kernel module (ELF)."
+msgstr ""
+
+msgid "Load NetBSD kernel module."
+msgstr ""
+
+msgid "Load Plan9 kernel."
+msgstr ""
+
+msgid "Load Truecrypt ISO."
+msgstr ""
+
+msgid "Load XNU extension directory."
+msgstr ""
+
+msgid "Load XNU extension package."
+msgstr ""
+
+msgid "Load XNU extension."
+msgstr ""
+
+msgid "Load XNU image."
+msgstr ""
+
+msgid "Load XNU ramdisk. It will be available in OS as md0."
+msgstr ""
+
+msgid "Load a PXE image."
+msgstr ""
+
+msgid "Load a keyboard layout."
+msgstr ""
+
+msgid "Load a multiboot 2 kernel."
+msgstr ""
+
+msgid "Load a multiboot 2 module."
+msgstr ""
+
+msgid "Load a multiboot kernel."
+msgstr ""
+
+msgid "Load a multiboot module."
+msgstr ""
+
+msgid "Load a splash image for XNU."
+msgstr ""
+
+msgid "Load a xen module."
+msgstr ""
+
+msgid "Load and initialize EFI emulator."
+msgstr ""
+
+msgid "Load another boot loader."
+msgstr ""
+
+msgid "Load another config file but take only menu entries."
+msgstr ""
+
+msgid ""
+"Load another config file without changing context but take only menu "
+"entries."
+msgstr ""
+
+msgid "Load another config file without changing context."
+msgstr ""
+
+msgid "Load another config file."
+msgstr ""
+
+msgid "Load background image for active terminal."
+msgstr ""
+
+msgid "Load host ACPI tables and tables specified by arguments."
+msgstr ""
+
+msgid "Load initrd."
+msgstr ""
+
+msgid "Load kOpenBSD ramdisk."
+msgstr ""
+
+msgid "Load kernel of FreeBSD."
+msgstr ""
+
+msgid "Load kernel of NetBSD."
+msgstr ""
+
+msgid "Load kernel of OpenBSD."
+msgstr ""
+
+msgid "Load module."
+msgstr ""
+
+msgid "Load only tables specified by comma-separated list."
+msgstr ""
+
+msgid "Load the same file in multiple ways."
+msgstr ""
+
+msgid "Load variables from environment block file."
+msgstr ""
+
+msgid "Load zfs crypto key."
+msgstr ""
+
+msgid "Loaded fonts:"
+msgstr ""
+
+msgid "Loading GNU Mach ..."
+msgstr ""
+
+msgid "Loading Linux %s ..."
+msgstr ""
+
+msgid "Loading Xen %s ..."
+msgstr ""
+
+msgid "Loading initial ramdisk ..."
+msgstr ""
+
+msgid "Loading kernel of FreeBSD %s ..."
+msgstr ""
+
+msgid "Loading kernel of Illumos ..."
+msgstr ""
+
+msgid "Loading the Hurd ..."
+msgstr ""
+
+msgid "M"
+msgstr ""
+
+msgid "MAC verification failed"
+msgstr ""
+
+msgid "MODULE"
+msgstr ""
+
+msgid "MODULES"
+msgstr ""
+
+msgid "Mail xorriso support requests to <bug-xorriso@gnu.org>."
+msgstr ""
+
+msgid "Make partition active"
+msgstr ""
+
+msgid "Manage the BIOS drive mappings."
+msgstr ""
+
+msgid ""
+"Mandatory or optional arguments to long options are also mandatory or "
+"optional for any corresponding short options."
+msgstr ""
+
+msgid "Manipulate PCI devices."
+msgstr ""
+
+msgid "Measure time used by COMMAND"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr ""
+
+msgid "Memory type: DDR2."
+msgstr ""
+
+msgid "Memory type: Unknown."
+msgstr ""
+
+msgid "Menu entry not specified."
+msgstr ""
+
+msgid "Menu entry type."
+msgstr ""
+
+msgid "MiB"
+msgstr ""
+
+msgid "MiB/s"
+msgstr ""
+
+msgid ""
+"Minimal BASH-like line editing is supported. For the first word, TAB lists "
+"possible command completions. Anywhere else TAB lists possible device or "
+"file completions. %s"
+msgstr ""
+
+msgid ""
+"Minimum Emacs-like screen editing is supported. TAB lists completions. Press"
+" Ctrl-x or F10 to boot, Ctrl-c or F2 for a command-line or ESC to discard "
+"edits and return to the GRUB menu."
+msgstr ""
+
+msgid "Missing arguments\n"
+msgstr ""
+
+msgid "Missing input file\n"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "More than one install device?"
+msgstr ""
+
+msgid "More than one menu entry?"
+msgstr ""
+
+msgid "Mount a crypto device."
+msgstr ""
+
+msgid "Mount all volumes with `boot' flag set."
+msgstr ""
+
+msgid "Mount all."
+msgstr ""
+
+msgid "Mount by UUID."
+msgstr ""
+
+msgid "Mount crypto devices."
+msgstr ""
+
+msgid "NAME [VARIABLE] [HINTS]"
+msgstr ""
+
+msgid "NUMBER_OF_SECONDS"
+msgstr ""
+
+msgid "Name\tRef Count\tDependencies\n"
+msgstr ""
+
+msgid "Network protocols:"
+msgstr ""
+
+msgid "New MBR is written to `%s'\n"
+msgstr ""
+
+msgid "No CS5536 found"
+msgstr ""
+
+msgid "No FPSWA found"
+msgstr ""
+
+msgid "No boot time statistics is available\n"
+msgstr ""
+
+msgid "No command is specified.\n"
+msgstr ""
+
+msgid "No device is specified.\n"
+msgstr ""
+
+msgid "No disk cache statistics available\n"
+msgstr ""
+
+msgid "No drives have been remapped"
+msgstr ""
+
+msgid "No known filesystem detected"
+msgstr ""
+
+msgid "No match"
+msgstr ""
+
+msgid "No path is specified.\n"
+msgstr ""
+
+msgid "No path or device is specified.\n"
+msgstr ""
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "No virtual device tree available"
+msgstr ""
+
+msgid "Not enough parameters to command.\n"
+msgstr ""
+
+msgid "Now connect the remote debugger, please."
+msgstr ""
+
+msgid "Number of PBKDF2 iterations"
+msgstr ""
+
+msgid "OPTIONS FILE"
+msgstr ""
+
+msgid "OS disk #num ------> GRUB/BIOS device"
+msgstr ""
+
+msgid "OS file %s open error: %s"
+msgstr ""
+
+msgid "Option -- switches to native xorriso command mode."
+msgstr ""
+
+msgid "Options:"
+msgstr ""
+
+msgid "Output buffer too small"
+msgstr ""
+
+msgid "P"
+msgstr ""
+
+msgid "PARTITION COMMANDS"
+msgstr ""
+
+msgid "PBKDF2 hash of your password is %s\n"
+msgstr ""
+
+msgid "PORT"
+msgstr ""
+
+msgid "PORT VALUE [MASK]"
+msgstr ""
+
+msgid "PUBKEY_ID"
+msgstr ""
+
+msgid "Parse legacy config in new context"
+msgstr ""
+
+msgid "Parse legacy config in new context taking only menu entries"
+msgstr ""
+
+msgid "Parse legacy config in same context"
+msgstr ""
+
+msgid "Parse legacy config in same context taking only menu entries"
+msgstr ""
+
+msgid "Partition %d is active now. \n"
+msgstr ""
+
+msgid "Partition %s:"
+msgstr ""
+
+msgid "Partition style `%s' doesn't support embedding"
+msgstr ""
+
+msgid "Perform a DNS lookup"
+msgstr ""
+
+msgid "Perform an IPV6 autoconfiguration"
+msgstr ""
+
+msgid "Perform both direct and reverse mappings."
+msgstr ""
+
+msgid "PiB"
+msgstr ""
+
+msgid "PiB/s"
+msgstr ""
+
+msgid "Play a tune."
+msgstr ""
+
+msgid "Possible arguments are:"
+msgstr ""
+
+msgid "Possible commands are:"
+msgstr ""
+
+msgid "Possible devices are:"
+msgstr ""
+
+msgid "Possible files are:"
+msgstr ""
+
+msgid "Possible partitions are:"
+msgstr ""
+
+msgid "Possible things are:"
+msgstr ""
+
+msgid "Prefix not specified (use the -p option)."
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Press any key to continue..."
+msgstr ""
+
+msgid "Press any key to launch xnu"
+msgstr ""
+
+msgid ""
+"Press enter to boot the selected OS, `e' to edit the commands before booting"
+" or `c' for a command-line."
+msgstr ""
+
+msgid ""
+"Press enter to boot the selected OS, `e' to edit the commands before booting"
+" or `c' for a command-line. ESC to return previous menu."
+msgstr ""
+
+msgid "Print Memory information."
+msgstr ""
+
+msgid "Print a block list."
+msgstr ""
+
+msgid "Print and execute block argument."
+msgstr ""
+
+msgid "Print backtrace."
+msgstr ""
+
+msgid "Print drive identity and settings."
+msgstr ""
+
+msgid "Print sizes in a human readable format."
+msgstr ""
+
+msgid "RAM holding coreboot tables"
+msgstr ""
+
+msgid "RAM holding firmware code"
+msgstr ""
+
+msgid "REGEXP STRING"
+msgstr ""
+
+msgid "ROM image is present."
+msgstr ""
+
+msgid "Read 16-bit value from ADDR."
+msgstr ""
+
+msgid "Read 16-bit value from PORT."
+msgstr ""
+
+msgid "Read 32-bit value from ADDR."
+msgstr ""
+
+msgid "Read 32-bit value from PORT."
+msgstr ""
+
+msgid "Read 8-bit value from ADDR."
+msgstr ""
+
+msgid "Read 8-bit value from PORT."
+msgstr ""
+
+msgid "Read a CPU model specific register."
+msgstr ""
+
+msgid "Read only LENGTH bytes."
+msgstr ""
+
+msgid "Reboot failed"
+msgstr ""
+
+msgid "Reboot into firmware setup menu."
+msgstr ""
+
+msgid "Reboot the computer."
+msgstr ""
+
+msgid "Reenter password: "
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Remove PUBKEY_ID from trusted keys."
+msgstr ""
+
+msgid "Remove a DNS server"
+msgstr ""
+
+msgid "Remove a module."
+msgstr ""
+
+msgid "Remove an environment variable."
+msgstr ""
+
+msgid "Remove any memory regions in specified range."
+msgstr ""
+
+msgid "Report bugs to %s.\n"
+msgstr ""
+
+msgid "Report bugs to <bug-grub@gnu.org>."
+msgstr ""
+
+msgid "Reset all mappings to the default values."
+msgstr ""
+
+msgid "Retrieve device info."
+msgstr ""
+
+msgid "Return from a function."
+msgstr ""
+
+msgid "Return to IEEE1275 prompt."
+msgstr ""
+
+msgid "Run `go' to resume GRUB."
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "STRING ..."
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save read value into variable VARNAME."
+msgstr ""
+
+msgid "Save variables to environment block file."
+msgstr ""
+
+msgid "Say `Hello World'."
+msgstr ""
+
+msgid "Script `%s' contains no commands and will do nothing\n"
+msgstr ""
+
+msgid ""
+"Search devices by UUID. If VARIABLE is specified, the first device found is "
+"set to a variable."
+msgstr ""
+
+msgid "Search devices by a file."
+msgstr ""
+
+msgid "Search devices by a filesystem UUID."
+msgstr ""
+
+msgid "Search devices by a filesystem label."
+msgstr ""
+
+msgid ""
+"Search devices by file. If VARIABLE is specified, the first device found is "
+"set to a variable."
+msgstr ""
+
+msgid ""
+"Search devices by label. If VARIABLE is specified, the first device found is"
+" set to a variable."
+msgstr ""
+
+msgid "Select device by its position on the bus."
+msgstr ""
+
+msgid "Select device by vendor and device IDs."
+msgstr ""
+
+msgid ""
+"Set Advanced Power Management\n"
+"(1=low, ..., 254=high, 255=off)."
+msgstr ""
+
+msgid ""
+"Set Automatic Acoustic Management\n"
+"(0=off, 128=quiet, ..., 254=fast)."
+msgstr ""
+
+msgid "Set OEMID of RSDP, XSDT and RSDT."
+msgstr ""
+
+msgid "Set OEMTABLE ID of RSDP, XSDT and RSDT."
+msgstr ""
+
+msgid "Set OEMTABLE revision of RSDP, XSDT and RSDT."
+msgstr ""
+
+msgid "Set a variable to return value."
+msgstr ""
+
+msgid "Set a variable to the first device found."
+msgstr ""
+
+msgid "Set an environment variable."
+msgstr ""
+
+msgid "Set background color for active terminal."
+msgstr ""
+
+msgid "Set bit at BYTE:BIT in CMOS."
+msgstr ""
+
+msgid "Set creator field of RSDP, XSDT and RSDT."
+msgstr ""
+
+msgid "Set creator revision of RSDP, XSDT and RSDT."
+msgstr ""
+
+msgid "Set debug environment variable."
+msgstr ""
+
+msgid "Set drive to sleep mode."
+msgstr ""
+
+msgid "Set drive to standby mode."
+msgstr ""
+
+msgid "Set positional parameters."
+msgstr ""
+
+msgid "Set root device."
+msgstr ""
+
+msgid ""
+"Set standby timeout\n"
+"(0=off, 1=5s, 2=10s, ..., 240=20m, 241=30m, ...)."
+msgstr ""
+
+msgid "Set terminfo type of TERM  to TYPE.\n"
+msgstr ""
+
+msgid "Set the base frequency."
+msgstr ""
+
+msgid "Set the default boot menu entry for GRUB, for the next boot only."
+msgstr ""
+
+msgid "Set the default boot menu entry for GRUB."
+msgstr ""
+
+msgid "Set the serial port address."
+msgstr ""
+
+msgid "Set the serial port parity."
+msgstr ""
+
+msgid "Set the serial port speed."
+msgstr ""
+
+msgid "Set the serial port stop bits."
+msgstr ""
+
+msgid "Set the serial port word length."
+msgstr ""
+
+msgid "Set the serial unit."
+msgstr ""
+
+msgid ""
+"Set up images to boot from DEVICE.\n"
+"\n"
+"You should not normally run this program directly.  Use grub-install instead."
+msgstr ""
+
+msgid "Set user password (PBKDF2). "
+msgstr ""
+
+msgid "Set user password (plaintext). Unrecommended and insecure."
+msgstr ""
+
+msgid "Set variable with user input."
+msgstr ""
+
+msgid "Set variables."
+msgstr ""
+
+msgid "Setting partition type to 0x%x\n"
+msgstr ""
+
+msgid "Show ACPI information."
+msgstr ""
+
+msgid "Show APM information."
+msgstr ""
+
+msgid "Show CBMEM console content."
+msgstr ""
+
+msgid "Show a help message."
+msgstr ""
+
+msgid "Show a long list with more detailed information."
+msgstr ""
+
+msgid "Show boot time statistics."
+msgstr ""
+
+msgid "Show contents of FILE in hex."
+msgstr ""
+
+msgid "Show coreboot boot time statistics."
+msgstr ""
+
+msgid "Show loaded modules."
+msgstr ""
+
+msgid "Show memory contents."
+msgstr ""
+
+msgid "Show raw contents of ATA IDENTIFY sector."
+msgstr ""
+
+msgid "Show raw contents of a file or memory."
+msgstr ""
+
+msgid "Show raw dump of the CMOS contents."
+msgstr ""
+
+msgid "Show raw dump of the PCI configuration space."
+msgstr ""
+
+msgid "Show the contents of a file."
+msgstr ""
+
+msgid "Show the current mappings."
+msgstr ""
+
+msgid "Show the list of trusted keys."
+msgstr ""
+
+msgid "Show this message."
+msgstr ""
+
+msgid "Show version 1 tables only."
+msgstr ""
+
+msgid "Show version 2 and version 3 tables only."
+msgstr ""
+
+msgid "Shutdown failed"
+msgstr ""
+
+msgid "Simulate grub-legacy `initrd' command"
+msgstr ""
+
+msgid "Simulate grub-legacy `kernel' command"
+msgstr ""
+
+msgid "Simulate grub-legacy `modulenounzip' command"
+msgstr ""
+
+msgid "Simulate grub-legacy `password' command"
+msgstr ""
+
+msgid "Simulate grub-legacy `password' command in menu entry mode"
+msgstr ""
+
+msgid "Skip N bytes from output file."
+msgstr ""
+
+msgid "Skip offset bytes from the beginning of file."
+msgstr ""
+
+msgid "Skip signature-checking of the environment file."
+msgstr ""
+
+msgid "Skip signature-checking of the public key file."
+msgstr ""
+
+msgid "Some Hurd stuff found, but not enough to boot."
+msgstr ""
+
+msgid "Sorry, no parttool is available for %s\n"
+msgstr ""
+
+msgid "Specify filename."
+msgstr ""
+
+msgid "Specify hash to use."
+msgstr ""
+
+msgid "Specify one or more font files to load."
+msgstr ""
+
+msgid "Specify size for each read operation"
+msgstr ""
+
+msgid "Speed: %s \n"
+msgstr ""
+
+msgid "Start GDB stub on given port"
+msgstr ""
+
+msgid "Stop GDB stub"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Suppress normal output (warnings remain)."
+msgstr ""
+
+msgid "Syntax error at line %u\n"
+msgstr ""
+
+msgid "T"
+msgstr ""
+
+msgid "TPM unavailable"
+msgstr ""
+
+msgid "Target format not specified (use the -O option)."
+msgstr ""
+
+msgid "Terminal has specified geometry."
+msgstr ""
+
+msgid "Terminal is ASCII-only [default]."
+msgstr ""
+
+msgid "Terminal is logical-ordered UTF-8."
+msgstr ""
+
+msgid "Terminal is visually-ordered UTF-8."
+msgstr ""
+
+msgid "Test USB support."
+msgstr ""
+
+msgid "Test bit at BYTE:BIT in CMOS."
+msgstr ""
+
+msgid "Test file read speed."
+msgstr ""
+
+msgid "Test if REGEXP matches STRING."
+msgstr ""
+
+msgid "Test video subsystem in mode WxH."
+msgstr ""
+
+msgid "Test video subsystem."
+msgstr ""
+
+msgid "Text-only "
+msgstr ""
+
+msgid "The files are identical.\n"
+msgstr ""
+
+msgid "The highlighted entry will be executed automatically in %ds."
+msgstr ""
+
+msgid "This entry can be booted by any user."
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "TiB"
+msgstr ""
+
+msgid "TiB/s"
+msgstr ""
+
+msgid "Tool to edit environment block."
+msgstr ""
+
+msgid "Total flash size: %d B.\n"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Transform syslinux config into GRUB one."
+msgstr ""
+
+msgid "Translate to lower case."
+msgstr ""
+
+msgid "Translate to upper case."
+msgstr ""
+
+msgid "Translates the string with the current settings."
+msgstr ""
+
+msgid "Try '%s --help' or '%s --usage' for more information.\n"
+msgstr ""
+
+msgid "Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "USER PASSWORD"
+msgstr ""
+
+msgid "USER PBKDF2_PASSWORD"
+msgstr ""
+
+msgid "USERNAME[,USERNAME]"
+msgstr ""
+
+msgid "UTF-8"
+msgstr ""
+
+msgid "Unable to create pipe: %s"
+msgstr ""
+
+msgid "Unable to determine your platform. Use --target."
+msgstr ""
+
+msgid "Unable to fork: %s"
+msgstr ""
+
+msgid "Uncompress data."
+msgstr ""
+
+msgid "Uncompress file before checksumming."
+msgstr ""
+
+msgid "Unknown TPM error"
+msgstr ""
+
+msgid "Unknown address type %d\n"
+msgstr ""
+
+msgid "Unknown command `%s'.\n"
+msgstr ""
+
+msgid "Unknown compression format %s"
+msgstr ""
+
+msgid "Unknown encoding"
+msgstr ""
+
+msgid "Unknown extra argument `%s'."
+msgstr ""
+
+msgid "Unknown keyboard scan code 0x%02x\n"
+msgstr ""
+
+msgid "Unknown keyboard scan identifier %s\n"
+msgstr ""
+
+msgid "Unknown platform `%s-%s'"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr ""
+
+msgid "Unknown video mode "
+msgstr ""
+
+msgid "Unknown virtual device type: %s\n"
+msgstr ""
+
+msgid "Unload EFI emulator."
+msgstr ""
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [, [^, [:, [., or [="
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid "Unrecognized compression `%s'"
+msgstr ""
+
+msgid "Unrecognized option `%s'\\n"
+msgstr ""
+
+msgid "Unsupported address type %d\n"
+msgstr ""
+
+msgid "Unsupported hw address type %d\n"
+msgstr ""
+
+msgid "Unsupported image format"
+msgstr ""
+
+msgid "Usage:"
+msgstr ""
+
+msgid "Usage: %s DEVICE\n"
+msgstr ""
+
+msgid "Usage: %s [INFILE [OUTFILE]]\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]\\n"
+msgstr ""
+
+msgid "Use CD-ROM as root."
+msgstr ""
+
+msgid "Use GDB remote debugger instead of DDB."
+msgstr ""
+
+msgid "Use compiled-in root device."
+msgstr ""
+
+msgid "Use serial console."
+msgstr ""
+
+msgid "Use the %C and %C keys to select which entry is highlighted."
+msgstr ""
+
+msgid "VARNAME"
+msgstr ""
+
+msgid "Verbose countdown."
+msgstr ""
+
+msgid "Verify detached signature."
+msgstr ""
+
+msgid ""
+"Version %u.%u\n"
+"32-bit CS = 0x%x, len = 0x%x, offset = 0x%x\n"
+"16-bit CS = 0x%x, len = 0x%x\n"
+"DS = 0x%x, len = 0x%x\n"
+msgstr ""
+
+msgid "Virtual device is degraded"
+msgstr ""
+
+msgid "Virtual device is offline"
+msgstr ""
+
+msgid "Virtual device is online"
+msgstr ""
+
+msgid "Virtual device is removed"
+msgstr ""
+
+msgid "WARNING: no console will be available to OS"
+msgstr ""
+
+msgid "WARNING: unsupported font feature parameters: %x\n"
+msgstr ""
+
+msgid "WIDTHxHEIGHT."
+msgstr ""
+
+msgid "Wait for a specified number of seconds."
+msgstr ""
+
+msgid "Wait for keypress after every line of output."
+msgstr ""
+
+msgid "Warning:"
+msgstr ""
+
+msgid "Warning: invalid background color `%s'\n"
+msgstr ""
+
+msgid "Warning: invalid foreground color `%s'\n"
+msgstr ""
+
+msgid "Warning: syntax error (missing slash) in `%s'\n"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Windows NT/2000/XP (loader)"
+msgstr ""
+
+msgid "Windows Vista/7 (loader)"
+msgstr ""
+
+msgid "Write 16-bit VALUE to ADDR."
+msgstr ""
+
+msgid "Write 16-bit VALUE to PORT."
+msgstr ""
+
+msgid "Write 32-bit VALUE to ADDR."
+msgstr ""
+
+msgid "Write 32-bit VALUE to PORT."
+msgstr ""
+
+msgid "Write 8-bit VALUE to ADDR."
+msgstr ""
+
+msgid "Write 8-bit VALUE to PORT."
+msgstr ""
+
+msgid "Write a value to a CPU model specific register."
+msgstr ""
+
+msgid "YUV "
+msgstr ""
+
+msgid "You need to specify at least one command.\n"
+msgstr ""
+
+msgid "You will have to set `SystemPartition' and `OSLoader' manually."
+msgstr ""
+
+msgid "You've found a bug"
+msgstr ""
+
+msgid "Your embedding area is unusually small.  core.img won't fit in it."
+msgstr ""
+
+msgid ""
+"Your xorriso doesn't support `--grub2-boot-info'. Some features are "
+"disabled. Please use xorriso 1.2.9 or later."
+msgstr ""
+
+msgid ""
+"Your xorriso doesn't support `--grub2-boot-info'. Your core image is too "
+"big. Boot as disk is disabled. Please use xorriso 1.2.9 or later."
+msgstr ""
+
+msgid "[--append|--remove] [TERMINAL1] [TERMINAL2] ..."
+msgstr ""
+
+msgid "[--md5] PASSWD [FILE]"
+msgstr ""
+
+msgid "[--no-mem-option] [--type=TYPE] FILE [ARG ...]"
+msgstr ""
+
+msgid ""
+"[-1|-2] [--exclude=TABLE1,TABLE2|--load-only=TABLE1,TABLE2] FILE1 [FILE2] "
+"[...]"
+msgstr ""
+
+msgid "[-c FILE [-p PREFIX]] [FILE1 [FILE2 ...]]"
+msgstr ""
+
+msgid "[-d] DEVICENAME FILE."
+msgstr ""
+
+msgid "[-e|-n] STRING"
+msgstr ""
+
+msgid "[-f FILE]"
+msgstr ""
+
+msgid "[-f FILE] [-s|--skip-sig] [variable_name_to_whitelist] [...]"
+msgstr ""
+
+msgid "[-f FILE] variable_name [...]"
+msgstr ""
+
+msgid "[-f|-l|-u|-s|-n] [--hint HINT [--hint HINT] ...] NAME"
+msgstr ""
+
+msgid "[-h|-p|-r] [FILE]"
+msgstr ""
+
+msgid "[-l] GRUBUUID [VARNAME]"
+msgstr ""
+
+msgid "[-l|-h|-a] [FILE ...]"
+msgstr ""
+
+msgid "[-m (stretch|normal)] FILE"
+msgstr ""
+
+msgid "[-s POSITION] [-d DEVICE]"
+msgstr ""
+
+msgid "[-s POSITION] [-d DEVICE] [-v VAR] REGISTER[=VALUE[:MASK]]"
+msgstr ""
+
+msgid "[-s SIZE] FILENAME"
+msgstr ""
+
+msgid "[-s|--skip-sig] FILE SIGNATURE_FILE [PUBKEY_FILE]"
+msgstr ""
+
+msgid "[-s|--skip-sig] PUBKEY_FILE"
+msgstr ""
+
+msgid "[ARG]"
+msgstr ""
+
+msgid "[DIR]"
+msgstr ""
+
+msgid "[ENVVAR=VALUE]"
+msgstr ""
+
+msgid "[ENVVAR]"
+msgstr ""
+
+msgid "[KEYSTROKE1] [KEYSTROKE2] ..."
+msgstr ""
+
+msgid "[LENGTH]"
+msgstr ""
+
+msgid "[MODULE1 MODULE2 ...]"
+msgstr ""
+
+msgid "[NUMBER:]VARNAME"
+msgstr ""
+
+msgid "[OPTIONS...]"
+msgstr ""
+
+msgid "[OPTIONS]"
+msgstr ""
+
+msgid "[OPTIONS] DISK"
+msgstr ""
+
+msgid "[OPTIONS] FILE_OR_DEVICE"
+msgstr ""
+
+msgid "[OPTIONS] FONT_FILES"
+msgstr ""
+
+msgid "[OPTION]... [PATH|DEVICE]"
+msgstr ""
+
+msgid "[OPTS]"
+msgstr ""
+
+msgid "[PATTERN ...]"
+msgstr ""
+
+msgid "[USERLIST]"
+msgstr ""
+
+msgid "[VALUE]..."
+msgstr ""
+
+msgid "[[-a|-u|-v] [-g WxH] TERM [TYPE]]"
+msgstr ""
+
+msgid "[[year-]month-day] [hour:minute[:second]]"
+msgstr ""
+
+msgid "[default=%s]"
+msgstr ""
+
+msgid ""
+"`%s' is miscompiled: its start address is 0x%llx instead of 0x%llx: ld.gold "
+"bug?"
+msgstr ""
+
+msgid "`%s' is not a local disk"
+msgstr ""
+
+msgid "`cryptomount' command fails: %s"
+msgstr ""
+
+msgid "`loopback' command fails: %s"
+msgstr ""
+
+msgid ""
+"`nvsetenv' failed. \n"
+"You will have to set `boot-device' variable manually.  At the IEEE1275 prompt, type:\n"
+"  %s\n"
+msgstr ""
+
+msgid "access denied"
+msgstr ""
+
+msgid "addr"
+msgstr ""
+
+msgid "address not found"
+msgstr ""
+
+msgid "alloc-mem failed"
+msgstr ""
+
+msgid "assume input is a pxelinux configuration file."
+msgstr ""
+
+msgid "assume input is a syslinux configuration file."
+msgstr ""
+
+msgid "assume input is an isolinux configuration file."
+msgstr ""
+
+msgid "attempt to read or write outside of disk `%s'"
+msgstr ""
+
+msgid "attempt to read or write outside of partition"
+msgstr ""
+
+msgid "attempt to read past the end of file"
+msgstr ""
+
+msgid "attempt to seek outside of the file"
+msgstr ""
+
+msgid "attempting to read the core image `%s' from GRUB"
+msgstr ""
+
+msgid "attempting to read the core image `%s' from GRUB again"
+msgstr ""
+
+msgid "available RAM"
+msgstr ""
+
+msgid "available formats:"
+msgstr ""
+
+msgid "available targets:"
+msgstr ""
+
+msgid "bad shim signature"
+msgstr ""
+
+msgid "bad signature"
+msgstr ""
+
+msgid "base_addr = 0x%llx, length = 0x%llx, %s\n"
+msgstr ""
+
+msgid "base_addr = 0x%llx, length = 0x%llx, type = 0x%x\n"
+msgstr ""
+
+msgid "big file signature isn't implemented yet"
+msgstr ""
+
+msgid "bitmap file `%s' is of unsupported format"
+msgstr ""
+
+msgid "blocklist FILE"
+msgstr ""
+
+msgid "blocklists are incomplete"
+msgstr ""
+
+msgid "blocklists are invalid"
+msgstr ""
+
+msgid "can't compress `%s' to `%s'"
+msgstr ""
+
+msgid "can't determine filesystem on %s"
+msgstr ""
+
+msgid "can't find command `%s'"
+msgstr ""
+
+msgid "can't mount encrypted volume `%s': %s"
+msgstr ""
+
+msgid "can't open `%s': %s"
+msgstr ""
+
+msgid "can't open file %s, index %d: error %d"
+msgstr ""
+
+msgid "can't retrieve blocklists"
+msgstr ""
+
+msgid "can't retrieve blocklists: %s"
+msgstr ""
+
+msgid "can't set %dx%d font size: Freetype error %d: %s"
+msgstr ""
+
+msgid "cannot allocate TPM event buffer"
+msgstr ""
+
+msgid "cannot allocate command buffer"
+msgstr ""
+
+msgid "cannot boot due to dangerous module in memory: %s"
+msgstr ""
+
+msgid "cannot close `%s': %s"
+msgstr ""
+
+msgid "cannot compress the kernel image"
+msgstr ""
+
+msgid "cannot copy `%s' to `%s': %s"
+msgstr ""
+
+msgid "cannot delete `%s': %s"
+msgstr ""
+
+msgid "cannot find EFI directory"
+msgstr ""
+
+msgid "cannot find a device for %s (is /dev mounted?)"
+msgstr ""
+
+msgid "cannot find locale `%s'"
+msgstr ""
+
+msgid "cannot make temporary directory: %s"
+msgstr ""
+
+msgid "cannot make temporary file: %s"
+msgstr ""
+
+msgid "cannot open %s"
+msgstr ""
+
+msgid "cannot open OS file `%s': %s"
+msgstr ""
+
+msgid "cannot open `%s': %s"
+msgstr ""
+
+msgid "cannot open configuration file `%s': %s"
+msgstr ""
+
+msgid "cannot open directory `%s': %s"
+msgstr ""
+
+msgid "cannot read `%s' correctly"
+msgstr ""
+
+msgid "cannot read `%s': %s"
+msgstr ""
+
+msgid "cannot rename the file %s to %s"
+msgstr ""
+
+msgid "cannot restore the original directory"
+msgstr ""
+
+msgid "cannot save the original directory"
+msgstr ""
+
+msgid "cannot seek `%s': %s"
+msgstr ""
+
+msgid "cannot stat `%s': %s"
+msgstr ""
+
+msgid "cannot sync `%s': %s"
+msgstr ""
+
+msgid "cannot write to CD-ROM"
+msgstr ""
+
+msgid "cannot write to `%s': %s"
+msgstr ""
+
+msgid "cannot write to the stdout: %s"
+msgstr ""
+
+msgid "checksum verification failed"
+msgstr ""
+
+msgid "cmp FILE LOCAL"
+msgstr ""
+
+msgid "compare fail at offset %llu"
+msgstr ""
+
+msgid "compress GRUB files [optional]"
+msgstr ""
+
+msgid "connection refused"
+msgstr ""
+
+msgid "connection timeout"
+msgstr ""
+
+msgid "convert to bold font"
+msgstr ""
+
+msgid "core image is too big (0x%x > 0x%x)"
+msgstr ""
+
+msgid "core.img version mismatch"
+msgstr ""
+
+msgid "couldn't autoconfigure %s"
+msgstr ""
+
+msgid ""
+"couldn't find IEEE1275 device path for %s.\n"
+"You will have to set `boot-device' variable manually"
+msgstr ""
+
+msgid "couldn't open geom"
+msgstr ""
+
+msgid "couldn't read ELI metadata"
+msgstr ""
+
+msgid "couldn't retrieve UUID"
+msgstr ""
+
+msgid "couldn't retrieve random data"
+msgstr ""
+
+msgid "couldn't retrieve random data for salt"
+msgstr ""
+
+msgid "couldn't send network packet"
+msgstr ""
+
+msgid "cp FILE LOCAL"
+msgstr ""
+
+msgid "crc FILE"
+msgstr ""
+
+msgid "cryptographic error number %d"
+msgstr ""
+
+msgid ""
+"current directory of syslinux [default is parent directory of input file]."
+msgstr ""
+
+msgid "cygwin_conv_path() failed"
+msgstr ""
+
+msgid "delete device map if it already exists"
+msgstr ""
+
+msgid "destination unreachable"
+msgstr ""
+
+msgid "device count exceeds limit"
+msgstr ""
+
+msgid "disable hinting"
+msgstr ""
+
+msgid "disk `%s' not found"
+msgstr ""
+
+msgid "disk does not exist, so falling back to partition device %s"
+msgstr ""
+
+msgid "diskboot.img size must be %u bytes"
+msgstr ""
+
+msgid "domain name component is too long"
+msgstr ""
+
+msgid "don't update LED state"
+msgstr ""
+
+msgid "done"
+msgstr ""
+
+msgid ""
+"embedding is not possible, but this is required for RAID and LVM install"
+msgstr ""
+
+msgid "embedding is not possible, but this is required for cross-disk install"
+msgstr ""
+
+msgid "enabling %s support ..."
+msgstr ""
+
+msgid "enter: boot, `e': options, `c': cmd-line"
+msgstr ""
+
+msgid "environment block too small"
+msgstr ""
+
+msgid "error: %s.\n"
+msgstr ""
+
+msgid "failed to get FDT"
+msgstr ""
+
+msgid "failed to get canonical path of `%s'"
+msgstr ""
+
+msgid "failed to return to initial working directory"
+msgstr ""
+
+msgid "failure to read password"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "file `%s' is too big"
+msgstr ""
+
+msgid "file `%s' not found"
+msgstr ""
+
+msgid "filename expected"
+msgstr ""
+
+msgid "filename or tempo and notes expected"
+msgstr ""
+
+msgid "filesystem `%s' does not support labels"
+msgstr ""
+
+msgid "filesystem `%s' doesn't support blocklists"
+msgstr ""
+
+msgid "filesystem on %s is neither HFS nor HFS+"
+msgstr ""
+
+msgid "firmware image is too big"
+msgstr ""
+
+msgid "force autohint"
+msgstr ""
+
+msgid "four arguments expected"
+msgstr ""
+
+msgid "free-mem failed"
+msgstr ""
+
+msgid ""
+"fwstart.img doesn't match the known good version. proceed at your own risk"
+msgstr ""
+
+msgid "generate an image in FORMAT"
+msgstr ""
+
+msgid "give a short usage message"
+msgstr ""
+
+msgid "give this help list"
+msgstr ""
+
+msgid "given argument is a system device, not a path"
+msgstr ""
+
+msgid "grub-mkimage is compiled without XZ support"
+msgstr ""
+
+msgid "grub>"
+msgstr ""
+
+msgid "hang for SECS seconds (default 3600)"
+msgstr ""
+
+msgid "hex FILE"
+msgstr ""
+
+msgid "initrd already loaded"
+msgstr ""
+
+msgid ""
+"install GRUB images under the directory DIR/%s instead of the %s directory"
+msgstr ""
+
+msgid "install even if problems are detected"
+msgstr ""
+
+msgid "invalid PBKDF2 password"
+msgstr ""
+
+msgid "invalid arch-dependent ELF magic"
+msgstr ""
+
+msgid "invalid arch-independent ELF magic"
+msgstr ""
+
+msgid "invalid argument"
+msgstr ""
+
+msgid "invalid block size"
+msgstr ""
+
+msgid "invalid color specification `%s'"
+msgstr ""
+
+msgid "invalid device tree"
+msgstr ""
+
+msgid "invalid environment block"
+msgstr ""
+
+msgid "invalid file name `%s'"
+msgstr ""
+
+msgid "invalid font range"
+msgstr ""
+
+msgid "invalid line format: %s"
+msgstr ""
+
+msgid "invalid modinfo file `%s'"
+msgstr ""
+
+msgid "invalid parameter %s"
+msgstr ""
+
+msgid "invalid skip value %lld"
+msgstr ""
+
+msgid "invalid variable name `%s'"
+msgstr ""
+
+msgid "invalid video mode specification `%s'"
+msgstr ""
+
+msgid "invalid zImage"
+msgstr ""
+
+msgid "invalid zero blocksize"
+msgstr ""
+
+msgid "ioctl GET_ARRAY_INFO error: %s"
+msgstr ""
+
+msgid "ioctl GET_DISK_INFO error: %s"
+msgstr ""
+
+msgid "ioctl RAID_VERSION error: %s"
+msgstr ""
+
+msgid "kernel image is too big (0x%x > 0x%x)"
+msgstr ""
+
+msgid "list network addresses"
+msgstr ""
+
+msgid "list network cards"
+msgstr ""
+
+msgid "list network routes"
+msgstr ""
+
+msgid "ls PATH"
+msgstr ""
+
+msgid "lzop file corrupted"
+msgstr ""
+
+msgid "missing `%c' symbol"
+msgstr ""
+
+msgid "missing mandatory option for `%s'"
+msgstr ""
+
+msgid "module `%s' isn't loaded"
+msgstr ""
+
+msgid "module cannot be loaded in UEFI secure boot mode: %s"
+msgstr ""
+
+msgid "module isn't loaded"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "need an image and mountpoint"
+msgstr ""
+
+msgid "no APM found"
+msgstr ""
+
+msgid "no DHCP info found"
+msgstr ""
+
+msgid "no DHCP options found"
+msgstr ""
+
+msgid "no DNS record found"
+msgstr ""
+
+msgid "no DNS reply received"
+msgstr ""
+
+msgid "no DNS servers configured"
+msgstr ""
+
+msgid "no `/' in canonical filename"
+msgstr ""
+
+msgid "no command is specified"
+msgstr ""
+
+msgid "no compression is available for your platform"
+msgstr ""
+
+msgid "no decryption key available"
+msgstr ""
+
+msgid "no media in `%s'"
+msgstr ""
+
+msgid "no network card found"
+msgstr ""
+
+msgid "no server is specified"
+msgstr ""
+
+msgid "no such partition"
+msgstr ""
+
+msgid "no symbol table"
+msgstr ""
+
+msgid "no terminal specified"
+msgstr ""
+
+msgid "no terminator in the core image"
+msgstr ""
+
+msgid "non-sector-aligned data is found in the core file"
+msgstr ""
+
+msgid "not a directory"
+msgstr ""
+
+msgid "not a primary partition"
+msgstr ""
+
+msgid "not a regular file"
+msgstr ""
+
+msgid "not in function body"
+msgstr ""
+
+msgid "one argument expected"
+msgstr ""
+
+msgid "only ipv4"
+msgstr ""
+
+msgid "only ipv6"
+msgstr ""
+
+msgid "out of memory"
+msgstr ""
+
+msgid "output file must be specified"
+msgstr ""
+
+msgid "output generated config to FILE [default=stdout]"
+msgstr ""
+
+msgid "overflow is detected"
+msgstr ""
+
+msgid "passwords don't match"
+msgstr ""
+
+msgid "perform a DHCP autoconfiguration"
+msgstr ""
+
+msgid "perform a bootp autoconfiguration"
+msgstr ""
+
+msgid "physical volume %s not found"
+msgstr ""
+
+msgid ""
+"plain image kernel not supported - rebuild with CONFIG_(U)EFI_STUB enabled"
+msgstr ""
+
+msgid "prefer ipv4"
+msgstr ""
+
+msgid "prefer ipv6"
+msgstr ""
+
+msgid "premature end of file"
+msgstr ""
+
+msgid "premature end of file %s"
+msgstr ""
+
+msgid "press CapsLock key"
+msgstr ""
+
+msgid "press Insert key"
+msgstr ""
+
+msgid "press NumLock key"
+msgstr ""
+
+msgid "press ScrollLock key"
+msgstr ""
+
+msgid "press SysRq"
+msgstr ""
+
+msgid "press left alt"
+msgstr ""
+
+msgid "press left ctrl"
+msgstr ""
+
+msgid "press left shift"
+msgstr ""
+
+msgid "press right alt"
+msgstr ""
+
+msgid "press right ctrl"
+msgstr ""
+
+msgid "press right shift"
+msgstr ""
+
+msgid "print program version"
+msgstr ""
+
+msgid "print the version information and exit"
+msgstr ""
+
+msgid "print this message and exit"
+msgstr ""
+
+msgid "print verbose messages."
+msgstr ""
+
+msgid "public key %08x not found"
+msgstr ""
+
+msgid "read error at offset %llu: %s"
+msgstr ""
+
+msgid "read text from FILE."
+msgstr ""
+
+msgid "relative subdirectory on network server"
+msgstr ""
+
+msgid "relocation 0x%x is not implemented yet"
+msgstr ""
+
+msgid "reserved RAM"
+msgstr ""
+
+msgid "root directory as it will be seen on runtime [default=/]."
+msgstr ""
+
+msgid "root directory of TFTP server"
+msgstr ""
+
+msgid "root directory of the syslinux disk [default=/]."
+msgstr ""
+
+msgid "route loop detected"
+msgstr ""
+
+msgid "save output in FILE [required]"
+msgstr ""
+
+msgid "separate items in output using ASCII NUL characters"
+msgstr ""
+
+msgid "serial port `%s' isn't found"
+msgstr ""
+
+msgid "set capslock mode"
+msgstr ""
+
+msgid "set font family name"
+msgstr ""
+
+msgid "set font range"
+msgstr ""
+
+msgid "set font size"
+msgstr ""
+
+msgid "set input filename. Default is STDIN"
+msgstr ""
+
+msgid "set insert mode"
+msgstr ""
+
+msgid "set numlock mode"
+msgstr ""
+
+msgid "set pause mode"
+msgstr ""
+
+msgid "set scrolllock mode"
+msgstr ""
+
+msgid "set the program name"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "symbol `%s' not found"
+msgstr ""
+
+msgid "temporary"
+msgstr ""
+
+msgid "terminal %s isn't found or it's not handled by terminfo"
+msgstr ""
+
+msgid "terminal `%s' isn't found"
+msgstr ""
+
+msgid "the argument `%s' requires an integer"
+msgstr ""
+
+msgid "the first sector of the core file is not sector-aligned"
+msgstr ""
+
+msgid "the partition type 0x%x isn't valid"
+msgstr ""
+
+msgid "the sectors of the core file are too fragmented"
+msgstr ""
+
+msgid "the size of `%s' is not %u"
+msgstr ""
+
+msgid "the size of `%s' is too large"
+msgstr ""
+
+msgid "the size of `%s' is too small"
+msgstr ""
+
+msgid "this ELF file is not of the right type"
+msgstr ""
+
+msgid "three arguments expected"
+msgstr ""
+
+msgid "time out opening `%s'"
+msgstr ""
+
+msgid "timeout reading `%s'"
+msgstr ""
+
+msgid "timeout: could not resolve hardware address"
+msgstr ""
+
+msgid "too deep nesting of symlinks"
+msgstr ""
+
+msgid "two arguments expected"
+msgstr ""
+
+msgid "type"
+msgstr ""
+
+msgid "unable to identify a filesystem in %s; safety check can't be performed"
+msgstr ""
+
+msgid "unaligned device size"
+msgstr ""
+
+msgid "unexpected EFI error"
+msgstr ""
+
+msgid "unexpected end of file"
+msgstr ""
+
+msgid "unknown argument `%s'"
+msgstr ""
+
+msgid "unknown compression %d"
+msgstr ""
+
+msgid "unknown device type %s"
+msgstr ""
+
+msgid "unknown filesystem"
+msgstr ""
+
+msgid "unknown kind of RAID device `%s'"
+msgstr ""
+
+msgid "unknown regexp error"
+msgstr ""
+
+msgid "unknown target format %s"
+msgstr ""
+
+msgid "unknown target format %s\n"
+msgstr ""
+
+msgid "unknown terminfo type `%s'"
+msgstr ""
+
+msgid "unrecognised DHCP option format specification `%s'"
+msgstr ""
+
+msgid "unrecognised network address `%s'"
+msgstr ""
+
+msgid "unrecognised network interface `%s'"
+msgstr ""
+
+msgid "unrecognized number"
+msgstr ""
+
+msgid "unresolvable address %s"
+msgstr ""
+
+msgid "unsupported HTTP error %d: %s"
+msgstr ""
+
+msgid "unsupported HTTP response"
+msgstr ""
+
+msgid "unsupported RAID version: %d.%d"
+msgstr ""
+
+msgid "unsupported gzip format"
+msgstr ""
+
+msgid "unsupported instruction"
+msgstr ""
+
+msgid "unsupported platform %s"
+msgstr ""
+
+msgid "unsupported serial port flow control"
+msgstr ""
+
+msgid "unsupported serial port parity"
+msgstr ""
+
+msgid "unsupported serial port speed"
+msgstr ""
+
+msgid "unsupported serial port stop bits number"
+msgstr ""
+
+msgid "unsupported serial port word length"
+msgstr ""
+
+msgid "use COLOR for background"
+msgstr ""
+
+msgid "use COLOR for text"
+msgstr ""
+
+msgid "use FILE as font (PF2)."
+msgstr ""
+
+msgid "use FILE as memdisk"
+msgstr ""
+
+msgid "use FILE as the boot image [default=%s]"
+msgstr ""
+
+msgid "use FILE as the core image [default=%s]"
+msgstr ""
+
+msgid "use FILE as the device map [default=%s]"
+msgstr ""
+
+msgid "use FILE as xorriso [optional]"
+msgstr ""
+
+msgid "use identifier file even if UUID is available"
+msgstr ""
+
+msgid "use themes under DIR [default=%s]"
+msgstr ""
+
+msgid "variable `%s' isn't set"
+msgstr ""
+
+msgid "verification requested but nobody cares: %s"
+msgstr ""
+
+msgid "will not proceed with blocklists"
+msgstr ""
+
+msgid "write output to FILE [default=stdout]."
+msgstr ""
+
+msgid "wrong ELI magic or version"
+msgstr ""
+
+msgid "xorriso not found"
+msgstr ""
+
+msgid "xz file corrupted or unsupported block options"
+msgstr ""
+
+msgid "you can't delete this address"
+msgstr ""
+
+msgid "you need to load the kernel first"
+msgstr ""
+
+msgid "your BIOS Boot Partition is too small; embedding won't be possible"
+msgstr ""
+
+msgid "your core.img is unusually large.  It won't fit in the embedding area"
+msgstr ""

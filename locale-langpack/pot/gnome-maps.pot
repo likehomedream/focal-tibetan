@@ -1,0 +1,1004 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-maps master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-maps/issues\n"
+"PO-Revision-Date: 2020-04-16 04:11+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:01+0000\n"
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+
+msgid "%d:%02d hour"
+msgid_plural "%d:%02d hours"
+msgstr[0] ""
+
+msgid "%f h"
+msgstr ""
+
+msgid "%f min"
+msgstr ""
+
+msgid "%f s"
+msgstr ""
+
+msgid "%s ft"
+msgstr ""
+
+msgid "%s km"
+msgstr ""
+
+msgid "%s m"
+msgstr ""
+
+msgid "%s mi"
+msgstr ""
+
+msgid "%s – %s"
+msgstr ""
+
+msgid "%s–%s"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"x-large\">Sign in to edit maps</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"x-large\">Signed In</span>"
+msgstr ""
+
+msgid "A map application for GNOME"
+msgstr ""
+
+msgid "A path to a local tiles directory structure"
+msgstr ""
+
+msgid "A simple maps application"
+msgstr ""
+
+msgid "Abort printing"
+msgstr ""
+
+msgid "About Maps"
+msgstr ""
+
+msgid "Accuracy: %s"
+msgstr ""
+
+msgid "Add Field"
+msgstr ""
+
+msgid "Add to OpenStreetMap"
+msgstr ""
+
+msgid "Add to new route"
+msgstr ""
+
+msgid "Add via location"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "All Layer Files"
+msgstr ""
+
+msgid "Allows your location to be shown on the map."
+msgstr ""
+
+msgid "Altitude"
+msgstr ""
+
+msgid "Altitude:"
+msgstr ""
+
+msgid "An error has occurred"
+msgstr ""
+
+msgid "Animism"
+msgstr ""
+
+msgid "Arrive"
+msgstr ""
+
+msgid "Arrive By"
+msgstr ""
+
+msgid "Arrive at %s"
+msgstr ""
+
+msgid "Bad request"
+msgstr ""
+
+msgid "Bahá’í"
+msgstr ""
+
+msgid "Buddhism"
+msgstr ""
+
+msgid "Buses"
+msgstr ""
+
+msgid "C_heck in"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot find a suitable place to check-in in this location"
+msgstr ""
+
+msgid "Cannot find “%s” in the social service"
+msgstr ""
+
+msgid "Caodaism"
+msgstr ""
+
+msgid "Check in here"
+msgstr ""
+
+msgid "Check in to %s"
+msgstr ""
+
+msgid "Check your connection and proxy settings."
+msgstr ""
+
+msgid "Choose map type"
+msgstr ""
+
+msgid "Christianity"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Conflict, someone else has just modified the object"
+msgstr ""
+
+msgid "Confucianism"
+msgstr ""
+
+msgid "Coordinates of last viewed location."
+msgstr ""
+
+msgid "Copy Location"
+msgstr ""
+
+msgid "Copyright © 2011 – 2019 Red Hat, Inc. and The GNOME Maps authors"
+msgstr ""
+
+msgid "Could not find OSM element"
+msgstr ""
+
+msgid ""
+"Credentials have expired, please open Online Accounts to sign in and enable "
+"this account"
+msgstr ""
+
+msgid "Current location"
+msgstr ""
+
+msgid "Designated"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Don’t have an account?"
+msgstr ""
+
+msgid "Drag to change order of the route"
+msgstr ""
+
+msgid "Edit on OpenStreetMap"
+msgstr ""
+
+msgid "Elevation (height above sea level) of a point in metres."
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Enter verification code shown above"
+msgstr ""
+
+msgid "Estimated time: %s"
+msgstr ""
+
+msgid "Everyone"
+msgstr ""
+
+msgid "Exact"
+msgstr ""
+
+msgid "Export view"
+msgstr ""
+
+msgid "Facebook check-in privacy setting"
+msgstr ""
+
+msgid "Failed to connect to location service"
+msgstr ""
+
+msgid "Failed to find tile structure in directory"
+msgstr ""
+
+msgid "Failed to open GeoURI"
+msgstr ""
+
+msgid "Failed to open URI"
+msgstr ""
+
+msgid "Failed to open layer"
+msgstr ""
+
+msgid "Failed to parse Geo URI"
+msgstr ""
+
+msgid "Failed to parse XML document"
+msgstr ""
+
+msgid "Ferries"
+msgstr ""
+
+msgid "File type is not supported"
+msgstr ""
+
+msgid "Filesystem is read only"
+msgstr ""
+
+msgid "Find places around the world"
+msgstr ""
+
+msgid "Followers"
+msgstr ""
+
+msgid "Foursquare check-in Facebook broadcasting"
+msgstr ""
+
+msgid "Foursquare check-in Twitter broadcasting"
+msgstr ""
+
+msgid "Foursquare check-in privacy setting"
+msgstr ""
+
+msgid "Friends of friends"
+msgstr ""
+
+msgid "From %s to %s"
+msgstr ""
+
+msgid "GNOME Maps"
+msgstr ""
+
+msgid "Go to current location"
+msgstr ""
+
+msgid ""
+"Help to improve the map, using an\n"
+"OpenStreetMap account."
+msgstr ""
+
+msgid "Hide intermediate stops and information"
+msgstr ""
+
+msgid "Hide walking instructions"
+msgstr ""
+
+msgid "Hinduism"
+msgstr ""
+
+msgid "House number"
+msgstr ""
+
+msgid "Include route and markers"
+msgstr ""
+
+msgid "Incorrect user name or password"
+msgstr ""
+
+msgid ""
+"Indicates if Foursquare should broadcast the check-in as a post in the "
+"Facebook account associated with the Foursquare account."
+msgstr ""
+
+msgid ""
+"Indicates if Foursquare should broadcast the check-in as a tweet in the "
+"Twitter account associated with the Foursquare account."
+msgstr ""
+
+msgid "Indicates if the user has signed in to edit OpenStreetMap data."
+msgstr ""
+
+msgid ""
+"Information used to inform other mappers about non-obvious information about"
+" an element, the author’s intent when creating it, or hints for further "
+"improvement."
+msgstr ""
+
+msgid "Internet access"
+msgstr ""
+
+msgid "Internet access:"
+msgstr ""
+
+msgid "Islam"
+msgstr ""
+
+msgid "Jainism"
+msgstr ""
+
+msgid "Judaism"
+msgstr ""
+
+msgid "Just friends"
+msgstr ""
+
+msgid "Just me"
+msgstr ""
+
+msgid "Last used transportation type for routing"
+msgstr ""
+
+msgid ""
+"Latest used Facebook check-in privacy setting. Possible values are: "
+"EVERYONE, FRIENDS_OF_FRIENDS, ALL_FRIENDS or SELF."
+msgstr ""
+
+msgid ""
+"Latest used Foursquare check-in privacy setting. Possible values are: "
+"public, followers or private."
+msgstr ""
+
+msgid "Leave By"
+msgstr ""
+
+msgid "Leave Now"
+msgstr ""
+
+msgid "Limited"
+msgstr ""
+
+msgid "Load earlier alternatives"
+msgstr ""
+
+msgid "Load later alternatives"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Loading map tiles for printing"
+msgstr ""
+
+msgid "Location Settings"
+msgstr ""
+
+msgid ""
+"Location was added to the map, note that it may take a while before it shows"
+" on the map and in search results."
+msgstr ""
+
+msgid ""
+"Map changes will be visible on all maps that use\n"
+"OpenStreetMap data."
+msgstr ""
+
+msgid "Map data by %s and contributors"
+msgstr ""
+
+msgid "Map tiles provided by %s"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Maps at %f, %f.png"
+msgstr ""
+
+msgid ""
+"Maps cannot find the place to check in to with Facebook. Please select one "
+"from this list."
+msgstr ""
+
+msgid ""
+"Maps cannot find the place to check in to with Foursquare. Please select one"
+" from this list."
+msgstr ""
+
+msgid ""
+"Maps gives you quick access to maps all across the world. It allows you to "
+"quickly find the place you’re looking for by searching for a city or street,"
+" or locate a place to meet a friend."
+msgstr ""
+
+msgid "Maps is offline!"
+msgstr ""
+
+msgid ""
+"Maps need an active internet connection to function properly, but one can’t "
+"be found."
+msgstr ""
+
+msgid ""
+"Maps uses the collaborative OpenStreetMap database, made by hundreds of "
+"thousands of people across the globe."
+msgstr ""
+
+msgid "Maps;"
+msgstr ""
+
+msgid "Mark as favorite"
+msgstr ""
+
+msgid "Maximum number of search results"
+msgstr ""
+
+msgid "Maximum number of search results from geocode search."
+msgstr ""
+
+msgid "Missing required attributes"
+msgstr ""
+
+msgid "Multiple Religions"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No earlier alternatives found."
+msgstr ""
+
+msgid "No filename specified"
+msgstr ""
+
+msgid "No later alternatives found."
+msgstr ""
+
+msgid "No results found"
+msgstr ""
+
+msgid "No route found."
+msgstr ""
+
+msgid "No timetable data found for this route."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Nothing found here!"
+msgstr ""
+
+msgid "Number of recent places to store"
+msgstr ""
+
+msgid "Number of recent routes to store"
+msgstr ""
+
+msgid "Number of recently visited places to store."
+msgstr ""
+
+msgid "Number of recently visited routes to store."
+msgstr ""
+
+msgid "Object has been deleted"
+msgstr ""
+
+msgid "Object not found"
+msgstr ""
+
+msgid "Open Shape Layer"
+msgstr ""
+
+msgid "Open Shape Layer…"
+msgstr ""
+
+msgid "OpenStreetMap Account"
+msgstr ""
+
+msgid "OpenStreetMap username or e-mail address"
+msgstr ""
+
+msgid "Opening hours"
+msgstr ""
+
+msgid "Opening hours:"
+msgstr ""
+
+msgid "Paganism"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Pastafarianism"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid ""
+"Phone number. Use the international format, starting with a + sign. Beware "
+"of local privacy laws, especially for private phone numbers."
+msgstr ""
+
+msgid "Phone:"
+msgstr ""
+
+msgid "Population"
+msgstr ""
+
+msgid "Population:"
+msgstr ""
+
+msgid "Post on Facebook"
+msgstr ""
+
+msgid "Post on Twitter"
+msgstr ""
+
+msgid "Postal code"
+msgstr ""
+
+msgid "Print Route"
+msgstr ""
+
+msgid "Private"
+msgstr ""
+
+msgid "Public"
+msgstr ""
+
+msgid "Recently Used"
+msgstr ""
+
+msgid "Religion"
+msgstr ""
+
+msgid "Religion:"
+msgstr ""
+
+msgid "Remove via location"
+msgstr ""
+
+msgid "Reverse route"
+msgstr ""
+
+msgid "Route from here"
+msgstr ""
+
+msgid "Route request failed."
+msgstr ""
+
+msgid "Route search by GraphHopper"
+msgstr ""
+
+msgid "Route to here"
+msgstr ""
+
+msgid "Scientology"
+msgstr ""
+
+msgid "See the link in the label for help on format."
+msgstr ""
+
+msgid "Select Type"
+msgstr ""
+
+msgid "Select a place"
+msgstr ""
+
+msgid "Select an account"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Set up OpenStreetMap Account"
+msgstr ""
+
+msgid "Shinto"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show intermediate stops and information"
+msgstr ""
+
+msgid "Show more information"
+msgstr ""
+
+msgid "Show more results"
+msgstr ""
+
+msgid "Show the version of the program"
+msgstr ""
+
+msgid "Show walking instructions"
+msgstr ""
+
+msgid "Sign In"
+msgstr ""
+
+msgid "Sign Out"
+msgstr ""
+
+msgid "Sikhism"
+msgstr ""
+
+msgid ""
+"Sorry, that didn’t work. Please try again, or visit\n"
+"<a href=\"https://www.openstreetmap.org/user/forgot-password\">OpenStreetMap</a> to reset your password."
+msgstr ""
+
+msgid "Spiritualism"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start at %s"
+msgstr ""
+
+msgid "Start!"
+msgstr ""
+
+msgid "Street"
+msgstr ""
+
+msgid "Subway"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Taoism"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "The directory does not exist"
+msgstr ""
+
+msgid ""
+"The format used should include the language code and the article title like "
+"“en:Article title”."
+msgstr ""
+
+msgid "The official name. This is typically what appears on signs."
+msgstr ""
+
+msgid ""
+"The official website. Try to use the most basic form of a URL i.e. "
+"http://example.com instead of http://example.com/index.html."
+msgstr ""
+
+msgid "The verification code didn’t match, please try again."
+msgstr ""
+
+msgid "Toggle favorites"
+msgstr ""
+
+msgid "Toggle route planner"
+msgstr ""
+
+msgid "Toggle visible"
+msgstr ""
+
+msgid "Toilets"
+msgstr ""
+
+msgid "Toilets:"
+msgstr ""
+
+msgid "Trains"
+msgstr ""
+
+msgid "Trams"
+msgstr ""
+
+msgid "Turn on location services to find your location"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unable to export view"
+msgstr ""
+
+msgid "Unitarian Universalism"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Verify"
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid "Voodoo"
+msgstr ""
+
+msgid "Walk %s"
+msgstr ""
+
+msgid "Way or relation refers to non-existing children"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "What’s here?"
+msgstr ""
+
+msgid "Wheelchair access"
+msgstr ""
+
+msgid "Wheelchair access:"
+msgstr ""
+
+msgid "Wi-Fi"
+msgstr ""
+
+msgid "Wikipedia"
+msgstr ""
+
+msgid "Window maximization state"
+msgstr ""
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window position (X and Y)."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "Wired"
+msgstr ""
+
+msgid "Write an optional message to check in to %s."
+msgstr ""
+
+msgid "Yazidism"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You can abort printing if this takes too long"
+msgstr ""
+
+msgid ""
+"You can even search for specific types of locations, such as “Pubs near Main"
+" Street, Boston” or “Hotels near Alexanderplatz, Berlin”."
+msgstr ""
+
+msgid "You do not have permission to save there"
+msgstr ""
+
+msgid "Your OpenStreetMap account is active."
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom in to add location!"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "Zoroastrianism"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Export"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "around the clock"
+msgstr ""
+
+msgctxt "day interval list"
+msgid "%s,%s"
+msgstr ""
+
+msgctxt "day interval list"
+msgid "%s,%s,%s"
+msgstr ""
+
+msgctxt "day range"
+msgid "%s-%s"
+msgstr ""
+
+msgid "designated"
+msgstr ""
+
+msgctxt "dialog title"
+msgid "Add to OpenStreetMap"
+msgstr ""
+
+msgctxt "dialog title"
+msgid "Edit on OpenStreetMap"
+msgstr ""
+
+msgid "every day"
+msgstr ""
+
+msgid "failed to load file"
+msgstr ""
+
+msgid "from sunrise to sunset"
+msgstr ""
+
+msgid "invalid coordinate"
+msgstr ""
+
+msgid "last viewed location"
+msgstr ""
+
+msgid "limited"
+msgstr ""
+
+msgctxt "month-day-date"
+msgid "%b %e"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "not open"
+msgstr ""
+
+msgid "org.gnome.Maps"
+msgstr ""
+
+msgid "parse error"
+msgstr ""
+
+msgid "public holidays"
+msgstr ""
+
+msgid "school holidays"
+msgstr ""
+
+msgid "service"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to current location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Map View"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open shape layer"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print route"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to aerial view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to street view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle route planner"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle scale"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+msgctxt "time interval"
+msgid "%s-%s"
+msgstr ""
+
+msgctxt "time interval list"
+msgid "%s, %s"
+msgstr ""
+
+msgctxt "time range component"
+msgid "%s %s"
+msgstr ""
+
+msgctxt "time range list"
+msgid "%s %s"
+msgstr ""
+
+msgctxt "time range list"
+msgid "%s %s %s"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "unknown geometry"
+msgstr ""
+
+msgid "wired"
+msgstr ""
+
+msgid "yes"
+msgstr ""

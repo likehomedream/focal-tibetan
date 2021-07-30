@@ -1,0 +1,1177 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=tracker&keywords=I18N+L10N&component=General\n"
+"PO-Revision-Date: 2020-04-05 08:22+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:47+0000\n"
+
+msgid " %2.2d hour"
+msgid_plural " %2.2d hours"
+msgstr[0] ""
+
+msgid " %2.2d minute"
+msgid_plural " %2.2d minutes"
+msgstr[0] ""
+
+msgid " %2.2d second"
+msgid_plural " %2.2d seconds"
+msgstr[0] ""
+
+msgid " %2.2dh"
+msgstr ""
+
+msgid " %2.2dm"
+msgstr ""
+
+msgid " %2.2ds"
+msgstr ""
+
+msgid " %d day"
+msgid_plural " %d days"
+msgstr[0] ""
+
+msgid " %dd"
+msgstr ""
+
+msgid "%s remaining"
+msgstr ""
+
+msgid "(Re)indexing file was successful"
+msgstr ""
+
+msgid "APPS"
+msgstr ""
+
+msgid ""
+"Actions (--backup, --restore, --index-file and --import) can not be used "
+"with --reindex-mime-type"
+msgstr ""
+
+msgid "Add a tag (if FILEs are omitted, TAG is not associated with any files)"
+msgstr ""
+
+msgid "Add and delete actions can not be used together"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "All data miners are idle, indexing complete"
+msgstr ""
+
+msgid "All nie:plainTextContent properties are omitted"
+msgstr ""
+
+msgid ""
+"Although most content indexed by Tracker can be safely reindexed, it can’t "
+"be assured that this is the case for all data. Be aware that you may be "
+"incurring in a data loss situation, proceed at your own risk."
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+msgid "Artists"
+msgstr ""
+
+msgid "Attempting to pause miner “%s” with reason “%s”"
+msgstr ""
+
+msgid "Attempting to resume miner %s with cookie %d"
+msgstr ""
+
+msgid "Available tracker commands are:"
+msgstr ""
+
+msgid "BASE_URL"
+msgstr ""
+
+msgid "Backing up database"
+msgstr ""
+
+msgid "Backup current index / database to the file provided"
+msgstr ""
+
+msgid "Backup, restore, import and (re)index by MIME type or file name"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "CAUTION: This process may irreversibly delete data."
+msgstr ""
+
+msgid "CLASS"
+msgstr ""
+
+msgid "CLASS/PROPERTY"
+msgstr ""
+
+msgid "COOKIE"
+msgstr ""
+
+msgid "Classes"
+msgstr ""
+
+msgid ""
+"Collect debug information useful for problem reporting and investigation, "
+"results are output to terminal"
+msgstr ""
+
+msgid "Common statuses include"
+msgstr ""
+
+msgid "Components"
+msgstr ""
+
+msgid "Configuration"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Cookie is %d"
+msgstr ""
+
+msgid "Cookie not recognized to resume paused miner"
+msgstr ""
+
+msgid "Could not (re)index file"
+msgstr ""
+
+msgid "Could not (re)index file, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not add tag"
+msgstr ""
+
+msgid "Could not add tag to files"
+msgstr ""
+
+msgid "Could not backup database"
+msgstr ""
+
+msgid "Could not call tracker_sparql_cursor_next() on SPARQL query"
+msgstr ""
+
+msgid "Could not create D-Bus proxy to tracker-store"
+msgstr ""
+
+msgid "Could not create tree: class properties query failed"
+msgstr ""
+
+msgid "Could not create tree: subclass query failed"
+msgstr ""
+
+msgid "Could not establish a connection to Tracker"
+msgstr ""
+
+msgid "Could not find indexed properties"
+msgstr ""
+
+msgid "Could not find notify classes"
+msgstr ""
+
+msgid ""
+"Could not find property for class prefix, e.g. :Resource in “rdfs:Resource”"
+msgstr ""
+
+msgid "Could not get D-Bus connection"
+msgstr ""
+
+msgid "Could not get GSettings for miners, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not get SPARQL connection"
+msgstr ""
+
+msgid "Could not get Tracker statistics"
+msgstr ""
+
+msgid "Could not get UTF-8 path from path"
+msgstr ""
+
+msgid "Could not get all tags"
+msgstr ""
+
+msgid "Could not get all tags in the database"
+msgstr ""
+
+msgid "Could not get basic status for Tracker"
+msgstr ""
+
+msgid "Could not get display name for miner “%s”"
+msgstr ""
+
+msgid "Could not get file URNs"
+msgstr ""
+
+msgid "Could not get files for matching tags"
+msgstr ""
+
+msgid "Could not get files related to tag"
+msgstr ""
+
+msgid "Could not get namespace prefixes"
+msgstr ""
+
+msgid "Could not get pause details, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not get search results"
+msgstr ""
+
+msgid "Could not get statistics"
+msgstr ""
+
+msgid "Could not get status from miner: %s"
+msgstr ""
+
+msgid "Could not get status, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not get tag by label"
+msgstr ""
+
+msgid "Could not kill process %d — “%s”"
+msgstr ""
+
+msgid "Could not list class prefixes"
+msgstr ""
+
+msgid "Could not list classes"
+msgstr ""
+
+msgid "Could not list miners, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not list properties"
+msgstr ""
+
+msgid "Could not open /proc"
+msgstr ""
+
+msgid "Could not open “%s”"
+msgstr ""
+
+msgid "Could not pause miner, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not pause miner: %s"
+msgstr ""
+
+msgid "Could not read file"
+msgstr ""
+
+msgid "Could not reindex mimetypes"
+msgstr ""
+
+msgid "Could not reindex mimetypes, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not remove tag"
+msgstr ""
+
+msgid "Could not resume miner, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not resume miner: %s"
+msgstr ""
+
+msgid "Could not retrieve tracker-store progress"
+msgstr ""
+
+msgid "Could not retrieve tracker-store status"
+msgstr ""
+
+msgid "Could not run SPARQL query"
+msgstr ""
+
+msgid "Could not run query"
+msgstr ""
+
+msgid "Could not run tracker-extract: "
+msgstr ""
+
+msgid "Could not run update"
+msgstr ""
+
+msgid "Could not search classes"
+msgstr ""
+
+msgid "Could not search properties"
+msgstr ""
+
+msgid "Could not start miners, manager could not be created, %s"
+msgstr ""
+
+msgid "Could not stat() file"
+msgstr ""
+
+msgid "Could not terminate process %d — “%s”"
+msgstr ""
+
+msgid "Crawling recursively directory “%s”"
+msgstr ""
+
+msgid "Crawling single directory “%s”"
+msgstr ""
+
+msgid "Create, list or delete tags for indexed content"
+msgstr ""
+
+msgid "Currently indexed"
+msgstr ""
+
+msgid "Data Set"
+msgstr ""
+
+msgid "Data Statistics"
+msgstr ""
+
+msgid "Data is still being indexed"
+msgstr ""
+
+msgid "Database is currently empty"
+msgstr ""
+
+msgid "Delete a tag (if FILEs are omitted, TAG is removed for all files)"
+msgstr ""
+
+msgid "Deleting…"
+msgstr ""
+
+msgid ""
+"Describe subclasses, superclasses (can be used with -s to highlight parts of"
+" the tree and -p to show properties)"
+msgstr ""
+
+msgid "Description for a tag (this is only used with --add)"
+msgstr ""
+
+msgid "Disable Full Text Search (FTS). Implies --disable-snippets"
+msgstr ""
+
+msgid "Disable color when printing snippets and results"
+msgstr ""
+
+msgid ""
+"Disable showing snippets with results. This is only shown for some "
+"categories, e.g. Documents, Music…"
+msgstr ""
+
+msgid "Disk Information"
+msgstr ""
+
+msgid "Displays version information"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "EXPRESSION"
+msgstr ""
+
+msgid "Emails"
+msgstr ""
+
+msgid "Empty result set"
+msgstr ""
+
+msgid "Enable stemmer"
+msgstr ""
+
+msgid "Enable unaccent"
+msgstr ""
+
+msgid ""
+"Erase indexed information about a file, works recursively for directories"
+msgstr ""
+
+msgid "Error starting “tar” program"
+msgstr ""
+
+msgid "Estimated %s left"
+msgstr ""
+
+msgid "Extract information from a file"
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "FILE [FILE…]"
+msgstr ""
+
+msgid "FILE…"
+msgstr ""
+
+msgid "FILTER"
+msgstr ""
+
+msgid "FORMAT"
+msgstr ""
+
+msgid "Failed to initialize data manager"
+msgstr ""
+
+msgid "Feeds"
+msgstr ""
+
+msgid "Fetching…"
+msgstr ""
+
+msgid "File and query can not be used together"
+msgstr ""
+
+msgid "File not indexed or already untagged"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Files do not exist or aren’t indexed"
+msgstr ""
+
+msgid "Follow status changes as they happen"
+msgstr ""
+
+msgid "Force a re-index of all content"
+msgstr ""
+
+msgid "Found %d miner installed"
+msgid_plural "Found %d miners installed"
+msgstr[0] ""
+
+msgid "Found %d miner running"
+msgid_plural "Found %d miners running"
+msgstr[0] ""
+
+msgid "Found process ID %d for “%s”"
+msgstr ""
+
+msgid "Get help on how to use Tracker and any of these commands"
+msgstr ""
+
+msgid "GraphUpdated delay"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid "If enabled, numbers will not be indexed."
+msgstr ""
+
+msgid ""
+"If enabled, the words listed in the stop-words list are ignored. E.g. common"
+" words like “the”, “yes”, “no”, etc."
+msgstr ""
+
+msgid ""
+"If no arguments are given, the status of the store and data miners is shown"
+msgstr ""
+
+msgid "Ignore numbers"
+msgstr ""
+
+msgid "Ignore stop words"
+msgstr ""
+
+msgid "Import a dataset from the provided file (in Turtle format)"
+msgstr ""
+
+msgid "Importing Turtle file"
+msgstr ""
+
+msgid ""
+"Indexer will read only this maximum number of words from a single document."
+msgstr ""
+
+msgid "Indexes"
+msgstr ""
+
+msgid "Initializing"
+msgstr ""
+
+msgid ""
+"Instead of looking up a file name, treat the FILE arguments as actual IRIs "
+"(e.g. <file:///path/to/some/file.txt>)"
+msgstr ""
+
+msgid "Invalid log verbosity, try “debug”, “detailed”, “minimal” or “errors”"
+msgstr ""
+
+msgid "Kill all Tracker processes and remove all databases"
+msgstr ""
+
+msgid "Killed process %d — “%s”"
+msgstr ""
+
+msgid "LEVEL"
+msgstr ""
+
+msgid "Limit the number of results shown"
+msgstr ""
+
+msgid "List all Tracker processes"
+msgstr ""
+
+msgid "List all miners currently running"
+msgstr ""
+
+msgid "List all miners installed"
+msgstr ""
+
+msgid ""
+"List all tags (using FILTER if specified; FILTER always uses logical OR)"
+msgstr ""
+
+msgid "List common statuses for miners and the store"
+msgstr ""
+
+msgid "List pause reasons"
+msgstr ""
+
+msgid "Load a specified domain ontology"
+msgstr ""
+
+msgid "Location of journal pieces"
+msgstr ""
+
+msgid "Log verbosity"
+msgstr ""
+
+msgid "Log verbosity."
+msgstr ""
+
+msgid ""
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug (default ="
+" 0)"
+msgstr ""
+
+msgid "MIME"
+msgstr ""
+
+msgid "MINER"
+msgstr ""
+
+msgid "Maximum length of a word to be indexed"
+msgstr ""
+
+msgid "Maximum number of words to index in a document"
+msgstr ""
+
+msgid "Maximum size of journal"
+msgstr ""
+
+msgid "Metadata database store and lookup manager"
+msgstr ""
+
+msgid ""
+"Miner to use with --resume or --pause (you can use suffixes, e.g. Files or "
+"Applications)"
+msgstr ""
+
+msgid "Miners"
+msgstr ""
+
+msgid "Missing one or more files which are required"
+msgstr ""
+
+msgid ""
+"NOTE: Limit was reached, there are more items in the database not listed "
+"here"
+msgstr ""
+
+msgid "No E-mail address"
+msgstr ""
+
+msgid "No artists were found"
+msgstr ""
+
+msgid "No bookmarks were found"
+msgstr ""
+
+msgid "No class prefixes were found"
+msgstr ""
+
+msgid "No classes were found"
+msgstr ""
+
+msgid "No classes were found to match search term"
+msgstr ""
+
+msgid "No configuration was found"
+msgstr ""
+
+msgid "No connection available"
+msgstr ""
+
+msgid "No contacts were found"
+msgstr ""
+
+msgid "No emails were found"
+msgstr ""
+
+msgid "No error given"
+msgstr ""
+
+msgid "No feeds were found"
+msgstr ""
+
+msgid "No files have been tagged"
+msgstr ""
+
+msgid "No files were found"
+msgstr ""
+
+msgid "No files were found matching ALL of those tags"
+msgstr ""
+
+msgid "No files were modified"
+msgstr ""
+
+msgid "No indexes were found"
+msgstr ""
+
+msgid "No metadata available for that URI"
+msgstr ""
+
+msgid "No miners are paused"
+msgstr ""
+
+msgid "No miners are running"
+msgstr ""
+
+msgid "No music was found"
+msgstr ""
+
+msgid "No name"
+msgstr ""
+
+msgid "No namespace prefixes were found"
+msgstr ""
+
+msgid "No namespace prefixes were returned"
+msgstr ""
+
+msgid "No notifies were found"
+msgstr ""
+
+msgid "No properties were found"
+msgstr ""
+
+msgid "No properties were found to match search term"
+msgstr ""
+
+msgid "No results found matching your query"
+msgstr ""
+
+msgid "No results were found matching your query"
+msgstr ""
+
+msgid "No software categories were found"
+msgstr ""
+
+msgid "No software was found"
+msgstr ""
+
+msgid "No statistics available"
+msgstr ""
+
+msgid "No statistics were available"
+msgstr ""
+
+msgid "No tags were found"
+msgstr ""
+
+msgid "No tags were found by that name"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "None of the files had this tag set"
+msgstr ""
+
+msgid "Not running or is a disabled plugin"
+msgstr ""
+
+msgid "Not tagged, file is not indexed"
+msgstr ""
+
+msgid "Notifies"
+msgstr ""
+
+msgid "Now listening for resource updates to the database"
+msgstr ""
+
+msgid "ONTOLOGY"
+msgstr ""
+
+msgid "Offset the results"
+msgstr ""
+
+msgid "Only allow read based actions on the database"
+msgstr ""
+
+msgid ""
+"Only one action (--backup, --restore, --index-file or --import) can be used "
+"at a time"
+msgstr ""
+
+msgid "Only one file can be used with --backup and --restore"
+msgstr ""
+
+msgid "Only one of “all”, “store” and “miners” options are allowed"
+msgstr ""
+
+msgid "Only those with config listed"
+msgstr ""
+
+msgid "Operation not supported"
+msgstr ""
+
+msgid "Output results as RDF in Turtle format"
+msgstr ""
+
+msgid "PAUSED"
+msgstr ""
+
+msgid "PROPERTY"
+msgstr ""
+
+msgid "Path to use to run a query from file"
+msgstr ""
+
+msgid "Path to use to run a query or update from file"
+msgstr ""
+
+msgid "Pause a miner (you must use this with --miner)"
+msgstr ""
+
+msgid ""
+"Pause a miner while the calling process is alive or until resumed (you must "
+"use this with --miner)"
+msgstr ""
+
+msgid "Pause application and reason match an already existing pause request"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid ""
+"Period in milliseconds between GraphUpdated signals being emitted when "
+"indexed data has changed inside the database."
+msgstr ""
+
+msgid "Prefixes"
+msgstr ""
+
+msgid "Press Ctrl+C to stop"
+msgstr ""
+
+msgid "Processing…"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid ""
+"Query and update the index using SPARQL or search, list and tree the "
+"ontology"
+msgstr ""
+
+msgid "Query the database at the lowest level using SQL"
+msgstr ""
+
+msgid "Querying information for entity"
+msgstr ""
+
+msgid "REASON"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Reindexing mime types was successful"
+msgstr ""
+
+msgid "Remaining space on database partition"
+msgstr ""
+
+msgid "Remote service to query to"
+msgstr ""
+
+msgid "Remove all configuration files so they are re-generated on next start"
+msgstr ""
+
+msgid "Reset or remove index and revert configurations to defaults"
+msgstr ""
+
+msgid "Resetting existing configuration…"
+msgstr ""
+
+msgid "Restore a database from a previous backup (see --backup)"
+msgstr ""
+
+msgid "Restoring database from backup"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "Resume a miner (you must use this with --miner)"
+msgstr ""
+
+msgid "Retrieve class prefixes"
+msgstr ""
+
+msgid "Retrieve classes"
+msgstr ""
+
+msgid ""
+"Retrieve classes which notify changes in the database (CLASS is optional)"
+msgstr ""
+
+msgid ""
+"Retrieve indexes used in database to improve performance (PROPERTY is "
+"optional)"
+msgstr ""
+
+msgid ""
+"Retrieve properties for a class, prefixes can be used too (e.g. "
+"rdfs:Resource)"
+msgstr ""
+
+msgid "Return all non-existing matches too (i.e. include unmounted volumes)"
+msgstr ""
+
+msgid "Returns the full namespace for a class."
+msgstr ""
+
+msgid "Returns the shorthand for a class (e.g. nfo:FileDataObject)."
+msgstr ""
+
+msgid "SPARQL"
+msgstr ""
+
+msgid "SPARQL query"
+msgstr ""
+
+msgid "SQL"
+msgstr ""
+
+msgid "SQL query"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "Same as --hard but the backup & journal are restored after restart"
+msgstr ""
+
+msgid ""
+"Search for a class or property and display more information (e.g. Document)"
+msgstr ""
+
+msgid "Search for bookmarks (--all has no effect on this)"
+msgstr ""
+
+msgid "Search for contacts"
+msgstr ""
+
+msgid "Search for content indexed or show content by type"
+msgstr ""
+
+msgid "Search for document files"
+msgstr ""
+
+msgid "Search for emails"
+msgstr ""
+
+msgid "Search for feeds (--all has no effect on this)"
+msgstr ""
+
+msgid "Search for files"
+msgstr ""
+
+msgid "Search for folders"
+msgstr ""
+
+msgid "Search for image files"
+msgstr ""
+
+msgid "Search for music albums (--all has no effect on this)"
+msgstr ""
+
+msgid "Search for music artists (--all has no effect on this)"
+msgstr ""
+
+msgid "Search for music files"
+msgstr ""
+
+msgid "Search for software (--all has no effect on this)"
+msgstr ""
+
+msgid "Search for software categories (--all has no effect on this)"
+msgstr ""
+
+msgid "Search for video files"
+msgstr ""
+
+msgid "Search term “%s” is a stop word."
+msgstr ""
+
+msgid "See “tracker help <command>” to read about a specific subcommand."
+msgstr ""
+
+msgid ""
+"Sets the logging verbosity to LEVEL (“debug”, “detailed”, “minimal”, "
+"“errors”) for all processes"
+msgstr ""
+
+msgid "Setting log verbosity for all components to “%s”…"
+msgstr ""
+
+msgid ""
+"Show URNs for results (doesn’t apply to --music-albums, --music-artists, "
+"--feeds, --software, --software-categories)"
+msgstr ""
+
+msgid "Show files associated with each tag (this is only used with --list)"
+msgstr ""
+
+msgid "Show full namespaces (i.e. don’t use nie:title, use full URLs)"
+msgstr ""
+
+msgid "Show information known about local files or items indexed"
+msgstr ""
+
+msgid "Show logging values in terms of log verbosity for each process"
+msgstr ""
+
+msgid "Show plain text content if available for resources"
+msgstr ""
+
+msgid "Show statistics for current index / data set"
+msgstr ""
+
+msgid "Show the indexing progress, content statistics and index state"
+msgstr ""
+
+msgid "Show the license and version in use"
+msgstr ""
+
+msgid ""
+"Simplify the words to their root to provide more results. E.g. “shelves” and"
+" “shelf” to “shel”"
+msgstr ""
+
+msgid "Size of the journal at rotation in MB. Use -1 to disable rotating."
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Software Categories"
+msgstr ""
+
+msgid "Start, stop, pause and list processes responsible for indexing content"
+msgstr ""
+
+msgid "Starting miners…"
+msgstr ""
+
+msgid "Starts miners (which indirectly starts tracker-store too)"
+msgstr ""
+
+msgid "States"
+msgstr ""
+
+msgid "Statistics:"
+msgstr ""
+
+msgid ""
+"Stop words are common words which may be ignored during the indexing "
+"process."
+msgstr ""
+
+msgid "Store"
+msgstr ""
+
+msgid "TAG"
+msgstr ""
+
+msgid "Tag was added successfully"
+msgstr ""
+
+msgid "Tag was removed successfully"
+msgstr ""
+
+msgid "Tagged"
+msgstr ""
+
+msgid "Tags (shown by name)"
+msgstr ""
+
+msgid "Tell miners to (re)index a given file"
+msgstr ""
+
+msgid ""
+"Tell miners to reindex files which match the mime type supplied (for new "
+"extractors), use -m MIME1 -m MIME2"
+msgstr ""
+
+msgid "Terminated process %d — “%s”"
+msgstr ""
+
+msgid ""
+"The --and-operator option can only be used with --list and tag label "
+"arguments"
+msgstr ""
+
+msgid "The --description option can only be used with --add"
+msgstr ""
+
+msgid "The --list option is required for --show-files"
+msgstr ""
+
+msgid ""
+"The --list-properties argument can only be empty when used with the --tree "
+"argument"
+msgstr ""
+
+msgid ""
+"The indexed data for this file has been deleted and will be reindexed again."
+msgstr ""
+
+msgid "This is used with --query and for database updates only."
+msgstr ""
+
+msgid "Tracker Store"
+msgstr ""
+
+msgid ""
+"Translate accented characters to the equivalent unaccented. E.g. “Idéa” to "
+"“Idea” for improved matching."
+msgstr ""
+
+msgid "Unable to import Turtle file"
+msgstr ""
+
+msgid "Unable to retrieve URN for URI"
+msgstr ""
+
+msgid "Unable to retrieve data for URI"
+msgstr ""
+
+msgid "Unable to retrieve namespace prefixes"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Unknown error, “tar” exited with status %d"
+msgstr ""
+
+msgid "Unrecognized options"
+msgstr ""
+
+msgid "Untagged"
+msgstr ""
+
+msgid "Use AND for search terms instead of OR (the default)"
+msgstr ""
+
+msgid "Use OR for search terms instead of AND (the default)"
+msgstr ""
+
+msgid ""
+"Use SIGKILL to stop all matching processes, either “store”, “miners” or "
+"“all” may be used, no parameter equals “all”"
+msgstr ""
+
+msgid ""
+"Use SIGTERM to stop all matching processes, either “store”, “miners” or "
+"“all” may be used, no parameter equals “all”"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid ""
+"Watch changes to the database in real time (e.g. resources or files being "
+"added)"
+msgstr ""
+
+msgid "Where to store a journal chunk when it hits the max size."
+msgstr ""
+
+msgid ""
+"Words with more characters than this length will be ignored by the indexer."
+msgstr ""
+
+msgid "You can not use miner pause and resume switches together"
+msgstr ""
+
+msgid "You can not use the --get-logging and --set-logging arguments together"
+msgstr ""
+
+msgid "You can not use the --hard and --soft arguments together"
+msgstr ""
+
+msgid "You can not use the --kill and --terminate arguments together"
+msgstr ""
+
+msgid "You must provide a pause or resume command for the miner"
+msgstr ""
+
+msgid "You must provide the miner for pause or resume commands"
+msgstr ""
+
+msgid "[y|N]"
+msgstr ""
+
+msgid "failed to exec “%s”: %s"
+msgstr ""
+
+msgid "less than one second"
+msgstr ""
+
+msgid "perhaps a disabled plugin?"
+msgstr ""
+
+msgid "search terms"
+msgstr ""
+
+msgid "the|a|an"
+msgstr ""
+
+msgid "unknown time"
+msgstr ""
+
+msgid "unknown time left"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "— start the tracker daemon"
+msgstr ""
+
+msgid "“%s” is not a tracker command. See “tracker --help”"
+msgstr ""

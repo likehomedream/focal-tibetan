@@ -1,0 +1,475 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: volume_key 0.3.9\n"
+"Report-Msgid-Bugs-To: https://pagure.io/volume_key\n"
+"PO-Revision-Date: 2019-02-22 17:37+0000\n"
+"Last-Translator: Copied by Zanata <Unknown>\n"
+"Language-Team: Chinese (China) <trans-zh_cn@lists.fedoraproject.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:22+0000\n"
+
+msgid "%s (y/n) "
+msgstr ""
+
+msgid "%s:\t%s\n"
+msgstr ""
+
+msgid "%s: "
+msgstr ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid ""
+"%s: %s\n"
+"Run `%s --help' for more information.\n"
+msgstr ""
+
+msgid "A KMIP structure is too long"
+msgstr ""
+
+msgid "A string is too long"
+msgstr ""
+
+msgid "Ambiguous operation mode"
+msgstr ""
+
+msgid "Ambiguous output format"
+msgstr ""
+
+msgid "Are you sure you want to use this packet?"
+msgstr ""
+
+msgid "Binary data is too long"
+msgstr ""
+
+msgid "CERT"
+msgstr ""
+
+msgid "Can not add a secret of this type"
+msgstr ""
+
+msgid "Cannot get attributes of `%s'"
+msgstr ""
+
+msgid "Cipher mode mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid "Cipher name mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid ""
+"Copyright (C) 2009 Red Hat, Inc. All rights reserved.\n"
+"This software is distributed under the GPL v.2.\n"
+"\n"
+"This program is provided with NO WARRANTY, to the extent permitted by law."
+msgstr ""
+
+msgid "Create a random passphrase and write it to PACKET"
+msgstr ""
+
+msgid "DIR"
+msgstr ""
+
+msgid "Data encryption key"
+msgstr ""
+
+msgid "Data encryption key unknown"
+msgstr ""
+
+msgid "Encrypt for the certificate in CERT"
+msgstr ""
+
+msgid "Encryption information type unsupported in LUKS"
+msgstr ""
+
+msgid "Enter password for `%s': "
+msgstr ""
+
+msgid "Error adding a LUKS passphrase"
+msgstr ""
+
+msgid "Error creating `%s': "
+msgstr ""
+
+msgid "Error creating a passphrase: %s"
+msgstr ""
+
+msgid "Error decoding `%s': "
+msgstr ""
+
+msgid "Error decoding `%s': %s"
+msgstr ""
+
+msgid "Error decoding certificate"
+msgstr ""
+
+msgid "Error generating passphrase: %s"
+msgstr ""
+
+msgid "Error getting LUKS data encryption key: "
+msgstr ""
+
+msgid "Error getting a yes/no answer"
+msgstr ""
+
+msgid "Error getting information about volume `%s': "
+msgstr ""
+
+msgid "Error loading `%s': %s"
+msgstr ""
+
+msgid "Error opening LUKS volume: "
+msgstr ""
+
+msgid "Error opening `%s': %s"
+msgstr ""
+
+msgid "Error reading `%s': "
+msgstr ""
+
+msgid "Error reading `%s': %s"
+msgstr ""
+
+msgid "Error restoring access to `%s': %s"
+msgstr ""
+
+msgid "Error setting up `%s': %s"
+msgstr ""
+
+msgid "Error, try again.\n"
+msgstr ""
+
+msgid "Escrow packet does not contain the LUKS data encryption key"
+msgstr ""
+
+msgid "Escrow packet passphrase"
+msgstr ""
+
+msgid "FORMAT"
+msgstr ""
+
+msgid "Host name"
+msgstr ""
+
+msgid "Host name mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid "Include secrets in --dump output"
+msgstr ""
+
+msgid "Input is not a volume_key escrow packet"
+msgstr ""
+
+msgid "Input packet is too small"
+msgstr ""
+
+msgid "Invalid packet: %s"
+msgstr ""
+
+msgid "Invalid slot number `%s'"
+msgstr ""
+
+msgid "Key length mismatch"
+msgstr ""
+
+msgid "Key size (bits)"
+msgstr ""
+
+msgid "Key size mismatch (packet %zu, volume %zu)"
+msgstr ""
+
+msgid "LUKS cipher mode"
+msgstr ""
+
+msgid "LUKS cipher name"
+msgstr ""
+
+msgid "LUKS data encryption key in packet is invalid: "
+msgstr ""
+
+msgid "LUKS passphrase in packet is invalid: "
+msgstr ""
+
+msgid "Manages encrypted volume keys and passphrases."
+msgstr ""
+
+msgid "NUL byte in passphrase"
+msgstr ""
+
+msgid "New packet passphrase"
+msgstr ""
+
+msgid "New passphrase for `%s'"
+msgstr ""
+
+msgid "No output specified"
+msgstr ""
+
+msgid "Not enough space provided to store a KMIP packet"
+msgstr ""
+
+msgid "Number of key bits is not positive"
+msgstr ""
+
+msgid "OPERANDS"
+msgstr ""
+
+msgid "Only include unencrypted information, if any, in --dump"
+msgstr ""
+
+msgid "Only secrets public key-encrypted"
+msgstr ""
+
+msgid "Only secrets symmetric key-encrypted"
+msgstr ""
+
+msgid "Operation mode not specified"
+msgstr ""
+
+msgid "Output can be specified only with `--save' or `--reencrypt'"
+msgstr ""
+
+msgid "Output format does not match other options"
+msgstr ""
+
+msgid "PACKET"
+msgstr ""
+
+msgid "Packet format"
+msgstr ""
+
+msgid "Passphrase"
+msgstr ""
+
+msgid "Passphrase for `%s'"
+msgstr ""
+
+msgid "Passphrase not provided"
+msgstr ""
+
+msgid "Passphrase slot"
+msgstr ""
+
+msgid "Passphrase unknown"
+msgstr ""
+
+msgid "Passphrase-encrypted"
+msgstr ""
+
+msgid "Passphrases do not match.  New packet passphrase"
+msgstr ""
+
+msgid "Passphrases do not match.  New passphrase for `%s'"
+msgstr ""
+
+msgid "Public key-encrypted"
+msgstr ""
+
+msgid "Re-encrypt an escrow packet.  Expects operand PACKET."
+msgstr ""
+
+msgid "Repeat new packet passphrase"
+msgstr ""
+
+msgid "Repeat new passphrase for `%s'"
+msgstr ""
+
+msgid "Report bugs to %s"
+msgstr ""
+
+msgid "Required attribute `%s' not found"
+msgstr ""
+
+msgid "Restore volume secrets from a packet.  Expects operands VOLUME PACKET."
+msgstr ""
+
+msgid "Run in batch mode"
+msgstr ""
+
+msgid "Save volume secrets to a packet.  Expects operands VOLUME [PACKET]."
+msgstr ""
+
+msgid ""
+"Set up an encrypted volume using secrets from a packet.  Expects operands "
+"VOLUME PACKET NAME."
+msgstr ""
+
+msgid "Show information contained in a packet.  Expects operand PACKET."
+msgstr ""
+
+msgid "Show secrets contained in a packet.  Expects operand PACKET."
+msgstr ""
+
+msgid "Show version"
+msgstr ""
+
+msgid "String item expected, got %02X"
+msgstr ""
+
+msgid "Structure does not fit in its container"
+msgstr ""
+
+msgid "Symmetric key callback not provided"
+msgstr ""
+
+msgid "Symmetric key not provided"
+msgstr ""
+
+msgid "The key is too long"
+msgstr ""
+
+msgid "The packet metadata is encrypted"
+msgstr ""
+
+msgid "The passphrase must be a string"
+msgstr ""
+
+msgid "Too many attempts to get a passphrase"
+msgstr ""
+
+msgid "Too many attempts to get a valid passphrase"
+msgstr ""
+
+msgid "Too many attempts to get a valid symmetric key"
+msgstr ""
+
+msgid "UUID mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid "UUID mismatch between libblkid and libcryptsetup: `%s' vs. `%s'"
+msgstr ""
+
+msgid "Unencrypted"
+msgstr ""
+
+msgid "Unexpected data after packet"
+msgstr ""
+
+msgid "Unexpected data in structure"
+msgstr ""
+
+msgid "Unexpected end of data"
+msgstr ""
+
+msgid "Unexpected item size"
+msgstr ""
+
+msgid "Unexpected item tag 0x%08lX"
+msgstr ""
+
+msgid "Unexpected item type 0x%02X"
+msgstr ""
+
+msgid "Unexpected wrapped key format"
+msgstr ""
+
+msgid "Unknown error %d"
+msgstr ""
+
+msgid "Unknown packet format `%s'"
+msgstr ""
+
+msgid "Unsupported KMIP version %s.%s"
+msgstr ""
+
+msgid "Unsupported asymmetric encryption format"
+msgstr ""
+
+msgid "Unsupported enum value %s"
+msgstr ""
+
+msgid "Unsupported key length %s"
+msgstr ""
+
+msgid "Unsupported mechanism %lu"
+msgstr ""
+
+msgid "Unsupported object type %s"
+msgstr ""
+
+msgid "Unsupported packet format"
+msgstr ""
+
+msgid "Unsupported packet type %s"
+msgstr ""
+
+msgid "Unsupported symmetric key format %s"
+msgstr ""
+
+msgid "Unsupported volume format `%s'"
+msgstr ""
+
+msgid "Unsupported wrapping mechanism"
+msgstr ""
+
+msgid "Usage: %s --%s PACKET"
+msgstr ""
+
+msgid "Usage: %s --%s VOLUME PACKET"
+msgstr ""
+
+msgid "Usage: %s --%s VOLUME PACKET NAME"
+msgstr ""
+
+msgid "Usage: %s --save VOLUME [PACKET]"
+msgstr ""
+
+msgid "Use FORMAT for all output packets"
+msgstr ""
+
+msgid "Use the NSS database in DIR"
+msgstr ""
+
+msgid "User interface callbacks not provided"
+msgstr ""
+
+msgid "Volume UUID"
+msgstr ""
+
+msgid "Volume `%s' has unsupported format"
+msgstr ""
+
+msgid "Volume format"
+msgstr ""
+
+msgid "Volume format mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid "Volume label"
+msgstr ""
+
+msgid "Volume label mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid "Volume path"
+msgstr ""
+
+msgid "Volume path mismatch (packet `%s', volume `%s')"
+msgstr ""
+
+msgid "Wrapped key is not opaque"
+msgstr ""
+
+msgid "Write data encryption key to PACKET"
+msgstr ""
+
+msgid "Write passphrase to PACKET"
+msgstr ""
+
+msgid "Write the default secret to PACKET"
+msgstr ""
+
+msgid "`%s' does not match `%s': "
+msgstr ""
+
+msgid "`%s' perhaps does not match `%s'\n"
+msgstr ""
+
+msgid "`--%s' is only valid with `--%s'"
+msgstr ""

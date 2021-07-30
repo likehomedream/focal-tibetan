@@ -1,0 +1,216 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-notifier\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2018-03-26 07:44+0000\n"
+"Last-Translator: Rockworld <sumoisrock@gmail.com>\n"
+"Language-Team: debian-chinese-gb <debian-chinese-gb@lists.debian.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:52+0000\n"
+
+msgid "  $packages"
+msgstr ""
+
+msgid "- inform about updates"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A distribution volume with software packages has been detected.</span>\n"
+"\n"
+"Would you like to try to upgrade from it automatically? "
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A volume with software packages has been detected.</span>\n"
+"\n"
+"Would you like to open it with the package manager?"
+msgstr ""
+
+msgid ""
+"<span weight=\"bold\" size=\"larger\">A volume with unofficial software packages has been detected.</span>\n"
+"\n"
+"Would you like to open it with the package manager?"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Update information</span>"
+msgstr ""
+
+msgid "A package manager is working"
+msgstr ""
+
+msgid "A problem occurred when checking for the updates."
+msgstr ""
+
+msgid "APTonCD volume detected"
+msgstr ""
+
+msgid ""
+"An application has crashed on your system (now or in the past). Click on the"
+" notification icon to display details. "
+msgstr ""
+
+msgid ""
+"An error occurred, please run Package Manager from the right-click menu or "
+"apt-get in a terminal to see what is wrong."
+msgstr ""
+
+msgid ""
+"An error occurred, please run Package Manager from the right-click menu or apt-get in a terminal to see what is wrong.\n"
+"The error message was: '%s'. "
+msgstr ""
+
+msgid "Authentication is needed to query package system lock status"
+msgstr ""
+
+msgid "Authentication is needed to upgrade"
+msgstr ""
+
+msgid "Check for available updates automatically"
+msgstr ""
+
+msgid "Check for updates"
+msgstr ""
+
+msgid "Click on the notification icon to show the available information.\n"
+msgstr ""
+
+msgid "Crash report detected"
+msgstr ""
+
+msgid "Data files for some packages could not be downloaded"
+msgstr ""
+
+msgid "Do you want to report the problem now?"
+msgstr ""
+
+msgid "Error: BrokenCount > 0"
+msgstr ""
+
+msgid "Error: Marking the upgrade (%s)"
+msgstr ""
+
+msgid "Error: Opening the cache (%s)"
+msgstr ""
+
+msgid "Failed to init the UI: %s\n"
+msgstr ""
+
+msgid "Failure to download extra data files"
+msgstr ""
+
+msgid "Information available"
+msgstr ""
+
+msgid "Install all updates"
+msgstr ""
+
+msgid "Network service discovery disabled"
+msgstr ""
+
+msgid "Report problem…"
+msgstr ""
+
+msgid ""
+"Return the time in days when security updates are installed unattended (0 "
+"means disabled)"
+msgstr ""
+
+msgid "Run upgrade"
+msgstr ""
+
+msgid "Show human readable output on stdout"
+msgstr ""
+
+msgid "Show notifications"
+msgstr ""
+
+msgid "Show the packages that are going to be installed/upgraded"
+msgstr ""
+
+msgid "Show updates"
+msgstr ""
+
+msgid "Software Packages Volume Detected"
+msgstr ""
+
+msgid "Software updates available"
+msgstr ""
+
+msgid "Start Package Manager"
+msgstr ""
+
+msgid "Start package manager"
+msgstr ""
+
+msgid "System program problem detected"
+msgstr ""
+
+msgid ""
+"The download will be attempted again later, or you can try the download "
+"again now.  Running this command requires an active Internet connection."
+msgstr ""
+
+msgid ""
+"The following packages requested additional data downloads after package "
+"installation, but the data could not be downloaded or could not be "
+"processed."
+msgstr ""
+
+msgid ""
+"The update information is outdated. This may be caused by network problems "
+"or by a repository that is no longer available. Please update manually by "
+"selecting 'Show updates' from the indicator menu, and watching for any "
+"failing repositories."
+msgstr ""
+
+msgid "There is %i update available"
+msgid_plural "There are %i updates available"
+msgstr[0] ""
+
+msgid ""
+"There is %i update available. Click on the notification icon to show the "
+"available update."
+msgid_plural ""
+"There are %i updates available. Click on the notification icon to show the "
+"available updates."
+msgstr[0] ""
+
+msgid ""
+"This is a permanent failure that leaves these packages unusable on your "
+"system.  You may need to fix your Internet connection, then remove and "
+"reinstall the packages to fix this problem."
+msgstr ""
+
+msgid ""
+"This usually means that your installed packages have unmet dependencies"
+msgstr ""
+
+msgid "Unknown Error: '%s' (%s)"
+msgstr ""
+
+msgid "Update Notifier"
+msgstr ""
+
+msgid "Upgrade volume detected"
+msgstr ""
+
+msgid ""
+"Your current network has a .local domain, which is not recommended and "
+"incompatible with the Avahi network service discovery. The service has been "
+"disabled."
+msgstr ""
+
+msgid "_Run this action now"
+msgstr ""
+
+msgid "unknown error"
+msgstr ""
+
+msgid "update-notifier"
+msgstr ""

@@ -1,0 +1,147 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-share\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-04-07 07:03+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Simplified Chinese <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:47+0000\n"
+
+msgid "  - execute permission by others\n"
+msgstr ""
+
+msgid "  - read permission by others\n"
+msgstr ""
+
+msgid "  - write permission by others\n"
+msgstr ""
+
+msgid "%s %s %s failed for an unknown reason"
+msgstr ""
+
+msgid "%s %s %s returned with signal %d"
+msgstr ""
+
+msgid "'net usershare' returned error %d"
+msgstr ""
+
+msgid "'net usershare' returned error %d: %s"
+msgstr ""
+
+msgid "<big><b>Folder Sharing</b></big>"
+msgstr ""
+
+msgid "Add the permissions automatically"
+msgstr ""
+
+msgid "Another share has the same name"
+msgstr ""
+
+msgid ""
+"Cannot change the path of an existing share; please remove the old share "
+"first and add a new one"
+msgstr ""
+
+msgid "Cannot remove the share for path %s: that path is not shared"
+msgstr ""
+
+msgid "Co_mment:"
+msgstr ""
+
+msgid "Could not change the permissions of folder \"%s\""
+msgstr ""
+
+msgid "Create _Share"
+msgstr ""
+
+msgid "Error while getting share information: %s"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Folder Sharing"
+msgstr ""
+
+msgid "Install service"
+msgstr ""
+
+msgid "Local Network Share"
+msgstr ""
+
+msgid "Modify _Share"
+msgstr ""
+
+msgid ""
+"Nautilus needs to add some permissions to your folder \"%s\" in order to "
+"share it"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Samba's testparm failed for an unknown reason"
+msgstr ""
+
+msgid "Samba's testparm returned error %d"
+msgstr ""
+
+msgid "Samba's testparm returned error %d: %s"
+msgstr ""
+
+msgid "Samba's testparm returned with signal %d"
+msgstr ""
+
+msgid "Share _name:"
+msgstr ""
+
+msgid "Share name is too long"
+msgstr ""
+
+msgid "Share this Folder"
+msgstr ""
+
+msgid "Share this _folder"
+msgstr ""
+
+msgid "Sharing service installation failed"
+msgstr ""
+
+msgid ""
+"Sharing service installation has failed. Would you like to retry the "
+"installation?"
+msgstr ""
+
+msgid "Sharing service is not installed"
+msgstr ""
+
+msgid ""
+"The folder \"%s\" needs the following extra permissions for sharing to work:\n"
+"%s%s%sDo you want Nautilus to add these permissions to the folder automatically?"
+msgstr ""
+
+msgid "The share name cannot be empty"
+msgstr ""
+
+msgid "There was an error while getting the sharing information"
+msgstr ""
+
+msgid ""
+"You need to install the Windows networks sharing service in order to share "
+"your folders."
+msgstr ""
+
+msgid "_Allow others to create and delete files in this folder"
+msgstr ""
+
+msgid "_Guest access (for people without a user account)"
+msgstr ""
+
+msgid "the output of 'net usershare' is not in valid UTF-8 encoding"
+msgstr ""

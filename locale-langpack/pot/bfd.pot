@@ -1,0 +1,604 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bfd 2.12.91\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-19 13:11+0000\n"
+"Last-Translator: Wang Li <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:36+0000\n"
+
+msgid "\tExport Address Table \t\t"
+msgstr ""
+
+msgid "\tName Pointer Table \t\t"
+msgstr ""
+
+msgid ""
+"\n"
+"\tDLL Name: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"      End+1 symbol: %-7ld   Type:  %s"
+msgstr ""
+
+msgid ""
+"\n"
+"      End+1 symbol: %ld"
+msgstr ""
+
+msgid ""
+"\n"
+"      First symbol: %ld"
+msgstr ""
+
+msgid ""
+"\n"
+"      Local symbol: %ld"
+msgstr ""
+
+msgid ""
+"\n"
+"      Type: %s"
+msgstr ""
+
+msgid ""
+"\n"
+"      enum; End+1 symbol: %ld"
+msgstr ""
+
+msgid ""
+"\n"
+"      struct; End+1 symbol: %ld"
+msgstr ""
+
+msgid ""
+"\n"
+"      union; End+1 symbol: %ld"
+msgstr ""
+
+msgid ""
+"\n"
+"Dynamic Section:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Partition[%d] start  = { 0x%.2x, 0x%.2x, 0x%.2x, 0x%.2x }\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Program Header:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"There is an export table in %s at 0x%lx\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Version References:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Version definitions:\n"
+msgstr ""
+
+msgid " <EABI version unrecognised>"
+msgstr ""
+
+msgid " [FPA float format]"
+msgstr ""
+
+msgid " [VFP float format]"
+msgstr ""
+
+msgid " [Version1 EABI]"
+msgstr ""
+
+msgid " [Version2 EABI]"
+msgstr ""
+
+msgid " [abi unknown]"
+msgstr ""
+
+msgid " [abi=64]"
+msgstr ""
+
+msgid " [abi=EABI32]"
+msgstr ""
+
+msgid " [abi=EABI64]"
+msgstr ""
+
+msgid " [abi=N32]"
+msgstr ""
+
+msgid " [abi=O32]"
+msgstr ""
+
+msgid " [abi=O64]"
+msgstr ""
+
+msgid " [absolute position]"
+msgstr ""
+
+msgid " [dynamic symbols use segment index]"
+msgstr ""
+
+msgid " [floats passed in float registers]"
+msgstr ""
+
+msgid " [floats passed in integer registers]"
+msgstr ""
+
+msgid " [has entry point]"
+msgstr ""
+
+msgid " [interworking enabled]"
+msgstr ""
+
+msgid " [interworking flag not initialised]"
+msgstr ""
+
+msgid " [interworking not supported]"
+msgstr ""
+
+msgid " [interworking supported]"
+msgstr ""
+
+msgid " [new ABI]"
+msgstr ""
+
+msgid " [not 32bitmode]"
+msgstr ""
+
+msgid " [old ABI]"
+msgstr ""
+
+msgid " [position independent]"
+msgstr ""
+
+msgid " [relocatable executable]"
+msgstr ""
+
+msgid " [software FP]"
+msgstr ""
+
+msgid " [sorted symbol table]"
+msgstr ""
+
+msgid " [symbols have a _ prefix]"
+msgstr ""
+
+msgid " [unknown ISA]"
+msgstr ""
+
+msgid " [unsorted symbol table]"
+msgstr ""
+
+msgid "#<Invalid error code>"
+msgstr ""
+
+msgid "%s: %s: reloc overflow: 0x%lx > 0xffff"
+msgstr ""
+
+msgid ""
+"%s: Error: multiple definition of `%s'; start of %s is set in a earlier "
+"linked file\n"
+msgstr ""
+
+msgid "%s: GAS error: unexpected PTB insn with R_SH_PT_16"
+msgstr ""
+
+msgid "%s: Invalid relocation type exported: %d"
+msgstr ""
+
+msgid ""
+"%s: LOCAL directive: Register $%ld is not a local register.  First global "
+"register is $%ld."
+msgstr ""
+
+msgid "%s: can not represent section `%s' in a.out object file format"
+msgstr ""
+
+msgid ""
+"%s: can not represent section for symbol `%s' in a.out object file format"
+msgstr ""
+
+msgid "%s: compiled as 32-bit object and %s is 64-bit"
+msgstr ""
+
+msgid "%s: compiled as 64-bit object and %s is 32-bit"
+msgstr ""
+
+msgid "%s: compiled with %s and linked with modules compiled with %s"
+msgstr ""
+
+msgid "%s: could not write out added .cranges entries"
+msgstr ""
+
+msgid "%s: could not write out sorted .cranges entries"
+msgstr ""
+
+msgid "%s: directive LOCAL valid only with a register or absolute value"
+msgstr ""
+
+msgid "%s: encountered datalabel symbol in input"
+msgstr ""
+
+msgid "%s: illegal section name `%s'"
+msgstr ""
+
+msgid "%s: line number overflow: 0x%lx > 0xffff"
+msgstr ""
+
+msgid "%s: not implemented"
+msgstr ""
+
+msgid "%s: not supported"
+msgstr ""
+
+msgid "%s: object size does not match that of target %s"
+msgstr ""
+
+msgid "%s: string too long (%d chars, max 65535)"
+msgstr ""
+
+msgid "%s: unknown relocation type %d"
+msgstr ""
+
+msgid "%s: unrecognized symbol `%s' flags 0x%x"
+msgstr ""
+
+msgid "%s: unsupported relocation type 0x%02x"
+msgstr ""
+
+msgid "%s: version count (%ld) does not match symbol count (%ld)"
+msgstr ""
+
+msgid "%s: warning: %s: line number overflow: 0x%lx > 0xffff"
+msgstr ""
+
+msgid "%s: warning: illegal symbol index %ld in relocs"
+msgstr ""
+
+msgid "*unknown*"
+msgstr ""
+
+msgid ".got section not immediately after .plt section"
+msgstr ""
+
+msgid ": m32r instructions"
+msgstr ""
+
+msgid ": m32rx instructions"
+msgstr ""
+
+msgid "<Unrecognised flag bits set>"
+msgstr ""
+
+msgid "<unknown>"
+msgstr ""
+
+msgid "Archive has no index; run ranlib to add one"
+msgstr ""
+
+msgid "Archive object file in wrong format"
+msgstr ""
+
+msgid "BFD %s assertion fail %s:%d"
+msgstr ""
+
+msgid "BFD %s internal error, aborting at %s line %d\n"
+msgstr ""
+
+msgid "BFD %s internal error, aborting at %s line %d in %s\n"
+msgstr ""
+
+msgid "Bad value"
+msgstr ""
+
+msgid "Debug Directory"
+msgstr ""
+
+msgid "Delay Import Directory"
+msgstr ""
+
+msgid "Description Directory"
+msgstr ""
+
+msgid "Dwarf Error: Bad abbrev number: %u."
+msgstr ""
+
+msgid "Dwarf Error: Invalid or unhandled FORM value: %u."
+msgstr ""
+
+msgid "Entry offset        = 0x%.8lx (%ld)\n"
+msgstr ""
+
+msgid "Export Directory [.edata (or where ever we found it)]"
+msgstr ""
+
+msgid "Export Flags \t\t\t%lx\n"
+msgstr ""
+
+msgid "Export RVA"
+msgstr ""
+
+msgid "File format is ambiguous"
+msgstr ""
+
+msgid "File format not recognized"
+msgstr ""
+
+msgid "File in wrong format"
+msgstr ""
+
+msgid "File too big"
+msgstr ""
+
+msgid "File truncated"
+msgstr ""
+
+msgid "Flag field          = 0x%.2x\n"
+msgstr ""
+
+msgid "GP relative relocation used when GP not defined"
+msgstr ""
+
+msgid "GPDISP relocation did not find ldah and lda instructions"
+msgstr ""
+
+msgid "Import Address Table Directory"
+msgstr ""
+
+msgid "Import Directory [parts of .idata]"
+msgstr ""
+
+msgid ""
+"Internal inconsistency: remaining %u != max %u.\n"
+"  Please report this bug."
+msgstr ""
+
+msgid "Invalid bfd target"
+msgstr ""
+
+msgid "Invalid operation"
+msgstr ""
+
+msgid "Length              = 0x%.8lx (%ld)\n"
+msgstr ""
+
+msgid "Load Configuration Directory"
+msgstr ""
+
+msgid "Malformed archive"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr ""
+
+msgid "Name \t\t\t\t"
+msgstr ""
+
+msgid "No error"
+msgstr ""
+
+msgid "No more archived files"
+msgstr ""
+
+msgid "No symbols"
+msgstr ""
+
+msgid "Nonrepresentable section on output"
+msgstr ""
+
+msgid "Not enough memory to sort relocations"
+msgstr ""
+
+msgid "Output file requires shared library `%s'\n"
+msgstr ""
+
+msgid "Output file requires shared library `%s.so.%s'\n"
+msgstr ""
+
+msgid "PTA mismatch: a SHcompact address (bit 0 == 0)"
+msgstr ""
+
+msgid "PTB mismatch: a SHmedia address (bit 0 == 1)"
+msgstr ""
+
+msgid "Partition name      = \"%s\"\n"
+msgstr ""
+
+msgid "Partition[%d] end    = { 0x%.2x, 0x%.2x, 0x%.2x, 0x%.2x }\n"
+msgstr ""
+
+msgid "Partition[%d] length = 0x%.8lx (%ld)\n"
+msgstr ""
+
+msgid "Partition[%d] sector = 0x%.8lx (%ld)\n"
+msgstr ""
+
+msgid "Please report this bug.\n"
+msgstr ""
+
+msgid "Reading archive file mod timestamp"
+msgstr ""
+
+msgid "Register section has contents\n"
+msgstr ""
+
+msgid "Reserved"
+msgstr ""
+
+msgid "Resource Directory [.rsrc]"
+msgstr ""
+
+msgid "SDA relocation when _SDA_BASE_ not defined"
+msgstr ""
+
+msgid "Section has no contents"
+msgstr ""
+
+msgid "Security Directory"
+msgstr ""
+
+msgid "Special Directory"
+msgstr ""
+
+msgid "Symbol needs debug section which does not exist"
+msgstr ""
+
+msgid "System call error"
+msgstr ""
+
+msgid "Table Addresses\n"
+msgstr ""
+
+msgid "Thread Storage Directory [.tls]"
+msgstr ""
+
+msgid "Time/Date stamp \t\t%lx\n"
+msgstr ""
+
+msgid "Unhandled relocation %s"
+msgstr ""
+
+msgid "Unknown basic type %d"
+msgstr ""
+
+msgid "Unrecognized TI COFF target id '0x%x'"
+msgstr ""
+
+msgid "Unrecognized reloc"
+msgstr ""
+
+msgid "Unrecognized reloc type 0x%x"
+msgstr ""
+
+msgid "Unsupported .stab relocation"
+msgstr ""
+
+msgid ""
+"Variable `%s' can only be in one of the small, zero, and tiny data regions"
+msgstr ""
+
+msgid ""
+"Variable `%s' cannot be in both small and tiny data regions simultaneously"
+msgstr ""
+
+msgid ""
+"Variable `%s' cannot be in both small and zero data regions simultaneously"
+msgstr ""
+
+msgid ""
+"Variable `%s' cannot be in both zero and tiny data regions simultaneously"
+msgstr ""
+
+msgid "Variable `%s' cannot occupy in multiple small data regions"
+msgstr ""
+
+msgid "Warning: Writing section `%s' to huge (ie negative) file offset 0x%lx."
+msgstr ""
+
+msgid "Warning: writing archive was slow: rewriting timestamp\n"
+msgstr ""
+
+msgid "Writing updated armap timestamp"
+msgstr ""
+
+msgid "bad section index in %s"
+msgstr ""
+
+msgid "could not locate special linker symbol __ctbp"
+msgstr ""
+
+msgid "could not locate special linker symbol __ep"
+msgstr ""
+
+msgid "could not locate special linker symbol __gp"
+msgstr ""
+
+msgid "error: undefined symbol __rtinit"
+msgstr ""
+
+msgid "ignoring reloc %s\n"
+msgstr ""
+
+msgid "internal error: dangerous error"
+msgstr ""
+
+msgid "internal error: dangerous relocation"
+msgstr ""
+
+msgid "internal error: out of range error"
+msgstr ""
+
+msgid "internal error: unknown error"
+msgstr ""
+
+msgid "internal error: unsupported relocation error"
+msgstr ""
+
+msgid "not enough GOT space for local GOT entries"
+msgstr ""
+
+msgid "private flags = %lx"
+msgstr ""
+
+msgid "private flags = %lx:"
+msgstr ""
+
+msgid "private flags = %lx: "
+msgstr ""
+
+msgid "private flags = %x:"
+msgstr ""
+
+msgid "private flags = 0x%lx:"
+msgstr ""
+
+msgid "static procedure (no name)"
+msgstr ""
+
+msgid "uncertain calling convention for non-COFF symbol"
+msgstr ""
+
+msgid "unsupported STA cmd %s"
+msgstr ""
+
+msgid "unsupported reloc"
+msgstr ""
+
+msgid "unsupported reloc type"
+msgstr ""
+
+msgid "using multiple gp values"
+msgstr ""
+
+msgid "v850 architecture"
+msgstr ""
+
+msgid "v850e architecture"
+msgstr ""
+
+msgid "warning: %s section has zero size"
+msgstr ""
+
+msgid "warning: attempt to export undefined symbol `%s'"
+msgstr ""
+
+msgid "warning: type and size of dynamic symbol `%s' are not defined"
+msgstr ""

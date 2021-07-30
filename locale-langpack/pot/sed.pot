@@ -1,0 +1,488 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sed 4.4.104\n"
+"Report-Msgid-Bugs-To: bug-gnu-utils@gnu.org\n"
+"PO-Revision-Date: 2019-02-22 17:25+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:48+0000\n"
+
+msgid ""
+"\n"
+"If no -e, --expression, -f, or --file option is given, then the first\n"
+"non-option argument is taken as the sed script to interpret.  All\n"
+"remaining arguments are names of input files; if no input files are\n"
+"specified, then the standard input is read.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"License GPLv3+: GNU GPL version 3 or later <https://gnu.org/licenses/gpl.html>.\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to: %s\n"
+msgstr ""
+
+msgid "      --help     display this help and exit\n"
+msgstr ""
+
+msgid ""
+"      --sandbox\n"
+"                 operate in sandbox mode (disable e/r/w commands).\n"
+msgstr ""
+
+msgid "      --version  output version information and exit\n"
+msgstr ""
+
+msgid ""
+"  --follow-symlinks\n"
+"                 follow symlinks when processing in place\n"
+msgstr ""
+
+msgid ""
+"  --posix\n"
+"                 disable all GNU extensions.\n"
+msgstr ""
+
+msgid ""
+"  -E, -r, --regexp-extended\n"
+"                 use extended regular expressions in the script\n"
+"                 (for portability use POSIX -E).\n"
+msgstr ""
+
+msgid ""
+"  -b, --binary\n"
+"                 open files in binary mode (CR+LFs are not processed specially)\n"
+msgstr ""
+
+msgid ""
+"  -e script, --expression=script\n"
+"                 add the script to the commands to be executed\n"
+msgstr ""
+
+msgid ""
+"  -f script-file, --file=script-file\n"
+"                 add the contents of script-file to the commands to be executed\n"
+msgstr ""
+
+msgid ""
+"  -i[SUFFIX], --in-place[=SUFFIX]\n"
+"                 edit files in place (makes backup if SUFFIX supplied)\n"
+msgstr ""
+
+msgid ""
+"  -l N, --line-length=N\n"
+"                 specify the desired line-wrap length for the `l' command\n"
+msgstr ""
+
+msgid ""
+"  -n, --quiet, --silent\n"
+"                 suppress automatic printing of pattern space\n"
+msgstr ""
+
+msgid ""
+"  -s, --separate\n"
+"                 consider files as separate rather than as a single,\n"
+"                 continuous long stream.\n"
+msgstr ""
+
+msgid ""
+"  -u, --unbuffered\n"
+"                 load minimal amounts of data from the input files and flush\n"
+"                 the output buffers more often\n"
+msgstr ""
+
+msgid ""
+"  -z, --null-data\n"
+"                 separate lines by NUL characters\n"
+msgstr ""
+
+msgid "\":\" lacks a label"
+msgstr ""
+
+msgid "%s home page: <%s>\n"
+msgstr ""
+
+msgid "%s home page: <https://www.gnu.org/software/%s/>\n"
+msgstr ""
+
+msgid "%s: -e expression #%lu, char %lu: %s\n"
+msgstr ""
+
+msgid "%s: can't read %s: %s\n"
+msgstr ""
+
+msgid "%s: file %s line %lu: %s\n"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: option '%s%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s%s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '%s%s' is ambiguous; possibilities:"
+msgstr ""
+
+msgid "%s: option '%s%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '%s%s'\n"
+msgstr ""
+
+msgid "%s: warning: failed to get security context of %s: %s"
+msgstr ""
+
+msgid "%s: warning: failed to set default file creation context to %s: %s"
+msgstr ""
+
+msgid "'"
+msgstr ""
+
+msgid "(C)"
+msgstr ""
+
+msgid ": doesn't want any addresses"
+msgstr ""
+
+msgid "E-mail bug reports to: <%s>.\n"
+msgstr ""
+
+msgid ""
+"GNU sed home page: <https://www.gnu.org/software/sed/>.\n"
+"General help using GNU software: <https://www.gnu.org/gethelp/>.\n"
+msgstr ""
+
+msgid "General help using GNU software: <https://www.gnu.org/gethelp/>\n"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr ""
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr ""
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr ""
+
+msgid "Jay Fenlason"
+msgstr ""
+
+msgid "Ken Pizzini"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr ""
+
+msgid "No match"
+msgstr ""
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "Packaged by %s\n"
+msgstr ""
+
+msgid "Packaged by %s (%s)\n"
+msgstr ""
+
+msgid "Paolo Bonzini"
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Report %s bugs to: %s\n"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Tom Lord"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr ""
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [, [^, [:, [., or [="
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... {script-only-if-no-other-script} [input-file]...\n"
+"\n"
+msgstr ""
+
+msgid "Written by %s and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, %s, and others.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, %s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"%s, and %s.\n"
+msgstr ""
+
+msgid ""
+"Written by %s, %s, %s,\n"
+"and %s.\n"
+msgstr ""
+
+msgid "Written by %s, %s, and %s.\n"
+msgstr ""
+
+msgid "Written by %s.\n"
+msgstr ""
+
+msgid "`"
+msgstr ""
+
+msgid "`e' command not supported"
+msgstr ""
+
+msgid "`}' doesn't want any addresses"
+msgstr ""
+
+msgid "can't find label for jump to `%s'"
+msgstr ""
+
+msgid "cannot remove %s: %s"
+msgstr ""
+
+msgid "cannot rename %s: %s"
+msgstr ""
+
+msgid "cannot stat %s: %s"
+msgstr ""
+
+msgid "case conversion produced an invalid character"
+msgstr ""
+
+msgid "character class syntax is [[:space:]], not [:space:]"
+msgstr ""
+
+msgid "command only uses one address"
+msgstr ""
+
+msgid "comments don't accept any addresses"
+msgstr ""
+
+msgid "couldn't attach to %s: %s"
+msgstr ""
+
+msgid "couldn't edit %s: is a terminal"
+msgstr ""
+
+msgid "couldn't edit %s: not a regular file"
+msgstr ""
+
+msgid "couldn't follow symlink %s: %s"
+msgstr ""
+
+msgid "couldn't open file %s: %s"
+msgstr ""
+
+msgid "couldn't open temporary file %s: %s"
+msgstr ""
+
+msgid "couldn't write %llu item to %s: %s"
+msgid_plural "couldn't write %llu items to %s: %s"
+msgstr[0] ""
+
+msgid "delimiter character is not a single-byte character"
+msgstr ""
+
+msgid "error in subprocess"
+msgstr ""
+
+msgid "expected \\ after `a', `c' or `i'"
+msgstr ""
+
+msgid "expected newer version of sed"
+msgstr ""
+
+msgid "extra characters after command"
+msgstr ""
+
+msgid "incomplete command"
+msgstr ""
+
+msgid "invalid character class"
+msgstr ""
+
+msgid "invalid content of \\{\\}"
+msgstr ""
+
+msgid "invalid reference \\%d on `s' command's RHS"
+msgstr ""
+
+msgid "invalid usage of +N or ~N as first address"
+msgstr ""
+
+msgid "invalid usage of line address 0"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr ""
+
+msgid "missing command"
+msgstr ""
+
+msgid "multiple `!'s"
+msgstr ""
+
+msgid "multiple `g' options to `s' command"
+msgstr ""
+
+msgid "multiple `p' options to `s' command"
+msgstr ""
+
+msgid "multiple number options to `s' command"
+msgstr ""
+
+msgid "no input files"
+msgstr ""
+
+msgid "no previous regular expression"
+msgstr ""
+
+msgid "no syntax specified"
+msgstr ""
+
+msgid "number option to `s' command may not be zero"
+msgstr ""
+
+msgid "option `e' not supported"
+msgstr ""
+
+msgid "preserving permissions for %s"
+msgstr ""
+
+msgid "read error on %s: %s"
+msgstr ""
+
+msgid "recursive escaping after \\c not allowed"
+msgstr ""
+
+msgid "regex input buffer length larger than INT_MAX"
+msgstr ""
+
+msgid "regular expression too big"
+msgstr ""
+
+msgid "setting permissions for %s"
+msgstr ""
+
+msgid "strings for `y' command are different lengths"
+msgstr ""
+
+msgid "unbalanced ("
+msgstr ""
+
+msgid "unbalanced )"
+msgstr ""
+
+msgid "unbalanced ["
+msgstr ""
+
+msgid "unexpected `,'"
+msgstr ""
+
+msgid "unexpected `}'"
+msgstr ""
+
+msgid "unfinished \\ escape"
+msgstr ""
+
+msgid "unknown command: `%c'"
+msgstr ""
+
+msgid "unknown option to `s'"
+msgstr ""
+
+msgid "unmatched `{'"
+msgstr ""
+
+msgid "unterminated `s' command"
+msgstr ""
+
+msgid "unterminated `y' command"
+msgstr ""
+
+msgid "unterminated address regex"
+msgstr ""
+
+msgid "write error"
+msgstr ""

@@ -1,0 +1,2341 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: epiphany master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=epiphany&keywords=I18N+L10N&component=I18N\n"
+"PO-Revision-Date: 2018-10-11 10:21+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:59+0000\n"
+
+msgid "%a %I∶%M %p"
+msgstr ""
+
+msgid "%b %d %I∶%M %p"
+msgstr ""
+
+msgid "%b %d %Y"
+msgstr ""
+
+msgid "%d day left"
+msgid_plural "%d days left"
+msgstr[0] ""
+
+msgid "%d hour left"
+msgid_plural "%d hours left"
+msgstr[0] ""
+
+msgid "%d minute left"
+msgid_plural "%d minutes left"
+msgstr[0] ""
+
+msgid "%d month left"
+msgid_plural "%d months left"
+msgstr[0] ""
+
+msgid "%d second left"
+msgid_plural "%d seconds left"
+msgstr[0] ""
+
+msgid "%d week left"
+msgid_plural "%d weeks left"
+msgstr[0] ""
+
+msgid ""
+"%s has no security. An attacker could see any information you send, or "
+"control the content that you see."
+msgstr ""
+
+msgid ""
+"%s may contain harmful programs. Attackers might attempt to trick you into "
+"installing programs that harm your browsing experience (for example, by "
+"changing your homepage or showing extra ads on sites you visit)."
+msgstr ""
+
+msgid "%s’s GNOME Web on %s"
+msgstr ""
+
+msgid "A form you modified has not been submitted."
+msgstr ""
+
+msgid "A simple, clean, beautiful view of the web"
+msgstr ""
+
+msgid ""
+"A simple, clean, beautiful view of the web.\n"
+"Powered by WebKitGTK+ %d.%d.%d"
+msgstr ""
+
+msgid ""
+"A value to be used to override monospace desktop font when use-gnome-fonts "
+"is set."
+msgstr ""
+
+msgid ""
+"A value to be used to override sans-serif desktop font when use-gnome-fonts "
+"is set."
+msgstr ""
+
+msgid ""
+"A value to be used to override serif desktop font when use-gnome-fonts is "
+"set."
+msgstr ""
+
+msgid ""
+"A web application named “%s” already exists. Do you want to replace it?"
+msgstr ""
+
+msgid "About Web"
+msgstr ""
+
+msgid "Accept Risk and Proceed"
+msgstr ""
+
+msgid "Add Boo_kmark…"
+msgstr ""
+
+msgid "Add Language"
+msgstr ""
+
+msgid "Add Tag…"
+msgstr ""
+
+msgid "Add a bookmark"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address of the user’s home page."
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "All supported types"
+msgstr ""
+
+msgid "Allow"
+msgstr ""
+
+msgid "Allow popups"
+msgstr ""
+
+msgid ""
+"Allow sites to open new windows using JavaScript (if JavaScript is enabled)."
+msgstr ""
+
+msgid ""
+"An application with the same name already exists. Replacing it will "
+"overwrite it."
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Arabic (ISO-_8859-6)"
+msgstr ""
+
+msgid "Arabic (_IBM-864)"
+msgstr ""
+
+msgid "Arabic (_MacArabic)"
+msgstr ""
+
+msgid "Arabic (_Windows-1256)"
+msgstr ""
+
+msgid ""
+"Attackers on %s may trick you into doing something dangerous like installing"
+" software or revealing your personal information (for example, passwords, "
+"phone numbers, or credit cards)."
+msgstr ""
+
+msgid "Baltic (I_SO-8859-4)"
+msgstr ""
+
+msgid "Baltic (_ISO-8859-13)"
+msgstr ""
+
+msgid "Baltic (_Windows-1257)"
+msgstr ""
+
+msgid "Bang"
+msgstr ""
+
+msgid ""
+"Below are the synced open tabs of your other devices that use Firefox Sync "
+"with this account. Open a tab by double clicking its name (tabs under Local "
+"Tabs cannot be opened)."
+msgstr ""
+
+msgid "Blank page"
+msgstr ""
+
+msgid "Block popup _windows"
+msgstr ""
+
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmark Properties"
+msgstr ""
+
+msgid "Bookmark some webpages to view them here."
+msgstr ""
+
+msgid "Bookmarks successfully exported!"
+msgstr ""
+
+msgid "Bookmarks successfully imported!"
+msgstr ""
+
+msgid "Bookmarks sync timestamp"
+msgstr ""
+
+msgid "Browse the web"
+msgstr ""
+
+msgid "Browse with caret"
+msgstr ""
+
+msgid "C_lear"
+msgstr ""
+
+msgid "C_lear All"
+msgstr ""
+
+msgid "C_opy Username"
+msgstr ""
+
+msgid "C_reate"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancelling…"
+msgstr ""
+
+msgid "Central European (I_SO-8859-2)"
+msgstr ""
+
+msgid "Central European (_IBM-852)"
+msgstr ""
+
+msgid "Central European (_MacCE)"
+msgstr ""
+
+msgid "Central European (_Windows-1250)"
+msgstr ""
+
+msgid "Ch_oose File"
+msgstr ""
+
+msgid "Ch_oose File…"
+msgstr ""
+
+msgid "Chinese Simplified (GB_K)"
+msgstr ""
+
+msgid "Chinese Simplified (G_B2312)"
+msgstr ""
+
+msgid "Chinese Simplified (_GB18030)"
+msgstr ""
+
+msgid "Chinese Simplified (_HZ)"
+msgstr ""
+
+msgid "Chinese Simplified (_ISO-2022-CN)"
+msgstr ""
+
+msgid "Chinese Traditional (Big5-HK_SCS)"
+msgstr ""
+
+msgid "Chinese Traditional (Big_5)"
+msgstr ""
+
+msgid "Chinese Traditional (_EUC-TW)"
+msgstr ""
+
+msgid "Choose File"
+msgstr ""
+
+msgid "Choose a l_anguage:"
+msgstr ""
+
+msgid "Cl_ear"
+msgstr ""
+
+msgid "Clear Personal Data"
+msgstr ""
+
+msgid "Clear browsing history?"
+msgstr ""
+
+msgid "Clear selected personal data _from:"
+msgstr ""
+
+msgid ""
+"Clearing the browsing history will cause all history links to be permanently"
+" deleted."
+msgstr ""
+
+msgid "Close tab"
+msgstr ""
+
+msgid "Collections"
+msgstr ""
+
+msgid "Contact us at:"
+msgstr ""
+
+msgid "Contributors:"
+msgstr ""
+
+msgid ""
+"Controls when the tabs bar is shown. Possible values are “always” (the tabs "
+"bar is always shown), “more-than-one” (the tabs bar is only shown if there’s"
+" two or more tabs) and “never” (the tabs bar is never shown)."
+msgstr ""
+
+msgid ""
+"Controls where the tabs bar is shown. Possible values are “top” (the "
+"default), “bottom”, “left” (vertical tabs with bar on the left) and “right” "
+"(vertical tabs with bar on the right)."
+msgstr ""
+
+msgid "Cookie accept"
+msgstr ""
+
+msgid "Cookies"
+msgstr ""
+
+msgid "Copy I_mage Address"
+msgstr ""
+
+msgid "Could not create a temporary directory in “%s”."
+msgstr ""
+
+msgid "Could not display help: %s"
+msgstr ""
+
+msgid "Could not find the sync secrets for the current sync user."
+msgstr ""
+
+msgid "Create Web Application"
+msgstr ""
+
+msgid "Croatian (Mac_Croatian)"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Current maintainers:"
+msgstr ""
+
+msgid "Currently signed in sync user"
+msgstr ""
+
+msgid "Custom monospace font"
+msgstr ""
+
+msgid "Custom sans-serif font"
+msgstr ""
+
+msgid "Custom serif font"
+msgstr ""
+
+msgid "Cyrillic (IS_O-IR-111)"
+msgstr ""
+
+msgid "Cyrillic (I_SO-8859-5)"
+msgstr ""
+
+msgid "Cyrillic (_IBM-855)"
+msgstr ""
+
+msgid "Cyrillic (_KOI8-R)"
+msgstr ""
+
+msgid "Cyrillic (_MacCyrillic)"
+msgstr ""
+
+msgid "Cyrillic (_Windows-1251)"
+msgstr ""
+
+msgid "Cyrillic/Ukrainian (Mac_Ukrainian)"
+msgstr ""
+
+msgid "Cyrillic/Ukrainian (_KOI8-U)"
+msgstr ""
+
+msgid "Cyrillic/_Russian (IBM-866)"
+msgstr ""
+
+msgid ""
+"DEPRECATED: This key is deprecated and ignored. Use "
+"/org/gnome/epiphany/search-engines instead."
+msgstr ""
+
+msgid ""
+"DEPRECATED: This key is deprecated and ignored. Use "
+"/org/gnome/epiphany/sync/ instead."
+msgstr ""
+
+msgid ""
+"DEPRECATED: This key is deprecated and ignored. Use "
+"/org/gnome/epiphany/web/enable-smooth-scrolling instead."
+msgstr ""
+
+msgid "DIR"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid ""
+"Decision to apply when geolocation permission is requested for this host"
+msgstr ""
+
+msgid ""
+"Decision to apply when microphone permission is requested for this host"
+msgstr ""
+
+msgid ""
+"Decision to apply when notification permission is requested for this host"
+msgstr ""
+
+msgid ""
+"Decision to apply when save password permission is requested for this host"
+msgstr ""
+
+msgid "Decision to apply when webcam permission is requested for this host"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default encoding"
+msgstr ""
+
+msgid ""
+"Default encoding. Accepted values are the ones WebKitGTK+ can understand."
+msgstr ""
+
+msgid "Default search engine."
+msgstr ""
+
+msgid "Default search engines."
+msgstr ""
+
+msgid "Default zoom level for new pages"
+msgstr ""
+
+msgid ""
+"Defines how the session will be restored during startup. Allowed values are "
+"“always” (the previous state of the application is always restored), "
+"“crashed” (the session is only restored if the application crashes) and "
+"“never” (the homepage is always shown)."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete the selected cookies"
+msgstr ""
+
+msgid "Deny"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Device name"
+msgstr ""
+
+msgid "Disable forward and back buttons"
+msgstr ""
+
+msgid "Do Not Track"
+msgstr ""
+
+msgid "Do you want to leave this website?"
+msgstr ""
+
+msgid "Do you want to save your password for “%s”?"
+msgstr ""
+
+msgid "Don’t use an external application to view page source."
+msgstr ""
+
+msgid "Download finished"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Du_plicate"
+msgstr ""
+
+msgid "ESC"
+msgstr ""
+
+msgid "E_xport Bookmarks"
+msgstr ""
+
+msgid "Enable Plugins"
+msgstr ""
+
+msgid "Enable WebAudio"
+msgstr ""
+
+msgid "Enable WebGL"
+msgstr ""
+
+msgid "Enable adblock"
+msgstr ""
+
+msgid "Enable autosearch"
+msgstr ""
+
+msgid "Enable bookmarks sync"
+msgstr ""
+
+msgid "Enable caret browsing mode?"
+msgstr ""
+
+msgid "Enable history sync"
+msgstr ""
+
+msgid "Enable open tabs sync"
+msgstr ""
+
+msgid "Enable passwords sync"
+msgstr ""
+
+msgid ""
+"Enable quirks to make specific websites work better. You might want to "
+"disable this setting if debugging a specific issue."
+msgstr ""
+
+msgid "Enable safe browsing"
+msgstr ""
+
+msgid "Enable site-specific quirks"
+msgstr ""
+
+msgid "Enable smooth scrolling"
+msgstr ""
+
+msgid "Enable spell checking"
+msgstr ""
+
+msgid ""
+"Enables DNT headers and tracking query parameter removal. Note that when "
+"changing this setting from the preferences dialog, the adblock-filters "
+"setting will additionally be updated to add/remove EasyPrivacy filters."
+msgstr ""
+
+msgid "English (_US-ASCII)"
+msgstr ""
+
+msgid "Epiphany Technology Preview"
+msgstr ""
+
+msgid "Error downloading: %s"
+msgstr ""
+
+msgid "Executes only the n-th migration step"
+msgstr ""
+
+msgid "Expand tabs size to fill the available space on the tabs bar."
+msgstr ""
+
+msgid "F11"
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "Failed to create directory “%s”."
+msgstr ""
+
+msgid "Failed to obtain signed certificate."
+msgstr ""
+
+msgid "Failed to obtain storage credentials."
+msgstr ""
+
+msgid "Failed to retrieve crypto keys."
+msgstr ""
+
+msgid "Failed to retrieve the Sync Key"
+msgstr ""
+
+msgid "Failed to upload client record."
+msgstr ""
+
+msgid "Failed to upload crypto/keys record."
+msgstr ""
+
+msgid "Failed to upload device info"
+msgstr ""
+
+msgid "Failed to upload meta/global record."
+msgstr ""
+
+msgid "Failed to verify storage version."
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "File is not a valid Epiphany bookmarks file: missing bookmarks table"
+msgstr ""
+
+msgid "File is not a valid Epiphany bookmarks file: missing tags table"
+msgstr ""
+
+msgid "Filter cookies"
+msgstr ""
+
+msgid "Filter domains"
+msgstr ""
+
+msgid "Filter passwords"
+msgstr ""
+
+msgid "Find next occurrence of the search string"
+msgstr ""
+
+msgid "Find previous occurrence of the search string"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Finished downloading %s"
+msgstr ""
+
+msgid "Firefox"
+msgstr ""
+
+msgid "Firefox Account"
+msgstr ""
+
+msgid "Firefox Sync"
+msgstr ""
+
+msgid "Firefox bookmarks could not be retrieved!"
+msgstr ""
+
+msgid ""
+"Firefox bookmarks database could not be opened. Close Firefox and try again."
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Fonts & Style"
+msgstr ""
+
+msgid "For example, not from advertisers on these sites"
+msgstr ""
+
+msgid ""
+"Force new window requests to be opened in tabs instead of using a new "
+"window."
+msgstr ""
+
+msgid "Force new windows to be opened in tabs"
+msgstr ""
+
+msgid "Forget the selected passwords"
+msgstr ""
+
+msgid "Frequency"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "GNOME Web"
+msgstr ""
+
+msgid "GNOME Web is often referred to by its code name, Epiphany."
+msgstr ""
+
+msgid "GVDB File"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Go back to the previous page"
+msgstr ""
+
+msgid "Go forward to the next page"
+msgstr ""
+
+msgid "Go to your homepage"
+msgstr ""
+
+msgid "Google Safe Browsing API key"
+msgstr ""
+
+msgid "Greek (_ISO-8859-7)"
+msgstr ""
+
+msgid "Greek (_MacGreek)"
+msgstr ""
+
+msgid "Greek (_Windows-1253)"
+msgstr ""
+
+msgid "Gujarati (_MacGujarati)"
+msgstr ""
+
+msgid "Gurmukhi (Mac_Gurmukhi)"
+msgstr ""
+
+msgid "HTTP disk cache"
+msgstr ""
+
+msgid ""
+"Heads-up: this form is not secure. If you type your password, it will not be"
+" kept private."
+msgstr ""
+
+msgid "Hebrew (IS_O-8859-8-I)"
+msgstr ""
+
+msgid "Hebrew (_IBM-862)"
+msgstr ""
+
+msgid "Hebrew (_MacHebrew)"
+msgstr ""
+
+msgid "Hebrew (_Windows-1255)"
+msgstr ""
+
+msgid "Hindi (Mac_Devanagari)"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "History sync timestamp"
+msgstr ""
+
+msgid "Home page"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "I_mport"
+msgstr ""
+
+msgid "I_mport Bookmarks"
+msgstr ""
+
+msgid ""
+"If enabled the tabs will expand to use the entire available space in the "
+"tabs bar."
+msgstr ""
+
+msgid ""
+"If set to “true”, forward and back buttons are disabled, preventing users "
+"from accessing immediate browser history"
+msgstr ""
+
+msgid "If this happens again, please report the problem to the %s developers."
+msgstr ""
+
+msgid "If you quit, the downloads will be cancelled"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Import Bookmarks"
+msgstr ""
+
+msgid "Import bookmarks from the given file"
+msgstr ""
+
+msgid ""
+"Incognito mode hides your activity only from people using this computer."
+msgstr ""
+
+msgid "IndexedDB databases"
+msgstr ""
+
+msgid "Initial sync or normal sync"
+msgstr ""
+
+msgid "Install Site as Web _Application…"
+msgstr ""
+
+msgid "Installed on:"
+msgstr ""
+
+msgid "Is maximized"
+msgstr ""
+
+msgid "It is not possible to modify history when in incognito mode."
+msgstr ""
+
+msgid ""
+"It may be temporarily inaccessible or moved to a new address. You may wish "
+"to verify that your internet connection is working correctly."
+msgstr ""
+
+msgid ""
+"It will not hide your activity from your employer if you are at work. Your "
+"internet service provider, your government, other governments, the websites "
+"that you visit, and advertisers on these websites may still be tracking you."
+msgstr ""
+
+msgid "Japanese (_EUC-JP)"
+msgstr ""
+
+msgid "Japanese (_ISO-2022-JP)"
+msgstr ""
+
+msgid "Japanese (_Shift-JIS)"
+msgstr ""
+
+msgid "Korean (_EUC-KR)"
+msgstr ""
+
+msgid "Korean (_ISO-2022-KR)"
+msgstr ""
+
+msgid "Korean (_JOHAB)"
+msgstr ""
+
+msgid "Korean (_UHC)"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Last sync timestamp"
+msgstr ""
+
+msgid "Last synchronized: %s"
+msgstr ""
+
+msgid "Launch"
+msgstr ""
+
+msgid "List of URLs with filter rules to be used by the adblock."
+msgstr ""
+
+msgid "List of adblock filters"
+msgstr ""
+
+msgid "List of installed web applications"
+msgstr ""
+
+msgid ""
+"List of the default search engines. It is an array in which each search "
+"engine is described by a name, an address, and a bang (shortcut)."
+msgstr ""
+
+msgid "Load the given session file"
+msgstr ""
+
+msgid "Loading “%s”…"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Local Tabs"
+msgstr ""
+
+msgid "Local files"
+msgstr ""
+
+msgid "Local storage data"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Logged in as %s"
+msgstr ""
+
+msgid "Manage Personal _Data"
+msgstr ""
+
+msgid "Manage Search Engines"
+msgstr ""
+
+msgid "Manage _Cookies"
+msgstr ""
+
+msgid "Manage _Passwords"
+msgstr ""
+
+msgid ""
+"Maximum number of web processes created at the same time when using “one-"
+"secondary-process-per-web-view” model"
+msgstr ""
+
+msgid "Memory usage"
+msgstr ""
+
+msgid "Minimum font size"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "Monospace font:"
+msgstr ""
+
+msgid "Most Visited"
+msgstr ""
+
+msgid "Move Tab _Left"
+msgstr ""
+
+msgid "Move Tab _Right"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name of the search engine selected by default."
+msgstr ""
+
+msgid "New Incognito Window"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "New _Incognito Window"
+msgstr ""
+
+msgid "New _tab page"
+msgstr ""
+
+msgid "New address"
+msgstr ""
+
+msgid "New search engine"
+msgstr ""
+
+msgid "No bookmarks yet?"
+msgstr ""
+
+msgid "No data found"
+msgstr ""
+
+msgid "No problems have been detected with your connection."
+msgstr ""
+
+msgid "None specified"
+msgstr ""
+
+msgid "Not No_w"
+msgstr ""
+
+msgid "Offline web application cache"
+msgstr ""
+
+msgid "Only _from sites you visit"
+msgstr ""
+
+msgid "Oops!"
+msgstr ""
+
+msgid "Oops! There may be a problem"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Audio in New _Tab"
+msgstr ""
+
+msgid "Open Audio in New _Window"
+msgstr ""
+
+msgid "Open Link in I_ncognito Window"
+msgstr ""
+
+msgid "Open Link in New _Tab"
+msgstr ""
+
+msgid "Open Link in New _Window"
+msgstr ""
+
+msgid "Open Video in New _Tab"
+msgstr ""
+
+msgid "Open Video in New _Window"
+msgstr ""
+
+msgid "Open _Tabs"
+msgstr ""
+
+msgid "Open a new browser window"
+msgstr ""
+
+msgid "Open a new tab"
+msgstr ""
+
+msgid "Open a new tab in an existing browser window"
+msgstr ""
+
+msgid "Open tabs sync timestamp"
+msgstr ""
+
+msgid "Open the selected pages in new tabs"
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password for %s in a form in %s"
+msgstr ""
+
+msgid "Password in a form in %s"
+msgstr ""
+
+msgid "Passwords"
+msgstr ""
+
+msgid "Passwords sync timestamp"
+msgstr ""
+
+msgid "Past maintainers:"
+msgstr ""
+
+msgid "Paste and _Go"
+msgstr ""
+
+msgid "Personal Data"
+msgstr ""
+
+msgid "Please reload or visit a different page to continue."
+msgstr ""
+
+msgid "Please visit Preferences and sign in again to continue syncing."
+msgstr ""
+
+msgid ""
+"Please visit Preferences and sign in with the new password to continue "
+"syncing."
+msgstr ""
+
+msgid "Plugins data"
+msgstr ""
+
+msgid "Pr_eferences"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid ""
+"Preferred languages. Array of locale codes or “system” to use current "
+"locale."
+msgstr ""
+
+msgid "Press %s to exit fullscreen"
+msgstr ""
+
+msgid ""
+"Pressing F7 turns caret browsing on or off. This feature places a moveable "
+"cursor in web pages, allowing you to move around with your keyboard. Do you "
+"want to enable caret browsing?"
+msgstr ""
+
+msgid "Private Browsing"
+msgstr ""
+
+msgid "Problem Displaying Page"
+msgstr ""
+
+msgid "Problem Loading Page"
+msgstr ""
+
+msgid "Process model"
+msgstr ""
+
+msgid "Profile directory to use in the private instance"
+msgstr ""
+
+msgid "Quit and cancel downloads"
+msgstr ""
+
+msgid "R_omanian (ISO-8859-16)"
+msgstr ""
+
+msgid "Re_do"
+msgstr ""
+
+msgid "Recent encodings"
+msgstr ""
+
+msgid "Related encodings"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Reload the current page"
+msgstr ""
+
+msgid "Remember passwords"
+msgstr ""
+
+msgid "Remove from overview"
+msgstr ""
+
+msgid "Remove the selected pages from history"
+msgstr ""
+
+msgid "Reopen Closed _Tab"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Reveal all the passwords"
+msgstr ""
+
+msgid "S_end Link by Email…"
+msgstr ""
+
+msgid "S_ynced tabs"
+msgstr ""
+
+msgid "Sans serif font:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Image As"
+msgstr ""
+
+msgid "Save Link As"
+msgstr ""
+
+msgid "Save Media As"
+msgstr ""
+
+msgid "Save Pa_ge As…"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search Engines"
+msgstr ""
+
+msgid "Search cookies"
+msgstr ""
+
+msgid "Search domains"
+msgstr ""
+
+msgid "Search history"
+msgstr ""
+
+msgid "Search passwords"
+msgstr ""
+
+msgid "Search the Web"
+msgstr ""
+
+msgid "Search the Web for %s"
+msgstr ""
+
+msgid "Search the Web for “%s”"
+msgstr ""
+
+msgid "Search wrapped back to the top"
+msgstr ""
+
+msgid "Security Violation"
+msgstr ""
+
+msgid "Security Warning"
+msgstr ""
+
+msgid "Select Profile"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select a directory"
+msgstr ""
+
+msgid "Send an email message to “%s”"
+msgstr ""
+
+msgid "Serif font:"
+msgstr ""
+
+msgid "Session"
+msgstr ""
+
+msgid "Set as _Wallpaper"
+msgstr ""
+
+msgid "Show all…"
+msgstr ""
+
+msgid "Sign _out"
+msgstr ""
+
+msgid ""
+"Sign in with your Firefox account to sync your data with Web and Firefox on "
+"other computers. Web is not produced or endorsed by Mozilla."
+msgstr ""
+
+msgid "Site"
+msgstr ""
+
+msgid "Something went wrong while displaying this page."
+msgstr ""
+
+msgid "Something went wrong, please try again later."
+msgstr ""
+
+msgid "South _European (ISO-8859-3)"
+msgstr ""
+
+msgid "Specifies the profile where the migrator should run"
+msgstr ""
+
+msgid "Specifies the required version for the migrator"
+msgstr ""
+
+msgid "Spell Checking"
+msgstr ""
+
+msgid "Spell check any text typed in editable areas."
+msgstr ""
+
+msgid "Start a private instance"
+msgstr ""
+
+msgid "Start an instance in incognito mode"
+msgstr ""
+
+msgid "Start browsing and your most-visited sites will appear here."
+msgstr ""
+
+msgid "Start the browser in application mode"
+msgstr ""
+
+msgid "Starting…"
+msgstr ""
+
+msgid "Stop loading the current page"
+msgstr ""
+
+msgid "Stored Data"
+msgstr ""
+
+msgid ""
+"String that will be used as user agent, to identify the browser to the web "
+"servers."
+msgstr ""
+
+msgid ""
+"String that will be used as user agent, to identify the browser to the web "
+"servers. DEPRECATED: This key is deprecated and ignored. Use "
+"/org/gnome/epiphany/web/user-agent instead."
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "Sync"
+msgstr ""
+
+msgid "Sync Options"
+msgstr ""
+
+msgid "Sync _now"
+msgstr ""
+
+msgid "Sync data with Firefox"
+msgstr ""
+
+msgid "Sync device ID"
+msgstr ""
+
+msgid "Sync device name"
+msgstr ""
+
+msgid "Synced Tabs"
+msgstr ""
+
+msgid "System language (%s)"
+msgid_plural "System languages (%s)"
+msgstr[0] ""
+
+msgid ""
+"TRUE if Ephy collections should be synced with Firefox collections, FALSE "
+"otherwise."
+msgstr ""
+
+msgid ""
+"TRUE if bookmarks collection needs to be synced for the first time, FALSE "
+"otherwise."
+msgstr ""
+
+msgid "TRUE if bookmarks collection should be synced, FALSE otherwise."
+msgstr ""
+
+msgid ""
+"TRUE if history collection needs to be synced for the first time, FALSE "
+"otherwise."
+msgstr ""
+
+msgid "TRUE if history collection should be synced, FALSE otherwise."
+msgstr ""
+
+msgid "TRUE if open tabs collection should be synced, FALSE otherwise."
+msgstr ""
+
+msgid ""
+"TRUE if passwords collection needs to be synced for the first time, FALSE "
+"otherwise."
+msgstr ""
+
+msgid "TRUE if passwords collection should be synced, FALSE otherwise."
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Technical information"
+msgstr ""
+
+msgid "Text Encoding"
+msgstr ""
+
+msgid "Text _Encoding"
+msgstr ""
+
+msgid "Text not found"
+msgstr ""
+
+msgid "Thai (IS_O-8859-11)"
+msgstr ""
+
+msgid "Thai (TIS-_620)"
+msgstr ""
+
+msgid "The API key used to access the Google Safe Browsing API v4."
+msgstr ""
+
+msgid "The GNOME web site displayed in GNOME Web"
+msgstr ""
+
+msgid "The UNIX time at which last sync was made in seconds."
+msgstr ""
+
+msgid "The application “%s” could not be created"
+msgstr ""
+
+msgid "The application “%s” is ready to be used"
+msgstr ""
+
+msgid "The certificate activation time is still in the future"
+msgstr ""
+
+msgid "The certificate contains errors"
+msgstr ""
+
+msgid "The certificate does not match this website"
+msgstr ""
+
+msgid "The certificate has been revoked"
+msgstr ""
+
+msgid "The certificate has expired"
+msgstr ""
+
+msgid "The certificate is signed using a weak signature algorithm"
+msgstr ""
+
+msgid "The downloads folder"
+msgstr ""
+
+msgid ""
+"The email linked to the Firefox Account used to sync data with Mozilla’s "
+"servers."
+msgstr ""
+
+msgid "The file “%s” exists. Please move it out of the way."
+msgstr ""
+
+msgid "The identity of this website has been verified."
+msgstr ""
+
+msgid "The identity of this website has not been verified."
+msgstr ""
+
+msgid "The number of minutes between two consecutive syncs."
+msgstr ""
+
+msgid "The page %s may have caused Web to close unexpectedly."
+msgstr ""
+
+msgid "The page at %s wants to know your location."
+msgstr ""
+
+msgid "The page at %s wants to show desktop notifications."
+msgstr ""
+
+msgid "The page at %s wants to use your microphone."
+msgstr ""
+
+msgid "The page at %s wants to use your webcam."
+msgstr ""
+
+msgid "The password of your Firefox account seems to have been changed."
+msgstr ""
+
+msgid ""
+"The path of the folder where to download files to; or “Downloads” to use the"
+" default downloads folder, or “Desktop” to use the desktop folder."
+msgstr ""
+
+msgid "The position of the tabs bar."
+msgstr ""
+
+msgid ""
+"The position to use for a new window that is not restored from a previous "
+"session."
+msgstr ""
+
+msgid "The precise error was: %s"
+msgstr ""
+
+msgid "The signing certificate authority is not known"
+msgstr ""
+
+msgid "The site at %s seems to be unavailable."
+msgstr ""
+
+msgid ""
+"The size to use for a new window that is not restored from a previous "
+"session."
+msgstr ""
+
+msgid "The sync device ID of the current device."
+msgstr ""
+
+msgid "The sync device name of the current device."
+msgstr ""
+
+msgid "The sync frequency in minutes"
+msgstr ""
+
+msgid "The sync secrets for the current sync user are invalid."
+msgstr ""
+
+msgid "The sync secrets of %s"
+msgstr ""
+
+msgid "The timestamp at which last bookmarks sync was made."
+msgstr ""
+
+msgid "The timestamp at which last history sync was made."
+msgstr ""
+
+msgid "The timestamp at which last open tabs sync was made."
+msgstr ""
+
+msgid "The timestamp at which last passwords sync was made."
+msgstr ""
+
+msgid "The visibility policy for the tabs bar."
+msgstr ""
+
+msgid ""
+"The web browser for GNOME, featuring tight integration with the desktop and "
+"a simple and intuitive user interface that allows you to focus on your web "
+"pages. If you’re looking for a simple, clean, beautiful view of the web, "
+"this is the browser for you."
+msgstr ""
+
+msgid "There are ongoing downloads"
+msgstr ""
+
+msgid "This Connection is Not Secure"
+msgstr ""
+
+msgid ""
+"This certificate is valid. However, resources on this page were sent "
+"insecurely."
+msgstr ""
+
+msgid ""
+"This does not look like the real %s. Attackers might be trying to steal or "
+"alter information going to or from this site."
+msgstr ""
+
+msgid ""
+"This option allows to set the process model used. Use “shared-secondary-"
+"process” to use a single web process shared by all the tabs and “one-"
+"secondary-process-per-web-view” to use a different web process for each tab."
+msgstr ""
+
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to access the user’s location. The “undecided” default means the browser "
+"needs to ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to access the user’s microphone. The “undecided” default means the browser "
+"needs to ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to access the user’s webcam. The “undecided” default means the browser needs"
+" to ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to save passwords. The “undecided” default means the browser needs to ask "
+"the user for permission, while “allow” and “deny” tell it to automatically "
+"make the decision upon request."
+msgstr ""
+
+msgid ""
+"This option is used to save whether a given host has been given permission "
+"to show notifications. The “undecided” default means the browser needs to "
+"ask the user for permission, while “allow” and “deny” tell it to "
+"automatically make the decision upon request."
+msgstr ""
+
+msgid ""
+"This option sets a limit to the number of web processes that will be used at"
+" the same time for the “one-secondary-process-per-web-view” model. The "
+"default value is “0” and means no limit."
+msgstr ""
+
+msgid "This web site did not properly secure your connection."
+msgstr ""
+
+msgid ""
+"This web site’s digital identification is not trusted. You may have "
+"connected to an attacker pretending to be %s."
+msgstr ""
+
+msgid ""
+"This website presented identification that belongs to a different website."
+msgstr ""
+
+msgid ""
+"This website’s identification cannot be trusted because it uses very weak "
+"encryption."
+msgstr ""
+
+msgid ""
+"This website’s identification could not be processed. It may be corrupted."
+msgstr ""
+
+msgid ""
+"This website’s identification has been revoked by the trusted organization "
+"that issued it."
+msgstr ""
+
+msgid ""
+"This website’s identification is only valid for future dates. Check the date"
+" on your computer’s calendar."
+msgstr ""
+
+msgid ""
+"This website’s identification is too old to trust. Check the date on your "
+"computer’s calendar."
+msgstr ""
+
+msgid ""
+"This website’s identification was not issued by a trusted organization."
+msgstr ""
+
+msgid ""
+"To determine the search address, perform a search using the search engine "
+"that you want to add and check the resulting address. Remove the search term"
+" from the resulting address and replace it with %s."
+msgstr ""
+
+msgid "Today %I∶%M %p"
+msgstr ""
+
+msgid "Try to block _advertisements"
+msgstr ""
+
+msgid "Try to block dangerous web_sites"
+msgstr ""
+
+msgid "Try to block web _trackers"
+msgstr ""
+
+msgid "Turkish (I_SO-8859-9)"
+msgstr ""
+
+msgid "Turkish (_IBM-857)"
+msgstr ""
+
+msgid "Turkish (_MacTurkish)"
+msgstr ""
+
+msgid "Turkish (_Windows-1254)"
+msgstr ""
+
+msgid "Type to search…"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "URL Search"
+msgstr ""
+
+msgid "URL …"
+msgstr ""
+
+msgid "Unable to display this website"
+msgstr ""
+
+msgid "Unicode (UTF-1_6 LE)"
+msgstr ""
+
+msgid "Unicode (UTF-3_2 LE)"
+msgstr ""
+
+msgid "Unicode (UTF-_16 BE)"
+msgstr ""
+
+msgid "Unicode (UTF-_32 BE)"
+msgstr ""
+
+msgid "Unicode (UTF-_8)"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown (%s)"
+msgstr ""
+
+msgid "Unsafe website detected!"
+msgstr ""
+
+msgid "Use GNOME font settings."
+msgstr ""
+
+msgid "Use GNOME fonts"
+msgstr ""
+
+msgid "Use a custom CSS"
+msgstr ""
+
+msgid "Use a custom CSS file to modify websites own CSS."
+msgstr ""
+
+msgid "Use custom _stylesheet"
+msgstr ""
+
+msgid "Use the encoding specified by the document"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "User agent"
+msgstr ""
+
+msgid "Version %s"
+msgstr ""
+
+msgid "Vietnamese (V_PS)"
+msgstr ""
+
+msgid "Vietnamese (_TCVN)"
+msgstr ""
+
+msgid "Vietnamese (_VISCII)"
+msgstr ""
+
+msgid "Vietnamese (_Windows-1258)"
+msgstr ""
+
+msgid "View _Image in New Tab"
+msgstr ""
+
+msgid "View and manage your bookmarks"
+msgstr ""
+
+msgid "View downloads"
+msgstr ""
+
+msgid "View open tabs"
+msgstr ""
+
+msgid ""
+"Visiting %s may harm your computer. This page appears to contain malicious "
+"code that could be downloaded to your computer without your consent."
+msgstr ""
+
+msgid "Web"
+msgstr ""
+
+msgid "Web Browser"
+msgstr ""
+
+msgid "Web Content"
+msgstr ""
+
+msgid "Web browser for GNOME"
+msgstr ""
+
+msgid "Web options"
+msgstr ""
+
+msgid "Web pages"
+msgstr ""
+
+msgid "Web profile migrator"
+msgstr ""
+
+msgid "Web profile migrator options"
+msgstr ""
+
+msgid "WebSQL databases"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Welcome to Web"
+msgstr ""
+
+msgid "Western (IS_O-8859-15)"
+msgstr ""
+
+msgid "Western (_IBM-850)"
+msgstr ""
+
+msgid "Western (_ISO-8859-1)"
+msgstr ""
+
+msgid "Western (_MacRoman)"
+msgstr ""
+
+msgid "Western (_Windows-1252)"
+msgstr ""
+
+msgid ""
+"When this option is set to true, tabs will not start loading until the user "
+"switches to them, upon session restore."
+msgstr ""
+
+msgid ""
+"Where to accept cookies from. Possible values are “always”, “no-third-party”"
+" and “never”."
+msgstr ""
+
+msgid ""
+"Whether a new window that is not restored from a previous session should be "
+"initially maximized."
+msgstr ""
+
+msgid "Whether to automatically restore the last session"
+msgstr ""
+
+msgid ""
+"Whether to automatically search the web when something that does not look "
+"like a URL is entered in the address bar. If this setting is disabled, "
+"everything will be loaded as a URL unless a search engine is explicitly "
+"selected from the dropdown menu."
+msgstr ""
+
+msgid ""
+"Whether to block the embedded advertisements that web pages might want to "
+"show."
+msgstr ""
+
+msgid ""
+"Whether to delay loading of tabs that are not immediately visible on session"
+" restore"
+msgstr ""
+
+msgid ""
+"Whether to enable safe browsing. Safe browsing operates via Google Safe "
+"Browsing API v4."
+msgstr ""
+
+msgid "Whether to enable smooth scrolling."
+msgstr ""
+
+msgid "Whether to enable support for WebAudio."
+msgstr ""
+
+msgid "Whether to enable support for WebGL contexts."
+msgstr ""
+
+msgid "Whether to store and prefill passwords in websites."
+msgstr ""
+
+msgid ""
+"Whether to store and prefill passwords in websites. DEPRECATED: This key is "
+"deprecated and ignored. Use /org/gnome/epiphany/web/remember-passwords "
+"instead."
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Yesterday %I∶%M %p"
+msgstr ""
+
+msgid "You are connected to %s"
+msgstr ""
+
+msgid ""
+"You are currently browsing incognito. Pages viewed in this mode will not "
+"show up in your browsing history and all stored information will be cleared "
+"when you close the window. Files you download will be kept."
+msgstr ""
+
+msgid "You can clear stored personal data."
+msgstr ""
+
+msgid ""
+"You can find out more about social engineering (phishing) at %s or from %s."
+msgstr ""
+
+msgid ""
+"You can learn more about harmful web content including viruses and other "
+"malicious code and how to protect your computer at %s."
+msgstr ""
+
+msgid "You can learn more about unwanted software at %s."
+msgstr ""
+
+msgid ""
+"You can select a period of time to clear data for all websites modified in "
+"that period. If you choose from the beginning of time, then you can also "
+"clear data only for particular websites."
+msgstr ""
+
+msgid "You can select different search engines to use."
+msgstr ""
+
+msgid ""
+"You cannot undo this action. The data you are choosing to clear will be "
+"removed forever."
+msgstr ""
+
+msgid ""
+"Your Firefox Account uses storage version %d. Web only supports version %d."
+msgstr ""
+
+msgid "Your connection seems to be secure."
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "Zoom Out"
+msgstr ""
+
+msgid ""
+"[('DuckDuckGo', 'https://duckduckgo.com/?q=%s&t=epiphany', '!ddg'),\n"
+"\t\t\t\t  ('Google', 'https://www.google.com/search?q=%s', '!g'),\n"
+"\t\t\t\t  ('Bing', 'https://www.bing.com/search?q=%s', '!b')]"
+msgstr ""
+
+msgid "_15 min"
+msgstr ""
+
+msgid "_30 min"
+msgstr ""
+
+msgid "_5 min"
+msgstr ""
+
+msgid "_60 min"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Add…"
+msgstr ""
+
+msgid "_Always accept"
+msgstr ""
+
+msgid "_Armenian (ARMSCII-8)"
+msgstr ""
+
+msgid "_Back"
+msgstr ""
+
+msgid "_Blank page"
+msgstr ""
+
+msgid "_Bookmarks"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Celtic (ISO-8859-14)"
+msgstr ""
+
+msgid "_Change"
+msgstr ""
+
+msgid "_Clear All"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copy Audio Address"
+msgstr ""
+
+msgid "_Copy E-mail Address"
+msgstr ""
+
+msgid "_Copy Link Address"
+msgstr ""
+
+msgid "_Copy Location"
+msgstr ""
+
+msgid "_Copy Password"
+msgstr ""
+
+msgid "_Copy Video Address"
+msgstr ""
+
+msgid "_Custom:"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Discard form"
+msgstr ""
+
+msgid "_Down"
+msgstr ""
+
+msgid "_Download folder:"
+msgstr ""
+
+msgid "_Edit Stylesheet"
+msgstr ""
+
+msgid "_Enable"
+msgstr ""
+
+msgid "_Enable spell checking"
+msgstr ""
+
+msgid "_Forward"
+msgstr ""
+
+msgid "_Georgian (GEOSTD8)"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_History"
+msgstr ""
+
+msgid "_Icelandic (MacIcelandic)"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Manage Search Engines"
+msgstr ""
+
+msgid "_Never Save"
+msgstr ""
+
+msgid "_Never accept"
+msgstr ""
+
+msgid "_New Tab"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_Nordic (ISO-8859-10)"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Page Source"
+msgstr ""
+
+msgid "_Passwords"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Persian (MacFarsi)"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remember passwords"
+msgstr ""
+
+msgid "_Remember previous tabs on startup"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Remove Bookmark"
+msgstr ""
+
+msgid "_Romanian (MacRomanian)"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save Audio As…"
+msgstr ""
+
+msgid "_Save Image As…"
+msgstr ""
+
+msgid "_Save Link As…"
+msgstr ""
+
+msgid "_Save Video As…"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Thai (Windows-874)"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "_Up"
+msgstr ""
+
+msgid "_Use system fonts"
+msgstr ""
+
+msgid "_View Certificate…"
+msgstr ""
+
+msgid "_Visual Hebrew (ISO-8859-8)"
+msgstr ""
+
+msgctxt "back-access-key"
+msgid "B"
+msgstr ""
+
+msgid "bookmarks.gvdb"
+msgstr ""
+
+msgid "https://duckduckgo.com/?q=%s&amp;t=epiphany"
+msgstr ""
+
+msgctxt "language"
+msgid "%s (%s)"
+msgstr ""
+
+msgctxt "language"
+msgid "User defined (%s)"
+msgstr ""
+
+msgid "org.gnome.Epiphany"
+msgstr ""
+
+msgctxt "proceed-anyway-access-key"
+msgid "P"
+msgstr ""
+
+msgctxt "reload-access-key"
+msgid "R"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Bookmark current page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close current tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Cut"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Editing"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back to the previous page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go forward to the next page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to homepage"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the next tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the previous tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "History"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Miscellaneous"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move current tab to the left"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move current tab to the right"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "New incognito window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "New tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "New window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Next search result"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Paste"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Preferences"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Previous search result"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Redo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reload current page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reopen closed tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reset zoom"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select page URL"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Stop loading current page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Tabs"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle caret browsing"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle inspector"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "View"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "View page source"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "the beginning of time"
+msgstr ""
+
+msgid "the past day"
+msgstr ""
+
+msgid "the past four weeks"
+msgstr ""
+
+msgid "the past hour"
+msgstr ""
+
+msgid "the past week"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "web;browser;internet;"
+msgstr ""

@@ -1,0 +1,568 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Avahi\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-01-31 16:09+0000\n"
+"Last-Translator: Christopher Meng <i@cicku.me>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/lennart/avahi/language/zh_CN/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:15+0000\n"
+
+msgid ""
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -D --browse-domains  Browse for browsing domains instead of services\n"
+"    -a --all             Show all services, regardless of the type\n"
+"    -d --domain=DOMAIN   The domain to browse in\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -t --terminate       Terminate after dumping a more or less complete list\n"
+"    -c --cache           Terminate after dumping all entries from the cache\n"
+"    -l --ignore-local    Ignore local services\n"
+"    -r --resolve         Resolve services found\n"
+"    -f --no-fail         Don't fail if the daemon is not available\n"
+"    -p --parsable        Output in parsable format\n"
+msgstr ""
+
+msgid ""
+"    -k --no-db-lookup    Don't lookup service types\n"
+"    -b --dump-db         Dump service type database\n"
+msgstr ""
+
+msgid ""
+"%s [options]\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -s --ssh             Browse SSH servers\n"
+"    -v --vnc             Browse VNC servers\n"
+"    -S --shell           Browse both SSH and VNC\n"
+"    -d --domain=DOMAIN   The domain to browse in\n"
+msgstr ""
+
+msgid ""
+"%s [options] %s <host name ...>\n"
+"%s [options] %s <address ... >\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -n --name            Resolve host name\n"
+"    -a --address         Resolve address\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -6                   Lookup IPv6 address\n"
+"    -4                   Lookup IPv4 address\n"
+msgstr ""
+
+msgid ""
+"%s [options] %s <name> <type> <port> [<txt ...>]\n"
+"%s [options] %s <host-name> <address>\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -s --service         Publish service\n"
+"    -a --address         Publish address\n"
+"    -v --verbose         Enable verbose mode\n"
+"    -d --domain=DOMAIN   Domain to publish service in\n"
+"    -H --host=DOMAIN     Host where service resides\n"
+"       --subtype=SUBTYPE An additional subtype to register this service with\n"
+"    -R --no-reverse      Do not publish reverse entry with address\n"
+"    -f --no-fail         Don't fail if the daemon is not available\n"
+msgstr ""
+
+msgid ""
+"%s [options] <new host name>\n"
+"\n"
+"    -h --help            Show this help\n"
+"    -V --version         Show version\n"
+"    -v --verbose         Enable verbose mode\n"
+msgstr ""
+
+msgid ": All for now\n"
+msgstr ""
+
+msgid ": Cache exhausted\n"
+msgstr ""
+
+msgid "<i>No service currently selected.</i>"
+msgstr ""
+
+msgid "A NULL terminated list of service types to browse for"
+msgstr ""
+
+msgid "Access denied"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Address family"
+msgstr ""
+
+msgid "Address:"
+msgstr ""
+
+msgid "An unexpected D-Bus error occurred"
+msgstr ""
+
+msgid "Avahi Discovery"
+msgstr ""
+
+msgid "Avahi SSH Server Browser"
+msgstr ""
+
+msgid "Avahi VNC Server Browser"
+msgstr ""
+
+msgid "Avahi Zeroconf Browser"
+msgstr ""
+
+msgid "Avahi client failure: %s"
+msgstr ""
+
+msgid "Avahi domain browser failure: %s"
+msgstr ""
+
+msgid "Avahi resolver failure: %s"
+msgstr ""
+
+msgid "Bad number of arguments\n"
+msgstr ""
+
+msgid "Bad state"
+msgstr ""
+
+msgid "Browse Service Types"
+msgstr ""
+
+msgid "Browse for Zeroconf services available on your network"
+msgstr ""
+
+msgid "Browse for Zeroconf-enabled SSH Servers"
+msgstr ""
+
+msgid "Browse for Zeroconf-enabled VNC Servers"
+msgstr ""
+
+msgid "Browse service type list is empty!"
+msgstr ""
+
+msgid "Browsing for service type %s in domain %s failed: %s"
+msgstr ""
+
+msgid "Browsing for services in domain <b>%s</b>:"
+msgstr ""
+
+msgid "Browsing for services on <b>local network</b>:"
+msgstr ""
+
+msgid "Browsing..."
+msgstr ""
+
+msgid "C_onnect"
+msgstr ""
+
+msgid "Canceled.\n"
+msgstr ""
+
+msgid "Change domain"
+msgstr ""
+
+msgid "Choose SSH server"
+msgstr ""
+
+msgid "Choose Shell Server"
+msgstr ""
+
+msgid "Choose VNC server"
+msgstr ""
+
+msgid "Client failure, exiting: %s\n"
+msgstr ""
+
+msgid "Connecting to '%s' ...\n"
+msgstr ""
+
+msgid "DNS failure: FORMERR"
+msgstr ""
+
+msgid "DNS failure: NOTAUTH"
+msgstr ""
+
+msgid "DNS failure: NOTIMP"
+msgstr ""
+
+msgid "DNS failure: NOTZONE"
+msgstr ""
+
+msgid "DNS failure: NXDOMAIN"
+msgstr ""
+
+msgid "DNS failure: NXRRSET"
+msgstr ""
+
+msgid "DNS failure: REFUSED"
+msgstr ""
+
+msgid "DNS failure: SERVFAIL"
+msgstr ""
+
+msgid "DNS failure: YXDOMAIN"
+msgstr ""
+
+msgid "DNS failure: YXRRSET"
+msgstr ""
+
+msgid "Daemon connection failed"
+msgstr ""
+
+msgid "Daemon not running"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Disconnected, reconnecting ...\n"
+msgstr ""
+
+msgid "Domain"
+msgstr ""
+
+msgid "Domain Name:"
+msgstr ""
+
+msgid "E Ifce Prot %-*s %-20s Domain\n"
+msgstr ""
+
+msgid "E Ifce Prot Domain\n"
+msgstr ""
+
+msgid "Established under name '%s'\n"
+msgstr ""
+
+msgid "Failed to add address: %s\n"
+msgstr ""
+
+msgid "Failed to add service: %s\n"
+msgstr ""
+
+msgid "Failed to add subtype '%s': %s\n"
+msgstr ""
+
+msgid "Failed to connect to Avahi server: %s"
+msgstr ""
+
+msgid "Failed to create address resolver: %s\n"
+msgstr ""
+
+msgid "Failed to create browser for %s: %s"
+msgstr ""
+
+msgid "Failed to create client object: %s\n"
+msgstr ""
+
+msgid "Failed to create domain browser: %s"
+msgstr ""
+
+msgid "Failed to create entry group: %s\n"
+msgstr ""
+
+msgid "Failed to create host name resolver: %s\n"
+msgstr ""
+
+msgid "Failed to create resolver for %s of type %s in domain %s: %s"
+msgstr ""
+
+msgid "Failed to create simple poll object.\n"
+msgstr ""
+
+msgid "Failed to parse address '%s'\n"
+msgstr ""
+
+msgid "Failed to parse port number: %s\n"
+msgstr ""
+
+msgid "Failed to query host name: %s\n"
+msgstr ""
+
+msgid "Failed to query version string: %s\n"
+msgstr ""
+
+msgid "Failed to read Avahi domain: %s"
+msgstr ""
+
+msgid "Failed to register: %s\n"
+msgstr ""
+
+msgid "Failed to resolve address '%s': %s\n"
+msgstr ""
+
+msgid "Failed to resolve host name '%s': %s\n"
+msgstr ""
+
+msgid "Failed to resolve service '%s' of type '%s' in domain '%s': %s\n"
+msgstr ""
+
+msgid "Host Name"
+msgstr ""
+
+msgid "Host name conflict\n"
+msgstr ""
+
+msgid "Host name successfully changed to %s\n"
+msgstr ""
+
+msgid "Initializing..."
+msgstr ""
+
+msgid "Interface:"
+msgstr ""
+
+msgid "Invalid DNS TTL"
+msgstr ""
+
+msgid "Invalid DNS class"
+msgstr ""
+
+msgid "Invalid DNS return code"
+msgstr ""
+
+msgid "Invalid DNS type"
+msgstr ""
+
+msgid "Invalid Error Code"
+msgstr ""
+
+msgid "Invalid RDATA"
+msgstr ""
+
+msgid "Invalid address"
+msgstr ""
+
+msgid "Invalid argument"
+msgstr ""
+
+msgid "Invalid configuration"
+msgstr ""
+
+msgid "Invalid domain name"
+msgstr ""
+
+msgid "Invalid flags"
+msgstr ""
+
+msgid "Invalid host name"
+msgstr ""
+
+msgid "Invalid interface index"
+msgstr ""
+
+msgid "Invalid number of arguments, expecting exactly one.\n"
+msgstr ""
+
+msgid "Invalid operation"
+msgstr ""
+
+msgid "Invalid packet"
+msgstr ""
+
+msgid "Invalid port number"
+msgstr ""
+
+msgid "Invalid protocol specification"
+msgstr ""
+
+msgid "Invalid record"
+msgstr ""
+
+msgid "Invalid record key"
+msgstr ""
+
+msgid "Invalid service name"
+msgstr ""
+
+msgid "Invalid service subtype"
+msgstr ""
+
+msgid "Invalid service type"
+msgstr ""
+
+msgid "Is empty"
+msgstr ""
+
+msgid "Local name collision"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name collision, picking new name '%s'.\n"
+msgstr ""
+
+msgid "No command specified.\n"
+msgstr ""
+
+msgid "No suitable network protocol available"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Not permitted"
+msgstr ""
+
+msgid "Not supported"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "OS Error"
+msgstr ""
+
+msgid "Operation failed"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Resolve Service"
+msgstr ""
+
+msgid "Resolve Service Host Name"
+msgstr ""
+
+msgid ""
+"Resolve the host name of the selected service automatically before returning"
+msgstr ""
+
+msgid "Resolve the selected service automatically before returning"
+msgstr ""
+
+msgid "Resource record key is pattern"
+msgstr ""
+
+msgid "Server version: %s; Host name: %s\n"
+msgstr ""
+
+msgid "Service Name"
+msgstr ""
+
+msgid "Service Name:"
+msgstr ""
+
+msgid "Service Type"
+msgstr ""
+
+msgid "Service Type:"
+msgstr ""
+
+msgid "TXT"
+msgstr ""
+
+msgid "TXT Data"
+msgstr ""
+
+msgid "TXT Data:"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "The IP port number of the resolved service"
+msgstr ""
+
+msgid "The TXT data of the resolved service"
+msgstr ""
+
+msgid "The address family for host name resolution"
+msgstr ""
+
+msgid "The address of the resolved service"
+msgstr ""
+
+msgid "The domain to browse in, or NULL for the default domain"
+msgstr ""
+
+msgid "The host name of the resolved service"
+msgstr ""
+
+msgid "The object passed in was not valid"
+msgstr ""
+
+msgid "The requested operation is invalid because redundant"
+msgstr ""
+
+msgid "The service name of the selected service"
+msgstr ""
+
+msgid "The service type of the selected service"
+msgstr ""
+
+msgid "Timeout reached"
+msgstr ""
+
+msgid "Too few arguments\n"
+msgstr ""
+
+msgid "Too many arguments\n"
+msgstr ""
+
+msgid "Too many clients"
+msgstr ""
+
+msgid "Too many entries"
+msgstr ""
+
+msgid "Too many objects"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Version mismatch"
+msgstr ""
+
+msgid "Waiting for daemon ...\n"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Domain..."
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "avahi_domain_browser_new() failed: %s\n"
+msgstr ""
+
+msgid "avahi_service_browser_new() failed: %s\n"
+msgstr ""
+
+msgid "avahi_service_type_browser_new() failed: %s\n"
+msgstr ""
+
+msgid "empty"
+msgstr ""
+
+msgid "execlp() failed: %s\n"
+msgstr ""
+
+msgid "n/a"
+msgstr ""
+
+msgid "service_browser failed: %s\n"
+msgstr ""
+
+msgid "service_type_browser failed: %s\n"
+msgstr ""

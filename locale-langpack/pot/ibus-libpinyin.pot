@@ -1,0 +1,452 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ibus-libpinyin 1.2.99\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-04-06 14:00+0000\n"
+"Last-Translator: Peng Huang <Unknown>\n"
+"Language-Team: Peng Huang <shawn.p.huang@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:54+0000\n"
+
+msgid "<b>Bopomofo mode</b>"
+msgstr ""
+
+msgid "<b>Candidates</b>"
+msgstr ""
+
+msgid "<b>Correct pinyin</b>"
+msgstr ""
+
+msgid "<b>Customize IME</b>"
+msgstr ""
+
+msgid ""
+"<b>Dictionary File Format:</b>\n"
+"  Each line contains one of the following:\n"
+"    \"phrase pinyin\" or \"phrase pinyin frequency\"\n"
+"  like \"你好 ni'hao\" or \"你好 ni'hao 5\"."
+msgstr ""
+
+msgid "<b>Dictionary option</b>"
+msgstr ""
+
+msgid "<b>Initial state</b>"
+msgstr ""
+
+msgid "<b>Input Custom</b>"
+msgstr ""
+
+msgid "<b>Other</b>"
+msgstr ""
+
+msgid "<b>Pinyin mode</b>"
+msgstr ""
+
+msgid "<b>Selection mode</b>"
+msgstr ""
+
+msgid "<b>UI</b>"
+msgstr ""
+
+msgid "<b>User Dictionary</b>"
+msgstr ""
+
+msgid "<big><b>Intelligent Pinyin %s</b></big>"
+msgstr ""
+
+msgid ""
+"<small>\n"
+"<b>Authors:</b>\n"
+"Peng Wu\n"
+"Peng Huang\n"
+"BYVoid\n"
+"\n"
+"<b>Contributors:</b>\n"
+"koterpilla, Zerng07\n"
+"</small>"
+msgstr ""
+
+msgid "<small>Copyright (c) 2011-2012 Peng Wu</small>"
+msgstr ""
+
+msgid "ABC"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Accelerator"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Art"
+msgstr ""
+
+msgid "Auto commit"
+msgstr ""
+
+msgid "Bopomofo (debug)"
+msgstr ""
+
+msgid "Bopomofo input method (debug)"
+msgstr ""
+
+msgid "Bopomofo mode"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Chinese:"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Clear All Data"
+msgstr ""
+
+msgid "Commit first candidate"
+msgstr ""
+
+msgid "Commit original text"
+msgstr ""
+
+msgid "Culture"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Double pinyin"
+msgstr ""
+
+msgid "Dynamic adjust the candidates order."
+msgstr ""
+
+msgid "Economy"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Enable Auxiliary Select Keys F1 .. F10"
+msgstr ""
+
+msgid "Enable Auxiliary Select Keys Numbers on Keypad"
+msgstr ""
+
+msgid "Enable Guidekey for Candidates Selection"
+msgstr ""
+
+msgid "Enable correct pinyin"
+msgstr ""
+
+msgid "Enable fuzzy syllable"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Eten"
+msgstr ""
+
+msgid "Export"
+msgstr ""
+
+msgid "Feature of Enter key:"
+msgstr ""
+
+msgid "Frequency"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "Full Width Letter"
+msgstr ""
+
+msgid "Full Width Punct"
+msgstr ""
+
+msgid "Full pinyin"
+msgstr ""
+
+msgid "Full/Half Width Letter"
+msgstr ""
+
+msgid "Full/Half Width Punct"
+msgstr ""
+
+msgid "Fuzzy syllable"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Geology"
+msgstr ""
+
+msgid "GinYieh"
+msgstr ""
+
+msgid "Half"
+msgstr ""
+
+msgid "Half Width Letter"
+msgstr ""
+
+msgid "Half Width Punct"
+msgstr ""
+
+msgid "Half/full width:"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "IBM"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Incomplete Bopomofo"
+msgstr ""
+
+msgid "Incomplete pinyin"
+msgstr ""
+
+msgid "Intelligent Pinyin"
+msgstr ""
+
+msgid "Intelligent Pinyin (debug)"
+msgstr ""
+
+msgid "Intelligent Pinyin input method (debug)"
+msgstr ""
+
+msgid "Intelligent Pinyin input method for IBus"
+msgstr ""
+
+msgid "Key code:"
+msgstr ""
+
+msgid "Keyboard Mapping:"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "Libpinyin input method"
+msgstr ""
+
+msgid "Life"
+msgstr ""
+
+msgid "MSPY"
+msgstr ""
+
+msgid "Modifiers:"
+msgstr ""
+
+msgid "Nature"
+msgstr ""
+
+msgid "Number of candidates:"
+msgstr ""
+
+msgid "Orientation of candidates:"
+msgstr ""
+
+msgid "PYJJ"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Pinyin Length"
+msgstr ""
+
+msgid "Pinyin mode"
+msgstr ""
+
+msgid "Please choose a file"
+msgstr ""
+
+msgid "Please input the english word."
+msgstr ""
+
+msgid "Please press a key (or a key combination)"
+msgstr ""
+
+msgid ""
+"Please press a key (or a key combination).\n"
+"The dialog will be closed when the key is released."
+msgstr ""
+
+msgid "Please save a file"
+msgstr ""
+
+msgid "Please use \"hspnz\" to input."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Punctuations:"
+msgstr ""
+
+msgid "Remember every input as a phrase."
+msgstr ""
+
+msgid "Science"
+msgstr ""
+
+msgid "Select Switching Key"
+msgstr ""
+
+msgid "Selection Keys:"
+msgstr ""
+
+msgid "Shorcut Editor"
+msgstr ""
+
+msgid "Shortcut:"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show raw input of Double Pinyin"
+msgstr ""
+
+msgid "Simplified"
+msgstr ""
+
+msgid "Simplified Chinese"
+msgstr ""
+
+msgid "Society"
+msgstr ""
+
+msgid "Sort candidates by:"
+msgstr ""
+
+msgid "Sport"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Switch Chinese/English"
+msgstr ""
+
+msgid "Switch Traditional/Simplfied Chinese"
+msgstr ""
+
+msgid "Switch to Chinese Mode"
+msgstr ""
+
+msgid "Switch to English Mode"
+msgstr ""
+
+msgid "Switch to Full Width Letter Mode"
+msgstr ""
+
+msgid "Switch to Full Width Punctuation Mode"
+msgstr ""
+
+msgid "Switch to Half Width Letter Mode"
+msgstr ""
+
+msgid "Switch to Half Width Punctuation Mode"
+msgstr ""
+
+msgid "Switch to Simplfied Chinese Mode"
+msgstr ""
+
+msgid "Switch to Traditional Chinese Mode"
+msgstr ""
+
+msgid "Technology"
+msgstr ""
+
+msgid "This shortcut key is already used."
+msgstr ""
+
+msgid "Tips: this changes may take effects after ime restarted."
+msgstr ""
+
+msgid "Traditional"
+msgstr ""
+
+msgid "Traditional Chinese"
+msgstr ""
+
+msgid "User Dictionary"
+msgstr ""
+
+msgid "User Lua Script"
+msgstr ""
+
+msgid "User data"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "XHE"
+msgstr ""
+
+msgid "ZGPY"
+msgstr ""
+
+msgid "ZRM"
+msgstr ""
+
+msgid "[,] [.] flip page"
+msgstr ""
+
+msgid "[-] [=] flip page"
+msgstr ""
+
+msgid "[Shift] select candidate"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Default"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "https://github.com/libpinyin/ibus-libpinyin"
+msgstr ""
+
+msgid "中"
+msgstr ""
+
+msgid "英"
+msgstr ""

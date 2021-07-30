@@ -1,0 +1,271 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: sharutils 4.11\n"
+"Report-Msgid-Bugs-To: bug-gnu-utils@gnu.org\n"
+"PO-Revision-Date: 2013-12-19 00:57+0000\n"
+"Last-Translator: Ji ZhengYu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:49+0000\n"
+
+msgid "%s is probably not a shell archive"
+msgstr ""
+
+msgid "%s looks like raw C code, not a shell archive"
+msgstr ""
+
+msgid "%s: Illegal file name: %s"
+msgstr ""
+
+msgid "%s: No `end' line"
+msgstr ""
+
+msgid "%s: Not a regular file"
+msgstr ""
+
+msgid "%s: Short file"
+msgstr ""
+
+msgid "%s: Write error"
+msgstr ""
+
+msgid "%s: illegal option -- %c\n"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: option '%c%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '--%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '--%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '-W %s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '-W %s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '%c%s'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '--%s'\n"
+msgstr ""
+
+msgid "(binary)"
+msgstr ""
+
+msgid "(bzipped)"
+msgstr ""
+
+msgid "(compressed)"
+msgstr ""
+
+msgid "(empty)"
+msgstr ""
+
+msgid "(gzipped)"
+msgstr ""
+
+msgid "(text)"
+msgstr ""
+
+msgid "Cannot access %s"
+msgstr ""
+
+msgid "Cannot get current directory name"
+msgstr ""
+
+msgid "Cannot open file %s"
+msgstr ""
+
+msgid "Created %d files\n"
+msgstr ""
+
+msgid "End of %s part %d"
+msgstr ""
+
+msgid "End of part %d, continue with part %d"
+msgstr ""
+
+msgid "File %s is complete"
+msgstr ""
+
+msgid "File %s is continued in part %d"
+msgstr ""
+
+msgid "Found no shell commands in %s"
+msgstr ""
+
+msgid "MD5 check failed"
+msgstr ""
+
+msgid "No input files"
+msgstr ""
+
+msgid "Note: not verifying md5sums.  Consider installing GNU coreutils."
+msgstr ""
+
+msgid "PLEASE avoid -X shars on Usenet or public networks"
+msgstr ""
+
+msgid "Please unpack part ${shar_sequence} next!"
+msgstr ""
+
+msgid "Please unpack part 1 first!"
+msgstr ""
+
+msgid "SKIPPING %s"
+msgstr ""
+
+msgid "Saving %s (%s)"
+msgstr ""
+
+msgid "Starting file %s\n"
+msgstr ""
+
+msgid "Too many directories for mkdir generation"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr ""
+
+msgid ""
+"You cannot specify an output file when processing\n"
+"multiple input files.\n"
+msgstr ""
+
+msgid "You have unpacked the last part"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "archive"
+msgstr ""
+
+msgid "cannot access %s"
+msgstr ""
+
+msgid "chmod of %s"
+msgstr ""
+
+msgid "continuing file %s"
+msgstr ""
+
+msgid "empty"
+msgstr ""
+
+msgid "exit immediately"
+msgstr ""
+
+msgid "explain choices"
+msgstr ""
+
+msgid "extraction aborted"
+msgstr ""
+
+msgid "failed to create %s lock directory"
+msgstr ""
+
+msgid "help"
+msgstr ""
+
+msgid "lock directory %s exists"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "overwrite %s"
+msgstr ""
+
+msgid "overwrite all files"
+msgstr ""
+
+msgid "overwrite no files"
+msgstr ""
+
+msgid "overwrite this file"
+msgstr ""
+
+msgid "printf formatting error:  %s\n"
+msgstr ""
+
+msgid "quit"
+msgstr ""
+
+msgid "restoration warning:  size of %s is not %s"
+msgstr ""
+
+msgid "restore of %s failed"
+msgstr ""
+
+msgid "skip this file"
+msgstr ""
+
+msgid "standard input"
+msgstr ""
+
+msgid "text"
+msgstr ""
+
+msgid "uudecoding file %s"
+msgstr ""
+
+msgid "x - SKIPPING %s (file already exists)"
+msgstr ""
+
+msgid "x - STILL SKIPPING %s"
+msgstr ""
+
+msgid "x - created directory %s."
+msgstr ""
+
+msgid "x - created lock directory %s."
+msgstr ""
+
+msgid "x - extracting %s %s"
+msgstr ""
+
+msgid "x - failed to create directory %s."
+msgstr ""
+
+msgid "x - failed to create lock directory %s."
+msgstr ""
+
+msgid "x - failed to remove lock directory %s."
+msgstr ""
+
+msgid "x - overwriting %s"
+msgstr ""
+
+msgid "x - removed lock directory %s."
+msgstr ""
+
+msgid "yes"
+msgstr ""

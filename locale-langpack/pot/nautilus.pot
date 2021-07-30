@@ -1,0 +1,3499 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus 3.24\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/nautilus/issues\n"
+"PO-Revision-Date: 2020-04-10 23:39+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:38+0000\n"
+
+msgid " ("
+msgstr ""
+
+msgid " (%'d"
+msgstr ""
+
+msgid " (another copy)"
+msgstr ""
+
+msgid " (copy)"
+msgstr ""
+
+msgid "%'d / %'d"
+msgstr ""
+
+msgid "%'d / %'d — %s left"
+msgid_plural "%'d / %'d — %s left"
+msgstr[0] ""
+
+msgid "%'d / %'d — %s left (%s/sec)"
+msgid_plural "%'d / %'d — %s left (%s/sec)"
+msgstr[0] ""
+
+msgid "%'d file operation active"
+msgid_plural "%'d file operations active"
+msgstr[0] ""
+
+msgid "%'d folder selected"
+msgid_plural "%'d folders selected"
+msgstr[0] ""
+
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] ""
+
+msgid "%'d item selected"
+msgid_plural "%'d items selected"
+msgstr[0] ""
+
+msgid "%'d item, with size %s"
+msgid_plural "%'d items, totalling %s"
+msgstr[0] ""
+
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] ""
+
+msgid "%'d other item selected"
+msgid_plural "%'d other items selected"
+msgstr[0] ""
+
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] ""
+
+msgid "%'dnd link to %s"
+msgstr ""
+
+msgid "%'drd link to %s"
+msgstr ""
+
+msgid "%'dst link to %s"
+msgstr ""
+
+msgid "%'dth link to %s"
+msgstr ""
+
+msgid "%'u file"
+msgid_plural "%'u files"
+msgstr[0] ""
+
+msgid "%'u folder"
+msgid_plural "%'u folders"
+msgstr[0] ""
+
+msgid "%'u item"
+msgid_plural "%'u items"
+msgstr[0] ""
+
+msgid "%-e %b"
+msgstr ""
+
+msgid "%-e %b %H:%M"
+msgstr ""
+
+msgid "%-e %b %Y"
+msgstr ""
+
+msgid "%-e %b %Y %H:%M"
+msgstr ""
+
+msgid "%-e %b %Y %l:%M %p"
+msgstr ""
+
+msgid "%-e %b %l:%M %p"
+msgstr ""
+
+msgid "%H:%M"
+msgstr ""
+
+msgid "%a"
+msgstr ""
+
+msgid "%a %H:%M"
+msgstr ""
+
+msgid "%a %l:%M %p"
+msgstr ""
+
+msgid "%c"
+msgstr ""
+
+msgid "%d MB"
+msgstr ""
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+msgid "%d file deleted"
+msgid_plural "%d files deleted"
+msgstr[0] ""
+
+msgid "%d file unstarred"
+msgid_plural "%d files unstarred"
+msgstr[0] ""
+
+msgid "%d pixel"
+msgid_plural "%d pixels"
+msgstr[0] ""
+
+msgid "%f N / %f W (%.0f m)"
+msgstr ""
+
+msgid "%l:%M %p"
+msgstr ""
+
+msgid "%s %s, %s %s"
+msgstr ""
+
+msgid "%s (%'dnd copy)%s"
+msgstr ""
+
+msgid "%s (%'drd copy)%s"
+msgstr ""
+
+msgid "%s (%'dst copy)%s"
+msgstr ""
+
+msgid "%s (%'dth copy)%s"
+msgstr ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "%s (another copy)%s"
+msgstr ""
+
+msgid "%s (copy)%s"
+msgstr ""
+
+msgid "%s / %s"
+msgstr ""
+
+msgid "%s / %s available"
+msgid_plural "%s / %s available"
+msgstr[0] ""
+
+msgid "%s / %s — %s left (%s/sec)"
+msgid_plural "%s / %s — %s left (%s/sec)"
+msgstr[0] ""
+
+msgid "%s Visible Columns"
+msgstr ""
+
+msgid "%s document"
+msgstr ""
+
+msgid "%s more space is required to copy to the destination."
+msgstr ""
+
+msgid "(%d file/sec)"
+msgid_plural "(%d files/sec)"
+msgstr[0] ""
+
+msgid "(%s)"
+msgstr ""
+
+msgid "(Empty)"
+msgstr ""
+
+msgid "(containing %'d item)"
+msgid_plural "(containing %'d items)"
+msgstr[0] ""
+
+msgid "(containing a total of %'d item)"
+msgid_plural "(containing a total of %'d items)"
+msgstr[0] ""
+
+msgid "(some contents unreadable)"
+msgstr ""
+
+msgid "--check cannot be used with other options."
+msgstr ""
+
+msgid "--quit cannot be used with URIs."
+msgstr ""
+
+msgid "--select must be used with at least an URI."
+msgstr ""
+
+msgid "001, 002, 003"
+msgstr ""
+
+msgid "001, 002, 003, 004"
+msgstr ""
+
+msgid "01, 02, 03"
+msgstr ""
+
+msgid "01, 02, 03, 04"
+msgstr ""
+
+msgid "1, 2, 3"
+msgstr ""
+
+msgid "1, 2, 3, 4"
+msgstr ""
+
+msgid ""
+"<a href=\"help:gnome-help/files-templates\" title=\"GNOME help for "
+"templates\">Learn more…</a>"
+msgstr ""
+
+msgid "? bytes"
+msgstr ""
+
+msgid "? items"
+msgstr ""
+
+msgid "@icon@"
+msgstr ""
+
+msgid "A file cannot be called “..”."
+msgstr ""
+
+msgid "A file cannot be called “.”."
+msgstr ""
+
+msgid "A file with that name already exists."
+msgstr ""
+
+msgid "A folder cannot be called “..”."
+msgstr ""
+
+msgid "A folder cannot be called “.”."
+msgstr ""
+
+msgid "A folder with that name already exists."
+msgstr ""
+
+msgid "A folder with the same name already exists in “%s”."
+msgstr ""
+
+msgid ""
+"A list of captions below an icon in the icon view. The actual number of "
+"captions shown depends on the zoom level. Some possible values are: “size”, "
+"“type”, “date_modified”, “owner”, “group”, “permissions”, and “mime_type”."
+msgstr ""
+
+msgid "A newer file with the same name already exists in “%s”."
+msgstr ""
+
+msgid "A newer folder with the same name already exists in “%s”."
+msgstr ""
+
+msgid ""
+"A string specifying how parts of overlong file names should be replaced by "
+"ellipses, depending on the zoom level. Each of the list entries is of the "
+"form “Zoom Level:Integer”. For each specified zoom level, if the given "
+"integer is larger than 0, the file name will not exceed the given number of "
+"lines. If the integer is 0 or smaller, no limit is imposed on the specified "
+"zoom level. A default entry of the form “Integer” without any specified zoom"
+" level is also allowed. It defines the maximum number of lines for all other"
+" zoom levels. Examples: 0 — always display overlong file names; 3 — shorten "
+"file names if they exceed three lines; smallest:5,smaller:4,0 — shorten file"
+" names if they exceed five lines for zoom level “smallest”. Shorten file "
+"names if they exceed four lines for zoom level “smaller”. Do not shorten "
+"file names for other zoom levels. Available zoom levels: small, standard, "
+"large."
+msgstr ""
+
+msgid ""
+"A tuple containing the initial width and height of the application window."
+msgstr ""
+
+msgid "A_ll files"
+msgstr ""
+
+msgid "Access and organize files"
+msgstr ""
+
+msgid "Access and organize your files"
+msgstr ""
+
+msgid "Access files"
+msgstr ""
+
+msgid "Access:"
+msgstr ""
+
+msgid "Accessed"
+msgstr ""
+
+msgid "Accessed:"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid ""
+"Add information to be displayed beneath file and folder names. More "
+"information will appear when zooming closer."
+msgstr ""
+
+msgid "Album Name"
+msgstr ""
+
+msgid "Album name"
+msgstr ""
+
+msgid "All file operations have been successfully completed"
+msgstr ""
+
+msgid "All folder_s"
+msgstr ""
+
+msgid "All items in the Trash will be permanently deleted."
+msgstr ""
+
+msgid "Allow _executing file as program"
+msgstr ""
+
+msgid "Allow folders to be _expanded"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Always open a new window for browsing specified URIs"
+msgstr ""
+
+msgid "Always use the location entry, instead of the pathbar"
+msgstr ""
+
+msgid "An archive cannot be called “..”."
+msgstr ""
+
+msgid "An archive cannot be called “.”."
+msgstr ""
+
+msgid "An invalid drag type was used."
+msgstr ""
+
+msgid "An older file with the same name already exists in “%s”."
+msgstr ""
+
+msgid "An older folder with the same name already exists in “%s”."
+msgstr ""
+
+msgid "Another file with the same name already exists in “%s”."
+msgstr ""
+
+msgid "Another folder with the same name already exists in “%s”."
+msgstr ""
+
+msgid "Another link to %s"
+msgstr ""
+
+msgid "Any time"
+msgstr ""
+
+msgid "Anything"
+msgstr ""
+
+msgid "Aperture Value"
+msgstr ""
+
+msgid "AppleTalk"
+msgstr ""
+
+msgid "Apply this action to all files and folders"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid "Archive name"
+msgstr ""
+
+msgid "Archive names cannot contain “/”."
+msgstr ""
+
+msgid "Are you sure you want to open all files?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to permanently delete the %'d selected item from the "
+"trash?"
+msgid_plural ""
+"Are you sure you want to permanently delete the %'d selected items from the "
+"trash?"
+msgstr[0] ""
+
+msgid "Are you sure you want to permanently delete the %'d selected item?"
+msgid_plural ""
+"Are you sure you want to permanently delete the %'d selected items?"
+msgstr[0] ""
+
+msgid "Are you sure you want to permanently delete “%s” from the trash?"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete “%s”?"
+msgstr ""
+
+msgid "Artist Name"
+msgstr ""
+
+msgid "Artist name"
+msgstr ""
+
+msgid "Ask before _emptying the Trash"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Audio CD"
+msgstr ""
+
+msgid "Audio DVD"
+msgstr ""
+
+msgid "Automatic Numbering Order"
+msgstr ""
+
+msgid "Automatic Numbers"
+msgstr ""
+
+msgid "Available Protocols"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Batch rename %d file"
+msgid_plural "Batch rename %d files"
+msgstr[0] ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Binary"
+msgstr ""
+
+msgid "By Access Date"
+msgstr ""
+
+msgid "By Modification Date"
+msgstr ""
+
+msgid "By Name"
+msgstr ""
+
+msgid "By Size"
+msgstr ""
+
+msgid "By Trashed Date"
+msgstr ""
+
+msgid "By Type"
+msgstr ""
+
+msgid "C_ompress…"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Camera Brand"
+msgstr ""
+
+msgid "Camera Model"
+msgstr ""
+
+msgid "Camera model"
+msgstr ""
+
+msgid "Cance_l"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Group Change?"
+msgstr ""
+
+msgid "Cancel Owner Change?"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Permissions for Enclosed Files"
+msgstr ""
+
+msgid "Change Permissions for Enclosed Files…"
+msgstr ""
+
+msgid "Choose the order of information to appear in the list view."
+msgstr ""
+
+msgid "Choose the order of information to appear in this folder:"
+msgstr ""
+
+msgid "Clear the currently selected date"
+msgstr ""
+
+msgid "Close current view"
+msgstr ""
+
+msgid "Close tab"
+msgstr ""
+
+msgid "Column order in list view"
+msgstr ""
+
+msgid "Columns visible in list view"
+msgstr ""
+
+msgid "Compatible with all operating systems."
+msgstr ""
+
+msgid "Compress %d file"
+msgid_plural "Compress %d files"
+msgstr[0] ""
+
+msgid "Compress “%s”"
+msgstr ""
+
+msgid "Compressed %'d file into “%s”"
+msgid_plural "Compressed %'d files into “%s”"
+msgstr[0] ""
+
+msgid "Compressed “%s” into “%s”"
+msgstr ""
+
+msgid "Compressing %'d file into “%s”"
+msgid_plural "Compressing %'d files into “%s”"
+msgstr[0] ""
+
+msgid "Compressing Files"
+msgstr ""
+
+msgid "Compressing “%s” into “%s”"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Con_nect"
+msgstr ""
+
+msgid "Connect to _Server"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Contains digital photos"
+msgstr ""
+
+msgid "Contains music"
+msgstr ""
+
+msgid "Contains music and photos"
+msgstr ""
+
+msgid "Contains photos and music"
+msgstr ""
+
+msgid "Contains software"
+msgstr ""
+
+msgid "Content View"
+msgstr ""
+
+msgid "Contents:"
+msgstr ""
+
+msgid "Coordinates"
+msgstr ""
+
+msgid "Copied %'d file to “%s”"
+msgid_plural "Copied %'d files to “%s”"
+msgstr[0] ""
+
+msgid "Copied “%s” to “%s”"
+msgstr ""
+
+msgid "Copy %d item to “%s”"
+msgid_plural "Copy %d items to “%s”"
+msgstr[0] ""
+
+msgid "Copy _Anyway"
+msgstr ""
+
+msgid "Copy to…"
+msgstr ""
+
+msgid "Copy “%s” to “%s”"
+msgstr ""
+
+msgid "Copying %'d file to “%s”"
+msgid_plural "Copying %'d files to “%s”"
+msgstr[0] ""
+
+msgid "Copying Files"
+msgstr ""
+
+msgid "Copying “%s” to “%s”"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Could not add application"
+msgstr ""
+
+msgid "Could not determine original location of “%s” "
+msgstr ""
+
+msgid "Could not forget association"
+msgstr ""
+
+msgid "Could not remove the already existing file with the same name in %s."
+msgstr ""
+
+msgid "Could not remove the source folder."
+msgstr ""
+
+msgid "Could not set as default"
+msgstr ""
+
+msgid "Count number of files in folders:"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create Archive"
+msgstr ""
+
+msgid "Create _Link"
+msgstr ""
+
+msgid "Create a new folder “%s”"
+msgstr ""
+
+msgid "Create an empty file “%s”"
+msgstr ""
+
+msgid "Create and delete files"
+msgstr ""
+
+msgid "Create link to “%s”"
+msgstr ""
+
+msgid "Create links to %d item"
+msgid_plural "Create links to %d items"
+msgstr[0] ""
+
+msgid "Create new file “%s” from template "
+msgstr ""
+
+msgid "Created On"
+msgstr ""
+
+msgid "Creating Properties window."
+msgstr ""
+
+msgid "Creating links in “%s”"
+msgstr ""
+
+msgid "Creation Date"
+msgstr ""
+
+msgid "Creation date"
+msgstr ""
+
+msgid "Creator"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Date when file was moved to the Trash"
+msgstr ""
+
+msgid "Default folder viewer"
+msgstr ""
+
+msgid "Default format for compressing files"
+msgstr ""
+
+msgid "Default icon view zoom level"
+msgstr ""
+
+msgid "Default list view zoom level"
+msgstr ""
+
+msgid "Default sort order"
+msgstr ""
+
+msgid "Delete %d copied item"
+msgid_plural "Delete %d copied items"
+msgstr[0] ""
+
+msgid "Delete %d duplicated item"
+msgid_plural "Delete %d duplicated items"
+msgstr[0] ""
+
+msgid "Delete %d extracted file"
+msgid_plural "Delete %d extracted files"
+msgstr[0] ""
+
+msgid "Delete _All"
+msgstr ""
+
+msgid "Delete all items in the Trash"
+msgstr ""
+
+msgid "Delete link to “%s”"
+msgstr ""
+
+msgid "Delete links to %d item"
+msgid_plural "Delete links to %d items"
+msgstr[0] ""
+
+msgid "Delete “%s”"
+msgstr ""
+
+msgid "Deleted %'d file"
+msgid_plural "Deleted %'d files"
+msgstr[0] ""
+
+msgid "Deleted “%s”"
+msgstr ""
+
+msgid "Deleting %'d file"
+msgid_plural "Deleting %'d files"
+msgstr[0] ""
+
+msgid "Deleting Files"
+msgstr ""
+
+msgid "Deleting “%s”"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Detailed Type"
+msgstr ""
+
+msgid "Details: "
+msgstr ""
+
+msgid "Details: %s"
+msgstr ""
+
+msgid "Detected as “%s”"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Do _not Empty Trash"
+msgstr ""
+
+msgid "Do you want to empty the trash before you unmount?"
+msgstr ""
+
+msgid "Do you want to run “%s”, or display its contents?"
+msgstr ""
+
+msgid "Do you want to view %d location?"
+msgid_plural "Do you want to view %d locations?"
+msgstr[0] ""
+
+msgid "Document"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Don’t have permission to access the requested location."
+msgstr ""
+
+msgid "Drag and drop is not supported."
+msgstr ""
+
+msgid "Drag and drop is only supported on local file systems."
+msgstr ""
+
+msgid "Dropped Text.txt"
+msgstr ""
+
+msgid "Duplicate %d item in “%s”"
+msgid_plural "Duplicate %d items in “%s”"
+msgstr[0] ""
+
+msgid "Duplicate “%s” in “%s”"
+msgstr ""
+
+msgid "Duplicated %'d file in “%s”"
+msgid_plural "Duplicated %'d files in “%s”"
+msgstr[0] ""
+
+msgid "Duplicated “%s”"
+msgstr ""
+
+msgid "Duplicating %'d file in “%s”"
+msgid_plural "Duplicating %'d files in “%s”"
+msgstr[0] ""
+
+msgid "Duplicating “%s”"
+msgstr ""
+
+msgid "E_xtract to…"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Empty _Trash"
+msgstr ""
+
+msgid "Empty all items from Trash?"
+msgstr ""
+
+msgid "Emptying Trash"
+msgstr ""
+
+msgid "Enable new experimental views"
+msgstr ""
+
+msgid "Enter server address…"
+msgstr ""
+
+msgid "Episode Number"
+msgstr ""
+
+msgid "Episode number"
+msgstr ""
+
+msgid "Error compressing %'d file into “%s”"
+msgid_plural "Error compressing %'d files into “%s”"
+msgstr[0] ""
+
+msgid "Error compressing “%s” into “%s”"
+msgstr ""
+
+msgid "Error extracting “%s”"
+msgstr ""
+
+msgid "Error while adding “%s”: %s"
+msgstr ""
+
+msgid "Error while compressing files."
+msgstr ""
+
+msgid "Error while copying to “%s”."
+msgstr ""
+
+msgid "Error while copying “%s”."
+msgstr ""
+
+msgid "Error while copying."
+msgstr ""
+
+msgid "Error while creating directory %s."
+msgstr ""
+
+msgid "Error while creating file %s."
+msgstr ""
+
+msgid "Error while creating link to %s."
+msgstr ""
+
+msgid "Error while deleting."
+msgstr ""
+
+msgid "Error while moving files to trash."
+msgstr ""
+
+msgid "Error while moving “%s”."
+msgstr ""
+
+msgid "Error while moving."
+msgstr ""
+
+msgid "Error while setting “%s” as default application: %s"
+msgstr ""
+
+msgid "Examples: "
+msgstr ""
+
+msgid "Executable Text Files"
+msgstr ""
+
+msgid "Executable files in this folder will appear in the Scripts menu."
+msgstr ""
+
+msgid "Execute:"
+msgstr ""
+
+msgid "Existing Text"
+msgstr ""
+
+msgid "Exposure Program"
+msgstr ""
+
+msgid "Exposure Time"
+msgstr ""
+
+msgid "Extract %d file"
+msgid_plural "Extract %d files"
+msgstr[0] ""
+
+msgid "Extract Here"
+msgstr ""
+
+msgid "Extract to…"
+msgstr ""
+
+msgid "Extract “%s”"
+msgstr ""
+
+msgid "Extracted %'d file to “%s”"
+msgid_plural "Extracted %'d files to “%s”"
+msgstr[0] ""
+
+msgid "Extracted “%s” to “%s”"
+msgstr ""
+
+msgid "Extracting Files"
+msgstr ""
+
+msgid "Extracting “%s”"
+msgstr ""
+
+msgid "F_olders on this computer only"
+msgstr ""
+
+msgid "Failed to load image information"
+msgstr ""
+
+msgid "File Name"
+msgstr ""
+
+msgid "File Operations"
+msgstr ""
+
+msgid "File Transfer Protocol"
+msgstr ""
+
+msgid "File access:"
+msgstr ""
+
+msgid "File and Folder conflict"
+msgstr ""
+
+msgid "File conflict"
+msgstr ""
+
+msgid "File count"
+msgstr ""
+
+msgid "File name"
+msgstr ""
+
+msgid "File name is too long."
+msgstr ""
+
+msgid "File names cannot contain “/”."
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid ""
+"Files in the folder “%s” cannot be copied because you do not have "
+"permissions to see them."
+msgstr ""
+
+msgid ""
+"Files in the folder “%s” cannot be handled because you do not have "
+"permissions to see them."
+msgstr ""
+
+msgid "Filesystem type:"
+msgstr ""
+
+msgid "Filter the search dates using either last used or last modified"
+msgstr ""
+
+msgid "Filter the search dates using either last used or last modified."
+msgstr ""
+
+msgid "Find and replace _text"
+msgstr ""
+
+msgid "First Created"
+msgstr ""
+
+msgid "First Modified"
+msgstr ""
+
+msgid "Flash Fired"
+msgstr ""
+
+msgid "Focal Length"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Folder access:"
+msgstr ""
+
+msgid "Folder is Empty"
+msgstr ""
+
+msgid "Folder name"
+msgstr ""
+
+msgid "Folder name is too long."
+msgstr ""
+
+msgid "Folder names cannot contain “/”."
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid ""
+"For users with mice that have buttons for “Forward” and “Back”, this key "
+"will set which button activates the “Back” command in a browser window. "
+"Possible values range between 6 and 14."
+msgstr ""
+
+msgid ""
+"For users with mice that have buttons for “Forward” and “Back”, this key "
+"will set which button activates the “Forward” command in a browser window. "
+"Possible values range between 6 and 14."
+msgstr ""
+
+msgid ""
+"For users with mice that have “Forward” and “Back” buttons, this key will "
+"determine if any action is taken inside of Nautilus when either is pressed."
+msgstr ""
+
+msgid "Forget association"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Free space:"
+msgstr ""
+
+msgid "Full Text"
+msgstr ""
+
+msgid "Go back"
+msgstr ""
+
+msgid "Go forward"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Group:"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "ISO Speed Rating"
+msgstr ""
+
+msgid "Icon View"
+msgstr ""
+
+msgid "Icon View Captions"
+msgstr ""
+
+msgid ""
+"If set to true, newly opened windows will have the location bar visible."
+msgstr ""
+
+msgid "If set to true, newly opened windows will have the side pane visible."
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus browser windows will always use a textual "
+"input entry for the location toolbar, instead of the pathbar."
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus will also match the file contents besides the "
+"name. This toggles the default active state, which can still be overridden "
+"in the search popover"
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus will ask for confirmation when you attempt to "
+"delete files, or empty the Trash."
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus will show a delete permanently context menu "
+"item to bypass the Trash."
+msgstr ""
+
+msgid ""
+"If set to true, then Nautilus will show context menu items to create links "
+"from the copied or selected files."
+msgstr ""
+
+msgid ""
+"If set to “after-current-tab”, then new tabs are inserted after the current "
+"tab. If set to “end”, then new tabs are appended to the end of the tab list."
+msgstr ""
+
+msgid ""
+"If this is set to true, when performing a drag and drop operation the "
+"hovered folder will open automatically after a timeout."
+msgstr ""
+
+msgid ""
+"If true, files in new windows will be sorted in reverse order. I.e., if "
+"sorted by name, then instead of sorting the files from “a” to “z”, they will"
+" be sorted from “z” to “a”; if sorted by size, instead of being "
+"incrementally they will be sorted decrementally."
+msgstr ""
+
+msgid "If you delete an item, it will be permanently lost."
+msgstr ""
+
+msgid "If you don’t trust this location or aren’t sure, press Cancel."
+msgstr ""
+
+msgid "Illustration"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image Type"
+msgstr ""
+
+msgid ""
+"Images over this size (in megabytes) won’t be thumbnailed. The purpose of "
+"this setting is to avoid thumbnailing large images that may take a long time"
+" to load or use lots of memory."
+msgstr ""
+
+msgid ""
+"In order to regain the free space on this volume the trash must be emptied. "
+"All trashed items on the volume will be permanently lost."
+msgstr ""
+
+msgid ""
+"In which locations Nautilus should search on subfolders. Available values "
+"are “local-only”, “always”, “never”."
+msgstr ""
+
+msgid "Initial size of the window"
+msgstr ""
+
+msgid "Keywords"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Last Created"
+msgstr ""
+
+msgid "Last Modified"
+msgstr ""
+
+msgid "Last _Modified"
+msgstr ""
+
+msgid "Last _Trashed"
+msgstr ""
+
+msgid "Last _modified"
+msgstr ""
+
+msgid "Last _used"
+msgstr ""
+
+msgid "Last modified:"
+msgstr ""
+
+msgid "Last month"
+msgid_plural "%d months ago"
+msgstr[0] ""
+
+msgid "Last week"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+
+msgid "Last year"
+msgid_plural "%d years ago"
+msgstr[0] ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link (broken)"
+msgstr ""
+
+msgid "Link Creation"
+msgstr ""
+
+msgid "Link target:"
+msgstr ""
+
+msgid "Link to %s"
+msgstr ""
+
+msgid "List Columns"
+msgstr ""
+
+msgid "List View"
+msgstr ""
+
+msgid "List files only"
+msgstr ""
+
+msgid "List of possible captions on icons"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Local Files Only"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgctxt "MIME type description (MIME type)"
+msgid "%s (%s)"
+msgstr ""
+
+msgid "Making link to %'d file"
+msgid_plural "Making links to %'d files"
+msgstr[0] ""
+
+msgid "Markup"
+msgstr ""
+
+msgid "Maximum image size for thumbnailing"
+msgstr ""
+
+msgid "Me"
+msgstr ""
+
+msgid "Merge"
+msgstr ""
+
+msgid "Merge Folder"
+msgstr ""
+
+msgid "Merge _All"
+msgstr ""
+
+msgid "Merge folder “%s”?"
+msgstr ""
+
+msgid "Merge with"
+msgstr ""
+
+msgid ""
+"Merging will ask for confirmation before replacing any files in the folder "
+"that conflict with the files being copied."
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
+msgid "Metering Mode"
+msgstr ""
+
+msgid "Mo_ve to Trash"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Modified — Time"
+msgstr ""
+
+msgid "Modified:"
+msgstr ""
+
+msgid "Mouse button to activate the “Back” command in browser window"
+msgstr ""
+
+msgid "Mouse button to activate the “Forward” command in browser window"
+msgstr ""
+
+msgid "Move %d item back to trash"
+msgid_plural "Move %d items back to trash"
+msgstr[0] ""
+
+msgid "Move %d item back to “%s”"
+msgid_plural "Move %d items back to “%s”"
+msgstr[0] ""
+
+msgid "Move %d item to trash"
+msgid_plural "Move %d items to trash"
+msgstr[0] ""
+
+msgid "Move %d item to “%s”"
+msgid_plural "Move %d items to “%s”"
+msgstr[0] ""
+
+msgid "Move Tab _Left"
+msgstr ""
+
+msgid "Move Tab _Right"
+msgstr ""
+
+msgid "Move to…"
+msgstr ""
+
+msgid "Move “%s” back to trash"
+msgstr ""
+
+msgid "Move “%s” back to “%s”"
+msgstr ""
+
+msgid "Move “%s” to trash"
+msgstr ""
+
+msgid "Move “%s” to “%s”"
+msgstr ""
+
+msgid "Moved %'d file to “%s”"
+msgid_plural "Moved %'d files to “%s”"
+msgstr[0] ""
+
+msgid "Moved “%s” to “%s”"
+msgstr ""
+
+msgid "Moving %'d file to “%s”"
+msgid_plural "Moving %'d files to “%s”"
+msgstr[0] ""
+
+msgid "Moving Files"
+msgstr ""
+
+msgid "Moving “%s” to “%s”"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "N_ever"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name cannot be empty."
+msgstr ""
+
+msgid "Name cannot contain “/”."
+msgstr ""
+
+msgid ""
+"Nautilus 3.6 deprecated this directory and tried migrating this "
+"configuration to ~/.local/share/nautilus"
+msgstr ""
+
+msgid ""
+"Nautilus supports all the basic functions of a file manager and more. It can"
+" search and manage your files and folders, both locally and on a network, "
+"read and write data to and from removable media, run scripts, and launch "
+"applications. It has three views: Icon Grid, Icon List, and Tree List. Its "
+"functions can be extended with plugins and scripts."
+msgstr ""
+
+msgid "Ne_ver"
+msgstr ""
+
+msgid "Network File System"
+msgstr ""
+
+msgid "Networks"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New Folder"
+msgstr ""
+
+msgid "New Folder with Selection (%'d Item)"
+msgid_plural "New Folder with Selection (%'d Items)"
+msgstr[0] ""
+
+msgid "New Tab"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "New _Document"
+msgstr ""
+
+msgid "New _Folder"
+msgstr ""
+
+msgid "New tab"
+msgstr ""
+
+msgid "No Results Found"
+msgstr ""
+
+msgid "No network locations found"
+msgstr ""
+
+msgid "No recent servers found"
+msgstr ""
+
+msgid "No results found"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not allowed to set group"
+msgstr ""
+
+msgid "Not allowed to set owner"
+msgstr ""
+
+msgid "Not allowed to set permissions"
+msgstr ""
+
+msgid "Not enough free space to extract %s"
+msgstr ""
+
+msgid "On This Computer"
+msgstr ""
+
+msgid "Onl_y for files smaller than:"
+msgstr ""
+
+msgid "Only searching the current folder"
+msgstr ""
+
+msgid "Oops! Something went wrong."
+msgstr ""
+
+msgid "Oops! There was a problem running this software."
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open %s"
+msgstr ""
+
+msgid "Open Action"
+msgstr ""
+
+msgid "Open In New _Tab"
+msgstr ""
+
+msgid "Open In New _Window"
+msgstr ""
+
+msgid "Open With"
+msgstr ""
+
+msgid "Open With %s"
+msgstr ""
+
+msgid "Open With Other _Application"
+msgstr ""
+
+msgid "Open all files of type “%s” with"
+msgstr ""
+
+msgid "Open in Disks"
+msgstr ""
+
+msgid "Open in New _Tab"
+msgstr ""
+
+msgid "Open in New _Window"
+msgstr ""
+
+msgid "Open with:"
+msgstr ""
+
+msgid "Opening %d item."
+msgid_plural "Opening %d items."
+msgstr[0] ""
+
+msgid "Opening “%s”."
+msgstr ""
+
+msgid "Original File Name"
+msgstr ""
+
+msgid "Original Location"
+msgstr ""
+
+msgid "Original Name (Ascending)"
+msgstr ""
+
+msgid "Original Name (Descending)"
+msgstr ""
+
+msgid "Original file"
+msgstr ""
+
+msgid "Original file name"
+msgstr ""
+
+msgid "Original folder"
+msgstr ""
+
+msgid "Original folder:"
+msgstr ""
+
+msgid "Original location of file before moved to the Trash"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Other Locations"
+msgstr ""
+
+msgid "Other Type…"
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "Others:"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Owner:"
+msgstr ""
+
+msgid "PDF / PostScript"
+msgstr ""
+
+msgid "P_roperties"
+msgstr ""
+
+msgid "Parent folder"
+msgstr ""
+
+msgid "Parent folder:"
+msgstr ""
+
+msgid ""
+"Password-protected archives are not yet supported. This list contains "
+"applications that can open the archive."
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Perform a quick set of self-check tests."
+msgstr ""
+
+msgid "Permissions"
+msgstr ""
+
+msgid "Photo CD"
+msgstr ""
+
+msgid "Picture"
+msgstr ""
+
+msgid "Picture CD"
+msgstr ""
+
+msgid "Please drop just one image to set a custom icon."
+msgstr ""
+
+msgid "Please rename the symbolic link or press the skip button."
+msgstr ""
+
+msgid ""
+"Possible values are “single” to launch files on a single click, or “double” "
+"to launch them on a double click."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Prefix"
+msgstr ""
+
+msgid "Preparing"
+msgstr ""
+
+msgid "Preparing to compress %'d file"
+msgid_plural "Preparing to compress %'d files"
+msgstr[0] ""
+
+msgid "Preparing to copy %'d file (%s)"
+msgid_plural "Preparing to copy %'d files (%s)"
+msgstr[0] ""
+
+msgid "Preparing to delete %'d file (%s)"
+msgid_plural "Preparing to delete %'d files (%s)"
+msgstr[0] ""
+
+msgid "Preparing to extract"
+msgstr ""
+
+msgid "Preparing to move %'d file"
+msgid_plural "Preparing to move %'d files"
+msgstr[0] ""
+
+msgid "Preparing to move %'d file (%s)"
+msgid_plural "Preparing to move %'d files (%s)"
+msgstr[0] ""
+
+msgid "Preparing to move to “%s”"
+msgstr ""
+
+msgid "Preparing to trash %'d file"
+msgid_plural "Preparing to trash %'d files"
+msgstr[0] ""
+
+msgid "Presentation"
+msgstr ""
+
+msgid "Program"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Put files in this folder to use them as templates for new documents."
+msgstr ""
+
+msgid "Quit Nautilus."
+msgstr ""
+
+msgid "R_eload"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Re_name"
+msgstr ""
+
+msgid "Re_place"
+msgstr ""
+
+msgid "Read and write"
+msgstr ""
+
+msgid "Read-only"
+msgstr ""
+
+msgid "Recency"
+msgstr ""
+
+msgid "Recent Servers"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Redo last undone action"
+msgstr ""
+
+msgid "Relevance"
+msgstr ""
+
+msgid "Relevance rank for search"
+msgstr ""
+
+msgid "Remote location — only searching the current folder"
+msgstr ""
+
+msgid "Rena_me…"
+msgstr ""
+
+msgid "Rename %d File"
+msgid_plural "Rename %d Files"
+msgstr[0] ""
+
+msgid "Rename %d File and Folder"
+msgid_plural "Rename %d Files and Folders"
+msgstr[0] ""
+
+msgid "Rename %d Folder"
+msgid_plural "Rename %d Folders"
+msgstr[0] ""
+
+msgid "Rename _using a template"
+msgstr ""
+
+msgid "Rename “%s” as “%s”"
+msgstr ""
+
+msgid "Renaming “%s” to “%s”."
+msgstr ""
+
+msgid "Replace With"
+msgstr ""
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Replace file “%s”?"
+msgstr ""
+
+msgid "Replace folder “%s”?"
+msgstr ""
+
+msgid "Replace the current List Columns settings with the default settings"
+msgstr ""
+
+msgid "Replace with"
+msgstr ""
+
+msgid "Replacing it will overwrite its content."
+msgstr ""
+
+msgid "Replacing it will remove all files in the folder."
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset to De_fault"
+msgstr ""
+
+msgid "Reset zoom"
+msgstr ""
+
+msgid "Restore %d item from trash"
+msgid_plural "Restore %d items from trash"
+msgstr[0] ""
+
+msgid "Restore group of “%s” to “%s”"
+msgstr ""
+
+msgid "Restore original permissions of items enclosed in “%s”"
+msgstr ""
+
+msgid "Restore original permissions of “%s”"
+msgstr ""
+
+msgid "Restore owner of “%s” to “%s”"
+msgstr ""
+
+msgid "Restore selected items to their original position"
+msgstr ""
+
+msgid "Restore “%s” from trash"
+msgstr ""
+
+msgid "Restore “%s” to “%s”"
+msgstr ""
+
+msgid "Reverse sort order in new windows"
+msgstr ""
+
+msgid "Run"
+msgstr ""
+
+msgid "Run Software"
+msgstr ""
+
+msgid "Run in _Terminal"
+msgstr ""
+
+msgid "SSH File Transfer Protocol"
+msgstr ""
+
+msgid "S_kip All"
+msgstr ""
+
+msgid "Samba"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search & Preview"
+msgstr ""
+
+msgid "Search for “%s”"
+msgstr ""
+
+msgid "Search in subfolders:"
+msgstr ""
+
+msgid "Search on the file content and name"
+msgstr ""
+
+msgid "Search only on the file name"
+msgstr ""
+
+msgid "Searching for network locations"
+msgstr ""
+
+msgid "Searching locations only"
+msgstr ""
+
+msgid "Searching network locations only"
+msgstr ""
+
+msgid "Searching…"
+msgstr ""
+
+msgid "Season Number"
+msgstr ""
+
+msgid "Season number"
+msgstr ""
+
+msgid "Security context:"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Copy Destination"
+msgstr ""
+
+msgid "Select Custom Icon"
+msgstr ""
+
+msgid "Select Dates…"
+msgstr ""
+
+msgid "Select Extract Destination"
+msgstr ""
+
+msgid "Select Items Matching"
+msgstr ""
+
+msgid "Select Move Destination"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select a date"
+msgstr ""
+
+msgid "Select an application to open “%s” and other files of type “%s”"
+msgstr ""
+
+msgid "Select specified URI in parent folder."
+msgstr ""
+
+msgid "Select type"
+msgstr ""
+
+msgid "Send file by mail…"
+msgstr ""
+
+msgid "Send files by mail…"
+msgstr ""
+
+msgid "Send to…"
+msgstr ""
+
+msgid "Server Addresses"
+msgstr ""
+
+msgid ""
+"Server addresses are made up of a protocol prefix and an address. Examples:"
+msgstr ""
+
+msgid "Set As Wallpaper"
+msgstr ""
+
+msgid "Set as default"
+msgstr ""
+
+msgid "Set group of “%s” to “%s”"
+msgstr ""
+
+msgid "Set owner of “%s” to “%s”"
+msgstr ""
+
+msgid "Set permissions of items enclosed in “%s”"
+msgstr ""
+
+msgid "Set permissions of “%s”"
+msgstr ""
+
+msgid "Setting permissions"
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Show _Hidden Files"
+msgstr ""
+
+msgid "Show a calendar to select the date"
+msgstr ""
+
+msgid "Show a list to select the date"
+msgstr ""
+
+msgid "Show action to _permanently delete files and folders"
+msgstr ""
+
+msgid "Show action to create symbolic _links"
+msgstr ""
+
+msgid "Show location bar in new windows"
+msgstr ""
+
+msgid "Show operations"
+msgstr ""
+
+msgid "Show side pane in new windows"
+msgstr ""
+
+msgid "Show the package installer for unknown MIME types"
+msgstr ""
+
+msgid "Show the version of the program."
+msgstr ""
+
+msgid "Show thumbnails:"
+msgstr ""
+
+msgid "Shows if file is starred."
+msgstr ""
+
+msgid "Since %d day ago"
+msgid_plural "Since %d days ago"
+msgstr[0] ""
+
+msgid "Since last month"
+msgid_plural "Since %d months ago"
+msgstr[0] ""
+
+msgid "Since last week"
+msgid_plural "Since %d weeks ago"
+msgstr[0] ""
+
+msgid "Since last year"
+msgid_plural "Since %d years ago"
+msgstr[0] ""
+
+msgid "Since…"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Slashes are not allowed in filenames"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Smaller archives but Linux and Mac only."
+msgstr ""
+
+msgid "Smaller archives but must be installed on Windows and Mac."
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Sorry, but you cannot execute commands from a remote site."
+msgstr ""
+
+msgid "Sorry, could not change the group of “%s”: %s"
+msgstr ""
+
+msgid "Sorry, could not change the owner of “%s”: %s"
+msgstr ""
+
+msgid "Sorry, could not change the permissions of “%s”: %s"
+msgstr ""
+
+msgid "Sorry, could not display all the contents of “%s”: %s"
+msgstr ""
+
+msgid "Sorry, could not rename “%s” to “%s”: %s"
+msgstr ""
+
+msgctxt "Sort Criterion"
+msgid "_A-Z"
+msgstr ""
+
+msgctxt "Sort Criterion"
+msgid "_Z-A"
+msgstr ""
+
+msgid "Sort _folders before files"
+msgstr ""
+
+msgid "Specified group “%s” doesn’t exist"
+msgstr ""
+
+msgid "Specified owner “%s” doesn’t exist"
+msgstr ""
+
+msgid ""
+"Speed trade-off for when to show a file as a thumbnail. If set to “always” "
+"then always thumbnail, even if the folder is on a remote server. If set to "
+"“local-only” then only show thumbnails for local file systems. If set to "
+"“never” then never bother to thumbnail files, just use a generic icon. "
+"Despite what the name may suggest, this applies to any previewable file "
+"type."
+msgstr ""
+
+msgid ""
+"Speed tradeoff for when to show the number of items in a folder. If set to "
+"“always” then always show item counts, even if the folder is on a remote "
+"server. If set to “local-only” then only show counts for local file systems."
+" If set to “never” then never bother to compute item counts."
+msgstr ""
+
+msgid "Spreadsheet"
+msgstr ""
+
+msgid "St_op"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Star"
+msgstr ""
+
+msgid "Star %d file"
+msgid_plural "Star %d files"
+msgstr[0] ""
+
+msgid "Starred"
+msgstr ""
+
+msgid "Starred files will appear here"
+msgstr ""
+
+msgid "Stop Drive"
+msgstr ""
+
+msgid "Super Video CD"
+msgstr ""
+
+msgid "Symbolic links only supported for local files"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text Ellipsis Limit"
+msgstr ""
+
+msgid "Text File"
+msgstr ""
+
+msgid "The date the file was accessed by the user."
+msgstr ""
+
+msgid "The date the file was accessed."
+msgstr ""
+
+msgid "The date the file was modified."
+msgstr ""
+
+msgid "The default width of the side pane in new windows."
+msgstr ""
+
+msgid "The destination folder is inside the source folder."
+msgstr ""
+
+msgid "The destination is not a folder."
+msgstr ""
+
+msgid "The destination is read-only."
+msgstr ""
+
+msgid "The detailed type of the file."
+msgstr ""
+
+msgid "The file is of an unknown type"
+msgstr ""
+
+msgid "The file that you dropped is not an image."
+msgstr ""
+
+msgid "The file that you dropped is not local."
+msgstr ""
+
+msgid ""
+"The file “%s” cannot be handled because you do not have permissions to read "
+"it."
+msgstr ""
+
+msgid ""
+"The folder “%s” cannot be copied because you do not have permissions to "
+"create it in the destination."
+msgstr ""
+
+msgid ""
+"The folder “%s” cannot be copied because you do not have permissions to read"
+" it."
+msgstr ""
+
+msgid ""
+"The folder “%s” cannot be handled because you do not have permissions to "
+"read it."
+msgstr ""
+
+msgid "The format that will be selected when compressing files."
+msgstr ""
+
+msgid "The group could not be changed."
+msgstr ""
+
+msgid "The group of the file."
+msgstr ""
+
+msgid "The item cannot be restored from trash"
+msgstr ""
+
+msgid "The item could not be renamed."
+msgstr ""
+
+msgid "The link “%s” is broken."
+msgstr ""
+
+msgid "The link “%s” is broken. Move it to Trash?"
+msgstr ""
+
+msgid "The location of the file."
+msgstr ""
+
+msgid "The name and icon of the file."
+msgstr ""
+
+msgid ""
+"The name “%s” is already used in this location. Please use a different name."
+msgstr ""
+
+msgid ""
+"The name “%s” is not valid because it contains the character “/”. Please use"
+" a different name."
+msgstr ""
+
+msgid "The name “%s” is not valid. Please use a different name."
+msgstr ""
+
+msgid "The name “%s” is too long. Please use a different name."
+msgstr ""
+
+msgid "The owner could not be changed."
+msgstr ""
+
+msgid "The owner of the file."
+msgstr ""
+
+msgid "The permissions could not be changed."
+msgstr ""
+
+msgid "The permissions of the file."
+msgstr ""
+
+msgid "The permissions of the selected file could not be determined."
+msgstr ""
+
+msgid "The permissions of “%s” could not be determined."
+msgstr ""
+
+msgid "The selection rectangle"
+msgstr ""
+
+msgid "The size of the file."
+msgstr ""
+
+msgid "The source file would be overwritten by the destination."
+msgstr ""
+
+msgid "The target doesn’t support symbolic links."
+msgstr ""
+
+msgid "The type of the file."
+msgstr ""
+
+msgid "There is no application installed for “%s” files"
+msgstr ""
+
+msgid ""
+"There is no “%s” in this location. Perhaps it was just moved or deleted?"
+msgstr ""
+
+msgid ""
+"There is not enough space on the destination. Try to remove files to make "
+"space."
+msgstr ""
+
+msgid "There was an error copying the file into %s."
+msgstr ""
+
+msgid "There was an error creating the directory in %s."
+msgstr ""
+
+msgid "There was an error creating the folder “%s”."
+msgstr ""
+
+msgid "There was an error creating the symlink in %s."
+msgstr ""
+
+msgid "There was an error deleting the file “%s”."
+msgstr ""
+
+msgid "There was an error deleting the folder “%s”."
+msgstr ""
+
+msgid ""
+"There was an error displaying help: \n"
+"%s"
+msgstr ""
+
+msgid "There was an error getting information about the destination."
+msgstr ""
+
+msgid ""
+"There was an error getting information about the files in the folder “%s”."
+msgstr ""
+
+msgid "There was an error getting information about “%s”."
+msgstr ""
+
+msgid "There was an error launching the application."
+msgstr ""
+
+msgid "There was an error moving the file into %s."
+msgstr ""
+
+msgid "There was an error reading the folder “%s”."
+msgstr ""
+
+msgid "There was an error while compressing files."
+msgstr ""
+
+msgid "There was an error while extracting “%s”."
+msgstr ""
+
+msgid "There was an internal error trying to search for applications:"
+msgstr ""
+
+msgid "This drop target only supports local files."
+msgstr ""
+
+msgid "This file cannot be ejected"
+msgstr ""
+
+msgid "This file cannot be mounted"
+msgstr ""
+
+msgid "This file cannot be started"
+msgstr ""
+
+msgid "This file cannot be stopped"
+msgstr ""
+
+msgid "This file cannot be unmounted"
+msgstr ""
+
+msgid "This is disabled due to security considerations."
+msgstr ""
+
+msgid ""
+"This is not allowed in order to avoid the deletion of the destination "
+"folder’s contents."
+msgstr ""
+
+msgid ""
+"This key is deprecated and ignored. The “show-hidden” key from "
+"“org.gtk.Settings.FileChooser” is now used instead."
+msgstr ""
+
+msgid "This link cannot be used because it has no target."
+msgstr ""
+
+msgid "This link cannot be used because its target “%s” doesn’t exist."
+msgstr ""
+
+msgid "This location could not be displayed."
+msgstr ""
+
+msgid "This location doesn’t appear to be a folder."
+msgstr ""
+
+msgid "This remote location does not support sending items to the trash."
+msgstr ""
+
+msgid "This will open %'d separate tab."
+msgid_plural "This will open %'d separate tabs."
+msgstr[0] ""
+
+msgid "This will open %'d separate window."
+msgid_plural "This will open %'d separate windows."
+msgstr[0] ""
+
+msgid "This will open %d separate tab."
+msgid_plural "This will open %d separate tabs."
+msgstr[0] ""
+
+msgid "This will open %d separate window."
+msgid_plural "This will open %d separate windows."
+msgstr[0] ""
+
+msgid "Thumbnails"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid ""
+"To open non-local files copy them to a local folder and then drop them "
+"again."
+msgstr ""
+
+msgid ""
+"To open non-local files copy them to a local folder and then drop them "
+"again. The local files you dropped have already been opened."
+msgstr ""
+
+msgid "Toggle view"
+msgstr ""
+
+msgid "Toplevel files cannot be renamed"
+msgstr ""
+
+msgid "Total capacity:"
+msgstr ""
+
+msgid "Track Number"
+msgstr ""
+
+msgid "Track number"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Trash is Empty"
+msgstr ""
+
+msgid "Trashed %'d file"
+msgid_plural "Trashed %'d files"
+msgstr[0] ""
+
+msgid "Trashed On"
+msgstr ""
+
+msgid "Trashed on:"
+msgstr ""
+
+msgid "Trashed “%s”"
+msgstr ""
+
+msgid "Trashing %'d file"
+msgid_plural "Trashing %'d files"
+msgstr[0] ""
+
+msgid "Trashing Files"
+msgstr ""
+
+msgid "Trashing “%s”"
+msgstr ""
+
+msgid "Try a different search"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type of click used to launch/open files"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "U_nlock Drive"
+msgstr ""
+
+msgid "Unable to access location"
+msgstr ""
+
+msgid "Unable to access the requested location."
+msgstr ""
+
+msgid "Unable to access “%s”"
+msgstr ""
+
+msgid "Unable to complete the requested search"
+msgstr ""
+
+msgid ""
+"Unable to create a required folder. Please create the following folder, or set permissions such that it can be created:\n"
+"%s"
+msgstr ""
+
+msgid ""
+"Unable to create required folders. Please create the following folders, or set permissions such that they can be created:\n"
+"%s"
+msgstr ""
+
+msgid "Unable to display the contents of this folder."
+msgstr ""
+
+msgid "Unable to eject %s"
+msgstr ""
+
+msgid "Unable to eject “%s”"
+msgstr ""
+
+msgid ""
+"Unable to find the requested file. Please check the spelling and try again."
+msgstr ""
+
+msgid ""
+"Unable to find the requested location. Please check the spelling or the "
+"network settings."
+msgstr ""
+
+msgid "Unable to get remote server location"
+msgstr ""
+
+msgid "Unable to handle this kind of location."
+msgstr ""
+
+msgid "Unable to load location"
+msgstr ""
+
+msgid "Unable to locate the program"
+msgstr ""
+
+msgid "Unable to remove “%s”"
+msgstr ""
+
+msgid "Unable to search for application"
+msgstr ""
+
+msgid "Unable to start location"
+msgstr ""
+
+msgid ""
+"Unable to start the program:\n"
+"%s"
+msgstr ""
+
+msgid "Unable to start “%s”"
+msgstr ""
+
+msgid "Unable to stop drive"
+msgstr ""
+
+msgid "Unable to unmount %s"
+msgstr ""
+
+msgid "Unable to unmount volume"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo last action"
+msgstr ""
+
+msgid "Unhandled error message: %s"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unmount"
+msgstr ""
+
+msgid "Unstar %d file"
+msgid_plural "Unstar %d files"
+msgstr[0] ""
+
+msgid "Untitled Document"
+msgstr ""
+
+msgid "Untitled Folder"
+msgstr ""
+
+msgid "Use Default"
+msgstr ""
+
+msgid "Use extra mouse button events in Nautilus’ browser window"
+msgstr ""
+
+msgid "Use tree view"
+msgstr ""
+
+msgid "Verifying destination"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video CD"
+msgstr ""
+
+msgid "Video DVD"
+msgstr ""
+
+msgid "View of the current folder"
+msgstr ""
+
+msgid "View options"
+msgstr ""
+
+msgid "Views"
+msgstr ""
+
+msgid "Volume:"
+msgstr ""
+
+msgid "Wallpapers"
+msgstr ""
+
+msgid "WebDAV"
+msgstr ""
+
+msgid "What"
+msgstr ""
+
+msgid "What to do with executable text files when activated"
+msgstr ""
+
+msgid ""
+"What to do with executable text files when they are activated (single or "
+"double clicked). Possible values are “launch” to launch them as programs, "
+"“ask” to ask what to do via a dialog, and “display” to display them as text "
+"files."
+msgstr ""
+
+msgid "What viewer should be used when searching"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid ""
+"When a folder is visited this viewer is used unless you have selected "
+"another view for that particular folder. Possible values are “list-view”, "
+"and “icon-view”."
+msgstr ""
+
+msgid ""
+"When searching Nautilus will switch to the type of view in this setting."
+msgstr ""
+
+msgid "When to show number of items in a folder"
+msgstr ""
+
+msgid "When to show thumbnails of files"
+msgstr ""
+
+msgid "Where to perform recursive search"
+msgstr ""
+
+msgid "Where to position newly open tabs in browser windows"
+msgstr ""
+
+msgid ""
+"Whether a tree should be used for list view navigation instead of a flat "
+"list."
+msgstr ""
+
+msgid "Whether the navigation window should be maximized"
+msgstr ""
+
+msgid "Whether the navigation window should be maximized by default."
+msgstr ""
+
+msgid ""
+"Whether to ask for confirmation when deleting files, or emptying the Trash"
+msgstr ""
+
+msgid ""
+"Whether to have full text search enabled by default when opening a new "
+"window/tab"
+msgstr ""
+
+msgid ""
+"Whether to open the hovered folder after a timeout when drag and drop "
+"operation"
+msgstr ""
+
+msgid "Whether to show a context menu item to delete permanently"
+msgstr ""
+
+msgid ""
+"Whether to show context menu items to create links from copied or selected "
+"files"
+msgstr ""
+
+msgid "Whether to show hidden files"
+msgstr ""
+
+msgid ""
+"Whether to show the user a package installer dialog in case an unknown MIME "
+"type is opened, in order to search for an application to handle it."
+msgstr ""
+
+msgid ""
+"Whether to use the new experimental views using the latest GTK+ widgets to "
+"help giving feedback and shaping their future."
+msgstr ""
+
+msgid "Which file types will be searched"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Width of the side pane"
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+msgid "Y"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Yesterday %H:%M"
+msgstr ""
+
+msgid "Yesterday %l:%M %p"
+msgstr ""
+
+msgid "You are not the owner, so you cannot change these permissions."
+msgstr ""
+
+msgid ""
+"You are trying to replace the destination folder “%s” with a symbolic link."
+msgstr ""
+
+msgid "You can only use local images as custom icons."
+msgstr ""
+
+msgid "You can stop this operation by clicking cancel."
+msgstr ""
+
+msgid "You cannot assign more than one custom icon at a time!"
+msgstr ""
+
+msgid "You cannot copy a file over itself."
+msgstr ""
+
+msgid "You cannot copy a folder into itself."
+msgstr ""
+
+msgid "You cannot move a file over itself."
+msgstr ""
+
+msgid "You cannot move a folder into itself."
+msgstr ""
+
+msgid "You do not have permissions to access the destination folder."
+msgstr ""
+
+msgid "You do not have sufficient permissions to delete the file “%s”."
+msgstr ""
+
+msgid "You do not have sufficient permissions to delete the folder “%s”."
+msgstr ""
+
+msgid "You do not have the permissions necessary to change the group of “%s”."
+msgstr ""
+
+msgid "You do not have the permissions necessary to rename “%s”."
+msgstr ""
+
+msgid ""
+"You do not have the permissions necessary to view the contents of “%s”."
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "[URI…]"
+msgstr ""
+
+msgid "_About Files"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_All locations"
+msgstr ""
+
+msgid "_Ask what to do"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close Tab"
+msgstr ""
+
+msgid "_Connect"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copy Here"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Delete Permanently"
+msgstr ""
+
+msgid "_Delete from Trash"
+msgstr ""
+
+msgid "_Detect Media"
+msgstr ""
+
+msgid "_Disconnect"
+msgstr ""
+
+msgid "_Display"
+msgstr ""
+
+msgid "_Display them"
+msgstr ""
+
+msgid "_Double click to open items"
+msgstr ""
+
+msgid "_Eject"
+msgstr ""
+
+msgid "_Empty"
+msgstr ""
+
+msgid "_Extract Here"
+msgstr ""
+
+msgid "_Files"
+msgstr ""
+
+msgid "_Files on this computer only"
+msgstr ""
+
+msgid "_First Modified"
+msgstr ""
+
+msgid "_Format…"
+msgstr ""
+
+msgid "_Group:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Link Here"
+msgstr ""
+
+msgid "_Lock Drive"
+msgstr ""
+
+msgid "_Merge"
+msgstr ""
+
+msgid "_Mount"
+msgstr ""
+
+msgid "_Move Here"
+msgstr ""
+
+msgid "_Name:"
+msgid_plural "_Names:"
+msgstr[0] ""
+
+msgid "_Never"
+msgstr ""
+
+msgid "_New Tab"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_On this computer only"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open Item Location"
+msgstr ""
+
+msgid "_Open Scripts Folder"
+msgstr ""
+
+msgid "_Owner:"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Paste Into Folder"
+msgstr ""
+
+msgid "_Pattern:"
+msgstr ""
+
+msgid "_Properties"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Redo Batch Rename"
+msgstr ""
+
+msgid "_Redo Change Group"
+msgstr ""
+
+msgid "_Redo Change Owner"
+msgstr ""
+
+msgid "_Redo Change Permissions"
+msgstr ""
+
+msgid "_Redo Compress"
+msgstr ""
+
+msgid "_Redo Copy"
+msgstr ""
+
+msgid "_Redo Copy %d item"
+msgid_plural "_Redo Copy %d items"
+msgstr[0] ""
+
+msgid "_Redo Create Empty File"
+msgstr ""
+
+msgid "_Redo Create Folder"
+msgstr ""
+
+msgid "_Redo Create Link"
+msgstr ""
+
+msgid "_Redo Create from Template"
+msgstr ""
+
+msgid "_Redo Duplicate"
+msgstr ""
+
+msgid "_Redo Duplicate %d item"
+msgid_plural "_Redo Duplicate %d items"
+msgstr[0] ""
+
+msgid "_Redo Extract"
+msgstr ""
+
+msgid "_Redo Move"
+msgstr ""
+
+msgid "_Redo Move %d item"
+msgid_plural "_Redo Move %d items"
+msgstr[0] ""
+
+msgid "_Redo Rename"
+msgstr ""
+
+msgid "_Redo Restore from Trash"
+msgstr ""
+
+msgid "_Redo Starring"
+msgstr ""
+
+msgid "_Redo Trash"
+msgstr ""
+
+msgid "_Redo Unstarring"
+msgstr ""
+
+msgid "_Remove from Recent"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Restore"
+msgstr ""
+
+msgid "_Restore From Trash"
+msgstr ""
+
+msgid "_Retry"
+msgstr ""
+
+msgid "_Revert"
+msgstr ""
+
+msgid "_Run"
+msgstr ""
+
+msgid "_Run them"
+msgstr ""
+
+msgid "_Safely Remove Drive"
+msgstr ""
+
+msgid "_Scripts"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Select Application"
+msgstr ""
+
+msgid "_Select a new name for the destination"
+msgstr ""
+
+msgid "_Single click to open items"
+msgstr ""
+
+msgid "_Size"
+msgstr ""
+
+msgid "_Skip"
+msgstr ""
+
+msgid "_Skip files"
+msgstr ""
+
+msgid "_Start"
+msgstr ""
+
+msgid "_Start Multi-disk Drive"
+msgstr ""
+
+msgid "_Stop"
+msgstr ""
+
+msgid "_Stop Multi-disk Drive"
+msgstr ""
+
+msgid "_Type"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "_Undo Batch Rename"
+msgstr ""
+
+msgid "_Undo Change Group"
+msgstr ""
+
+msgid "_Undo Change Owner"
+msgstr ""
+
+msgid "_Undo Change Permissions"
+msgstr ""
+
+msgid "_Undo Compress"
+msgstr ""
+
+msgid "_Undo Copy"
+msgstr ""
+
+msgid "_Undo Copy %d item"
+msgid_plural "_Undo Copy %d items"
+msgstr[0] ""
+
+msgid "_Undo Create Empty File"
+msgstr ""
+
+msgid "_Undo Create Folder"
+msgstr ""
+
+msgid "_Undo Create Link"
+msgstr ""
+
+msgid "_Undo Create from Template"
+msgstr ""
+
+msgid "_Undo Duplicate"
+msgstr ""
+
+msgid "_Undo Duplicate %d item"
+msgid_plural "_Undo Duplicate %d items"
+msgstr[0] ""
+
+msgid "_Undo Extract"
+msgstr ""
+
+msgid "_Undo Move"
+msgstr ""
+
+msgid "_Undo Move %d item"
+msgid_plural "_Undo Move %d items"
+msgstr[0] ""
+
+msgid "_Undo Rename"
+msgstr ""
+
+msgid "_Undo Restore from Trash"
+msgstr ""
+
+msgid "_Undo Starring"
+msgstr ""
+
+msgid "_Undo Trash"
+msgstr ""
+
+msgid "_Undo Unstarring"
+msgstr ""
+
+msgid "_Unmount"
+msgstr ""
+
+msgid "_Visible Columns…"
+msgstr ""
+
+msgid "access"
+msgstr ""
+
+msgid "application-x-executable"
+msgstr ""
+
+msgid "create/delete"
+msgstr ""
+
+msgid "dav:// or davs://"
+msgstr ""
+
+msgid "dropped data"
+msgstr ""
+
+msgctxt "file"
+msgid "%s Properties"
+msgstr ""
+
+msgctxt "folder"
+msgid "%s Properties"
+msgstr ""
+
+msgid "folder;manager;explore;disk;filesystem;"
+msgstr ""
+
+msgid "free"
+msgstr ""
+
+msgid "ftp:// or ftps://"
+msgstr ""
+
+msgid "list"
+msgstr ""
+
+msgctxt "menu item"
+msgid "Sort"
+msgstr ""
+
+msgctxt "menu item"
+msgid "Star"
+msgstr ""
+
+msgctxt "menu item"
+msgid "Unstar"
+msgstr ""
+
+msgid "nd copy)"
+msgstr ""
+
+msgid "no "
+msgstr ""
+
+msgid "nothing"
+msgstr ""
+
+msgctxt "preferences"
+msgid "Sort"
+msgstr ""
+
+msgid "rd copy)"
+msgstr ""
+
+msgid "read"
+msgstr ""
+
+msgid "sftp:// or ssh://"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Bookmark current location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close window or tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Create folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Cut"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Delete permanently"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Editing"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Enter location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go down"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go forward"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to home folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to next tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to previous tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go up"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Grid view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Invert selection"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "List view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Location bar with home location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Location bar with root location"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move tab left"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move tab right"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move to trash"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "New tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "New window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open file and close window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open in new tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open in new window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open item location (search and recent only)"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open with default application"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Opening"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Paste"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Redo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Refresh view"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rename"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reset zoom"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Restore tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select items matching"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Shortcuts"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show item properties"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show/hide action menu"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show/hide hidden files"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show/hide sidebar"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Tabs"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "View"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "st copy)"
+msgstr ""
+
+msgid "th copy)"
+msgstr ""
+
+msgctxt "the n-th position of an icon caption"
+msgid "First"
+msgstr ""
+
+msgctxt "the n-th position of an icon caption"
+msgid "Second"
+msgstr ""
+
+msgctxt "the n-th position of an icon caption"
+msgid "Third"
+msgstr ""
+
+msgctxt "title"
+msgid "Replace"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "unreadable"
+msgstr ""
+
+msgid "used"
+msgstr ""
+
+msgid "write"
+msgstr ""
+
+msgid "“%s” can’t be put in the trash. Do you want to delete it immediately?"
+msgstr ""
+
+msgid ""
+"“%s” contains software intended to be automatically started. Would you like "
+"to run it?"
+msgstr ""
+
+msgid "“%s” could not be found. Perhaps it has recently been deleted."
+msgstr ""
+
+msgid "“%s” deleted"
+msgstr ""
+
+msgid "“%s” is an executable text file."
+msgstr ""
+
+msgid ""
+"“%s” is an internal protocol. Opening this location directly is not "
+"supported."
+msgstr ""
+
+msgid "“%s” locations are not supported."
+msgstr ""
+
+msgid "“%s” selected"
+msgstr ""
+
+msgid "“%s” unstarred"
+msgstr ""
+
+msgid "“%s” would conflict with an existing file."
+msgstr ""
+
+msgid "“%s” would not be a unique new name."
+msgstr ""
+
+msgid "“..” is not a valid name."
+msgstr ""
+
+msgid "“.” is not a valid name."
+msgstr ""

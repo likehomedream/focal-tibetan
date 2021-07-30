@@ -1,0 +1,142 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libgnomekbd master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=libgnomekbd&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-03-26 08:33+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:46+0000\n"
+
+msgid "Default group, assigned on window creation"
+msgstr ""
+
+msgid "Indicator:"
+msgstr ""
+
+msgid "Keep and manage separate group per window"
+msgstr ""
+
+msgid "Keyboard Layout"
+msgstr ""
+
+msgid "Keyboard layout"
+msgstr ""
+
+msgid ""
+"Keyboard layout \"%s\"\n"
+"Copyright &#169; X.Org Foundation and XKeyboardConfig contributors\n"
+"For licensing see package metadata"
+msgstr ""
+
+msgid "Keyboard model"
+msgstr ""
+
+msgid "Keyboard options"
+msgstr ""
+
+msgid "Load exotic, rarely used layouts and options"
+msgstr ""
+
+msgid "Load extra configuration items"
+msgstr ""
+
+msgid "Preview keyboard layouts"
+msgstr ""
+
+msgid "Save/restore indicators together with layout groups"
+msgstr ""
+
+msgid "Secondary groups"
+msgstr ""
+
+msgid "Show flags in the applet"
+msgstr ""
+
+msgid "Show flags in the applet to indicate the current layout"
+msgstr ""
+
+msgid "Show layout names instead of group names"
+msgstr ""
+
+msgid ""
+"Show layout names instead of group names (only for versions of XFree "
+"supporting multiple layouts)"
+msgstr ""
+
+msgid "The Keyboard Preview, X offset"
+msgstr ""
+
+msgid "The Keyboard Preview, Y offset"
+msgstr ""
+
+msgid "The Keyboard Preview, height"
+msgstr ""
+
+msgid "The Keyboard Preview, width"
+msgstr ""
+
+msgid "The background color"
+msgstr ""
+
+msgid "The background color for the layout indicator"
+msgstr ""
+
+msgid "The font family"
+msgstr ""
+
+msgid "The font family for the layout indicator"
+msgstr ""
+
+msgid "The font size"
+msgstr ""
+
+msgid "The font size for the layout indicator"
+msgstr ""
+
+msgid "The foreground color"
+msgstr ""
+
+msgid "The foreground color for the layout indicator"
+msgstr ""
+
+msgid "There was an error loading an image: %s"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "XKB initialization error"
+msgstr ""
+
+msgid "keyboard layout"
+msgstr ""
+
+msgid "keyboard model"
+msgstr ""
+
+msgid "layout \"%s\""
+msgid_plural "layouts \"%s\""
+msgstr[0] ""
+
+msgid "model \"%s\", %s and %s"
+msgstr ""
+
+msgid "no layout"
+msgstr ""
+
+msgid "no options"
+msgstr ""
+
+msgid "option \"%s\""
+msgid_plural "options \"%s\""
+msgstr[0] ""
+
+msgid "preferences-desktop-keyboard"
+msgstr ""

@@ -1,0 +1,743 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libgweather master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/libgweather/issues\n"
+"PO-Revision-Date: 2020-04-05 08:13+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:02+0000\n"
+
+msgid "%.0fm"
+msgstr ""
+
+msgid "%.1f km"
+msgstr ""
+
+msgid "%.1f km/h"
+msgstr ""
+
+msgid "%.1f m/s"
+msgstr ""
+
+msgid "%.1f miles"
+msgstr ""
+
+msgid "%.1f mmHg"
+msgstr ""
+
+msgid "%.1f mph"
+msgstr ""
+
+msgid "%.1f ℃"
+msgstr ""
+
+msgid "%.1f ℉"
+msgstr ""
+
+msgid "%.1f K"
+msgstr ""
+
+msgid "%.2f hPa"
+msgstr ""
+
+msgid "%.2f inHg"
+msgstr ""
+
+msgid "%.2f kPa"
+msgstr ""
+
+msgid "%.2f mb"
+msgstr ""
+
+msgid "%.3f atm"
+msgstr ""
+
+msgid "%.f%%"
+msgstr ""
+
+msgid "%0.1f knots"
+msgstr ""
+
+msgid "%H∶%M"
+msgstr ""
+
+msgid "%a, %b %d / %H∶%M"
+msgstr ""
+
+msgid "%d ℃"
+msgstr ""
+
+msgid "%d ℉"
+msgstr ""
+
+msgid "%d K"
+msgstr ""
+
+msgid "%s / %s"
+msgstr ""
+
+msgid "('', 'KNYC', nothing)"
+msgstr ""
+
+msgid "Beaufort force %.1f"
+msgstr ""
+
+msgid "Blowing dust"
+msgstr ""
+
+msgid "Blowing sand"
+msgstr ""
+
+msgid "Blowing snowfall"
+msgstr ""
+
+msgid "Blowing sprays"
+msgstr ""
+
+msgid "Broken clouds"
+msgstr ""
+
+msgid "Calm"
+msgstr ""
+
+msgid "Clear sky"
+msgstr ""
+
+msgid "Default location"
+msgstr ""
+
+msgid "Distance unit"
+msgstr ""
+
+msgid "Drifting dust"
+msgstr ""
+
+msgid "Drifting sand"
+msgstr ""
+
+msgid "Drifting snow"
+msgstr ""
+
+msgid "Drizzle"
+msgstr ""
+
+msgid "Dust"
+msgstr ""
+
+msgid "Dust whirls"
+msgstr ""
+
+msgid "Dust whirls in the vicinity"
+msgstr ""
+
+msgid "Duststorm"
+msgstr ""
+
+msgid "Duststorm in the vicinity"
+msgstr ""
+
+msgid "East"
+msgstr ""
+
+msgid "East — Northeast"
+msgstr ""
+
+msgid "East — Southeast"
+msgstr ""
+
+msgid "Failed to get METAR data: %d %s.\n"
+msgstr ""
+
+msgid "Few clouds"
+msgstr ""
+
+msgid "Fog"
+msgstr ""
+
+msgid "Fog in the vicinity"
+msgstr ""
+
+msgid "Freezing drizzle"
+msgstr ""
+
+msgid "Freezing fog"
+msgstr ""
+
+msgid "Freezing rain"
+msgstr ""
+
+msgid "Funnel cloud"
+msgstr ""
+
+msgid "Greenwich Mean Time"
+msgstr ""
+
+msgid "Hail"
+msgstr ""
+
+msgid "Hail showers"
+msgstr ""
+
+msgid "Hailstorm"
+msgstr ""
+
+msgid "Haze"
+msgstr ""
+
+msgid "Heavy drizzle"
+msgstr ""
+
+msgid "Heavy duststorm"
+msgstr ""
+
+msgid "Heavy rain"
+msgstr ""
+
+msgid "Heavy sandstorm"
+msgstr ""
+
+msgid "Heavy sleet"
+msgstr ""
+
+msgid "Heavy snow"
+msgstr ""
+
+msgid "Heavy snow grains"
+msgstr ""
+
+msgid "Ice crystals"
+msgstr ""
+
+msgid "Light drizzle"
+msgstr ""
+
+msgid "Light rain"
+msgstr ""
+
+msgid "Light snow"
+msgstr ""
+
+msgid "Light snow grains"
+msgstr ""
+
+msgid "Little sleet"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Mist"
+msgstr ""
+
+msgid "Moderate drizzle"
+msgstr ""
+
+msgid "Moderate rain"
+msgstr ""
+
+msgid "Moderate sleet"
+msgstr ""
+
+msgid "Moderate snow"
+msgstr ""
+
+msgid "Moderate snow grains"
+msgstr ""
+
+msgid "North"
+msgstr ""
+
+msgid "North — Northeast"
+msgstr ""
+
+msgid "North — Northwest"
+msgstr ""
+
+msgid "Northeast"
+msgstr ""
+
+msgid "Northwest"
+msgstr ""
+
+msgid "Overcast"
+msgstr ""
+
+msgid "Partial fog"
+msgstr ""
+
+msgid "Patches of fog"
+msgstr ""
+
+msgid "Pressure unit"
+msgstr ""
+
+msgid "Rain"
+msgstr ""
+
+msgid "Rain showers"
+msgstr ""
+
+msgid "Retrieval failed"
+msgstr ""
+
+msgid "Sand"
+msgstr ""
+
+msgid "Sandstorm"
+msgstr ""
+
+msgid "Sandstorm in the vicinity"
+msgstr ""
+
+msgid "Scattered clouds"
+msgstr ""
+
+msgid "Shallow fog"
+msgstr ""
+
+msgid "Showers of sleet"
+msgstr ""
+
+msgid "Showers of small hail"
+msgstr ""
+
+msgid "Sleet"
+msgstr ""
+
+msgid "Sleet storm"
+msgstr ""
+
+msgid "Small hail"
+msgstr ""
+
+msgid "Small hailstorm"
+msgstr ""
+
+msgid "Smoke"
+msgstr ""
+
+msgid "Snow"
+msgstr ""
+
+msgid "Snow grains"
+msgstr ""
+
+msgid "Snow showers"
+msgstr ""
+
+msgid "Snowstorm"
+msgstr ""
+
+msgid "South"
+msgstr ""
+
+msgid "South — Southeast"
+msgstr ""
+
+msgid "South — Southwest"
+msgstr ""
+
+msgid "Southeast"
+msgstr ""
+
+msgid "Southwest"
+msgstr ""
+
+msgid "Speed unit"
+msgstr ""
+
+msgid "Squall"
+msgstr ""
+
+msgid "Temperature unit"
+msgstr ""
+
+msgid ""
+"The custom URL from where to retrieve a radar map, or empty for disabling "
+"radar maps."
+msgstr ""
+
+msgid ""
+"The default location for the weather applet. The first field is the name "
+"that will be shown. If empty, it will be taken from the locations database. "
+"The second field is the METAR code for the default weather station. It must "
+"not be empty and must correspond to a <code> tag in the Locations.xml file. "
+"The third field is a tuple of (latitude, longitude), to override the value "
+"taken from the database. This is only used for sunrise and moon phase "
+"calculations, not for weather forecast."
+msgstr ""
+
+msgid ""
+"The unit of distance used for showing weather (for example for visibility or"
+" for distance of important events). Valid values are “meters”, “km” and "
+"“miles”."
+msgstr ""
+
+msgid ""
+"The unit of pressure used for showing weather. Valid values are “kpa” "
+"(kilopascal), “hpa” (hectopascal), “mb” (millibar, mathematically equivalent"
+" to 1 hPa but shown differently), “mm-hg” (millimeters of mercury), “inch-"
+"hg” (inches of mercury), “atm” (atmospheres)."
+msgstr ""
+
+msgid ""
+"The unit of speed used for showing weather (for example for wind speed). "
+"Valid values are “ms” (meters per second), “kph” (kilometers per hour), "
+"“mph” (miles per hour), “knots” and “bft” (Beaufort scale)."
+msgstr ""
+
+msgid ""
+"The unit of temperature used for showing weather. Valid values are “kelvin”,"
+" “centigrade” and “fahrenheit”."
+msgstr ""
+
+msgid "Thunderstorm"
+msgstr ""
+
+msgid "Tornado"
+msgstr ""
+
+msgid "URL for the radar map"
+msgstr ""
+
+msgid "Unknown observation time"
+msgstr ""
+
+msgid "Unknown precipitation"
+msgstr ""
+
+msgid "Variable"
+msgstr ""
+
+msgid "Volcanic ash"
+msgstr ""
+
+msgid "West"
+msgstr ""
+
+msgid "West — Northwest"
+msgstr ""
+
+msgid "West — Southwest"
+msgstr ""
+
+msgid "blowing dust"
+msgstr ""
+
+msgid "blowing sand"
+msgstr ""
+
+msgid "blowing snowfall"
+msgstr ""
+
+msgid "blowing sprays"
+msgstr ""
+
+msgid "broken clouds"
+msgstr ""
+
+msgid "clear sky"
+msgstr ""
+
+msgid "default:mm"
+msgstr ""
+
+msgctxt "dew"
+msgid "Unknown"
+msgstr ""
+
+msgid "drifting dust"
+msgstr ""
+
+msgid "drifting sand"
+msgstr ""
+
+msgid "drifting snow"
+msgstr ""
+
+msgid "drizzle"
+msgstr ""
+
+msgid "dust"
+msgstr ""
+
+msgid "dust whirls"
+msgstr ""
+
+msgid "dust whirls in the vicinity"
+msgstr ""
+
+msgid "duststorm"
+msgstr ""
+
+msgid "duststorm in the vicinity"
+msgstr ""
+
+msgid "east"
+msgstr ""
+
+msgid "east — northeast"
+msgstr ""
+
+msgid "east — southeast"
+msgstr ""
+
+msgid "few clouds"
+msgstr ""
+
+msgid "fog"
+msgstr ""
+
+msgid "fog in the vicinity"
+msgstr ""
+
+msgid "freezing drizzle"
+msgstr ""
+
+msgid "freezing fog"
+msgstr ""
+
+msgid "freezing rain"
+msgstr ""
+
+msgid "funnel cloud"
+msgstr ""
+
+msgid "hail"
+msgstr ""
+
+msgid "hail showers"
+msgstr ""
+
+msgid "hailstorm"
+msgstr ""
+
+msgid "haze"
+msgstr ""
+
+msgid "heavy drizzle"
+msgstr ""
+
+msgid "heavy duststorm"
+msgstr ""
+
+msgid "heavy rain"
+msgstr ""
+
+msgid "heavy sandstorm"
+msgstr ""
+
+msgid "heavy sleet"
+msgstr ""
+
+msgid "heavy snow"
+msgstr ""
+
+msgid "heavy snow grains"
+msgstr ""
+
+msgctxt "humidity"
+msgid "Unknown"
+msgstr ""
+
+msgid "ice crystals"
+msgstr ""
+
+msgid "light drizzle"
+msgstr ""
+
+msgid "light rain"
+msgstr ""
+
+msgid "light snow"
+msgstr ""
+
+msgid "light snow grains"
+msgstr ""
+
+msgid "little sleet"
+msgstr ""
+
+msgid "mist"
+msgstr ""
+
+msgid "moderate drizzle"
+msgstr ""
+
+msgid "moderate rain"
+msgstr ""
+
+msgid "moderate sleet"
+msgstr ""
+
+msgid "moderate snow"
+msgstr ""
+
+msgid "moderate snow grains"
+msgstr ""
+
+msgid "north"
+msgstr ""
+
+msgid "north — northeast"
+msgstr ""
+
+msgid "north — northwest"
+msgstr ""
+
+msgid "northeast"
+msgstr ""
+
+msgid "northwest"
+msgstr ""
+
+msgid "overcast"
+msgstr ""
+
+msgid "partial fog"
+msgstr ""
+
+msgid "patches of fog"
+msgstr ""
+
+msgctxt "pressure"
+msgid "Unknown"
+msgstr ""
+
+msgid "rain"
+msgstr ""
+
+msgid "rain showers"
+msgstr ""
+
+msgid "sand"
+msgstr ""
+
+msgid "sandstorm"
+msgstr ""
+
+msgid "sandstorm in the vicinity"
+msgstr ""
+
+msgid "scattered clouds"
+msgstr ""
+
+msgid "shallow fog"
+msgstr ""
+
+msgid "showers of sleet"
+msgstr ""
+
+msgid "showers of small hail"
+msgstr ""
+
+msgctxt "sky conditions"
+msgid "Invalid"
+msgstr ""
+
+msgctxt "sky conditions"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "sky conditions"
+msgid "invalid"
+msgstr ""
+
+msgid "sleet"
+msgstr ""
+
+msgid "sleet storm"
+msgstr ""
+
+msgid "small hail"
+msgstr ""
+
+msgid "small hailstorm"
+msgstr ""
+
+msgid "smoke"
+msgstr ""
+
+msgid "snow"
+msgstr ""
+
+msgid "snow grains"
+msgstr ""
+
+msgid "snow showers"
+msgstr ""
+
+msgid "snowstorm"
+msgstr ""
+
+msgid "south"
+msgstr ""
+
+msgid "south — southeast"
+msgstr ""
+
+msgid "south — southwest"
+msgstr ""
+
+msgid "southeast"
+msgstr ""
+
+msgid "southwest"
+msgstr ""
+
+msgid "squall"
+msgstr ""
+
+msgctxt "temperature"
+msgid "Unknown"
+msgstr ""
+
+msgid "thunderstorm"
+msgstr ""
+
+msgctxt "timezone"
+msgid "Unknown"
+msgstr ""
+
+msgid "tornado"
+msgstr ""
+
+msgid "unknown precipitation"
+msgstr ""
+
+msgid "variable"
+msgstr ""
+
+msgctxt "visibility"
+msgid "Unknown"
+msgstr ""
+
+msgid "volcanic ash"
+msgstr ""
+
+msgid "west"
+msgstr ""
+
+msgid "west — northwest"
+msgstr ""
+
+msgid "west — southwest"
+msgstr ""
+
+msgctxt "wind direction"
+msgid "Invalid"
+msgstr ""
+
+msgctxt "wind direction"
+msgid "invalid"
+msgstr ""
+
+msgctxt "wind speed"
+msgid "Unknown"
+msgstr ""

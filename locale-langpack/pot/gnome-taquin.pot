@@ -1,0 +1,154 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-taquin master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-taquin&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2019-03-13 07:27+0000\n"
+"Last-Translator: Qizhi Zhou <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:09+0000\n"
+
+msgid "(see COPYING.themes for informations)"
+msgstr ""
+
+msgid "15-Puzzle"
+msgstr ""
+
+msgid "15-puzzle"
+msgstr ""
+
+msgid "16-Puzzle"
+msgstr ""
+
+msgid "A GNOME taquin game preview"
+msgstr ""
+
+msgid "A classic 15-puzzle game"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Artists"
+msgstr ""
+
+msgid "Bravo! You finished the game!"
+msgstr ""
+
+msgid "Cats"
+msgstr ""
+
+msgid "Creators"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Documenters"
+msgstr ""
+
+msgid "GNOME Taquin"
+msgstr ""
+
+msgid "Go back to the current game"
+msgstr ""
+
+msgid "Name of the theme folder."
+msgstr ""
+
+msgid "Number of tiles on each edge."
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
+
+msgid "Play the classical 1880s’ 15-puzzle"
+msgstr ""
+
+msgid "Print release version and exit"
+msgstr ""
+
+msgid "Sets the puzzle edges’ size (3-5, 2-9 for debug)"
+msgstr ""
+
+msgid "Size: %d × %d ▾"
+msgstr ""
+
+msgid "Slide tiles to their correct places"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Start a new game"
+msgstr ""
+
+msgid "Taquin"
+msgstr ""
+
+msgid "Taquin has two default themes: 'cats' and 'numbers'."
+msgstr ""
+
+msgid ""
+"Taquin is a computer version of the 15-puzzle and other sliding puzzles."
+msgstr ""
+
+msgid ""
+"The game offers to play with a board size from 3 to 5. The setting could be "
+"set from 2 (good for testing) to 9, limited by the way files are selected."
+msgstr ""
+
+msgid ""
+"The object of Taquin is to move tiles so that they reach their places, "
+"either indicated with numbers, or with parts of a great image."
+msgstr ""
+
+msgid "Theme: Cats ▾"
+msgstr ""
+
+msgid "Theme: Numbers ▾"
+msgstr ""
+
+msgid "Translators"
+msgstr ""
+
+msgid "Try this fun alternative 16-puzzle"
+msgstr ""
+
+msgid "Turn off the sound"
+msgstr ""
+
+msgid "Turn on the sound"
+msgstr ""
+
+msgid "Whether or not to play event sounds."
+msgstr ""
+
+msgid "You can’t move this tile!"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_New Game"
+msgstr ""
+
+msgid "_Sound"
+msgstr ""
+
+msgid "_Start Game"
+msgstr ""
+
+msgid "puzzle;"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

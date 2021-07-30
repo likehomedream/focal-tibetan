@@ -1,0 +1,309 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity-scope-home\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-04-13 06:37+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:58+0000\n"
+
+msgid "1KB;100KB;1MB;10MB;100MB;1GB;>1GB;"
+msgstr ""
+
+msgid ""
+"Accessories;Education;Games;Graphics;Internet;Fonts;Office;Media;Customisation;Accessibility;Developer;Science"
+" & Engineering;Dash plugins;System"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid ""
+"Blues;Classical;Country;Disco;Funk;Rock;Metal;Hip-hop;House;New-"
+"wave;R&B;Punk;Jazz;Pop;Reggae;Soul;Techno;Other;"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Books"
+msgstr ""
+
+msgid "Boxes"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "Community"
+msgstr ""
+
+msgid "Dash plugins"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Decade"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Documents;Folders;Images;Audio;Videos;Presentations;Other;"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Encyclopedia"
+msgstr ""
+
+msgid "Files & Folders"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Friends"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Last 7 days;Last 30 days;Last 6 months;Older;"
+msgstr ""
+
+msgid "Last 7 days;Last 30 days;Last year;"
+msgstr ""
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Local apps;Software center"
+msgstr ""
+
+msgid "Locations"
+msgstr ""
+
+msgid "More suggestions"
+msgstr ""
+
+msgid "Most used"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "My photos"
+msgstr ""
+
+msgid "My videos"
+msgstr ""
+
+msgid "News"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid "Old;60s;70s;80s;90s;00s;10s;"
+msgstr ""
+
+msgid "Online"
+msgstr ""
+
+msgid "Online photos"
+msgstr ""
+
+msgid "People"
+msgstr ""
+
+msgid "Photos"
+msgstr ""
+
+msgid "Popular online"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Recent apps"
+msgstr ""
+
+msgid "Recently played"
+msgstr ""
+
+msgid "Recently used"
+msgstr ""
+
+msgid "Recipes"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "Scholar"
+msgstr ""
+
+msgid "Search applications"
+msgstr ""
+
+msgid "Search files & folders"
+msgstr ""
+
+msgid "Search in"
+msgstr ""
+
+msgid "Search music"
+msgstr ""
+
+msgid "Search photos"
+msgstr ""
+
+msgid "Search videos"
+msgstr ""
+
+msgid "Search your computer"
+msgstr ""
+
+msgid "Search your computer and online sources"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Sorry, there is nothing that matches your search."
+msgstr ""
+
+msgid "Sources"
+msgstr ""
+
+msgid "There are no photos currently available on this computer."
+msgstr ""
+
+msgid "There are no videos currently available on this computer."
+msgstr ""
+
+msgid "There is no music currently available on this computer."
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Upcoming"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Vocabulary"
+msgstr ""
+
+msgid "Weather"
+msgstr ""
+
+msgid "Web"
+msgstr ""
+
+msgid "books;"
+msgstr ""
+
+msgid "boxes;"
+msgstr ""
+
+msgid "calendar;"
+msgstr ""
+
+msgid "code;"
+msgstr ""
+
+msgid "files;"
+msgstr ""
+
+msgid "graphics;"
+msgstr ""
+
+msgid "help;"
+msgstr ""
+
+msgid "info;"
+msgstr ""
+
+msgid "music;"
+msgstr ""
+
+msgid "news;"
+msgstr ""
+
+msgid "notes;"
+msgstr ""
+
+msgid "photos;"
+msgstr ""
+
+msgid "recipes;"
+msgstr ""
+
+msgid "reference;"
+msgstr ""
+
+msgid "videos;video;"
+msgstr ""
+
+msgid "weather;"
+msgstr ""
+
+msgid "web;"
+msgstr ""

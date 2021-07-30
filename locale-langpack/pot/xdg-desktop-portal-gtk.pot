@@ -1,0 +1,134 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xdg-desktop-portal-gtk master\n"
+"Report-Msgid-Bugs-To: https://github.com/flatpak/xdg-desktop-portal-gtk/issues\n"
+"PO-Revision-Date: 2020-04-04 14:49+0000\n"
+"Last-Translator: 王滋涵 <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:34+0000\n"
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Deny Access"
+msgstr ""
+
+msgid "Effects"
+msgstr ""
+
+msgid "Failed to start Software"
+msgstr ""
+
+msgid "Grab after a _delay of"
+msgstr ""
+
+msgid "Grab the current _window"
+msgstr ""
+
+msgid "Grab the whole sc_reen"
+msgstr ""
+
+msgid "Grant Access"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Include _pointer"
+msgstr ""
+
+msgid "Include the window _border"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Make changes before sharing the information"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
+msgid "Portal"
+msgstr ""
+
+msgid "Remote desktop"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select _area to grab"
+msgstr ""
+
+msgid "Select an Image"
+msgstr ""
+
+msgid "Select devices to share with %s"
+msgstr ""
+
+msgid "Select devices to share with the requesting application"
+msgstr ""
+
+msgid "Select monitor to share with %s"
+msgstr ""
+
+msgid "Select monitor to share with the requesting application"
+msgstr ""
+
+msgid "Share Details"
+msgstr ""
+
+msgid "Share this screenshot with %s?"
+msgstr ""
+
+msgid "Share this screenshot with the requesting application?"
+msgstr ""
+
+msgid "Share your personal information with %s?"
+msgstr ""
+
+msgid "Share your personal information with the requesting application?"
+msgstr ""
+
+msgid "Take Screenshot"
+msgstr ""
+
+msgid "Take _Screenshot"
+msgstr ""
+
+msgid "Touch screen"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Options…"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Share"
+msgstr ""
+
+msgid "applications-system-symbolic"
+msgstr ""
+
+msgid "seconds"
+msgstr ""

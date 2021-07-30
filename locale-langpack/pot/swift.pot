@@ -1,0 +1,671 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: swift VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/openstack-i18n/\n"
+"PO-Revision-Date: 2020-04-14 19:49+0000\n"
+"Last-Translator: Copied by Zanata <Unknown>\n"
+"Language-Team: Chinese (China)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.0\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:37+0000\n"
+
+msgid ""
+"\n"
+"    SINCE YOUR PREVIOUS RESELLER PREFIX WAS AN EMPTY STRING, IT IS NOT\n"
+"    RECOMMENDED TO PERFORM OPTION 3 AS THAT WOULD MAKE SUPPORTING MULTIPLE\n"
+"    RESELLERS MORE DIFFICULT.\n"
+"                    "
+msgstr ""
+
+msgid ""
+"\n"
+"THERE ARE ACCOUNTS IN YOUR auth.db THAT DO NOT BEGIN WITH YOUR NEW RESELLER\n"
+"PREFIX OF \"%(reseller)s\".\n"
+"YOU HAVE A FEW OPTIONS:\n"
+"    1. RUN \"swift-auth-update-reseller-prefixes %(db_file)s %(reseller)s\",\n"
+"       \"swift-init auth-server restart\", AND\n"
+"       \"swift-auth-recreate-accounts -K ...\" TO CREATE FRESH ACCOUNTS.\n"
+"    OR\n"
+"    2. REMOVE %(db_file)s, RUN \"swift-init auth-server restart\", AND RUN\n"
+"       \"swift-auth-add-user ...\" TO CREATE BRAND NEW ACCOUNTS THAT WAY.\n"
+"    OR\n"
+"    3. ADD \"reseller_prefix = %(previous)s\" (WITHOUT THE QUOTES) TO YOUR\n"
+"       proxy-server.conf IN THE [filter:auth] SECTION AND TO YOUR\n"
+"       auth-server.conf IN THE [app:auth-server] SECTION AND RUN\n"
+"       \"swift-init proxy-server restart\" AND \"swift-init auth-server restart\"\n"
+"       TO REVERT BACK TO YOUR PREVIOUS RESELLER PREFIX.\n"
+"\n"
+"    %(note)s\n"
+"                    "
+msgstr ""
+
+msgid ""
+"%(checked)d suffixes checked - %(hashed).2f%% hashed, %(synced).2f%% synced"
+msgstr ""
+
+msgid "%(complete)s %(title)s [%(fail)s failures], %(rate).01f/s"
+msgstr ""
+
+msgid "%(ip)s/%(device)s responded as unmounted"
+msgstr ""
+
+msgid "%(msg)s %(ip)s:%(port)s"
+msgstr ""
+
+msgid ""
+"%(replicated)d/%(total)d (%(percentage).2f%%) partitions replicated in "
+"%(time).2fs (%(rate).2f/sec, %(remaining)s remaining)"
+msgstr ""
+
+msgid "%(success)s successes, %(failure)s failures"
+msgstr ""
+
+msgid "%(type)s returning 503 for %(statuses)s"
+msgstr ""
+
+msgid "%s is not mounted"
+msgstr ""
+
+msgid ", %s containers deleted"
+msgstr ""
+
+msgid ", %s containers possibly remaining"
+msgstr ""
+
+msgid ", %s containers remaining"
+msgstr ""
+
+msgid ", %s objects deleted"
+msgstr ""
+
+msgid ", %s objects possibly remaining"
+msgstr ""
+
+msgid ", %s objects remaining"
+msgstr ""
+
+msgid ", elapsed: %.02fs"
+msgstr ""
+
+msgid ", return codes: "
+msgstr ""
+
+msgid ""
+"ALREADY EXISTS create_user(%(account)s, %(user)s, _, %(admin)s, "
+"%(reseller_admin)s) [%(elapsed).02f]"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Account DELETE"
+msgstr ""
+
+msgid "Account POST"
+msgstr ""
+
+msgid "Account PUT"
+msgstr ""
+
+msgid ""
+"Attempted to replicate %(count)d dbs in %(time).5f seconds (%(rate).5f/s)"
+msgstr ""
+
+msgid "Audit passed for %s"
+msgstr ""
+
+msgid "Bad compressed data for %s"
+msgstr ""
+
+msgid "Bad line data: %s"
+msgstr ""
+
+msgid "Bad rsync return code: %(args)s -> %(ret)d"
+msgstr ""
+
+msgid "Bad server name: found \"%(found)s\" expected \"%(expected)s\""
+msgstr ""
+
+msgid "Begin container audit \"once\" mode"
+msgstr ""
+
+msgid "Begin container update single threaded sweep"
+msgstr ""
+
+msgid "Begin container update sweep"
+msgstr ""
+
+msgid "Begin devices pass: %s"
+msgstr ""
+
+msgid "Begin object audit \"%s\" mode"
+msgstr ""
+
+msgid "Begin object update single threaded sweep"
+msgstr ""
+
+msgid "Begin object update sweep"
+msgstr ""
+
+msgid "Beginning log processing"
+msgstr ""
+
+msgid "Beginning pass on account %s"
+msgstr ""
+
+msgid "Beginning replication run"
+msgstr ""
+
+msgid "Broker error trying to rollback locked connection"
+msgstr ""
+
+msgid "CRITICAL: "
+msgstr ""
+
+msgid "CannotSendRequest.  Skipping..."
+msgstr ""
+
+msgid "Client disconnected on read"
+msgstr ""
+
+msgid "Client disconnected without sending enough data"
+msgstr ""
+
+msgid "Connection refused"
+msgstr ""
+
+msgid "Connection timeout"
+msgstr ""
+
+msgid "Container"
+msgstr ""
+
+msgid "Container DELETE"
+msgstr ""
+
+msgid "Container POST"
+msgstr ""
+
+msgid "Container PUT"
+msgstr ""
+
+msgid "Container audit \"once\" mode completed: %.02fs"
+msgstr ""
+
+msgid ""
+"Container update single threaded sweep completed: %(elapsed).02fs, "
+"%(success)s successes, %(fail)s failures, %(no_change)s with no changes"
+msgstr ""
+
+msgid "Container update sweep completed: %.02fs"
+msgstr ""
+
+msgid ""
+"Container update sweep of %(path)s completed: %(elapsed).02fs, %(success)s "
+"successes, %(fail)s failures, %(no_change)s with no changes"
+msgstr ""
+
+msgid "Could not load object segment %(path)s: %(status)s"
+msgstr ""
+
+msgid "Daemon started."
+msgstr ""
+
+msgid "Device %s is not mounted, skipping."
+msgstr ""
+
+msgid "Devices pass completed: %.02fs"
+msgstr ""
+
+msgid "ERROR %(status)d %(body)s From %(type)s Server"
+msgstr ""
+
+msgid "ERROR %(status)d %(body)s From Object Server"
+msgstr ""
+
+msgid "ERROR %(status)d %(body)s From Object Server re: %(path)s"
+msgstr ""
+
+msgid ""
+"ERROR Account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later): Response %(status)s %(reason)s"
+msgstr ""
+
+msgid "ERROR Bad response %(status)s from %(host)s"
+msgstr ""
+
+msgid "ERROR Client read timeout (%ss)"
+msgstr ""
+
+msgid ""
+"ERROR Container update failed (saving for async update later): %(status)d "
+"response from %(ip)s:%(port)s/%(dev)s"
+msgstr ""
+
+msgid "ERROR Could not get account info %s"
+msgstr ""
+
+msgid "ERROR Could not get container info %s"
+msgstr ""
+
+msgid "ERROR Exception causing client disconnect"
+msgstr ""
+
+msgid "ERROR Failed to get my own IPs?"
+msgstr ""
+
+msgid "ERROR Object %(obj)s failed audit and will be quarantined: %(err)s"
+msgstr ""
+
+msgid "ERROR Pickle problem, quarantining %s"
+msgstr ""
+
+msgid "ERROR Remote drive not mounted %s"
+msgstr ""
+
+msgid "ERROR Trying to audit %s"
+msgstr ""
+
+msgid "ERROR Unable to connect to remote server: %s"
+msgstr ""
+
+msgid "ERROR Unhandled exception in ReST request"
+msgstr ""
+
+msgid "ERROR Unhandled exception in request"
+msgstr ""
+
+msgid "ERROR __call__ error with %(method)s %(path)s "
+msgstr ""
+
+msgid ""
+"ERROR account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later)"
+msgstr ""
+
+msgid ""
+"ERROR account update failed with %(ip)s:%(port)s/%(device)s (will retry "
+"later): "
+msgstr ""
+
+msgid "ERROR attempting to create account %(url)s: %(status)s %(reason)s"
+msgstr ""
+
+msgid ""
+"ERROR container update failed with %(ip)s:%(port)s/%(dev)s (saving for async"
+" update later)"
+msgstr ""
+
+msgid "ERROR reading HTTP response from %s"
+msgstr ""
+
+msgid "ERROR reading db %s"
+msgstr ""
+
+msgid "ERROR rsync failed with %(code)s: %(args)s"
+msgstr ""
+
+msgid "ERROR syncing %(file)s with node %(node)s"
+msgstr ""
+
+msgid "ERROR trying to replicate"
+msgstr ""
+
+msgid "ERROR with %(type)s server %(ip)s:%(port)s/%(device)s re: %(info)s"
+msgstr ""
+
+msgid "ERROR with loading suppressions from %s: "
+msgstr ""
+
+msgid "ERROR with remote server %(ip)s:%(port)s/%(device)s"
+msgstr ""
+
+msgid ""
+"ERROR: Exception while trying to communicate with "
+"%(scheme)s://%(host)s:%(port)s/%(path)s"
+msgstr ""
+
+msgid "ERROR: Upload of log %s failed!"
+msgstr ""
+
+msgid "ERROR: While processing manifest /%(acc)s/%(cont)s/%(obj)s"
+msgstr ""
+
+msgid "Error %(action)s to memcached: %(server)s"
+msgstr ""
+
+msgid "Error hashing suffix"
+msgstr ""
+
+msgid "Error limiting server %s"
+msgstr ""
+
+msgid "Error syncing handoff partition"
+msgstr ""
+
+msgid "Error syncing partition"
+msgstr ""
+
+msgid "Error syncing with node: %s"
+msgstr ""
+
+msgid "Error: %s"
+msgstr ""
+
+msgid "Error: missing config file argument"
+msgstr ""
+
+msgid "Error: unable to locate %s"
+msgstr ""
+
+msgid "Exception in top-level replication loop"
+msgstr ""
+
+msgid "Exception with %(ip)s:%(port)s/%(device)s"
+msgstr ""
+
+msgid "Exception with account %s"
+msgstr ""
+
+msgid "Exception with containers for account %s"
+msgstr ""
+
+msgid ""
+"Exception with objects for container %(container)s for account %(account)s"
+msgstr ""
+
+msgid "Expect: 100-continue on %s"
+msgstr ""
+
+msgid ""
+"FAILED create_user(%(account)s, %(user)s, _, %(admin)s, %(reseller_admin)s) "
+"[%(elapsed).02f]"
+msgstr ""
+
+msgid "Following CNAME chain for  %(given_domain)s to %(found_domain)s"
+msgstr ""
+
+msgid "Gathering account stats"
+msgstr ""
+
+msgid "Gathering account stats complete (%0.2f minutes)"
+msgstr ""
+
+msgid ""
+"HTTP PERF: %(time).5f seconds to %(method)s %(host)s:%(port)s %(path)s)"
+msgstr ""
+
+msgid "Host unreachable"
+msgstr ""
+
+msgid ""
+"I found a bunch of bad lines in %(name)s (%(bad)d bad, %(total)d total)"
+msgstr ""
+
+msgid "Incomplete pass on account %s"
+msgstr ""
+
+msgid "Invalid path: %(error)s from data: %(log)s"
+msgstr ""
+
+msgid "Invalid pending entry %(file)s: %(entry)s"
+msgstr ""
+
+msgid "Invalid response %(resp)s from %(ip)s"
+msgstr ""
+
+msgid "Killing long-running rsync: %s"
+msgstr ""
+
+msgid "Loaded plugin \"%s\""
+msgstr ""
+
+msgid "Loading account ring from %s"
+msgstr ""
+
+msgid "Loading container ring from %s"
+msgstr ""
+
+msgid "Loading object ring from %s"
+msgstr ""
+
+msgid "Lockup detected.. killing live coros."
+msgstr ""
+
+msgid "Log %s is 0 length, skipping"
+msgstr ""
+
+msgid "Log processing done (%0.2f minutes)"
+msgstr ""
+
+msgid "Mapped %(given_domain)s to %(found_domain)s"
+msgstr ""
+
+msgid "No super_admin_key set in conf file! Exiting."
+msgstr ""
+
+msgid "Node error limited %(ip)s:%(port)s (%(device)s)"
+msgstr ""
+
+msgid "Nothing replicated for %s seconds."
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Object DELETE"
+msgstr ""
+
+msgid "Object POST"
+msgstr ""
+
+msgid "Object PUT"
+msgstr ""
+
+msgid ""
+"Object PUT exceptions during send, %(conns)s/%(nodes)s required connections"
+msgstr ""
+
+msgid "Object PUT returning 503, %(conns)s/%(nodes)s required connections"
+msgstr ""
+
+msgid ""
+"Object audit \"%(mode)s\" mode completed: %(elapsed).02fs. Total files/sec: "
+"%(frate).2f , Total bytes/sec: %(brate).2f "
+msgstr ""
+
+msgid "Object manifest GET could not continue listing: %s %s"
+msgstr ""
+
+msgid "Object replication complete. (%.02f minutes)"
+msgstr ""
+
+msgid "Object servers returned %s mismatched etags"
+msgstr ""
+
+msgid ""
+"Object update single threaded sweep completed: %(elapsed).02fs, %(success)s "
+"successes, %(fail)s failures"
+msgstr ""
+
+msgid "Object update sweep completed: %.02fs"
+msgstr ""
+
+msgid ""
+"Object update sweep of %(device)s completed: %(elapsed).02fs, %(success)s "
+"successes, %(fail)s failures"
+msgstr ""
+
+msgid "Partition times: max %(max).4fs, min %(min).4fs, med %(med).4fs"
+msgstr ""
+
+msgid "Path %s does not exist, skipping."
+msgstr ""
+
+msgid "Processing %(obj)s with plugin \"%(plugin)s\""
+msgstr ""
+
+msgid "Processing log: %s"
+msgstr ""
+
+msgid "Quarantining DB %s"
+msgstr ""
+
+msgid ""
+"Ratelimit sleep log: %(sleep)s for %(account)s/%(container)s/%(object)s"
+msgstr ""
+
+msgid "Removed %(remove)d dbs"
+msgstr ""
+
+msgid "Removing partition: %s"
+msgstr ""
+
+msgid "Replicating db %s"
+msgstr ""
+
+msgid "Replication run OVER"
+msgstr ""
+
+msgid "Replication sleeping for %s seconds."
+msgstr ""
+
+msgid "Returning 497 because of blacklisting"
+msgstr ""
+
+msgid "Returning 498 because of ops rate limiting (Max Sleep) %s"
+msgstr ""
+
+msgid "Returning 503 because not all container nodes confirmed DELETE"
+msgstr ""
+
+msgid "Ring change detected. Aborting current replication pass."
+msgstr ""
+
+msgid "Running object replicator in script mode."
+msgstr ""
+
+msgid "STDOUT: %s"
+msgstr ""
+
+msgid "STDOUT: Connection reset by peer"
+msgstr ""
+
+msgid ""
+"SUCCESS create_user(%(account)s, %(user)s, _, %(admin)s, %(reseller_admin)s)"
+" = %(url)s [%(elapsed).02f]"
+msgstr ""
+
+msgid ""
+"Since %(start_time)s: Locally: %(passes)d passed audit, %(quars)d "
+"quarantined, %(errors)d errors files/sec: %(frate).2f , bytes/sec: "
+"%(brate).2f"
+msgstr ""
+
+msgid ""
+"Since %(time)s: Account audits: %(passed)s passed audit, %(failed)s failed "
+"audit"
+msgstr ""
+
+msgid ""
+"Since %(time)s: Container audits: %(pass)s passed audit, %(fail)s failed "
+"audit"
+msgstr ""
+
+msgid "Skipping %(device)s as it is not mounted"
+msgstr ""
+
+msgid "Skipping %s as it is not mounted"
+msgstr ""
+
+msgid "Skipping log: %(file)s (< %(cutoff)d seconds old)"
+msgstr ""
+
+msgid "Starting object replication pass."
+msgstr ""
+
+msgid "Successful rsync of %(src)s at %(dst)s (%(time).03f)"
+msgstr ""
+
+msgid "Syncing chunks with %s"
+msgstr ""
+
+msgid "Timeout %(action)s to memcached: %(server)s"
+msgstr ""
+
+msgid "Trying to %(method)s %(path)s"
+msgstr ""
+
+msgid "Trying to DELETE %s"
+msgstr ""
+
+msgid "Trying to POST %s"
+msgstr ""
+
+msgid "Trying to PUT to %s"
+msgstr ""
+
+msgid "Trying to get account info for %s"
+msgstr ""
+
+msgid "Trying to get container info for %s"
+msgstr ""
+
+msgid "Trying to get final status of PUT to %s"
+msgstr ""
+
+msgid "Trying to read during GET of %s"
+msgstr ""
+
+msgid "Trying to write to %s"
+msgstr ""
+
+msgid "UNCAUGHT EXCEPTION"
+msgstr ""
+
+msgid "Unable to find %s config section in %s"
+msgstr ""
+
+msgid "Unable to locate %s in libc.  Leaving as a no-op."
+msgstr ""
+
+msgid "Unable to read config file %s"
+msgstr ""
+
+msgid "Unexpected log: %s"
+msgstr ""
+
+msgid "Update failed for %(obj)s %(path)s"
+msgstr ""
+
+msgid "Update report failed for %(container)s %(dbfile)s"
+msgstr ""
+
+msgid "Update report sent for %(container)s %(dbfile)s"
+msgstr ""
+
+msgid "Update sent for %(obj)s %(path)s"
+msgstr ""
+
+msgid "Uploaded log %(file)s to %(target)s"
+msgstr ""
+
+msgid "Uploading logs"
+msgstr ""
+
+msgid "Uploading logs complete (%0.2f minutes)"
+msgstr ""
+
+msgid "Warning: Cannot ratelimit without a memcached client"
+msgstr ""
+
+msgid "found %d processed files"
+msgstr ""
+
+msgid "loaded %d files to process"
+msgstr ""

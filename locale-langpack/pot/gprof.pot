@@ -1,0 +1,172 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: binutils\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2009-09-08 21:34+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:49+0000\n"
+
+msgid ""
+"\t\t\tCall graph\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Execution Summary:\n"
+"\n"
+msgstr ""
+
+msgid " <cycle %d>"
+msgstr ""
+
+msgid "%6.6s %5.5s %7.7s %11.11s %7.7s %7.7s     <spontaneous>\n"
+msgstr ""
+
+msgid "%6.6s %5.5s %7.7s %7.7s %7.7s %7.7s     <spontaneous>\n"
+msgstr ""
+
+msgid "%9.2f   Average executions per line\n"
+msgstr ""
+
+msgid "%9.2f   Percent of the file executed\n"
+msgstr ""
+
+msgid "%9ld   Executable lines in this file\n"
+msgstr ""
+
+msgid "%9ld   Lines executed\n"
+msgstr ""
+
+msgid "%s: %s: found bad tag %d (file corrupted?)\n"
+msgstr ""
+
+msgid "%s: %s: not in executable format\n"
+msgstr ""
+
+msgid "%s: %s: unexpected end of file\n"
+msgstr ""
+
+msgid "%s: -c not supported on architecture %s\n"
+msgstr ""
+
+msgid "%s: address size has unexpected value of %u\n"
+msgstr ""
+
+msgid "%s: can't do -c\n"
+msgstr ""
+
+msgid "%s: can't find .text section in %s\n"
+msgstr ""
+
+msgid "%s: could not locate `%s'\n"
+msgstr ""
+
+msgid "%s: could not open %s.\n"
+msgstr ""
+
+msgid "%s: debugging not supported; -d ignored\n"
+msgstr ""
+
+msgid "%s: don't know how to deal with file format %d\n"
+msgstr ""
+
+msgid "%s: file `%s' has bad magic cookie\n"
+msgstr ""
+
+msgid "%s: file `%s' has no symbols\n"
+msgstr ""
+
+msgid "%s: file `%s' has unsupported version %d\n"
+msgstr ""
+
+msgid "%s: file too short to be a gmon file\n"
+msgstr ""
+
+msgid "%s: unable to parse mapping file %s.\n"
+msgstr ""
+
+msgid "%s: unknown file format %s\n"
+msgstr ""
+
+msgid "%s: warning: ignoring basic-block exec counts (use -l or --line)\n"
+msgstr ""
+
+msgid "%time"
+msgstr ""
+
+msgid "*** File %s:\n"
+msgstr ""
+
+msgid "<cycle %d>"
+msgstr ""
+
+msgid "<indirect child>"
+msgstr ""
+
+msgid "<unknown>"
+msgstr ""
+
+msgid "File `%s' (version %d) contains:\n"
+msgstr ""
+
+msgid ""
+"Index by function name\n"
+"\n"
+msgstr ""
+
+msgid "Report bugs to %s\n"
+msgstr ""
+
+msgid ""
+"This program is free software.  This program has absolutely no warranty.\n"
+msgstr ""
+
+msgid "[find_call] %s: 0x%lx to 0x%lx\n"
+msgstr ""
+
+msgid "[find_call] 0x%lx: bsr"
+msgstr ""
+
+msgid "[find_call] 0x%lx: jsr%s <indirect_child>\n"
+msgstr ""
+
+msgid "called"
+msgstr ""
+
+msgid "calls"
+msgstr ""
+
+msgid "children"
+msgstr ""
+
+msgid "index"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "parents"
+msgstr ""
+
+msgid "self"
+msgstr ""
+
+msgid "self  "
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "total"
+msgstr ""
+
+msgid "total "
+msgstr ""

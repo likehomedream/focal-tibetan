@@ -1,0 +1,1351 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: evince master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/evince/issues\n"
+"PO-Revision-Date: 2020-04-07 07:06+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-DamnedLies-Scope: partial\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:02+0000\n"
+
+msgid " (Not one of the Standard 14 Fonts)"
+msgstr ""
+
+msgid " (One of the Standard 14 Fonts)"
+msgstr ""
+
+msgid "%.0f × %.0f mm"
+msgstr ""
+
+msgid "%.2f × %.2f inch"
+msgstr ""
+
+msgid "%d pending job in queue"
+msgid_plural "%d pending jobs in queue"
+msgstr[0] ""
+
+msgid ""
+"%s%s\n"
+"Encoding: %s\n"
+"%s"
+msgstr ""
+
+msgid ""
+"%s%s\n"
+"Encoding: %s\n"
+"%s\n"
+"Substituting with <b>%s</b>\n"
+"(%s)"
+msgstr ""
+
+msgid "%s, Landscape (%s)"
+msgstr ""
+
+msgid "%s, Portrait (%s)"
+msgstr ""
+
+msgid "(%d of %d)"
+msgstr ""
+
+msgid "100%"
+msgstr ""
+
+msgid "125%"
+msgstr ""
+
+msgid "150%"
+msgstr ""
+
+msgid "1600%"
+msgstr ""
+
+msgid "175%"
+msgstr ""
+
+msgid "200%"
+msgstr ""
+
+msgid "300%"
+msgstr ""
+
+msgid "3200%"
+msgstr ""
+
+msgid "400%"
+msgstr ""
+
+msgid "50%"
+msgstr ""
+
+msgid "6400%"
+msgstr ""
+
+msgid "70%"
+msgstr ""
+
+msgid "800%"
+msgstr ""
+
+msgid "85%"
+msgstr ""
+
+msgid "A clear, simple UI"
+msgstr ""
+
+msgid ""
+"A document viewer for the GNOME desktop. You can view, search or annotate "
+"documents in many different formats."
+msgstr ""
+
+msgid "A file named “%s” already exists. Do you want to replace it?"
+msgstr ""
+
+msgid "Add bookmark"
+msgstr ""
+
+msgid "Add highlight annotation"
+msgstr ""
+
+msgid "Add text annotation"
+msgstr ""
+
+msgid "Adds support for reading DVI documents"
+msgstr ""
+
+msgid "Adds support for reading DjVu documents"
+msgstr ""
+
+msgid "Adds support for reading PDF Documents"
+msgstr ""
+
+msgid "Adds support for reading PostScript documents"
+msgstr ""
+
+msgid "Adds support for reading TIFF documents"
+msgstr ""
+
+msgid "Adds support for reading XPS documents"
+msgstr ""
+
+msgid "Adds support for reading comic books"
+msgstr ""
+
+msgid "Advanced highlighting and annotation"
+msgstr ""
+
+msgid "All Documents"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "All fonts are either standard or embedded."
+msgstr ""
+
+msgid "Allow links to change the zoom level."
+msgstr ""
+
+msgid "Annotate the document"
+msgstr ""
+
+msgid "Annotation Properties"
+msgstr ""
+
+msgid "Annotation Properties…"
+msgstr ""
+
+msgid "Annotations"
+msgstr ""
+
+msgid "Archive is encrypted"
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Auto Rotate and Center"
+msgstr ""
+
+msgid "Auto_scroll"
+msgstr ""
+
+msgid "Automatically reload the document"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "C_ancel"
+msgstr ""
+
+msgid "C_ase Sensitive"
+msgstr ""
+
+msgid "Can not get local path for archive"
+msgstr ""
+
+msgid "Cancel _print and Close"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close _after Printing"
+msgstr ""
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Color:"
+msgstr ""
+
+msgid "Comic Books"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Copy _Image"
+msgstr ""
+
+msgid "Could not send current document"
+msgstr ""
+
+msgid "Couldn’t find appropriate format to save image"
+msgstr ""
+
+msgid "Couldn’t open attachment “%s”"
+msgstr ""
+
+msgid "Couldn’t open attachment “%s”: %s"
+msgstr ""
+
+msgid "Couldn’t save attachment “%s”: %s"
+msgstr ""
+
+msgid "Created:"
+msgstr ""
+
+msgid "Creator:"
+msgstr ""
+
+msgid "Cross"
+msgstr ""
+
+msgid "DEST"
+msgstr ""
+
+msgid "DVI Documents"
+msgstr ""
+
+msgid "DVI document has incorrect format"
+msgstr ""
+
+msgid "Delete the temporary file"
+msgstr ""
+
+msgid "DjVu Documents"
+msgstr ""
+
+msgid "DjVu document has incorrect format"
+msgstr ""
+
+msgid "Document"
+msgstr ""
+
+msgid "Document License"
+msgstr ""
+
+msgid "Document View"
+msgstr ""
+
+msgid "Document Viewer"
+msgstr ""
+
+msgid "Document contains form fields that have been filled out. "
+msgstr ""
+
+msgid "Document contains new or modified annotations. "
+msgstr ""
+
+msgid "Document contains no annotations"
+msgstr ""
+
+msgid "Document viewer for popular document formats"
+msgstr ""
+
+msgid "Don’t show this message again"
+msgstr ""
+
+msgid "Download document"
+msgstr ""
+
+msgid "Downloading document (%d%%)"
+msgstr ""
+
+msgid "Embedded"
+msgstr ""
+
+msgid "Embedded subset"
+msgstr ""
+
+msgid "Enable caret navigation?"
+msgstr ""
+
+msgid "End of presentation. Press Esc or click to exit."
+msgstr ""
+
+msgid "Enlarge the document"
+msgstr ""
+
+msgid "Evince"
+msgstr ""
+
+msgid ""
+"Evince supports documents in: PDF, PS, EPS, XPS, DjVu, TIFF, DVI (with "
+"SyncTeX), and Comic Books archives (CBR, CBT, CBZ, CB7)."
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "Failed to create a temporary directory: %s"
+msgstr ""
+
+msgid "Failed to create a temporary file: %s"
+msgstr ""
+
+msgid "Failed to create thumbnail for page %d"
+msgstr ""
+
+msgid "Failed to load document “%s”"
+msgstr ""
+
+msgid "Failed to load remote file."
+msgstr ""
+
+msgid "Failed to print document"
+msgstr ""
+
+msgid "Failed to print page %d: %s"
+msgstr ""
+
+msgid "Failed to reload document."
+msgstr ""
+
+msgid "Failed to render page %d"
+msgstr ""
+
+msgid "Failed to save document “%s”"
+msgstr ""
+
+msgid "File is corrupted"
+msgstr ""
+
+msgid "File options"
+msgstr ""
+
+msgid "File specifying print settings"
+msgstr ""
+
+msgid "File type %s (%s) is not supported"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find a word or phrase in the document"
+msgstr ""
+
+msgid "Find next occurrence of the search string"
+msgstr ""
+
+msgid "Find previous occurrence of the search string"
+msgstr ""
+
+msgid "Finishing…"
+msgstr ""
+
+msgid "First Page"
+msgstr ""
+
+msgid "Fit Pa_ge"
+msgstr ""
+
+msgid "Fit _Width"
+msgstr ""
+
+msgid "Fit to Printable Area"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Forget password _immediately"
+msgstr ""
+
+msgid "Format:"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Further Information"
+msgstr ""
+
+msgid "GNOME Document Previewer"
+msgstr ""
+
+msgid "GNOME Document Viewer"
+msgstr ""
+
+msgid "Gathering font information… %3d%%"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Generating preview: page %d of %d"
+msgstr ""
+
+msgid "Go to %s on file “%s”"
+msgstr ""
+
+msgid "Go to file “%s”"
+msgstr ""
+
+msgid "Go to first page"
+msgstr ""
+
+msgid "Go to last page"
+msgstr ""
+
+msgid "Go to next page"
+msgstr ""
+
+msgid "Go to page"
+msgstr ""
+
+msgid "Go to page %s"
+msgstr ""
+
+msgid "Go to previous page"
+msgstr ""
+
+msgid "Go to the next page"
+msgstr ""
+
+msgid "Go to the previous page"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Highlight Selected Text"
+msgstr ""
+
+msgid "Highlight text"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Icon:"
+msgstr ""
+
+msgid "If you close the window, pending print jobs will not be printed."
+msgstr ""
+
+msgid "If you don’t save a copy, changes will be permanently lost."
+msgstr ""
+
+msgid "If you reload the document, changes will be permanently lost."
+msgstr ""
+
+msgid "Initial window state:"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Invalid document"
+msgstr ""
+
+msgid "Invalid page selection"
+msgstr ""
+
+msgid "Jump to page:"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Keywords:"
+msgstr ""
+
+msgid "Last Page"
+msgstr ""
+
+msgid "Launch %s"
+msgstr ""
+
+msgid "Layers"
+msgstr ""
+
+msgid "Loading document from “%s”"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Markup type:"
+msgstr ""
+
+msgid "Modified:"
+msgstr ""
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "Named destination to display."
+msgstr ""
+
+msgid "Navigation"
+msgstr ""
+
+msgid "New Paragraph"
+msgstr ""
+
+msgid "New _Window"
+msgstr ""
+
+msgid "Next Page"
+msgstr ""
+
+msgid "Ni_ght Mode"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No files in archive"
+msgstr ""
+
+msgid "No name"
+msgstr ""
+
+msgid "No supported images in archive"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not a comic book MIME type: %s"
+msgstr ""
+
+msgid "Not embedded"
+msgstr ""
+
+msgid "Not found, click to change search options"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Note text"
+msgstr ""
+
+msgid "Number of Pages:"
+msgstr ""
+
+msgid "Opacity:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Containing _Folder"
+msgstr ""
+
+msgid "Open Document"
+msgstr ""
+
+msgid "Open a C_opy"
+msgstr ""
+
+msgid "Open an existing document"
+msgstr ""
+
+msgid "Open in New _Window"
+msgstr ""
+
+msgid "Open…"
+msgstr ""
+
+msgid "Optimized:"
+msgstr ""
+
+msgid "Outline"
+msgstr ""
+
+msgid "Override document restrictions"
+msgstr ""
+
+msgid "Override document restrictions, like restriction to copy or to print."
+msgstr ""
+
+msgid "PAGE"
+msgstr ""
+
+msgid "PDF Documents"
+msgstr ""
+
+msgid "Page %d"
+msgstr ""
+
+msgid "Page %s"
+msgstr ""
+
+msgid "Page Handling"
+msgstr ""
+
+msgid "Page Scaling:"
+msgstr ""
+
+msgid "Page cache size in MiB"
+msgstr ""
+
+msgid "Paper Size:"
+msgstr ""
+
+msgid "Paragraph"
+msgstr ""
+
+msgid "Password Required"
+msgstr ""
+
+msgid "Password for document %s"
+msgstr ""
+
+msgid "Password required"
+msgstr ""
+
+msgid "PostScript Documents"
+msgstr ""
+
+msgid "Preparing preview…"
+msgstr ""
+
+msgid "Preparing to print…"
+msgstr ""
+
+msgid "Present as _Slideshow"
+msgstr ""
+
+msgid ""
+"Pressing F7 turns the caret navigation on or off. This feature places a "
+"moveable cursor in text pages, allowing you to move around and select text "
+"with your keyboard. Do you want to enable the caret navigation?"
+msgstr ""
+
+msgid "Preview before printing"
+msgstr ""
+
+msgid "Previous Page"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print Preview"
+msgstr ""
+
+msgid "Print document"
+msgstr ""
+
+msgid "Print this document"
+msgstr ""
+
+msgid "Printing job “%s”"
+msgstr ""
+
+msgid "Printing page %d of %d…"
+msgstr ""
+
+msgid "Print…"
+msgstr ""
+
+msgid "Producer:"
+msgstr ""
+
+msgid "Prop_erties…"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Recent Documents"
+msgstr ""
+
+msgid "Reload document “%s”?"
+msgstr ""
+
+msgid "Reloading document from %s"
+msgstr ""
+
+msgid "Remember _forever"
+msgstr ""
+
+msgid "Remember password until you _log out"
+msgstr ""
+
+msgid "Remove Annotation"
+msgstr ""
+
+msgid "Remove bookmark"
+msgstr ""
+
+msgid "Requested format is not supported by this printer."
+msgstr ""
+
+msgid "Reset zoom and make the page fit in the window"
+msgstr ""
+
+msgid "Ro_tate ⤵"
+msgstr ""
+
+msgid ""
+"Rotate printer page orientation of each page to match orientation of each "
+"document page. Document pages will be centered within the printer page."
+msgstr ""
+
+msgid "Run evince as a previewer"
+msgstr ""
+
+msgid "Run evince in fullscreen mode"
+msgstr ""
+
+msgid "Run evince in presentation mode"
+msgstr ""
+
+msgid "Running in presentation mode"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "Save As…"
+msgstr ""
+
+msgid "Save Attachment"
+msgstr ""
+
+msgid "Save Current Settings as Defa_ult"
+msgstr ""
+
+msgid "Save Image"
+msgstr ""
+
+msgid "Save a _Copy"
+msgstr ""
+
+msgid "Save a copy of document “%s” before closing?"
+msgstr ""
+
+msgid "Saving attachment to %s"
+msgstr ""
+
+msgid "Saving document to %s"
+msgstr ""
+
+msgid "Saving image to %s"
+msgstr ""
+
+msgid ""
+"Scale document pages to fit the selected printer page. Select from one of the following:\n"
+"\n"
+"• “None”: No page scaling is performed.\n"
+"\n"
+"• “Shrink to Printable Area”: Document pages larger than the printable area are reduced to fit the printable area of the printer page.\n"
+"\n"
+"• “Fit to Printable Area”: Document pages are enlarged or reduced as required to fit the printable area of the printer page.\n"
+msgstr ""
+
+msgid "Scroll Down"
+msgstr ""
+
+msgid "Scroll Up"
+msgstr ""
+
+msgid "Scroll View Down"
+msgstr ""
+
+msgid "Scroll View Up"
+msgstr ""
+
+msgid "Search not available for this document"
+msgstr ""
+
+msgid "Search options"
+msgstr ""
+
+msgid "Security:"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select or set the zoom level of the document"
+msgstr ""
+
+msgid "Select page"
+msgstr ""
+
+msgid "Select page or search in the index"
+msgstr ""
+
+msgid "Select page size using document page size"
+msgstr ""
+
+msgid "Send To…"
+msgstr ""
+
+msgid "Set zoom level"
+msgstr ""
+
+msgid ""
+"Show a dialog to confirm that the user wants to activate the caret "
+"navigation."
+msgstr ""
+
+msgid "Show the entire document"
+msgstr ""
+
+msgid "Show two pages at once"
+msgstr ""
+
+msgid "Shrink the document"
+msgstr ""
+
+msgid "Shrink to Printable Area"
+msgstr ""
+
+msgid "Side pane"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Squiggly"
+msgstr ""
+
+msgid "Strike out"
+msgstr ""
+
+msgid "Subject:"
+msgstr ""
+
+msgid "Supported Image Files"
+msgstr ""
+
+msgid "TIFF Documents"
+msgstr ""
+
+msgid "Text License"
+msgstr ""
+
+msgid "The URI of the directory last used to open or save a document"
+msgstr ""
+
+msgid "The URI of the directory last used to save a picture"
+msgstr ""
+
+msgid "The attachment could not be saved."
+msgstr ""
+
+msgid "The document contains no pages"
+msgstr ""
+
+msgid "The document contains only empty pages"
+msgstr ""
+
+msgid "The document is automatically reloaded on file change."
+msgstr ""
+
+msgid ""
+"The document is composed of several files. One or more of these files cannot"
+" be accessed."
+msgstr ""
+
+msgid ""
+"The document “%s” is locked and requires a password before it can be opened."
+msgstr ""
+
+msgid "The file could not be saved as “%s”."
+msgstr ""
+
+msgid ""
+"The file “%s” already exists. Replacing it will overwrite its contents."
+msgstr ""
+
+msgid "The image could not be saved."
+msgstr ""
+
+msgid ""
+"The maximum size that will be used to cache rendered pages, limits maximum "
+"zoom level."
+msgstr ""
+
+msgid "The page label of the document to display."
+msgstr ""
+
+msgid "The page number of the document to display."
+msgstr ""
+
+msgid "The selected printer “%s” could not be found"
+msgstr ""
+
+msgid "The word or phrase to find in the document"
+msgstr ""
+
+msgid ""
+"There is %d print job active. Wait until print finishes before closing?"
+msgid_plural ""
+"There are %d print jobs active. Wait until print finishes before closing?"
+msgstr[0] ""
+
+msgid ""
+"This document contains non-embedded fonts that are not from the PDF Standard"
+" 14 fonts. If the substitute fonts selected by fontconfig are not the same "
+"as the fonts used to create the PDF, the rendering may not be correct."
+msgstr ""
+
+msgid ""
+"This document is locked and can only be read by entering the correct "
+"password."
+msgstr ""
+
+msgid "This work is in the Public Domain"
+msgstr ""
+
+msgid "Thumbnails"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "TrueType"
+msgstr ""
+
+msgid "TrueType (CID)"
+msgstr ""
+
+msgid "Type 1"
+msgstr ""
+
+msgid "Type 1 (CID)"
+msgstr ""
+
+msgid "Type 1C"
+msgstr ""
+
+msgid "Type 1C (CID)"
+msgstr ""
+
+msgid "Type 3"
+msgstr ""
+
+msgid "Unable to launch external application."
+msgstr ""
+
+msgid "Unable to open attachment"
+msgstr ""
+
+msgid "Unable to open document “%s”."
+msgstr ""
+
+msgid "Unable to open external link"
+msgstr ""
+
+msgid "Underline"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown MIME Type"
+msgstr ""
+
+msgid "Unknown font type"
+msgstr ""
+
+msgid "Uploading attachment (%d%%)"
+msgstr ""
+
+msgid "Uploading document (%d%%)"
+msgstr ""
+
+msgid "Uploading image (%d%%)"
+msgstr ""
+
+msgid "Usage terms"
+msgstr ""
+
+msgid "View multi-page documents"
+msgstr ""
+
+msgid "Wait until print job “%s” finishes before closing?"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid ""
+"When enabled, each page will be printed on the same size paper as the "
+"document page."
+msgstr ""
+
+msgid "XPS Documents"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Your print range selection does not include any pages"
+msgstr ""
+
+msgid "[FILE…]"
+msgstr ""
+
+msgid "_About Document Viewer"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Automatic"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Continuous"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copy Link Address"
+msgstr ""
+
+msgid "_Dual"
+msgstr ""
+
+msgid "_Enable"
+msgstr ""
+
+msgid "_Go To"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Next Page"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "_Odd Pages Left"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open Attachment"
+msgstr ""
+
+msgid "_Open Bookmark"
+msgstr ""
+
+msgid "_Open Link"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_Previous Page"
+msgstr ""
+
+msgid "_Print"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remove Bookmark"
+msgstr ""
+
+msgid "_Rename Bookmark"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save As…"
+msgstr ""
+
+msgid "_Save Attachment As…"
+msgstr ""
+
+msgid "_Save Image As…"
+msgstr ""
+
+msgid "_Unlock"
+msgstr ""
+
+msgid "_Unlock Document"
+msgstr ""
+
+msgid "_Whole Words Only"
+msgstr ""
+
+msgid "default:mm"
+msgstr ""
+
+msgid "document-print-preview"
+msgstr ""
+
+msgid ""
+"libarchive lacks support for this comic book’s compression, please contact "
+"your distributor"
+msgstr ""
+
+msgid "of %d"
+msgstr ""
+
+msgid "pdf;ps;postscript;dvi;xps;djvu;tiff;document;presentation;viewer;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Add bookmark"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Automatic zoom"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close the current document window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy highlighted text"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Document view and handling"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Enter presentation mode"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Finding text"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Fit page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Fit width"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to next page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to page number"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to previous page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to previous/next page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to previous/next page visited"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the beginning of the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the beginning/end of a page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the end of the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the next search result"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the previous search result"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move around a page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move up/down a page several lines at a time"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Moving around the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a copy of the current document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Opening, closing, saving and printing"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print the current document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reload the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate the page 90 degrees clockwise"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate the page 90 degrees counter-clockwise"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotating and zooming"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save a copy of the current document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all the text in a document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Selecting and copying text"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show the search bar"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle caret navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle continuous scrolling"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle dual page"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle inverted colors"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle sidebar"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Touchpad gestures"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom 1∶1"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "© 1996–2017 The Evince authors"
+msgstr ""

@@ -1,0 +1,290 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: tracker trunk\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=tracker&keywords=I18N+L10N&component=General\n"
+"PO-Revision-Date: 2020-04-06 14:19+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:31+0000\n"
+
+msgid " %2.2d hour"
+msgid_plural " %2.2d hours"
+msgstr[0] ""
+
+msgid " %2.2d minute"
+msgid_plural " %2.2d minutes"
+msgstr[0] ""
+
+msgid " %2.2d second"
+msgid_plural " %2.2d seconds"
+msgstr[0] ""
+
+msgid " %2.2dh"
+msgstr ""
+
+msgid " %2.2dm"
+msgstr ""
+
+msgid " %2.2ds"
+msgstr ""
+
+msgid " %d day"
+msgid_plural " %d days"
+msgstr[0] ""
+
+msgid " %dd"
+msgstr ""
+
+msgid "Add feed"
+msgstr ""
+
+msgid "Avoid any directory containing a file blacklisted here"
+msgstr ""
+
+msgid "Checks if FILE is eligible for being mined based on configuration"
+msgstr ""
+
+msgid "Could not add feed"
+msgstr ""
+
+msgid "Could not establish a connection to Tracker"
+msgstr ""
+
+msgid "Crawling interval"
+msgstr ""
+
+msgid "Directories to index non-recursively"
+msgstr ""
+
+msgid "Directories to index recursively"
+msgstr ""
+
+msgid "Directory is NOT eligible to be mined (based on contents)"
+msgstr ""
+
+msgid "Directory is NOT eligible to be mined (based on rules)"
+msgstr ""
+
+msgid "Directory is NOT eligible to be monitored (based on config)"
+msgstr ""
+
+msgid "Directory is eligible to be mined (based on contents)"
+msgstr ""
+
+msgid "Directory is eligible to be mined (based on rules)"
+msgstr ""
+
+msgid "Directory is eligible to be monitored (based on config)"
+msgstr ""
+
+msgid "Disable shutting down after 30 seconds of inactivity"
+msgstr ""
+
+msgid ""
+"Disk space threshold in percent at which to pause indexing, or -1 to "
+"disable."
+msgstr ""
+
+msgid "Displays version information"
+msgstr ""
+
+msgid "Enable monitors"
+msgstr ""
+
+msgid "Enable writeback"
+msgstr ""
+
+msgid "FILE"
+msgstr ""
+
+msgid "FORMAT"
+msgstr ""
+
+msgid "File is NOT eligible to be mined (based on rules)"
+msgstr ""
+
+msgid "File is NOT eligible to be monitored (based on config)"
+msgstr ""
+
+msgid "File is eligible to be mined (based on rules)"
+msgstr ""
+
+msgid "File is eligible to be monitored (based on config)"
+msgstr ""
+
+msgid "File or Directory is NOT eligible to be monitored (based on config)"
+msgstr ""
+
+msgid "File or Directory is eligible to be monitored (based on config)"
+msgstr ""
+
+msgid "File to extract metadata for"
+msgstr ""
+
+msgid "Filename and mime type must be provided together"
+msgstr ""
+
+msgid "Ignored directories"
+msgstr ""
+
+msgid "Ignored directories with content"
+msgstr ""
+
+msgid "Ignored files"
+msgstr ""
+
+msgid "Index optical discs"
+msgstr ""
+
+msgid "Index removable devices"
+msgstr ""
+
+msgid "Index when running on battery"
+msgstr ""
+
+msgid "Indexing speed, the higher the slower."
+msgstr ""
+
+msgid "Initial sleep"
+msgstr ""
+
+msgid "Initial sleep time in seconds, 0->1000 (default=15)"
+msgstr ""
+
+msgid "Initial sleep time, in seconds."
+msgstr ""
+
+msgid ""
+"Interval in days to check whether the filesystem is up to date in the "
+"database. 0 forces crawling anytime, -1 forces it only after unclean "
+"shutdowns, and -2 disables it entirely."
+msgstr ""
+
+msgid "List of directories to avoid"
+msgstr ""
+
+msgid "List of file patterns to avoid"
+msgstr ""
+
+msgid "Log verbosity"
+msgstr ""
+
+msgid "Log verbosity."
+msgstr ""
+
+msgid ""
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug (default ="
+" 0)"
+msgstr ""
+
+msgid ""
+"Logging, 0 = errors only, 1 = minimal, 2 = detailed and 3 = debug "
+"(default=0)"
+msgstr ""
+
+msgid "Low disk space limit"
+msgstr ""
+
+msgid "MIME"
+msgstr ""
+
+msgid "MIME type for file (if not provided, this will be guessed)"
+msgstr ""
+
+msgid "MODULE"
+msgstr ""
+
+msgid "Max bytes to extract"
+msgstr ""
+
+msgid "Maximum number of UTF-8 bytes to extract."
+msgstr ""
+
+msgid "Metadata extraction failed"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No error given"
+msgstr ""
+
+msgid "No metadata or extractor modules found to handle this file"
+msgstr ""
+
+msgid "Perform initial indexing when running on battery"
+msgstr ""
+
+msgid "Runs until all configured locations are indexed and then exits"
+msgstr ""
+
+msgid "Scheduler priority when idle"
+msgstr ""
+
+msgid "Set to false to completely disable any file monitoring"
+msgstr ""
+
+msgid "Set to false to completely disable any file writeback"
+msgstr ""
+
+msgid ""
+"Set to true to enable indexing mounted directories for removable devices."
+msgstr ""
+
+msgid "Set to true to index while running on battery"
+msgstr ""
+
+msgid "Set to true to index while running on battery for the first time only"
+msgstr ""
+
+msgid ""
+"The scheduler is the kernel component that decides which runnable "
+"application will be executed by the CPU next. Each application has an "
+"associated scheduling policy and priority."
+msgstr ""
+
+msgid ""
+"Threshold in days after which files from removables devices will be removed "
+"from database if not mounted. 0 means never, maximum is 365."
+msgstr ""
+
+msgid "Throttle"
+msgstr ""
+
+msgid "Title to use (must be used with --add-feed)"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Wait for FS miner to be done before extracting"
+msgstr ""
+
+msgid ""
+"When true, tracker-extract will wait for tracker-miner-fs to be done "
+"crawling before extracting meta-data. This option is useful on constrained "
+"environment where it is important to list files as fast as possible and can "
+"wait to get meta-data later."
+msgstr ""
+
+msgid "Would be indexed"
+msgstr ""
+
+msgid "Would be monitored"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "less than one second"
+msgstr ""
+
+msgid "unknown time"
+msgstr ""

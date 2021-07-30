@@ -1,0 +1,744 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-chess master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-chess/issues\n"
+"PO-Revision-Date: 2020-04-05 02:57+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:08+0000\n"
+
+msgid "A classic game of positional strategy"
+msgstr ""
+
+msgid "A flag to enable board numbering"
+msgstr ""
+
+msgid "A flag to enable maximized mode"
+msgstr ""
+
+msgid "A flag to enable move hints"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "Are you sure you want to resign?"
+msgstr ""
+
+msgid "Black Wins"
+msgstr ""
+
+msgid "Black bishop at %1$s takes the white bishop at %2$s"
+msgstr ""
+
+msgid "Black bishop at %1$s takes the white knight at %2$s"
+msgstr ""
+
+msgid "Black bishop at %1$s takes the white pawn at %2$s"
+msgstr ""
+
+msgid "Black bishop at %1$s takes the white queen at %2$s"
+msgstr ""
+
+msgid "Black bishop at %1$s takes the white rook at %2$s"
+msgstr ""
+
+msgid "Black bishop moves from %1$s to %2$s"
+msgstr ""
+
+msgid "Black castles kingside"
+msgstr ""
+
+msgid "Black castles queenside"
+msgstr ""
+
+msgid "Black has resigned."
+msgstr ""
+
+msgid "Black has run out of time."
+msgstr ""
+
+msgid "Black is Thinking…"
+msgstr ""
+
+msgid "Black is in Check"
+msgstr ""
+
+msgid "Black is in check and cannot move."
+msgstr ""
+
+msgid "Black king at %1$s takes the white bishop at %2$s"
+msgstr ""
+
+msgid "Black king at %1$s takes the white knight at %2$s"
+msgstr ""
+
+msgid "Black king at %1$s takes the white pawn at %2$s"
+msgstr ""
+
+msgid "Black king at %1$s takes the white queen at %2$s"
+msgstr ""
+
+msgid "Black king at %1$s takes the white rook at %2$s"
+msgstr ""
+
+msgid "Black king moves from %1$s to %2$s"
+msgstr ""
+
+msgid "Black knight at %1$s takes the white bishop at %2$s"
+msgstr ""
+
+msgid "Black knight at %1$s takes the white knight at %2$s"
+msgstr ""
+
+msgid "Black knight at %1$s takes the white pawn at %2$s"
+msgstr ""
+
+msgid "Black knight at %1$s takes the white queen at %2$s"
+msgstr ""
+
+msgid "Black knight at %1$s takes the white rook at %2$s"
+msgstr ""
+
+msgid "Black knight moves from %1$s to %2$s"
+msgstr ""
+
+msgid "Black pawn at %1$s takes the white bishop at %2$s"
+msgstr ""
+
+msgid "Black pawn at %1$s takes the white knight at %2$s"
+msgstr ""
+
+msgid "Black pawn at %1$s takes the white pawn at %2$s"
+msgstr ""
+
+msgid "Black pawn at %1$s takes the white queen at %2$s"
+msgstr ""
+
+msgid "Black pawn at %1$s takes the white rook at %2$s"
+msgstr ""
+
+msgid "Black pawn captures white pawn en passant"
+msgstr ""
+
+msgid "Black pawn moves from %1$s to %2$s"
+msgstr ""
+
+msgid "Black performed an en passant capture"
+msgstr ""
+
+msgid "Black queen at %1$s takes the white bishop at %2$s"
+msgstr ""
+
+msgid "Black queen at %1$s takes the white knight at %2$s"
+msgstr ""
+
+msgid "Black queen at %1$s takes the white pawn at %2$s"
+msgstr ""
+
+msgid "Black queen at %1$s takes the white queen at %2$s"
+msgstr ""
+
+msgid "Black queen at %1$s takes the white rook at %2$s"
+msgstr ""
+
+msgid "Black queen moves from %1$s to %2$s"
+msgstr ""
+
+msgid "Black rook at %1$s takes the white bishop at %2$s"
+msgstr ""
+
+msgid "Black rook at %1$s takes the white knight at %2$s"
+msgstr ""
+
+msgid "Black rook at %1$s takes the white pawn at %2$s"
+msgstr ""
+
+msgid "Black rook at %1$s takes the white queen at %2$s"
+msgstr ""
+
+msgid "Black rook at %1$s takes the white rook at %2$s"
+msgstr ""
+
+msgid "Black rook moves from %1$s to %2$s"
+msgstr ""
+
+msgid "Black to Move"
+msgstr ""
+
+msgid "Board _orientation:"
+msgstr ""
+
+msgid ""
+"Can be 'human' (play against another human player), '' (use the first "
+"available chess engine) or the name of a specific engine to play against"
+msgstr ""
+
+msgid "Changes will take effect for the next game."
+msgstr ""
+
+msgid "Chess"
+msgstr ""
+
+msgid "Chess Game"
+msgstr ""
+
+msgid ""
+"Computer chess enthusiasts will appreciate GNOME Chess’s compatibility with "
+"nearly all modern computer chess engines, and its ability to detect several "
+"popular engines automatically if installed."
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Difficulty of the opponent chess engine"
+msgstr ""
+
+msgid "Failed to load PGN: move %s is invalid."
+msgstr ""
+
+msgid "Failed to save game: %s"
+msgstr ""
+
+msgid "Fancy"
+msgstr ""
+
+msgid "Five minutes"
+msgstr ""
+
+msgid "GNOME Chess"
+msgstr ""
+
+msgid "GNOME Chess can only open one PGN at a time."
+msgstr ""
+
+msgid ""
+"GNOME Chess is a simple chess game. You can play against your computer at "
+"three different difficulty levels, or against a friend at your computer."
+msgstr ""
+
+msgid "Game Start"
+msgstr ""
+
+msgid "Game is Drawn"
+msgstr ""
+
+msgid "Invalid %s : %s in PGN, setting timer to infinity."
+msgstr ""
+
+msgid "Invalid clock type in PGN: %s, using a simple clock."
+msgstr ""
+
+msgid "Invalid timer increment in PGN: %s, using a simple clock."
+msgstr ""
+
+msgid "Load Chess Game"
+msgstr ""
+
+msgid "Move _format:"
+msgstr ""
+
+msgid "Neither player can checkmate."
+msgstr ""
+
+msgid ""
+"No chess engine is installed. You will not be able to play against the "
+"computer."
+msgstr ""
+
+msgid "No limit"
+msgstr ""
+
+msgid "No piece was taken or pawn moved in 75 moves."
+msgstr ""
+
+msgid "No piece was taken or pawn moved in fifty moves."
+msgstr ""
+
+msgid "One hour"
+msgstr ""
+
+msgid "Oops! Something has gone wrong."
+msgstr ""
+
+msgid "Opponent cannot move."
+msgstr ""
+
+msgid "PGN files"
+msgstr ""
+
+msgid "Pause the game"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Play the classic two-player board game of chess"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Rewind to the game start"
+msgstr ""
+
+msgid "Save Chess Game"
+msgstr ""
+
+msgid "Save this game before loading another one?"
+msgstr ""
+
+msgid "Save this game before starting a new one?"
+msgstr ""
+
+msgid "Select Promotion Type"
+msgstr ""
+
+msgid "Show release version"
+msgstr ""
+
+msgid "Show the current move"
+msgstr ""
+
+msgid "Show the next move"
+msgstr ""
+
+msgid "Show the previous move"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Ten minutes"
+msgstr ""
+
+msgid "The board side to play as"
+msgstr ""
+
+msgid "The computer player is confused. The game cannot continue."
+msgstr ""
+
+msgid "The directory to open the load game dialog in"
+msgstr ""
+
+msgid "The directory to open the save game dialog in"
+msgstr ""
+
+msgid "The duration of a game in seconds (0 for no limit)"
+msgstr ""
+
+msgid "The format to display moves in"
+msgstr ""
+
+msgid "The game has been abandoned."
+msgstr ""
+
+msgid "The game log says a player died!"
+msgstr ""
+
+msgid "The height of the main window in pixels."
+msgstr ""
+
+msgid "The height of the window"
+msgstr ""
+
+msgid "The last side the player played as"
+msgstr ""
+
+msgid "The opponent player"
+msgstr ""
+
+msgid "The piece theme to use"
+msgstr ""
+
+msgid "The same board state has occurred five times."
+msgstr ""
+
+msgid "The same board state has occurred three times."
+msgstr ""
+
+msgid "The side of the board that is in the foreground"
+msgstr ""
+
+msgid "The timer increment set corresponding to clock type (1 second minimum)"
+msgstr ""
+
+msgid "The type of clock (simple/fischer/bronstein)"
+msgstr ""
+
+msgid "The width of the main window in pixels."
+msgstr ""
+
+msgid "The width of the window"
+msgstr ""
+
+msgid "Thirty minutes"
+msgstr ""
+
+msgid "This does not look like a valid PGN game."
+msgstr ""
+
+msgid ""
+"This is needed when play-as is set to alternate. This should only be set to "
+"black or white."
+msgstr ""
+
+msgid ""
+"This makes sense if you plan to save the game as a record of your loss."
+msgstr ""
+
+msgid "Three hours"
+msgstr ""
+
+msgid "Timer _increment:"
+msgstr ""
+
+msgid "Two hours"
+msgstr ""
+
+msgid "Undo your most recent move"
+msgstr ""
+
+msgid "Unpause the game"
+msgstr ""
+
+msgid "Untitled Chess Game"
+msgstr ""
+
+msgid "White Wins"
+msgstr ""
+
+msgid "White bishop at %1$s takes the black bishop at %2$s"
+msgstr ""
+
+msgid "White bishop at %1$s takes the black knight at %2$s"
+msgstr ""
+
+msgid "White bishop at %1$s takes the black pawn at %2$s"
+msgstr ""
+
+msgid "White bishop at %1$s takes the black queen at %2$s"
+msgstr ""
+
+msgid "White bishop at %1$s takes the black rook at %2$s"
+msgstr ""
+
+msgid "White bishop moves from %1$s to %2$s"
+msgstr ""
+
+msgid "White castles kingside"
+msgstr ""
+
+msgid "White castles queenside"
+msgstr ""
+
+msgid "White has resigned."
+msgstr ""
+
+msgid "White has run out of time."
+msgstr ""
+
+msgid "White is Thinking…"
+msgstr ""
+
+msgid "White is in Check"
+msgstr ""
+
+msgid "White is in check and cannot move."
+msgstr ""
+
+msgid "White king at %1$s takes the black bishop at %2$s"
+msgstr ""
+
+msgid "White king at %1$s takes the black knight at %2$s"
+msgstr ""
+
+msgid "White king at %1$s takes the black pawn at %2$s"
+msgstr ""
+
+msgid "White king at %1$s takes the black queen at %2$s"
+msgstr ""
+
+msgid "White king at %1$s takes the black rook at %2$s"
+msgstr ""
+
+msgid "White king moves from %1$s to %2$s"
+msgstr ""
+
+msgid "White knight at %1$s takes the black bishop at %2$s"
+msgstr ""
+
+msgid "White knight at %1$s takes the black knight at %2$s"
+msgstr ""
+
+msgid "White knight at %1$s takes the black pawn at %2$s"
+msgstr ""
+
+msgid "White knight at %1$s takes the black queen at %2$s"
+msgstr ""
+
+msgid "White knight at %1$s takes the black rook at %2$s"
+msgstr ""
+
+msgid "White knight moves from %1$s to %2$s"
+msgstr ""
+
+msgid "White pawn at %1$s takes the black bishop at %2$s"
+msgstr ""
+
+msgid "White pawn at %1$s takes the black knight at %2$s"
+msgstr ""
+
+msgid "White pawn at %1$s takes the black pawn at %2$s"
+msgstr ""
+
+msgid "White pawn at %1$s takes the black queen at %2$s"
+msgstr ""
+
+msgid "White pawn at %1$s takes the black rook at %2$s"
+msgstr ""
+
+msgid "White pawn captures black pawn en passant"
+msgstr ""
+
+msgid "White pawn moves from %1$s to %2$s"
+msgstr ""
+
+msgid "White performed an en passant capture"
+msgstr ""
+
+msgid "White queen at %1$s takes the black bishop at %2$s"
+msgstr ""
+
+msgid "White queen at %1$s takes the black knight at %2$s"
+msgstr ""
+
+msgid "White queen at %1$s takes the black pawn at %2$s"
+msgstr ""
+
+msgid "White queen at %1$s takes the black queen at %2$s"
+msgstr ""
+
+msgid "White queen at %1$s takes the black rook at %2$s"
+msgstr ""
+
+msgid "White queen moves from %1$s to %2$s"
+msgstr ""
+
+msgid "White rook at %1$s takes the black bishop at %2$s"
+msgstr ""
+
+msgid "White rook at %1$s takes the black knight at %2$s"
+msgstr ""
+
+msgid "White rook at %1$s takes the black pawn at %2$s"
+msgstr ""
+
+msgid "White rook at %1$s takes the black queen at %2$s"
+msgstr ""
+
+msgid "White rook at %1$s takes the black rook at %2$s"
+msgstr ""
+
+msgid "White rook moves from %1$s to %2$s"
+msgstr ""
+
+msgid "White to Move"
+msgstr ""
+
+msgid "Would you like to claim a draw?"
+msgstr ""
+
+msgid "_Abandon game"
+msgstr ""
+
+msgid "_Appearance"
+msgstr ""
+
+msgid "_Bishop"
+msgstr ""
+
+msgid "_Board numbering"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Claim Draw"
+msgstr ""
+
+msgid "_Clock type:"
+msgstr ""
+
+msgid "_Difficulty:"
+msgstr ""
+
+msgid "_Discard game"
+msgstr ""
+
+msgid "_Game"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keep Playing"
+msgstr ""
+
+msgid "_Knight"
+msgstr ""
+
+msgid "_Move hints"
+msgstr ""
+
+msgid "_New Game"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Opposing player:"
+msgstr ""
+
+msgid "_Piece style:"
+msgstr ""
+
+msgid "_Play as:"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Queen"
+msgstr ""
+
+msgid "_Resign"
+msgstr ""
+
+msgid "_Rook"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save game for later"
+msgstr ""
+
+msgid "_Save game log"
+msgstr ""
+
+msgid "_Time limit:"
+msgstr ""
+
+msgctxt "chess-move-format"
+msgid "Figurine"
+msgstr ""
+
+msgctxt "chess-move-format"
+msgid "Human"
+msgstr ""
+
+msgctxt "chess-move-format"
+msgid "Long Algebraic"
+msgstr ""
+
+msgctxt "chess-move-format"
+msgid "Standard Algebraic"
+msgstr ""
+
+msgctxt "chess-opponent"
+msgid "Human"
+msgstr ""
+
+msgctxt "chess-player"
+msgid "Alternate"
+msgstr ""
+
+msgctxt "chess-player"
+msgid "Black"
+msgstr ""
+
+msgctxt "chess-player"
+msgid "White"
+msgstr ""
+
+msgctxt "chess-side"
+msgid "Black Side"
+msgstr ""
+
+msgctxt "chess-side"
+msgid "Current Player"
+msgstr ""
+
+msgctxt "chess-side"
+msgid "Human Side"
+msgstr ""
+
+msgctxt "chess-side"
+msgid "White Side"
+msgstr ""
+
+msgctxt "custom_duration_units"
+msgid "Bronstein"
+msgstr ""
+
+msgctxt "custom_duration_units"
+msgid "Fischer"
+msgstr ""
+
+msgctxt "custom_duration_units"
+msgid "Simple"
+msgstr ""
+
+msgctxt "custom_duration_units"
+msgid "hours"
+msgstr ""
+
+msgctxt "custom_duration_units"
+msgid "minutes"
+msgstr ""
+
+msgctxt "custom_duration_units"
+msgid "seconds"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Normal"
+msgstr ""
+
+msgid "game;strategy;"
+msgstr ""
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] ""
+
+msgid "translator-credits"
+msgstr ""

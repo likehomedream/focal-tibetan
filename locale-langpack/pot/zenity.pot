@@ -1,0 +1,633 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: zenity master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=zenity&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-10-11 10:12+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:57+0000\n"
+
+msgid "--%s is not supported for this dialog\n"
+msgstr ""
+
+msgid "About zenity"
+msgstr ""
+
+msgid "Activate directory-only selection"
+msgstr ""
+
+msgid "Activate save mode"
+msgstr ""
+
+msgid "Add a new Calendar in forms dialog"
+msgstr ""
+
+msgid "Add a new Entry in forms dialog"
+msgstr ""
+
+msgid "Add a new List in forms dialog"
+msgstr ""
+
+msgid "Add a new Password Entry in forms dialog"
+msgstr ""
+
+msgid "Add a new combo box in forms dialog"
+msgstr ""
+
+msgid "Add a new entry"
+msgstr ""
+
+msgid "Add an extra button"
+msgstr ""
+
+msgid "Adjust the scale value"
+msgstr ""
+
+msgid "All updates are complete."
+msgstr ""
+
+msgid "Allow changes to text"
+msgstr ""
+
+msgid "Allow multiple files to be selected"
+msgstr ""
+
+msgid "Allow multiple rows to be selected"
+msgstr ""
+
+msgid "An error has occurred."
+msgstr ""
+
+msgid "Are you sure you want to proceed?"
+msgstr ""
+
+msgid "Auto scroll the text to the end. Only when text is captured from stdin"
+msgstr ""
+
+msgid "COLUMN"
+msgstr ""
+
+msgid "C_alendar:"
+msgstr ""
+
+msgid "Calendar field name"
+msgstr ""
+
+msgid "Calendar options"
+msgstr ""
+
+msgid "Calendar selection"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid ""
+"Change list default search function searching for text in the middle, not on"
+" the beginning"
+msgstr ""
+
+msgid "Color selection options"
+msgstr ""
+
+msgid "Combo box field name"
+msgstr ""
+
+msgid "Confirm file selection if filename already exists"
+msgstr ""
+
+msgid "Could not parse command from stdin\n"
+msgstr ""
+
+msgid "Could not parse message\n"
+msgstr ""
+
+msgid "DAY"
+msgstr ""
+
+msgid "Dismiss the dialog when 100% has been reached"
+msgstr ""
+
+msgid "Display calendar dialog"
+msgstr ""
+
+msgid "Display color selection dialog"
+msgstr ""
+
+msgid "Display dialog boxes from shell scripts"
+msgstr ""
+
+msgid "Display error dialog"
+msgstr ""
+
+msgid "Display file selection dialog"
+msgstr ""
+
+msgid "Display forms dialog"
+msgstr ""
+
+msgid "Display info dialog"
+msgstr ""
+
+msgid "Display list dialog"
+msgstr ""
+
+msgid "Display notification"
+msgstr ""
+
+msgid "Display password dialog"
+msgstr ""
+
+msgid "Display progress indication dialog"
+msgstr ""
+
+msgid "Display question dialog"
+msgstr ""
+
+msgid "Display scale dialog"
+msgstr ""
+
+msgid "Display text entry dialog"
+msgstr ""
+
+msgid "Display text information dialog"
+msgstr ""
+
+msgid "Display the username option"
+msgstr ""
+
+msgid "Display warning dialog"
+msgstr ""
+
+msgid "Do not enable Pango markup"
+msgstr ""
+
+msgid "Do not enable text wrapping"
+msgstr ""
+
+msgid ""
+"Do not enable user interaction with the WebView. Only works if you use "
+"--html option"
+msgstr ""
+
+msgid "Enable HTML support"
+msgstr ""
+
+msgid "Enable an I read and agree checkbox"
+msgstr ""
+
+msgid ""
+"Enable ellipsizing in the dialog text. This fixes the high window size with "
+"long texts"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error options"
+msgstr ""
+
+msgid "Estimate when progress will reach 100%"
+msgstr ""
+
+msgid "FILENAME"
+msgstr ""
+
+msgid "Field name"
+msgstr ""
+
+msgid "File selection options"
+msgstr ""
+
+msgid "Forms dialog"
+msgstr ""
+
+msgid "Forms dialog options"
+msgstr ""
+
+msgid "General options"
+msgstr ""
+
+msgid "Give Cancel button focus by default"
+msgstr ""
+
+msgid "HEIGHT"
+msgstr ""
+
+msgid "Hide Cancel button"
+msgstr ""
+
+msgid "Hide a specific column"
+msgstr ""
+
+msgid "Hide the column headers"
+msgstr ""
+
+msgid "Hide the entry text"
+msgstr ""
+
+msgid "Hide value"
+msgstr ""
+
+msgid "ICON-NAME"
+msgstr ""
+
+msgid "ICONPATH"
+msgstr ""
+
+msgid "Info options"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid ""
+"Invalid value for a boolean typed hint.\n"
+"Supported values are 'true' or 'false'.\n"
+msgstr ""
+
+msgid "Kill parent process if Cancel button is pressed"
+msgstr ""
+
+msgid "List field and header name"
+msgstr ""
+
+msgid "List of values for List"
+msgstr ""
+
+msgid "List of values for columns"
+msgstr ""
+
+msgid "List of values for combo box"
+msgstr ""
+
+msgid "List of values separated by |"
+msgstr ""
+
+msgid "List options"
+msgstr ""
+
+msgid "Listen for commands on stdin"
+msgstr ""
+
+msgid "MONTH"
+msgstr ""
+
+msgid "Maximum value must be greater than minimum value.\n"
+msgstr ""
+
+msgid "Miscellaneous options"
+msgstr ""
+
+msgid "NAME | PATTERN1 PATTERN2 ..."
+msgstr ""
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "No column titles specified for List dialog.\n"
+msgstr ""
+
+msgid "Notification icon options"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Open file"
+msgstr ""
+
+msgid "PATTERN"
+msgstr ""
+
+msgid "PERCENTAGE"
+msgstr ""
+
+msgid "Password dialog options"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid ""
+"Print a specific column (Default is 1. 'ALL' can be used to print all "
+"columns)"
+msgstr ""
+
+msgid "Print partial values"
+msgstr ""
+
+msgid "Print version"
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Progress options"
+msgstr ""
+
+msgid "Pulsate progress bar"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Question options"
+msgstr ""
+
+msgid "Running..."
+msgstr ""
+
+msgid "SEPARATOR"
+msgstr ""
+
+msgid "Scale options"
+msgstr ""
+
+msgid "Select a date from below."
+msgstr ""
+
+msgid "Select items from the list"
+msgstr ""
+
+msgid "Select items from the list below."
+msgstr ""
+
+msgid "Set a filename filter"
+msgstr ""
+
+msgid "Set an URL instead of a file. Only works if you use --html option"
+msgstr ""
+
+msgid "Set dialog timeout in seconds"
+msgstr ""
+
+msgid "Set initial percentage"
+msgstr ""
+
+msgid "Set initial value"
+msgstr ""
+
+msgid "Set maximum value"
+msgstr ""
+
+msgid "Set minimum value"
+msgstr ""
+
+msgid "Set output separator character"
+msgstr ""
+
+msgid "Set step size"
+msgstr ""
+
+msgid "Set the calendar day"
+msgstr ""
+
+msgid "Set the calendar month"
+msgstr ""
+
+msgid "Set the calendar year"
+msgstr ""
+
+msgid "Set the color"
+msgstr ""
+
+msgid "Set the column header"
+msgstr ""
+
+msgid "Set the dialog icon"
+msgstr ""
+
+msgid "Set the dialog text"
+msgstr ""
+
+msgid "Set the dialog title"
+msgstr ""
+
+msgid "Set the entry text"
+msgstr ""
+
+msgid "Set the filename"
+msgstr ""
+
+msgid "Set the format for the returned date"
+msgstr ""
+
+msgid "Set the height"
+msgstr ""
+
+msgid "Set the label of the Cancel button"
+msgstr ""
+
+msgid "Set the label of the OK button"
+msgstr ""
+
+msgid "Set the modal hint"
+msgstr ""
+
+msgid "Set the notification hints"
+msgstr ""
+
+msgid "Set the notification text"
+msgstr ""
+
+msgid "Set the parent window to attach to"
+msgstr ""
+
+msgid "Set the text font"
+msgstr ""
+
+msgid "Set the width"
+msgstr ""
+
+msgid "Set the window icon"
+msgstr ""
+
+msgid "Show calendar options"
+msgstr ""
+
+msgid "Show color selection options"
+msgstr ""
+
+msgid "Show error options"
+msgstr ""
+
+msgid "Show file selection options"
+msgstr ""
+
+msgid "Show forms dialog options"
+msgstr ""
+
+msgid "Show general options"
+msgstr ""
+
+msgid "Show info options"
+msgstr ""
+
+msgid "Show list options"
+msgstr ""
+
+msgid "Show miscellaneous options"
+msgstr ""
+
+msgid "Show notification icon options"
+msgstr ""
+
+msgid "Show password dialog options"
+msgstr ""
+
+msgid "Show progress options"
+msgstr ""
+
+msgid "Show question options"
+msgstr ""
+
+msgid "Show scale options"
+msgstr ""
+
+msgid "Show text entry options"
+msgstr ""
+
+msgid "Show text information options"
+msgstr ""
+
+msgid "Show the columns header"
+msgstr ""
+
+msgid "Show the palette"
+msgstr ""
+
+msgid "Show warning options"
+msgstr ""
+
+msgid "Suppress OK and Cancel buttons"
+msgstr ""
+
+msgid "TEXT"
+msgstr ""
+
+msgid "TIMEOUT"
+msgstr ""
+
+msgid "TITLE"
+msgstr ""
+
+msgid "Text View"
+msgstr ""
+
+msgid "Text entry options"
+msgstr ""
+
+msgid "Text information options"
+msgstr ""
+
+msgid ""
+"This option is not available. Please see --help for all possible usages.\n"
+msgstr ""
+
+msgid ""
+"This program is distributed in the hope that it will be useful, but WITHOUT "
+"ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or "
+"FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Lesser General Public License"
+" for more details.\n"
+msgstr ""
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it "
+"under the terms of the GNU Lesser General Public License as published by the"
+" Free Software Foundation; either version 2 of the License, or (at your "
+"option) any later version.\n"
+msgstr ""
+
+msgid "Time remaining: %lu:%02lu:%02lu"
+msgstr ""
+
+msgid "Two or more dialog options specified\n"
+msgstr ""
+
+msgid "Type your password"
+msgstr ""
+
+msgid "Type your username and password"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Unknown hint name. Skipping.\n"
+msgstr ""
+
+msgid "Unsupported hint. Skipping.\n"
+msgstr ""
+
+msgid "Use an image for the first column"
+msgstr ""
+
+msgid "Use check boxes for the first column"
+msgstr ""
+
+msgid "Use radio buttons for the first column"
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid "VALUE"
+msgstr ""
+
+msgid "Value out of range.\n"
+msgstr ""
+
+msgid "WIDTH"
+msgstr ""
+
+msgid "WINDOW"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Warning options"
+msgstr ""
+
+msgid "YEAR"
+msgstr ""
+
+msgid "You must specify a dialog type. See 'zenity --help' for details\n"
+msgstr ""
+
+msgid ""
+"You should have received a copy of the GNU Lesser General Public License "
+"along with this program; if not, write to the Free Software Foundation, "
+"Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301, USA."
+msgstr ""
+
+msgid "You should use only one List dialog type.\n"
+msgstr ""
+
+msgid "Zenity notification"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Enter new text:"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

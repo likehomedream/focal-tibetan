@@ -1,0 +1,29 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: isoquery\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2009-10-19 18:07+0000\n"
+"Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:07+0000\n"
+
+msgid "LOCALE"
+msgstr ""
+
+msgid "STANDARD"
+msgstr ""
+
+msgid "Separate entries with a NULL character instead of newline"
+msgstr ""
+
+msgid "Show program version and copyright"
+msgstr ""
+
+msgid "Use this locale for output"
+msgstr ""

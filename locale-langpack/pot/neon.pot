@@ -1,0 +1,295 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: neon 0.29.x\n"
+"Report-Msgid-Bugs-To: neon@lists.manyfish.co.uk\n"
+"PO-Revision-Date: 2010-12-31 15:12+0000\n"
+"Last-Translator: Dongsheng-song <Unknown>\n"
+"Language-Team: neon@webdav.org\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:00+0000\n"
+
+msgid "%s: %s (code %d)"
+msgstr ""
+
+msgid "%s: connection timed out"
+msgstr ""
+
+msgid "%s: connection was closed by proxy server"
+msgstr ""
+
+msgid "%s: connection was closed by server"
+msgstr ""
+
+msgid "Certificate verification error: %s"
+msgstr ""
+
+msgid "Chunk delimiter was invalid"
+msgstr ""
+
+msgid "Client certificate verification failed"
+msgstr ""
+
+msgid "Connection closed"
+msgstr ""
+
+msgid "Connection timed out"
+msgstr ""
+
+msgid "Could not authenticate to proxy server: %s"
+msgstr ""
+
+msgid "Could not authenticate to server: %s"
+msgstr ""
+
+msgid "Could not connect to proxy server"
+msgstr ""
+
+msgid "Could not connect to server"
+msgstr ""
+
+msgid "Could not create SSL connection through proxy server: %s"
+msgstr ""
+
+msgid "Could not create SSL structure"
+msgstr ""
+
+msgid "Could not create socket"
+msgstr ""
+
+msgid "Could not determine file size: %s"
+msgstr ""
+
+msgid "Could not inflate data"
+msgstr ""
+
+msgid "Could not initialize zlib"
+msgstr ""
+
+msgid "Could not parse chunk size"
+msgstr ""
+
+msgid "Could not parse redirect destination URL"
+msgstr ""
+
+msgid "Could not parse response status line"
+msgstr ""
+
+msgid "Could not parse response: %s"
+msgstr ""
+
+msgid "Could not read chunk delimiter"
+msgstr ""
+
+msgid "Could not read chunk size"
+msgstr ""
+
+msgid "Could not read interim response headers"
+msgstr ""
+
+msgid "Could not read response body"
+msgstr ""
+
+msgid "Could not read status line"
+msgstr ""
+
+msgid "Could not resolve hostname `%s': %s"
+msgstr ""
+
+msgid "Could not seek to offset %s of request body file: %s"
+msgstr ""
+
+msgid "Could not send request"
+msgstr ""
+
+msgid "Could not send request body"
+msgstr ""
+
+msgid "Could not write to file: %s"
+msgstr ""
+
+msgid "Digest mutual authentication failure: client nonce mismatch"
+msgstr ""
+
+msgid "Digest mutual authentication failure: could not parse nonce count"
+msgstr ""
+
+msgid "Digest mutual authentication failure: missing parameters"
+msgstr ""
+
+msgid "Digest mutual authentication failure: nonce count mismatch (%u not %u)"
+msgstr ""
+
+msgid "Digest mutual authentication failure: request-digest mismatch"
+msgstr ""
+
+msgid "Error reading response headers"
+msgstr ""
+
+msgid "GSSAPI authentication error: "
+msgstr ""
+
+msgid "GSSAPI failure (code %u)"
+msgstr ""
+
+msgid "Host not found"
+msgstr ""
+
+msgid "Invalid Byte Order Mark"
+msgstr ""
+
+msgid "Invalid Content-Length in response"
+msgstr ""
+
+msgid ""
+"Invalid HTTP status line in status element at line %d of response:\n"
+"Status line was: %s"
+msgstr ""
+
+msgid "LOCK response missing Lock-Token header"
+msgstr ""
+
+msgid "Line too long"
+msgstr ""
+
+msgid "Negotiate response verification failed: invalid response header token"
+msgstr ""
+
+msgid "Negotiate response verification failure: %s"
+msgstr ""
+
+msgid "No activelock for <%s> returned in LOCK refresh response"
+msgstr ""
+
+msgid "Range is not satisfiable"
+msgstr ""
+
+msgid "Resource does not support ranged GET requests"
+msgstr ""
+
+msgid "Response did not include requested range"
+msgstr ""
+
+msgid "Response exceeded maximum number of header fields"
+msgstr ""
+
+msgid "Response exceeds maximum property count"
+msgstr ""
+
+msgid "Response header too long"
+msgstr ""
+
+msgid "Response missing activelock for %s"
+msgstr ""
+
+msgid "SSL alert received: %s"
+msgstr ""
+
+msgid "SSL disabled due to lack of entropy"
+msgstr ""
+
+msgid "SSL error code %d/%d/%lu"
+msgstr ""
+
+msgid "SSL error: %s"
+msgstr ""
+
+msgid "SSL server did not present certificate"
+msgstr ""
+
+msgid "SSL socket read failed"
+msgstr ""
+
+msgid "Secure connection truncated"
+msgstr ""
+
+msgid "Server certificate verification failed: "
+msgstr ""
+
+msgid "Server certificate was missing commonName attribute in subject name"
+msgstr ""
+
+msgid "Server did not send certificate chain"
+msgstr ""
+
+msgid "Socket descriptor number exceeds FD_SETSIZE"
+msgstr ""
+
+msgid "Socket family not supported"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown transfer-coding in response"
+msgstr ""
+
+msgid "XML parse error at line %d: %s"
+msgstr ""
+
+msgid "XML parse error at line %d: invalid element name"
+msgstr ""
+
+msgid "[invalid date]"
+msgstr ""
+
+msgid "[unprintable:#%lu]"
+msgstr ""
+
+msgid "[unprintable]"
+msgstr ""
+
+msgid "certificate has expired"
+msgstr ""
+
+msgid "certificate is not yet valid"
+msgstr ""
+
+msgid "certificate issued for a different hostname"
+msgstr ""
+
+msgid "could not parse challenge"
+msgstr ""
+
+msgid "could not parse domain in Digest challenge"
+msgstr ""
+
+msgid "ignored %s challenge"
+msgstr ""
+
+msgid "ignoring empty Negotiate continuation"
+msgstr ""
+
+msgid "incompatible algorithm in Digest challenge"
+msgstr ""
+
+msgid "initial Digest challenge was stale"
+msgstr ""
+
+msgid "invalid Negotiate token"
+msgstr ""
+
+msgid "issuer is not trusted"
+msgstr ""
+
+msgid "missing parameter in Digest challenge"
+msgstr ""
+
+msgid "missing realm in Basic challenge"
+msgstr ""
+
+msgid "offset invalid"
+msgstr ""
+
+msgid "rejected %s challenge"
+msgstr ""
+
+msgid "stale Digest challenge with new algorithm or realm"
+msgstr ""
+
+msgid "unknown algorithm in Digest challenge"
+msgstr ""

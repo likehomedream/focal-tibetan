@@ -1,0 +1,570 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: empathy master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=empathy&keywords=I18N+L10N&component=tp-aw\n"
+"PO-Revision-Date: 2019-08-29 17:18+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:29+0000\n"
+
+msgid "%1$s on %2$s"
+msgstr ""
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+
+msgid "%d second ago"
+msgid_plural "%d seconds ago"
+msgstr[0] ""
+
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+
+msgid "%s"
+msgstr ""
+
+msgid "%s Account"
+msgstr ""
+
+msgid "%s:"
+msgstr ""
+
+msgid "<b>Example:</b> 123456789"
+msgstr ""
+
+msgid "<b>Example:</b> MyScreenName"
+msgstr ""
+
+msgid "<b>Example:</b> user@gmail.com"
+msgstr ""
+
+msgid "<b>Example:</b> user@hotmail.com"
+msgstr ""
+
+msgid "<b>Example:</b> user@jabber.org"
+msgstr ""
+
+msgid "<b>Example:</b> user@my.sip.server"
+msgstr ""
+
+msgid "<b>Example:</b> username"
+msgstr ""
+
+msgid "<b>Personal Details</b>"
+msgstr ""
+
+msgid "A_dd"
+msgstr ""
+
+msgid "A_pply"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Add…"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Alias"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Authentication username"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Away Message:"
+msgstr ""
+
+msgid "Baltic"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Celtic"
+msgstr ""
+
+msgid "Central European"
+msgstr ""
+
+msgid "Ch_aracter set"
+msgstr ""
+
+msgid "Ch_aracter set:"
+msgstr ""
+
+msgid "Character set"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr ""
+
+msgid "Chinese Traditional"
+msgstr ""
+
+msgid "Choose an IRC network"
+msgstr ""
+
+msgid "Connected From:"
+msgstr ""
+
+msgid "Couldn’t convert image"
+msgstr ""
+
+msgid "Couldn’t save picture to file"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Current Locale"
+msgstr ""
+
+msgid "Cyrillic"
+msgstr ""
+
+msgid "Cyrillic/Russian"
+msgstr ""
+
+msgid "Cyrillic/Ukrainian"
+msgstr ""
+
+msgid "Default directory to select an avatar image from"
+msgstr ""
+
+msgid "Discover Binding"
+msgstr ""
+
+msgid "Discover the STUN server automatically"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "E-_mail address"
+msgstr ""
+
+msgid "E-mail Address"
+msgstr ""
+
+msgid "Encr_yption required (TLS/SSL)"
+msgstr ""
+
+msgid "Full Name"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "Go online to edit your personal information."
+msgstr ""
+
+msgid "Google Talk"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Gujarati"
+msgstr ""
+
+msgid "Gurmukhi"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hebrew Visual"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "ICQ _UIN"
+msgstr ""
+
+msgid "IM account password for %s (%s)"
+msgstr ""
+
+msgid "I_gnore SSL certificate errors"
+msgstr ""
+
+msgid "I_gnore conference and chat room invitations"
+msgstr ""
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Identifier"
+msgstr ""
+
+msgid "Ignore TLS Errors"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Interval (seconds)"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Keep-Alive Options"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Last Seen:"
+msgstr ""
+
+msgid "Local IP Address"
+msgstr ""
+
+msgid "Login I_D"
+msgstr ""
+
+msgid "Loose Routing"
+msgstr ""
+
+msgid "Mechanism"
+msgstr ""
+
+msgid "Miscellaneous Options"
+msgstr ""
+
+msgid ""
+"Most IRC servers don’t need a password, so if you’re not sure, don’t enter a"
+" password."
+msgstr ""
+
+msgid "NAT Traversal Options"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "New %s account"
+msgstr ""
+
+msgid "New Network"
+msgstr ""
+
+msgid "New account"
+msgstr ""
+
+msgid "Nic_kname"
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "No Image"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "None of the accepted image formats are supported on your system"
+msgstr ""
+
+msgid "Nordic"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Override server settings"
+msgstr ""
+
+msgid "Pass_word"
+msgstr ""
+
+msgid "Pass_word:"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password for chatroom “%s” on account %s (%s)"
+msgstr ""
+
+msgid "Password not found"
+msgstr ""
+
+msgid "People Nearby"
+msgstr ""
+
+msgid "Persian"
+msgstr ""
+
+msgid "Phone Number"
+msgstr ""
+
+msgid "Port"
+msgstr ""
+
+msgid "Priori_ty"
+msgstr ""
+
+msgid "Proxy Options"
+msgstr ""
+
+msgid "Quit message"
+msgstr ""
+
+msgid "Real name"
+msgstr ""
+
+msgid "Register"
+msgstr ""
+
+msgid "Remember password"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset _Networks List"
+msgstr ""
+
+msgid "Reso_urce"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "SSL"
+msgstr ""
+
+msgid "STUN Server"
+msgstr ""
+
+msgid "Screen _Name"
+msgstr ""
+
+msgid "Select Your Avatar Image"
+msgstr ""
+
+msgid "Select…"
+msgstr ""
+
+msgid "Server"
+msgstr ""
+
+msgid "Server:"
+msgstr ""
+
+msgid "Servers"
+msgstr ""
+
+msgid "South European"
+msgstr ""
+
+msgid "TCP"
+msgstr ""
+
+msgid "TLS"
+msgstr ""
+
+msgid "Take a picture…"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "The last directory that an avatar image was chosen from."
+msgstr ""
+
+msgid "These details will be shared with other users on this chat network."
+msgstr ""
+
+msgid "Transport"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "UDP"
+msgstr ""
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Use old SS_L"
+msgstr ""
+
+msgid "Use this account to call _landlines and mobile phones"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Western"
+msgstr ""
+
+msgid "What is your AIM password?"
+msgstr ""
+
+msgid "What is your AIM screen name?"
+msgstr ""
+
+msgid "What is your Google ID?"
+msgstr ""
+
+msgid "What is your Google password?"
+msgstr ""
+
+msgid "What is your GroupWise User ID?"
+msgstr ""
+
+msgid "What is your GroupWise password?"
+msgstr ""
+
+msgid "What is your ICQ UIN?"
+msgstr ""
+
+msgid "What is your ICQ password?"
+msgstr ""
+
+msgid "What is your IRC nickname?"
+msgstr ""
+
+msgid "What is your Jabber ID?"
+msgstr ""
+
+msgid "What is your Jabber password?"
+msgstr ""
+
+msgid "What is your SIP account password?"
+msgstr ""
+
+msgid "What is your SIP login ID?"
+msgstr ""
+
+msgid "What is your Windows Live ID?"
+msgstr ""
+
+msgid "What is your Windows Live password?"
+msgstr ""
+
+msgid "What is your Yahoo! ID?"
+msgstr ""
+
+msgid "What is your Yahoo! password?"
+msgstr ""
+
+msgid "Which IRC network?"
+msgstr ""
+
+msgid "Yahoo! I_D:"
+msgstr ""
+
+msgid "Yahoo! Japan"
+msgstr ""
+
+msgid "_First Name"
+msgstr ""
+
+msgid "_Jabber ID"
+msgstr ""
+
+msgid "_Last Name"
+msgstr ""
+
+msgid "_Port"
+msgstr ""
+
+msgid "_Port:"
+msgstr ""
+
+msgid "_Published Name"
+msgstr ""
+
+msgid "_Room List locale:"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Server"
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "home"
+msgstr ""
+
+msgid "in the future"
+msgstr ""
+
+msgid "mobile"
+msgstr ""
+
+msgid "new server"
+msgstr ""
+
+msgid "parcel"
+msgstr ""
+
+msgid "postal"
+msgstr ""
+
+msgid "preferred"
+msgstr ""
+
+msgctxt "verb displayed on a button to select an IRC network"
+msgid "Select"
+msgstr ""
+
+msgid "voice"
+msgstr ""
+
+msgid "work"
+msgstr ""

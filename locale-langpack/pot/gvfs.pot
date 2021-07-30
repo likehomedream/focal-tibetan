@@ -1,0 +1,1263 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gvfs master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gvfs/issues\n"
+"PO-Revision-Date: 2020-04-16 07:09+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:01+0000\n"
+
+msgid " (invalid encoding)"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "%s (jailbreak)"
+msgstr ""
+
+msgid "%s Encrypted"
+msgstr ""
+
+msgid "%s File System Service"
+msgstr ""
+
+msgid "%s Possibly Encrypted"
+msgstr ""
+
+msgid "%s Volume"
+msgstr ""
+
+msgid ""
+"%s can be safely unplugged\n"
+"Device can be removed."
+msgstr ""
+
+msgid "%s for %s on %s"
+msgstr ""
+
+msgid "%s has been unmounted\n"
+msgstr ""
+
+msgid "%s on %s"
+msgstr ""
+
+msgid "%s on %s%s"
+msgstr ""
+
+msgid ""
+"%s unmounted\n"
+"Filesystem has been disconnected."
+msgstr ""
+
+msgid "%s: %d: Directory or file exists"
+msgstr ""
+
+msgid "%s: %d: Invalid filename"
+msgstr ""
+
+msgid "%s: %d: No such file or directory"
+msgstr ""
+
+msgid "%s: %d: Not Supported"
+msgstr ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid "/ in %s"
+msgstr ""
+
+msgid "/ on %s"
+msgstr ""
+
+msgid "A passphrase is required to access the volume"
+msgstr ""
+
+msgid "Accessing application icons on device failed"
+msgstr ""
+
+msgid "Accounts are unsupported"
+msgstr ""
+
+msgid "An invalid username was provided."
+msgstr ""
+
+msgid "An operation is already pending"
+msgstr ""
+
+msgid "Ancestor directory doesn’t exist"
+msgstr ""
+
+msgid "Apple Filing Protocol Service"
+msgstr ""
+
+msgid "Apple Mobile Device"
+msgstr ""
+
+msgid "Apple Mobile Device, Jailbroken"
+msgstr ""
+
+msgid "Audio CD File System Service"
+msgstr ""
+
+msgid "Audio Disc"
+msgstr ""
+
+msgid "Authentication is required to perform file operations"
+msgstr ""
+
+msgid "Authentication is required to run gvfsd-admin daemon"
+msgstr ""
+
+msgid "Automount failed: %s"
+msgstr ""
+
+msgid "Backend currently unmounting"
+msgstr ""
+
+msgid "Backup file creation failed"
+msgstr ""
+
+msgid "Backup file creation failed: %s"
+msgstr ""
+
+msgid "Backups not supported"
+msgstr ""
+
+msgid "Burn"
+msgstr ""
+
+msgid "CD/DVD Creator"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Login"
+msgstr ""
+
+msgid "Cannot allocate new file to append to"
+msgstr ""
+
+msgid "Cannot create gphoto2 context"
+msgstr ""
+
+msgid "Cannot create gudev client"
+msgstr ""
+
+msgid "Cannot find drive %s"
+msgstr ""
+
+msgid "Cannot get data of file to append to"
+msgstr ""
+
+msgid "Cannot make directory in this location"
+msgstr ""
+
+msgid "Cannot open data connection. Maybe your firewall prevents this?"
+msgstr ""
+
+msgid "Cannot read file to append to"
+msgstr ""
+
+msgid "Cannot write to this location"
+msgstr ""
+
+msgid "Can’t copy directory over directory"
+msgstr ""
+
+msgid "Can’t copy file over directory"
+msgstr ""
+
+msgid "Can’t eject file"
+msgstr ""
+
+msgid "Can’t find metadata file %s"
+msgstr ""
+
+msgid "Can’t handle version %d of GVfsIcon encoding"
+msgstr ""
+
+msgid "Can’t merge directories"
+msgstr ""
+
+msgid "Can’t monitor file or directory."
+msgstr ""
+
+msgid "Can’t mount file"
+msgstr ""
+
+msgid "Can’t move a shared directory into the Trash"
+msgstr ""
+
+msgid "Can’t move directory into one of its descendants"
+msgstr ""
+
+msgid "Can’t move directory over directory"
+msgstr ""
+
+msgid "Can’t move over directory"
+msgstr ""
+
+msgid "Can’t move sharepoint into a shared directory"
+msgstr ""
+
+msgid "Can’t open directory"
+msgstr ""
+
+msgid "Can’t open mountable file"
+msgstr ""
+
+msgid "Can’t poll file"
+msgstr ""
+
+msgid "Can’t recursively copy directory"
+msgstr ""
+
+msgid "Can’t recursively move directory"
+msgstr ""
+
+msgid "Can’t rename file, filename already exists"
+msgstr ""
+
+msgid "Can’t rename volume"
+msgstr ""
+
+msgid "Can’t send host identity confirmation"
+msgstr ""
+
+msgid "Can’t send password"
+msgstr ""
+
+msgid "Can’t start drive"
+msgstr ""
+
+msgid "Can’t stop drive"
+msgstr ""
+
+msgid "Can’t unmount file"
+msgstr ""
+
+msgid ""
+"Can’t verify the identity of “%s”.\n"
+"This happens when you log in to a computer the first time.\n"
+"\n"
+"The identity sent by the remote computer is “%s”. If you want to be absolutely sure it is safe to continue, contact the system administrator."
+msgstr ""
+
+msgid "Can’t write to directory"
+msgstr ""
+
+msgid "Channel blocked"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Connection failed"
+msgstr ""
+
+msgid "Connection refused by server"
+msgstr ""
+
+msgid "Connection unexpectedly went down"
+msgstr ""
+
+msgid "Could not create request"
+msgstr ""
+
+msgid "Could not find an enclosing directory"
+msgstr ""
+
+msgid "Could not find enclosing mount"
+msgstr ""
+
+msgid "Could not parse response"
+msgstr ""
+
+msgid "Couldn’t find matching udev device."
+msgstr ""
+
+msgid "Couldn’t get stream file descriptor"
+msgstr ""
+
+msgid "Couldn’t load %s on %s"
+msgstr ""
+
+msgid "Data connection closed"
+msgstr ""
+
+msgid "Device not found"
+msgstr ""
+
+msgid "Didn’t get stream file descriptor"
+msgstr ""
+
+msgid "Digital Camera (%s)"
+msgstr ""
+
+msgid "Directory doesn’t exist"
+msgstr ""
+
+msgid "Directory not empty"
+msgstr ""
+
+msgid "Directory notification not supported"
+msgstr ""
+
+msgid "Directory “%s” is not empty"
+msgstr ""
+
+msgid "Dns-SD"
+msgstr ""
+
+msgid "Documents on %s"
+msgstr ""
+
+msgid "Documents on Apple Mobile Device"
+msgstr ""
+
+msgid "Don’t start fuse."
+msgstr ""
+
+msgid "Drive %s does not contain audio files"
+msgstr ""
+
+msgid "Eject Anyway"
+msgstr ""
+
+msgid "Empty response"
+msgstr ""
+
+msgid "Enable debug output."
+msgstr ""
+
+msgid "Encryption passphrase for %s"
+msgstr ""
+
+msgid "End of stream"
+msgstr ""
+
+msgid ""
+"Enter a passphrase to unlock the volume\n"
+"The passphrase is needed to access encrypted data on %s."
+msgstr ""
+
+msgid ""
+"Enter a passphrase to unlock the volume\n"
+"The volume %s might be a VeraCrypt volume as it contains random data."
+msgstr ""
+
+msgid "Enter passphrase for secure key for %s"
+msgstr ""
+
+msgid "Enter passphrase for secure key for %s on %s"
+msgstr ""
+
+msgid "Enter password for %s"
+msgstr ""
+
+msgid "Enter password for %s on %s"
+msgstr ""
+
+msgid "Enter your name and password for the server “%s”."
+msgstr ""
+
+msgid "Enter your password for the server “%s”."
+msgstr ""
+
+msgid "Error creating backup file: %s"
+msgstr ""
+
+msgid "Error creating camera"
+msgstr ""
+
+msgid "Error creating directory"
+msgstr ""
+
+msgid "Error creating file object"
+msgstr ""
+
+msgid "Error deleting directory"
+msgstr ""
+
+msgid "Error deleting file"
+msgstr ""
+
+msgid "Error deleting file: %s"
+msgstr ""
+
+msgid "Error deleting invalid passphrase from keyring (%s)"
+msgstr ""
+
+msgid "Error from “paranoia” on drive %s"
+msgstr ""
+
+msgid "Error getting data from file"
+msgstr ""
+
+msgid "Error getting device information"
+msgstr ""
+
+msgid "Error getting file"
+msgstr ""
+
+msgid "Error in stream protocol: %s"
+msgstr ""
+
+msgid "Error initializing Avahi resolver"
+msgstr ""
+
+msgid "Error initializing Avahi: %s"
+msgstr ""
+
+msgid "Error initializing camera"
+msgstr ""
+
+msgid "Error loading device information"
+msgstr ""
+
+msgid "Error looking up device information"
+msgstr ""
+
+msgid "Error moving file: %s"
+msgstr ""
+
+msgid "Error occurred when validating the certificate."
+msgstr ""
+
+msgid "Error removing target file: %s"
+msgstr ""
+
+msgid "Error renaming directory"
+msgstr ""
+
+msgid "Error renaming file"
+msgstr ""
+
+msgid "Error resolving “%s” service “%s” on domain “%s”"
+msgstr ""
+
+msgid ""
+"Error resolving “%s” service “%s” on domain “%s”. One or more TXT records "
+"are missing. Keys required: “%s”."
+msgstr ""
+
+msgid "Error seeking in stream"
+msgstr ""
+
+msgid "Error seeking in stream on camera %s"
+msgstr ""
+
+msgid "Error seeking in stream on drive %s"
+msgstr ""
+
+msgid "Error setting file metadata: %s"
+msgstr ""
+
+msgid "Error setting up camera communications port"
+msgstr ""
+
+msgid "Error storing passphrase in keyring (%s)"
+msgstr ""
+
+msgid "Error while getting mount info: %s"
+msgstr ""
+
+msgid "Error writing file"
+msgstr ""
+
+msgid "Error: %s"
+msgstr ""
+
+msgid "Failed to create active FTP connection."
+msgstr ""
+
+msgid ""
+"Failed to create active FTP connection. Maybe your router does not support "
+"this?"
+msgstr ""
+
+msgid "Failed to eject medium; one or more volumes on the medium are busy."
+msgstr ""
+
+msgid "Failed to get file list"
+msgstr ""
+
+msgid "Failed to get folder list"
+msgstr ""
+
+msgid "Failed to get org.gnome.OnlineAccounts.Files for %s"
+msgstr ""
+
+msgid "Failed to mount Windows share: %s"
+msgstr ""
+
+msgid "Failed to retrieve share list from server: %s"
+msgstr ""
+
+msgid "Failure"
+msgstr ""
+
+msgid "File Sharing"
+msgstr ""
+
+msgid "File System"
+msgstr ""
+
+msgid "File doesn’t exist"
+msgstr ""
+
+msgid "File exists"
+msgstr ""
+
+msgid "File is directory"
+msgstr ""
+
+msgid "File is locked by another user"
+msgstr ""
+
+msgid "File is not a regular file"
+msgstr ""
+
+msgid "File is not open for read access"
+msgstr ""
+
+msgid "File is not open for write access"
+msgstr ""
+
+msgid "File length changed during transfer"
+msgstr ""
+
+msgid "File not found"
+msgstr ""
+
+msgid "File system is busy"
+msgstr ""
+
+msgid "File system is busy: %d open file"
+msgid_plural "File system is busy: %d open files"
+msgstr[0] ""
+
+msgid "Filename contains invalid characters."
+msgstr ""
+
+msgid "Filesystem is read-only"
+msgstr ""
+
+msgid "GVFS Daemon"
+msgstr ""
+
+msgid "GVFS Metadata Daemon"
+msgstr ""
+
+msgid "GVfs UDisks2 Volume Monitor"
+msgstr ""
+
+msgid "Generic libmtp error"
+msgstr ""
+
+msgid "Got EOS"
+msgstr ""
+
+msgid "Got error “%s” from server"
+msgstr ""
+
+msgid "Got unexpected end of stream"
+msgstr ""
+
+msgid "Got unknown error code %d from server"
+msgstr ""
+
+msgid "HTTP Client Error: %s"
+msgstr ""
+
+msgid "HTTP Error: %s"
+msgstr ""
+
+msgid "Host closed connection"
+msgstr ""
+
+msgid "Host key verification failed"
+msgstr ""
+
+msgid "Hostname not known"
+msgstr ""
+
+msgid "Identification not found."
+msgstr ""
+
+msgid "Insufficient permissions"
+msgstr ""
+
+msgid "Internal Apple File Control error"
+msgstr ""
+
+msgid "Internal Error (%s)"
+msgstr ""
+
+msgid "Internal error: %s"
+msgstr ""
+
+msgid "Internal error: Unknown Error"
+msgstr ""
+
+msgid "Invalid AFC location: must be in the form of afc://uuid:port-number"
+msgstr ""
+
+msgid "Invalid Apple File Control data received"
+msgstr ""
+
+msgid "Invalid attribute type"
+msgstr ""
+
+msgid "Invalid attribute type (uint32 expected)"
+msgstr ""
+
+msgid "Invalid attribute type (uint64 expected)"
+msgstr ""
+
+msgid "Invalid credentials for %s"
+msgstr ""
+
+msgid "Invalid dbus message"
+msgstr ""
+
+msgid "Invalid file info format"
+msgstr ""
+
+msgid "Invalid filename"
+msgstr ""
+
+msgid "Invalid filename %s"
+msgstr ""
+
+msgid "Invalid mount spec"
+msgstr ""
+
+msgid "Invalid reply"
+msgstr ""
+
+msgid "Invalid reply received"
+msgstr ""
+
+msgid "Invalid return value from %s"
+msgstr ""
+
+msgid "Items in the trash may not be modified"
+msgstr ""
+
+msgid "Listing applications installed on device failed"
+msgstr ""
+
+msgid "Local Network"
+msgstr ""
+
+msgid "Location is already mounted"
+msgstr ""
+
+msgid "Location is not mountable"
+msgstr ""
+
+msgid "Lockdown Error: Invalid Argument"
+msgstr ""
+
+msgid "Log In Anyway"
+msgstr ""
+
+msgid "Login dialog cancelled"
+msgstr ""
+
+msgid "Main daemon for GVFS"
+msgstr ""
+
+msgid "Malformed DNS-SD encoded_triple “%s”"
+msgstr ""
+
+msgid "Malformed icon identifier “%s”"
+msgstr ""
+
+msgid "Malformed input data for GVfsIcon"
+msgstr ""
+
+msgid "Metadata daemon for GVFS"
+msgstr ""
+
+msgid "Mount point does not exist"
+msgstr ""
+
+msgid "Name already exists"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Network Location Monitor"
+msgstr ""
+
+msgid "New name too long"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No MTP devices found"
+msgstr ""
+
+msgid "No camera specified"
+msgstr ""
+
+msgid "No device specified"
+msgstr ""
+
+msgid "No drive specified"
+msgstr ""
+
+msgid "No hostname specified"
+msgstr ""
+
+msgid "No medium in the drive"
+msgstr ""
+
+msgid "No mount type specified"
+msgstr ""
+
+msgid "No outstanding mount operation"
+msgstr ""
+
+msgid "No route to host"
+msgstr ""
+
+msgid "No space left on server"
+msgstr ""
+
+msgid "No such file"
+msgstr ""
+
+msgid "No such file %s on drive %s"
+msgstr ""
+
+msgid "No such file or directory"
+msgstr ""
+
+msgid "No thumbnail for entity “%s”"
+msgstr ""
+
+msgid "No volume specified"
+msgstr ""
+
+msgid "Not a WebDAV enabled share"
+msgstr ""
+
+msgid "Not a directory"
+msgstr ""
+
+msgid "Not a mountable file"
+msgstr ""
+
+msgid "Not a regular file"
+msgstr ""
+
+msgid "Not enough space on volume"
+msgstr ""
+
+msgid "Not supported (not same directory)"
+msgstr ""
+
+msgid ""
+"Not supported (the source is a directory, but the destination is an existing"
+" file)"
+msgstr ""
+
+msgid ""
+"Not supported (the source is a directory, the destination is a directory "
+"too)"
+msgstr ""
+
+msgid ""
+"Not supported (the source is a file, but the destination is a directory)"
+msgstr ""
+
+msgid "Object being moved doesn’t exist"
+msgstr ""
+
+msgid "Object being moved is marked as not renameable (RenameInhibit)"
+msgstr ""
+
+msgid "Object with that name already exists"
+msgstr ""
+
+msgid "One or more programs are preventing the unmount operation."
+msgstr ""
+
+msgid "Operation failed"
+msgstr ""
+
+msgid "Operation not supported"
+msgstr ""
+
+msgid "Operation not supported by backend"
+msgstr ""
+
+msgid "Operation not supported, files on different mounts"
+msgstr ""
+
+msgid "Operation was cancelled"
+msgstr ""
+
+msgid "Page type unknown"
+msgstr ""
+
+msgid "Password dialog cancelled"
+msgstr ""
+
+msgid "Password required for %s"
+msgstr ""
+
+msgid "Password required for share %s on %s"
+msgstr ""
+
+msgid "Perform file operations"
+msgstr ""
+
+msgid "Permission denied"
+msgstr ""
+
+msgid "Permission denied."
+msgstr ""
+
+msgid ""
+"Permission denied: Perhaps this host is disallowed or a privileged port is "
+"needed"
+msgstr ""
+
+msgid "Please enter proxy password"
+msgstr ""
+
+msgid "Protocol error"
+msgstr ""
+
+msgid "Range lock conflict exists"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Remote Login"
+msgstr ""
+
+msgid "Replace old daemon."
+msgstr ""
+
+msgid "Response invalid"
+msgstr ""
+
+msgid "Seek not supported on stream"
+msgstr ""
+
+msgid "Server doesn’t support the FPCopyFile operation"
+msgstr ""
+
+msgid "Show program version."
+msgstr ""
+
+msgid "Source file and/or destination directory doesn’t exist"
+msgstr ""
+
+msgid "Source file is a directory"
+msgstr ""
+
+msgid "Symlinks not supported by backend"
+msgstr ""
+
+msgid "Target directory already exists"
+msgstr ""
+
+msgid "Target file already exists"
+msgstr ""
+
+msgid "Target file exists"
+msgstr ""
+
+msgid "Target file is a directory"
+msgstr ""
+
+msgid "Target file is not a regular file"
+msgstr ""
+
+msgid "Target file is open"
+msgstr ""
+
+msgid "Target is a directory"
+msgstr ""
+
+msgid "Target object doesn’t exist"
+msgstr ""
+
+msgid "Target object is marked as not deletable (DeleteInhibit)"
+msgstr ""
+
+msgid "Target object is marked as not renameable (RenameInhibit)"
+msgstr ""
+
+msgid "Target object is not a directory"
+msgstr ""
+
+msgid "The FTP server is busy. Try again later"
+msgstr ""
+
+msgid "The certificate does not match the identity of the site."
+msgstr ""
+
+msgid "The certificate has been revoked."
+msgstr ""
+
+msgid "The certificate has expired."
+msgstr ""
+
+msgid "The certificate’s activation time is in the future."
+msgstr ""
+
+msgid "The certificate’s algorithm is considered insecure."
+msgstr ""
+
+msgid "The command is not supported by the server."
+msgstr ""
+
+msgid "The connection is closed"
+msgstr ""
+
+msgid "The connection is closed (the underlying SSH process exited)"
+msgstr ""
+
+msgid "The connection is not opened"
+msgstr ""
+
+msgid "The connection was interrupted"
+msgstr ""
+
+msgid "The device did not respond"
+msgstr ""
+
+msgid "The device is password protected"
+msgstr ""
+
+msgid ""
+"The device “%s” is locked. Enter the passcode on the device and click “Try "
+"again”."
+msgstr ""
+
+msgid ""
+"The device “%s” is not trusted yet. Select “Trust” on the device and click "
+"“Try again”."
+msgstr ""
+
+msgid "The file does not exist or isn’t an audio track"
+msgstr ""
+
+msgid "The file is not a directory"
+msgstr ""
+
+msgid "The file was externally modified"
+msgstr ""
+
+msgid "The given drive was not found"
+msgstr ""
+
+msgid "The given mount was not found"
+msgstr ""
+
+msgid "The given volume was not found"
+msgstr ""
+
+msgid ""
+"The host key for “%s” differs from the key for the IP address “%s”\n"
+"If you want to be absolutely sure it is safe to continue, contact the system administrator."
+msgstr ""
+
+msgid "The password prompt was cancelled."
+msgstr ""
+
+msgid "The recent folder may not be deleted"
+msgstr ""
+
+msgid "The server doesn’t support passwords longer than %d character."
+msgid_plural "The server doesn’t support passwords longer than %d characters."
+msgstr[0] ""
+
+msgid "The server “%s” doesn’t support anonymous access."
+msgstr ""
+
+msgid "The signing certificate authority is not known."
+msgstr ""
+
+msgid ""
+"The site’s identity can’t be verified:%s\n"
+"\n"
+"%s\n"
+"\n"
+"Are you really sure you would like to continue?"
+msgstr ""
+
+msgid "The specified location is not mounted"
+msgstr ""
+
+msgid "The specified location is not supported"
+msgstr ""
+
+msgid "The trash folder may not be deleted"
+msgstr ""
+
+msgid "The unlocked device does not have a recognizable file system on it"
+msgstr ""
+
+msgid "The user has not trusted this computer"
+msgstr ""
+
+msgid "Timed out resolving “%s” service “%s” on domain “%s”"
+msgstr ""
+
+msgid "Timed out running command-line “%s”"
+msgstr ""
+
+msgid "Timed out when logging in"
+msgstr ""
+
+msgid "Too many authentication failures"
+msgstr ""
+
+msgid "Too many files open"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Truncate not supported on stream"
+msgstr ""
+
+msgid "Try again"
+msgstr ""
+
+msgid "Try “%s --help” for more information."
+msgstr ""
+
+msgid "Unable to allocate memory while detecting MTP devices"
+msgstr ""
+
+msgid "Unable to connect"
+msgstr ""
+
+msgid "Unable to connect to MTP device"
+msgstr ""
+
+msgid "Unable to connect to the server “%s” with the given password."
+msgstr ""
+
+msgid ""
+"Unable to connect to the server “%s”. A communication problem occurred."
+msgstr ""
+
+msgid ""
+"Unable to connect to the server “%s”. No suitable authentication mechanism "
+"was found."
+msgstr ""
+
+msgid ""
+"Unable to connect to the server “%s”. The server doesn’t support AFP version"
+" 3.0 or later."
+msgstr ""
+
+msgid "Unable to connect to the server. A communication problem occurred."
+msgstr ""
+
+msgid "Unable to create temporary directory"
+msgstr ""
+
+msgid "Unable to create temporary file"
+msgstr ""
+
+msgid "Unable to create temporary file (%s)"
+msgstr ""
+
+msgid "Unable to disconnect from the server."
+msgstr ""
+
+msgid "Unable to find supported SSH command"
+msgstr ""
+
+msgid "Unable to login to the server “%s” with the given password."
+msgstr ""
+
+msgid "Unable to move metadata keys"
+msgstr ""
+
+msgid "Unable to open MTP device “%03u,%03u”"
+msgstr ""
+
+msgid "Unable to open source file for reading"
+msgstr ""
+
+msgid "Unable to remove metadata keys"
+msgstr ""
+
+msgid "Unable to set metadata key"
+msgstr ""
+
+msgid "Unable to spawn SSH program"
+msgstr ""
+
+msgid "Unable to spawn SSH program: %s"
+msgstr ""
+
+msgid "Unable to unset metadata key"
+msgstr ""
+
+msgid "Unexpected end of stream"
+msgstr ""
+
+msgid "Unexpected reply from server"
+msgstr ""
+
+msgid "Unhandled Apple File Control error (%d)"
+msgstr ""
+
+msgid "Unhandled Lockdown error (%d)"
+msgstr ""
+
+msgid "Unhandled libimobiledevice error (%d)"
+msgstr ""
+
+msgid "Unknown error."
+msgstr ""
+
+msgid "Unknown reason"
+msgstr ""
+
+msgid "Unmount Anyway"
+msgstr ""
+
+msgid ""
+"Unmounting %s\n"
+"Disconnecting from filesystem."
+msgstr ""
+
+msgid ""
+"Unmounting %s\n"
+"Please wait"
+msgstr ""
+
+msgid "Unnamed Drive"
+msgstr ""
+
+msgid "Unnamed Drive (%s)"
+msgstr ""
+
+msgid "Unsupported authentication method for %s"
+msgstr ""
+
+msgid "Unsupported network protocol"
+msgstr ""
+
+msgid "Unsupported seek type"
+msgstr ""
+
+msgid "Usage: %s --spawner dbus-id object_path"
+msgstr ""
+
+msgid "Usage: %s key=value key=value …"
+msgstr ""
+
+msgid "User refused to trust this computer"
+msgstr ""
+
+msgid "Value out of range, sftp only supports 32bit timestamps"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Volume doesn’t exist"
+msgstr ""
+
+msgid ""
+"Volume is busy\n"
+"One or more applications are keeping the volume busy."
+msgstr ""
+
+msgid "Volume is flat and doesn’t support directories"
+msgstr ""
+
+msgid "Volume is read-only"
+msgstr ""
+
+msgid "WebDAV share"
+msgstr ""
+
+msgid "Windows Network"
+msgstr ""
+
+msgid "Windows Network File System Service"
+msgstr ""
+
+msgid "Windows Shares File System Service"
+msgstr ""
+
+msgid "Windows shares on %s"
+msgstr ""
+
+msgid ""
+"Writing data to %s\n"
+"Device should not be unplugged."
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Your password has expired."
+msgstr ""
+
+msgid "Your password needs to be changed."
+msgstr ""
+
+msgid "can’t get metadata proxy"
+msgstr ""
+
+msgid "can’t open metadata tree"
+msgstr ""
+
+msgid "cdda mount on %s"
+msgstr ""
+
+msgid "error starting mount daemon"
+msgstr ""
+
+msgid "gphoto2 mount on %s"
+msgstr ""
+
+msgid "libimobiledevice Error: Invalid Argument"
+msgstr ""
+
+msgid ""
+"libimobiledevice Error: No device found. Make sure usbmuxd is set up "
+"correctly."
+msgstr ""
+
+msgid "libmtp error: %s"
+msgstr ""
+
+msgid "mountpoint for %s already running"
+msgstr ""
+
+msgid "values must be string or list of strings"
+msgstr ""

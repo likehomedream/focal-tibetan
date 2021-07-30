@@ -1,0 +1,582 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-tweak-tool master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-tweaks/issues\n"
+"PO-Revision-Date: 2020-04-06 12:29+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:27+0000\n"
+
+msgid "%s <i>(default)</i>"
+msgstr ""
+
+msgid "%s theme installed successfully"
+msgstr ""
+
+msgid "%s theme updated successfully"
+msgstr ""
+
+msgid "(%s mode)"
+msgstr ""
+
+msgid "<i>Default</i>"
+msgstr ""
+
+msgid "<primary>f"
+msgstr ""
+
+msgid "Acceleration Profile"
+msgstr ""
+
+msgid "Activities Overview Hot Corner"
+msgstr ""
+
+msgid "Add a new application to be run at startup"
+msgstr ""
+
+msgid "Additional Layout Options"
+msgstr ""
+
+msgid "Additional displays are treated as independent workspaces."
+msgstr ""
+
+msgid "Adjust GDK window scaling factor for HiDPI"
+msgstr ""
+
+msgid "Adjustment"
+msgstr ""
+
+msgid "Allows entering additional characters."
+msgstr ""
+
+msgid ""
+"Allows raising the volume above 100%. This can result in a loss of audio "
+"quality; it is better to increase application volume settings, if possible."
+msgstr ""
+
+msgid "Animations"
+msgstr ""
+
+msgid "Antialiasing"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Attach Modal Dialogs"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Battery Percentage"
+msgstr ""
+
+msgid "Browse in Software"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Caps Lock"
+msgstr ""
+
+msgid "Center New Windows"
+msgstr ""
+
+msgid ""
+"Click the bottom right of the touchpad for right-click and the bottom middle"
+" for middle-click."
+msgstr ""
+
+msgid ""
+"Click the touchpad with two fingers for right-click and three fingers for "
+"middle-click."
+msgstr ""
+
+msgid "Click to Focus"
+msgstr ""
+
+msgid "Clock"
+msgstr ""
+
+msgid "Compose Key"
+msgstr ""
+
+msgid "Configuration changes require restart"
+msgstr ""
+
+msgid "Could not list shell extensions"
+msgstr ""
+
+msgid "Cursor"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Disable All Shell Extensions"
+msgstr ""
+
+msgid "Disable While Typing"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Display Handling"
+msgstr ""
+
+msgid "Do you want to keep these HiDPI settings?"
+msgstr ""
+
+msgid "Document Text"
+msgstr ""
+
+msgid "Don’t use mouse click emulation."
+msgstr ""
+
+msgid "Double-Click"
+msgstr ""
+
+msgid "Dynamic Workspaces"
+msgstr ""
+
+msgid "Edge Tiling"
+msgstr ""
+
+msgid "Emacs Input"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error installing theme"
+msgstr ""
+
+msgid "Error loading extension"
+msgstr ""
+
+msgid "Error writing setting"
+msgstr ""
+
+msgid "Extension does not support shell version"
+msgstr ""
+
+msgid "Extension downloading"
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "Fingers"
+msgstr ""
+
+msgid "Focus on Hover"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "GNOME Shell"
+msgstr ""
+
+msgid "GNOME Shell is not running"
+msgstr ""
+
+msgid "GNOME Tweaks"
+msgstr ""
+
+msgid "GNOME Tweaks allows adjusting advanced GNOME options."
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "HiDPI"
+msgstr ""
+
+msgid "Hinting"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Icons"
+msgstr ""
+
+msgid "Icons on Desktop"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Increases the choice of input sources in the Settings application."
+msgstr ""
+
+msgid "Install custom or user themes for gnome-shell"
+msgstr ""
+
+msgid "Interface Text"
+msgstr ""
+
+msgid "Invalid theme"
+msgstr ""
+
+msgid ""
+"It can install and manage themes and extensions, change power settings, "
+"manage startup applications, and enable desktop icons among other settings."
+msgstr ""
+
+msgid "Keep Changes"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Keyboard & Mouse"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Left Ctrl"
+msgstr ""
+
+msgid "Left Super"
+msgstr ""
+
+msgid "Legacy Window Titles"
+msgstr ""
+
+msgid "Lock Screen"
+msgstr ""
+
+msgid "Maximize"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Middle Click Paste"
+msgstr ""
+
+msgid "Middle-Click"
+msgstr ""
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Monospace Text"
+msgstr ""
+
+msgid "Mounted Volumes"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Mouse Click Emulation"
+msgstr ""
+
+msgid "Network Servers"
+msgstr ""
+
+msgid "New startup application"
+msgstr ""
+
+msgid "No Extensions Installed"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Number of Workspaces"
+msgstr ""
+
+msgid "Number of workspaces is fixed."
+msgstr ""
+
+msgid "Over-Amplification"
+msgstr ""
+
+msgid "Overrides shortcuts to use keybindings from the Emacs editor."
+msgstr ""
+
+msgid "Overview Shortcut"
+msgstr ""
+
+msgid "Placement"
+msgstr ""
+
+msgid "Pointer Location"
+msgstr ""
+
+msgid "Press the Ctrl key to highlight the pointer."
+msgstr ""
+
+msgid "PrtScn"
+msgstr ""
+
+msgid "Raise Windows When Focused"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Reset all tweak settings to the original default state?"
+msgstr ""
+
+msgid "Reset to Defaults"
+msgstr ""
+
+msgid "Resize with Secondary-Click"
+msgstr ""
+
+msgid "Restart Session"
+msgstr ""
+
+msgid "Revert Settings"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right Alt"
+msgstr ""
+
+msgid "Right Ctrl"
+msgstr ""
+
+msgid "Right Super"
+msgstr ""
+
+msgid "Scaling Factor"
+msgstr ""
+
+msgid "Scroll Lock"
+msgstr ""
+
+msgid "Search Applications…"
+msgstr ""
+
+msgid "Search Tweaks…"
+msgstr ""
+
+msgid "Secondary-Click"
+msgstr ""
+
+msgid "Seconds"
+msgstr ""
+
+msgid "Select a theme"
+msgstr ""
+
+msgid "Settings will be reverted in {0} second"
+msgid_plural "Settings will be reverted in {0} seconds"
+msgstr[0] ""
+
+msgid ""
+"Settings;Advanced;Preferences;Extensions;Fonts;Theme;XKB;Keyboard;Typing;"
+msgstr ""
+
+msgid "Shell"
+msgstr ""
+
+msgid "Shell not running"
+msgstr ""
+
+msgid "Shell user-theme extension incorrectly installed"
+msgstr ""
+
+msgid "Shell user-theme extension not enabled"
+msgstr ""
+
+msgid "Show Extended Input Sources"
+msgstr ""
+
+msgid "Show Icons"
+msgstr ""
+
+msgid "Slight"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Specifies which sound theme to use for sound events."
+msgstr ""
+
+msgid "Standard (grayscale)"
+msgstr ""
+
+msgid "Startup Applications"
+msgstr ""
+
+msgid "Startup applications are automatically started when you log in."
+msgstr ""
+
+msgid "Static Workspaces"
+msgstr ""
+
+msgid "Subpixel (for LCD screens)"
+msgstr ""
+
+msgid "Suspend when laptop lid is closed"
+msgstr ""
+
+msgid ""
+"The compose key allows a wide variety of characters to be entered. To use it, press the compose key and then a sequence of characters.\n"
+"\n"
+"Many unusual characters can be entered by combining standard ones. For example, compose key followed by <b>C</b> and <b>o</b> will enter <b>©</b>, <b>a</b> followed by <b>'</b> will enter <b>á</b>.\n"
+msgstr ""
+
+msgid "The current workspace includes additional displays."
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "Titlebar Actions"
+msgstr ""
+
+msgid "Titlebar Buttons"
+msgstr ""
+
+msgid "Top Bar"
+msgstr ""
+
+msgid "Touchpad"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Tweak advanced GNOME 3 settings"
+msgstr ""
+
+msgid "Tweaks"
+msgstr ""
+
+msgid "Typing"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown extension error"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Updating"
+msgstr ""
+
+msgid "Wacom"
+msgstr ""
+
+msgid "Week Numbers"
+msgstr ""
+
+msgid "Weekday"
+msgstr ""
+
+msgid ""
+"When on, modal dialog windows are attached to their parent windows, and "
+"cannot be moved."
+msgstr ""
+
+msgid "When on, windows are tiled when dragged to screen edges."
+msgstr ""
+
+msgid "Window Action Key"
+msgstr ""
+
+msgid "Window Focus"
+msgstr ""
+
+msgid "Window Titlebars"
+msgstr ""
+
+msgid ""
+"Window is focused when hovered with the pointer. Hovering the desktop "
+"removes focus from the previous window."
+msgstr ""
+
+msgid ""
+"Window is focused when hovered with the pointer. Windows remain focused when"
+" the desktop is hovered."
+msgstr ""
+
+msgid "Window scaling"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Windows are focused when they are clicked."
+msgstr ""
+
+msgid "Workspaces"
+msgstr ""
+
+msgid ""
+"Workspaces can be created on demand, and are automatically removed when "
+"empty."
+msgstr ""
+
+msgid "Workspaces on primary display only"
+msgstr ""
+
+msgid "Workspaces span displays"
+msgstr ""
+
+msgid "Your session needs to be restarted for settings to take effect"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Reset to Defaults"
+msgstr ""
+
+msgid "org.gnome.tweaks"
+msgstr ""
+
+msgid "running"
+msgstr ""

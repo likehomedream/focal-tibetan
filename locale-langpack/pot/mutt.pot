@@ -1,0 +1,3835 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Mutt 1.11.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-11-20 19:32+0000\n"
+"Last-Translator: lilydjwg <Unknown>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:44+0000\n"
+
+msgid ""
+"\n"
+"Compile options:"
+msgstr ""
+
+msgid ""
+"\n"
+"Generic bindings:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Unbound functions:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"[-- End of S/MIME encrypted data. --]\n"
+msgstr ""
+
+msgid ""
+"\n"
+"[-- End of S/MIME signed data. --]\n"
+msgstr ""
+
+msgid ""
+"\n"
+"[-- End of signed data --]\n"
+msgstr ""
+
+msgid "               expires: "
+msgstr ""
+
+msgid "     to %s"
+msgstr ""
+
+msgid ""
+"    This program is free software; you can redistribute it and/or modify\n"
+"    it under the terms of the GNU General Public License as published by\n"
+"    the Free Software Foundation; either version 2 of the License, or\n"
+"    (at your option) any later version.\n"
+"\n"
+"    This program is distributed in the hope that it will be useful,\n"
+"    but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"    GNU General Public License for more details.\n"
+msgstr ""
+
+msgid ""
+"    You should have received a copy of the GNU General Public License\n"
+"    along with this program; if not, write to the Free Software\n"
+"    Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.\n"
+msgstr ""
+
+msgid "   from %s"
+msgstr ""
+
+msgid ""
+"  -E\t\tedit the draft (-H) or include (-i) file\n"
+"  -e <command>\tspecify a command to be executed after initialization\n"
+"  -f <file>\tspecify which mailbox to read\n"
+"  -F <file>\tspecify an alternate muttrc file\n"
+"  -H <file>\tspecify a draft file to read header and body from\n"
+"  -i <file>\tspecify a file which Mutt should include in the body\n"
+"  -m <type>\tspecify a default mailbox type\n"
+"  -n\t\tcauses Mutt not to read the system Muttrc\n"
+"  -p\t\trecall a postponed message"
+msgstr ""
+
+msgid ""
+"  -Q <variable>\tquery a configuration variable\n"
+"  -R\t\topen mailbox in read-only mode\n"
+"  -s <subj>\tspecify a subject (must be in quotes if it has spaces)\n"
+"  -v\t\tshow version and compile-time definitions\n"
+"  -x\t\tsimulate the mailx send mode\n"
+"  -y\t\tselect a mailbox specified in your `mailboxes' list\n"
+"  -z\t\texit immediately if there are no messages in the mailbox\n"
+"  -Z\t\topen the first folder with new message, exit immediately if none\n"
+"  -h\t\tthis help message"
+msgstr ""
+
+msgid "  -d <level>\tlog debugging output to ~/.muttdebug0"
+msgstr ""
+
+msgid " ('?' for list): "
+msgstr ""
+
+msgid " (OppEnc mode)"
+msgstr ""
+
+msgid " (PGP/MIME)"
+msgstr ""
+
+msgid " (S/MIME)"
+msgstr ""
+
+msgid " (current time: %c)"
+msgstr ""
+
+msgid " (inline PGP)"
+msgstr ""
+
+msgid " Press '%s' to toggle write"
+msgstr ""
+
+msgid " tagged"
+msgstr ""
+
+msgid "\"crypt_use_gpgme\" set but not built with GPGME support."
+msgstr ""
+
+msgid "$pgp_sign_as unset and no default key specified in ~/.gnupg/gpg.conf"
+msgstr ""
+
+msgid "$sendmail must be set in order to send mail."
+msgstr ""
+
+msgid "%c: invalid pattern modifier"
+msgstr ""
+
+msgid "%c: not supported in this mode"
+msgstr ""
+
+msgid "%d kept, %d deleted."
+msgstr ""
+
+msgid "%d kept, %d moved, %d deleted."
+msgstr ""
+
+msgid "%d labels changed."
+msgstr ""
+
+msgid "%d messages have been lost. Try reopening the mailbox."
+msgstr ""
+
+msgid "%d: invalid message number.\n"
+msgstr ""
+
+msgid "%s \"%s\"."
+msgstr ""
+
+msgid "%s <%s>."
+msgstr ""
+
+msgid "%s Do you really want to use the key?"
+msgstr ""
+
+msgid "%s [%d of %d messages read]"
+msgstr ""
+
+msgid "%s authentication failed, trying next method"
+msgstr ""
+
+msgid "%s connection using %s (%s)"
+msgstr ""
+
+msgid "%s does not exist. Create it?"
+msgstr ""
+
+msgid "%s has insecure permissions!"
+msgstr ""
+
+msgid "%s is an invalid IMAP path"
+msgstr ""
+
+msgid "%s is an invalid POP path"
+msgstr ""
+
+msgid "%s is not a directory."
+msgstr ""
+
+msgid "%s is not a mailbox!"
+msgstr ""
+
+msgid "%s is not a mailbox."
+msgstr ""
+
+msgid "%s is set"
+msgstr ""
+
+msgid "%s is unset"
+msgstr ""
+
+msgid "%s isn't a regular file."
+msgstr ""
+
+msgid "%s no longer exists!"
+msgstr ""
+
+msgid "%s, %lu bit %s\n"
+msgstr ""
+
+msgid "%s: Operation not permitted by ACL"
+msgstr ""
+
+msgid "%s: Unknown type."
+msgstr ""
+
+msgid "%s: color not supported by term"
+msgstr ""
+
+msgid "%s: command valid only for index, body, header objects"
+msgstr ""
+
+msgid "%s: invalid mailbox type"
+msgstr ""
+
+msgid "%s: invalid value"
+msgstr ""
+
+msgid "%s: invalid value (%s)"
+msgstr ""
+
+msgid "%s: no such attribute"
+msgstr ""
+
+msgid "%s: no such color"
+msgstr ""
+
+msgid "%s: no such function"
+msgstr ""
+
+msgid "%s: no such function in map"
+msgstr ""
+
+msgid "%s: no such menu"
+msgstr ""
+
+msgid "%s: no such object"
+msgstr ""
+
+msgid "%s: too few arguments"
+msgstr ""
+
+msgid "%s: unable to attach file"
+msgstr ""
+
+msgid "%s: unable to attach file.\n"
+msgstr ""
+
+msgid "%s: unknown command"
+msgstr ""
+
+msgid "%s: unknown editor command (~? for help)\n"
+msgstr ""
+
+msgid "%s: unknown sorting method"
+msgstr ""
+
+msgid "%s: unknown type"
+msgstr ""
+
+msgid "%s: unknown variable"
+msgstr ""
+
+msgid "%sgroup: missing -rx or -addr."
+msgstr ""
+
+msgid "%sgroup: warning: bad IDN '%s'.\n"
+msgstr ""
+
+msgid "(End message with a . on a line by itself)\n"
+msgstr ""
+
+msgid "(continue)\n"
+msgstr ""
+
+msgid "(i)nline"
+msgstr ""
+
+msgid "(need 'view-attachments' bound to key!)"
+msgstr ""
+
+msgid "(no mailbox)"
+msgstr ""
+
+msgid "(r)eject, accept (o)nce"
+msgstr ""
+
+msgid "(r)eject, accept (o)nce, (a)ccept always"
+msgstr ""
+
+msgid "(r)eject, accept (o)nce, (a)ccept always, (s)kip"
+msgstr ""
+
+msgid "(r)eject, accept (o)nce, (s)kip"
+msgstr ""
+
+msgid "(size %s bytes) "
+msgstr ""
+
+msgid "(use '%s' to view this part)"
+msgstr ""
+
+msgid "*** Begin Notation (signature by: %s) ***\n"
+msgstr ""
+
+msgid "*** End Notation ***\n"
+msgstr ""
+
+msgid "*BAD* signature from:"
+msgstr ""
+
+msgid ", "
+msgstr ""
+
+msgid "-- Attachments"
+msgstr ""
+
+msgid "---Attachment: %s"
+msgstr ""
+
+msgid "---Attachment: %s: %s"
+msgstr ""
+
+msgid "---Command: %-20.20s Description: %s"
+msgstr ""
+
+msgid "---Command: %-30.30s Attachment: %s"
+msgstr ""
+
+msgid "-group: no group name"
+msgstr ""
+
+msgid "1: AES128, 2: AES192, 3: AES256 "
+msgstr ""
+
+msgid "1: DES, 2: Triple-DES "
+msgstr ""
+
+msgid "1: RC2-40, 2: RC2-64, 3: RC2-128 "
+msgstr ""
+
+msgid "468"
+msgstr ""
+
+msgid "895"
+msgstr ""
+
+msgid "<UNKNOWN>"
+msgstr ""
+
+msgid "<default>"
+msgstr ""
+
+msgid "A policy requirement was not met\n"
+msgstr ""
+
+msgid "A system error occurred"
+msgstr ""
+
+msgid "APOP authentication failed."
+msgstr ""
+
+msgid "Abort"
+msgstr ""
+
+msgid "Abort download and close mailbox?"
+msgstr ""
+
+msgid "Abort unmodified message?"
+msgstr ""
+
+msgid "Aborted unmodified message."
+msgstr ""
+
+msgid "Address: "
+msgstr ""
+
+msgid "Alias added."
+msgstr ""
+
+msgid "Alias as: "
+msgstr ""
+
+msgid "Aliases"
+msgstr ""
+
+msgid "All available protocols for TLS/SSL connection disabled"
+msgstr ""
+
+msgid "All matching keys are expired, revoked, or disabled."
+msgstr ""
+
+msgid "All matching keys are marked expired/revoked."
+msgstr ""
+
+msgid "Anonymous authentication failed."
+msgstr ""
+
+msgid "Append"
+msgstr ""
+
+msgid "Append messages to %s?"
+msgstr ""
+
+msgid "Argument must be a message number."
+msgstr ""
+
+msgid "Attach file"
+msgstr ""
+
+msgid "Attaching selected files..."
+msgstr ""
+
+msgid "Attachment filtered."
+msgstr ""
+
+msgid "Attachment referenced in message is missing"
+msgstr ""
+
+msgid "Attachment saved."
+msgstr ""
+
+msgid "Attachments"
+msgstr ""
+
+msgid "Authenticating (%s)..."
+msgstr ""
+
+msgid "Authenticating (APOP)..."
+msgstr ""
+
+msgid "Authenticating (CRAM-MD5)..."
+msgstr ""
+
+msgid "Authenticating (GSSAPI)..."
+msgstr ""
+
+msgid "Authenticating (OAUTHBEARER)..."
+msgstr ""
+
+msgid "Authenticating (SASL)..."
+msgstr ""
+
+msgid "Authenticating (anonymous)..."
+msgstr ""
+
+msgid "Authentication failed."
+msgstr ""
+
+msgid "Available CRL is too old\n"
+msgstr ""
+
+msgid "Bad IDN \"%s\"."
+msgstr ""
+
+msgid "Bad IDN %s while preparing resent-from."
+msgstr ""
+
+msgid "Bad IDN in \"%s\": '%s'"
+msgstr ""
+
+msgid "Bad IDN in %s: '%s'\n"
+msgstr ""
+
+msgid "Bad IDN: '%s'"
+msgstr ""
+
+msgid "Bad history file format (line %d)"
+msgstr ""
+
+msgid "Bad mailbox name"
+msgstr ""
+
+msgid "Bad regexp: %s"
+msgstr ""
+
+msgid "Bcc: "
+msgstr ""
+
+msgid "Bottom of message is shown."
+msgstr ""
+
+msgid "Bounce message to %s"
+msgstr ""
+
+msgid "Bounce message to: "
+msgstr ""
+
+msgid "Bounce messages to %s"
+msgstr ""
+
+msgid "Bounce tagged messages to: "
+msgstr ""
+
+msgid "CC"
+msgstr ""
+
+msgid "CRAM-MD5 authentication failed."
+msgstr ""
+
+msgid "CREATE failed: %s"
+msgstr ""
+
+msgid "Can't append to folder: %s"
+msgstr ""
+
+msgid "Can't attach a directory!"
+msgstr ""
+
+msgid "Can't create %s."
+msgstr ""
+
+msgid "Can't create %s: %s."
+msgstr ""
+
+msgid "Can't create file %s"
+msgstr ""
+
+msgid "Can't create filter"
+msgstr ""
+
+msgid "Can't create filter process"
+msgstr ""
+
+msgid "Can't create temporary file"
+msgstr ""
+
+msgid "Can't decode all tagged attachments.  MIME-encapsulate the others?"
+msgstr ""
+
+msgid "Can't decode all tagged attachments.  MIME-forward the others?"
+msgstr ""
+
+msgid "Can't decrypt encrypted message!"
+msgstr ""
+
+msgid "Can't delete attachment from POP server."
+msgstr ""
+
+msgid "Can't dotlock %s.\n"
+msgstr ""
+
+msgid "Can't find any tagged messages."
+msgstr ""
+
+msgid "Can't find mailbox ops for mailbox type %d"
+msgstr ""
+
+msgid "Can't get mixmaster's type2.list!"
+msgstr ""
+
+msgid "Can't identify the contents of the compressed file"
+msgstr ""
+
+msgid "Can't invoke PGP"
+msgstr ""
+
+msgid "Can't match nametemplate, continue?"
+msgstr ""
+
+msgid "Can't open /dev/null"
+msgstr ""
+
+msgid "Can't open OpenSSL subprocess!"
+msgstr ""
+
+msgid "Can't open PGP subprocess!"
+msgstr ""
+
+msgid "Can't open message file: %s"
+msgstr ""
+
+msgid "Can't open temporary file %s."
+msgstr ""
+
+msgid "Can't open trash folder"
+msgstr ""
+
+msgid "Can't save message to POP mailbox."
+msgstr ""
+
+msgid "Can't sign: No key specified. Use Sign As."
+msgstr ""
+
+msgid "Can't stat %s: %s"
+msgstr ""
+
+msgid "Can't sync a compressed file without a close-hook"
+msgstr ""
+
+msgid "Can't verify due to a missing key or certificate\n"
+msgstr ""
+
+msgid "Can't view a directory"
+msgstr ""
+
+msgid "Can't write header to temporary file!"
+msgstr ""
+
+msgid "Can't write message"
+msgstr ""
+
+msgid "Can't write message to temporary file!"
+msgstr ""
+
+msgid "Cannot append without an append-hook or close-hook : %s"
+msgstr ""
+
+msgid "Cannot create display filter"
+msgstr ""
+
+msgid "Cannot create filter"
+msgstr ""
+
+msgid "Cannot delete message"
+msgstr ""
+
+msgid "Cannot delete message(s)"
+msgstr ""
+
+msgid "Cannot delete root folder"
+msgstr ""
+
+msgid "Cannot edit message"
+msgstr ""
+
+msgid "Cannot flag message"
+msgstr ""
+
+msgid "Cannot link threads"
+msgstr ""
+
+msgid "Cannot mark message(s) as read"
+msgstr ""
+
+msgid "Cannot postpone.  $postponed is unset"
+msgstr ""
+
+msgid "Cannot rename root folder"
+msgstr ""
+
+msgid "Cannot toggle new"
+msgstr ""
+
+msgid "Cannot toggle write on a readonly mailbox!"
+msgstr ""
+
+msgid "Cannot undelete message"
+msgstr ""
+
+msgid "Cannot undelete message(s)"
+msgstr ""
+
+msgid "Cannot use -E flag with stdin\n"
+msgstr ""
+
+msgid "Cc: "
+msgstr ""
+
+msgid "Certificate host check failed: %s"
+msgstr ""
+
+msgid "Certificate is not X.509"
+msgstr ""
+
+msgid "Certificate saved"
+msgstr ""
+
+msgid "Certificate verification error (%s)"
+msgstr ""
+
+msgid "Changes to folder will be written on folder exit."
+msgstr ""
+
+msgid "Changes to folder will not be written."
+msgstr ""
+
+msgid "Char = %s, Octal = %o, Decimal = %d"
+msgstr ""
+
+msgid "Character set changed to %s; %s."
+msgstr ""
+
+msgid "Chdir"
+msgstr ""
+
+msgid "Chdir to: "
+msgstr ""
+
+msgid "Check key  "
+msgstr ""
+
+msgid "Checking for new messages..."
+msgstr ""
+
+msgid "Choose algorithm family: 1: DES, 2: RC2, 3: AES, or (c)lear? "
+msgstr ""
+
+msgid "Clear flag"
+msgstr ""
+
+msgid "Closing connection to %s..."
+msgstr ""
+
+msgid "Closing connection to POP server..."
+msgstr ""
+
+msgid "Collecting data..."
+msgstr ""
+
+msgid "Command TOP is not supported by server."
+msgstr ""
+
+msgid "Command UIDL is not supported by server."
+msgstr ""
+
+msgid "Command USER is not supported by server."
+msgstr ""
+
+msgid "Command: "
+msgstr ""
+
+msgid "Committing changes..."
+msgstr ""
+
+msgid "Compiling search pattern..."
+msgstr ""
+
+msgid "Compress command failed: %s"
+msgstr ""
+
+msgid "Compressed-appending to %s..."
+msgstr ""
+
+msgid "Compressing %s"
+msgstr ""
+
+msgid "Compressing %s..."
+msgstr ""
+
+msgid "Connecting to %s..."
+msgstr ""
+
+msgid "Connecting with \"%s\"..."
+msgstr ""
+
+msgid "Connection lost. Reconnect to POP server?"
+msgstr ""
+
+msgid "Connection to %s closed"
+msgstr ""
+
+msgid "Connection to %s timed out"
+msgstr ""
+
+msgid "Content-Type changed to %s."
+msgstr ""
+
+msgid "Content-Type is of the form base/sub"
+msgstr ""
+
+msgid "Continue?"
+msgstr ""
+
+msgid "Convert to %s upon sending?"
+msgstr ""
+
+msgid "Copy%s to mailbox"
+msgstr ""
+
+msgid "Copying %d messages to %s..."
+msgstr ""
+
+msgid "Copying message %d to %s..."
+msgstr ""
+
+msgid "Copying to %s..."
+msgstr ""
+
+msgid ""
+"Copyright (C) 1996-2016 Michael R. Elkins and others.\n"
+"Mutt comes with ABSOLUTELY NO WARRANTY; for details type `mutt -vv'.\n"
+"Mutt is free software, and you are welcome to redistribute it\n"
+"under certain conditions; type `mutt -vv' for details.\n"
+msgstr ""
+
+msgid "Could not connect to %s (%s)."
+msgstr ""
+
+msgid "Could not copy message"
+msgstr ""
+
+msgid "Could not create temporary file %s"
+msgstr ""
+
+msgid "Could not create temporary file!"
+msgstr ""
+
+msgid "Could not decrypt PGP message"
+msgstr ""
+
+msgid "Could not find sorting function! [report this bug]"
+msgstr ""
+
+msgid "Could not find the host \"%s\""
+msgstr ""
+
+msgid "Could not flush message to disk"
+msgstr ""
+
+msgid "Could not include all requested messages!"
+msgstr ""
+
+msgid "Could not negotiate TLS connection"
+msgstr ""
+
+msgid "Could not open %s"
+msgstr ""
+
+msgid "Could not reopen mailbox!"
+msgstr ""
+
+msgid "Could not send the message."
+msgstr ""
+
+msgid "Couldn't lock %s\n"
+msgstr ""
+
+msgid "Create %s?"
+msgstr ""
+
+msgid "Create is only supported for IMAP mailboxes"
+msgstr ""
+
+msgid "Create mailbox: "
+msgstr ""
+
+msgid "DEBUG was not defined during compilation.  Ignored.\n"
+msgstr ""
+
+msgid "Debugging at level %d.\n"
+msgstr ""
+
+msgid "Decode-copy%s to mailbox"
+msgstr ""
+
+msgid "Decode-save%s to mailbox"
+msgstr ""
+
+msgid "Decompressing %s"
+msgstr ""
+
+msgid "Decrypt-copy%s to mailbox"
+msgstr ""
+
+msgid "Decrypt-save%s to mailbox"
+msgstr ""
+
+msgid "Decrypting message..."
+msgstr ""
+
+msgid "Decryption failed"
+msgstr ""
+
+msgid "Decryption failed."
+msgstr ""
+
+msgid "Del"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete is only supported for IMAP mailboxes"
+msgstr ""
+
+msgid "Delete messages from server?"
+msgstr ""
+
+msgid "Delete messages matching: "
+msgstr ""
+
+msgid "Deletion of attachments from encrypted messages is unsupported."
+msgstr ""
+
+msgid ""
+"Deletion of attachments from signed messages may invalidate the signature."
+msgstr ""
+
+msgid "Descrip"
+msgstr ""
+
+msgid "Directory [%s], File mask: %s"
+msgstr ""
+
+msgid "ERROR: please report this bug"
+msgstr ""
+
+msgid "Edit forwarded message?"
+msgstr ""
+
+msgid "Empty expression"
+msgstr ""
+
+msgid "Encrypt"
+msgstr ""
+
+msgid "Encrypt with: "
+msgstr ""
+
+msgid "Encrypted connection unavailable"
+msgstr ""
+
+msgid "Enter PGP passphrase:"
+msgstr ""
+
+msgid "Enter S/MIME passphrase:"
+msgstr ""
+
+msgid "Enter keyID for %s: "
+msgstr ""
+
+msgid "Enter keyID: "
+msgstr ""
+
+msgid "Enter keys (^G to abort): "
+msgstr ""
+
+msgid "Enter macro stroke: "
+msgstr ""
+
+msgid "Error History"
+msgstr ""
+
+msgid "Error History is currently being shown."
+msgstr ""
+
+msgid "Error History is disabled."
+msgstr ""
+
+msgid "Error allocating SASL connection"
+msgstr ""
+
+msgid "Error bouncing message!"
+msgstr ""
+
+msgid "Error bouncing messages!"
+msgstr ""
+
+msgid "Error connecting to server: %s"
+msgstr ""
+
+msgid "Error exporting key: %s\n"
+msgstr ""
+
+msgid "Error finding issuer key: %s\n"
+msgstr ""
+
+msgid "Error getting key information for KeyID %s: %s\n"
+msgstr ""
+
+msgid "Error in %s, line %d: %s"
+msgstr ""
+
+msgid "Error in command line: %s\n"
+msgstr ""
+
+msgid "Error in expression: %s"
+msgstr ""
+
+msgid "Error initialising gnutls certificate data"
+msgstr ""
+
+msgid "Error initializing terminal."
+msgstr ""
+
+msgid "Error opening mailbox"
+msgstr ""
+
+msgid "Error parsing address!"
+msgstr ""
+
+msgid "Error processing certificate data"
+msgstr ""
+
+msgid "Error reading alias file"
+msgstr ""
+
+msgid "Error running \"%s\"!"
+msgstr ""
+
+msgid "Error saving flags"
+msgstr ""
+
+msgid "Error saving flags. Close anyway?"
+msgstr ""
+
+msgid "Error scanning directory."
+msgstr ""
+
+msgid "Error seeking in alias file"
+msgstr ""
+
+msgid "Error sending message, child exited %d (%s)."
+msgstr ""
+
+msgid "Error sending message, child exited %d.\n"
+msgstr ""
+
+msgid "Error sending message."
+msgstr ""
+
+msgid "Error setting SASL external security strength"
+msgstr ""
+
+msgid "Error setting SASL external user name"
+msgstr ""
+
+msgid "Error setting SASL security properties"
+msgstr ""
+
+msgid "Error talking to %s (%s)"
+msgstr ""
+
+msgid "Error trying to view file"
+msgstr ""
+
+msgid "Error while writing mailbox!"
+msgstr ""
+
+msgid "Error. Preserving temporary file: %s"
+msgstr ""
+
+msgid "Error: %s can't be used as the final remailer of a chain."
+msgstr ""
+
+msgid "Error: '%s' is a bad IDN."
+msgstr ""
+
+msgid "Error: certification chain too long - stopping here\n"
+msgstr ""
+
+msgid "Error: copy data failed\n"
+msgstr ""
+
+msgid "Error: decryption/verification failed: %s\n"
+msgstr ""
+
+msgid "Error: multipart/signed has no protocol."
+msgstr ""
+
+msgid "Error: no TLS socket open"
+msgstr ""
+
+msgid "Error: score: invalid number"
+msgstr ""
+
+msgid "Error: unable to create OpenSSL subprocess!"
+msgstr ""
+
+msgid "Error: value '%s' is invalid for -d.\n"
+msgstr ""
+
+msgid "Error: verification failed: %s\n"
+msgstr ""
+
+msgid "Evaluating cache..."
+msgstr ""
+
+msgid "Executing command on matching messages..."
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exit  "
+msgstr ""
+
+msgid "Exit Mutt without saving?"
+msgstr ""
+
+msgid "Exit Mutt?"
+msgstr ""
+
+msgid "Expired   "
+msgstr ""
+
+msgid "Explicit ciphersuite selection via $ssl_ciphers not supported"
+msgstr ""
+
+msgid "Expunge failed"
+msgstr ""
+
+msgid "Expunging messages from server..."
+msgstr ""
+
+msgid "Failed to figure out sender"
+msgstr ""
+
+msgid "Failed to find enough entropy on your system"
+msgstr ""
+
+msgid "Failed to parse mailto: link\n"
+msgstr ""
+
+msgid "Failed to verify sender"
+msgstr ""
+
+msgid "Failure to open file to parse headers."
+msgstr ""
+
+msgid "Failure to open file to strip headers."
+msgstr ""
+
+msgid "Failure to rename file."
+msgstr ""
+
+msgid "Fatal error!  Could not reopen mailbox!"
+msgstr ""
+
+msgid "Fcc failed. (r)etry, alternate (m)ailbox, or (s)kip? "
+msgstr ""
+
+msgid "Fcc mailbox"
+msgstr ""
+
+msgid "Fcc to an IMAP mailbox is not supported in batch mode"
+msgstr ""
+
+msgid "Fetching PGP key..."
+msgstr ""
+
+msgid "Fetching flag updates..."
+msgstr ""
+
+msgid "Fetching list of messages..."
+msgstr ""
+
+msgid "Fetching message headers..."
+msgstr ""
+
+msgid "Fetching message..."
+msgstr ""
+
+msgid "File Mask: "
+msgstr ""
+
+msgid "File exists, (o)verwrite, (a)ppend, or (c)ancel?"
+msgstr ""
+
+msgid "File is a directory, save under it?"
+msgstr ""
+
+msgid "File is a directory, save under it? [(y)es, (n)o, (a)ll]"
+msgstr ""
+
+msgid "File under directory: "
+msgstr ""
+
+msgid "Filling entropy pool: %s...\n"
+msgstr ""
+
+msgid "Filter through: "
+msgstr ""
+
+msgid "Fingerprint: "
+msgstr ""
+
+msgid "First, please tag a message to be linked here"
+msgstr ""
+
+msgid "Follow-up to %s%s?"
+msgstr ""
+
+msgid "Forward MIME encapsulated?"
+msgstr ""
+
+msgid "Forward as attachment?"
+msgstr ""
+
+msgid "Forward as attachments?"
+msgstr ""
+
+msgid "Forward attachments?"
+msgstr ""
+
+msgid "From: "
+msgstr ""
+
+msgid "Function not permitted in attach-message mode."
+msgstr ""
+
+msgid "GPGME: CMS protocol not available"
+msgstr ""
+
+msgid "GPGME: OpenPGP protocol not available"
+msgstr ""
+
+msgid "GSSAPI authentication failed."
+msgstr ""
+
+msgid "Getting folder list..."
+msgstr ""
+
+msgid "Good signature from:"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Header search without header name: %s"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Help for %s"
+msgstr ""
+
+msgid "Help is currently being shown."
+msgstr ""
+
+msgid "History '%s'"
+msgstr ""
+
+msgid "I don't know how to print %s attachments!"
+msgstr ""
+
+msgid "I don't know how to print that!"
+msgstr ""
+
+msgid "I/O error"
+msgstr ""
+
+msgid "ID has undefined validity."
+msgstr ""
+
+msgid "ID is expired/disabled/revoked."
+msgstr ""
+
+msgid "ID is not trusted."
+msgstr ""
+
+msgid "ID is not valid."
+msgstr ""
+
+msgid "ID is only marginally valid."
+msgstr ""
+
+msgid "Illegal S/MIME header"
+msgstr ""
+
+msgid "Illegal crypto header"
+msgstr ""
+
+msgid "Improperly formatted entry for type %s in \"%s\" line %d"
+msgstr ""
+
+msgid "Include message in reply?"
+msgstr ""
+
+msgid "Including quoted message..."
+msgstr ""
+
+msgid "Inline PGP can't be used with attachments.  Revert to PGP/MIME?"
+msgstr ""
+
+msgid "Inline PGP can't be used with format=flowed.  Revert to PGP/MIME?"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Integer overflow -- can't allocate memory!"
+msgstr ""
+
+msgid "Integer overflow -- can't allocate memory."
+msgstr ""
+
+msgid "Internal error.  Please submit a bug report."
+msgstr ""
+
+msgid "Invalid   "
+msgstr ""
+
+msgid "Invalid POP URL: %s\n"
+msgstr ""
+
+msgid "Invalid SMTP URL: %s"
+msgstr ""
+
+msgid "Invalid day of month: %s"
+msgstr ""
+
+msgid "Invalid encoding."
+msgstr ""
+
+msgid "Invalid index number."
+msgstr ""
+
+msgid "Invalid message number."
+msgstr ""
+
+msgid "Invalid month: %s"
+msgstr ""
+
+msgid "Invalid relative date: %s"
+msgstr ""
+
+msgid "Invalid server response"
+msgstr ""
+
+msgid "Invalid value for option %s: \"%s\""
+msgstr ""
+
+msgid "Invoking PGP..."
+msgstr ""
+
+msgid "Invoking S/MIME..."
+msgstr ""
+
+msgid "Invoking autoview command: %s"
+msgstr ""
+
+msgid "Issued By: "
+msgstr ""
+
+msgid "Jump to message: "
+msgstr ""
+
+msgid "Jump to: "
+msgstr ""
+
+msgid "Jumping is not implemented for dialogs."
+msgstr ""
+
+msgid "Key ID: 0x%s"
+msgstr ""
+
+msgid "Key Type: "
+msgstr ""
+
+msgid "Key Usage: "
+msgstr ""
+
+msgid "Key is not bound."
+msgstr ""
+
+msgid "Key is not bound.  Press '%s' for help."
+msgstr ""
+
+msgid "KeyID "
+msgstr ""
+
+msgid "LOGIN disabled on this server."
+msgstr ""
+
+msgid "Label for certificate: "
+msgstr ""
+
+msgid "Limit to messages matching: "
+msgstr ""
+
+msgid "Limit: %s"
+msgstr ""
+
+msgid "Lock count exceeded, remove lock for %s?"
+msgstr ""
+
+msgid "Logged out of IMAP servers."
+msgstr ""
+
+msgid "Logging in..."
+msgstr ""
+
+msgid "Login failed."
+msgstr ""
+
+msgid "Looking for keys matching \"%s\"..."
+msgstr ""
+
+msgid "Looking up %s..."
+msgstr ""
+
+msgid "MIME type not defined.  Cannot view attachment."
+msgstr ""
+
+msgid "Macro loop detected."
+msgstr ""
+
+msgid "Mail"
+msgstr ""
+
+msgid "Mail not sent."
+msgstr ""
+
+msgid "Mail not sent: inline PGP can't be used with attachments."
+msgstr ""
+
+msgid "Mail not sent: inline PGP can't be used with format=flowed."
+msgstr ""
+
+msgid "Mail sent."
+msgstr ""
+
+msgid "Mailbox %s@%s closed"
+msgstr ""
+
+msgid "Mailbox checkpointed."
+msgstr ""
+
+msgid "Mailbox created."
+msgstr ""
+
+msgid "Mailbox deleted."
+msgstr ""
+
+msgid "Mailbox deletion failed."
+msgstr ""
+
+msgid "Mailbox is corrupt!"
+msgstr ""
+
+msgid "Mailbox is empty."
+msgstr ""
+
+msgid "Mailbox is marked unwritable. %s"
+msgstr ""
+
+msgid "Mailbox is read-only."
+msgstr ""
+
+msgid "Mailbox is unchanged."
+msgstr ""
+
+msgid "Mailbox must have a name."
+msgstr ""
+
+msgid "Mailbox not deleted."
+msgstr ""
+
+msgid "Mailbox renamed."
+msgstr ""
+
+msgid "Mailbox was corrupted!"
+msgstr ""
+
+msgid "Mailbox was externally modified."
+msgstr ""
+
+msgid "Mailbox was externally modified.  Flags may be wrong."
+msgstr ""
+
+msgid "Mailboxes [%d]"
+msgstr ""
+
+msgid "Mailcap Edit entry requires %%s"
+msgstr ""
+
+msgid "Mailcap compose entry requires %%s"
+msgstr ""
+
+msgid "Make Alias"
+msgstr ""
+
+msgid ""
+"Many others not mentioned here contributed code, fixes,\n"
+"and suggestions.\n"
+msgstr ""
+
+msgid "Marking %d messages deleted..."
+msgstr ""
+
+msgid "Marking messages deleted..."
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
+msgid "Message bounced."
+msgstr ""
+
+msgid "Message bound to %s."
+msgstr ""
+
+msgid "Message can't be sent inline.  Revert to using PGP/MIME?"
+msgstr ""
+
+msgid "Message contains:\n"
+msgstr ""
+
+msgid "Message could not be printed"
+msgstr ""
+
+msgid "Message file is empty!"
+msgstr ""
+
+msgid "Message not bounced."
+msgstr ""
+
+msgid "Message not modified!"
+msgstr ""
+
+msgid "Message postponed."
+msgstr ""
+
+msgid "Message printed"
+msgstr ""
+
+msgid "Message written."
+msgstr ""
+
+msgid "Messages bounced."
+msgstr ""
+
+msgid "Messages could not be printed"
+msgstr ""
+
+msgid "Messages not bounced."
+msgstr ""
+
+msgid "Messages printed"
+msgstr ""
+
+msgid "Missing arguments."
+msgstr ""
+
+msgid "Mixmaster chains are limited to %d elements."
+msgstr ""
+
+msgid "Mixmaster doesn't accept Cc or Bcc headers."
+msgstr ""
+
+msgid "Move %d read messages to %s?"
+msgstr ""
+
+msgid "Moving read messages to %s..."
+msgstr ""
+
+msgid "Name: "
+msgstr ""
+
+msgid "New Query"
+msgstr ""
+
+msgid "New file name: "
+msgstr ""
+
+msgid "New file: "
+msgstr ""
+
+msgid "New mail in "
+msgstr ""
+
+msgid "New mail in this mailbox."
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "NextPg"
+msgstr ""
+
+msgid "No (valid) certificate found for %s."
+msgstr ""
+
+msgid "No Message-ID: header available to link thread"
+msgstr ""
+
+msgid "No PGP backend configured"
+msgstr ""
+
+msgid "No S/MIME backend configured"
+msgstr ""
+
+msgid "No attachments, abort sending?"
+msgstr ""
+
+msgid "No authenticators available"
+msgstr ""
+
+msgid "No boundary parameter found! [report this error]"
+msgstr ""
+
+msgid "No crypto backend configured.  Disabling message security setting."
+msgstr ""
+
+msgid "No entries."
+msgstr ""
+
+msgid "No files match the file mask"
+msgstr ""
+
+msgid "No from address given"
+msgstr ""
+
+msgid "No incoming mailboxes defined."
+msgstr ""
+
+msgid "No labels changed."
+msgstr ""
+
+msgid "No limit pattern is in effect."
+msgstr ""
+
+msgid "No lines in message.\n"
+msgstr ""
+
+msgid "No mailbox is open."
+msgstr ""
+
+msgid "No mailbox with new mail."
+msgstr ""
+
+msgid "No mailbox.\n"
+msgstr ""
+
+msgid "No mailboxes have new mail"
+msgstr ""
+
+msgid "No mailcap compose entry for %s, creating empty file."
+msgstr ""
+
+msgid "No mailcap edit entry for %s"
+msgstr ""
+
+msgid "No mailcap path specified"
+msgstr ""
+
+msgid "No mailing lists found!"
+msgstr ""
+
+msgid "No matching mailcap entry found.  Viewing as text."
+msgstr ""
+
+msgid "No message ID to macro."
+msgstr ""
+
+msgid "No messages in that folder."
+msgstr ""
+
+msgid "No messages matched criteria."
+msgstr ""
+
+msgid "No more quoted text."
+msgstr ""
+
+msgid "No more threads."
+msgstr ""
+
+msgid "No more unquoted text after quoted text."
+msgstr ""
+
+msgid "No new mail in POP mailbox."
+msgstr ""
+
+msgid "No new messages in this limited view."
+msgstr ""
+
+msgid "No new messages."
+msgstr ""
+
+msgid "No output from OpenSSL..."
+msgstr ""
+
+msgid "No postponed messages."
+msgstr ""
+
+msgid "No printing command has been defined."
+msgstr ""
+
+msgid "No recipients are specified!"
+msgstr ""
+
+msgid "No recipients specified.\n"
+msgstr ""
+
+msgid "No recipients were specified."
+msgstr ""
+
+msgid "No subject specified."
+msgstr ""
+
+msgid "No subject, abort sending?"
+msgstr ""
+
+msgid "No subject, abort?"
+msgstr ""
+
+msgid "No subject, aborting."
+msgstr ""
+
+msgid "No such folder"
+msgstr ""
+
+msgid "No tagged entries."
+msgstr ""
+
+msgid "No tagged messages are visible!"
+msgstr ""
+
+msgid "No tagged messages."
+msgstr ""
+
+msgid "No thread linked"
+msgstr ""
+
+msgid "No undeleted messages."
+msgstr ""
+
+msgid "No unread messages in this limited view."
+msgstr ""
+
+msgid "No unread messages."
+msgstr ""
+
+msgid "No visible messages."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not available in this menu."
+msgstr ""
+
+msgid "Not enough subexpressions for template"
+msgstr ""
+
+msgid "Not found."
+msgstr ""
+
+msgid "Not supported"
+msgstr ""
+
+msgid "Nothing to do."
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "One or more parts of this message could not be displayed"
+msgstr ""
+
+msgid "Only deletion of multipart attachments is supported."
+msgstr ""
+
+msgid "Open mailbox"
+msgstr ""
+
+msgid "Open mailbox in read-only mode"
+msgstr ""
+
+msgid "Open mailbox to attach message from"
+msgstr ""
+
+msgid "Out of memory!"
+msgstr ""
+
+msgid "Output of the delivery process"
+msgstr ""
+
+msgid ""
+"PGP (e)ncrypt, (s)ign, sign (a)s, (b)oth, %s format, (c)lear, or (o)ppenc "
+"mode? "
+msgstr ""
+
+msgid "PGP (e)ncrypt, (s)ign, sign (a)s, (b)oth, %s format, or (c)lear? "
+msgstr ""
+
+msgid "PGP (e)ncrypt, (s)ign, sign (a)s, (b)oth, (c)lear, or (o)ppenc mode? "
+msgstr ""
+
+msgid "PGP (e)ncrypt, (s)ign, sign (a)s, (b)oth, or (c)lear? "
+msgstr ""
+
+msgid "PGP (e)ncrypt, (s)ign, sign (a)s, (b)oth, s/(m)ime or (c)lear? "
+msgstr ""
+
+msgid ""
+"PGP (e)ncrypt, (s)ign, sign (a)s, (b)oth, s/(m)ime, (c)lear, or (o)ppenc "
+"mode? "
+msgstr ""
+
+msgid "PGP (s)ign, sign (a)s, %s format, (c)lear, or (o)ppenc mode off? "
+msgstr ""
+
+msgid "PGP (s)ign, sign (a)s, (c)lear, or (o)ppenc mode off? "
+msgstr ""
+
+msgid "PGP (s)ign, sign (a)s, s/(m)ime, (c)lear, or (o)ppenc mode off? "
+msgstr ""
+
+msgid "PGP Key %s."
+msgstr ""
+
+msgid "PGP Key 0x%s."
+msgstr ""
+
+msgid "PGP already selected. Clear & continue ? "
+msgstr ""
+
+msgid "PGP and S/MIME keys matching"
+msgstr ""
+
+msgid "PGP keys matching"
+msgstr ""
+
+msgid "PGP keys matching \"%s\"."
+msgstr ""
+
+msgid "PGP keys matching <%s>."
+msgstr ""
+
+msgid "PGP message is not encrypted."
+msgstr ""
+
+msgid "PGP message successfully decrypted."
+msgstr ""
+
+msgid "PGP passphrase forgotten."
+msgstr ""
+
+msgid "PGP signature could NOT be verified."
+msgstr ""
+
+msgid "PGP signature successfully verified."
+msgstr ""
+
+msgid "PGP/M(i)ME"
+msgstr ""
+
+msgid "PKA verified signer's address is: "
+msgstr ""
+
+msgid "POP host is not defined."
+msgstr ""
+
+msgid "POP timestamp is invalid!"
+msgstr ""
+
+msgid "Parent message is not available."
+msgstr ""
+
+msgid "Parent message is not visible in this limited view."
+msgstr ""
+
+msgid "Passphrase(s) forgotten."
+msgstr ""
+
+msgid "Password for %s@%s: "
+msgstr ""
+
+msgid "Personal name: "
+msgstr ""
+
+msgid "Pipe"
+msgstr ""
+
+msgid "Pipe to command: "
+msgstr ""
+
+msgid "Pipe to: "
+msgstr ""
+
+msgid "Please enter the key ID: "
+msgstr ""
+
+msgid ""
+"Please set the hostname variable to a proper value when using mixmaster!"
+msgstr ""
+
+msgid "Postpone this message?"
+msgstr ""
+
+msgid "Postponed Messages"
+msgstr ""
+
+msgid "Preconnect command failed."
+msgstr ""
+
+msgid "Preparing forwarded message..."
+msgstr ""
+
+msgid "Press any key to continue..."
+msgstr ""
+
+msgid "PrevPg"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print attachment?"
+msgstr ""
+
+msgid "Print message?"
+msgstr ""
+
+msgid "Print tagged attachment(s)?"
+msgstr ""
+
+msgid "Print tagged messages?"
+msgstr ""
+
+msgid "Problem signature from:"
+msgstr ""
+
+msgid "Purge %d deleted message?"
+msgstr ""
+
+msgid "Purge %d deleted messages?"
+msgstr ""
+
+msgid "Query '%s'"
+msgstr ""
+
+msgid "Query command not defined."
+msgstr ""
+
+msgid "Query: "
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Quit Mutt?"
+msgstr ""
+
+msgid "Reading %s..."
+msgstr ""
+
+msgid "Reading new messages (%d bytes)..."
+msgstr ""
+
+msgid "Really delete mailbox \"%s\"?"
+msgstr ""
+
+msgid "Recall postponed message?"
+msgstr ""
+
+msgid "Recoding only affects text attachments."
+msgstr ""
+
+msgid "Rename failed: %s"
+msgstr ""
+
+msgid "Rename is only supported for IMAP mailboxes"
+msgstr ""
+
+msgid "Rename mailbox %s to: "
+msgstr ""
+
+msgid "Rename to: "
+msgstr ""
+
+msgid "Reopening mailbox..."
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid "Reply to %s%s?"
+msgstr ""
+
+msgid "Reply-To: "
+msgstr ""
+
+msgid "Rev-Sort Date/Frm/Recv/Subj/tO/Thread/Unsort/siZe/sCore/sPam/Label?: "
+msgstr ""
+
+msgid "Reverse search for: "
+msgstr ""
+
+msgid ""
+"Reverse sort by (d)ate, (a)lpha, si(z)e, (c)ount, (u)nread, or do(n)'t sort?"
+" "
+msgstr ""
+
+msgid "Revoked   "
+msgstr ""
+
+msgid "Root message is not visible in this limited view."
+msgstr ""
+
+msgid ""
+"S/MIME (e)ncrypt, (s)ign, encrypt (w)ith, sign (a)s, (b)oth, (c)lear, or "
+"(o)ppenc mode? "
+msgstr ""
+
+msgid ""
+"S/MIME (e)ncrypt, (s)ign, encrypt (w)ith, sign (a)s, (b)oth, or (c)lear? "
+msgstr ""
+
+msgid "S/MIME (e)ncrypt, (s)ign, sign (a)s, (b)oth, (p)gp or (c)lear? "
+msgstr ""
+
+msgid ""
+"S/MIME (e)ncrypt, (s)ign, sign (a)s, (b)oth, (p)gp, (c)lear, or (o)ppenc "
+"mode? "
+msgstr ""
+
+msgid ""
+"S/MIME (s)ign, encrypt (w)ith, sign (a)s, (c)lear, or (o)ppenc mode off? "
+msgstr ""
+
+msgid "S/MIME (s)ign, sign (a)s, (p)gp, (c)lear, or (o)ppenc mode off? "
+msgstr ""
+
+msgid "S/MIME already selected. Clear & continue ? "
+msgstr ""
+
+msgid "S/MIME certificate owner does not match sender."
+msgstr ""
+
+msgid "S/MIME certificates matching \"%s\"."
+msgstr ""
+
+msgid "S/MIME keys matching"
+msgstr ""
+
+msgid "S/MIME messages with no hints on content are unsupported."
+msgstr ""
+
+msgid "S/MIME signature could NOT be verified."
+msgstr ""
+
+msgid "S/MIME signature successfully verified."
+msgstr ""
+
+msgid "SASL authentication failed"
+msgstr ""
+
+msgid "SASL authentication failed."
+msgstr ""
+
+msgid "SHA1 Fingerprint: %s"
+msgstr ""
+
+msgid "SHA256 Fingerprint: "
+msgstr ""
+
+msgid "SMTP authentication method %s requires SASL"
+msgstr ""
+
+msgid "SMTP authentication requires SASL"
+msgstr ""
+
+msgid "SMTP server does not support authentication"
+msgstr ""
+
+msgid "SMTP session failed: %s"
+msgstr ""
+
+msgid "SMTP session failed: read error"
+msgstr ""
+
+msgid "SMTP session failed: unable to open %s"
+msgstr ""
+
+msgid "SMTP session failed: write error"
+msgstr ""
+
+msgid "SSL Certificate check (certificate %d of %d in chain)"
+msgstr ""
+
+msgid "SSL disabled due to the lack of entropy"
+msgstr ""
+
+msgid "SSL failed: %s"
+msgstr ""
+
+msgid "SSL is unavailable."
+msgstr ""
+
+msgid "SSL/TLS connection using %s (%s/%s/%s)"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save a copy of this message?"
+msgstr ""
+
+msgid "Save attachments in Fcc?"
+msgstr ""
+
+msgid "Save to file: "
+msgstr ""
+
+msgid "Save%s to mailbox"
+msgstr ""
+
+msgid "Saving changed messages... [%d/%d]"
+msgstr ""
+
+msgid "Saving..."
+msgstr ""
+
+msgid "Scanning %s..."
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search for: "
+msgstr ""
+
+msgid "Search hit bottom without finding match"
+msgstr ""
+
+msgid "Search hit top without finding match"
+msgstr ""
+
+msgid "Search interrupted."
+msgstr ""
+
+msgid "Search is not implemented for this menu."
+msgstr ""
+
+msgid "Search wrapped to bottom."
+msgstr ""
+
+msgid "Search wrapped to top."
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+msgid "Secure connection with TLS?"
+msgstr ""
+
+msgid "Security: "
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select  "
+msgstr ""
+
+msgid "Select a remailer chain."
+msgstr ""
+
+msgid "Selecting %s..."
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send attachment with name: "
+msgstr ""
+
+msgid "Sending in background."
+msgstr ""
+
+msgid "Sending message..."
+msgstr ""
+
+msgid "Serial-No: "
+msgstr ""
+
+msgid "Server certificate has expired"
+msgstr ""
+
+msgid "Server certificate is not yet valid"
+msgstr ""
+
+msgid "Server closed connection!"
+msgstr ""
+
+msgid "Set flag"
+msgstr ""
+
+msgid "Shell command: "
+msgstr ""
+
+msgid "Sign"
+msgstr ""
+
+msgid "Sign as: "
+msgstr ""
+
+msgid "Sign, Encrypt"
+msgstr ""
+
+msgid "Sort Date/Frm/Recv/Subj/tO/Thread/Unsort/siZe/sCore/sPam/Label?: "
+msgstr ""
+
+msgid "Sort by (d)ate, (a)lpha, si(z)e, (c)ount, (u)nread, or do(n)'t sort? "
+msgstr ""
+
+msgid "Sorting mailbox..."
+msgstr ""
+
+msgid "Structural changes to decrypted attachments are not supported"
+msgstr ""
+
+msgid "Subj"
+msgstr ""
+
+msgid "Subject: "
+msgstr ""
+
+msgid "Subkey: "
+msgstr ""
+
+msgid "Subscribed [%s], File mask: %s"
+msgstr ""
+
+msgid "Subscribed to %s"
+msgstr ""
+
+msgid "Subscribing to %s..."
+msgstr ""
+
+msgid "Tag messages matching: "
+msgstr ""
+
+msgid "Tag the messages you want to attach!"
+msgstr ""
+
+msgid "Tagging is not supported."
+msgstr ""
+
+msgid "That message is not visible."
+msgstr ""
+
+msgid "The CRL is not available\n"
+msgstr ""
+
+msgid "The current attachment will be converted."
+msgstr ""
+
+msgid "The current attachment won't be converted."
+msgstr ""
+
+msgid "The message index is incorrect. Try reopening the mailbox."
+msgstr ""
+
+msgid "The remailer chain is already empty."
+msgstr ""
+
+msgid "There are no attachments."
+msgstr ""
+
+msgid "There are no messages."
+msgstr ""
+
+msgid "There are no subparts to show!"
+msgstr ""
+
+msgid "This IMAP server is ancient. Mutt does not work with it."
+msgstr ""
+
+msgid "This certificate belongs to:"
+msgstr ""
+
+msgid "This certificate is valid"
+msgstr ""
+
+msgid "This certificate was issued by:"
+msgstr ""
+
+msgid "This key can't be used: expired/disabled/revoked."
+msgstr ""
+
+msgid "Thread broken"
+msgstr ""
+
+msgid "Thread cannot be broken, message is not part of a thread"
+msgstr ""
+
+msgid "Thread contains unread messages."
+msgstr ""
+
+msgid "Threading is not enabled."
+msgstr ""
+
+msgid "Threads linked"
+msgstr ""
+
+msgid "Timeout exceeded while attempting fcntl lock!"
+msgstr ""
+
+msgid "Timeout exceeded while attempting flock lock!"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid ""
+"To contact the developers, please mail to <mutt-dev@mutt.org>.\n"
+"To report a bug, please contact the Mutt maintainers via gitlab:\n"
+"    https://gitlab.com/muttmua/mutt/issues\n"
+msgstr ""
+
+msgid "To view all messages, limit to \"all\"."
+msgstr ""
+
+msgid "To: "
+msgstr ""
+
+msgid "Toggle display of subparts"
+msgstr ""
+
+msgid "Top of message is shown."
+msgstr ""
+
+msgid "Trusted   "
+msgstr ""
+
+msgid "Trying to extract PGP keys...\n"
+msgstr ""
+
+msgid "Trying to extract S/MIME certificates...\n"
+msgstr ""
+
+msgid "Tunnel error talking to %s: %s"
+msgstr ""
+
+msgid "Tunnel to %s returned error %d (%s)"
+msgstr ""
+
+msgid "Unable to attach %s!"
+msgstr ""
+
+msgid "Unable to attach!"
+msgstr ""
+
+msgid "Unable to create SSL context"
+msgstr ""
+
+msgid "Unable to fetch headers from this IMAP server version."
+msgstr ""
+
+msgid "Unable to get certificate from peer"
+msgstr ""
+
+msgid "Unable to leave messages on server."
+msgstr ""
+
+msgid "Unable to lock mailbox!"
+msgstr ""
+
+msgid "Unable to open mailbox %s"
+msgstr ""
+
+msgid "Unable to open temporary file!"
+msgstr ""
+
+msgid "Unable to write %s!"
+msgstr ""
+
+msgid "Undel"
+msgstr ""
+
+msgid "Undelete messages matching: "
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown   "
+msgstr ""
+
+msgid "Unknown Content-Type %s"
+msgstr ""
+
+msgid "Unknown SASL profile"
+msgstr ""
+
+msgid "Unsubscribed from %s"
+msgstr ""
+
+msgid "Unsubscribing from %s..."
+msgstr ""
+
+msgid "Unsupported mailbox type for appending."
+msgstr ""
+
+msgid "Untag messages matching: "
+msgstr ""
+
+msgid "Unverified"
+msgstr ""
+
+msgid "Uploading message..."
+msgstr ""
+
+msgid "Usage: set variable=yes|no"
+msgstr ""
+
+msgid "Use 'toggle-write' to re-enable write!"
+msgstr ""
+
+msgid "Use keyID = \"%s\" for %s?"
+msgstr ""
+
+msgid "Username at %s: "
+msgstr ""
+
+msgid "Valid From: "
+msgstr ""
+
+msgid "Valid To: "
+msgstr ""
+
+msgid "Verified  "
+msgstr ""
+
+msgid "Verify signature?"
+msgstr ""
+
+msgid "Verifying message indexes..."
+msgstr ""
+
+msgid "View Attachm."
+msgstr ""
+
+msgid "WARNING!  You are about to overwrite %s, continue?"
+msgstr ""
+
+msgid ""
+"WARNING: It is NOT certain that the key belongs to the person named as shown"
+" above\n"
+msgstr ""
+
+msgid "WARNING: PKA entry does not match signer's address: "
+msgstr ""
+
+msgid "WARNING: Server certificate has been revoked"
+msgstr ""
+
+msgid "WARNING: Server certificate has expired"
+msgstr ""
+
+msgid "WARNING: Server certificate is not yet valid"
+msgstr ""
+
+msgid "WARNING: Server hostname does not match certificate"
+msgstr ""
+
+msgid "WARNING: Signer of server certificate is not a CA"
+msgstr ""
+
+msgid "WARNING: The key does NOT BELONG to the person named as shown above\n"
+msgstr ""
+
+msgid ""
+"WARNING: We have NO indication whether the key belongs to the person named "
+"as shown above\n"
+msgstr ""
+
+msgid "Waiting for fcntl lock... %d"
+msgstr ""
+
+msgid "Waiting for flock attempt... %d"
+msgstr ""
+
+msgid "Waiting for response..."
+msgstr ""
+
+msgid "Warning: '%s' is a bad IDN."
+msgstr ""
+
+msgid "Warning: At least one certification key has expired\n"
+msgstr ""
+
+msgid "Warning: Bad IDN '%s' in alias '%s'.\n"
+msgstr ""
+
+msgid "Warning: Couldn't save certificate"
+msgstr ""
+
+msgid "Warning: One of the keys has been revoked\n"
+msgstr ""
+
+msgid "Warning: Part of this message has not been signed."
+msgstr ""
+
+msgid "Warning: Server certificate was signed using an insecure algorithm"
+msgstr ""
+
+msgid "Warning: The key used to create the signature expired at: "
+msgstr ""
+
+msgid "Warning: The signature expired at: "
+msgstr ""
+
+msgid "Warning: This alias name may not work.  Fix it?"
+msgstr ""
+
+msgid "Warning: error enabling ssl_verify_partial_chains"
+msgstr ""
+
+msgid "Warning: message contains no From: header"
+msgstr ""
+
+msgid "Warning: unable to set TLS SNI host name"
+msgstr ""
+
+msgid "What we have here is a failure to make an attachment"
+msgstr ""
+
+msgid "Write failed!  Saved partial mailbox to %s"
+msgstr ""
+
+msgid "Write fault!"
+msgstr ""
+
+msgid "Write message to mailbox"
+msgstr ""
+
+msgid "Writing %s..."
+msgstr ""
+
+msgid "Writing message to %s ..."
+msgstr ""
+
+msgid "You already have an alias defined with that name!"
+msgstr ""
+
+msgid "You already have the first chain element selected."
+msgstr ""
+
+msgid "You already have the last chain element selected."
+msgstr ""
+
+msgid "You are on the first entry."
+msgstr ""
+
+msgid "You are on the first message."
+msgstr ""
+
+msgid "You are on the first page."
+msgstr ""
+
+msgid "You are on the first thread."
+msgstr ""
+
+msgid "You are on the last entry."
+msgstr ""
+
+msgid "You are on the last message."
+msgstr ""
+
+msgid "You are on the last page."
+msgstr ""
+
+msgid "You cannot scroll down farther."
+msgstr ""
+
+msgid "You cannot scroll up farther."
+msgstr ""
+
+msgid "You have no aliases!"
+msgstr ""
+
+msgid "You may not delete the only attachment."
+msgstr ""
+
+msgid "You may only bounce message/rfc822 parts."
+msgstr ""
+
+msgid "You may only compose to sender with message/rfc822 parts."
+msgstr ""
+
+msgid "[%s = %s] Accept?"
+msgstr ""
+
+msgid "[-- %s output follows%s --]\n"
+msgstr ""
+
+msgid "[-- %s/%s is unsupported "
+msgstr ""
+
+msgid "[-- Attachment #%d"
+msgstr ""
+
+msgid "[-- Autoview stderr of %s --]\n"
+msgstr ""
+
+msgid "[-- Autoview using %s --]\n"
+msgstr ""
+
+msgid ""
+"[-- BEGIN PGP MESSAGE --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- BEGIN PGP PUBLIC KEY BLOCK --]\n"
+msgstr ""
+
+msgid ""
+"[-- BEGIN PGP SIGNED MESSAGE --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- Begin signature information --]\n"
+msgstr ""
+
+msgid "[-- Can't run %s. --]\n"
+msgstr ""
+
+msgid "[-- END PGP MESSAGE --]\n"
+msgstr ""
+
+msgid "[-- END PGP PUBLIC KEY BLOCK --]\n"
+msgstr ""
+
+msgid "[-- END PGP SIGNED MESSAGE --]\n"
+msgstr ""
+
+msgid ""
+"[-- End of OpenSSL output --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- End of PGP output --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- End of PGP/MIME encrypted data --]\n"
+msgstr ""
+
+msgid "[-- End of PGP/MIME signed and encrypted data --]\n"
+msgstr ""
+
+msgid "[-- End of S/MIME encrypted data --]\n"
+msgstr ""
+
+msgid "[-- End of S/MIME signed data --]\n"
+msgstr ""
+
+msgid ""
+"[-- End signature information --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- Error:  Could not display any parts of Multipart/Alternative! --]\n"
+msgstr ""
+
+msgid ""
+"[-- Error: Missing or bad-format multipart/signed signature! --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- Error: Unknown multipart/signed protocol %s! --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- Error: could not create a PGP subprocess! --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- Error: could not create temporary file! --]\n"
+msgstr ""
+
+msgid ""
+"[-- Error: could not find beginning of PGP message! --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- Error: decryption failed: %s --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- Error: message/external-body has no access-type parameter --]\n"
+msgstr ""
+
+msgid "[-- Error: unable to create OpenSSL subprocess! --]\n"
+msgstr ""
+
+msgid "[-- Error: unable to create PGP subprocess! --]\n"
+msgstr ""
+
+msgid ""
+"[-- The following data is PGP/MIME encrypted --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- The following data is PGP/MIME signed and encrypted --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- The following data is S/MIME encrypted --]\n"
+msgstr ""
+
+msgid ""
+"[-- The following data is S/MIME encrypted --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- The following data is S/MIME signed --]\n"
+msgstr ""
+
+msgid ""
+"[-- The following data is S/MIME signed --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- The following data is signed --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- This %s/%s attachment "
+msgstr ""
+
+msgid "[-- This %s/%s attachment is not included, --]\n"
+msgstr ""
+
+msgid "[-- This is an attachment "
+msgstr ""
+
+msgid "[-- Type: %s/%s, Encoding: %s, Size: %s --]\n"
+msgstr ""
+
+msgid ""
+"[-- Warning: Can't find any signatures. --]\n"
+"\n"
+msgstr ""
+
+msgid ""
+"[-- Warning: We can't verify %s/%s signatures. --]\n"
+"\n"
+msgstr ""
+
+msgid "[-- and the indicated access-type %s is unsupported --]\n"
+msgstr ""
+
+msgid ""
+"[-- and the indicated external source has --]\n"
+"[-- expired. --]\n"
+msgstr ""
+
+msgid "[-- name: %s --]\n"
+msgstr ""
+
+msgid "[-- on %s --]\n"
+msgstr ""
+
+msgid "[Can't display this user ID (invalid DN)]"
+msgstr ""
+
+msgid "[Can't display this user ID (invalid encoding)]"
+msgstr ""
+
+msgid "[Can't display this user ID (unknown encoding)]"
+msgstr ""
+
+msgid "[Disabled]"
+msgstr ""
+
+msgid "[Expired]"
+msgstr ""
+
+msgid "[Invalid]"
+msgstr ""
+
+msgid "[Revoked]"
+msgstr ""
+
+msgid "[invalid date]"
+msgstr ""
+
+msgid "[unable to calculate]"
+msgstr ""
+
+msgid "_maildir_commit_message(): unable to set time on file"
+msgstr ""
+
+msgid "accept the chain constructed"
+msgstr ""
+
+msgid "add, change, or delete a message's label"
+msgstr ""
+
+msgid "aka: "
+msgstr ""
+
+msgid "alias: no address"
+msgstr ""
+
+msgid "ambiguous specification of secret key `%s'\n"
+msgstr ""
+
+msgid "append a remailer to the chain"
+msgstr ""
+
+msgid "append new query results to current results"
+msgstr ""
+
+msgid "apply next function ONLY to tagged messages"
+msgstr ""
+
+msgid "apply next function to tagged messages"
+msgstr ""
+
+msgid "attach a PGP public key"
+msgstr ""
+
+msgid "attach file(s) to this message"
+msgstr ""
+
+msgid "attach message(s) to this message"
+msgstr ""
+
+msgid "attachments: invalid disposition"
+msgstr ""
+
+msgid "attachments: no disposition"
+msgstr ""
+
+msgid "badly formatted command string"
+msgstr ""
+
+msgid "bind: too many arguments"
+msgstr ""
+
+msgid "break the thread in two"
+msgstr ""
+
+msgid "calculate message statistics for all mailboxes"
+msgstr ""
+
+msgid "cannot get certificate common name"
+msgstr ""
+
+msgid "cannot get certificate subject"
+msgstr ""
+
+msgid "capitalize the word"
+msgstr ""
+
+msgid "certificate owner does not match hostname %s"
+msgstr ""
+
+msgid "certification"
+msgstr ""
+
+msgid "change directories"
+msgstr ""
+
+msgid "check for classic PGP"
+msgstr ""
+
+msgid "check mailboxes for new mail"
+msgstr ""
+
+msgid "clear a status flag from a message"
+msgstr ""
+
+msgid "clear and redraw the screen"
+msgstr ""
+
+msgid "collapse/uncollapse all threads"
+msgstr ""
+
+msgid "collapse/uncollapse current thread"
+msgstr ""
+
+msgid "color: too few arguments"
+msgstr ""
+
+msgid "complete address with query"
+msgstr ""
+
+msgid "complete filename or alias"
+msgstr ""
+
+msgid "compose a new mail message"
+msgstr ""
+
+msgid "compose new attachment using mailcap entry"
+msgstr ""
+
+msgid "compose new message to the current message sender"
+msgstr ""
+
+msgid "convert the word to lower case"
+msgstr ""
+
+msgid "convert the word to upper case"
+msgstr ""
+
+msgid "converting"
+msgstr ""
+
+msgid "copy a message to a file/mailbox"
+msgstr ""
+
+msgid "could not create temporary folder: %s"
+msgstr ""
+
+msgid "could not truncate temporary mail folder: %s"
+msgstr ""
+
+msgid "could not write temporary mail folder: %s"
+msgstr ""
+
+msgid "create a hotkey macro for the current message"
+msgstr ""
+
+msgid "create a new mailbox (IMAP only)"
+msgstr ""
+
+msgid "create an alias from a message sender"
+msgstr ""
+
+msgid "created: "
+msgstr ""
+
+msgid "current mailbox shortcut '^' is unset"
+msgstr ""
+
+msgid "cycle among incoming mailboxes"
+msgstr ""
+
+msgid "dazcun"
+msgstr ""
+
+msgid "default colors not supported"
+msgstr ""
+
+msgid "delete a remailer from the chain"
+msgstr ""
+
+msgid "delete all chars on the line"
+msgstr ""
+
+msgid "delete all messages in subthread"
+msgstr ""
+
+msgid "delete all messages in thread"
+msgstr ""
+
+msgid "delete chars from cursor to end of line"
+msgstr ""
+
+msgid "delete chars from the cursor to the end of the word"
+msgstr ""
+
+msgid "delete messages matching a pattern"
+msgstr ""
+
+msgid "delete the char in front of the cursor"
+msgstr ""
+
+msgid "delete the char under the cursor"
+msgstr ""
+
+msgid "delete the current entry"
+msgstr ""
+
+msgid "delete the current entry, bypassing the trash folder"
+msgstr ""
+
+msgid "delete the current mailbox (IMAP only)"
+msgstr ""
+
+msgid "delete the word in front of the cursor"
+msgstr ""
+
+msgid "descend into a directory"
+msgstr ""
+
+msgid "dfrsotuzcpl"
+msgstr ""
+
+msgid "display a message"
+msgstr ""
+
+msgid "display full address of sender"
+msgstr ""
+
+msgid "display message and toggle header weeding"
+msgstr ""
+
+msgid "display recent history of error messages"
+msgstr ""
+
+msgid "display the currently selected file's name"
+msgstr ""
+
+msgid "display the keycode for a key press"
+msgstr ""
+
+msgid "drac"
+msgstr ""
+
+msgid "dt"
+msgstr ""
+
+msgid "edit attachment content type"
+msgstr ""
+
+msgid "edit attachment description"
+msgstr ""
+
+msgid "edit attachment transfer-encoding"
+msgstr ""
+
+msgid "edit attachment using mailcap entry"
+msgstr ""
+
+msgid "edit the BCC list"
+msgstr ""
+
+msgid "edit the CC list"
+msgstr ""
+
+msgid "edit the Reply-To field"
+msgstr ""
+
+msgid "edit the TO list"
+msgstr ""
+
+msgid "edit the file to be attached"
+msgstr ""
+
+msgid "edit the from field"
+msgstr ""
+
+msgid "edit the message"
+msgstr ""
+
+msgid "edit the message with headers"
+msgstr ""
+
+msgid "edit the raw message"
+msgstr ""
+
+msgid "edit the subject of this message"
+msgstr ""
+
+msgid "empty pattern"
+msgstr ""
+
+msgid "encryption"
+msgstr ""
+
+msgid "end of conditional execution (noop)"
+msgstr ""
+
+msgid "enter a file mask"
+msgstr ""
+
+msgid "enter a file to save a copy of this message in"
+msgstr ""
+
+msgid "enter a muttrc command"
+msgstr ""
+
+msgid "error adding recipient `%s': %s\n"
+msgstr ""
+
+msgid "error allocating data object: %s\n"
+msgstr ""
+
+msgid "error creating gpgme context: %s\n"
+msgstr ""
+
+msgid "error creating gpgme data object: %s\n"
+msgstr ""
+
+msgid "error enabling CMS protocol: %s\n"
+msgstr ""
+
+msgid "error encrypting data: %s\n"
+msgstr ""
+
+msgid "error importing key: %s\n"
+msgstr ""
+
+msgid "error in pattern at: %s"
+msgstr ""
+
+msgid "error reading data object: %s\n"
+msgstr ""
+
+msgid "error rewinding data object: %s\n"
+msgstr ""
+
+msgid "error setting PKA signature notation: %s\n"
+msgstr ""
+
+msgid "error setting secret key `%s': %s\n"
+msgstr ""
+
+msgid "error signing data: %s\n"
+msgstr ""
+
+msgid "error: unknown op %d (report this error)."
+msgstr ""
+
+msgid "esabfc"
+msgstr ""
+
+msgid "esabfci"
+msgstr ""
+
+msgid "esabfco"
+msgstr ""
+
+msgid "esabfcoi"
+msgstr ""
+
+msgid "esabmfc"
+msgstr ""
+
+msgid "esabmfco"
+msgstr ""
+
+msgid "esabpfc"
+msgstr ""
+
+msgid "esabpfco"
+msgstr ""
+
+msgid "eswabfc"
+msgstr ""
+
+msgid "eswabfco"
+msgstr ""
+
+msgid "exec: no arguments"
+msgstr ""
+
+msgid "execute a macro"
+msgstr ""
+
+msgid "exit this menu"
+msgstr ""
+
+msgid "extract supported public keys"
+msgstr ""
+
+msgid "filter attachment through a shell command"
+msgstr ""
+
+msgid "force retrieval of mail from IMAP server"
+msgstr ""
+
+msgid "force viewing of attachment using mailcap"
+msgstr ""
+
+msgid "format error"
+msgstr ""
+
+msgid "forward a message with comments"
+msgstr ""
+
+msgid "get a temporary copy of an attachment"
+msgstr ""
+
+msgid "gpgme_op_keylist_next failed: %s"
+msgstr ""
+
+msgid "gpgme_op_keylist_start failed: %s"
+msgstr ""
+
+msgid "has been deleted --]\n"
+msgstr ""
+
+msgid "imap_sync_mailbox: EXPUNGE failed"
+msgstr ""
+
+msgid "insert a remailer into the chain"
+msgstr ""
+
+msgid "invalid header field"
+msgstr ""
+
+msgid "invoke a command in a subshell"
+msgstr ""
+
+msgid "jump to an index number"
+msgstr ""
+
+msgid "jump to parent message in thread"
+msgstr ""
+
+msgid "jump to previous subthread"
+msgstr ""
+
+msgid "jump to previous thread"
+msgstr ""
+
+msgid "jump to root message in thread"
+msgstr ""
+
+msgid "jump to the beginning of the line"
+msgstr ""
+
+msgid "jump to the bottom of the message"
+msgstr ""
+
+msgid "jump to the end of the line"
+msgstr ""
+
+msgid "jump to the next new message"
+msgstr ""
+
+msgid "jump to the next new or unread message"
+msgstr ""
+
+msgid "jump to the next subthread"
+msgstr ""
+
+msgid "jump to the next thread"
+msgstr ""
+
+msgid "jump to the next unread message"
+msgstr ""
+
+msgid "jump to the previous new message"
+msgstr ""
+
+msgid "jump to the previous new or unread message"
+msgstr ""
+
+msgid "jump to the previous unread message"
+msgstr ""
+
+msgid "jump to the top of the message"
+msgstr ""
+
+msgid "keys matching"
+msgstr ""
+
+msgid "link tagged message to the current one"
+msgstr ""
+
+msgid "list mailboxes with new mail"
+msgstr ""
+
+msgid "logout from all IMAP servers"
+msgstr ""
+
+msgid "macro: empty key sequence"
+msgstr ""
+
+msgid "macro: too many arguments"
+msgstr ""
+
+msgid "mail a PGP public key"
+msgstr ""
+
+msgid "mailbox shortcut expanded to empty regexp"
+msgstr ""
+
+msgid "mailcap entry for type %s not found"
+msgstr ""
+
+msgid "make decoded (text/plain) copy"
+msgstr ""
+
+msgid "make decoded copy (text/plain) and delete"
+msgstr ""
+
+msgid "make decrypted copy"
+msgstr ""
+
+msgid "make decrypted copy and delete"
+msgstr ""
+
+msgid "make the sidebar (in)visible"
+msgstr ""
+
+msgid "mark the current subthread as read"
+msgstr ""
+
+msgid "mark the current thread as read"
+msgstr ""
+
+msgid "message hotkey"
+msgstr ""
+
+msgid "message(s) not deleted"
+msgstr ""
+
+msgid "mismatched brackets: %s"
+msgstr ""
+
+msgid "mismatched parenthesis: %s"
+msgstr ""
+
+msgid "missing filename.\n"
+msgstr ""
+
+msgid "missing parameter"
+msgstr ""
+
+msgid "missing pattern: %s"
+msgstr ""
+
+msgid "mono: too few arguments"
+msgstr ""
+
+msgid "move entry to bottom of screen"
+msgstr ""
+
+msgid "move entry to middle of screen"
+msgstr ""
+
+msgid "move entry to top of screen"
+msgstr ""
+
+msgid "move the cursor one character to the left"
+msgstr ""
+
+msgid "move the cursor one character to the right"
+msgstr ""
+
+msgid "move the cursor to the beginning of the word"
+msgstr ""
+
+msgid "move the cursor to the end of the word"
+msgstr ""
+
+msgid "move the highlight to next mailbox"
+msgstr ""
+
+msgid "move the highlight to next mailbox with new mail"
+msgstr ""
+
+msgid "move the highlight to previous mailbox"
+msgstr ""
+
+msgid "move the highlight to previous mailbox with new mail"
+msgstr ""
+
+msgid "move to the bottom of the page"
+msgstr ""
+
+msgid "move to the first entry"
+msgstr ""
+
+msgid "move to the last entry"
+msgstr ""
+
+msgid "move to the middle of the page"
+msgstr ""
+
+msgid "move to the next entry"
+msgstr ""
+
+msgid "move to the next page"
+msgstr ""
+
+msgid "move to the next undeleted message"
+msgstr ""
+
+msgid "move to the previous entry"
+msgstr ""
+
+msgid "move to the previous page"
+msgstr ""
+
+msgid "move to the previous undeleted message"
+msgstr ""
+
+msgid "move to the top of the page"
+msgstr ""
+
+msgid "multipart message has no boundary parameter!"
+msgstr ""
+
+msgid "mutt_account_getoauthbearer: Command returned empty string"
+msgstr ""
+
+msgid "mutt_account_getoauthbearer: No OAUTH refresh command defined"
+msgstr ""
+
+msgid "mutt_account_getoauthbearer: Unable to run refresh command"
+msgstr ""
+
+msgid "mutt_restore_default(%s): error in regexp: %s\n"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "no certfile"
+msgstr ""
+
+msgid "no mbox"
+msgstr ""
+
+msgid "no signature fingerprint available"
+msgstr ""
+
+msgid "nospam: no matching pattern"
+msgstr ""
+
+msgid "not converting"
+msgstr ""
+
+msgid "not enough arguments"
+msgstr ""
+
+msgid "null key sequence"
+msgstr ""
+
+msgid "null operation"
+msgstr ""
+
+msgid "number overflow"
+msgstr ""
+
+msgid "oac"
+msgstr ""
+
+msgid "open a different folder"
+msgstr ""
+
+msgid "open a different folder in read only mode"
+msgstr ""
+
+msgid "open highlighted mailbox"
+msgstr ""
+
+msgid "open next mailbox with new mail"
+msgstr ""
+
+msgid ""
+"options:\n"
+"  -A <alias>\texpand the given alias\n"
+"  -a <file> [...] --\tattach file(s) to the message\n"
+"\t\tthe list of files must be terminated with the \"--\" sequence\n"
+"  -b <address>\tspecify a blind carbon-copy (BCC) address\n"
+"  -c <address>\tspecify a carbon-copy (CC) address\n"
+"  -D\t\tprint the value of all variables to stdout"
+msgstr ""
+
+msgid "out of arguments"
+msgstr ""
+
+msgid "pipe message/attachment to a shell command"
+msgstr ""
+
+msgid "prefix is illegal with reset"
+msgstr ""
+
+msgid "print the current entry"
+msgstr ""
+
+msgid "push: too many arguments"
+msgstr ""
+
+msgid "query external program for addresses"
+msgstr ""
+
+msgid "quote the next typed key"
+msgstr ""
+
+msgid "recall a postponed message"
+msgstr ""
+
+msgid "remail a message to another user"
+msgstr ""
+
+msgid "rename the current mailbox (IMAP only)"
+msgstr ""
+
+msgid "rename/move an attached file"
+msgstr ""
+
+msgid "reply to a message"
+msgstr ""
+
+msgid "reply to all recipients"
+msgstr ""
+
+msgid "reply to all recipients preserving To/Cc"
+msgstr ""
+
+msgid "reply to specified mailing list"
+msgstr ""
+
+msgid "retrieve mail from POP server"
+msgstr ""
+
+msgid "rms"
+msgstr ""
+
+msgid "ro"
+msgstr ""
+
+msgid "roa"
+msgstr ""
+
+msgid "roas"
+msgstr ""
+
+msgid "run ispell on the message"
+msgstr ""
+
+msgid "safco"
+msgstr ""
+
+msgid "safcoi"
+msgstr ""
+
+msgid "samfco"
+msgstr ""
+
+msgid "sapfco"
+msgstr ""
+
+msgid "save changes to mailbox"
+msgstr ""
+
+msgid "save changes to mailbox and quit"
+msgstr ""
+
+msgid "save message/attachment to a mailbox/file"
+msgstr ""
+
+msgid "save this message to send later"
+msgstr ""
+
+msgid "score: too few arguments"
+msgstr ""
+
+msgid "score: too many arguments"
+msgstr ""
+
+msgid "scroll down 1/2 page"
+msgstr ""
+
+msgid "scroll down one line"
+msgstr ""
+
+msgid "scroll down through the history list"
+msgstr ""
+
+msgid "scroll the sidebar down 1 page"
+msgstr ""
+
+msgid "scroll the sidebar up 1 page"
+msgstr ""
+
+msgid "scroll up 1/2 page"
+msgstr ""
+
+msgid "scroll up one line"
+msgstr ""
+
+msgid "scroll up through the history list"
+msgstr ""
+
+msgid "search backwards for a regular expression"
+msgstr ""
+
+msgid "search for a regular expression"
+msgstr ""
+
+msgid "search for next match"
+msgstr ""
+
+msgid "search for next match in opposite direction"
+msgstr ""
+
+msgid "search through the history list"
+msgstr ""
+
+msgid "secret key `%s' not found: %s\n"
+msgstr ""
+
+msgid "select a new file in this directory"
+msgstr ""
+
+msgid "select the current entry"
+msgstr ""
+
+msgid "select the next element of the chain"
+msgstr ""
+
+msgid "select the previous element of the chain"
+msgstr ""
+
+msgid "send attachment with a different name"
+msgstr ""
+
+msgid "send the message"
+msgstr ""
+
+msgid "send the message through a mixmaster remailer chain"
+msgstr ""
+
+msgid "set a status flag on a message"
+msgstr ""
+
+msgid "show MIME attachments"
+msgstr ""
+
+msgid "show PGP options"
+msgstr ""
+
+msgid "show S/MIME options"
+msgstr ""
+
+msgid "show currently active limit pattern"
+msgstr ""
+
+msgid "show only messages matching a pattern"
+msgstr ""
+
+msgid "show the Mutt version number and date"
+msgstr ""
+
+msgid "signing"
+msgstr ""
+
+msgid "skip beyond quoted text"
+msgstr ""
+
+msgid "sort messages"
+msgstr ""
+
+msgid "sort messages in reverse order"
+msgstr ""
+
+msgid "source: error at %s"
+msgstr ""
+
+msgid "source: errors in %s"
+msgstr ""
+
+msgid "source: reading aborted due to too many errors in %s"
+msgstr ""
+
+msgid "source: too many arguments"
+msgstr ""
+
+msgid "spam: no matching pattern"
+msgstr ""
+
+msgid "subscribe to current mailbox (IMAP only)"
+msgstr ""
+
+msgid "swafco"
+msgstr ""
+
+msgid "sync: mbox modified, but no modified messages! (report this bug)"
+msgstr ""
+
+msgid "tag messages matching a pattern"
+msgstr ""
+
+msgid "tag the current entry"
+msgstr ""
+
+msgid "tag the current subthread"
+msgstr ""
+
+msgid "tag the current thread"
+msgstr ""
+
+msgid "this screen"
+msgstr ""
+
+msgid "toggle a message's 'important' flag"
+msgstr ""
+
+msgid "toggle a message's 'new' flag"
+msgstr ""
+
+msgid "toggle display of quoted text"
+msgstr ""
+
+msgid "toggle disposition between inline/attachment"
+msgstr ""
+
+msgid "toggle recoding of this attachment"
+msgstr ""
+
+msgid "toggle search pattern coloring"
+msgstr ""
+
+msgid "toggle view all/subscribed mailboxes (IMAP only)"
+msgstr ""
+
+msgid "toggle whether the mailbox will be rewritten"
+msgstr ""
+
+msgid "toggle whether to browse mailboxes or all files"
+msgstr ""
+
+msgid "toggle whether to delete file after sending it"
+msgstr ""
+
+msgid "too few arguments"
+msgstr ""
+
+msgid "too many arguments"
+msgstr ""
+
+msgid "transpose character under cursor with previous"
+msgstr ""
+
+msgid "unable to determine home directory"
+msgstr ""
+
+msgid "unable to determine nodename via uname()"
+msgstr ""
+
+msgid "unable to determine username"
+msgstr ""
+
+msgid "unattachments: invalid disposition"
+msgstr ""
+
+msgid "unattachments: no disposition"
+msgstr ""
+
+msgid "undelete all messages in subthread"
+msgstr ""
+
+msgid "undelete all messages in thread"
+msgstr ""
+
+msgid "undelete messages matching a pattern"
+msgstr ""
+
+msgid "undelete the current entry"
+msgstr ""
+
+msgid "unhook: Can't delete a %s from within a %s."
+msgstr ""
+
+msgid "unhook: Can't do unhook * from within a hook."
+msgstr ""
+
+msgid "unhook: unknown hook type: %s"
+msgstr ""
+
+msgid "unknown error"
+msgstr ""
+
+msgid "unsubscribe from current mailbox (IMAP only)"
+msgstr ""
+
+msgid "untag messages matching a pattern"
+msgstr ""
+
+msgid "update an attachment's encoding info"
+msgstr ""
+
+msgid ""
+"usage: mutt [<options>] [-z] [-f <file> | -yZ]\n"
+"       mutt [<options>] [-Ex] [-Hi <file>] [-s <subj>] [-bc <addr>] [-a <file> [...] --] <addr> [...]\n"
+"       mutt [<options>] [-x] [-s <subj>] [-bc <addr>] [-a <file> [...] --] <addr> [...] < message\n"
+"       mutt [<options>] -p\n"
+"       mutt [<options>] -A <alias> [...]\n"
+"       mutt [<options>] -Q <query> [...]\n"
+"       mutt [<options>] -D\n"
+"       mutt -v[v]\n"
+msgstr ""
+
+msgid "use the current message as a template for a new one"
+msgstr ""
+
+msgid "value is illegal with reset"
+msgstr ""
+
+msgid "verify a PGP public key"
+msgstr ""
+
+msgid "view attachment as text"
+msgstr ""
+
+msgid "view attachment using mailcap entry if necessary"
+msgstr ""
+
+msgid "view file"
+msgstr ""
+
+msgid "view the key's user id"
+msgstr ""
+
+msgid "wipe passphrase(s) from memory"
+msgstr ""
+
+msgid "write the message to a folder"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "yna"
+msgstr ""
+
+msgid "{internal}"
+msgstr ""
+
+msgid ""
+"~q\t\twrite file and quit editor\n"
+"~r file\t\tread a file into the editor\n"
+"~t users\tadd users to the To: field\n"
+"~u\t\trecall the previous line\n"
+"~v\t\tedit message with the $visual editor\n"
+"~w file\t\twrite message to file\n"
+"~x\t\tabort changes and quit editor\n"
+"~?\t\tthis message\n"
+".\t\ton a line by itself ends input\n"
+msgstr ""
+
+msgid ""
+"~~\t\tinsert a line beginning with a single ~\n"
+"~b users\tadd users to the Bcc: field\n"
+"~c users\tadd users to the Cc: field\n"
+"~f messages\tinclude messages\n"
+"~F messages\tsame as ~f, except also include headers\n"
+"~h\t\tedit the message header\n"
+"~m messages\tinclude and quote messages\n"
+"~M messages\tsame as ~m, except include headers\n"
+"~p\t\tprint the message\n"
+msgstr ""

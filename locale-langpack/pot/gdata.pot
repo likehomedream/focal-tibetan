@@ -1,0 +1,278 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libgdata master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=libgdata&keywords=I18N+L10N&component=General\n"
+"PO-Revision-Date: 2017-03-06 10:15+0000\n"
+"Last-Translator: Qizhi Zhou <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:24+0000\n"
+
+msgid "A %s element was missing required content."
+msgstr ""
+
+msgid "A CAPTCHA must be filled out to log in."
+msgstr ""
+
+msgid "A required element (%s) was not present."
+msgstr ""
+
+msgid "A required property of a %s element (%s) was not present."
+msgstr ""
+
+msgid "A singleton element (%s) was duplicated."
+msgstr ""
+
+msgid "A ‘%s’ element was missing required content."
+msgstr ""
+
+msgid "Access was denied by the user or server."
+msgstr ""
+
+msgid "Authentication required: %s"
+msgstr ""
+
+msgid "Batch operations are unsupported by this service."
+msgstr ""
+
+msgid "Cannot connect to the proxy server."
+msgstr ""
+
+msgid "Cannot connect to the service’s server."
+msgstr ""
+
+msgid "Comments may not be added to this entry."
+msgstr ""
+
+msgid "Empty document."
+msgstr ""
+
+msgid "Error code %u when authenticating: %s"
+msgstr ""
+
+msgid "Error code %u when deleting an entry: %s"
+msgstr ""
+
+msgid "Error code %u when downloading: %s"
+msgstr ""
+
+msgid "Error code %u when inserting an entry: %s"
+msgstr ""
+
+msgid "Error code %u when querying: %s"
+msgstr ""
+
+msgid "Error code %u when running a batch operation: %s"
+msgstr ""
+
+msgid "Error code %u when updating an entry: %s"
+msgstr ""
+
+msgid "Error code %u when uploading: %s"
+msgstr ""
+
+msgid "Error parsing JSON: %s"
+msgstr ""
+
+msgid "Error parsing XML: %s"
+msgstr ""
+
+msgid "Error received from server after uploading a resumable upload chunk."
+msgstr ""
+
+msgid "Invalid JSON was received from the server: %s"
+msgstr ""
+
+msgid "Invalid redirect URI: %s"
+msgstr ""
+
+msgid ""
+"Invalid request URI or header, or unsupported nonstandard parameter: %s"
+msgstr ""
+
+msgid "Invalid seek request"
+msgstr ""
+
+msgid "Outermost JSON node is not an object."
+msgstr ""
+
+msgid "Parent folder not found"
+msgstr ""
+
+msgid "Property ‘%s’ does not hold an image"
+msgstr ""
+
+msgid "Query parameter not allowed for albums."
+msgstr ""
+
+msgid "Stream is already closed"
+msgstr ""
+
+msgid "The album did not have a feed link."
+msgstr ""
+
+msgid "The album has already been inserted."
+msgstr ""
+
+msgid "The content of a %s element (‘%s’) was not in ISO 8601 format."
+msgstr ""
+
+msgid "The content of a %s element (‘%s’) was not in hexadecimal RGB format."
+msgstr ""
+
+msgid "The content of a %s element (‘%s’) was unknown."
+msgstr ""
+
+msgid "The content of a ‘%s’ element (‘%s’) was not in ISO 8601 format."
+msgstr ""
+
+msgid ""
+"The content type of the supplied document (‘%s’) could not be recognized."
+msgstr ""
+
+msgid "The document has already been uploaded."
+msgstr ""
+
+msgid "The entry has already been inserted."
+msgstr ""
+
+msgid "The entry has been modified since it was downloaded: %s"
+msgstr ""
+
+msgid "The group has already been inserted."
+msgstr ""
+
+msgid "The requested resource was not found: %s"
+msgstr ""
+
+msgid "The server rejected the temporary credentials request."
+msgstr ""
+
+msgid "The server returned a malformed response."
+msgstr ""
+
+msgid "The value of the %s property of a %s element (‘%s’) was unknown."
+msgstr ""
+
+msgid "This account has been deleted. (%s)"
+msgstr ""
+
+msgid "This account has been disabled. (%s)"
+msgstr ""
+
+msgid ""
+"This account has been migrated. Please log in online to receive your new "
+"username and password. (%s)"
+msgstr ""
+
+msgid "This account requires an application-specific password. (%s)"
+msgstr ""
+
+msgid "This account’s access to this service has been disabled. (%s)"
+msgstr ""
+
+msgid "This comment may not be deleted."
+msgstr ""
+
+msgid "This entry does not support comments."
+msgstr ""
+
+msgid "This service is not available at the moment. (%s)"
+msgstr ""
+
+msgid "Unknown or unsupported document export format ‘%s’."
+msgstr ""
+
+msgid ""
+"Values were present for properties %s and %s of a %s element when only one "
+"of the two is allowed."
+msgstr ""
+
+msgid ""
+"You have exceeded your entry quota. Please delete some entries and try "
+"again."
+msgstr ""
+
+msgid ""
+"You have made too many API calls recently. Please wait a few minutes and try"
+" again."
+msgstr ""
+
+msgid "You have not agreed to the service’s terms and conditions. (%s)"
+msgstr ""
+
+msgid "You must be authenticated to copy documents."
+msgstr ""
+
+msgid "You must be authenticated to do this."
+msgstr ""
+
+msgid "You must be authenticated to download documents."
+msgstr ""
+
+msgid "You must be authenticated to insert a group."
+msgstr ""
+
+msgid "You must be authenticated to insert an album."
+msgstr ""
+
+msgid "You must be authenticated to insert or move documents and folders."
+msgstr ""
+
+msgid "You must be authenticated to move documents and folders."
+msgstr ""
+
+msgid "You must be authenticated to query all calendars."
+msgstr ""
+
+msgid "You must be authenticated to query all tasklists."
+msgstr ""
+
+msgid "You must be authenticated to query contact groups."
+msgstr ""
+
+msgid "You must be authenticated to query contacts."
+msgstr ""
+
+msgid "You must be authenticated to query documents."
+msgstr ""
+
+msgid "You must be authenticated to query your own calendars."
+msgstr ""
+
+msgid "You must be authenticated to query your own tasks."
+msgstr ""
+
+msgid "You must be authenticated to update documents."
+msgstr ""
+
+msgid "You must be authenticated to upload a file."
+msgstr ""
+
+msgid "You must be authenticated to upload a video."
+msgstr ""
+
+msgid "You must be authenticated to upload documents."
+msgstr ""
+
+msgid "You must specify a username or be authenticated to query a user."
+msgstr ""
+
+msgid "You must specify a username or be authenticated to query all albums."
+msgstr ""
+
+msgid ""
+"Your Google Account must be associated with a YouTube channel to do this. "
+"Visit %s to create one."
+msgstr ""
+
+msgid "Your account’s e-mail address has not been verified. (%s)"
+msgstr ""
+
+msgid "Your username or password were incorrect."
+msgstr ""

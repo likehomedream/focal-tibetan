@@ -1,0 +1,244 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dctrl-tools\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2011-04-24 10:26+0000\n"
+"Last-Translator: Lele Long <schemacs@gmail.com>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:32+0000\n"
+
+msgid "%s (child): failed to exec /bin/sh: %s\n"
+msgstr ""
+
+msgid "%s: %s: cannot stat: %s\n"
+msgstr ""
+
+msgid "%s: command (%s) failed (exit status %d)\n"
+msgstr ""
+
+msgid "%s: command (%s) was killed by signal %d\n"
+msgstr ""
+
+msgid "%s: popen failed for %s: %s\n"
+msgstr ""
+
+msgid "%s: using `%s' as pager\n"
+msgstr ""
+
+msgid "-I requires at least one instance of -s"
+msgstr ""
+
+msgid "A pattern is mandatory"
+msgstr ""
+
+msgid "Adding \"Description\" to selected output fields because of -d"
+msgstr ""
+
+msgid "Append the specified column."
+msgstr ""
+
+msgid "Attempt mmapping input files"
+msgstr ""
+
+msgid "DELIM"
+msgstr ""
+
+msgid "Debug option parsing."
+msgstr ""
+
+msgid "Do an exact match."
+msgstr ""
+
+msgid "Do not print a table heading"
+msgstr ""
+
+msgid "FIELD"
+msgstr ""
+
+msgid "FIELD,FIELD,..."
+msgstr ""
+
+msgid "FIELDNO"
+msgstr ""
+
+msgid "FIELDSPEC"
+msgstr ""
+
+msgid "Ignore case when looking for a match."
+msgstr ""
+
+msgid "Ignore parse errors"
+msgstr ""
+
+msgid "KEYSPEC"
+msgstr ""
+
+msgid "LEVEL"
+msgstr ""
+
+msgid "Match only whole package names (this implies -e)"
+msgstr ""
+
+msgid "PATTERN"
+msgstr ""
+
+msgid "Parse error in field."
+msgstr ""
+
+msgid "Print out the copyright license."
+msgstr ""
+
+msgid "Print unpairable records from the indicated file (either 1 or 2)"
+msgstr ""
+
+msgid "Regard the pattern as an extended POSIX regular expression."
+msgstr ""
+
+msgid "Restrict pattern matching to the FIELDs given."
+msgstr ""
+
+msgid "SPEC"
+msgstr ""
+
+msgid "Set debugging level to LEVEL."
+msgstr ""
+
+msgid "Show only paragraphs that do not match."
+msgstr ""
+
+msgid "Show only the body of these fields from the matching paragraphs."
+msgstr ""
+
+msgid "Show only the count of matching paragraphs."
+msgstr ""
+
+msgid ""
+"Show only the first line of the \"Description\" field from the matching "
+"paragraphs."
+msgstr ""
+
+msgid "Show those fields that have NOT been selected with -s"
+msgstr ""
+
+msgid "Specify a delimiter."
+msgstr ""
+
+msgid "Specify sort keys."
+msgstr ""
+
+msgid "Specify the common join field"
+msgstr ""
+
+msgid "Specify the format of the output file"
+msgstr ""
+
+msgid "Specify the join field to use for the first file"
+msgstr ""
+
+msgid "Specify the join field to use for the second file"
+msgstr ""
+
+msgid "Specify the pattern to search for"
+msgstr ""
+
+msgid "Suppress field names when showing specified fields."
+msgstr ""
+
+msgid "Test for version number equality."
+msgstr ""
+
+msgid "This is a shorthand for -FPackage."
+msgstr ""
+
+msgid "This is a shorthand for -FSource:Package."
+msgstr ""
+
+msgid "Version number comparison: <=."
+msgstr ""
+
+msgid "Version number comparison: >=."
+msgstr ""
+
+msgid "bad multibyte character"
+msgstr ""
+
+msgid "cannot join a stream with itself"
+msgstr ""
+
+msgid "cannot suppress field names when showing whole paragraphs"
+msgstr ""
+
+msgid "expected a colon"
+msgstr ""
+
+msgid "expected either '1.' or '2.' at the start of the field specification"
+msgstr ""
+
+msgid "grep-dctrl -- grep Debian control files"
+msgstr ""
+
+msgid "internal error"
+msgstr ""
+
+msgid "invalid column length"
+msgstr ""
+
+msgid "invalid key flag"
+msgstr ""
+
+msgid "is a block device, skipping"
+msgstr ""
+
+msgid "is a directory, skipping"
+msgstr ""
+
+msgid "is a socket, skipping"
+msgstr ""
+
+msgid "join-dctrl -- join two Debian control files"
+msgstr ""
+
+msgid "malformed argument to '-a'"
+msgstr ""
+
+msgid "missing ')' in command line"
+msgstr ""
+
+msgid "missing '.' in output field specification"
+msgstr ""
+
+msgid "need exactly two input files"
+msgstr ""
+
+msgid "no such log level '%s'"
+msgstr ""
+
+msgid "sort-dctrl -- sort Debian control files"
+msgstr ""
+
+msgid "tbl-dctrl -- tabularize Debian control files"
+msgstr ""
+
+msgid "the join field of the first file has already been specified"
+msgstr ""
+
+msgid "the join field of the second file has already been specified"
+msgstr ""
+
+msgid "too many file names"
+msgstr ""
+
+msgid "too many output fields"
+msgstr ""
+
+msgid "unknown file type, skipping"
+msgstr ""
+
+msgid "warning: expected a colon"
+msgstr ""

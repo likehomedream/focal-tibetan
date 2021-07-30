@@ -1,0 +1,194 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity-lens-applications\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-03-28 10:38+0000\n"
+"Last-Translator: Luo Lei <robert165@163.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:44+0000\n"
+
+msgid "Accessibility"
+msgstr ""
+
+msgid "Accessories"
+msgstr ""
+
+msgid "All Applications"
+msgstr ""
+
+msgid "All Available Applications"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Buy"
+msgstr ""
+
+msgid "Commands"
+msgstr ""
+
+msgid "Customization"
+msgstr ""
+
+msgid "Dash plugins"
+msgstr ""
+
+msgid "Developer"
+msgstr ""
+
+msgid "Developer Site"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Free"
+msgstr ""
+
+msgid "Free Download"
+msgstr ""
+
+msgid "Games"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Hardware requirements"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installed on"
+msgstr ""
+
+msgid "Internet"
+msgstr ""
+
+msgid "Launch"
+msgstr ""
+
+msgid "Local apps"
+msgstr ""
+
+msgid "Media"
+msgstr ""
+
+msgid "More suggestions"
+msgstr ""
+
+msgid "Office"
+msgstr ""
+
+msgid "Paid"
+msgstr ""
+
+msgid "Recent apps"
+msgstr ""
+
+msgid "Recently used"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "Run a command"
+msgstr ""
+
+msgid "Running Applications"
+msgstr ""
+
+msgid "Science & engineering"
+msgstr ""
+
+msgid "Search applications"
+msgstr ""
+
+msgid "Search plugins"
+msgstr ""
+
+msgid "Search running applications"
+msgstr ""
+
+msgid "Search search plugins"
+msgstr ""
+
+msgid "Size %s"
+msgstr ""
+
+msgid "Software center"
+msgstr ""
+
+msgid "Sources"
+msgstr ""
+
+msgid "Still no easter egg in Unity"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "There is no easter egg in Unity"
+msgstr ""
+
+msgid ""
+"This is an Ubuntu search plugin that enables information from available "
+"search plugins to be searched and displayed in the Dash underneath the Dash "
+"plugins header. If you do not wish to search this content source, you can "
+"disable this search plugin."
+msgstr ""
+
+msgid ""
+"This is an Ubuntu search plugin that enables information from local "
+"applications to be searched and displayed in the Dash underneath the "
+"Applications header. If you do not wish to search this content source, you "
+"can disable this search plugin."
+msgstr ""
+
+msgid ""
+"This is an Ubuntu search plugin that enables information from local binaries"
+" to be searched and displayed in the Dash. If you do not wish to search this"
+" content source, you can disable this search plugin."
+msgstr ""
+
+msgid ""
+"This is an Ubuntu search plugin that enables information from running "
+"applications to be searched and displayed in the Dash underneath the "
+"Applications header. If you do not wish to search this content source, you "
+"can disable this search plugin."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Uninstall"
+msgstr ""
+
+msgid "Version %s"
+msgstr ""
+
+msgid "scope"
+msgstr ""

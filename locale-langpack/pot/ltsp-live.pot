@@ -1,0 +1,36 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ltsp\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2015-07-20 15:24+0000\n"
+"Last-Translator: snowdream <yanghui1986527@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:53+0000\n"
+
+msgid "LTSP-Live configuration"
+msgstr ""
+
+msgid "Network devices"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid ""
+"The selected network interface is already in use.\n"
+"Are you sure you want to use it?"
+msgstr ""
+
+msgid "Unable to parse config"
+msgstr ""
+
+msgid ""
+"Welcome to LTSP Live.\n"
+"Please choose a network interface below and click OK."
+msgstr ""

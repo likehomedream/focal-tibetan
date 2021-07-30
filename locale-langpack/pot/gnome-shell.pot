@@ -1,0 +1,1328 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-shell master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-shell/issues\n"
+"PO-Revision-Date: 2020-04-15 16:40+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:19+0000\n"
+
+msgid "%A %B %e %Y"
+msgstr ""
+
+msgid "%A, %H∶%M"
+msgstr ""
+
+msgid "%A, %l∶%M %p"
+msgstr ""
+
+msgid "%B %-d %Y"
+msgstr ""
+
+msgid "%B %-d %Y, %H∶%M"
+msgstr ""
+
+msgid "%B %-d %Y, %l∶%M %p"
+msgstr ""
+
+msgid "%B %-d, %H∶%M"
+msgstr ""
+
+msgid "%B %-d, %l∶%M %p"
+msgstr ""
+
+msgid "%H∶%M"
+msgstr ""
+
+msgid "%OB"
+msgstr ""
+
+msgid "%OB %Y"
+msgstr ""
+
+msgid "%d Connected"
+msgid_plural "%d Connected"
+msgstr[0] ""
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+msgid "%d hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+
+msgid "%d minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+
+msgid "%d more"
+msgid_plural "%d more"
+msgstr[0] ""
+
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+
+msgid "%d year ago"
+msgid_plural "%d years ago"
+msgstr[0] ""
+
+msgid "%d × %d"
+msgstr ""
+
+msgid "%d %%"
+msgstr ""
+
+msgid "%d∶%02d Remaining (%d %%)"
+msgstr ""
+
+msgid "%d∶%02d Until Full (%d %%)"
+msgstr ""
+
+msgid "%l∶%M %p"
+msgstr ""
+
+msgid ""
+"%s %s will be installed after restart. Upgrade installation can take a long "
+"time: ensure that you have backed up and that the computer is plugged in."
+msgstr ""
+
+msgid "%s (console)"
+msgstr ""
+
+msgid "%s (remote)"
+msgstr ""
+
+msgid "%s Connected"
+msgstr ""
+
+msgid "%s Connecting"
+msgstr ""
+
+msgid "%s Connection Failed"
+msgstr ""
+
+msgid "%s Disabled"
+msgstr ""
+
+msgid "%s Disconnecting"
+msgstr ""
+
+msgid "%s Hardware Disabled"
+msgstr ""
+
+msgid "%s Hotspot Active"
+msgstr ""
+
+msgid "%s Modem Connection"
+msgid_plural "%s Modem Connections"
+msgstr[0] ""
+
+msgid "%s Not Connected"
+msgstr ""
+
+msgid "%s Off"
+msgstr ""
+
+msgid "%s Requires Authentication"
+msgstr ""
+
+msgid "%s Unavailable"
+msgstr ""
+
+msgid "%s Unmanaged"
+msgstr ""
+
+msgid "%s Wi-Fi Connection"
+msgid_plural "%s Wi-Fi Connections"
+msgstr[0] ""
+
+msgid "%s Wired Connection"
+msgid_plural "%s Wired Connections"
+msgstr[0] ""
+
+msgid "%s has been added to your favorites."
+msgstr ""
+
+msgid "%s has been removed from your favorites."
+msgstr ""
+
+msgid "%s has not emitted any errors."
+msgstr ""
+
+msgid "%s is now known as %s"
+msgstr ""
+
+msgid "%s will be logged out automatically in %d second."
+msgid_plural "%s will be logged out automatically in %d seconds."
+msgstr[0] ""
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] ""
+
+msgid "%u Output"
+msgid_plural "%u Outputs"
+msgstr[0] ""
+
+msgid "(e.g., user or %s)"
+msgstr ""
+
+msgid "(or swipe finger)"
+msgstr ""
+
+msgid "<unknown>"
+msgstr ""
+
+msgid "A password is required to connect to “%s”."
+msgstr ""
+
+msgid "Accessibility"
+msgstr ""
+
+msgid "Activation of network connection failed"
+msgstr ""
+
+msgid "Activities"
+msgstr ""
+
+msgid "Add to Favorites"
+msgstr ""
+
+msgid "Add world clocks…"
+msgstr ""
+
+msgid "Administrator"
+msgstr ""
+
+msgid "Airplane Mode On"
+msgstr ""
+
+msgid "Airplane Mode is On"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Allow"
+msgstr ""
+
+msgid ""
+"Allows access to internal debugging and monitoring tools using the Alt-F2 "
+"dialog."
+msgstr ""
+
+msgid ""
+"Alternatively you can connect by pushing the “WPS” button on your router."
+msgstr ""
+
+msgid "Always on Top"
+msgstr ""
+
+msgid "Always on Visible Workspace"
+msgstr ""
+
+msgid "Always show the “Log out” menu item in the user menu."
+msgstr ""
+
+msgid "App Picker View"
+msgstr ""
+
+msgid "Application defined"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Assign keystroke"
+msgstr ""
+
+msgid "Attach modal dialog to the parent window"
+msgstr ""
+
+msgid "Authenticate"
+msgstr ""
+
+msgid "Authentication Required"
+msgstr ""
+
+msgid "Authentication dialog was dismissed by the user"
+msgstr ""
+
+msgid "Authentication error"
+msgstr ""
+
+msgid "Authentication required"
+msgstr ""
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Bluetooth Settings"
+msgstr ""
+
+msgid "Bounce Keys"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Built-in Only"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Change Background…"
+msgstr ""
+
+msgid "Choose Session"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Command not found"
+msgstr ""
+
+msgid "Configure GNOME Shell Extensions"
+msgstr ""
+
+msgid ""
+"Configures how the windows are shown in the switcher. Valid possibilities "
+"are “thumbnail-only” (shows a thumbnail of the window), “app-icon-only” "
+"(shows only the application icon) or “both”."
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connect to Internet"
+msgstr ""
+
+msgid "Connection failed"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Could not authorize the Thunderbolt device: %s"
+msgstr ""
+
+msgid "Could not parse command:"
+msgstr ""
+
+msgid "DSL authentication"
+msgstr ""
+
+msgid "Dash"
+msgstr ""
+
+msgid "Delay focus changes in mouse mode until the pointer stops moving"
+msgstr ""
+
+msgid "Deny"
+msgstr ""
+
+msgid "Deny Access"
+msgstr ""
+
+msgid "Disable"
+msgstr ""
+
+msgid "Disable Until Tomorrow"
+msgstr ""
+
+msgid ""
+"Disable all extensions the user has enabled without affecting the “enabled-"
+"extension” setting."
+msgstr ""
+
+msgid "Disable user extensions"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disables the validation of extension version compatibility"
+msgstr ""
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Download and install “%s” from extensions.gnome.org?"
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Edit…"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Enable edge tiling when dropping windows on screen edges"
+msgstr ""
+
+msgid "Enable internal tools useful for developers and testers from Alt-F2"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Estimating…"
+msgstr ""
+
+msgid "Evolution Calendar"
+msgstr ""
+
+msgid "Execution of “%s” failed:"
+msgstr ""
+
+msgid "External Only"
+msgstr ""
+
+msgid "External drive connected"
+msgstr ""
+
+msgid "External drive disconnected"
+msgstr ""
+
+msgid "Failed to launch “%s”"
+msgstr ""
+
+msgid "Firmware Missing For %s"
+msgstr ""
+
+msgid "Focus the active notification"
+msgstr ""
+
+msgid "Force Quit"
+msgstr ""
+
+msgid "Frequent"
+msgstr ""
+
+msgid "Frequently used applications will appear here"
+msgstr ""
+
+msgid "Fully Charged"
+msgstr ""
+
+msgid "GNOME Shell"
+msgstr ""
+
+msgid ""
+"GNOME Shell extensions have a UUID property; this key lists extensions which"
+" should be loaded. Any extension that wants to be loaded needs to be in this"
+" list. You can also manipulate this list with the EnableExtension and "
+"DisableExtension D-Bus methods on org.gnome.Shell."
+msgstr ""
+
+msgid ""
+"GNOME Shell will only load extensions that claim to support the current "
+"running version. Enabling this option will disable this check and try to "
+"load all extensions regardless of the versions they claim to support."
+msgstr ""
+
+msgid "GNOME needs to lock the screen"
+msgstr ""
+
+msgid "Go online for weather information"
+msgstr ""
+
+msgid "Grant Access"
+msgstr ""
+
+msgid "Headphones"
+msgstr ""
+
+msgid "Headset"
+msgstr ""
+
+msgid "Hide Errors"
+msgstr ""
+
+msgid "Hide Text"
+msgstr ""
+
+msgid "High Contrast"
+msgstr ""
+
+msgid "History for command (Alt-F2) dialog"
+msgstr ""
+
+msgid "History for the looking glass dialog"
+msgstr ""
+
+msgid "Homepage"
+msgstr ""
+
+msgid "Hotspot Login"
+msgstr ""
+
+msgid ""
+"If true, only applications that have windows on the current workspace are "
+"shown in the switcher. Otherwise, all applications are included."
+msgstr ""
+
+msgid ""
+"If true, only windows from the current workspace are shown in the switcher. "
+"Otherwise, all windows are included."
+msgstr ""
+
+msgid "Index of the currently selected view in the application picker."
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Join Displays"
+msgstr ""
+
+msgid "Just now"
+msgstr ""
+
+msgid "Keep Changes"
+msgstr ""
+
+msgid "Keybinding to focus the active notification"
+msgstr ""
+
+msgid "Keybinding to focus the active notification."
+msgstr ""
+
+msgid "Keybinding to open the Activities Overview."
+msgstr ""
+
+msgid "Keybinding to open the application menu"
+msgstr ""
+
+msgid "Keybinding to open the application menu."
+msgstr ""
+
+msgid "Keybinding to open the overview"
+msgstr ""
+
+msgid "Keybinding to open the “Show Applications” view"
+msgstr ""
+
+msgid ""
+"Keybinding to open the “Show Applications” view of the Activities Overview."
+msgstr ""
+
+msgid "Keybinding to toggle the visibility of the notification list"
+msgstr ""
+
+msgid "Keybinding to toggle the visibility of the notification list."
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Large Text"
+msgstr ""
+
+msgid "Launch using Dedicated Graphics Card"
+msgstr ""
+
+msgid "Leave Off"
+msgstr ""
+
+msgid "Leave On"
+msgstr ""
+
+msgid "Limit switcher to current workspace."
+msgstr ""
+
+msgid "List of desktop file IDs for favorite applications"
+msgstr ""
+
+msgid "List possible modes"
+msgstr ""
+
+msgid "Loading…"
+msgstr ""
+
+msgid "Location Disabled"
+msgstr ""
+
+msgid "Location Enabled"
+msgstr ""
+
+msgid "Location In Use"
+msgstr ""
+
+msgid "Location access can be changed at any time from the privacy settings."
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Lock was blocked by an application"
+msgstr ""
+
+msgid "Log Out"
+msgstr ""
+
+msgid "Log in as another user"
+msgstr ""
+
+msgid "Login Window"
+msgstr ""
+
+msgid "Maximize"
+msgstr ""
+
+msgid "Microphone"
+msgstr ""
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Mirror"
+msgstr ""
+
+msgid "Mobile Broadband Settings"
+msgstr ""
+
+msgid "Mode used by GDM for login screen"
+msgstr ""
+
+msgid "Mouse Keys"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Move Titlebar Onscreen"
+msgstr ""
+
+msgid "Move to Monitor Down"
+msgstr ""
+
+msgid "Move to Monitor Left"
+msgstr ""
+
+msgid "Move to Monitor Right"
+msgstr ""
+
+msgid "Move to Monitor Up"
+msgstr ""
+
+msgid "Move to Workspace Down"
+msgstr ""
+
+msgid "Move to Workspace Left"
+msgstr ""
+
+msgid "Move to Workspace Right"
+msgstr ""
+
+msgid "Move to Workspace Up"
+msgstr ""
+
+msgid "Network Login"
+msgstr ""
+
+msgid "Network Manager"
+msgstr ""
+
+msgid "Network Settings"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid ""
+"New device has been detected and needs to be authorized by an administrator."
+msgstr ""
+
+msgid ""
+"New device has been detected while you were away. Please disconnect and "
+"reconnect the device to start using it."
+msgstr ""
+
+msgid "New shortcut…"
+msgstr ""
+
+msgid "Next month"
+msgstr ""
+
+msgid "Night Light Disabled"
+msgstr ""
+
+msgid "Night Light On"
+msgstr ""
+
+msgid "No Events"
+msgstr ""
+
+msgid "No Networks"
+msgstr ""
+
+msgid "No Notifications"
+msgstr ""
+
+msgid "No extensions installed"
+msgstr ""
+
+msgid "No results."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not Charging"
+msgstr ""
+
+msgid "Not listed?"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Open the application menu"
+msgstr ""
+
+msgid "Open with %s"
+msgstr ""
+
+msgid "Out of date"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "PIN code is needed for the mobile broadband device"
+msgstr ""
+
+msgid "PIN code required"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password cannot be blank"
+msgstr ""
+
+msgid "Passwords do not match."
+msgstr ""
+
+msgid ""
+"Passwords or encryption keys are required to access the wireless network "
+"“%s”."
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Power Settings"
+msgstr ""
+
+msgid "Press Esc to exit"
+msgstr ""
+
+msgid "Press a button to configure"
+msgstr ""
+
+msgid "Press any key to exit"
+msgstr ""
+
+msgid "Previous month"
+msgstr ""
+
+msgid "Print version"
+msgstr ""
+
+msgid "Privacy Settings"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Region & Language Settings"
+msgstr ""
+
+msgid "Remember Password"
+msgstr ""
+
+msgid "Remove from Favorites"
+msgstr ""
+
+msgid "Resize"
+msgstr ""
+
+msgid "Restart is not available on Wayland"
+msgstr ""
+
+msgid "Restarting…"
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Revert Settings"
+msgstr ""
+
+msgid "Screen Keyboard"
+msgstr ""
+
+msgid "Screen Reader"
+msgstr ""
+
+msgid "Screen is Being Shared"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Searching…"
+msgstr ""
+
+msgid "Select Audio Device"
+msgstr ""
+
+msgid "Select Network"
+msgstr ""
+
+msgid "Select a location…"
+msgstr ""
+
+msgid "Select a network"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Settings changes will revert in %d second"
+msgid_plural "Settings changes will revert in %d seconds"
+msgstr[0] ""
+
+msgid "Show Applications"
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Show Errors"
+msgstr ""
+
+msgid "Show Keyboard Layout"
+msgstr ""
+
+msgid "Show Text"
+msgstr ""
+
+msgid "Show all applications"
+msgstr ""
+
+msgid "Show on-screen help"
+msgstr ""
+
+msgid "Show the notification list"
+msgstr ""
+
+msgid "Show the overview"
+msgstr ""
+
+msgid "Slow Keys"
+msgstr ""
+
+msgid "Slow Keys Turned Off"
+msgstr ""
+
+msgid "Slow Keys Turned On"
+msgstr ""
+
+msgid "Something’s gone wrong"
+msgstr ""
+
+msgid "Sorry, that didn’t work. Please try again."
+msgstr ""
+
+msgid "Sound Settings"
+msgstr ""
+
+msgid "Sticky Keys"
+msgstr ""
+
+msgid "Sticky Keys Turned Off"
+msgstr ""
+
+msgid "Sticky Keys Turned On"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Switch monitor"
+msgstr ""
+
+msgid "Switch to application 1"
+msgstr ""
+
+msgid "Switch to application 2"
+msgstr ""
+
+msgid "Switch to application 3"
+msgstr ""
+
+msgid "Switch to application 4"
+msgstr ""
+
+msgid "Switch to application 5"
+msgstr ""
+
+msgid "Switch to application 6"
+msgstr ""
+
+msgid "Switch to application 7"
+msgstr ""
+
+msgid "Switch to application 8"
+msgstr ""
+
+msgid "Switch to application 9"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "System Information"
+msgstr ""
+
+msgid "System Sounds"
+msgstr ""
+
+msgctxt "System menu in the top bar"
+msgid "System"
+msgstr ""
+
+msgid "Technical Details"
+msgstr ""
+
+msgid "The application icon mode."
+msgstr ""
+
+msgid ""
+"The applications corresponding to these identifiers will be displayed in the"
+" favorites area."
+msgstr ""
+
+msgid ""
+"The shell will only show a Bluetooth menu item if a Bluetooth adapter is "
+"powered, or if there were devices set up associated with the default "
+"adapter. This will be reset if the default adapter is ever seen not to have "
+"devices associated to it."
+msgstr ""
+
+msgid ""
+"The shell will request a password when an encrypted device or a remote "
+"filesystem is mounted. If the password can be saved for future use a "
+"“Remember Password” checkbox will be present. This key sets the default "
+"state of the checkbox."
+msgstr ""
+
+msgid ""
+"The system will automatically restart and install updates in %d second."
+msgid_plural ""
+"The system will automatically restart and install updates in %d seconds."
+msgstr[0] ""
+
+msgid "The system will power off automatically in %d second."
+msgid_plural "The system will power off automatically in %d seconds."
+msgstr[0] ""
+
+msgid "The system will restart automatically in %d second."
+msgid_plural "The system will restart automatically in %d seconds."
+msgstr[0] ""
+
+msgid ""
+"This key overrides the automatic hiding of the “Log out” menu item in "
+"single-user, single-session situations."
+msgstr ""
+
+msgid ""
+"This key overrides the key in org.gnome.mutter when running GNOME Shell."
+msgstr ""
+
+msgid "Thunderbolt"
+msgstr ""
+
+msgid "Thunderbolt authorization error"
+msgstr ""
+
+msgid "Top Bar"
+msgstr ""
+
+msgid "Turn Off"
+msgstr ""
+
+msgid "Turn Off Airplane Mode"
+msgstr ""
+
+msgid "Turn On"
+msgstr ""
+
+msgid "Turn On Wi-Fi"
+msgstr ""
+
+msgid "Turn off"
+msgstr ""
+
+msgid "UUIDs of extensions to enable"
+msgstr ""
+
+msgid "Unable to lock"
+msgstr ""
+
+msgid "Unauthorized Thunderbolt device"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unknown Thunderbolt device"
+msgstr ""
+
+msgid "Unknown artist"
+msgstr ""
+
+msgid "Unknown title"
+msgstr ""
+
+msgid "Unlock"
+msgstr ""
+
+msgid "Unlock Window"
+msgstr ""
+
+msgid "Unmaximize"
+msgstr ""
+
+msgid "Use a specific mode, e.g. “gdm” for login screen"
+msgstr ""
+
+msgid "Use hardware switch to turn off"
+msgstr ""
+
+msgid "VPN"
+msgstr ""
+
+msgid "VPN Off"
+msgstr ""
+
+msgid "VPN Settings"
+msgstr ""
+
+msgid "View Source"
+msgstr ""
+
+msgid "Visit extension homepage"
+msgstr ""
+
+msgid "Visual Alerts"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Volume changed"
+msgstr ""
+
+msgid "Wait"
+msgstr ""
+
+msgid "Weather"
+msgstr ""
+
+msgid "Weather information is currently unavailable"
+msgstr ""
+
+msgid "Web Page"
+msgstr ""
+
+msgid "Week %V"
+msgstr ""
+
+msgid ""
+"We’re very sorry, but there’s been a problem: the settings for this "
+"extension can’t be displayed. We recommend that you report the issue to the "
+"extension authors."
+msgstr ""
+
+msgid ""
+"Whether the default Bluetooth adapter had set up devices associated to it"
+msgstr ""
+
+msgid ""
+"Whether to remember password for mounting encrypted or remote filesystems"
+msgstr ""
+
+msgid "Wi-Fi Networks"
+msgstr ""
+
+msgid "Wi-Fi Settings"
+msgstr ""
+
+msgid "Wi-Fi is Off"
+msgstr ""
+
+msgid "Wi-Fi is disabled when airplane mode is on."
+msgstr ""
+
+msgid "Wi-Fi needs to be turned on in order to connect to a network."
+msgstr ""
+
+msgid "Window management and application launching"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Wired 802.1X authentication"
+msgstr ""
+
+msgid "Wired Settings"
+msgstr ""
+
+msgid "Workspaces are managed dynamically"
+msgstr ""
+
+msgid "Workspaces only on primary monitor"
+msgstr ""
+
+msgid "World Clocks"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Yesterday, %H∶%M"
+msgstr ""
+
+msgid "Yesterday, %l∶%M %p"
+msgstr ""
+
+msgid "You can restore shortcuts by pressing %s."
+msgstr ""
+
+msgid ""
+"You just held down the Shift key for 8 seconds. This is the shortcut for the"
+" Slow Keys feature, which affects the way your keyboard works."
+msgstr ""
+
+msgid ""
+"You just pressed the Shift key 5 times in a row. This is the shortcut for "
+"the Sticky Keys feature, which affects the way your keyboard works."
+msgstr ""
+
+msgid ""
+"You just pressed two keys at once, or pressed the Shift key 5 times in a "
+"row. This turns off the Sticky Keys feature, which affects the way your "
+"keyboard works."
+msgstr ""
+
+msgid ""
+"You may choose to wait a short while for it to continue or force the "
+"application to quit entirely."
+msgstr ""
+
+msgid "You will be logged out automatically in %d second."
+msgid_plural "You will be logged out automatically in %d seconds."
+msgstr[0] ""
+
+msgid ""
+"Your connection to this hotspot login is not secure. Passwords or other "
+"information you enter on this page can be viewed by people nearby."
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "authentication required"
+msgstr ""
+
+msgctxt "button"
+msgid "Install &amp; Power Off"
+msgstr ""
+
+msgctxt "button"
+msgid "Log Out"
+msgstr ""
+
+msgctxt "button"
+msgid "Power Off"
+msgstr ""
+
+msgctxt "button"
+msgid "Restart"
+msgstr ""
+
+msgctxt "button"
+msgid "Restart &amp; Install"
+msgstr ""
+
+msgctxt "calendar heading"
+msgid "%A, %B %-d"
+msgstr ""
+
+msgctxt "calendar heading"
+msgid "%A, %B %-d, %Y"
+msgstr ""
+
+msgctxt "calendar-no-work"
+msgid "06"
+msgstr ""
+
+msgctxt "checkbox"
+msgid "Install pending software updates"
+msgstr ""
+
+msgctxt "checkbox"
+msgid "Power off after updates are installed"
+msgstr ""
+
+msgid "connecting…"
+msgstr ""
+
+msgid "connection failed"
+msgstr ""
+
+msgctxt "date day number format"
+msgid "%d"
+msgstr ""
+
+msgctxt "event list time"
+msgid "All Day"
+msgstr ""
+
+msgid "evolution"
+msgstr ""
+
+msgctxt "grid friday"
+msgid "F"
+msgstr ""
+
+msgctxt "grid monday"
+msgid "M"
+msgstr ""
+
+msgctxt "grid saturday"
+msgid "S"
+msgstr ""
+
+msgctxt "grid sunday"
+msgid "S"
+msgstr ""
+
+msgctxt "grid thursday"
+msgid "T"
+msgstr ""
+
+msgctxt "grid tuesday"
+msgid "T"
+msgstr ""
+
+msgctxt "grid wednesday"
+msgid "W"
+msgstr ""
+
+msgid "lock screen"
+msgstr ""
+
+msgid "network-workgroup"
+msgstr ""
+
+msgctxt "program"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "search-result"
+msgid "Lock Screen"
+msgstr ""
+
+msgctxt "search-result"
+msgid "Log Out"
+msgstr ""
+
+msgctxt "search-result"
+msgid "Power Off"
+msgstr ""
+
+msgctxt "search-result"
+msgid "Suspend"
+msgstr ""
+
+msgctxt "search-result"
+msgid "Switch User"
+msgstr ""
+
+msgid "suspend;sleep"
+msgstr ""
+
+msgid "switch user"
+msgstr ""
+
+msgctxt "title"
+msgid "Install Updates & Power Off"
+msgstr ""
+
+msgctxt "title"
+msgid "Log Out"
+msgstr ""
+
+msgctxt "title"
+msgid "Log Out %s"
+msgstr ""
+
+msgctxt "title"
+msgid "Power Off"
+msgstr ""
+
+msgctxt "title"
+msgid "Restart"
+msgstr ""
+
+msgctxt "title"
+msgid "Restart & Install Updates"
+msgstr ""
+
+msgctxt "title"
+msgid "Restart & Install Upgrade"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "“%s” is not responding."
+msgstr ""
+
+msgid "“%s” is ready"
+msgstr ""

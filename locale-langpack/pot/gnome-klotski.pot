@@ -1,0 +1,189 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-klotski&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-10-02 23:58+0000\n"
+"Last-Translator: Tong Hui <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:55+0000\n"
+
+msgid "Agatka"
+msgstr ""
+
+msgid "Ambush"
+msgstr ""
+
+msgid "American Pie"
+msgstr ""
+
+msgid "Baltic Sea"
+msgstr ""
+
+msgid "Bone"
+msgstr ""
+
+msgid "Challenge Pack"
+msgstr ""
+
+msgid "Choose an other puzzle"
+msgstr ""
+
+msgid "Cleopatra"
+msgstr ""
+
+msgid "Daisy"
+msgstr ""
+
+msgid "Fool"
+msgstr ""
+
+msgid "Fortune"
+msgstr ""
+
+msgid "GNOME Klotski"
+msgstr ""
+
+msgid ""
+"GNOME Klotski comes with nearly thirty different puzzle layouts of varying "
+"difficulty. Some of the layouts are similar and only the size of one or more"
+" blocks differ. Other layouts have more variety."
+msgstr ""
+
+msgid ""
+"GNOME Klotski is a set of block sliding puzzles. The objective is to move "
+"the patterned block to the area bordered by green markers. To do so, you’ll "
+"need to slide other blocks out of the way. Complete each puzzle in as few "
+"moves as possible!"
+msgstr ""
+
+msgid "Height of the window in pixels"
+msgstr ""
+
+msgid "Huarong Trail"
+msgstr ""
+
+msgid "Ithaca"
+msgstr ""
+
+msgid "Klotski"
+msgstr ""
+
+msgid "Level completed."
+msgstr ""
+
+msgid "Lodzianka"
+msgstr ""
+
+msgid "Moves: %d"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Only 18 Steps"
+msgstr ""
+
+msgid "Pansy"
+msgstr ""
+
+msgid "Pelopones"
+msgstr ""
+
+msgid "Pennant Puzzle"
+msgstr ""
+
+msgid "Polonaise"
+msgstr ""
+
+msgid "Poppy"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print release version and exit"
+msgstr ""
+
+msgid "Puzzle"
+msgstr ""
+
+msgid "Red Donkey"
+msgstr ""
+
+msgid "Restart the current puzzle"
+msgstr ""
+
+msgid "Rome"
+msgstr ""
+
+msgid "Shark"
+msgstr ""
+
+msgid "Skill Pack"
+msgstr ""
+
+msgid "Slide blocks to solve the puzzle"
+msgstr ""
+
+msgid "Sliding block puzzles"
+msgstr ""
+
+msgid "Snowdrop"
+msgstr ""
+
+msgid "Solomon"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Sunshine"
+msgstr ""
+
+msgid "The number of the puzzle being played."
+msgstr ""
+
+msgid "The puzzle in play"
+msgstr ""
+
+msgid "Traffic Jam"
+msgstr ""
+
+msgid "Trail"
+msgstr ""
+
+msgid "Transeuropa"
+msgstr ""
+
+msgid "Violet"
+msgstr ""
+
+msgid "Width of the window in pixels"
+msgstr ""
+
+msgid "_Change Puzzle"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Scores"
+msgstr ""
+
+msgid "_Start Over"
+msgstr ""
+
+msgid "game;strategy;logic;move;"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "true if the window is maximized"
+msgstr ""

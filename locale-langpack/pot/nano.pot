@@ -1,0 +1,1902 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nano 4.8-pre1\n"
+"Report-Msgid-Bugs-To: nano-devel@gnu.org\n"
+"PO-Revision-Date: 2020-02-14 18:34+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:45+0000\n"
+
+msgid ""
+"\n"
+" Compiled options:"
+msgstr ""
+
+msgid ""
+"\n"
+"Buffer not written to %s: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Buffer not written: %s\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Buffer written to %s\n"
+msgstr ""
+
+msgid " (C) 2014-%s the contributors to nano\n"
+msgstr ""
+
+msgid " (to replace)"
+msgstr ""
+
+msgid " (to replace) in selection"
+msgstr ""
+
+msgid " Email: nano@nano-editor.org\tWeb: https://nano-editor.org/"
+msgstr ""
+
+msgid " GNU nano, version %s\n"
+msgstr ""
+
+msgid ""
+" The following function keys are available in Browser Search mode:\n"
+"\n"
+msgstr ""
+
+msgid ""
+" The following function keys are available in Execute Command mode:\n"
+"\n"
+msgstr ""
+
+msgid ""
+" The following function keys are available in Linter mode:\n"
+"\n"
+msgstr ""
+
+msgid " [Backup]"
+msgstr ""
+
+msgid " [Backwards]"
+msgstr ""
+
+msgid " [Case Sensitive]"
+msgstr ""
+
+msgid " [DOS Format]"
+msgstr ""
+
+msgid " [Mac Format]"
+msgstr ""
+
+msgid " [Regexp]"
+msgstr ""
+
+msgid "\"%.*s%s\" not found"
+msgstr ""
+
+msgid "\"%s\" is a FIFO"
+msgstr ""
+
+msgid "\"%s\" is a device file"
+msgstr ""
+
+msgid "\"%s\" is a directory"
+msgstr ""
+
+msgid "\"start=\" requires a corresponding \"end=\""
+msgstr ""
+
+msgid "%s -- %zu line"
+msgid_plural "%s -- %zu lines"
+msgstr[0] ""
+
+msgid "%s -- %zu line (%s)"
+msgid_plural "%s -- %zu lines (%s)"
+msgstr[0] ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid "%s: invalid option -- '%c'\n"
+msgstr ""
+
+msgid "%s: option '%s%s' doesn't allow an argument\n"
+msgstr ""
+
+msgid "%s: option '%s%s' is ambiguous\n"
+msgstr ""
+
+msgid "%s: option '%s%s' is ambiguous; possibilities:"
+msgstr ""
+
+msgid "%s: option '%s%s' requires an argument\n"
+msgstr ""
+
+msgid "%s: option requires an argument -- '%c'\n"
+msgstr ""
+
+msgid "%s: unrecognized option '%s%s'\n"
+msgstr ""
+
+msgid "%sWords: %zu  Lines: %zd  Chars: %zu"
+msgstr ""
+
+msgid "(dir)"
+msgstr ""
+
+msgid "(huge)"
+msgstr ""
+
+msgid "(more)"
+msgstr ""
+
+msgid "(parent dir)"
+msgstr ""
+
+msgid "--backupdir=<dir>"
+msgstr ""
+
+msgid "--fill=<#cols>"
+msgstr ""
+
+msgid "--guidestripe=<number>"
+msgstr ""
+
+msgid "--operatingdir=<dir>"
+msgstr ""
+
+msgid "--quotestr=<regex>"
+msgstr ""
+
+msgid "--rcfile=<file>"
+msgstr ""
+
+msgid "--speller=<prog>"
+msgstr ""
+
+msgid "--syntax=<name>"
+msgstr ""
+
+msgid "--tabsize=<#cols>"
+msgstr ""
+
+msgid "--wordchars=<str>"
+msgstr ""
+
+msgid "-C <dir>"
+msgstr ""
+
+msgid "-J <number>"
+msgstr ""
+
+msgid "-Q <regex>"
+msgstr ""
+
+msgid "-T <#cols>"
+msgstr ""
+
+msgid "-X <str>"
+msgstr ""
+
+msgid "-Y <name>"
+msgstr ""
+
+msgid "-f <file>"
+msgstr ""
+
+msgid "-o <dir>"
+msgstr ""
+
+msgid "-r <#cols>"
+msgstr ""
+
+msgid "-s <prog>"
+msgstr ""
+
+msgid ""
+"=== Linter ===\n"
+"\n"
+" In this mode, the status bar shows an error message or warning, and the cursor is put at the corresponding position in the file.  With PageUp and PageDown you can switch to earlier and later messages.\n"
+"\n"
+msgstr ""
+
+msgid "A '%s' command requires a preceding 'syntax' command"
+msgstr ""
+
+msgid "A background color cannot be bright"
+msgstr ""
+
+msgid "Aa"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid ""
+"Also, pressing Esc twice and then typing a three-digit decimal number from 000 to 255 will enter the character with the corresponding value.  The following keystrokes are available in the main editor window.  Alternative keys are shown in parentheses:\n"
+"\n"
+msgstr ""
+
+msgid "Append"
+msgstr ""
+
+msgid "Append Selection to File"
+msgstr ""
+
+msgid "Argument '%s' has an unterminated \""
+msgstr ""
+
+msgid "Argument is not a valid multibyte string"
+msgstr ""
+
+msgid "Argument of '%s' lacks closing \""
+msgstr ""
+
+msgid "At first message"
+msgstr ""
+
+msgid "At last message"
+msgstr ""
+
+msgid "Auto indent"
+msgstr ""
+
+msgid "Auto save on exit, don't prompt"
+msgstr ""
+
+msgid "Automatically hard-wrap overlong lines"
+msgstr ""
+
+msgid "Automatically indent new lines"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Backspace"
+msgstr ""
+
+msgid "Backup File"
+msgstr ""
+
+msgid "Backwards"
+msgstr ""
+
+msgid "Bad lock file is ignored: %s"
+msgstr ""
+
+msgid "Bad quoting regex \"%s\": %s\n"
+msgstr ""
+
+msgid "Bad regex \"%s\": %s"
+msgstr ""
+
+msgid "Beg of Par"
+msgstr ""
+
+msgid "Bottom Row"
+msgstr ""
+
+msgid "Brought to you by:"
+msgstr ""
+
+msgid ""
+"Browser Go To Directory Help Text\n"
+"\n"
+" Enter the name of the directory you would like to browse to.\n"
+"\n"
+" If tab completion has not been disabled, you can use the Tab key to (attempt to) automatically complete the directory name.\n"
+"\n"
+" The following function keys are available in Browser Go To Directory mode:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Browser Search Command Help Text\n"
+"\n"
+" Enter the words or characters you would like to search for, and then press Enter.  If there is a match for the text you entered, the screen will be updated to the location of the nearest match for the search string.\n"
+"\n"
+" The previous search string will be shown in brackets after the search prompt.  Hitting Enter without entering any text will perform the previous search.\n"
+"\n"
+msgstr ""
+
+msgid "Buffer has been processed"
+msgstr ""
+
+msgid "Can't go outside of %s"
+msgstr ""
+
+msgid "Can't move up a directory"
+msgstr ""
+
+msgid "Can't read file from outside of %s"
+msgstr ""
+
+msgid "Can't write outside of %s"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel the current function"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Cannot comment past end of file"
+msgstr ""
+
+msgid "Cannot map name \"%s\" to a function"
+msgstr ""
+
+msgid "Cannot map name \"%s\" to a menu"
+msgstr ""
+
+msgid "Cannot open directory: %s"
+msgstr ""
+
+msgid "Cannot run macro while recording"
+msgstr ""
+
+msgid "Cannot unset option \"%s\""
+msgstr ""
+
+msgid "Case Sens"
+msgstr ""
+
+msgid "Chop Left"
+msgstr ""
+
+msgid "Chop Right"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close buffer without saving it"
+msgstr ""
+
+msgid "Close the current buffer / Exit from nano"
+msgstr ""
+
+msgid "Color \"%s\" not understood"
+msgstr ""
+
+msgid "Color syntax highlighting"
+msgstr ""
+
+msgid "Command \"%s\" not allowed in included file"
+msgstr ""
+
+msgid "Command \"%s\" not understood"
+msgstr ""
+
+msgid "Command to execute"
+msgstr ""
+
+msgid "Command to execute in new buffer"
+msgstr ""
+
+msgid "Comment Lines"
+msgstr ""
+
+msgid "Comment/uncomment the current line (or marked lines)"
+msgstr ""
+
+msgid "Commenting is not supported for this file type"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+msgid "Constant cursor position display"
+msgstr ""
+
+msgid "Constantly show cursor position"
+msgstr ""
+
+msgid "Conversion of typed tabs to spaces"
+msgstr ""
+
+msgid "Convert typed tabs to spaces"
+msgstr ""
+
+msgid "Copy Text"
+msgstr ""
+
+msgid "Copy current line (or marked region) and store it in cutbuffer"
+msgstr ""
+
+msgid "Could not create pipe"
+msgstr ""
+
+msgid "Could not find syntax \"%s\" to extend"
+msgstr ""
+
+msgid "Could not fork"
+msgstr ""
+
+msgid "Could not get size of pipe buffer"
+msgstr ""
+
+msgid "Could not reconnect stdin to keyboard\n"
+msgstr ""
+
+msgid "Couldn't determine hostname: %s"
+msgstr ""
+
+msgid "Couldn't determine my identity for lock file"
+msgstr ""
+
+msgid "Count the number of words, lines, and characters"
+msgstr ""
+
+msgid "Cur Pos"
+msgstr ""
+
+msgid "Cut Text"
+msgstr ""
+
+msgid "Cut current line (or marked region) and store it in cutbuffer"
+msgstr ""
+
+msgid "Cut from cursor to end of line"
+msgstr ""
+
+msgid "Cut from the cursor position to the end of the file"
+msgstr ""
+
+msgid "Cut to end"
+msgstr ""
+
+msgid "CutTillEnd"
+msgstr ""
+
+msgid "Cutbuffer is empty"
+msgstr ""
+
+msgid "DIR:"
+msgstr ""
+
+msgid "DOS"
+msgstr ""
+
+msgid "DOS Format"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete backward from cursor to word start"
+msgstr ""
+
+msgid "Delete forward from cursor to next word start"
+msgstr ""
+
+msgid "Delete the character to the left of the cursor"
+msgstr ""
+
+msgid "Delete the character under the cursor"
+msgstr ""
+
+msgid "Detect word boundaries more accurately"
+msgstr ""
+
+msgid "Directory '%s' does not exist"
+msgstr ""
+
+msgid "Directory '%s' is not writable"
+msgstr ""
+
+msgid "Directory for saving unique backup files"
+msgstr ""
+
+msgid "Discard buffer"
+msgstr ""
+
+msgid "Display the position of the cursor"
+msgstr ""
+
+msgid "Display this help text"
+msgstr ""
+
+msgid "Do not convert from DOS/Mac format"
+msgstr ""
+
+msgid "Do not read the file (only write it)"
+msgstr ""
+
+msgid "Don't add an automatic newline"
+msgstr ""
+
+msgid "Don't convert files from DOS/Mac format"
+msgstr ""
+
+msgid "Don't hard-wrap long lines [default]"
+msgstr ""
+
+msgid "Don't look at nanorc files"
+msgstr ""
+
+msgid "Don't show the two help lines"
+msgstr ""
+
+msgid "Edit a replacement"
+msgstr ""
+
+msgid "Empty regex string"
+msgstr ""
+
+msgid "Empty search string"
+msgstr ""
+
+msgid "Enable alternate speller"
+msgstr ""
+
+msgid "Enable smart home key"
+msgstr ""
+
+msgid "Enable soft line wrapping"
+msgstr ""
+
+msgid "Enable suspension"
+msgstr ""
+
+msgid "Enable the use of the mouse"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "End of Par"
+msgstr ""
+
+msgid "Enter"
+msgstr ""
+
+msgid "Enter line number, column number"
+msgstr ""
+
+msgid "Error deleting lock file %s: %s"
+msgstr ""
+
+msgid "Error expanding %s: %s"
+msgstr ""
+
+msgid "Error in %s on line %zu: "
+msgstr ""
+
+msgid "Error invoking \"sort -f\""
+msgstr ""
+
+msgid "Error invoking \"spell\""
+msgstr ""
+
+msgid "Error invoking \"uniq\""
+msgstr ""
+
+msgid "Error invoking '%s'"
+msgstr ""
+
+msgid "Error opening lock file %s: %s"
+msgstr ""
+
+msgid "Error reading %s: %s"
+msgstr ""
+
+msgid "Error reading temp file: %s"
+msgstr ""
+
+msgid "Error writing %s: %s"
+msgstr ""
+
+msgid "Error writing %s: %s\n"
+msgstr ""
+
+msgid "Error writing backup file %s: %s"
+msgstr ""
+
+msgid "Error writing lock file %s: %s"
+msgstr ""
+
+msgid "Error writing temp file: %s"
+msgstr ""
+
+msgid "Even number of characters required"
+msgstr ""
+
+msgid "Execute Command"
+msgstr ""
+
+msgid ""
+"Execute Command Help Text\n"
+"\n"
+" This mode allows you to insert the output of a command run by the shell into the current buffer (or into a new buffer).  If the command is preceded by '|' (the pipe symbol), the current contents of the buffer (or marked region) will be piped to the command.  "
+msgstr ""
+
+msgid "Execute external command"
+msgstr ""
+
+msgid "Executing..."
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Exit from the file browser"
+msgstr ""
+
+msgid "Failed to open pipe: %s"
+msgstr ""
+
+msgid "Failed to open stdin: %s"
+msgstr ""
+
+msgid "Failed to write backup file; continue saving? (Say N if unsure.) "
+msgstr ""
+
+msgid "File \"%s\" exists; OVERWRITE? "
+msgstr ""
+
+msgid "File \"%s\" not found"
+msgstr ""
+
+msgid "File %s is being edited by %s (with %s, PID %s); open anyway?"
+msgstr ""
+
+msgid "File '%s' is unwritable"
+msgstr ""
+
+msgid ""
+"File Browser Help Text\n"
+"\n"
+" The file browser is used to visually browse the directory structure to select a file for reading or writing.  You may use the arrow keys or Page Up/Down to browse through the files, and S or Enter to choose the selected file or enter the selected directory.  To move up one level, select the directory called \"..\" at the top of the file list.\n"
+"\n"
+" The following function keys are available in the file browser:\n"
+"\n"
+msgstr ""
+
+msgid "File Name to Append to"
+msgstr ""
+
+msgid "File Name to Prepend to"
+msgstr ""
+
+msgid "File Name to Write"
+msgstr ""
+
+msgid "File exists -- cannot overwrite"
+msgstr ""
+
+msgid "File on disk has changed"
+msgstr ""
+
+msgid "File to insert [from %s]"
+msgstr ""
+
+msgid "File to insert unconverted [from %s]"
+msgstr ""
+
+msgid "File to read into new buffer [from %s]"
+msgstr ""
+
+msgid "File to read unconverted into new buffer [from %s]"
+msgstr ""
+
+msgid "File was modified since you opened it; continue saving? "
+msgstr ""
+
+msgid "Finished checking spelling"
+msgstr ""
+
+msgid "First File"
+msgstr ""
+
+msgid "First Line"
+msgstr ""
+
+msgid "Fix Backspace/Delete confusion problem"
+msgstr ""
+
+msgid "Fix numeric keypad key confusion problem"
+msgstr ""
+
+msgid "For ncurses:"
+msgstr ""
+
+msgid "Formatter"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "FullJstify"
+msgstr ""
+
+msgid "Function '%s' does not exist in menu '%s'"
+msgstr ""
+
+msgid "Get Help"
+msgstr ""
+
+msgid "Go To Dir"
+msgstr ""
+
+msgid "Go To Directory"
+msgstr ""
+
+msgid "Go To Line"
+msgstr ""
+
+msgid ""
+"Go To Line Help Text\n"
+"\n"
+" Enter the line number that you wish to go to and hit Enter.  If there are fewer lines of text than the number you entered, you will be brought to the last line of the file.\n"
+"\n"
+" The following function keys are available in Go To Line mode:\n"
+"\n"
+msgstr ""
+
+msgid "Go To Text"
+msgstr ""
+
+msgid "Go back one character"
+msgstr ""
+
+msgid "Go back one word"
+msgstr ""
+
+msgid "Go forward one character"
+msgstr ""
+
+msgid "Go forward one word"
+msgstr ""
+
+msgid "Go just beyond end of paragraph; then of next paragraph"
+msgstr ""
+
+msgid "Go one screenful down"
+msgstr ""
+
+msgid "Go one screenful up"
+msgstr ""
+
+msgid "Go to beginning of current line"
+msgstr ""
+
+msgid "Go to beginning of paragraph; then of previous paragraph"
+msgstr ""
+
+msgid "Go to directory"
+msgstr ""
+
+msgid "Go to end of current line"
+msgstr ""
+
+msgid "Go to file browser"
+msgstr ""
+
+msgid "Go to first row in this column"
+msgstr ""
+
+msgid "Go to last row in this column"
+msgstr ""
+
+msgid "Go to lefthand column"
+msgstr ""
+
+msgid "Go to line and column number"
+msgstr ""
+
+msgid "Go to next block of text"
+msgstr ""
+
+msgid "Go to next line"
+msgstr ""
+
+msgid "Go to next linter msg"
+msgstr ""
+
+msgid "Go to previous block of text"
+msgstr ""
+
+msgid "Go to previous line"
+msgstr ""
+
+msgid "Go to previous linter msg"
+msgstr ""
+
+msgid "Go to righthand column"
+msgstr ""
+
+msgid "Go to the first file in the list"
+msgstr ""
+
+msgid "Go to the first line of the file"
+msgstr ""
+
+msgid "Go to the last file in the list"
+msgstr ""
+
+msgid "Go to the last line of the file"
+msgstr ""
+
+msgid "Go to the matching bracket"
+msgstr ""
+
+msgid "Go to the next file in the list"
+msgstr ""
+
+msgid "Go to the previous file in the list"
+msgstr ""
+
+msgid "Got 0 parsable lines from command: %s"
+msgstr ""
+
+msgid "Guide column \"%s\" is invalid"
+msgstr ""
+
+msgid "Hard wrapping of overlong lines"
+msgstr ""
+
+msgid "Help is not available"
+msgstr ""
+
+msgid "Help mode"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "I can't find my home directory!  Wah!"
+msgstr ""
+
+msgid "If needed, use nano with the -I option to adjust your nanorc settings.\n"
+msgstr ""
+
+msgid ""
+"If you have selected text with the mark and then search to replace, only matches in the selected text will be replaced.\n"
+"\n"
+" The following function keys are available in Search mode:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"If you just need another blank buffer, do not enter any command.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"If you need another blank buffer, do not enter any filename, or type in a nonexistent filename at the prompt and press Enter.\n"
+"\n"
+" The following function keys are available in Insert File mode:\n"
+"\n"
+msgstr ""
+
+msgid "In Selection:  "
+msgstr ""
+
+msgid "Indent"
+msgstr ""
+
+msgid "Indent the current line (or marked lines)"
+msgstr ""
+
+msgid ""
+"Insert File Help Text\n"
+"\n"
+" Type in the name of a file to be inserted into the current file buffer at the current cursor location.\n"
+"\n"
+" If you have compiled nano with multiple file buffer support, and enable multiple file buffers with the -F or --multibuffer command line flags, the Meta-F toggle, or a nanorc file, inserting a file will cause it to be loaded into a separate buffer (use Meta-< and > to switch between file buffers).  "
+msgstr ""
+
+msgid "Insert a newline at the cursor position"
+msgstr ""
+
+msgid "Insert a tab at the cursor position"
+msgstr ""
+
+msgid "Insert another file into current buffer (or into new buffer)"
+msgstr ""
+
+msgid "Insert the next keystroke verbatim"
+msgstr ""
+
+msgid "Interrupted"
+msgstr ""
+
+msgid "Invalid back reference"
+msgstr ""
+
+msgid "Invalid backup directory: %s\n"
+msgstr ""
+
+msgid "Invalid character class name"
+msgstr ""
+
+msgid "Invalid collation character"
+msgstr ""
+
+msgid "Invalid content of \\{\\}"
+msgstr ""
+
+msgid "Invalid line or column number"
+msgstr ""
+
+msgid "Invalid operating directory: %s\n"
+msgstr ""
+
+msgid "Invalid preceding regular expression"
+msgstr ""
+
+msgid "Invalid range end"
+msgstr ""
+
+msgid "Invalid regular expression"
+msgstr ""
+
+msgid "Invalid search modifier '%c'"
+msgstr ""
+
+msgid "Invoke a program to format/arrange/manipulate the buffer"
+msgstr ""
+
+msgid "Invoke the linter, if available"
+msgstr ""
+
+msgid "Invoke the spell checker, if available"
+msgstr ""
+
+msgid "Invoking linter, please wait"
+msgstr ""
+
+msgid "Justified file"
+msgstr ""
+
+msgid "Justified paragraph"
+msgstr ""
+
+msgid "Justified selection"
+msgstr ""
+
+msgid "Justify"
+msgstr ""
+
+msgid "Justify the current paragraph"
+msgstr ""
+
+msgid "Justify the entire file"
+msgstr ""
+
+msgid "Keep the line below the title bar empty"
+msgstr ""
+
+msgid "Key is invalid in view mode"
+msgstr ""
+
+msgid "Key name %s is invalid"
+msgstr ""
+
+msgid "Keystroke %s may not be rebound"
+msgstr ""
+
+msgid "Last File"
+msgstr ""
+
+msgid "Last Line"
+msgstr ""
+
+msgid "Left Column"
+msgstr ""
+
+msgid "Let Bsp and Del erase a marked region"
+msgstr ""
+
+msgid "Line numbering"
+msgstr ""
+
+msgid "Linting --"
+msgstr ""
+
+msgid "Log & read location of cursor position"
+msgstr ""
+
+msgid "Log & read search/replace string history"
+msgstr ""
+
+msgid "Long option"
+msgstr ""
+
+msgid "Mac"
+msgstr ""
+
+msgid "Mac Format"
+msgstr ""
+
+msgid "Macro is empty"
+msgstr ""
+
+msgid ""
+"Main nano help text\n"
+"\n"
+" The nano editor is designed to emulate the functionality and ease-of-use of the UW Pico text editor.  There are four main sections of the editor.  The top line shows the program version, the current filename being edited, and whether or not the file has been modified.  Next is the main editor window showing the file being edited.  The status line is the third line from the bottom and shows important messages.  "
+msgstr ""
+
+msgid "Make Ctrl+Right stop at word ends"
+msgstr ""
+
+msgid "Mark Set"
+msgstr ""
+
+msgid "Mark Text"
+msgstr ""
+
+msgid "Mark Unset"
+msgstr ""
+
+msgid "Mark text starting from the cursor position"
+msgstr ""
+
+msgid "Meaning"
+msgstr ""
+
+msgid "Memory exhausted"
+msgstr ""
+
+msgid "Missing argument after '%s'"
+msgstr ""
+
+msgid "Missing color name"
+msgstr ""
+
+msgid "Missing key name"
+msgstr ""
+
+msgid "Missing option"
+msgstr ""
+
+msgid "Missing regex string after '%s' command"
+msgstr ""
+
+msgid "Missing syntax name"
+msgstr ""
+
+msgid "Mistakes in '%s'"
+msgstr ""
+
+msgid "Modified"
+msgstr ""
+
+msgid "Mouse support"
+msgstr ""
+
+msgid "Must specify a function to bind the key to"
+msgstr ""
+
+msgid "Must specify a menu (or \"all\") in which to bind/unbind the key"
+msgstr ""
+
+msgid "Nano is out of memory!\n"
+msgstr ""
+
+msgid "New Buffer"
+msgstr ""
+
+msgid "New File"
+msgstr ""
+
+msgid "Newer"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Next Block"
+msgstr ""
+
+msgid "Next File"
+msgstr ""
+
+msgid "Next Line"
+msgstr ""
+
+msgid "Next Lint Msg"
+msgstr ""
+
+msgid "Next Page"
+msgstr ""
+
+msgid "Next Word"
+msgstr ""
+
+msgid "Next word..."
+msgstr ""
+
+msgid "Nn"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Conversion"
+msgstr ""
+
+msgid "No Replace"
+msgstr ""
+
+msgid "No current search pattern"
+msgstr ""
+
+msgid "No file name"
+msgstr ""
+
+msgid "No formatter is defined for this type of file"
+msgstr ""
+
+msgid "No further matches"
+msgstr ""
+
+msgid "No key is bound to function '%s' in menu '%s'.  Exiting.\n"
+msgstr ""
+
+msgid "No linter is defined for this type of file"
+msgstr ""
+
+msgid "No match"
+msgstr ""
+
+msgid "No matches"
+msgstr ""
+
+msgid "No matching bracket"
+msgstr ""
+
+msgid "No messages for this file"
+msgstr ""
+
+msgid "No more open file buffers"
+msgstr ""
+
+msgid "No previous regular expression"
+msgstr ""
+
+msgid "No word fragment"
+msgstr ""
+
+msgid "Non-blank characters required"
+msgstr ""
+
+msgid "Not a bracket"
+msgstr ""
+
+msgid "Nothing changed"
+msgstr ""
+
+msgid "Nothing to redo"
+msgstr ""
+
+msgid "Nothing to undo"
+msgstr ""
+
+msgid "Nothing was cut"
+msgstr ""
+
+msgid "Older"
+msgstr ""
+
+msgid "Option"
+msgstr ""
+
+msgid "Option \"%s\" requires an argument"
+msgstr ""
+
+msgid "Option %s is ignored; it is the default\n"
+msgstr ""
+
+msgid "Paste Text"
+msgstr ""
+
+msgid "Paste the contents of cutbuffer at current cursor position"
+msgstr ""
+
+msgid ""
+"Path %s is not a directory and needs to be.\n"
+"Nano will be unable to load or save search history or cursor positions.\n"
+msgstr ""
+
+msgid "Path '%s' is not a directory"
+msgstr ""
+
+msgid "Path '%s' is not accessible"
+msgstr ""
+
+msgid "Path '%s': %s"
+msgstr ""
+
+msgid "Pipe Text"
+msgstr ""
+
+msgid "Pipe the current buffer (or marked region) to the command"
+msgstr ""
+
+msgid "Premature end of regular expression"
+msgstr ""
+
+msgid "Prepend"
+msgstr ""
+
+msgid "Prepend Selection to File"
+msgstr ""
+
+msgid "Preserve XON (^Q) and XOFF (^S) keys"
+msgstr ""
+
+msgid "Prev Block"
+msgstr ""
+
+msgid "Prev File"
+msgstr ""
+
+msgid "Prev Line"
+msgstr ""
+
+msgid "Prev Lint Msg"
+msgstr ""
+
+msgid "Prev Page"
+msgstr ""
+
+msgid "Prev Word"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print version information and exit"
+msgstr ""
+
+msgid "Problems with history file"
+msgstr ""
+
+msgid "Program '%s' complained"
+msgstr ""
+
+msgid "Read %zu line"
+msgid_plural "Read %zu lines"
+msgstr[0] ""
+
+msgid "Read %zu line (Converted from DOS and Mac format)"
+msgid_plural "Read %zu lines (Converted from DOS and Mac format)"
+msgstr[0] ""
+
+msgid "Read %zu line (Converted from DOS format)"
+msgid_plural "Read %zu lines (Converted from DOS format)"
+msgstr[0] ""
+
+msgid "Read %zu line (Converted from Mac format)"
+msgid_plural "Read %zu lines (Converted from Mac format)"
+msgstr[0] ""
+
+msgid "Read File"
+msgstr ""
+
+msgid "Read a file into a new buffer by default"
+msgstr ""
+
+msgid "Reading data from keyboard; type ^D or ^D^D to finish.\n"
+msgstr ""
+
+msgid "Reading from FIFO..."
+msgstr ""
+
+msgid "Reading..."
+msgstr ""
+
+msgid "Recall the next search/replace string"
+msgstr ""
+
+msgid "Recall the previous search/replace string"
+msgstr ""
+
+msgid "Received SIGHUP or SIGTERM\n"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Recording a macro..."
+msgstr ""
+
+msgid "Redid %s"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Redo the last undone operation"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Refresh (redraw) the current screen"
+msgstr ""
+
+msgid "Refresh the file list"
+msgstr ""
+
+msgid "Regex strings must begin and end with a \" character"
+msgstr ""
+
+msgid "Regexp"
+msgstr ""
+
+msgid "Regular expression to match quoting"
+msgstr ""
+
+msgid "Regular expression too big"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace a string or a regular expression"
+msgstr ""
+
+msgid "Replace this instance?"
+msgstr ""
+
+msgid "Replace with"
+msgstr ""
+
+msgid "Replaced %zd occurrence"
+msgid_plural "Replaced %zd occurrences"
+msgstr[0] ""
+
+msgid "Requested fill size \"%s\" is invalid"
+msgstr ""
+
+msgid "Requested tab size \"%s\" is invalid"
+msgstr ""
+
+msgid "Restrict access to the filesystem"
+msgstr ""
+
+msgid "Restricted"
+msgstr ""
+
+msgid "Reverse the direction of the search"
+msgstr ""
+
+msgid "Right Column"
+msgstr ""
+
+msgid "Run Macro"
+msgstr ""
+
+msgid "Run the last recorded macro"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save a file by default in Unix format"
+msgstr ""
+
+msgid "Save backups of existing files"
+msgstr ""
+
+msgid "Save file under DIFFERENT NAME? "
+msgstr ""
+
+msgid "Save file without prompting"
+msgstr ""
+
+msgid "Save modified buffer before linting?"
+msgstr ""
+
+msgid "Save modified buffer? "
+msgstr ""
+
+msgid "Scroll Down"
+msgstr ""
+
+msgid "Scroll Up"
+msgstr ""
+
+msgid "Scroll down one line without moving the cursor textually"
+msgstr ""
+
+msgid "Scroll per half-screen, not per line"
+msgstr ""
+
+msgid "Scroll up one line without moving the cursor textually"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid ""
+"Search Command Help Text\n"
+"\n"
+" Enter the words or characters you would like to search for, and then press Enter.  If there is a match for the text you entered, the screen will be updated to the location of the nearest match for the search string.\n"
+"\n"
+" The previous search string will be shown in brackets after the search prompt.  Hitting Enter without entering any text will perform the previous search.  "
+msgstr ""
+
+msgid "Search Wrapped"
+msgstr ""
+
+msgid "Search backward for a string"
+msgstr ""
+
+msgid "Search backward for a string or a regular expression"
+msgstr ""
+
+msgid "Search forward for a string"
+msgstr ""
+
+msgid "Search forward for a string or a regular expression"
+msgstr ""
+
+msgid "Search next occurrence backward"
+msgstr ""
+
+msgid "Search next occurrence forward"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+msgid "Set operating directory"
+msgstr ""
+
+msgid "Set width for hard-wrap and justify"
+msgstr ""
+
+msgid "Set width of a tab to #cols columns"
+msgstr ""
+
+msgid "Show a guiding bar at this column"
+msgstr ""
+
+msgid "Show cursor in file browser & help text"
+msgstr ""
+
+msgid "Show line numbers in front of the text"
+msgstr ""
+
+msgid "Show this help text and exit"
+msgstr ""
+
+msgid "Smart home key"
+msgstr ""
+
+msgid "Soft wrapping of overlong lines"
+msgstr ""
+
+msgid "Someone else is also editing this file"
+msgstr ""
+
+msgid "Sorry! Nano crashed!  Code: %d.  Please report a bug.\n"
+msgstr ""
+
+msgid "Special thanks to:"
+msgstr ""
+
+msgid "Specified rcfile does not exist\n"
+msgstr ""
+
+msgid ""
+"Spell Check Help Text\n"
+"\n"
+" The spell checker checks the spelling of all text in the current file.  When an unknown word is encountered, it is highlighted and a replacement can be edited.  It will then prompt to replace every instance of the given misspelled word in the current file, or, if you have selected text with the mark, in the selected text.\n"
+"\n"
+" The following function keys are available in Spell Check mode:\n"
+"\n"
+msgstr ""
+
+msgid "Start/stop recording a macro"
+msgstr ""
+
+msgid "Stopped recording"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Suspend the editor (if suspension is enabled)"
+msgstr ""
+
+msgid "Suspension"
+msgstr ""
+
+msgid "Suspension is not enabled"
+msgstr ""
+
+msgid "Switch to the next file buffer"
+msgstr ""
+
+msgid "Switch to the previous file buffer"
+msgstr ""
+
+msgid "Syntax \"%s\" has no color commands"
+msgstr ""
+
+msgid "Syntax definition to use for coloring"
+msgstr ""
+
+msgid "Tab"
+msgstr ""
+
+msgid "Thank you for using nano!"
+msgstr ""
+
+msgid "The \"default\" syntax does not accept '%s' regexes"
+msgstr ""
+
+msgid "The \"default\" syntax does not accept extensions"
+msgstr ""
+
+msgid "The \"none\" syntax is reserved"
+msgstr ""
+
+msgid "The Free Software Foundation"
+msgstr ""
+
+msgid ""
+"The bottom two lines show the most commonly used shortcuts in the editor.\n"
+"\n"
+" Shortcuts are written as follows: Control-key sequences are notated with a '^' and can be entered either by using the Ctrl key or pressing the Esc key twice.  Meta-key sequences are notated with 'M-' and can be entered using either the Alt, Cmd, or Esc key, depending on your keyboard setup.  "
+msgstr ""
+
+msgid "The nano text editor"
+msgstr ""
+
+msgid "The working directory has disappeared"
+msgstr ""
+
+msgid "This function is disabled in restricted mode"
+msgstr ""
+
+msgid "This is the only occurrence"
+msgstr ""
+
+msgid "This message is for unopened file %s, open it in a new buffer?"
+msgstr ""
+
+msgid "Throw away the current line (or marked region)"
+msgstr ""
+
+msgid "To Bracket"
+msgstr ""
+
+msgid "To Files"
+msgstr ""
+
+msgid "To Linter"
+msgstr ""
+
+msgid "To Spell"
+msgstr ""
+
+msgid ""
+"To place the cursor on a specific line of a file, put the line number with\n"
+"a '+' before the filename.  The column number can be added after a comma.\n"
+msgstr ""
+
+msgid "Toggle appending"
+msgstr ""
+
+msgid "Toggle backing up of the original file"
+msgstr ""
+
+msgid "Toggle prepending"
+msgstr ""
+
+msgid "Toggle the case sensitivity of the search"
+msgstr ""
+
+msgid "Toggle the use of DOS format"
+msgstr ""
+
+msgid "Toggle the use of Mac format"
+msgstr ""
+
+msgid "Toggle the use of a new buffer"
+msgstr ""
+
+msgid "Toggle the use of regular expressions"
+msgstr ""
+
+msgid "Too many backup files?"
+msgstr ""
+
+msgid "Too many errors from stdin\n"
+msgstr ""
+
+msgid "Too tiny"
+msgstr ""
+
+msgid "Top Row"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Trim tail spaces when hard-wrapping"
+msgstr ""
+
+msgid "Try and complete the current word"
+msgstr ""
+
+msgid "Two single-column characters required"
+msgstr ""
+
+msgid "Type '%s -h' for a list of available options.\n"
+msgstr ""
+
+msgid ""
+"Unable to create directory %s: %s\n"
+"It is required for saving/loading search history or cursor positions.\n"
+msgstr ""
+
+msgid "Unbindable key: M-["
+msgstr ""
+
+msgid "Unbindable key: M-^%c"
+msgstr ""
+
+msgid "Unbindable key: ^["
+msgstr ""
+
+msgid "Unbound key"
+msgstr ""
+
+msgid "Unbound key: %c"
+msgstr ""
+
+msgid "Unbound key: M-%c"
+msgstr ""
+
+msgid "Unbound key: Sh-M-%c"
+msgstr ""
+
+msgid "Unbound key: ^%c"
+msgstr ""
+
+msgid "Undid %s"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo the last operation"
+msgstr ""
+
+msgid "Unfindable word: %s"
+msgstr ""
+
+msgid "Unicode Input: %s"
+msgstr ""
+
+msgid "Unindent"
+msgstr ""
+
+msgid "Unindent the current line (or marked lines)"
+msgstr ""
+
+msgid "Unknown option \"%s\""
+msgstr ""
+
+msgid "Unknown sequence"
+msgstr ""
+
+msgid "Unknown syntax name: %s"
+msgstr ""
+
+msgid "Unmatched ( or \\("
+msgstr ""
+
+msgid "Unmatched ) or \\)"
+msgstr ""
+
+msgid "Unmatched [, [^, [:, [., or [="
+msgstr ""
+
+msgid "Unmatched \\{"
+msgstr ""
+
+msgid "Unpaired quote in syntax name"
+msgstr ""
+
+msgid ""
+"Usage: nano [OPTIONS] [[+LINE[,COLUMN]] FILE]...\n"
+"\n"
+msgstr ""
+
+msgid "Use \"fg\" to return to nano.\n"
+msgstr ""
+
+msgid "Use (vim-style) lock files"
+msgstr ""
+
+msgid "Use bold instead of reverse video text"
+msgstr ""
+
+msgid "Use only this file for configuring nano"
+msgstr ""
+
+msgid "Verbatim"
+msgstr ""
+
+msgid "Verbatim Input"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "View mode (read-only)"
+msgstr ""
+
+msgid "Welcome to nano.  For basic help, type Ctrl+G."
+msgstr ""
+
+msgid ""
+"When a filename is '-', nano reads data from standard input.\n"
+"\n"
+msgstr ""
+
+msgid "When soft-wrapping, do it at whitespace"
+msgstr ""
+
+msgid "Where Is"
+msgstr ""
+
+msgid "Where Was"
+msgstr ""
+
+msgid "Which other characters are word parts"
+msgstr ""
+
+msgid "Whitespace display"
+msgstr ""
+
+msgid "Wipe status bar upon next keystroke"
+msgstr ""
+
+msgid "Word Count"
+msgstr ""
+
+msgid ""
+"Write File Help Text\n"
+"\n"
+" Type the name that you wish to save the current file as and press Enter to save the file.\n"
+"\n"
+" If you have selected text with the mark, you will be prompted to save only the selected portion to a separate file.  To reduce the chance of overwriting the current file with just a portion of it, the current filename is not the default in this mode.\n"
+"\n"
+" The following function keys are available in Write File mode:\n"
+"\n"
+msgstr ""
+
+msgid "Write Out"
+msgstr ""
+
+msgid "Write Selection to File"
+msgstr ""
+
+msgid "Write the current buffer (or the marked region) to disk"
+msgstr ""
+
+msgid "Writing to FIFO..."
+msgstr ""
+
+msgid "Writing..."
+msgstr ""
+
+msgid "Wrote %zu line"
+msgid_plural "Wrote %zu lines"
+msgstr[0] ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yy"
+msgstr ""
+
+msgid "Zap Text"
+msgstr ""
+
+msgid "addition"
+msgstr ""
+
+msgid "and anyone else we forgot..."
+msgstr ""
+
+msgid "comment"
+msgstr ""
+
+msgid "cut"
+msgstr ""
+
+msgid "deletion"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "enable/disable"
+msgstr ""
+
+msgid "enabled"
+msgstr ""
+
+msgid "erasure"
+msgstr ""
+
+msgid "filtering"
+msgstr ""
+
+msgid "formatting"
+msgstr ""
+
+msgid "indent"
+msgstr ""
+
+msgid "insertion"
+msgstr ""
+
+msgid "justification"
+msgstr ""
+
+msgid "line %zd/%zd (%d%%), col %zu/%zu (%d%%), char %zu/%zu (%d%%)"
+msgstr ""
+
+msgid "line break"
+msgstr ""
+
+msgid "line join"
+msgstr ""
+
+msgid "magic_file(%s) failed: %s"
+msgstr ""
+
+msgid "magic_load() failed: %s"
+msgstr ""
+
+msgid "paste"
+msgstr ""
+
+msgid "replacement"
+msgstr ""
+
+msgid "spelling correction"
+msgstr ""
+
+msgid "the many translators and the TP"
+msgstr ""
+
+msgid "uncomment"
+msgstr ""
+
+msgid "unindent"
+msgstr ""
+
+msgid "version"
+msgstr ""

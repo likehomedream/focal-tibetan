@@ -1,0 +1,616 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ufw\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-04-13 06:30+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:06+0000\n"
+
+msgid "\n"
+msgstr ""
+
+msgid ""
+"\n"
+"(None)"
+msgstr ""
+
+msgid ""
+"\n"
+"Error applying application rules."
+msgstr ""
+
+msgid ""
+"\n"
+"Usage: %(progname)s %(command)s\n"
+"\n"
+"%(commands)s:\n"
+" %(enable)-31s enables the firewall\n"
+" %(disable)-31s disables the firewall\n"
+" %(default)-31s set default policy\n"
+" %(logging)-31s set logging to %(level)s\n"
+" %(allow)-31s add allow %(rule)s\n"
+" %(deny)-31s add deny %(rule)s\n"
+" %(reject)-31s add reject %(rule)s\n"
+" %(limit)-31s add limit %(rule)s\n"
+" %(delete)-31s delete %(urule)s\n"
+" %(insert)-31s insert %(urule)s at %(number)s\n"
+" %(route)-31s add route %(urule)s\n"
+" %(route-delete)-31s delete route %(urule)s\n"
+" %(route-insert)-31s insert route %(urule)s at %(number)s\n"
+" %(reload)-31s reload firewall\n"
+" %(reset)-31s reset firewall\n"
+" %(status)-31s show firewall status\n"
+" %(statusnum)-31s show firewall status as numbered list of %(rules)s\n"
+" %(statusverbose)-31s show verbose firewall status\n"
+" %(show)-31s show firewall report\n"
+" %(version)-31s display version information\n"
+"\n"
+"%(appcommands)s:\n"
+" %(applist)-31s list application profiles\n"
+" %(appinfo)-31s show information on %(profile)s\n"
+" %(appupdate)-31s update %(profile)s\n"
+" %(appdefault)-31s set default application policy\n"
+msgstr ""
+
+msgid " (skipped reloading firewall)"
+msgstr ""
+
+msgid " Attempted rules successfully unapplied."
+msgstr ""
+
+msgid " Some rules could not be unapplied."
+msgstr ""
+
+msgid "%s is group writable!"
+msgstr ""
+
+msgid "%s is world writable!"
+msgstr ""
+
+msgid "'%(f)s' file '%(name)s' does not exist"
+msgstr ""
+
+msgid "'%s' already exists. Aborting"
+msgstr ""
+
+msgid "'%s' does not exist"
+msgstr ""
+
+msgid "'%s' is not writable"
+msgstr ""
+
+msgid "'route delete NUM' unsupported. Use 'delete NUM' instead."
+msgstr ""
+
+msgid "(be sure to update your rules accordingly)"
+msgstr ""
+
+msgid ": Need at least python 2.6)\n"
+msgstr ""
+
+msgid "Aborted"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Added user rules (see 'ufw status' for running firewall):"
+msgstr ""
+
+msgid "Adding IPv6 rule failed: IPv6 not enabled"
+msgstr ""
+
+msgid "Available applications:"
+msgstr ""
+
+msgid "Backing up '%(old)s' to '%(new)s'\n"
+msgstr ""
+
+msgid "Bad destination address"
+msgstr ""
+
+msgid "Bad interface name"
+msgstr ""
+
+msgid "Bad interface name: can't use interface aliases"
+msgstr ""
+
+msgid "Bad interface name: reserved character: '!'"
+msgstr ""
+
+msgid "Bad interface type"
+msgstr ""
+
+msgid "Bad port"
+msgstr ""
+
+msgid "Bad port '%s'"
+msgstr ""
+
+msgid "Bad source address"
+msgstr ""
+
+msgid "Cannot insert rule at position '%d'"
+msgstr ""
+
+msgid "Cannot insert rule at position '%s'"
+msgstr ""
+
+msgid "Cannot specify 'all' with '--add-new'"
+msgstr ""
+
+msgid "Cannot specify insert and delete"
+msgstr ""
+
+msgid "Checking ip6tables\n"
+msgstr ""
+
+msgid "Checking iptables\n"
+msgstr ""
+
+msgid "Checking raw ip6tables\n"
+msgstr ""
+
+msgid "Checking raw iptables\n"
+msgstr ""
+
+msgid "Checks disabled"
+msgstr ""
+
+msgid "Command '%s' already exists"
+msgstr ""
+
+msgid ""
+"Command may disrupt existing ssh connections. Proceed with operation "
+"(%(yes)s|%(no)s)? "
+msgstr ""
+
+msgid "Could not back out rule '%s'"
+msgstr ""
+
+msgid "Could not delete non-existent rule"
+msgstr ""
+
+msgid "Could not find '%s'. Aborting"
+msgstr ""
+
+msgid "Could not find a profile matching '%s'"
+msgstr ""
+
+msgid "Could not find executable for '%s'"
+msgstr ""
+
+msgid "Could not find profile '%s'"
+msgstr ""
+
+msgid "Could not find protocol"
+msgstr ""
+
+msgid "Could not find rule '%d'"
+msgstr ""
+
+msgid "Could not find rule '%s'"
+msgstr ""
+
+msgid "Could not get listening status"
+msgstr ""
+
+msgid "Could not get statistics for '%s'"
+msgstr ""
+
+msgid "Could not load logging rules"
+msgstr ""
+
+msgid "Could not normalize destination address"
+msgstr ""
+
+msgid "Could not normalize source address"
+msgstr ""
+
+msgid "Could not perform '%s'"
+msgstr ""
+
+msgid "Could not set LOGLEVEL"
+msgstr ""
+
+msgid "Could not update running firewall"
+msgstr ""
+
+msgid "Couldn't determine iptables version"
+msgstr ""
+
+msgid "Couldn't find '%s'"
+msgstr ""
+
+msgid "Couldn't find parent pid for '%s'"
+msgstr ""
+
+msgid "Couldn't find pid (is /proc mounted?)"
+msgstr ""
+
+msgid "Couldn't open '%s' for reading"
+msgstr ""
+
+msgid "Couldn't stat '%s'"
+msgstr ""
+
+msgid "Couldn't update application rules"
+msgstr ""
+
+msgid "Couldn't update rules file"
+msgstr ""
+
+msgid "Couldn't update rules file for logging"
+msgstr ""
+
+msgid "Default %(direction)s policy changed to '%(policy)s'\n"
+msgstr ""
+
+msgid "Default application policy changed to '%s'"
+msgstr ""
+
+msgid "Default: %(in)s (incoming), %(out)s (outgoing), %(routed)s (routed)"
+msgstr ""
+
+msgid ""
+"Deleting:\n"
+" %(rule)s\n"
+"Proceed with operation (%(yes)s|%(no)s)? "
+msgstr ""
+
+msgid ""
+"Description: %s\n"
+"\n"
+msgstr ""
+
+msgid "Duplicate profile '%s', using last found"
+msgstr ""
+
+msgid "ERROR: this script should not be SGID"
+msgstr ""
+
+msgid "ERROR: this script should not be SUID"
+msgstr ""
+
+msgid "Firewall is active and enabled on system startup"
+msgstr ""
+
+msgid "Firewall not enabled (skipping reload)"
+msgstr ""
+
+msgid "Firewall reloaded"
+msgstr ""
+
+msgid "Firewall stopped and disabled on system startup"
+msgstr ""
+
+msgid "Found exact match"
+msgstr ""
+
+msgid "Found exact match, excepting comment"
+msgstr ""
+
+msgid "Found multiple matches for '%s'. Please use exact profile name"
+msgstr ""
+
+msgid ""
+"Found non-action/non-logtype/comment match (%(xa)s/%(ya)s/'%(xc)s' "
+"%(xl)s/%(yl)s/'%(yc)s')"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "IPv6 support not enabled"
+msgstr ""
+
+msgid "Improper rule syntax"
+msgstr ""
+
+msgid "Improper rule syntax ('%s' specified with app rule)"
+msgstr ""
+
+msgid "Insert position '%s' is not a valid position"
+msgstr ""
+
+msgid "Invalid '%s' clause"
+msgstr ""
+
+msgid "Invalid 'from' clause"
+msgstr ""
+
+msgid "Invalid 'port' clause"
+msgstr ""
+
+msgid "Invalid 'proto' clause"
+msgstr ""
+
+msgid "Invalid 'to' clause"
+msgstr ""
+
+msgid "Invalid IP version '%s'"
+msgstr ""
+
+msgid "Invalid IPv6 address with protocol '%s'"
+msgstr ""
+
+msgid "Invalid interface clause"
+msgstr ""
+
+msgid "Invalid interface clause for route rule"
+msgstr ""
+
+msgid "Invalid log level '%s'"
+msgstr ""
+
+msgid "Invalid log type '%s'"
+msgstr ""
+
+msgid "Invalid option"
+msgstr ""
+
+msgid "Invalid policy '%(policy)s' for '%(chain)s'"
+msgstr ""
+
+msgid "Invalid port with protocol '%s'"
+msgstr ""
+
+msgid "Invalid ports in profile '%s'"
+msgstr ""
+
+msgid "Invalid position '"
+msgstr ""
+
+msgid "Invalid position '%d'"
+msgstr ""
+
+msgid "Invalid profile"
+msgstr ""
+
+msgid "Invalid profile name"
+msgstr ""
+
+msgid "Invalid token '%s'"
+msgstr ""
+
+msgid "Logging disabled"
+msgstr ""
+
+msgid "Logging enabled"
+msgstr ""
+
+msgid "Logging: "
+msgstr ""
+
+msgid "Missing policy for '%s'"
+msgstr ""
+
+msgid "Mixed IP versions for 'from' and 'to'"
+msgstr ""
+
+msgid "Must specify 'tcp' or 'udp' with multiple ports"
+msgstr ""
+
+msgid "Need 'from' or 'to' with '%s'"
+msgstr ""
+
+msgid "Need 'to' or 'from' clause"
+msgstr ""
+
+msgid "New profiles:"
+msgstr ""
+
+msgid "No rules found for application profile"
+msgstr ""
+
+msgid "Option 'comment' missing required argument"
+msgstr ""
+
+msgid "Option 'log' not allowed here"
+msgstr ""
+
+msgid "Option 'log-all' not allowed here"
+msgstr ""
+
+msgid "Port ranges must be numeric"
+msgstr ""
+
+msgid "Port:"
+msgstr ""
+
+msgid "Ports:"
+msgstr ""
+
+msgid "Profile '%(fn)s' has empty required field '%(f)s'"
+msgstr ""
+
+msgid "Profile '%(fn)s' missing required field '%(f)s'"
+msgstr ""
+
+msgid "Profile: %s\n"
+msgstr ""
+
+msgid "Profiles directory does not exist"
+msgstr ""
+
+msgid "Protocol mismatch (from/to)"
+msgstr ""
+
+msgid "Protocol mismatch with specified protocol %s"
+msgstr ""
+
+msgid ""
+"Resetting all rules to installed defaults. Proceed with operation "
+"(%(yes)s|%(no)s)? "
+msgstr ""
+
+msgid ""
+"Resetting all rules to installed defaults. This may disrupt existing ssh "
+"connections. Proceed with operation (%(yes)s|%(no)s)? "
+msgstr ""
+
+msgid "Rule added"
+msgstr ""
+
+msgid "Rule changed after normalization"
+msgstr ""
+
+msgid "Rule deleted"
+msgstr ""
+
+msgid "Rule inserted"
+msgstr ""
+
+msgid "Rule updated"
+msgstr ""
+
+msgid "Rules updated"
+msgstr ""
+
+msgid "Rules updated (v6)"
+msgstr ""
+
+msgid "Rules updated for profile '%s'"
+msgstr ""
+
+msgid "Skipped reloading firewall"
+msgstr ""
+
+msgid "Skipping '%(value)s': value too long for '%(field)s'"
+msgstr ""
+
+msgid "Skipping '%s': also in /etc/services"
+msgstr ""
+
+msgid "Skipping '%s': couldn't process"
+msgstr ""
+
+msgid "Skipping '%s': couldn't stat"
+msgstr ""
+
+msgid "Skipping '%s': field too long"
+msgstr ""
+
+msgid "Skipping '%s': invalid name"
+msgstr ""
+
+msgid "Skipping '%s': name too long"
+msgstr ""
+
+msgid "Skipping '%s': too big"
+msgstr ""
+
+msgid "Skipping '%s': too many files read already"
+msgstr ""
+
+msgid "Skipping IPv6 application rule. Need at least iptables 1.4"
+msgstr ""
+
+msgid "Skipping adding existing rule"
+msgstr ""
+
+msgid "Skipping inserting existing rule"
+msgstr ""
+
+msgid "Skipping malformed tuple (bad length): %s"
+msgstr ""
+
+msgid "Skipping malformed tuple (iface): %s"
+msgstr ""
+
+msgid "Skipping malformed tuple: %s"
+msgstr ""
+
+msgid "Skipping unsupported IPv4 '%s' rule"
+msgstr ""
+
+msgid "Skipping unsupported IPv6 '%s' rule"
+msgstr ""
+
+msgid ""
+"Status: active\n"
+"%(log)s\n"
+"%(pol)s\n"
+"%(app)s%(status)s"
+msgstr ""
+
+msgid "Status: active%s"
+msgstr ""
+
+msgid "Status: inactive"
+msgstr ""
+
+msgid "Title: %s\n"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "Unknown policy '%s'"
+msgstr ""
+
+msgid "Unsupported action '%s'"
+msgstr ""
+
+msgid "Unsupported default policy"
+msgstr ""
+
+msgid "Unsupported direction '%s'"
+msgstr ""
+
+msgid "Unsupported policy '%s'"
+msgstr ""
+
+msgid "Unsupported policy for direction '%s'"
+msgstr ""
+
+msgid "Unsupported protocol '%s'"
+msgstr ""
+
+msgid "WARN: '%s' is world readable"
+msgstr ""
+
+msgid "WARN: '%s' is world writable"
+msgstr ""
+
+msgid "Wrong number of arguments"
+msgstr ""
+
+msgid "You need to be root to run this script"
+msgstr ""
+
+msgid "n"
+msgstr ""
+
+msgid "problem running"
+msgstr ""
+
+msgid "problem running sysctl"
+msgstr ""
+
+msgid ""
+"problem running ufw-init\n"
+"%s"
+msgstr ""
+
+msgid "running ufw-init"
+msgstr ""
+
+msgid "uid is %(uid)s but '%(path)s' is owned by %(st_uid)s"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "y"
+msgstr ""
+
+msgid "yes"
+msgstr ""

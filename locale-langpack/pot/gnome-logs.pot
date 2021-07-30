@@ -1,0 +1,391 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-logs master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-logs/issues\n"
+"PO-Revision-Date: 2020-04-04 14:42+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:04+0000\n"
+
+msgid "%H:%M"
+msgstr ""
+
+msgid "%H:%M:%S"
+msgstr ""
+
+msgid "%I:%M:%S %p"
+msgstr ""
+
+msgid "%T"
+msgstr ""
+
+msgid "%b %e %H:%M"
+msgstr ""
+
+msgid "%b %e %H:%M:%S"
+msgstr ""
+
+msgid "%b %e %Y %H:%M"
+msgstr ""
+
+msgid "%b %e %Y %H:%M:%S"
+msgstr ""
+
+msgid "%b %e %Y %l:%M %p"
+msgstr ""
+
+msgid "%b %e %Y %l:%M:%S %p"
+msgstr ""
+
+msgid "%b %e %l:%M %p"
+msgstr ""
+
+msgid "%b %e %l:%M:%S %p"
+msgstr ""
+
+msgid "%e %B %Y"
+msgstr ""
+
+msgid "%l:%M %p"
+msgstr ""
+
+msgid "%l:%M:%S %p"
+msgstr ""
+
+msgid "%s – %s"
+msgstr ""
+
+msgid "22 January 2016 or 1/22/2016"
+msgstr ""
+
+msgid "AM"
+msgstr ""
+
+msgid "AM/PM"
+msgstr ""
+
+msgid "Alerts"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Available Fields"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Audit Session"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Boot"
+msgstr ""
+
+msgid "Choose the boot from which to view logs"
+msgstr ""
+
+msgid "Current Boot"
+msgstr ""
+
+msgid "Defined By"
+msgstr ""
+
+msgid "Documentation"
+msgstr ""
+
+msgid "Entire Journal"
+msgstr ""
+
+msgid "Exact"
+msgstr ""
+
+msgid "Executable Path"
+msgstr ""
+
+msgid "Export logs to a file"
+msgstr ""
+
+msgid "From %s"
+msgstr ""
+
+msgid "GID"
+msgstr ""
+
+msgid "GNOME Logs"
+msgstr ""
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "How to sort list rows in the event view list"
+msgstr ""
+
+msgid "Hr"
+msgstr ""
+
+msgid "Ignore"
+msgstr ""
+
+msgid "Ignore warning"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Kernel Device"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Last 3 days"
+msgstr ""
+
+msgid "Log Viewer"
+msgstr ""
+
+msgid "Logs"
+msgstr ""
+
+msgid ""
+"Logs shows events from the systemd journal, and sorts them into categories, "
+"such as hardware and applications."
+msgstr ""
+
+msgid "Match complete string only"
+msgstr ""
+
+msgid "Match in any part of the string"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "No logs available"
+msgstr ""
+
+msgid "No results"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "PID"
+msgstr ""
+
+msgid "PM"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Previous Boot"
+msgstr ""
+
+msgid "Print version information and exit"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Process Name"
+msgstr ""
+
+msgid "Save logs"
+msgstr ""
+
+msgid "Search Type"
+msgstr ""
+
+msgid "Search all the logs of the current category"
+msgstr ""
+
+msgid "Sec"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Select End Date…"
+msgstr ""
+
+msgid "Select End Time…"
+msgstr ""
+
+msgid "Select Journal Field…"
+msgstr ""
+
+msgid "Select Start Date…"
+msgstr ""
+
+msgid "Select Start Time…"
+msgstr ""
+
+msgid "Select Timestamp Range of the Log Entries to be shown"
+msgstr ""
+
+msgid "Select a Journal Field to filter the Logs according to it"
+msgstr ""
+
+msgid "Select a start date"
+msgstr ""
+
+msgid "Select an end date"
+msgstr ""
+
+msgid "Select end time"
+msgstr ""
+
+msgid "Select journal field and timestamp range filtering options"
+msgstr ""
+
+msgid "Select start time"
+msgstr ""
+
+msgid "Sender"
+msgstr ""
+
+msgid "Set Custom Range…"
+msgstr ""
+
+msgid "Show Logs Starting From…"
+msgstr ""
+
+msgid "Show Logs from…"
+msgstr ""
+
+msgid "Sort list rows in ascending or descending order for the selected type"
+msgstr ""
+
+msgid "Starred"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Substring"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "Systemd Unit"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "UID"
+msgstr ""
+
+msgid "Unable to export log messages to a file"
+msgstr ""
+
+msgid "Unable to read system logs"
+msgstr ""
+
+msgid "Unable to read user logs"
+msgstr ""
+
+msgid "Until %s"
+msgstr ""
+
+msgid "Until…"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Usage"
+msgstr ""
+
+msgid ""
+"Using Logs you can search your logs by typing a search term, and view "
+"detailed information about each event by clicking on it."
+msgstr ""
+
+msgid "View and search logs"
+msgstr ""
+
+msgid "View detailed event logs for the system"
+msgstr ""
+
+msgid "What"
+msgstr ""
+
+msgid "When"
+msgstr ""
+
+msgid ""
+"Whether to ignore the warning that says you don’t have sufficient permission"
+" to view logs. If ignored, the warning won’t show up again."
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "_About Logs"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "log messages"
+msgstr ""
+
+msgid "log;journal;debug;error;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close a window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a new window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

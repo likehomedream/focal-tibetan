@@ -1,0 +1,128 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libsoup master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=libsoup&keywords=I18N+L10N&component=Misc\n"
+"PO-Revision-Date: 2018-08-15 03:07+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:07+0000\n"
+
+msgid "Cannot truncate SoupBodyInputStream"
+msgstr ""
+
+msgid "Can’t create a TLS server without a TLS certificate"
+msgstr ""
+
+msgid "Can’t import non-socket as SoupSocket"
+msgstr ""
+
+msgid "Can’t import unconnected socket"
+msgstr ""
+
+msgid "Connection terminated unexpectedly"
+msgstr ""
+
+msgid "Could not import existing socket: "
+msgstr ""
+
+msgid "Could not listen on address %s, port %d: "
+msgstr ""
+
+msgid "Could not parse HTTP request"
+msgstr ""
+
+msgid "Could not parse HTTP response"
+msgstr ""
+
+msgid "Could not parse URI “%s”"
+msgstr ""
+
+msgid "Failed to completely cache the resource"
+msgstr ""
+
+msgid "Header too big"
+msgstr ""
+
+msgid "Hostname has no base domain"
+msgstr ""
+
+msgid "Hostname is an IP address"
+msgstr ""
+
+msgid "Incorrect WebSocket “%s” header"
+msgstr ""
+
+msgid "Invalid WebSocket key"
+msgstr ""
+
+msgid "Invalid hostname"
+msgstr ""
+
+msgid "Invalid seek request"
+msgstr ""
+
+msgid "Invalid “%s” URI: %s"
+msgstr ""
+
+msgid "Network stream unexpectedly closed"
+msgstr ""
+
+msgid "No URI provided"
+msgstr ""
+
+msgid "No public-suffix list available."
+msgstr ""
+
+msgid "Not an HTTP URI"
+msgstr ""
+
+msgid "Not enough domains"
+msgstr ""
+
+msgid "Operation was cancelled"
+msgstr ""
+
+msgid "Operation would block"
+msgstr ""
+
+msgid "Output buffer is too small"
+msgstr ""
+
+msgid "Server ignored WebSocket handshake"
+msgstr ""
+
+msgid "Server rejected WebSocket handshake"
+msgstr ""
+
+msgid "Server requested unsupported extension"
+msgstr ""
+
+msgid "Server requested unsupported protocol"
+msgstr ""
+
+msgid "Server returned incorrect “%s” key"
+msgstr ""
+
+msgid "The server did not accept the WebSocket handshake."
+msgstr ""
+
+msgid "Unrecognized HTTP response encoding"
+msgstr ""
+
+msgid "Unsupported URI scheme “%s”"
+msgstr ""
+
+msgid "Unsupported WebSocket subprotocol"
+msgstr ""
+
+msgid "Unsupported WebSocket version"
+msgstr ""
+
+msgid "WebSocket handshake expected"
+msgstr ""

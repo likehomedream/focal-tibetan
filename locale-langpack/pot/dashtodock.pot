@@ -1,0 +1,384 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Dash to Dock\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-24 14:12+0000\n"
+"Last-Translator: 绿色圣光 <Unknown>\n"
+"Language-Team: Chinese (Simplified) <>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:17+0000\n"
+
+msgid ""
+"<span size=\"small\">This program comes with ABSOLUTELY NO WARRANTY.\n"
+"See the <a href=\"https://www.gnu.org/licenses/old-licenses/gpl-2.0.html\">GNU General Public License, version 2 or later</a> for details.</span>"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "All Windows"
+msgstr ""
+
+msgid "All windows"
+msgstr ""
+
+msgid "Animate <i>Show Applications</i>."
+msgstr ""
+
+msgid "Animation duration (s)"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Autohide"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Behavior for Middle-Click."
+msgstr ""
+
+msgid "Behavior for Shift+Middle-Click."
+msgstr ""
+
+msgid "Behaviour when clicking on the icon of a running application."
+msgstr ""
+
+msgid "Behaviour when scrolling on the icon of an application."
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Border width"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Click action"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Created by"
+msgstr ""
+
+msgid "Customize indicator style"
+msgstr ""
+
+msgid "Customize middle-click behavior"
+msgstr ""
+
+msgid "Customize minimum and maximum opacity values"
+msgstr ""
+
+msgid "Customize opacity"
+msgstr ""
+
+msgid "Customize running indicators"
+msgstr ""
+
+msgid "Customize the dash color"
+msgstr ""
+
+msgid "Customize windows counter indicators"
+msgstr ""
+
+msgid "Cycle through windows"
+msgstr ""
+
+msgid "Dash to Dock %s"
+msgstr ""
+
+msgid "Dashes"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid "Dock size limit"
+msgstr ""
+
+msgid "Dodge windows"
+msgstr ""
+
+msgid "Dots"
+msgstr ""
+
+msgid "Dynamic"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "Empty Trash"
+msgstr ""
+
+msgid ""
+"Enable Super+(0-9) as shortcuts to activate apps. It can also be used "
+"together with Shift and Ctrl."
+msgstr ""
+
+msgid "Enable Unity7 like glossy backlit items"
+msgstr ""
+
+msgid "Enable in fullscreen mode"
+msgstr ""
+
+msgid ""
+"Few customizations meant to integrate the dock with the default GNOME theme."
+" Alternatively, specific options can be enabled below."
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Fixed icon size: scroll to reveal other icons"
+msgstr ""
+
+msgid "Focus or show previews"
+msgstr ""
+
+msgid "Force straight corner"
+msgstr ""
+
+msgid ""
+"Hide the dock when it obstructs a window of the current application. More "
+"refined settings are available."
+msgstr ""
+
+msgid "Hide timeout (s)"
+msgstr ""
+
+msgid "Icon size limit"
+msgstr ""
+
+msgid ""
+"If disabled, these settings are accessible from gnome-tweak-tool or the "
+"extension website."
+msgstr ""
+
+msgid ""
+"If using autohide, the dock will appear for a short time when triggering the"
+" shortcut."
+msgstr ""
+
+msgid "Intelligent autohide"
+msgstr ""
+
+msgid "Intelligent autohide customization"
+msgstr ""
+
+msgid "Isolate monitors."
+msgstr ""
+
+msgid "Isolate workspaces."
+msgstr ""
+
+msgid "Launch new instance"
+msgstr ""
+
+msgid "Launchers"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Maximum opacity"
+msgstr ""
+
+msgid "Middle-Click action"
+msgstr ""
+
+msgid "Minimize"
+msgstr ""
+
+msgid "Minimize or overview"
+msgstr ""
+
+msgid "Minimize or show previews"
+msgstr ""
+
+msgid "Minimize window"
+msgstr ""
+
+msgid "Minimum opacity"
+msgstr ""
+
+msgid "Mount"
+msgstr ""
+
+msgid "Move the applications button at the beginning of the dock."
+msgstr ""
+
+msgid "Moves the dash out of the overview transforming it in a dock"
+msgstr ""
+
+msgid "Number overlay"
+msgstr ""
+
+msgid "Only focused application's windows"
+msgstr ""
+
+msgid "Only maximized windows"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Panel mode: extend to the screen edge"
+msgstr ""
+
+msgid "Position and size"
+msgstr ""
+
+msgid "Position on screen"
+msgstr ""
+
+msgid "Pressure threshold"
+msgstr ""
+
+msgid "Primary monitor"
+msgstr ""
+
+msgid "Push to show: require pressure to show the dock"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Raise window"
+msgstr ""
+
+msgid "Reset to defaults"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Save space reducing padding and border radius."
+msgstr ""
+
+msgid "Scroll action"
+msgstr ""
+
+msgid "Secondary monitor "
+msgstr ""
+
+msgid "Segmented"
+msgstr ""
+
+msgid "Set the background color for the dash."
+msgstr ""
+
+msgid "Shift+Click action"
+msgstr ""
+
+msgid "Shift+Middle-Click action"
+msgstr ""
+
+msgid "Shortcut for the options above"
+msgstr ""
+
+msgid "Show <i>Applications</i> icon"
+msgstr ""
+
+msgid "Show dock and application numbers"
+msgstr ""
+
+msgid "Show favorite applications"
+msgstr ""
+
+msgid "Show mounted volumes and devices"
+msgstr ""
+
+msgid "Show on all monitors."
+msgstr ""
+
+msgid "Show open windows previews."
+msgstr ""
+
+msgid "Show running applications"
+msgstr ""
+
+msgid "Show the dock by mouse hover on the screen edge."
+msgstr ""
+
+msgid "Show the dock if it is hidden"
+msgstr ""
+
+msgid "Show the dock on"
+msgstr ""
+
+msgid "Show the dock when it doesn't obstruct application windows."
+msgstr ""
+
+msgid "Show timeout (s)"
+msgstr ""
+
+msgid "Show trash can"
+msgstr ""
+
+msgid "Show window previews"
+msgstr ""
+
+msgid "Shrink the dash"
+msgstr ""
+
+msgid "Squares"
+msgstr ""
+
+msgid "Switch workspace"
+msgstr ""
+
+msgid "Syntax: <Shift>, <Ctrl>, <Alt>, <Super>"
+msgstr ""
+
+msgid ""
+"Temporarily show the application numbers over the icons, corresponding to "
+"the shortcut."
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Tune the dash background opacity."
+msgstr ""
+
+msgid "Unmount"
+msgstr ""
+
+msgid "Use built-in theme"
+msgstr ""
+
+msgid "Use dominant color"
+msgstr ""
+
+msgid "Use keyboard shortcuts to activate apps"
+msgstr ""
+
+msgid "Webpage"
+msgstr ""
+
+msgid ""
+"When set to minimize, double clicking minimizes all the windows of the "
+"application."
+msgstr ""
+
+msgid "version: "
+msgstr ""

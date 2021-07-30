@@ -1,0 +1,918 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: duplicity\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-04-07 13:36+0000\n"
+"Last-Translator: Luo Lei <robert165@163.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:01+0000\n"
+
+msgid ""
+"\n"
+"PYTHONOPTIMIZE in the environment causes duplicity to fail to\n"
+"recognize its own backups.  Please remove PYTHONOPTIMIZE from\n"
+"the environment and rerun the backup.\n"
+"\n"
+"See https://bugs.launchpad.net/duplicity/+bug/931175\n"
+msgstr ""
+
+msgid "%d difference found"
+msgid_plural "%d differences found"
+msgstr[0] ""
+
+msgid "%d file compared"
+msgid_plural "%d files compared"
+msgstr[0] ""
+
+msgid "%d file exists in cache"
+msgid_plural "%d files exist in cache"
+msgstr[0] ""
+
+msgid "%d file exists on backend"
+msgid_plural "%d files exist on backend"
+msgstr[0] ""
+
+msgid "%s not found in archive - no files restored."
+msgstr ""
+
+msgid "A %s"
+msgstr ""
+
+msgid ""
+"Aborting because you may have accidentally tried to backup two different "
+"data sets to the same remote location, or using the same archive directory."
+"  If this is not a mistake, use the --allow-source-mismatch switch to avoid "
+"seeing this message"
+msgstr ""
+
+msgid "Added incremental Backupset (start_time: %s / end_time: %s)"
+msgstr ""
+
+msgid "Added set %s to pre-existing chain %s"
+msgstr ""
+
+msgid "Also found %d backup set not part of any chain,"
+msgid_plural "Also found %d backup sets not part of any chain,"
+msgstr[0] ""
+
+msgid "Archive dir: %s"
+msgstr ""
+
+msgid "Attempt %s failed. %s: %s"
+msgstr ""
+
+msgid "Attempt to forget unknown tempfile %s - this is probably a bug."
+msgstr ""
+
+msgid "Backend error detail: %s"
+msgstr ""
+
+msgid "Backends and their URL formats:"
+msgstr ""
+
+msgid "Backtrace of previous error: %s"
+msgstr ""
+
+msgid "Backup Statistics"
+msgstr ""
+
+msgid "Backup source directory %s does not exist."
+msgstr ""
+
+msgid "BackupSet.delete: missing %s"
+msgstr ""
+
+msgid ""
+"Bad URL '%s'.\n"
+"Examples of URL strings are \"scp://user@host.net:1234/path\" and\n"
+"\"file:///usr/local\".  See the man page for more information."
+msgstr ""
+
+msgid ""
+"Bad interval string \"%s\"\n"
+"\n"
+"Intervals are specified like 2Y (2 years) or 2h30m (2.5 hours).  The\n"
+"allowed special characters are s, m, h, D, W, M, and Y.  See the man\n"
+"page for more information."
+msgstr ""
+
+msgid ""
+"Bad time string \"%s\"\n"
+"\n"
+"The acceptible time strings are intervals (like \"3D64s\"), w3-datetime\n"
+"strings, like \"2002-04-26T04:22:01-07:00\" (strings like\n"
+"\"2002-04-26T04:22:01\" are also acceptable - duplicity will use the\n"
+"current time zone), or ordinary dates like 2/4/1997 or 2001-04-23\n"
+"(various combinations are acceptable, but the month always precedes\n"
+"the day)."
+msgstr ""
+
+msgid "Calculated hash: %s"
+msgstr ""
+
+msgid ""
+"Cannot use empty passphrase with symmetric encryption!  Please try again."
+msgstr ""
+
+msgid "Chain end time: "
+msgstr ""
+
+msgid "Chain start time: "
+msgstr ""
+
+msgid "Cleaning up previous partial %s backup set, restarting."
+msgstr ""
+
+msgid "Cleanup of temporary directory %s failed - this is probably a bug."
+msgstr ""
+
+msgid "Cleanup of temporary file %s failed"
+msgstr ""
+
+msgid "Collection Status"
+msgstr ""
+
+msgid "Command line error: %s"
+msgstr ""
+
+msgid "Command line warning: %s"
+msgstr ""
+
+msgid "Commands:"
+msgstr ""
+
+msgid "Comparing %s and %s"
+msgstr ""
+
+msgid "Connecting with backend: %s"
+msgstr ""
+
+msgid "Connection failed, please check your password: %s"
+msgstr ""
+
+msgid "Copying %s to local cache."
+msgstr ""
+
+msgid "Could not initialize backend: %s"
+msgstr ""
+
+msgid ""
+"Current active backup chain is older than specified time.  However, it will "
+"not be deleted.  To remove all your backups, manually purge the repository."
+msgstr ""
+
+msgid "D %s"
+msgstr ""
+
+msgid "Data for file %s is different"
+msgstr ""
+
+msgid "Deleting %s"
+msgstr ""
+
+msgid "Deleting backup chain at time:"
+msgid_plural "Deleting backup chains at times:"
+msgstr[0] ""
+
+msgid "Deleting complete backup chain %s"
+msgstr ""
+
+msgid "Deleting complete signature chain %s"
+msgstr ""
+
+msgid "Deleting local %s (not authoritative at backend)."
+msgstr ""
+
+msgid "Deleting this file from backend:"
+msgid_plural "Deleting these files from backend:"
+msgstr[0] ""
+
+msgid "Deleting tree %s"
+msgstr ""
+
+msgid "Device file %%s has numbers %s, expected %s"
+msgstr ""
+
+msgid "Difference found:"
+msgstr ""
+
+msgid "Enter 'duplicity --help' for help screen."
+msgstr ""
+
+msgid "Error %s getting delta for %s"
+msgstr ""
+
+msgid "Error '%s' patching %s"
+msgstr ""
+
+msgid "Error '%s' processing %s"
+msgstr ""
+
+msgid "Error accessing possibly locked file %s"
+msgstr ""
+
+msgid "Error compiling regular expression %s"
+msgstr ""
+
+msgid "Error initializing file %s"
+msgstr ""
+
+msgid "Error listing directory %s"
+msgstr ""
+
+msgid "Error opening file %s"
+msgstr ""
+
+msgid "Extracting backup chains from list of files: %s"
+msgstr ""
+
+msgid "Failed to read %s: %s"
+msgstr ""
+
+msgid ""
+"Fatal Error while processing expression\n"
+"%s"
+msgstr ""
+
+msgid ""
+"Fatal Error: Backup source directory has changed.\n"
+"Current directory: %s\n"
+"Previous directory: %s"
+msgstr ""
+
+msgid ""
+"Fatal Error: Backup source host has changed.\n"
+"Current hostname: %s\n"
+"Previous hostname: %s"
+msgstr ""
+
+msgid "Fatal Error: Neither remote nor local manifest is readable."
+msgstr ""
+
+msgid "Fatal Error: No manifests found for most recent backup"
+msgstr ""
+
+msgid ""
+"Fatal Error: Remote manifest does not match local one.  Either the remote "
+"backup set or the local archive directory has been corrupted."
+msgstr ""
+
+msgid ""
+"Fatal Error: The file specification\n"
+"    %s\n"
+"cannot match any files in the base directory\n"
+"    %s\n"
+"Useful file specifications begin with the base directory or some\n"
+"pattern (such as '**') which matches the base directory."
+msgstr ""
+
+msgid ""
+"Fatal Error: Unable to start incremental backup.  Old signatures not found "
+"and incremental specified"
+msgstr ""
+
+msgid "File %%s has mtime %s, expected %s"
+msgstr ""
+
+msgid "File %%s has permissions %s, expected %s"
+msgstr ""
+
+msgid "File %%s has type %s, expected %s"
+msgstr ""
+
+msgid "File %s already exists, will not overwrite."
+msgstr ""
+
+msgid ""
+"File %s complete in backup set.\n"
+"Continuing restart on file %s."
+msgstr ""
+
+msgid "File %s is missing"
+msgstr ""
+
+msgid "File %s is not part of a known set; creating new set"
+msgstr ""
+
+msgid "File %s is part of known set"
+msgstr ""
+
+msgid ""
+"File %s missing in backup set.\n"
+"Continuing restart on file %s."
+msgstr ""
+
+msgid "File %s not found locally after get from backend"
+msgstr ""
+
+msgid "File %s was corrupted during upload."
+msgstr ""
+
+msgid "File: %s"
+msgstr ""
+
+msgid "First and second passphrases do not match!  Please try again."
+msgstr ""
+
+msgid "Forgetting temporary file %s"
+msgstr ""
+
+msgid "Found %d secondary backup chain."
+msgid_plural "Found %d secondary backup chains."
+msgstr[0] ""
+
+msgid "Found backup chain %s"
+msgstr ""
+
+msgid "Found old backup chain at the following time:"
+msgid_plural "Found old backup chains at the following times:"
+msgstr[0] ""
+
+msgid "Found orphaned set %s"
+msgstr ""
+
+msgid "Found primary backup chain with matching signature chain:"
+msgstr ""
+
+msgid "Found the following file to delete:"
+msgid_plural "Found the following files to delete:"
+msgstr[0] ""
+
+msgid "Full"
+msgstr ""
+
+msgid "GPG error detail: %s"
+msgstr ""
+
+msgid "GPG process %d terminated before wait()"
+msgstr ""
+
+msgid "Getting delta of %s and %s"
+msgstr ""
+
+msgid "Giving up after %s attempts. %s: %s"
+msgstr ""
+
+msgid "GnuPG passphrase for signing key:"
+msgstr ""
+
+msgid "GnuPG passphrase:"
+msgstr ""
+
+msgid "Hashes don't match"
+msgstr ""
+
+msgid "IGNORED_ERROR: Warning: ignoring error as requested: %s: %s"
+msgstr ""
+
+msgid "INT intercepted...exiting."
+msgstr ""
+
+msgid "Ignoring file (rejected by backup set) '%s'"
+msgstr ""
+
+msgid "Ignoring incremental Backupset (start_time: %s; needed: %s)"
+msgstr ""
+
+msgid "Import of %s %s"
+msgstr ""
+
+msgid "Incremental"
+msgstr ""
+
+msgid "Invalid data - %s hash mismatch for file:"
+msgstr ""
+
+msgid "Last %s backup left a partial set, restarting."
+msgstr ""
+
+msgid "Last full backup date:"
+msgstr ""
+
+msgid "Last full backup date: none"
+msgstr ""
+
+msgid "Last full backup is too old, forcing full backup"
+msgstr ""
+
+msgid ""
+"Last selection expression:\n"
+"    %s\n"
+"only specifies that files be included.  Because the default is to\n"
+"include all files, the expression is redundant.  Exiting because this\n"
+"probably isn't what you meant."
+msgstr ""
+
+msgid "Local and Remote metadata are synchronized, no sync needed."
+msgstr ""
+
+msgid "M %s"
+msgstr ""
+
+msgid "Main action: "
+msgstr ""
+
+msgid "Making directory %s"
+msgstr ""
+
+msgid "Manifest hash: %s"
+msgstr ""
+
+msgid "Manifests not equal because different volume numbers"
+msgstr ""
+
+msgid "Manifests not equal because hosts or directories differ"
+msgstr ""
+
+msgid "Manifests not equal because volume lists differ"
+msgstr ""
+
+msgid ""
+"Max open files of %s is too low, should be >= 1024.\n"
+"Use 'ulimit -n 1024' or higher to correct.\n"
+msgstr ""
+
+msgid "MultiBackend: Could not load config file %s: %s "
+msgstr ""
+
+msgid "MultiBackend: _put: write to store #%s (%s)"
+msgstr ""
+
+msgid "MultiBackend: combined list: %s"
+msgstr ""
+
+msgid "MultiBackend: failed to delete %s from %s"
+msgstr ""
+
+msgid ""
+"MultiBackend: failed to delete %s. Tried all backing stores and none "
+"succeeded"
+msgstr ""
+
+msgid "MultiBackend: failed to get %s to %s from %s"
+msgstr ""
+
+msgid ""
+"MultiBackend: failed to get %s. Tried all backing stores and none succeeded"
+msgstr ""
+
+msgid ""
+"MultiBackend: failed to write %s. Tried all backing stores and none "
+"succeeded"
+msgstr ""
+
+msgid ""
+"MultiBackend: failed to write to store #%s (%s), try #%s, Exception: %s"
+msgstr ""
+
+msgid "MultiBackend: set env %s = %s"
+msgstr ""
+
+msgid "MultiBackend: use store %s"
+msgstr ""
+
+msgid "New file %s"
+msgstr ""
+
+msgid "No backup chains with active signatures found"
+msgstr ""
+
+msgid "No extraneous files found, nothing deleted in cleanup."
+msgstr ""
+
+msgid "No files found in archive - nothing restored."
+msgstr ""
+
+msgid "No old backup sets found, nothing deleted."
+msgstr ""
+
+msgid "No orphaned or incomplete backup sets found."
+msgstr ""
+
+msgid "No signatures found, switching to full backup."
+msgstr ""
+
+msgid "Num volumes:"
+msgstr ""
+
+msgid "Number of contained backup sets: %d"
+msgstr ""
+
+msgid "Other is not VolumeInfo"
+msgstr ""
+
+msgid "PASSPHRASE variable not set, asking user."
+msgstr ""
+
+msgid "Patching %s"
+msgstr ""
+
+msgid "Preferring Backupset over previous one!"
+msgstr ""
+
+msgid "Processed volume %d"
+msgstr ""
+
+msgid "Processed volume %d of %d"
+msgstr ""
+
+msgid "PyDrive backend: multiple files called '%s'."
+msgstr ""
+
+msgid ""
+"RESTART: Impossible backup state: manifest has %d vols, remote has %d vols.\n"
+"         Restart is impossible ... duplicity will clean off the last partial\n"
+"         backup then restart the backup from the beginning."
+msgstr ""
+
+msgid ""
+"RESTART: The first volume failed to upload before termination.\n"
+"         Restart is impossible...starting backup from beginning."
+msgstr ""
+
+msgid ""
+"RESTART: Volumes %d to %d failed to upload before termination.\n"
+"         Restarting backup at volume %d."
+msgstr ""
+
+msgid "Reading globbing filelist %s"
+msgstr ""
+
+msgid "Reading results of '%s'"
+msgstr ""
+
+msgid "Registering (mkstemp) temporary file %s"
+msgstr ""
+
+msgid "Registering (mktemp) temporary file %s"
+msgstr ""
+
+msgid "Releasing lockfile %s"
+msgstr ""
+
+msgid "Removing still remembered temporary file %s"
+msgstr ""
+
+msgid "Rerun command with --force option to actually delete."
+msgstr ""
+
+msgid "Restarting after volume %s, file %s, block %s"
+msgstr ""
+
+msgid ""
+"Restarting backup, but current encryption settings do not match original "
+"settings"
+msgstr ""
+
+msgid ""
+"Restore destination directory %s already exists.\n"
+"Will not overwrite."
+msgstr ""
+
+msgid "Retype passphrase for signing key to confirm: "
+msgstr ""
+
+msgid "Retype passphrase to confirm: "
+msgstr ""
+
+msgid "Reuse configured PASSPHRASE as SIGN_PASSPHRASE"
+msgstr ""
+
+msgid "Reuse configured SIGN_PASSPHRASE as PASSPHRASE"
+msgstr ""
+
+msgid "Run duplicity again with the --force option to actually delete."
+msgstr ""
+
+msgid ""
+"Running in 'ignore errors' mode due to %s; please re-consider if this was "
+"not intended"
+msgstr ""
+
+msgid "Secondary chain %d of %d:"
+msgstr ""
+
+msgid "Selecting %s"
+msgstr ""
+
+msgid ""
+"Selection options --exclude/--include\n"
+"currently work only when backing up,not restoring."
+msgstr ""
+
+msgid ""
+"Sign key should be an 8, 16 alt. 40 character hex string, like 'AA0E73D2'.\n"
+"Received '%s' instead."
+msgstr ""
+
+msgid "Skipping %s because of previous error"
+msgstr ""
+
+msgid "Skipping socket %s"
+msgstr ""
+
+msgid "Specified archive directory '%s' does not exist, or is not a directory"
+msgstr ""
+
+msgid "Symlink %%s points to %s, expected %s"
+msgstr ""
+
+msgid "Sync would copy the following from remote to local:"
+msgstr ""
+
+msgid "Sync would remove the following spurious local files:"
+msgstr ""
+
+msgid "Synchronizing remote metadata to local cache..."
+msgstr ""
+
+msgid "Temp has %d available, backup will use approx %d."
+msgstr ""
+
+msgid "Temp space has %d available, backup needs approx %d."
+msgstr ""
+
+msgid "There are backup set(s) at time(s):"
+msgstr ""
+
+msgid "These may be deleted by running duplicity with the \"cleanup\" command."
+msgstr ""
+
+msgid "Threading not available -- zombie processes may appear"
+msgstr ""
+
+msgid "Time:"
+msgstr ""
+
+msgid "Total number of backup: %d"
+msgstr ""
+
+msgid "Total number of contained volumes: %d"
+msgstr ""
+
+msgid "Touching %s"
+msgstr ""
+
+msgid "Type of backup set:"
+msgstr ""
+
+msgid "Type of file change:"
+msgstr ""
+
+msgid "Unable to delete %s: %s"
+msgstr ""
+
+msgid "Unable to get free space on temp."
+msgstr ""
+
+msgid "Unable to get max open files."
+msgstr ""
+
+msgid "User error detail: %s"
+msgstr ""
+
+msgid "Using archive dir: %s"
+msgstr ""
+
+msgid "Using backup name: %s"
+msgstr ""
+
+msgid "Using temporary directory %s"
+msgstr ""
+
+msgid "Verify complete: %s, %s."
+msgstr ""
+
+msgid "Verify directory %s does not exist"
+msgstr ""
+
+msgid "Volume numbers don't match"
+msgstr ""
+
+msgid "Volume was signed by key %s, not %s"
+msgstr ""
+
+msgid ""
+"Warning, discarding last backup set, because of missing signature file."
+msgstr ""
+
+msgid "Warning, found extra Volume identifier"
+msgstr ""
+
+msgid ""
+"Warning, found incomplete backup sets, probably left from aborted session"
+msgstr ""
+
+msgid "Warning, found signatures but no corresponding backup files"
+msgstr ""
+
+msgid "Warning, found the following local orphaned signature file:"
+msgid_plural "Warning, found the following local orphaned signature files:"
+msgstr[0] ""
+
+msgid "Warning, found the following orphaned backup file:"
+msgid_plural "Warning, found the following orphaned backup files:"
+msgstr[0] ""
+
+msgid "Warning, found the following remote orphaned signature file:"
+msgid_plural "Warning, found the following remote orphaned signature files:"
+msgstr[0] ""
+
+msgid "Warning: %s has negative mtime, treating as 0."
+msgstr ""
+
+msgid "Warning: %s invalid devnums (0x%X), treating as (0, 0)."
+msgstr ""
+
+msgid ""
+"Warning: Option %s is pending deprecation and will be removed in a future release.\n"
+"--include-filelist and --exclude-filelist now accept globbing characters and should be used instead."
+msgstr ""
+
+msgid ""
+"Warning: Option %s is pending deprecation and will be removed in a future release.\n"
+"On many GNU/Linux systems, stdin is represented by /dev/stdin and\n"
+"--include-filelist=/dev/stdin or --exclude-filelist=/dev/stdin could\n"
+"be used as a substitute."
+msgstr ""
+
+msgid ""
+"Warning: Option %s is pending deprecation and will be removed in a future release.\n"
+"Use of default filenames is strongly suggested."
+msgstr ""
+
+msgid "Warning: base %s doesn't exist, continuing"
+msgstr ""
+
+msgid "Warning: oldindex %s >= newindex %s"
+msgstr ""
+
+msgid ""
+"When using symmetric encryption, the signing passphrase must equal the "
+"encryption passphrase."
+msgstr ""
+
+msgid "Which can't be deleted because newer sets depend on them."
+msgstr ""
+
+msgid "Writing %s"
+msgstr ""
+
+msgid "Writing %s of type %s"
+msgstr ""
+
+msgid ""
+"a previously scheduled task has failed; propagating the result immediately"
+msgstr ""
+
+msgid "absolute_path"
+msgstr ""
+
+msgid "account_id"
+msgstr ""
+
+msgid "active workers = %d"
+msgstr ""
+
+msgid "alias"
+msgstr ""
+
+msgid "and %d incomplete backup set."
+msgid_plural "and %d incomplete backup sets."
+msgstr[0] ""
+
+msgid "application_key"
+msgstr ""
+
+msgid "backup name"
+msgstr ""
+
+msgid "bucket_name"
+msgstr ""
+
+msgid "char"
+msgstr ""
+
+msgid "command"
+msgstr ""
+
+msgid "container_name"
+msgstr ""
+
+msgid "count"
+msgstr ""
+
+msgid "directory"
+msgstr ""
+
+msgid "end_index don't match"
+msgstr ""
+
+msgid "file_descriptor"
+msgstr ""
+
+msgid "filename"
+msgstr ""
+
+msgid "gpg-key-id"
+msgstr ""
+
+msgid "imap_mailbox"
+msgstr ""
+
+msgid "inserting barrier"
+msgstr ""
+
+msgid "instantiating at concurrency %d"
+msgstr ""
+
+msgid "local"
+msgstr ""
+
+msgid "module"
+msgstr ""
+
+msgid "number"
+msgstr ""
+
+msgid "options"
+msgstr ""
+
+msgid "other.host"
+msgstr ""
+
+msgid "password"
+msgstr ""
+
+msgid "path"
+msgstr ""
+
+msgid "pem formatted bundle of certificate authorities"
+msgstr ""
+
+msgid "port"
+msgstr ""
+
+msgid "prefix"
+msgstr ""
+
+msgid "pyrax|cloudfiles"
+msgstr ""
+
+msgid "regular_expression"
+msgstr ""
+
+msgid "relative_path"
+msgstr ""
+
+msgid "remote"
+msgstr ""
+
+msgid "running task synchronously (asynchronicity disabled)"
+msgstr ""
+
+msgid "scheduling task for asynchronous execution"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "shell_pattern"
+msgstr ""
+
+msgid "some_dir"
+msgstr ""
+
+msgid "source_dir"
+msgstr ""
+
+msgid "source_url"
+msgstr ""
+
+msgid "start_indicies don't match"
+msgstr ""
+
+msgid "target_dir"
+msgstr ""
+
+msgid "target_url"
+msgstr ""
+
+msgid "task completed successfully"
+msgstr ""
+
+msgid "task execution done (success: %s)"
+msgstr ""
+
+msgid "time"
+msgstr ""
+
+msgid "user"
+msgstr ""

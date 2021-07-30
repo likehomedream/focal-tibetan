@@ -1,0 +1,534 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-color-manager master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-color-manager&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-08 10:22+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:26+0000\n"
+
+msgid "%B %e %Y, %I∶%M∶%S %p"
+msgstr ""
+
+msgid "A CIE 1931 diagram shows a 2D representation of the profile gamut"
+msgstr ""
+
+msgid "A scum dot is present for media white"
+msgstr ""
+
+msgid ""
+"A tone reproduction curve is the mapping of scene luminance to display "
+"luminance"
+msgstr ""
+
+msgid "A video card gamma table shows the curves loaded into the display"
+msgstr ""
+
+msgid "Abstract"
+msgstr ""
+
+msgid "Add a profile for the device"
+msgstr ""
+
+msgid "Adobe RGB coverage"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "Ambient"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove this profile from your system permanently?"
+msgstr ""
+
+msgid "CIE 1931"
+msgstr ""
+
+msgid "CMY"
+msgstr ""
+
+msgid "CMYK"
+msgstr ""
+
+msgid "Calibration device"
+msgstr ""
+
+msgid "Color Picker"
+msgstr ""
+
+msgid "Color Profile Viewer"
+msgstr ""
+
+msgid "Color Temperature"
+msgstr ""
+
+msgid "Color profile is already imported"
+msgstr ""
+
+msgid "Color;ICC;"
+msgstr ""
+
+msgid "Colorspace"
+msgstr ""
+
+msgid "Colorspace conversion"
+msgstr ""
+
+msgid "Colorspace: "
+msgstr ""
+
+msgid "Connection type"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Copyright:"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Data source type"
+msgstr ""
+
+msgid "Debugging Options"
+msgstr ""
+
+msgid "Default %s"
+msgstr ""
+
+msgid "Default: "
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete this profile"
+msgstr ""
+
+msgid "Delta-E RMS"
+msgstr ""
+
+msgid "Delta-E average"
+msgstr ""
+
+msgid "Delta-E maximum"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Devicelink"
+msgstr ""
+
+msgid "Display PNPID"
+msgstr ""
+
+msgid "Display checksum"
+msgstr ""
+
+msgid "Display correction"
+msgstr ""
+
+msgid "Display device"
+msgstr ""
+
+msgid "Display model"
+msgstr ""
+
+msgid "Display serial number"
+msgstr ""
+
+msgid "Display vendor"
+msgstr ""
+
+msgid "Dump all details about this system"
+msgstr ""
+
+msgid "EDID inspect program"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Failed to connect to session bus:"
+msgstr ""
+
+msgid "Failed to copy file"
+msgstr ""
+
+msgid "Failed to import file"
+msgstr ""
+
+msgid "Failed to open ICC profile"
+msgstr ""
+
+msgid "Failed to parse file: %s"
+msgstr ""
+
+msgid "File checksum"
+msgstr ""
+
+msgid "File size"
+msgstr ""
+
+msgid "Filename"
+msgstr ""
+
+msgid "Framework product"
+msgstr ""
+
+msgid "Framework program"
+msgstr ""
+
+msgid "Framework version"
+msgstr ""
+
+msgid "From sRGB"
+msgstr ""
+
+msgid "GNOME Color Manager"
+msgstr ""
+
+msgid "GNOME Color Manager Color Picker"
+msgstr ""
+
+msgid ""
+"GNOME Color Profile Viewer shows installed color profiles on your system and"
+" allows you to calibrate displays, printers and cameras using a wizard."
+msgstr ""
+
+msgid "Gamut volume"
+msgstr ""
+
+msgid "Get the profile for a specific window"
+msgstr ""
+
+msgid "Get the profiles for a specific file"
+msgstr ""
+
+msgid "Gray"
+msgstr ""
+
+msgid "HSV"
+msgstr ""
+
+msgid "ICC Profile Installer"
+msgstr ""
+
+msgid "ICC profile to install"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import color profile?"
+msgstr ""
+
+msgid "Import device color profile?"
+msgstr ""
+
+msgid "Import display color profile?"
+msgstr ""
+
+msgid "Import named color profile?"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Input device"
+msgstr ""
+
+msgid "Inspect and compare installed color profiles"
+msgstr ""
+
+msgid "Install ICC profiles"
+msgstr ""
+
+msgid "LAB"
+msgstr ""
+
+msgid "LUV"
+msgstr ""
+
+msgid "Lab (D50)"
+msgstr ""
+
+msgid "Manufacturer"
+msgstr ""
+
+msgid "Mapping device"
+msgstr ""
+
+msgid "Mapping format"
+msgstr ""
+
+msgid "Mapping qualifier"
+msgstr ""
+
+msgid "Media whitepoint"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
+msgid ""
+"Metadata is additional information stored in the profile for programs to "
+"use."
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Named Colors"
+msgstr ""
+
+msgid "Named color"
+msgstr ""
+
+msgid "Named colors are specific colors that are defined in the profile"
+msgstr ""
+
+msgid "Next Image"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No %s color spaces available"
+msgstr ""
+
+msgid "No colorimeter is attached."
+msgstr ""
+
+msgid "No copyright has been set"
+msgstr ""
+
+msgid "No description has been set"
+msgstr ""
+
+msgid "No filename specified"
+msgstr ""
+
+msgid "No profile"
+msgstr ""
+
+msgid "One or more of the primaries are invalid"
+msgstr ""
+
+msgid "One or more of the primaries is unlikely"
+msgstr ""
+
+msgid "Output device"
+msgstr ""
+
+msgid "Permanently delete profile?"
+msgstr ""
+
+msgid "Previous Image"
+msgstr ""
+
+msgid "Profile copyright:"
+msgstr ""
+
+msgid "Profile description: %s"
+msgstr ""
+
+msgid "Profile type"
+msgstr ""
+
+msgid "RGB"
+msgstr ""
+
+msgid "Remove a profile from the device"
+msgstr ""
+
+msgid "Response in"
+msgstr ""
+
+msgid "Response out"
+msgstr ""
+
+msgid "Results"
+msgstr ""
+
+msgid "Root window profile:"
+msgstr ""
+
+msgid "Root window protocol version:"
+msgstr ""
+
+msgid "Screen brightness"
+msgstr ""
+
+msgid "Screen surface finish"
+msgstr ""
+
+msgid "Select ICC Profile File"
+msgstr ""
+
+msgid "Set the parent window to make this modal"
+msgstr ""
+
+msgid "Set the specific file to show"
+msgstr ""
+
+msgid "Set the specific profile to show"
+msgstr ""
+
+msgid "Show Details"
+msgstr ""
+
+msgid "Show debugging information for all files"
+msgstr ""
+
+msgid "Show debugging options"
+msgstr ""
+
+msgid "Show xserver properties"
+msgstr ""
+
+msgid "Standard space"
+msgstr ""
+
+msgid "Suitable profiles for:"
+msgstr ""
+
+msgid "Supported ICC profiles"
+msgstr ""
+
+msgid "TRC"
+msgstr ""
+
+msgid "Test profile: "
+msgstr ""
+
+msgid "The attached colorimeter is not capable of reading a spot color."
+msgstr ""
+
+msgid "The display compensation table is invalid"
+msgstr ""
+
+msgid "The gray axis contains significant amounts of color"
+msgstr ""
+
+msgid "The gray axis is non-monotonic"
+msgstr ""
+
+msgid "The primaries do not add to white"
+msgstr ""
+
+msgid "The profile has the following problems:"
+msgstr ""
+
+msgid "The request failed:"
+msgstr ""
+
+msgid "The sensor has no native driver."
+msgstr ""
+
+msgid "The white is not D50 white"
+msgstr ""
+
+msgid "The whitepoint temperature is unlikely"
+msgstr ""
+
+msgid "There are no ICC profiles assigned to this file"
+msgstr ""
+
+msgid "There are no ICC profiles for this window"
+msgstr ""
+
+msgid ""
+"This functionality is typically used by GNOME Control Center from the color "
+"panel although can be used on its own."
+msgstr ""
+
+msgid "This profile cannot be deleted"
+msgstr ""
+
+msgid "This shows what an image would look like if opened with the profile"
+msgstr ""
+
+msgid "This shows what an image would look like if saved with the profile"
+msgstr ""
+
+msgid "To sRGB"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown warning type"
+msgstr ""
+
+msgid "Use the color sensor to sample spot colors"
+msgstr ""
+
+msgid "VCGT"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Video card out"
+msgstr ""
+
+msgid "Warnings"
+msgstr ""
+
+msgid "White point"
+msgstr ""
+
+msgid "XYZ"
+msgstr ""
+
+msgid "YCbCr"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yxy"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_Measure"
+msgstr ""
+
+msgid "application-vnd.iccprofile"
+msgstr ""
+
+msgid "gnome-color-manager"
+msgstr ""
+
+msgid "gray"
+msgstr ""
+
+msgid "sRGB coverage"
+msgstr ""
+
+msgid "sRGB example"
+msgstr ""
+
+msgid "x"
+msgstr ""
+
+msgid "y"
+msgstr ""

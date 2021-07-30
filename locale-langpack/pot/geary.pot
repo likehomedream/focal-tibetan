@@ -1,0 +1,533 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: geary-0.4.1\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=geary&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-03-30 13:36+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/geary/language/zh_CN/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:51+0000\n"
+
+msgid "%A"
+msgstr ""
+
+msgid "%B %-e, %Y %-H:%M"
+msgstr ""
+
+msgid "%B %-e, %Y %-l:%M %P"
+msgstr ""
+
+msgid "%H:%M"
+msgstr ""
+
+msgid "%b %-e"
+msgstr ""
+
+msgid "%d message"
+msgid_plural "%d messages"
+msgstr[0] ""
+
+msgid "%d new message"
+msgid_plural "%d new messages"
+msgstr[0] ""
+
+msgid "%d result"
+msgid_plural "%d results"
+msgstr[0] ""
+
+msgid "%d unread"
+msgid_plural "%d unread"
+msgstr[0] ""
+
+msgid "%dh ago"
+msgid_plural "%dh ago"
+msgstr[0] ""
+
+msgid "%dm ago"
+msgid_plural "%dm ago"
+msgstr[0] ""
+
+msgid "%l:%M %P"
+msgstr ""
+
+msgid ""
+"%s\n"
+"(%d other new message for %s)"
+msgid_plural ""
+"%s\n"
+"(%d other new messages for %s)"
+msgstr[0] ""
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "%s wrote:"
+msgstr ""
+
+msgid "%s, %d new message total"
+msgid_plural "%s, %d new messages total"
+msgstr[0] ""
+
+msgid "%s, %s"
+msgstr ""
+
+msgid "(no subject)"
+msgstr ""
+
+msgid "---------- Forwarded message ----------"
+msgstr ""
+
+msgid "1 month back"
+msgstr ""
+
+msgid "1 year back"
+msgstr ""
+
+msgid "2 weeks back"
+msgstr ""
+
+msgid "2 years back"
+msgstr ""
+
+msgid "3 months back"
+msgstr ""
+
+msgid "4 years back"
+msgstr ""
+
+msgid "6 months back"
+msgstr ""
+
+msgctxt "Abbreviation for gigabyte"
+msgid "GB"
+msgstr ""
+
+msgctxt "Abbreviation for kilobyte"
+msgid "KB"
+msgstr ""
+
+msgctxt "Abbreviation for megabyte"
+msgid "MB"
+msgstr ""
+
+msgctxt "Abbreviation for terabyte"
+msgid "TB"
+msgstr ""
+
+msgid "About %s"
+msgstr ""
+
+msgid "Accounts"
+msgstr ""
+
+msgid "All Mail"
+msgstr ""
+
+msgid "Always Show From Sender"
+msgstr ""
+
+msgid "Archive"
+msgstr ""
+
+msgid ""
+"Attachments may cause damage to your system if opened.  Only open files from"
+" trusted sources."
+msgstr ""
+
+msgid "Bcc:"
+msgstr ""
+
+msgid "Cannot add attachment"
+msgstr ""
+
+msgid "Cc:"
+msgstr ""
+
+msgid "Choose a file"
+msgstr ""
+
+msgid "Compose Message"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgctxt "Default full date"
+msgid "%B %-e, %Y %-l:%M %P"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Display program version"
+msgstr ""
+
+msgid "Do you want to permanently delete this message?"
+msgid_plural "Do you want to permanently delete these messages?"
+msgstr[0] ""
+
+msgid "Drafts"
+msgstr ""
+
+msgid "Drafts | Draft"
+msgstr ""
+
+msgid "Drop files here"
+msgstr ""
+
+msgid "E_xit"
+msgstr ""
+
+msgid "Edit Draft"
+msgstr ""
+
+msgid "Email;E-mail;Mail;"
+msgstr ""
+
+msgid ""
+"Error during rebuild:\n"
+"\n"
+"%s"
+msgstr ""
+
+msgid "Error saving"
+msgstr ""
+
+msgid "Error saving sent mail"
+msgstr ""
+
+msgid "Error sending email"
+msgstr ""
+
+msgid "Everything"
+msgstr ""
+
+msgid "Find:"
+msgstr ""
+
+msgid "Fixed Width"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Geary"
+msgstr ""
+
+msgid "Gmail"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Inboxes"
+msgstr ""
+
+msgid ""
+"Junk | Spam | Junk Mail | Junk Email | Junk E-Mail | Bulk Mail | Bulk Email "
+"| Bulk E-Mail"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Lar_ge"
+msgstr ""
+
+msgid "Log IMAP replay queue"
+msgstr ""
+
+msgid "Log conversation monitoring"
+msgstr ""
+
+msgid "Log database queries (generates lots of messages)"
+msgstr ""
+
+msgid "Log folder normalization"
+msgstr ""
+
+msgid "Log network activity"
+msgstr ""
+
+msgid "Log periodic activity"
+msgstr ""
+
+msgid "Mark Unread From _Here"
+msgstr ""
+
+msgid "Mark as _Read"
+msgstr ""
+
+msgid "Mark as _Unread"
+msgstr ""
+
+msgid "Me"
+msgstr ""
+
+msgid "More options"
+msgstr ""
+
+msgid "New Message"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Now"
+msgstr ""
+
+msgid "On %1$s, %2$s wrote:"
+msgstr ""
+
+msgid "On %s:"
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Outlook.com"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "R_eply All"
+msgstr ""
+
+msgid "Remove account"
+msgstr ""
+
+msgid "Reply to _All"
+msgstr ""
+
+msgid "SMTP Credentials"
+msgstr ""
+
+msgid "S_ans Serif"
+msgstr ""
+
+msgid "S_erif"
+msgstr ""
+
+msgid "Sans Serif"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search %s account"
+msgstr ""
+
+msgid "Select Color"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Send and receive email"
+msgstr ""
+
+msgid "Send message with an empty body?"
+msgstr ""
+
+msgid "Send message with an empty subject and body?"
+msgstr ""
+
+msgid "Send message with an empty subject?"
+msgstr ""
+
+msgid "Send message without an attachment?"
+msgstr ""
+
+msgid "Sent Mail"
+msgstr ""
+
+msgid "Sent | Sent Mail | Sent Email | Sent E-Mail"
+msgstr ""
+
+msgid "Serif"
+msgstr ""
+
+msgid "Show Images"
+msgstr ""
+
+msgid "Spam"
+msgstr ""
+
+msgid "Starred"
+msgstr ""
+
+msgid "Subject:"
+msgstr ""
+
+msgid ""
+"There was an error opening the local mail database for this account. This is possibly due to corruption of the database file in this directory:\n"
+"\n"
+"%s\n"
+"\n"
+"Geary can rebuild the database and re-synchronize with the server or exit.\n"
+"\n"
+"Rebuilding the database will destroy all local email and its attachments. <b>The mail on the your server will not be affected.</b>"
+msgstr ""
+
+msgid "To add them as attachments"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Trash"
+msgstr ""
+
+msgid "Trash | Rubbish | Rubbish Bin"
+msgstr ""
+
+msgid "U_nstar"
+msgstr ""
+
+msgid "Unable to open the database for %s"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Archive"
+msgstr ""
+
+msgid "_Attach"
+msgstr ""
+
+msgid "_Automatically select next message"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Case sensitive"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Details"
+msgstr ""
+
+msgid "_Discard"
+msgstr ""
+
+msgid "_Display conversation preview"
+msgstr ""
+
+msgid "_Fixed Width"
+msgstr ""
+
+msgid "_Forward"
+msgstr ""
+
+msgid "_From:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Keep"
+msgstr ""
+
+msgid "_Medium"
+msgstr ""
+
+msgid "_Next"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Previous"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Rebuild"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Remember password"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Reply"
+msgstr ""
+
+msgid "_Rich Text"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Send"
+msgstr ""
+
+msgid "_Small"
+msgstr ""
+
+msgid "_Star"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "_View Source"
+msgstr ""
+
+msgid "bytes"
+msgstr ""
+
+msgid "label"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

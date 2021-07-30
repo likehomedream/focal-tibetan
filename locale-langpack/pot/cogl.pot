@@ -1,0 +1,259 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cogl master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=cogl&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2014-05-29 03:28+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:43+0000\n"
+
+msgid "Add wire outlines for all geometry"
+msgstr ""
+
+msgid "Add wire outlines for all rectangular geometry"
+msgstr ""
+
+msgid "Additional environment variables:"
+msgstr ""
+
+msgid "Cogl Options"
+msgstr ""
+
+msgid "Cogl Specialist"
+msgstr ""
+
+msgid "Cogl Tracing"
+msgstr ""
+
+msgid "Cogl debugging flags to set"
+msgstr ""
+
+msgid "Cogl debugging flags to unset"
+msgstr ""
+
+msgid "CoglObject references"
+msgstr ""
+
+msgid "Comma-separated list of GL extensions to pretend are disabled"
+msgstr ""
+
+msgid "Debug CoglBlendString parsing"
+msgstr ""
+
+msgid "Debug offscreen support"
+msgstr ""
+
+msgid "Debug ref counting issues for CoglObjects"
+msgstr ""
+
+msgid "Debug texture atlas management"
+msgstr ""
+
+msgid "Disable GL Pixel Buffers"
+msgstr ""
+
+msgid "Disable GL Vertex Buffers"
+msgstr ""
+
+msgid "Disable GLSL"
+msgstr ""
+
+msgid "Disable Journal batching"
+msgstr ""
+
+msgid "Disable arbfp"
+msgstr ""
+
+msgid "Disable batching of geometry in the Cogl Journal."
+msgstr ""
+
+msgid "Disable blending"
+msgstr ""
+
+msgid "Disable fallback caches for arbfp and glsl programs"
+msgstr ""
+
+msgid "Disable fixed"
+msgstr ""
+
+msgid "Disable non-power-of-two textures"
+msgstr ""
+
+msgid ""
+"Disable optimization for reading 1px for simple scenes of opaque rectangles"
+msgstr ""
+
+msgid "Disable program caches"
+msgstr ""
+
+msgid "Disable read pixel optimization"
+msgstr ""
+
+msgid "Disable sharing the texture atlas between text and images"
+msgstr ""
+
+msgid "Disable software clipping"
+msgstr ""
+
+msgid "Disable software rect transform"
+msgstr ""
+
+msgid "Disable texture atlasing"
+msgstr ""
+
+msgid "Disable texturing"
+msgstr ""
+
+msgid "Disable texturing any primitives"
+msgstr ""
+
+msgid "Disable use of ARB fragment programs"
+msgstr ""
+
+msgid "Disable use of GLSL"
+msgstr ""
+
+msgid "Disable use of OpenGL pixel buffer objects"
+msgstr ""
+
+msgid "Disable use of OpenGL vertex buffer objects"
+msgstr ""
+
+msgid "Disable use of blending"
+msgstr ""
+
+msgid "Disable use of texture atlasing"
+msgstr ""
+
+msgid "Disable use of the fixed function pipeline backend"
+msgstr ""
+
+msgid "Disables Cogl's attempts to clip some rectangles in software."
+msgstr ""
+
+msgid "Dump atlas images"
+msgstr ""
+
+msgid "Dump texture atlas changes to an image file"
+msgstr ""
+
+msgid "Enables all non-behavioural debug options"
+msgstr ""
+
+msgid "Logs information about how Cogl is implementing clipping"
+msgstr ""
+
+msgid ""
+"Makes Cogl think that the GL driver doesn't support NPOT textures so that it"
+" will create sliced textures or textures with waste instead."
+msgstr ""
+
+msgid "Outline rectangles"
+msgstr ""
+
+msgid "Override the GL version that Cogl will assume the driver supports"
+msgstr ""
+
+msgid "Root Cause"
+msgstr ""
+
+msgid "Show Cogl options"
+msgstr ""
+
+msgid "Show generated ARBfp/GLSL source code"
+msgstr ""
+
+msgid "Show how geometry is being batched in the journal"
+msgstr ""
+
+msgid "Show source"
+msgstr ""
+
+msgid "Show wireframes"
+msgstr ""
+
+msgid "Special debug values:"
+msgstr ""
+
+msgid "Supported debug values:"
+msgstr ""
+
+msgid "Trace Atlas Textures"
+msgstr ""
+
+msgid "Trace Batching"
+msgstr ""
+
+msgid "Trace Blend Strings"
+msgstr ""
+
+msgid "Trace CoglTexturePixmap backend"
+msgstr ""
+
+msgid "Trace Journal"
+msgstr ""
+
+msgid "Trace Misc Drawing"
+msgstr ""
+
+msgid "Trace Pango Renderer"
+msgstr ""
+
+msgid "Trace Texture Slicing"
+msgstr ""
+
+msgid "Trace all matrix manipulation"
+msgstr ""
+
+msgid "Trace clipping"
+msgstr ""
+
+msgid "Trace matrices"
+msgstr ""
+
+msgid "Trace offscreen support"
+msgstr ""
+
+msgid "Trace performance concerns"
+msgstr ""
+
+msgid "Trace some OpenGL"
+msgstr ""
+
+msgid "Trace some misc drawing operations"
+msgstr ""
+
+msgid "Trace the Cogl Pango renderer"
+msgstr ""
+
+msgid "Trace the Cogl texture pixmap backend"
+msgstr ""
+
+msgid "Traces some select OpenGL calls"
+msgstr ""
+
+msgid "Tries to highlight sub-optimal Cogl usage."
+msgstr ""
+
+msgid "Use the GPU to transform rectangular geometry"
+msgstr ""
+
+msgid "View all the geometry passing through the journal"
+msgstr ""
+
+msgid "Visualize"
+msgstr ""
+
+msgid ""
+"When this is set the glyph cache will always use a separate texture for its "
+"atlas. Otherwise it will try to share the atlas with images."
+msgstr ""
+
+msgid "debug the creation of texture slices"
+msgstr ""

@@ -1,0 +1,218 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-video-effects&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2019-08-13 13:09+0000\n"
+"Last-Translator: Tong Hui <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:41+0000\n"
+
+msgid "A triangle Kaleidoscope"
+msgstr ""
+
+msgid "Add a loopback alpha blending effector with rotating and scaling"
+msgstr ""
+
+msgid "Add age to video input using scratches and dust"
+msgstr ""
+
+msgid "Add more saturation to the video input"
+msgstr ""
+
+msgid "Add some hallucination to the video input"
+msgstr ""
+
+msgid "Add the ripple mark effect on the video input"
+msgstr ""
+
+msgid "Bulge"
+msgstr ""
+
+msgid "Bulges the center of the video"
+msgstr ""
+
+msgid "Cartoon"
+msgstr ""
+
+msgid "Cartoonify video input"
+msgstr ""
+
+msgid "Che Guevara"
+msgstr ""
+
+msgid "Chrome"
+msgstr ""
+
+msgid "Detect radioactivity and show it"
+msgstr ""
+
+msgid "Dice"
+msgstr ""
+
+msgid "Dices the video input into many small squares"
+msgstr ""
+
+msgid "Display video input like good old low resolution computer way"
+msgstr ""
+
+msgid "Dissolves moving objects in the video input"
+msgstr ""
+
+msgid "Distort the video input"
+msgstr ""
+
+msgid "Distortion"
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Extracts edges in the video input through using the Sobel operator"
+msgstr ""
+
+msgid "Fake heat camera toning"
+msgstr ""
+
+msgid "Flip"
+msgstr ""
+
+msgid "Flip the image, as if looking at a mirror"
+msgstr ""
+
+msgid "Heat"
+msgstr ""
+
+msgid "Historical"
+msgstr ""
+
+msgid "Hulk"
+msgstr ""
+
+msgid "Inversion"
+msgstr ""
+
+msgid "Invert and slightly shade to blue"
+msgstr ""
+
+msgid "Invert colors of the video input"
+msgstr ""
+
+msgid "Kaleidoscope"
+msgstr ""
+
+msgid "Kung-Fu"
+msgstr ""
+
+msgid "Makes a square out of the center of the video"
+msgstr ""
+
+msgid "Mauve"
+msgstr ""
+
+msgid "Mirror"
+msgstr ""
+
+msgid "Mirrors the video"
+msgstr ""
+
+msgid "Noir/Blanc"
+msgstr ""
+
+msgid "Optical Illusion"
+msgstr ""
+
+msgid "Pinch"
+msgstr ""
+
+msgid "Pinches the center of the video"
+msgstr ""
+
+msgid "Quark"
+msgstr ""
+
+msgid "Radioactive"
+msgstr ""
+
+msgid "Ripple"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Sepia toning"
+msgstr ""
+
+msgid "Shagadelic"
+msgstr ""
+
+msgid "Show what was happening in the past"
+msgstr ""
+
+msgid "Sobel"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Stretch"
+msgstr ""
+
+msgid "Stretches the center of the video"
+msgstr ""
+
+msgid "Time delay"
+msgstr ""
+
+msgid "Traditional black-white optical animation"
+msgstr ""
+
+msgid "Transform motions into Kung-Fu style"
+msgstr ""
+
+msgid "Transform video input into a mauve color"
+msgstr ""
+
+msgid "Transform video input into a metallic look"
+msgstr ""
+
+msgid "Transform video input into a waveform monitor"
+msgstr ""
+
+msgid "Transform video input into grayscale"
+msgstr ""
+
+msgid "Transform video input into realtime goo’ing"
+msgstr ""
+
+msgid "Transform video input into typical Che Guevara style"
+msgstr ""
+
+msgid "Transform yourself into the amazing Hulk"
+msgstr ""
+
+msgid "Twirl"
+msgstr ""
+
+msgid "Twirl the center of the video"
+msgstr ""
+
+msgid "Vertigo"
+msgstr ""
+
+msgid "Warp"
+msgstr ""
+
+msgid "Waveform"
+msgstr ""
+
+msgid "X-Ray"
+msgstr ""

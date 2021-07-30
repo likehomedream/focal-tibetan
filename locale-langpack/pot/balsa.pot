@@ -1,0 +1,2784 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: balsa master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=balsa&component=general\n"
+"PO-Revision-Date: 2020-04-05 11:48+0000\n"
+"Last-Translator: Wylmer Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:59+0000\n"
+
+msgid ""
+"\n"
+"<b>This certificate was issued by:</b>\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Key fingerprint: %s"
+msgstr ""
+
+msgid ""
+"\n"
+"Signed on: %s"
+msgstr ""
+
+msgid ""
+"\n"
+"detailed permissions are available only for open folders"
+msgstr ""
+
+msgid ""
+" Whoever provides your email account should be able to give you the "
+"following information (if you have a Network Administrator, they may already"
+" have set this up for you):"
+msgstr ""
+
+msgid " address book: "
+msgstr ""
+
+msgid "%s (default)"
+msgstr ""
+
+msgid "%s message part"
+msgstr ""
+
+msgid "%s of %s (%.1f%%) used"
+msgstr ""
+
+msgid "%s wrote:\n"
+msgstr ""
+
+msgid "%s: %s is not in mbox format."
+msgstr ""
+
+msgid "%s: Opening %s Refcount: %d\n"
+msgstr ""
+
+msgid "%s: could not open %s."
+msgstr ""
+
+msgid "(No name)"
+msgstr ""
+
+msgid "(No sender)"
+msgstr ""
+
+msgid "(No subject)"
+msgstr ""
+
+msgid "(URL)"
+msgstr ""
+
+msgid "(no subject)"
+msgstr ""
+
+msgid "*** ERROR: Mailbox Stream Closed: %s ***\n"
+msgstr ""
+
+msgid ", %d hidden"
+msgid_plural ", %d hidden"
+msgstr[0] ""
+
+msgid ", %d new"
+msgid_plural ", %d new"
+msgstr[0] ""
+
+msgid "------forwarded message from %s------\n"
+msgstr ""
+
+msgid ""
+"<b>This certificate is valid</b>\n"
+"from %s\n"
+"to %s\n"
+"<b>Fingerprint:</b> %s"
+msgstr ""
+
+msgid "AND"
+msgstr ""
+
+msgid "A_dd"
+msgstr ""
+
+msgid "A_ddress Book Name:"
+msgstr ""
+
+msgid "A_pply Now!"
+msgstr ""
+
+msgid "About Balsa"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Accept tentatively"
+msgstr ""
+
+msgid "Access type: %s\n"
+msgstr ""
+
+msgid "Access type: URL\n"
+msgstr ""
+
+msgid "Access type: local-file\n"
+msgstr ""
+
+msgid "Access type: mail-server\n"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Action to perform:"
+msgstr ""
+
+msgid "Add %s Address Book"
+msgstr ""
+
+msgid "Add the current word to your personal dictionary"
+msgstr ""
+
+msgid "Address Book"
+msgstr ""
+
+msgid "Address book could not be accessed."
+msgstr ""
+
+msgid "Address book name"
+msgstr ""
+
+msgid "Address books"
+msgstr ""
+
+msgid "Address could not be written to this address book."
+msgstr ""
+
+msgid "After moving a message:"
+msgstr ""
+
+msgid ""
+"All\n"
+"headers"
+msgstr ""
+
+msgid "All Done!"
+msgstr ""
+
+msgid "All _Headers"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid ""
+"An IMAP folder that is not a mailbox\n"
+"has no properties that can be changed."
+msgstr ""
+
+msgid "Appending message to %s failed: %s"
+msgstr ""
+
+msgid "Applying filter rules to %s"
+msgstr ""
+
+msgid "Ask me"
+msgstr ""
+
+msgid "Ask me before selecting a different mailbox to show an unread message"
+msgstr ""
+
+msgid "Attach"
+msgstr ""
+
+msgid "Attach as MIME type:"
+msgstr ""
+
+msgid "Attach file"
+msgstr ""
+
+msgid ""
+"Attaching message failed.\n"
+"Possible reason: not enough temporary space"
+msgstr ""
+
+msgid "Attachment"
+msgstr ""
+
+msgid "Attempt to apply an invalid filter"
+msgstr ""
+
+msgid ""
+"Authenticity of this certificate could not be verified.\n"
+"<b>Reason:</b> %s\n"
+"<b>This certificate belongs to:</b>\n"
+msgstr ""
+
+msgid "Auto-complete"
+msgstr ""
+
+msgid "Automatically quote original when replying"
+msgstr ""
+
+msgid "Automatically view message when mailbox opened"
+msgstr ""
+
+msgid "Available buttons"
+msgstr ""
+
+msgid "B_ody Font:"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Bad X-Face data"
+msgstr ""
+
+msgid "Bad mailbox name for filter: %s"
+msgstr ""
+
+msgid "Balsa"
+msgstr ""
+
+msgid "Balsa Preferences"
+msgstr ""
+
+msgid ""
+"Balsa is sending a mail now.\n"
+"Abort sending?"
+msgstr ""
+
+msgid "Balsa passwords"
+msgstr ""
+
+msgid "Balsa: %s"
+msgstr ""
+
+msgid "Base Domain _Name"
+msgstr ""
+
+msgid "Body Contains:"
+msgstr ""
+
+msgid "C_heck Spelling"
+msgstr ""
+
+msgid "C_lear"
+msgstr ""
+
+msgid "C_reate"
+msgstr ""
+
+msgid "Cache file for mailbox %s will be created"
+msgstr ""
+
+msgid "Cache file for mailbox %s will be repaired"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot access message %u to pass to %s"
+msgstr ""
+
+msgid "Cannot add duplicate entry"
+msgstr ""
+
+msgid "Cannot connect to %s"
+msgstr ""
+
+msgid "Cannot connect to the server"
+msgstr ""
+
+msgid "Cannot connect to the server: %s"
+msgstr ""
+
+msgid "Cannot create file URI object for %s"
+msgstr ""
+
+msgid "Cannot create message"
+msgstr ""
+
+msgid "Cannot create temporary file"
+msgstr ""
+
+msgid "Cannot find address in address book"
+msgstr ""
+
+msgid "Cannot get IMAP handle"
+msgstr ""
+
+msgid "Cannot launch, missing application"
+msgstr ""
+
+msgid "Cannot load mailbox %s"
+msgstr ""
+
+msgid "Cannot lock mailbox."
+msgstr ""
+
+msgid "Cannot open %s: %s"
+msgstr ""
+
+msgid "Cannot open %s: is a symbolic link"
+msgstr ""
+
+msgid "Cannot open mailbox."
+msgstr ""
+
+msgid "Cannot process the message: %s"
+msgstr ""
+
+msgid "Cannot read %s"
+msgstr ""
+
+msgid "Cannot read %s: %s"
+msgstr ""
+
+msgid "Cannot read from address book"
+msgstr ""
+
+msgid "Cannot read message %u to pass to %s"
+msgstr ""
+
+msgid "Cannot search in the address book"
+msgstr ""
+
+msgid "Cannot write to address book"
+msgstr ""
+
+msgid "Cannot write to temporary file %s"
+msgstr ""
+
+msgid "Change _All"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid "Check _IMAP mailboxes"
+msgstr ""
+
+msgid "Check cryptographic signature"
+msgstr ""
+
+msgid "Check quoted"
+msgstr ""
+
+msgid "Check signature"
+msgstr ""
+
+msgid "Checking"
+msgstr ""
+
+msgid "Choose destination folder"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close mailbox if unused more than"
+msgstr ""
+
+msgid "Close message window"
+msgstr ""
+
+msgid "Colorize"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Compose"
+msgstr ""
+
+msgid "Compose a new email to EMAIL@ADDRESS"
+msgstr ""
+
+msgid "Compose window"
+msgstr ""
+
+msgid "Configure Balsa"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Contain/Does _Not Contain"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Content Type: %s"
+msgstr ""
+
+msgid "Content Type: external-body\n"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Copy link"
+msgstr ""
+
+msgid "Copy outgoing messages to sentbox"
+msgstr ""
+
+msgid "Copy to folder:"
+msgstr ""
+
+msgid "Copying from %s to %s"
+msgstr ""
+
+msgid "Could not attach the file %s: %s."
+msgstr ""
+
+msgid "Could not create MH directory at %s (%s)"
+msgstr ""
+
+msgid "Could not create MH structure at %s (%s)"
+msgstr ""
+
+msgid "Could not create URI for %s"
+msgstr ""
+
+msgid "Could not create a mailbox of type %s"
+msgstr ""
+
+msgid "Could not get a part: %s"
+msgstr ""
+
+msgid "Could not get an HTML part: %s"
+msgstr ""
+
+msgid "Could not launch %s: %s"
+msgstr ""
+
+msgid "Could not launch application: %s"
+msgstr ""
+
+msgid "Could not load Face header file %s: %s"
+msgstr ""
+
+msgid "Could not load X-Face header file %s: %s"
+msgstr ""
+
+msgid "Could not postpone message."
+msgstr ""
+
+msgid "Could not postpone message: %s"
+msgstr ""
+
+msgid "Could not read embedded message"
+msgstr ""
+
+msgid ""
+"Could not remove %s:\n"
+"%s"
+msgstr ""
+
+msgid ""
+"Could not remove contents of %s:\n"
+"%s"
+msgstr ""
+
+msgid "Could not save %s: %s"
+msgstr ""
+
+msgid "Could not save a text part: %s"
+msgstr ""
+
+msgid "Could not save attachment: %s"
+msgstr ""
+
+msgid "Could not save message."
+msgstr ""
+
+msgid "Could not unlink file %s: %s"
+msgstr ""
+
+msgid "Could not write file %s: %s"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "Current toolbar"
+msgstr ""
+
+msgid "Customize Toolbars"
+msgstr ""
+
+msgid "D_isplayed Name:"
+msgstr ""
+
+msgid "Data copy error"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date encoding (for strftime):"
+msgstr ""
+
+msgid "Date interval"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Debug messages:"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Client"
+msgstr ""
+
+msgid "Default Identity"
+msgstr ""
+
+msgid "Default layout"
+msgstr ""
+
+msgid "Default sort column:"
+msgstr ""
+
+msgid "Deleted"
+msgstr ""
+
+msgid "Deleting messages"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Detected a good signature"
+msgstr ""
+
+msgid "Directory: %s\n"
+msgstr ""
+
+msgid "Disable _APOP"
+msgstr ""
+
+msgid "Display message"
+msgstr ""
+
+msgid "Display of multipart/alternative parts"
+msgstr ""
+
+msgid "Display options"
+msgstr ""
+
+msgid "Display progress dialog"
+msgstr ""
+
+msgid "Disposition-Notification-To:"
+msgstr ""
+
+msgid "Do background check quietly (no messages in status bar)"
+msgstr ""
+
+msgid "Do you really want to delete the selected identity?"
+msgstr ""
+
+msgid "Do you want to select %s?"
+msgstr ""
+
+msgid "Downloading %ld kB"
+msgstr ""
+
+msgid "Downloading %u kB"
+msgstr ""
+
+msgid "Draftbox"
+msgstr ""
+
+msgid "ERROR: "
+msgstr ""
+
+msgid "E_xpand All"
+msgstr ""
+
+msgid "E_xpunge Deleted Messages"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit condition for filter: "
+msgstr ""
+
+msgid "Edit headers in external editor"
+msgstr ""
+
+msgid "Email Address"
+msgstr ""
+
+msgid "Empty _Trash"
+msgstr ""
+
+msgid "Enable _TLS"
+msgstr ""
+
+msgid "Encrypt"
+msgstr ""
+
+msgid "Error appending message %d from %s to %s: %s"
+msgstr ""
+
+msgid "Error displaying condition help: %s\n"
+msgstr ""
+
+msgid "Error displaying config help: %s\n"
+msgstr ""
+
+msgid "Error displaying filter help: %s\n"
+msgstr ""
+
+msgid "Error displaying help for identities: %s\n"
+msgstr ""
+
+msgid "Error displaying help: %s\n"
+msgstr ""
+
+msgid "Error displaying run filters help: %s\n"
+msgstr ""
+
+msgid "Error displaying server help: %s\n"
+msgstr ""
+
+msgid "Error displaying toolbar help: %s\n"
+msgstr ""
+
+msgid "Error during filters loading: "
+msgstr ""
+
+msgid ""
+"Error during filters loading: %s\n"
+"Filters may not be correct."
+msgstr ""
+
+msgid "Error fetching message from IMAP server: %s"
+msgstr ""
+
+msgid "Error in regular expression syntax"
+msgstr ""
+
+msgid "Error loading Face: %s"
+msgstr ""
+
+msgid "Error loading attached image: %s\n"
+msgstr ""
+
+msgid "Error messages:"
+msgstr ""
+
+msgid "Error printing message: %s"
+msgstr ""
+
+msgid "Error reading file %s: %s"
+msgstr ""
+
+msgid "Error reading message part: %s"
+msgstr ""
+
+msgid "Error showing %s: %s\n"
+msgstr ""
+
+msgid "Error starting spell checker: %s"
+msgstr ""
+
+msgid "Error when applying filters"
+msgstr ""
+
+msgid "Error when copying messages: %s"
+msgstr ""
+
+msgid "Error when moving messages: %s"
+msgstr ""
+
+msgid "Error when trashing messages: %s"
+msgstr ""
+
+msgid "Error: An identity with that name already exists"
+msgstr ""
+
+msgid "Error: The identity does not have a name"
+msgstr ""
+
+msgid "Event Cancellation"
+msgstr ""
+
+msgid "Event Notification"
+msgstr ""
+
+msgid "Event Request"
+msgstr ""
+
+msgid "Exceeded the number of connections per server %s"
+msgstr ""
+
+msgid "Exchange"
+msgstr ""
+
+msgid "Expunge deleted messages when mailbox is closed"
+msgstr ""
+
+msgid "External query (a program)"
+msgstr ""
+
+msgid "FATAL: "
+msgstr ""
+
+msgid "FTP site: %s\n"
+msgstr ""
+
+msgid "F_ilter:"
+msgstr ""
+
+msgid "F_orward string:"
+msgstr ""
+
+msgid "F_rom"
+msgstr ""
+
+msgid "F_rom:"
+msgstr ""
+
+msgid "Face header file %s contains binary data."
+msgstr ""
+
+msgid "Face header file %s is too long (%lu bytes)."
+msgstr ""
+
+msgid "Failed to create output stream"
+msgstr ""
+
+msgid "Failed to decrypt MIME part: parse error"
+msgstr ""
+
+msgid "Failed to find mailbox"
+msgstr ""
+
+msgid "Failed to read cache file %s: %s"
+msgstr ""
+
+msgid "Fatal error messages:"
+msgstr ""
+
+msgid "Fi_lter Command:"
+msgstr ""
+
+msgid "File already exists. Overwrite?"
+msgstr ""
+
+msgid "File name:"
+msgstr ""
+
+msgid "File name: %s"
+msgstr ""
+
+msgid "Filter has matched"
+msgstr ""
+
+msgid "Filter must have conditions."
+msgstr ""
+
+msgid "Filter with no condition was omitted"
+msgstr ""
+
+msgid "Filtering %s"
+msgstr ""
+
+msgid "Filtering using regular expressions is not yet implemented."
+msgstr ""
+
+msgid "Find Ne_xt"
+msgstr ""
+
+msgid "Find in _Message"
+msgstr ""
+
+msgid "Find:"
+msgstr ""
+
+msgid "Finding duplicate messages in source mailbox failed"
+msgstr ""
+
+msgid "Finish spell checking"
+msgstr ""
+
+msgid "First Name"
+msgstr ""
+
+msgid "Flag condition"
+msgstr ""
+
+msgid "Flagged"
+msgstr ""
+
+msgid "Folder creation failed. Reason: %s"
+msgstr ""
+
+msgid "Folder deletion failed. Reason: %s"
+msgstr ""
+
+msgid "Folder rename failed. Reason: %s"
+msgstr ""
+
+msgid "Folder scanning"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Foreground"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Forward a mail as attachment instead of quoting it"
+msgstr ""
+
+msgid "Forward message to %s: %s"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Full Name"
+msgstr ""
+
+msgid "Fwd:"
+msgstr ""
+
+msgid "GPE Address Book"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "GnomeCard Address Book"
+msgstr ""
+
+msgid "GnuPG MIME mode"
+msgstr ""
+
+msgid "GnuPG OpenPGP mode"
+msgstr ""
+
+msgid "GnuPG is rebuilding the trust database and is currently unavailable."
+msgstr ""
+
+msgid "GpgSM S/MIME mode"
+msgstr ""
+
+msgid "Hide messages marked as deleted"
+msgstr ""
+
+msgid "Highlight _cited text"
+msgstr ""
+
+msgid "Highlighting"
+msgstr ""
+
+msgid "Host:"
+msgstr ""
+
+msgid "Hyperlink color"
+msgstr ""
+
+msgid ""
+"IMAP SEARCH command failed for mailbox %s\n"
+"falling back to default searching method"
+msgstr ""
+
+msgid "IMAP mailbox: %s"
+msgstr ""
+
+msgid ""
+"IMAP server %s alert:\n"
+"%s"
+msgstr ""
+
+msgid "IMAP server %s error: %s"
+msgstr ""
+
+msgid "Identity"
+msgstr ""
+
+msgid "If Possible"
+msgstr ""
+
+msgid "If you would like to provide one, enter it below."
+msgstr ""
+
+msgid "In:"
+msgstr ""
+
+msgid "Inbox"
+msgstr ""
+
+msgid "Incl_ude signature"
+msgstr ""
+
+msgid "Include HTML parts as text when replying or forwarding"
+msgstr ""
+
+msgid "Include file"
+msgstr ""
+
+msgid "Include signature when for_warding"
+msgstr ""
+
+msgid "Include signature when rep_lying"
+msgstr ""
+
+msgid "Incoming"
+msgstr ""
+
+msgid "Information messages"
+msgstr ""
+
+msgid "Information messages:"
+msgstr ""
+
+msgid "Insert Si_gnature"
+msgstr ""
+
+msgid "Inside/outside the date interval"
+msgstr ""
+
+msgid "Internal buffer overrun"
+msgstr ""
+
+msgid "Invalid filter: %s"
+msgstr ""
+
+msgid "Invalid filters %s for mailbox %s"
+msgstr ""
+
+msgid "Invalid input format"
+msgstr ""
+
+msgid "JWZ"
+msgstr ""
+
+msgid "LDAP Address Book"
+msgstr ""
+
+msgid "LDAP Directory for %s"
+msgstr ""
+
+msgid "LDIF Address Book"
+msgstr ""
+
+msgid "Last Name"
+msgstr ""
+
+msgid "Link color"
+msgstr ""
+
+msgid "Load program location:"
+msgstr ""
+
+msgid ""
+"Local Mail Problem\n"
+"%s"
+msgstr ""
+
+msgid "Local folder %s\n"
+msgstr ""
+
+msgid "Local mail directory"
+msgstr ""
+
+msgid "Local mailbox %s loaded as: %s\n"
+msgstr ""
+
+msgid "Local mailbox: %s"
+msgstr ""
+
+msgid "MAILBOXNAME"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "M_ove"
+msgstr ""
+
+msgid "Mail Files"
+msgstr ""
+
+msgid "Mail options"
+msgstr ""
+
+msgid "Mail server: %s\n"
+msgstr ""
+
+msgid "Mail_box"
+msgstr ""
+
+msgid "Mailbox"
+msgstr ""
+
+msgid "Mailbox %s does not appear to be a Maildir mailbox."
+msgstr ""
+
+msgid "Mailbox closed"
+msgstr ""
+
+msgid "Mailbox does not exist."
+msgstr ""
+
+msgid "Mailbox is not in mbox format."
+msgstr ""
+
+msgid "Mailbox name"
+msgstr ""
+
+msgid "Main window"
+msgstr ""
+
+msgid "Manage Identities"
+msgstr ""
+
+msgid "Margins"
+msgstr ""
+
+msgid "Mark all"
+msgstr ""
+
+msgid "Mark as D_raftbox"
+msgstr ""
+
+msgid "Mark as _Inbox"
+msgstr ""
+
+msgid "Mark as _Trash"
+msgstr ""
+
+msgid "Mark quoted text"
+msgstr ""
+
+msgid "Match"
+msgstr ""
+
+msgid "Match Fields"
+msgstr ""
+
+msgid "Match when date is in the interval:"
+msgstr ""
+
+msgid "Match when date is outside the interval:"
+msgstr ""
+
+msgid "Match when message date is in the interval:"
+msgstr ""
+
+msgid "Match when none of these flags is set:"
+msgstr ""
+
+msgid "Match when one flag is set/when no flag is set"
+msgstr ""
+
+msgid "Match when one of these flags is set:"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Source"
+msgstr ""
+
+msgid "Message colors"
+msgstr ""
+
+msgid "Message could not be created"
+msgstr ""
+
+msgid "Message could not be encrypted"
+msgstr ""
+
+msgid "Message could not be sent"
+msgstr ""
+
+msgid "Message could not be signed"
+msgstr ""
+
+msgid "Message font:"
+msgstr ""
+
+msgid "Message from %s: %s"
+msgstr ""
+
+msgid "Message parts"
+msgstr ""
+
+msgid "Message postponed."
+msgstr ""
+
+msgid "Message rename error"
+msgstr ""
+
+msgid "Message saved."
+msgstr ""
+
+msgid "Message window"
+msgstr ""
+
+msgid "Message-ID: %s\n"
+msgstr ""
+
+msgid "Messages"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Miscellaneous spelling settings"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Modify %s Address Book"
+msgstr ""
+
+msgid "Move To _Trash"
+msgstr ""
+
+msgid "Move to Trash failed: %s"
+msgstr ""
+
+msgid "Move to folder:"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name of mail server for incoming _mail:"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New Identity"
+msgstr ""
+
+msgid "New filter"
+msgstr ""
+
+msgid "New mail notification"
+msgstr ""
+
+msgid "New message to %s: %s"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid ""
+"Next\n"
+"flagged"
+msgstr ""
+
+msgid ""
+"Next\n"
+"part"
+msgstr ""
+
+msgid ""
+"Next\n"
+"unread"
+msgstr ""
+
+msgid "Next Flagged Message"
+msgstr ""
+
+msgid "Next Message"
+msgstr ""
+
+msgid "Next Unread Message"
+msgstr ""
+
+msgid "Nick Name"
+msgstr ""
+
+msgid "No duplicates found"
+msgstr ""
+
+msgid "No error"
+msgstr ""
+
+msgid "No filter name specified."
+msgstr ""
+
+msgid "No image data"
+msgstr ""
+
+msgid "No mailbox selected."
+msgstr ""
+
+msgid "No open or view action defined for this content type"
+msgstr ""
+
+msgid "No subject"
+msgstr ""
+
+msgid "No such mailbox type: %s"
+msgstr ""
+
+msgid "No, type it in every time"
+msgstr ""
+
+msgid "No-Id"
+msgstr ""
+
+msgid "No-Name"
+msgstr ""
+
+msgid "None of the regular expressions matches"
+msgstr ""
+
+msgid "None of the specified fields contains:"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Notification:"
+msgstr ""
+
+msgid "OR"
+msgstr ""
+
+msgid "O_rganization:"
+msgstr ""
+
+msgid "Old at most (days):"
+msgstr ""
+
+msgid "Older than (days):"
+msgstr ""
+
+msgid "On %s, %s wrote:\n"
+msgstr ""
+
+msgid "On exit"
+msgstr ""
+
+msgid "On reception"
+msgstr ""
+
+msgid "One _Matches/None Matches"
+msgstr ""
+
+msgid "One of the regular expressions matches"
+msgstr ""
+
+msgid "One of the specified f_ields contains"
+msgstr ""
+
+msgid "One of the specified fields contains:"
+msgstr ""
+
+msgid "Open _part with %s"
+msgstr ""
+
+msgid "Open link"
+msgstr ""
+
+msgid "Open next matching message"
+msgstr ""
+
+msgid "Open of %s failed. Errno = %d, "
+msgstr ""
+
+msgid "Open with %s"
+msgstr ""
+
+msgid "OpenPGP"
+msgstr ""
+
+msgid "Opening %s"
+msgstr ""
+
+msgid "Opens MAILBOXNAME"
+msgstr ""
+
+msgid "Opens first unread mailbox"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Other options"
+msgstr ""
+
+msgid "Outbox"
+msgstr ""
+
+msgid "Outgoing"
+msgstr ""
+
+msgid "Outgoing mail servers"
+msgstr ""
+
+msgid "PGP"
+msgstr ""
+
+msgid "Page %d of %d"
+msgstr ""
+
+msgid "Page _Setup"
+msgstr ""
+
+msgid "Parsing a message part failed: %s"
+msgstr ""
+
+msgid "Password needed"
+msgstr ""
+
+msgid "Permissions:"
+msgstr ""
+
+msgid "Pipe message through a program"
+msgstr ""
+
+msgid "Play sound"
+msgstr ""
+
+msgid "Play sound:"
+msgstr ""
+
+msgid "Possible disk space problem."
+msgstr ""
+
+msgid "Postpone"
+msgstr ""
+
+msgid "Pr_efix:"
+msgstr ""
+
+msgid "Preparing %s"
+msgstr ""
+
+msgid "Prepend si_gnature"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid ""
+"Previous\n"
+"part"
+msgstr ""
+
+msgid "Previous Message"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Print on printer:"
+msgstr ""
+
+msgid "Print to console"
+msgstr ""
+
+msgid "Priority Text Be_side Icons"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Quota:"
+msgstr ""
+
+msgid "Quote level %d color"
+msgstr ""
+
+msgid "R_eply To"
+msgstr ""
+
+msgid "Re:"
+msgstr ""
+
+msgid "Reading embedded message failed: %s"
+msgstr ""
+
+msgid "Reconstructing message"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Reference"
+msgstr ""
+
+msgid "Regular Expression"
+msgstr ""
+
+msgid "Remember open mailboxes between sessions"
+msgstr ""
+
+msgid "Remote IMAP folder"
+msgstr ""
+
+msgid "Remote IMAP subfolder"
+msgstr ""
+
+msgid "Remote Mailbox Configurator"
+msgstr ""
+
+msgid "Remote mailbox servers"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove from _list"
+msgstr ""
+
+msgid "Remove from list and _disk"
+msgstr ""
+
+msgid "Removed %d duplicate"
+msgid_plural "Removed %d duplicates"
+msgstr[0] ""
+
+msgid "Removing duplicates failed: %s"
+msgstr ""
+
+msgid "Removing messages from source mailbox failed"
+msgstr ""
+
+msgid ""
+"Rename of %s to %s failed:\n"
+"%s"
+msgstr ""
+
+msgid "Replace the current word with the selected suggestion"
+msgstr ""
+
+msgid "Replied"
+msgstr ""
+
+msgid "Reply"
+msgstr ""
+
+msgid ""
+"Reply\n"
+"to all"
+msgstr ""
+
+msgid ""
+"Reply\n"
+"to group"
+msgstr ""
+
+msgid "Reply To:"
+msgstr ""
+
+msgid "Reply _string:"
+msgstr ""
+
+msgid "Reply _to:"
+msgstr ""
+
+msgid "Reply prefix:"
+msgstr ""
+
+msgid "Reply to %s: %s"
+msgstr ""
+
+msgid "Reply to Event Request"
+msgstr ""
+
+msgid "Reply-To:"
+msgstr ""
+
+msgid ""
+"Request\n"
+"MDN"
+msgstr ""
+
+msgid "Revert all changes and finish spell checking"
+msgstr ""
+
+msgid "Rubrica2 Address Book"
+msgstr ""
+
+msgid "Run program:"
+msgstr ""
+
+msgid "S/MIME"
+msgstr ""
+
+msgid "SMTP Server"
+msgstr ""
+
+msgid "SMT_P server:"
+msgstr ""
+
+msgid "SSL/TLS certificate"
+msgstr ""
+
+msgid "S_ave part"
+msgstr ""
+
+msgid "S_elected Headers"
+msgstr ""
+
+msgid "S_ubject"
+msgstr ""
+
+msgid "S_ubject:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save %s MIME Part"
+msgstr ""
+
+msgid "Save program location:"
+msgstr ""
+
+msgid "Saving sent message to %s failed: %s"
+msgstr ""
+
+msgid "Scan IMAP folders to depth"
+msgstr ""
+
+msgid "Scan local folders to depth"
+msgstr ""
+
+msgid "Scanning of %s failed: %s"
+msgstr ""
+
+msgid ""
+"Scanning of %s failed: %s\n"
+"Check network connectivity."
+msgstr ""
+
+msgid "Se_nd message to obtain this part"
+msgstr ""
+
+msgid "Search T_ype:"
+msgstr ""
+
+msgid "Search mailbox"
+msgstr ""
+
+msgid "Searching %s for partial messages"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Select Identity"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select _Thread"
+msgstr ""
+
+msgid "Select folder for saving selected parts"
+msgstr ""
+
+msgid "Select key"
+msgstr ""
+
+msgid "Select load program for address book"
+msgstr ""
+
+msgid "Select message part to display"
+msgstr ""
+
+msgid "Select parent folder"
+msgstr ""
+
+msgid "Select parts for quotation"
+msgstr ""
+
+msgid "Select save program for address book"
+msgstr ""
+
+msgid "Select the parts of the message which shall be quoted in the reply"
+msgstr ""
+
+msgid "Select your local mail directory"
+msgstr ""
+
+msgid "Selected headers:"
+msgstr ""
+
+msgid "Send"
+msgstr ""
+
+msgid "Send _encrypted"
+msgstr ""
+
+msgid "Send _unencrypted"
+msgstr ""
+
+msgid "Send and _Receive Mail"
+msgstr ""
+
+msgid "Send as plain text and _HTML"
+msgstr ""
+
+msgid "Send button always queues outgoing mail in outbox"
+msgstr ""
+
+msgid "Send failed: %s"
+msgstr ""
+
+msgid ""
+"Send failed: %s\n"
+"%s"
+msgstr ""
+
+msgid "Send to Trash"
+msgstr ""
+
+msgid "Send-To"
+msgstr ""
+
+msgid "Sender"
+msgstr ""
+
+msgid "Sentbox"
+msgstr ""
+
+msgid "Separator"
+msgstr ""
+
+msgid "Server name"
+msgstr ""
+
+msgid "Show Mailbox _Tabs"
+msgstr ""
+
+msgid "Show St_atus Bar"
+msgstr ""
+
+msgid "Show Too_lbar"
+msgstr ""
+
+msgid "Show _Index Filter"
+msgstr ""
+
+msgid "Show _Recipient column instead of Sender"
+msgstr ""
+
+msgid "Show dialog"
+msgstr ""
+
+msgid "Show icon"
+msgstr ""
+
+msgid "Show in list"
+msgstr ""
+
+msgid "Show in status bar"
+msgstr ""
+
+msgid "Show next message"
+msgstr ""
+
+msgid "Show next unread message"
+msgstr ""
+
+msgid "Show nothing"
+msgstr ""
+
+msgid "Show only matching messages"
+msgstr ""
+
+msgid "Shown mailbox: %s "
+msgstr ""
+
+msgid "Sign"
+msgstr ""
+
+msgid "Signature"
+msgstr ""
+
+msgid "Signature _path"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Skip the current word"
+msgstr ""
+
+msgid "Sp_lit message larger than"
+msgstr ""
+
+msgid "Specify the program to run:"
+msgstr ""
+
+msgid "Spell check"
+msgstr ""
+
+msgid "Spelling"
+msgstr ""
+
+msgid "Status messages"
+msgstr ""
+
+msgid "Store Address"
+msgstr ""
+
+msgid "Store address: no addresses"
+msgstr ""
+
+msgid "Subfolder of:"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Subject Contains:"
+msgstr ""
+
+msgid "Subject font:"
+msgstr ""
+
+msgid "Subject or Recipient Contains:"
+msgstr ""
+
+msgid "Subject or Sender Contains:"
+msgstr ""
+
+msgid "Subject:"
+msgstr ""
+
+msgid "Subject: %s\n"
+msgstr ""
+
+msgid "Subscribed _folders only"
+msgstr ""
+
+msgid "Suggest complete addresses:"
+msgstr ""
+
+msgid "Syntax error in the filter configuration file"
+msgstr ""
+
+msgid "TLS requested but not compiled in"
+msgstr ""
+
+msgid "T_oggle"
+msgstr ""
+
+msgid "Text Be_low Icons"
+msgstr ""
+
+msgid "The Balsa email client is part of the GNOME desktop environment."
+msgstr ""
+
+msgid ""
+"The filters dialog is opened, close it before you can run filters on any "
+"mailbox"
+msgstr ""
+
+msgid "The following settings are global:"
+msgstr ""
+
+msgid "The message contains attachments, which cannot be signed or encrypted.\n"
+msgstr ""
+
+msgid "The message header looks suspicious."
+msgstr ""
+
+msgid ""
+"The message text will be sent as plain text and as HTML, but only the plain "
+"part can be signed.\n"
+msgstr ""
+
+msgid "The next unread message is in %s"
+msgstr ""
+
+msgid "The path %s must be relative to the filesystem root (start with /)."
+msgstr ""
+
+msgid "The signature could not be verified due to a missing key."
+msgstr ""
+
+msgid "The signature could not be verified due to an invalid crypto engine."
+msgstr ""
+
+msgid "The signature is invalid."
+msgstr ""
+
+msgid "The signature is valid but expired."
+msgstr ""
+
+msgid ""
+"The signature is valid but the key used to verify the signature has been "
+"revoked."
+msgstr ""
+
+msgid ""
+"The signature is valid but the key used to verify the signature has expired."
+msgstr ""
+
+msgid "The signature is valid."
+msgstr ""
+
+msgid "The user ID is fully valid."
+msgstr ""
+
+msgid "The user ID is never valid."
+msgstr ""
+
+msgid "The user ID is of unknown validity."
+msgstr ""
+
+msgid "The user ID is ultimately valid."
+msgstr ""
+
+msgid "The validity of the user ID is undefined."
+msgstr ""
+
+msgid ""
+"There are opened filter run dialogs, close them before you can modify "
+"filters."
+msgstr ""
+
+msgid "This mail address is already in this address book."
+msgstr ""
+
+msgid ""
+"This message part contains images from a remote server. To protect your "
+"privacy, Balsa has not downloaded them. You may choose to download them if "
+"you trust the server."
+msgstr ""
+
+msgid "This message will not be encrypted for the BCC: recipient."
+msgid_plural "This message will not be encrypted for the BCC: recipients."
+msgstr[0] ""
+
+msgid ""
+"This will exit Balsa.\n"
+"Do you really want to do this?"
+msgstr ""
+
+msgid "Timeout exceeded while attempting fcntl lock!"
+msgstr ""
+
+msgid "Timeout exceeded while attempting flock lock!"
+msgstr ""
+
+msgid "To"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Toolbar options"
+msgstr ""
+
+msgid "Treat multiple addresses as:"
+msgstr ""
+
+msgid "Try again later."
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Type: %s (%s)"
+msgstr ""
+
+msgid "URL: %s"
+msgstr ""
+
+msgid "Un_answered"
+msgstr ""
+
+msgid "Un_flagged"
+msgstr ""
+
+msgid "Un_read"
+msgstr ""
+
+msgid ""
+"Unable to Open Mailbox!\n"
+"%s."
+msgstr ""
+
+msgid "Unable to allocate memory"
+msgstr ""
+
+msgid "Unable to export filter %s, an error occurred."
+msgstr ""
+
+msgid "Unable to load message body to match filter"
+msgstr ""
+
+msgid "Undefined location of user address book"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unexpected address book error. Report it."
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unlink %s: %s"
+msgstr ""
+
+msgid "Unread"
+msgstr ""
+
+msgid "Until closed"
+msgstr ""
+
+msgid "Uploading %ld kB"
+msgstr ""
+
+msgid "Use Desktop _Default (%s)"
+msgstr ""
+
+msgid "Use IDLE command"
+msgstr ""
+
+msgid "Use STATUS for mailbox checking"
+msgstr ""
+
+msgid "Use default font size"
+msgstr ""
+
+msgid "Use preview pane"
+msgstr ""
+
+msgid "User ID"
+msgstr ""
+
+msgid "User Settings"
+msgstr ""
+
+msgid "WARNING: "
+msgstr ""
+
+msgid "Warning messages:"
+msgstr ""
+
+msgid "Welcome to Balsa!"
+msgstr ""
+
+msgid "When mail arrives:"
+msgstr ""
+
+msgid "While retrieving messages"
+msgstr ""
+
+msgid "Wide message layout"
+msgstr ""
+
+msgid "Wide screen layout"
+msgstr ""
+
+msgid "Word wrap"
+msgstr ""
+
+msgid "Wrap outgoing text at"
+msgstr ""
+
+msgid "Wrap text at"
+msgstr ""
+
+msgid "Wrapped"
+msgstr ""
+
+msgid "Yes, remember it"
+msgstr ""
+
+msgid "You can apply filters only on mailbox\n"
+msgstr ""
+
+msgid ""
+"You did not select encryption for this message, although %s public keys are "
+"available for all recipients. In order to protect your privacy, the message "
+"could be %s encrypted."
+msgstr ""
+
+msgid "You did not specify a subject for this message"
+msgstr ""
+
+msgid "You have new mail."
+msgstr ""
+
+msgid "You have received %d new message."
+msgid_plural "You have received %d new messages."
+msgstr[0] ""
+
+msgid "You must provide a sound to play"
+msgstr ""
+
+msgid "You must provide a string"
+msgstr ""
+
+msgid "You must provide at least one regular expression"
+msgstr ""
+
+msgid "You must specify at least one field for matching"
+msgstr ""
+
+msgid "You must specify the name of the user header to match on"
+msgstr ""
+
+msgid "You selected OpenPGP security for this message.\n"
+msgstr ""
+
+msgid ""
+"You should select MIME mode if the complete message shall be protected. Do "
+"you really want to proceed?"
+msgstr ""
+
+msgid "Your _password:"
+msgstr ""
+
+msgid "Your email _login name:"
+msgstr ""
+
+msgid "Your real _name:"
+msgstr ""
+
+msgid "Zoom _100%"
+msgstr ""
+
+msgid "Zoom _In"
+msgstr ""
+
+msgid "Zoom _Out"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Accept Once"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Add signature separator"
+msgstr ""
+
+msgid "_Address"
+msgstr ""
+
+msgid "_Advanced"
+msgstr ""
+
+msgid "_All"
+msgstr ""
+
+msgid "_Answered"
+msgstr ""
+
+msgid "_Attachments:"
+msgstr ""
+
+msgid "_Basic"
+msgstr ""
+
+msgid "_Body"
+msgstr ""
+
+msgid "_Bottom"
+msgstr ""
+
+msgid "_Check mail automatically every"
+msgstr ""
+
+msgid "_Chinese Simplified"
+msgstr ""
+
+msgid "_Chinese Traditional"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Collapse All"
+msgstr ""
+
+msgid "_Contents"
+msgstr ""
+
+msgid "_Continue"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Create"
+msgstr ""
+
+msgid ""
+"_Decrypt and check\n"
+"signatures automatically:"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Delete Entry"
+msgstr ""
+
+msgid "_Delete messages from server after download"
+msgstr ""
+
+msgid "_Deleted"
+msgstr ""
+
+msgid "_Descriptive Name:"
+msgstr ""
+
+msgid "_Domain:"
+msgstr ""
+
+msgid "_Done"
+msgstr ""
+
+msgid "_Download images"
+msgstr ""
+
+msgid "_Draftbox:"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Edit/Apply filters"
+msgstr ""
+
+msgid "_Email Address:"
+msgstr ""
+
+msgid "_Empty trash"
+msgstr ""
+
+msgid "_Enable check for new mail"
+msgstr ""
+
+msgid "_Encrypt Message"
+msgstr ""
+
+msgid "_English (American)"
+msgstr ""
+
+msgid "_English (British)"
+msgstr ""
+
+msgid "_Entry"
+msgstr ""
+
+msgid "_Escape Special Characters"
+msgstr ""
+
+msgid "_Esperanto"
+msgstr ""
+
+msgid "_Execute signature"
+msgstr ""
+
+msgid "_Face Path"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Filter messages through procmail"
+msgstr ""
+
+msgid "_Filter name:"
+msgstr ""
+
+msgid "_Find"
+msgstr ""
+
+msgid "_First Name:"
+msgstr ""
+
+msgid "_Flagged"
+msgstr ""
+
+msgid "_Folder name:"
+msgstr ""
+
+msgid "_Footer Font:"
+msgstr ""
+
+msgid "_Format = Flowed"
+msgstr ""
+
+msgid "_From:"
+msgstr ""
+
+msgid "_Full name:"
+msgstr ""
+
+msgid "_Generic UTF-8"
+msgstr ""
+
+msgid "_German (Austrian)"
+msgstr ""
+
+msgid "_Get New Mail"
+msgstr ""
+
+msgid "_Header Font:"
+msgstr ""
+
+msgid "_Hebrew"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hide"
+msgstr ""
+
+msgid "_Hide Messages"
+msgstr ""
+
+msgid "_Icons Only"
+msgstr ""
+
+msgid "_Identity name:"
+msgstr ""
+
+msgid "_Identity:"
+msgstr ""
+
+msgid "_Ignore"
+msgstr ""
+
+msgid "_Inbox:"
+msgstr ""
+
+msgid "_Kazakh"
+msgstr ""
+
+msgid "_Language"
+msgstr ""
+
+msgid "_Last Name:"
+msgstr ""
+
+msgid "_Learn"
+msgstr ""
+
+msgid "_Left"
+msgstr ""
+
+msgid "_Local mail directory:"
+msgstr ""
+
+msgid "_Mailbox Name:"
+msgstr ""
+
+msgid "_Mailing address:"
+msgstr ""
+
+msgid "_Mark as Sentbox"
+msgstr ""
+
+msgid "_Max number of connections:"
+msgstr ""
+
+msgid "_Message"
+msgstr ""
+
+msgid "_Modify"
+msgstr ""
+
+msgid "_Move to"
+msgstr ""
+
+msgid "_Move to Trash"
+msgstr ""
+
+msgid "_Name"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_New Entry"
+msgstr ""
+
+msgid "_Next Part"
+msgstr ""
+
+msgid "_Nickname:"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "_No Headers"
+msgstr ""
+
+msgid "_One of the regular expressions matches"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Options"
+msgstr ""
+
+msgid "_Outbox:"
+msgstr ""
+
+msgid "_POP message size limit:"
+msgstr ""
+
+msgid "_Pass Phrase:"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Previous Part"
+msgstr ""
+
+msgid "_Properties"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Quote Message(s)"
+msgstr ""
+
+msgid "_Read"
+msgstr ""
+
+msgid "_Reject"
+msgstr ""
+
+msgid "_Remember password"
+msgstr ""
+
+msgid "_Remember your password:"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Remove Duplicates"
+msgstr ""
+
+msgid "_Remove from list"
+msgstr ""
+
+msgid "_Remove from server"
+msgstr ""
+
+msgid "_Request Disposition Notification"
+msgstr ""
+
+msgid "_Rescan"
+msgstr ""
+
+msgid "_Reset Filter"
+msgstr ""
+
+msgid "_Restore toolbar to standard buttons"
+msgstr ""
+
+msgid "_Reverse search"
+msgstr ""
+
+msgid "_Right"
+msgstr ""
+
+msgid "_Run"
+msgstr ""
+
+msgid "_SMTP Server:"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Search for Name:"
+msgstr ""
+
+msgid "_Search for:"
+msgstr ""
+
+msgid "_Select Text"
+msgstr ""
+
+msgid "_Send"
+msgstr ""
+
+msgid "_Send Queued Mail"
+msgstr ""
+
+msgid "_Sentbox:"
+msgstr ""
+
+msgid "_Serbian (Latin)"
+msgstr ""
+
+msgid "_Server:"
+msgstr ""
+
+msgid "_Set as default"
+msgstr ""
+
+msgid "_Show"
+msgstr ""
+
+msgid "_Show Mailbox Tree"
+msgstr ""
+
+msgid "_Sign Message"
+msgstr ""
+
+msgid "_Subject"
+msgstr ""
+
+msgid "_Subscribe for new mail check"
+msgstr ""
+
+msgid "_Tatar"
+msgstr ""
+
+msgid "_Text Only"
+msgstr ""
+
+msgid "_To:"
+msgstr ""
+
+msgid "_Top"
+msgstr ""
+
+msgid "_Trash:"
+msgstr ""
+
+msgid "_Type of mail server:"
+msgstr ""
+
+msgid "_Undelete"
+msgstr ""
+
+msgid "_Unread"
+msgstr ""
+
+msgid "_Update"
+msgstr ""
+
+msgid "_User Address Book DN"
+msgstr ""
+
+msgid "_User Name (Bind DN)"
+msgstr ""
+
+msgid "_User Name:"
+msgstr ""
+
+msgid "_User header:"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_View Source"
+msgstr ""
+
+msgid "_Wrap"
+msgstr ""
+
+msgid "_Wrap Body"
+msgstr ""
+
+msgid "_Wrap around"
+msgstr ""
+
+msgid "_Wrap button labels"
+msgstr ""
+
+msgid "_X-Face Path"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "a distribution list"
+msgstr ""
+
+msgid "accepted"
+msgstr ""
+
+msgid "admin"
+msgstr ""
+
+msgid "alternative addresses for the same person"
+msgstr ""
+
+msgid "alternative parts"
+msgstr ""
+
+msgid "append"
+msgstr ""
+
+msgid "as I type"
+msgstr ""
+
+msgid "attached %s part"
+msgstr ""
+
+msgid "bad validity"
+msgstr ""
+
+msgid "characters"
+msgstr ""
+
+msgid "combined signing and encryption is defined only for RFC 2440"
+msgstr ""
+
+msgid "complete message"
+msgstr ""
+
+msgid "completed"
+msgstr ""
+
+msgid "could not create context"
+msgstr ""
+
+msgid "could not create new data object"
+msgstr ""
+
+msgid "could not get data from stream"
+msgstr ""
+
+msgid "declined"
+msgstr ""
+
+msgid "decryption and signature verification failed"
+msgstr ""
+
+msgid "decryption failed"
+msgstr ""
+
+msgid "default protocol"
+msgstr ""
+
+msgid "default:mm"
+msgstr ""
+
+msgid "delegated"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "display in codeset"
+msgstr ""
+
+msgid "does not exist"
+msgstr ""
+
+msgid "encrypt messages by default"
+msgstr ""
+
+msgid "encrypted parts"
+msgstr ""
+
+msgid "encrypted: "
+msgstr ""
+
+msgid "encryption failed"
+msgstr ""
+
+msgid "forwarded message"
+msgstr ""
+
+msgid "from unknown"
+msgstr ""
+
+msgid "full"
+msgstr ""
+
+msgid "in process"
+msgstr ""
+
+msgid "inch"
+msgstr ""
+
+msgid "libbalsa_mailbox_get_message: mailbox %s is closed"
+msgstr ""
+
+msgid "mine: "
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "mixed parts"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
+msgid "needs action"
+msgstr ""
+
+msgid "never"
+msgstr ""
+
+msgid "no limits"
+msgstr ""
+
+msgid "not a regular file"
+msgstr ""
+
+msgid "not an absolute path"
+msgstr ""
+
+msgid "not in current directory"
+msgstr ""
+
+msgid "part %s: %s"
+msgstr ""
+
+msgid "part %s: %s (file %s)"
+msgstr ""
+
+msgid "percent"
+msgstr ""
+
+msgid "post"
+msgstr ""
+
+msgid "quoted"
+msgstr ""
+
+msgid "quoted attachment"
+msgstr ""
+
+msgid "read-only"
+msgstr ""
+
+msgid "read-write"
+msgstr ""
+
+msgid "remind me if messages can be encrypted"
+msgstr ""
+
+msgid "request _Message Disposition Notification by default"
+msgstr ""
+
+msgid "send messages in both plain text and _HTML format"
+msgstr ""
+
+msgid "sign messages by default"
+msgstr ""
+
+msgid "signature verification failed"
+msgstr ""
+
+msgid "signed parts"
+msgstr ""
+
+msgid "signing and encryption failed"
+msgstr ""
+
+msgid "signing failed"
+msgstr ""
+
+msgid "special"
+msgstr ""
+
+msgid "tentatively accepted"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "ultimate"
+msgstr ""
+
+msgid "undefined"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "unknown error"
+msgstr ""
+
+msgid "when I hit the Escape key"
+msgstr ""
+
+msgid "with %d message"
+msgid_plural "with %d messages"
+msgstr[0] ""
+
+msgid "you"
+msgstr ""

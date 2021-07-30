@@ -1,0 +1,160 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: friendly-recovery\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2012-04-12 15:51+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:59+0000\n"
+
+msgid "   Resume normal boot"
+msgstr ""
+
+msgid "(Use arrows/PageUp/PageDown keys to scroll and TAB key to select)"
+msgstr ""
+
+msgid "=== Detailed disk usage ==="
+msgstr ""
+
+msgid "=== Detailed memory usage ==="
+msgstr ""
+
+msgid "=== Detailed network configuration ==="
+msgstr ""
+
+msgid "=== General information ==="
+msgstr ""
+
+msgid "=== LVM state ==="
+msgstr ""
+
+msgid "=== Software RAID state ==="
+msgstr ""
+
+msgid "=== System database (APT) ==="
+msgstr ""
+
+msgid "CPU information:"
+msgstr ""
+
+msgid "Check all file systems"
+msgstr ""
+
+msgid ""
+"Continuing will remount your / filesystem in read/write mode and mount any other filesystem defined in /etc/fstab.\n"
+"Do you wish to continue?"
+msgstr ""
+
+msgid "Database is consistent:"
+msgstr ""
+
+msgid "Drop to root shell prompt"
+msgstr ""
+
+msgid "Enable networking"
+msgstr ""
+
+msgid "Finished, please press ENTER"
+msgstr ""
+
+msgid "IP and DNS configured"
+msgstr ""
+
+msgid "IP configured"
+msgstr ""
+
+msgid "Network connectivity:"
+msgstr ""
+
+msgid "No LVM detected (vgscan)"
+msgstr ""
+
+msgid "No software RAID detected (mdstat)"
+msgstr ""
+
+msgid "Physical Volumes:"
+msgstr ""
+
+msgid "Read-only mode"
+msgstr ""
+
+msgid "Read/Write mode"
+msgstr ""
+
+msgid "Recovery Menu (filesystem state: read-only)"
+msgstr ""
+
+msgid "Recovery Menu (filesystem state: read/write)"
+msgstr ""
+
+msgid "Repair broken packages"
+msgstr ""
+
+msgid "Revert to old snapshot and reboot"
+msgstr ""
+
+msgid "Run in failsafe graphic mode"
+msgstr ""
+
+msgid "Snapshot"
+msgstr ""
+
+msgid "System mode:"
+msgstr ""
+
+msgid "System summary"
+msgstr ""
+
+msgid ""
+"The option you selected requires your filesystem to be in read-only mode. Unfortunately another option you selected earlier, made you exit this mode.\n"
+"The easiest way of getting back in read-only mode is to reboot your system."
+msgstr ""
+
+msgid "Try to make free space"
+msgstr ""
+
+msgid ""
+"Trying to find packages you don't need (apt-get autoremove), please review "
+"carefully."
+msgstr ""
+
+msgid "Unknown (must be run as root)"
+msgstr ""
+
+msgid "Update grub bootloader"
+msgstr ""
+
+msgid "Volume Groups:"
+msgstr ""
+
+msgid ""
+"You are now going to exit the recovery mode and continue the boot sequence. Please note that some graphic drivers require a full graphical boot and so will fail when resuming from recovery.\n"
+"If that's the case, simply reboot from the login screen and then perform a standard boot."
+msgstr ""
+
+msgid "no (BAD)"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "not ok (BAD)"
+msgstr ""
+
+msgid "ok (good)"
+msgstr ""
+
+msgid "unknown (must be run as root)"
+msgstr ""
+
+msgid "unknown (read-only filesystem)"
+msgstr ""
+
+msgid "yes (good)"
+msgstr ""

@@ -1,0 +1,276 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apparmor\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-11-14 22:32+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:48+0000\n"
+
+msgid "%s: ASSERT: Invalid option: %d\n"
+msgstr ""
+
+msgid "%s: Could not allocate memory for subdomainbase mount point\n"
+msgstr ""
+
+msgid "%s: Errors found during postprocess.  Aborting.\n"
+msgstr ""
+
+msgid "%s: Errors found during postprocessing.  Aborting.\n"
+msgstr ""
+
+msgid "%s: Errors found during regex postprocess.  Aborting.\n"
+msgstr ""
+
+msgid "%s: Errors found in combining rules postprocessing. Aborting.\n"
+msgstr ""
+
+msgid "%s: Errors found in file. Aborting.\n"
+msgstr ""
+
+msgid "%s: Illegal open {, nesting groupings not allowed\n"
+msgstr ""
+
+msgid "%s: Internal buffer overflow detected, %d characters exceeded\n"
+msgstr ""
+
+msgid "%s: Regex grouping error: Invalid close }, no matching open { detected\n"
+msgstr ""
+
+msgid "%s: Regex grouping error: Invalid number of items between {}\n"
+msgstr ""
+
+msgid ""
+"%s: Regex grouping error: Unclosed grouping or character class, expecting "
+"close }\n"
+msgstr ""
+
+msgid ""
+"%s: Sorry. You need root privileges to run this program.\n"
+"\n"
+msgstr ""
+
+msgid "%s: Unable to add \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to parse input line '%s'\n"
+msgstr ""
+
+msgid "%s: Unable to remove \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to replace \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to write entire profile entry\n"
+msgstr ""
+
+msgid "%s: Unable to write to stdout\n"
+msgstr ""
+
+msgid ""
+"%s: Warning! You've set this program setuid root.\n"
+"Anybody who can run this program can update your AppArmor profiles.\n"
+"\n"
+msgstr ""
+
+msgid "(network_mode) Found unexpected character: '%s'"
+msgstr ""
+
+msgid "Addition succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "AppArmor parser error: %s\n"
+msgstr ""
+
+msgid "Assert: 'hat rule' returned NULL."
+msgstr ""
+
+msgid "Assert: 'local_profile rule' returned NULL."
+msgstr ""
+
+msgid "Assert: `change_profile' returned NULL."
+msgstr ""
+
+msgid "Assert: `network_rule' return invalid protocol."
+msgstr ""
+
+msgid "Assert: `rule' returned NULL."
+msgstr ""
+
+msgid "Bad write position\n"
+msgstr ""
+
+msgid "Conflict 'a' and 'w' perms are mutually exclusive."
+msgstr ""
+
+msgid "Couldn't merge entries. Out of Memory\n"
+msgstr ""
+
+msgid "ERROR adding hat access rule for profile %s\n"
+msgstr ""
+
+msgid "ERROR expanding variables for profile %s, failed to load\n"
+msgstr ""
+
+msgid "ERROR in profile %s, failed to load\n"
+msgstr ""
+
+msgid "ERROR merging rules for profile %s, failed to load\n"
+msgstr ""
+
+msgid "ERROR processing regexs for profile %s, failed to load\n"
+msgstr ""
+
+msgid ""
+"ERROR profile %s contains policy elements not usable with this kernel:\n"
+"\t'*', '?', character ranges, and alternations are not allowed.\n"
+"\t'**' may only be used at the end of a rule.\n"
+msgstr ""
+
+msgid "Error: Could not add directory %s to search path.\n"
+msgstr ""
+
+msgid "Error: Could not allocate memory.\n"
+msgstr ""
+
+msgid "Error: Could not read profile %s: %s.\n"
+msgstr ""
+
+msgid "Error: Out of memory.\n"
+msgstr ""
+
+msgid "Error: basedir %s is not a directory, skipping.\n"
+msgstr ""
+
+msgid "Exec qualifier '%c%c' invalid, conflicting qualifier already specified"
+msgstr ""
+
+msgid "Exec qualifier '%c' invalid, conflicting qualifier already specified"
+msgstr ""
+
+msgid "Exec qualifier 'i' invalid, conflicting qualifier already specified"
+msgstr ""
+
+msgid "Failed to create alias %s -> %s\n"
+msgstr ""
+
+msgid "Found unexpected character: '%s'"
+msgstr ""
+
+msgid "Internal error generated invalid perm 0x%llx\n"
+msgstr ""
+
+msgid "Internal: unexpected mode character '%c' in input"
+msgstr ""
+
+msgid "Invalid capability %s."
+msgstr ""
+
+msgid ""
+"Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', 'c', or 'u'"
+msgstr ""
+
+msgid "Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', or 'u'"
+msgstr ""
+
+msgid ""
+"Invalid mode, in deny rules 'x' must not be preceded by exec qualifier 'i', "
+"'p', or 'u'"
+msgstr ""
+
+msgid "Invalid network entry."
+msgstr ""
+
+msgid "Invalid profile flag: %s."
+msgstr ""
+
+msgid "Memory Allocation Error: Unable to remove %s:%s."
+msgstr ""
+
+msgid "Memory Allocation Error: Unable to remove ^%s\n"
+msgstr ""
+
+msgid "Memory allocation error."
+msgstr ""
+
+msgid "Out of memory\n"
+msgstr ""
+
+msgid "PANIC bad increment buffer %p pos %p ext %p size %d res %p\n"
+msgstr ""
+
+msgid "Permission denied\n"
+msgstr ""
+
+msgid "Profile already exists\n"
+msgstr ""
+
+msgid "Profile does not match signature\n"
+msgstr ""
+
+msgid "Profile doesn't conform to protocol\n"
+msgstr ""
+
+msgid "Profile doesn't exist\n"
+msgstr ""
+
+msgid "Profile flag 'debug' is no longer valid."
+msgstr ""
+
+msgid "Profile version not supported by Apparmor module\n"
+msgstr ""
+
+msgid "Removal succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "Replacement succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "Unable to open %s - %s\n"
+msgstr ""
+
+msgid ""
+"Unconfined exec qualifier (%c%c) allows some dangerous environment variables"
+" to be passed to the unconfined process; 'man 5 apparmor.d' for details.\n"
+msgstr ""
+
+msgid "Unset boolean variable %s used in if-expression"
+msgstr ""
+
+msgid ""
+"Uppercase qualifiers \"RWLIMX\" are deprecated, please convert to lowercase\n"
+"See the apparmor.d(5) manpage for details.\n"
+msgstr ""
+
+msgid ""
+"Warning: unable to find a suitable fs in %s, is it mounted?\n"
+"Use --subdomainfs to override.\n"
+msgstr ""
+
+msgid "link and exec perms conflict on a file rule using ->"
+msgstr ""
+
+msgid "link perms are not allowed on a named profile transition.\n"
+msgstr ""
+
+msgid "missing an end of line character? (entry: %s)"
+msgstr ""
+
+msgid "subset can only be used with link rules."
+msgstr ""
+
+msgid "unable to create work area\n"
+msgstr ""
+
+msgid "unable to serialize profile %s\n"
+msgstr ""
+
+msgid "unsafe rule missing exec permissions"
+msgstr ""

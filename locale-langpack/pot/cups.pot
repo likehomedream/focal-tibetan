@@ -1,0 +1,1542 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: CUPS 1.4\n"
+"Report-Msgid-Bugs-To: http://www.cups.org/str.php\n"
+"PO-Revision-Date: 2012-07-12 02:09+0000\n"
+"Last-Translator: Michael Terry <mike@mterry.name>\n"
+"Language-Team: Apple Inc.\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:09+0000\n"
+
+msgid "%s cannot be changed."
+msgstr ""
+
+msgid "-1"
+msgstr ""
+
+msgid "-10"
+msgstr ""
+
+msgid "-100"
+msgstr ""
+
+msgid "-105"
+msgstr ""
+
+msgid "-11"
+msgstr ""
+
+msgid "-110"
+msgstr ""
+
+msgid "-115"
+msgstr ""
+
+msgid "-12"
+msgstr ""
+
+msgid "-120"
+msgstr ""
+
+msgid "-13"
+msgstr ""
+
+msgid "-14"
+msgstr ""
+
+msgid "-15"
+msgstr ""
+
+msgid "-2"
+msgstr ""
+
+msgid "-20"
+msgstr ""
+
+msgid "-25"
+msgstr ""
+
+msgid "-3"
+msgstr ""
+
+msgid "-30"
+msgstr ""
+
+msgid "-35"
+msgstr ""
+
+msgid "-4"
+msgstr ""
+
+msgid "-40"
+msgstr ""
+
+msgid "-45"
+msgstr ""
+
+msgid "-5"
+msgstr ""
+
+msgid "-50"
+msgstr ""
+
+msgid "-55"
+msgstr ""
+
+msgid "-6"
+msgstr ""
+
+msgid "-60"
+msgstr ""
+
+msgid "-65"
+msgstr ""
+
+msgid "-7"
+msgstr ""
+
+msgid "-70"
+msgstr ""
+
+msgid "-75"
+msgstr ""
+
+msgid "-8"
+msgstr ""
+
+msgid "-80"
+msgstr ""
+
+msgid "-85"
+msgstr ""
+
+msgid "-9"
+msgstr ""
+
+msgid "-90"
+msgstr ""
+
+msgid "-95"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "1 inch/sec."
+msgstr ""
+
+msgid "1.25x0.25\""
+msgstr ""
+
+msgid "1.25x2.25\""
+msgstr ""
+
+msgid "1.5 inch/sec."
+msgstr ""
+
+msgid "1.50x0.25\""
+msgstr ""
+
+msgid "1.50x0.50\""
+msgstr ""
+
+msgid "1.50x1.00\""
+msgstr ""
+
+msgid "1.50x2.00\""
+msgstr ""
+
+msgid "10"
+msgstr ""
+
+msgid "10 inches/sec."
+msgstr ""
+
+msgid "100"
+msgstr ""
+
+msgid "100 mm/sec."
+msgstr ""
+
+msgid "105"
+msgstr ""
+
+msgid "11"
+msgstr ""
+
+msgid "11 inches/sec."
+msgstr ""
+
+msgid "110"
+msgstr ""
+
+msgid "115"
+msgstr ""
+
+msgid "12"
+msgstr ""
+
+msgid "12 inches/sec."
+msgstr ""
+
+msgid "120"
+msgstr ""
+
+msgid "120 mm/sec."
+msgstr ""
+
+msgid "120x60dpi"
+msgstr ""
+
+msgid "120x72dpi"
+msgstr ""
+
+msgid "13"
+msgstr ""
+
+msgid "136dpi"
+msgstr ""
+
+msgid "14"
+msgstr ""
+
+msgid "15"
+msgstr ""
+
+msgid "15 mm/sec."
+msgstr ""
+
+msgid "150 mm/sec."
+msgstr ""
+
+msgid "150dpi"
+msgstr ""
+
+msgid "16"
+msgstr ""
+
+msgid "17"
+msgstr ""
+
+msgid "18"
+msgstr ""
+
+msgid "180dpi"
+msgstr ""
+
+msgid "19"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "2 inches/sec."
+msgstr ""
+
+msgid "2-Sided Printing"
+msgstr ""
+
+msgid "2.00x0.37\""
+msgstr ""
+
+msgid "2.00x0.50\""
+msgstr ""
+
+msgid "2.00x1.00\""
+msgstr ""
+
+msgid "2.00x1.25\""
+msgstr ""
+
+msgid "2.00x2.00\""
+msgstr ""
+
+msgid "2.00x3.00\""
+msgstr ""
+
+msgid "2.00x4.00\""
+msgstr ""
+
+msgid "2.00x5.50\""
+msgstr ""
+
+msgid "2.25x0.50\""
+msgstr ""
+
+msgid "2.25x1.25\""
+msgstr ""
+
+msgid "2.25x4.00\""
+msgstr ""
+
+msgid "2.25x5.50\""
+msgstr ""
+
+msgid "2.38x5.50\""
+msgstr ""
+
+msgid "2.5 inches/sec."
+msgstr ""
+
+msgid "2.50x1.00\""
+msgstr ""
+
+msgid "2.50x2.00\""
+msgstr ""
+
+msgid "2.75x1.25\""
+msgstr ""
+
+msgid "2.9 x 1\""
+msgstr ""
+
+msgid "20"
+msgstr ""
+
+msgid "20 mm/sec."
+msgstr ""
+
+msgid "200 mm/sec."
+msgstr ""
+
+msgid "203dpi"
+msgstr ""
+
+msgid "21"
+msgstr ""
+
+msgid "22"
+msgstr ""
+
+msgid "23"
+msgstr ""
+
+msgid "24"
+msgstr ""
+
+msgid "24-Pin Series"
+msgstr ""
+
+msgid "240x72dpi"
+msgstr ""
+
+msgid "25"
+msgstr ""
+
+msgid "250 mm/sec."
+msgstr ""
+
+msgid "26"
+msgstr ""
+
+msgid "27"
+msgstr ""
+
+msgid "28"
+msgstr ""
+
+msgid "29"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "3 inches/sec."
+msgstr ""
+
+msgid "3.00x1.00\""
+msgstr ""
+
+msgid "3.00x1.25\""
+msgstr ""
+
+msgid "3.00x2.00\""
+msgstr ""
+
+msgid "3.00x3.00\""
+msgstr ""
+
+msgid "3.00x5.00\""
+msgstr ""
+
+msgid "3.25x2.00\""
+msgstr ""
+
+msgid "3.25x5.00\""
+msgstr ""
+
+msgid "3.25x5.50\""
+msgstr ""
+
+msgid "3.25x5.83\""
+msgstr ""
+
+msgid "3.25x7.83\""
+msgstr ""
+
+msgid "3.5\" Disk"
+msgstr ""
+
+msgid "3.50x1.00\""
+msgstr ""
+
+msgid "30"
+msgstr ""
+
+msgid "30 mm/sec."
+msgstr ""
+
+msgid "300 mm/sec."
+msgstr ""
+
+msgid "300dpi"
+msgstr ""
+
+msgid "35"
+msgstr ""
+
+msgid "360dpi"
+msgstr ""
+
+msgid "360x180dpi"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "4 inches/sec."
+msgstr ""
+
+msgid "4.00x1.00\""
+msgstr ""
+
+msgid "4.00x13.00\""
+msgstr ""
+
+msgid "4.00x2.00\""
+msgstr ""
+
+msgid "4.00x2.50\""
+msgstr ""
+
+msgid "4.00x3.00\""
+msgstr ""
+
+msgid "4.00x4.00\""
+msgstr ""
+
+msgid "4.00x5.00\""
+msgstr ""
+
+msgid "4.00x6.00\""
+msgstr ""
+
+msgid "4.00x6.50\""
+msgstr ""
+
+msgid "40"
+msgstr ""
+
+msgid "40 mm/sec."
+msgstr ""
+
+msgid "45"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "5 inches/sec."
+msgstr ""
+
+msgid "50"
+msgstr ""
+
+msgid "55"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "6 inches/sec."
+msgstr ""
+
+msgid "6.00x1.00\""
+msgstr ""
+
+msgid "6.00x2.00\""
+msgstr ""
+
+msgid "6.00x3.00\""
+msgstr ""
+
+msgid "6.00x4.00\""
+msgstr ""
+
+msgid "6.00x5.00\""
+msgstr ""
+
+msgid "6.00x6.00\""
+msgstr ""
+
+msgid "6.00x6.50\""
+msgstr ""
+
+msgid "60"
+msgstr ""
+
+msgid "60 mm/sec."
+msgstr ""
+
+msgid "600dpi"
+msgstr ""
+
+msgid "60dpi"
+msgstr ""
+
+msgid "65"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "7 inches/sec."
+msgstr ""
+
+msgid "70"
+msgstr ""
+
+msgid "75"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "8 inches/sec."
+msgstr ""
+
+msgid "8.00x1.00\""
+msgstr ""
+
+msgid "8.00x2.00\""
+msgstr ""
+
+msgid "8.00x3.00\""
+msgstr ""
+
+msgid "8.00x4.00\""
+msgstr ""
+
+msgid "8.00x5.00\""
+msgstr ""
+
+msgid "8.00x6.00\""
+msgstr ""
+
+msgid "8.00x6.50\""
+msgstr ""
+
+msgid "80"
+msgstr ""
+
+msgid "80 mm/sec."
+msgstr ""
+
+msgid "85"
+msgstr ""
+
+msgid "9"
+msgstr ""
+
+msgid "9 inches/sec."
+msgstr ""
+
+msgid "9-Pin Series"
+msgstr ""
+
+msgid "90"
+msgstr ""
+
+msgid "95"
+msgstr ""
+
+msgid "A0"
+msgstr ""
+
+msgid "A1"
+msgstr ""
+
+msgid "A10"
+msgstr ""
+
+msgid "A2"
+msgstr ""
+
+msgid "A3"
+msgstr ""
+
+msgid "A4"
+msgstr ""
+
+msgid "A5"
+msgstr ""
+
+msgid "A6"
+msgstr ""
+
+msgid "A7"
+msgstr ""
+
+msgid "A8"
+msgstr ""
+
+msgid "A9"
+msgstr ""
+
+msgid "ANSI A"
+msgstr ""
+
+msgid "ANSI B"
+msgstr ""
+
+msgid "ANSI C"
+msgstr ""
+
+msgid "ANSI D"
+msgstr ""
+
+msgid "ANSI E"
+msgstr ""
+
+msgid "ARCH C"
+msgstr ""
+
+msgid "ARCH D"
+msgstr ""
+
+msgid "ARCH E"
+msgstr ""
+
+msgid "Accept Jobs"
+msgstr ""
+
+msgid "Accepted"
+msgstr ""
+
+msgid "Add Class"
+msgstr ""
+
+msgid "Add Printer"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Administration"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "AppSocket/HP JetDirect"
+msgstr ""
+
+msgid "Applicator"
+msgstr ""
+
+msgid "B0"
+msgstr ""
+
+msgid "B1"
+msgstr ""
+
+msgid "B10"
+msgstr ""
+
+msgid "B2"
+msgstr ""
+
+msgid "B3"
+msgstr ""
+
+msgid "B4"
+msgstr ""
+
+msgid "B5"
+msgstr ""
+
+msgid "B6"
+msgstr ""
+
+msgid "B7"
+msgstr ""
+
+msgid "B8"
+msgstr ""
+
+msgid "B9"
+msgstr ""
+
+msgid "Bad NULL dests pointer"
+msgstr ""
+
+msgid "Bad OpenGroup"
+msgstr ""
+
+msgid "Bad OpenUI/JCLOpenUI"
+msgstr ""
+
+msgid "Bad OrderDependency"
+msgstr ""
+
+msgid "Bad Request"
+msgstr ""
+
+msgid "Bad SNMP version number"
+msgstr ""
+
+msgid "Bad UIConstraints"
+msgstr ""
+
+msgid "Bad copies value %d."
+msgstr ""
+
+msgid "Bad custom parameter"
+msgstr ""
+
+msgid "Bad number-up value %d."
+msgstr ""
+
+msgid "Bad page-ranges values %d-%d."
+msgstr ""
+
+msgid "Banners"
+msgstr ""
+
+msgid "Bond Paper"
+msgstr ""
+
+msgid "CMYK"
+msgstr ""
+
+msgid "CPCL Label Printer"
+msgstr ""
+
+msgid "Change Settings"
+msgstr ""
+
+msgid "Classes"
+msgstr ""
+
+msgid "Clean Print Heads"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color Mode"
+msgstr ""
+
+msgid "Community name uses indefinite length"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Continuous"
+msgstr ""
+
+msgid "Created"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "CustominCutInterval"
+msgstr ""
+
+msgid "CustominTearInterval"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Cutter"
+msgstr ""
+
+msgid "Dark"
+msgstr ""
+
+msgid "Darkness"
+msgstr ""
+
+msgid "Delete Class"
+msgstr ""
+
+msgid "Delete Printer"
+msgstr ""
+
+msgid "DeskJet Series"
+msgstr ""
+
+msgid "Destination \"%s\" is not accepting jobs."
+msgstr ""
+
+msgid "Direct Thermal Media"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Duplexer"
+msgstr ""
+
+msgid "Dymo"
+msgstr ""
+
+msgid "EPL1 Label Printer"
+msgstr ""
+
+msgid "EPL2 Label Printer"
+msgstr ""
+
+msgid "Edit Configuration File"
+msgstr ""
+
+msgid "Ending Banner"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid ""
+"Enter your username and password or the root username and password to access"
+" this page. If you are using Kerberos authentication, make sure you have a "
+"valid Kerberos ticket."
+msgstr ""
+
+msgid "Envelope Feed"
+msgstr ""
+
+msgid "Epson"
+msgstr ""
+
+msgid "Error Policy"
+msgstr ""
+
+msgid "Every 10 Labels"
+msgstr ""
+
+msgid "Every 2 Labels"
+msgstr ""
+
+msgid "Every 3 Labels"
+msgstr ""
+
+msgid "Every 4 Labels"
+msgstr ""
+
+msgid "Every 5 Labels"
+msgstr ""
+
+msgid "Every 6 Labels"
+msgstr ""
+
+msgid "Every 7 Labels"
+msgstr ""
+
+msgid "Every 8 Labels"
+msgstr ""
+
+msgid "Every 9 Labels"
+msgstr ""
+
+msgid "Every Label"
+msgstr ""
+
+msgid "Expectation Failed"
+msgstr ""
+
+msgid "File Folder"
+msgstr ""
+
+msgid "Folio"
+msgstr ""
+
+msgid "Forbidden"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Generic"
+msgstr ""
+
+msgid "Get-Response-PDU uses indefinite length"
+msgstr ""
+
+msgid "Glossy Paper"
+msgstr ""
+
+msgid "Grayscale"
+msgstr ""
+
+msgid "HP"
+msgstr ""
+
+msgid "Hanging Folder"
+msgstr ""
+
+msgid "ISOLatin1"
+msgstr ""
+
+msgid "Illegal control character"
+msgstr ""
+
+msgid "Illegal main keyword string"
+msgstr ""
+
+msgid "Illegal option keyword string"
+msgstr ""
+
+msgid "Illegal translation string"
+msgstr ""
+
+msgid "Illegal whitespace character"
+msgstr ""
+
+msgid "Installable Options"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "IntelliBar Label Printer"
+msgstr ""
+
+msgid "Intellitech"
+msgstr ""
+
+msgid "Internal error"
+msgstr ""
+
+msgid "Internet Postage 2-Part"
+msgstr ""
+
+msgid "Internet Postage 3-Part"
+msgstr ""
+
+msgid "Internet Printing Protocol"
+msgstr ""
+
+msgid "JCL"
+msgstr ""
+
+msgid "Job #%d is already aborted - can't cancel."
+msgstr ""
+
+msgid "Job #%d is already canceled - can't cancel."
+msgstr ""
+
+msgid "Job #%d is already completed - can't cancel."
+msgstr ""
+
+msgid "Job Completed"
+msgstr ""
+
+msgid "Job Created"
+msgstr ""
+
+msgid "Job Options Changed"
+msgstr ""
+
+msgid "Job Stopped"
+msgstr ""
+
+msgid "Job is completed and cannot be changed."
+msgstr ""
+
+msgid "Job state cannot be changed."
+msgstr ""
+
+msgid "Jobs"
+msgstr ""
+
+msgid "LPD/LPR Host or Printer"
+msgstr ""
+
+msgid "Label Printer"
+msgstr ""
+
+msgid "Label Top"
+msgstr ""
+
+msgid "Large Address"
+msgstr ""
+
+msgid "LaserJet Series PCL 4/5"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Line longer than the maximum allowed (255 characters)"
+msgstr ""
+
+msgid "List Available Printers"
+msgstr ""
+
+msgid "Long-Edge (Portrait)"
+msgstr ""
+
+msgid "Manual Feed"
+msgstr ""
+
+msgid "Media Size"
+msgstr ""
+
+msgid "Media Source"
+msgstr ""
+
+msgid "Media Tracking"
+msgstr ""
+
+msgid "Media Type"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Memory allocation error"
+msgstr ""
+
+msgid "Missing PPD-Adobe-4.x header"
+msgstr ""
+
+msgid "Missing asterisk in column 1"
+msgstr ""
+
+msgid "Missing value string"
+msgstr ""
+
+msgid "Modify Class"
+msgstr ""
+
+msgid "Modify Printer"
+msgstr ""
+
+msgid "Move All Jobs"
+msgstr ""
+
+msgid "Move Job"
+msgstr ""
+
+msgid "Moved Permanently"
+msgstr ""
+
+msgid "NULL PPD file pointer"
+msgstr ""
+
+msgid "Name OID uses indefinite length"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Content"
+msgstr ""
+
+msgid "No VarBind SEQUENCE"
+msgstr ""
+
+msgid "No active connection"
+msgstr ""
+
+msgid "No community name"
+msgstr ""
+
+msgid "No destinations added."
+msgstr ""
+
+msgid "No error-index"
+msgstr ""
+
+msgid "No error-status"
+msgstr ""
+
+msgid "No name OID"
+msgstr ""
+
+msgid "No request-id"
+msgstr ""
+
+msgid "No subscriptions found."
+msgstr ""
+
+msgid "No variable-bindings SEQUENCE"
+msgstr ""
+
+msgid "No version number"
+msgstr ""
+
+msgid "Non-continuous (Mark sensing)"
+msgstr ""
+
+msgid "Non-continuous (Web sensing)"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not Found"
+msgstr ""
+
+msgid "Not Implemented"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "Not Modified"
+msgstr ""
+
+msgid "Not Supported"
+msgstr ""
+
+msgid "Not allowed to print."
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Off (1-Sided)"
+msgstr ""
+
+msgid "Oki"
+msgstr ""
+
+msgid "Online Help"
+msgstr ""
+
+msgid "Open of %s failed: %s"
+msgstr ""
+
+msgid "OpenGroup without a CloseGroup first"
+msgstr ""
+
+msgid "OpenUI/JCLOpenUI without a CloseUI/JCLCloseUI first"
+msgstr ""
+
+msgid "Operation Policy"
+msgstr ""
+
+msgid "Options Installed"
+msgstr ""
+
+msgid "Output Mode"
+msgstr ""
+
+msgid "PCL Laser Printer"
+msgstr ""
+
+msgid "PRC16K"
+msgstr ""
+
+msgid "PRC32K"
+msgstr ""
+
+msgid "Packet does not contain a Get-Response-PDU"
+msgstr ""
+
+msgid "Packet does not start with SEQUENCE"
+msgstr ""
+
+msgid "ParamCustominCutInterval"
+msgstr ""
+
+msgid "ParamCustominTearInterval"
+msgstr ""
+
+msgid "Password for %s on %s? "
+msgstr ""
+
+msgid "Pause Class"
+msgstr ""
+
+msgid "Pause Printer"
+msgstr ""
+
+msgid "Peel-Off"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Photo Labels"
+msgstr ""
+
+msgid "Plain Paper"
+msgstr ""
+
+msgid "Policies"
+msgstr ""
+
+msgid "Port Monitor"
+msgstr ""
+
+msgid "PostScript Printer"
+msgstr ""
+
+msgid "Postcard"
+msgstr ""
+
+msgid "Print Density"
+msgstr ""
+
+msgid "Print Job:"
+msgstr ""
+
+msgid "Print Mode"
+msgstr ""
+
+msgid "Print Rate"
+msgstr ""
+
+msgid "Print Self-Test Page"
+msgstr ""
+
+msgid "Print Speed"
+msgstr ""
+
+msgid "Print Test Page"
+msgstr ""
+
+msgid "Print and Cut"
+msgstr ""
+
+msgid "Print and Tear"
+msgstr ""
+
+msgid "Printer Added"
+msgstr ""
+
+msgid "Printer Default"
+msgstr ""
+
+msgid "Printer Deleted"
+msgstr ""
+
+msgid "Printer Modified"
+msgstr ""
+
+msgid "Printer Paused"
+msgstr ""
+
+msgid "Printer Settings"
+msgstr ""
+
+msgid "Printer:"
+msgstr ""
+
+msgid "Printers"
+msgstr ""
+
+msgid "Quarto"
+msgstr ""
+
+msgid "Quota limit reached."
+msgstr ""
+
+msgid "Reject Jobs"
+msgstr ""
+
+msgid "Reprint After Error"
+msgstr ""
+
+msgid "Request Entity Too Large"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Resume Class"
+msgstr ""
+
+msgid "Resume Printer"
+msgstr ""
+
+msgid "Return Address"
+msgstr ""
+
+msgid "Rewind"
+msgstr ""
+
+msgid "SEQUENCE uses indefinite length"
+msgstr ""
+
+msgid "See Other"
+msgstr ""
+
+msgid "Server Restarted"
+msgstr ""
+
+msgid "Server Security Auditing"
+msgstr ""
+
+msgid "Server Started"
+msgstr ""
+
+msgid "Server Stopped"
+msgstr ""
+
+msgid "Service Unavailable"
+msgstr ""
+
+msgid "Set Allowed Users"
+msgstr ""
+
+msgid "Set As Server Default"
+msgstr ""
+
+msgid "Set Class Options"
+msgstr ""
+
+msgid "Set Printer Options"
+msgstr ""
+
+msgid "Set Publishing"
+msgstr ""
+
+msgid "Shipping Address"
+msgstr ""
+
+msgid "Short-Edge (Landscape)"
+msgstr ""
+
+msgid "Special Paper"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Starting Banner"
+msgstr ""
+
+msgid "Statement"
+msgstr ""
+
+msgid "Super A"
+msgstr ""
+
+msgid "Super B"
+msgstr ""
+
+msgid "Super B/A3"
+msgstr ""
+
+msgid "Switching Protocols"
+msgstr ""
+
+msgid "Tabloid"
+msgstr ""
+
+msgid "Tear"
+msgstr ""
+
+msgid "Tear-Off"
+msgstr ""
+
+msgid "Tear-Off Adjust Position"
+msgstr ""
+
+msgid "The PPD file \"%s\" could not be found."
+msgstr ""
+
+msgid "The PPD file \"%s\" could not be opened: %s"
+msgstr ""
+
+msgid ""
+"The class name may only contain up to 127 printable characters and may not "
+"contain spaces, slashes (/), or the pound sign (#)."
+msgstr ""
+
+msgid ""
+"The notify-lease-duration attribute cannot be used with job subscriptions."
+msgstr ""
+
+msgid "The printer-uri \"%s\" contains invalid characters."
+msgstr ""
+
+msgid "The printer-uri must be of the form \"ipp://HOSTNAME/classes/CLASSNAME\"."
+msgstr ""
+
+msgid ""
+"The printer-uri must be of the form \"ipp://HOSTNAME/printers/PRINTERNAME\"."
+msgstr ""
+
+msgid "There are too many subscriptions."
+msgstr ""
+
+msgid "Thermal Transfer Media"
+msgstr ""
+
+msgid "Too many active jobs."
+msgstr ""
+
+msgid "Transparency"
+msgstr ""
+
+msgid "Tray"
+msgstr ""
+
+msgid "Tray 1"
+msgstr ""
+
+msgid "Tray 2"
+msgstr ""
+
+msgid "Tray 3"
+msgstr ""
+
+msgid "Tray 4"
+msgstr ""
+
+msgid "URI Too Long"
+msgstr ""
+
+msgid "US Fanfold"
+msgstr ""
+
+msgid "US Ledger"
+msgstr ""
+
+msgid "US Legal"
+msgstr ""
+
+msgid "US Letter"
+msgstr ""
+
+msgid "Unable to connect to host."
+msgstr ""
+
+msgid "Unable to move job"
+msgstr ""
+
+msgid "Unable to move jobs"
+msgstr ""
+
+msgid "Unable to open PPD file"
+msgstr ""
+
+msgid "Unable to open cupsd.conf file:"
+msgstr ""
+
+msgid "Unauthorized"
+msgstr ""
+
+msgid "Units"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown printer-error-policy \"%s\"."
+msgstr ""
+
+msgid "Unknown printer-op-policy \"%s\"."
+msgstr ""
+
+msgid "Unsupported value type"
+msgstr ""
+
+msgid "Upgrade Required"
+msgstr ""
+
+msgid "Value uses indefinite length"
+msgstr ""
+
+msgid "VarBind uses indefinite length"
+msgstr ""
+
+msgid "Version uses indefinite length"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "ZPL Label Printer"
+msgstr ""
+
+msgid "Zebra"
+msgstr ""
+
+msgid "aborted"
+msgstr ""
+
+msgid "canceled"
+msgstr ""
+
+msgid "completed"
+msgstr ""
+
+msgid "cups-deviced failed to execute."
+msgstr ""
+
+msgid "cups-driverd failed to execute."
+msgstr ""
+
+msgid "error-index uses indefinite length"
+msgstr ""
+
+msgid "error-status uses indefinite length"
+msgstr ""
+
+msgid "held"
+msgstr ""
+
+msgid "idle"
+msgstr ""
+
+msgid "lpc> "
+msgstr ""
+
+msgid "pending"
+msgstr ""
+
+msgid "processing"
+msgstr ""
+
+msgid "request-id uses indefinite length"
+msgstr ""
+
+msgid "stat of %s failed: %s"
+msgstr ""
+
+msgid "stopped"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "untitled"
+msgstr ""
+
+msgid "variable-bindings uses indefinite length"
+msgstr ""

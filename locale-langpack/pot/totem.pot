@@ -1,0 +1,1197 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: totem master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=totem&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-05 15:07+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:52+0000\n"
+
+msgid "%d Hz"
+msgstr ""
+
+msgid "%d hour"
+msgid_plural "%d hours"
+msgstr[0] ""
+
+msgid "%d kbps"
+msgstr ""
+
+msgid "%d minute"
+msgid_plural "%d minutes"
+msgstr[0] ""
+
+msgid "%d second"
+msgid_plural "%d seconds"
+msgstr[0] ""
+
+msgid "%d selected"
+msgid_plural "%d selected"
+msgstr[0] ""
+
+msgid "%d × %d"
+msgstr ""
+
+msgid "%s (Season %d Episode %d)"
+msgstr ""
+
+msgid "%s is required to play the file, but is not installed."
+msgid_plural "%s are required to play the file, but are not installed."
+msgstr[0] ""
+
+msgid "--:--"
+msgstr ""
+
+msgid "0 Channels"
+msgstr ""
+
+msgid "0 Hz"
+msgstr ""
+
+msgid "0 seconds"
+msgstr ""
+
+msgid "4-channel"
+msgstr ""
+
+msgid "4.1-channel"
+msgstr ""
+
+msgid "5.0-channel"
+msgstr ""
+
+msgid "5.1-channel"
+msgstr ""
+
+msgid ""
+"<b>%s</b>: %s\n"
+"<b>%s</b>: %d×%d\n"
+"<b>%s</b>: %s"
+msgstr ""
+
+msgid ""
+"A list of the names of the plugins which are currently active (loaded and "
+"running)."
+msgstr ""
+
+msgid ""
+"A password to protect the rpdb2 server for debugging Totem from unauthorized"
+" remote access. If this is empty, a default of “totem” will be used."
+msgstr ""
+
+msgid "AC3 Passthrough"
+msgstr ""
+
+msgid "A_udio Menu"
+msgstr ""
+
+msgid "Active plugins list"
+msgstr ""
+
+msgid "Add Videos"
+msgstr ""
+
+msgid "Add Web Video"
+msgstr ""
+
+msgid "Add _Local Video…"
+msgstr ""
+
+msgid "Add _Web Video…"
+msgstr ""
+
+msgid "Add to Favourites"
+msgstr ""
+
+msgid "Adds files that have been played to recent files"
+msgstr ""
+
+msgid "Adds movie properties menu item"
+msgstr ""
+
+msgid ""
+"After you press OK, Totem will wait until you connect to it with winpdb or "
+"rpdb2. If you have not set a debugger password in DConf, it will use the "
+"default password (“totem”)."
+msgstr ""
+
+msgid "Album:"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "Allows screenshots and galleries to be taken of videos"
+msgstr ""
+
+msgid "Allows videos to be rotated if they are in the wrong orientation"
+msgstr ""
+
+msgid ""
+"Amount of data to buffer for network streams before starting to display the "
+"stream (in seconds)."
+msgstr ""
+
+msgid ""
+"An audio or video stream is not handled due to missing codecs. You might "
+"need to install additional plugins to be able to play some types of movies"
+msgstr ""
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "Apple Trailers"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Artist:"
+msgstr ""
+
+msgctxt "Aspect ratio"
+msgid "16∶9 (Widescreen)"
+msgstr ""
+
+msgctxt "Aspect ratio"
+msgid "2.11∶1 (DVB)"
+msgstr ""
+
+msgctxt "Aspect ratio"
+msgid "4∶3 (TV)"
+msgstr ""
+
+msgctxt "Aspect ratio"
+msgid "Auto"
+msgstr ""
+
+msgctxt "Aspect ratio"
+msgid "Square"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Audio Output"
+msgstr ""
+
+msgctxt "Audio bit rate"
+msgid "N/A"
+msgstr ""
+
+msgctxt "Audio codec"
+msgid "N/A"
+msgstr ""
+
+msgid "Authentication is required to access this file or stream."
+msgstr ""
+
+msgid "Autoload Subtitles"
+msgstr ""
+
+msgid "Autoloads text subtitles"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Baltic"
+msgstr ""
+
+msgid "Bitrate:"
+msgstr ""
+
+msgid "Brazilian Portuguese"
+msgstr ""
+
+msgid "Browse Error"
+msgstr ""
+
+msgid "Calculate the number of screenshots"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Can’t enqueue and replace at the same time"
+msgstr ""
+
+msgid "Celtic"
+msgstr ""
+
+msgid "Central European"
+msgstr ""
+
+msgid "Channels"
+msgstr ""
+
+msgid "Channels:"
+msgstr ""
+
+msgid "Chinese Simplified"
+msgstr ""
+
+msgid "Chinese Traditional"
+msgstr ""
+
+msgid "Click on items to select them"
+msgstr ""
+
+msgid "Co_ntrast:"
+msgstr ""
+
+msgid "Codec:"
+msgstr ""
+
+msgid "Color Balance"
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Configure Plugins"
+msgstr ""
+
+msgid "Container:"
+msgstr ""
+
+msgid "Could not contact the OpenSubtitles website"
+msgstr ""
+
+msgid "Could not contact the OpenSubtitles website."
+msgstr ""
+
+msgid "Could not initialize the thread-safe libraries."
+msgstr ""
+
+msgid "Couldn’t load the “%s” interface. %s"
+msgstr ""
+
+msgid "Create Screenshot _Gallery…"
+msgstr ""
+
+msgid "Creating Gallery…"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Current Locale"
+msgstr ""
+
+msgid "Cyrillic"
+msgstr ""
+
+msgid "Cyrillic/Russian"
+msgstr ""
+
+msgid "Cyrillic/Ukrainian"
+msgstr ""
+
+msgid "Deactivates the screen saver when a movie is playing"
+msgstr ""
+
+msgid "Default location for the “Open…” dialogs"
+msgstr ""
+
+msgid ""
+"Default location for the “Open…” dialogs. Default is the current directory."
+msgstr ""
+
+msgid "Default location for the “Take Screenshot” dialogs"
+msgstr ""
+
+msgid ""
+"Default location for the “Take Screenshot” dialogs. Default is the Pictures "
+"directory."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgctxt "Dimensions"
+msgid "N/A"
+msgstr ""
+
+msgid "Dimensions:"
+msgstr ""
+
+msgid "Directories to show"
+msgstr ""
+
+msgid "Directories to show in the browse interface, none by default"
+msgstr ""
+
+msgid "Disable _deinterlacing of interlaced videos"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "Download Movie Subtitles"
+msgstr ""
+
+msgid "Downloading the subtitles…"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Duration:"
+msgstr ""
+
+msgid "Encoding character set for subtitle."
+msgstr ""
+
+msgid "Enqueue"
+msgstr ""
+
+msgid "Enter the _address of the file you would like to open:"
+msgstr ""
+
+msgid "External Subtitles"
+msgstr ""
+
+msgid "Filename"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgctxt "Frame rate"
+msgid "N/A"
+msgstr ""
+
+msgid "Framerate:"
+msgstr ""
+
+msgid "Fullscreen"
+msgstr ""
+
+msgid "Gallery-%s-%d.jpg"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Georgian"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Gujarati"
+msgstr ""
+
+msgid "Gurmukhi"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hebrew Visual"
+msgstr ""
+
+msgid "Hindi"
+msgstr ""
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Instant Messenger Status"
+msgstr ""
+
+msgid "Interactive Python console"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgctxt "Language"
+msgid "Auto"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Look for subtitles for the currently playing movie"
+msgstr ""
+
+msgid "MPRIS D-Bus Interface"
+msgstr ""
+
+msgid "Make Available Offline"
+msgstr ""
+
+msgid "Make sure that Totem is properly installed."
+msgstr ""
+
+msgid "Media Player Keys"
+msgstr ""
+
+msgid "Media contains no supported video streams."
+msgstr ""
+
+msgid "Mono"
+msgstr ""
+
+msgid "Movie"
+msgstr ""
+
+msgid "Movie Properties"
+msgstr ""
+
+msgid "Movies to play"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "Mute sound"
+msgstr ""
+
+msgid "Network buffering threshold"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Next Chapter/Movie"
+msgstr ""
+
+msgid "No reason."
+msgstr ""
+
+msgid "No results found."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Nordic"
+msgstr ""
+
+msgid "Number of screenshots:"
+msgstr ""
+
+msgid "Pango font description for subtitle rendering."
+msgstr ""
+
+msgid "Password requested for RTSP server"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Persian"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Play / Pause"
+msgstr ""
+
+msgid "Play movies"
+msgstr ""
+
+msgid "Play/Pause"
+msgstr ""
+
+msgid "Playing a movie"
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Plugins…"
+msgstr ""
+
+msgid "Prefere_nces"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Previous Chapter/Movie"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Provides the variable rate menu item"
+msgstr ""
+
+msgid "Provides the “Skip to” dialog"
+msgstr ""
+
+msgid "Python Console"
+msgstr ""
+
+msgid "Python Debugger"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Recent files"
+msgstr ""
+
+msgid "Repeat mode"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Reset to _Defaults"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Results for “%s”"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Rotate ↶"
+msgstr ""
+
+msgid "Rotation Plugin"
+msgstr ""
+
+msgid "S_ubtitles"
+msgstr ""
+
+msgctxt "Sample rate"
+msgid "N/A"
+msgstr ""
+
+msgid "Sample rate:"
+msgstr ""
+
+msgid "Sat_uration:"
+msgstr ""
+
+msgid "Save Copy"
+msgstr ""
+
+msgid "Save Gallery"
+msgstr ""
+
+msgid "Save a copy of the currently playing movie"
+msgstr ""
+
+msgid "Saving gallery as “%s”"
+msgstr ""
+
+msgid "Screen Saver"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Screenshot from %s - %d.png"
+msgstr ""
+
+msgid "Screenshot from %s.png"
+msgstr ""
+
+msgid "Screenshot width (in pixels):"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search Error"
+msgstr ""
+
+msgid "Searching for subtitles…"
+msgstr ""
+
+msgid "Searching subtitles…"
+msgstr ""
+
+msgid "Season %d Episode %d"
+msgstr ""
+
+msgid "Seek"
+msgstr ""
+
+msgid "Seek Backwards"
+msgstr ""
+
+msgid "Seek Forwards"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select None"
+msgstr ""
+
+msgid "Select Subtitle Font"
+msgstr ""
+
+msgid "Select Text Subtitles"
+msgstr ""
+
+msgid ""
+"Send notifications of currently-playing videos and allow remote control "
+"using MPRIS."
+msgstr ""
+
+msgid "Set your Instant Messenger status to away when a movie is playing"
+msgstr ""
+
+msgid "Sets the user agent for the Apple Trailers site"
+msgstr ""
+
+msgid "Sets the user agent for the Vimeo site"
+msgstr ""
+
+msgid "Shuffle"
+msgstr ""
+
+msgid "Skip To"
+msgstr ""
+
+msgctxt "Skip To label length"
+msgid "7"
+msgstr ""
+
+msgid ""
+"Some necessary plug-ins are missing. Make sure that the program is correctly"
+" installed."
+msgstr ""
+
+msgid "South European"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "Speed: %s"
+msgstr ""
+
+msgid "Stereo"
+msgstr ""
+
+msgctxt "Stream bit rate"
+msgid "N/A"
+msgstr ""
+
+msgid "Subtitle Downloader"
+msgstr ""
+
+msgid "Subtitle _language:"
+msgstr ""
+
+msgid "Subtitle encoding"
+msgstr ""
+
+msgid "Subtitle files"
+msgstr ""
+
+msgid "Subtitle font"
+msgstr ""
+
+msgid "Subtitle language"
+msgstr ""
+
+msgid "Subtitles"
+msgstr ""
+
+msgid "Support additional media player keys"
+msgstr ""
+
+msgid "Surround"
+msgstr ""
+
+msgid "Switch An_gles"
+msgstr ""
+
+msgid "Take _Screenshot"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "The MediaPlayer2 object does not implement the ‘%s’ interface"
+msgstr ""
+
+msgid "The brightness of the video"
+msgstr ""
+
+msgid "The connection to this server was refused."
+msgstr ""
+
+msgid "The contrast of the video"
+msgstr ""
+
+msgid "The file does not exist."
+msgstr ""
+
+msgid "The file you tried to play is an empty file."
+msgstr ""
+
+msgid "The hue of the video"
+msgstr ""
+
+msgid "The language to search for subtitles for movies in."
+msgstr ""
+
+msgid "The movie could not be read."
+msgstr ""
+
+msgid ""
+"The playback of this movie requires a %s plugin which is not installed."
+msgid_plural ""
+"The playback of this movie requires the following plugins which are not installed:\n"
+"\n"
+"%s"
+msgstr[0] ""
+
+msgid "The playlist “%s” could not be parsed. It might be damaged."
+msgstr ""
+
+msgid "The property ‘%s’ is not writeable."
+msgstr ""
+
+msgid "The saturation of the video"
+msgstr ""
+
+msgid "The server refused access to this file or stream."
+msgstr ""
+
+msgid "The server you are trying to connect to is not known."
+msgstr ""
+
+msgid "The specified movie could not be found."
+msgstr ""
+
+msgid ""
+"This file cannot be played over the network. Try downloading it locally "
+"first."
+msgstr ""
+
+msgid "This file is encrypted and cannot be played back."
+msgstr ""
+
+msgid "This is not supposed to happen; please file a bug report."
+msgstr ""
+
+msgid "This location is not a valid one."
+msgstr ""
+
+msgid ""
+"This stream cannot be played. It’s possible that a firewall is blocking it."
+msgstr ""
+
+msgid "Title %d"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Toggle Fullscreen"
+msgstr ""
+
+msgid "Totem Python Console"
+msgstr ""
+
+msgid "Totem could not display the help contents."
+msgstr ""
+
+msgid "Totem could not get a screenshot of the video."
+msgstr ""
+
+msgid "Totem could not play “%s”."
+msgstr ""
+
+msgid "Totem could not startup."
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Type of audio output to use"
+msgstr ""
+
+msgid "Unable to play the file"
+msgstr ""
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Unknown property ‘%s’ requested of a MediaPlayer 2 object"
+msgstr ""
+
+msgid "Variable Rate"
+msgstr ""
+
+msgid "Verify your system installation. Totem will now exit."
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgctxt "Video bit rate"
+msgid "N/A"
+msgstr ""
+
+msgctxt "Video codec"
+msgid "N/A"
+msgstr ""
+
+msgid "Video files"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "Vimeo"
+msgstr ""
+
+msgid "Volume Down"
+msgstr ""
+
+msgid "Volume Up"
+msgstr ""
+
+msgid "Western"
+msgstr ""
+
+msgid "Whether to autoload text subtitle files when a movie is loaded"
+msgstr ""
+
+msgid "Whether to disable deinterlacing for interlaced movies"
+msgstr ""
+
+msgid "Whether to disable the keyboard shortcuts"
+msgstr ""
+
+msgid "Whether to disable the plugins in the user’s home directory"
+msgstr ""
+
+msgid "Year:"
+msgstr ""
+
+msgid "You are not allowed to open this file."
+msgstr ""
+
+msgid "You can access the Totem.Object through “totem_object” :\\n%s"
+msgstr ""
+
+msgid "Zoom In"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Angle Menu"
+msgstr ""
+
+msgid "_Aspect Ratio"
+msgstr ""
+
+msgid "_Audio output type:"
+msgstr ""
+
+msgid "_Brightness:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Chapter Menu"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_DVD Menu"
+msgstr ""
+
+msgid "_Download Movie Subtitles…"
+msgstr ""
+
+msgid "_Eject"
+msgstr ""
+
+msgid "_Encoding:"
+msgstr ""
+
+msgid "_Find in %s"
+msgstr ""
+
+msgid "_Font:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hue:"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Languages"
+msgstr ""
+
+msgid "_Load subtitle files when movie is loaded"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Play with Subtitle"
+msgstr ""
+
+msgid "_Properties"
+msgstr ""
+
+msgid "_Python Console"
+msgstr ""
+
+msgid "_Repeat"
+msgstr ""
+
+msgid "_Rotate ↷"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Select Text Subtitles…"
+msgstr ""
+
+msgid "_Skip To"
+msgstr ""
+
+msgid "_Skip To…"
+msgstr ""
+
+msgid "_Skip to:"
+msgstr ""
+
+msgid "_Title Menu"
+msgstr ""
+
+msgctxt "button"
+msgid "Play"
+msgstr ""
+
+msgctxt "long time format"
+msgid "%d:%02d:%02d"
+msgstr ""
+
+msgctxt "long time format"
+msgid "-%d:%02d:%02d"
+msgstr ""
+
+msgctxt "playback rate"
+msgid "Normal"
+msgstr ""
+
+msgctxt "playback rate"
+msgid "× 0.75"
+msgstr ""
+
+msgctxt "playback rate"
+msgid "× 1.1"
+msgstr ""
+
+msgctxt "playback rate"
+msgid "× 1.25"
+msgstr ""
+
+msgctxt "playback rate"
+msgid "× 1.5"
+msgstr ""
+
+msgctxt "playback rate"
+msgid "× 1.75"
+msgstr ""
+
+msgid "rpdb2 password"
+msgstr ""
+
+msgid "second"
+msgid_plural "seconds"
+msgstr[0] ""
+
+msgctxt "short time format"
+msgid "%d:%02d"
+msgstr ""
+
+msgctxt "short time format"
+msgid "-%d:%02d"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "DVD menu navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Decrease volume"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Exit fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back 15 seconds"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back 3 minutes"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go back 5 seconds"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go forward 10 minutes"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go forward 15 seconds"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go forward 60 seconds"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Increase volume"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Make Available Offline"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigate down"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigate left"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigate right"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Navigate up"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Next video or chapter"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Play/Pause"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Playback"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Previous video or chapter"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Properties"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate ↶"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate ↷"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Skip"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Skip to…"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Take Screenshot"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "View"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Volume"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgctxt "subtitle-encoding"
+msgid "'UTF-8'"
+msgstr ""
+
+msgctxt "time"
+msgid "%s %s"
+msgstr ""
+
+msgctxt "time"
+msgid "%s %s %s"
+msgstr ""

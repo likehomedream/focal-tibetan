@@ -1,0 +1,3037 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: rhythmbox master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=rhythmbox&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2019-02-22 11:07+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:48+0000\n"
+
+msgid ""
+"    * 10% of your Magnatune membership fees goes to Rhythmbox/GNOME - it's "
+"worth joining"
+msgstr ""
+
+msgid "    * All albums and artists hand-picked"
+msgstr ""
+
+msgid "    * Free listening of all songs"
+msgstr ""
+
+msgid ""
+"    * Open-Source friendly file formats: MP3s and WAVs, but also OGG and "
+"FLAC files."
+msgstr ""
+
+msgid ""
+"    * Paid members get totally unlimited downloading of the entire catalog "
+"(no other service allows that)"
+msgstr ""
+
+msgid "$10 US (better than average)"
+msgstr ""
+
+msgid "$11 US"
+msgstr ""
+
+msgid "$12 US (generous)"
+msgstr ""
+
+msgid "$13 US"
+msgstr ""
+
+msgid "$14 US"
+msgstr ""
+
+msgid "$15 US (VERY generous!)"
+msgstr ""
+
+msgid "$16 US"
+msgstr ""
+
+msgid "$17 US"
+msgstr ""
+
+msgid "$18 US (We love you!)"
+msgstr ""
+
+msgid "$5 US"
+msgstr ""
+
+msgid "$6 US"
+msgstr ""
+
+msgid "$7 US"
+msgstr ""
+
+msgid "$8 US (typical)"
+msgstr ""
+
+msgid "$9 US"
+msgstr ""
+
+msgid "%a %I:%M %p"
+msgstr ""
+
+msgid "%b %d %I:%M %p"
+msgstr ""
+
+msgid "%b %d %Y"
+msgstr ""
+
+msgid "%d (%d)"
+msgid_plural "All %d (%d)"
+msgstr[0] ""
+
+msgid "%d Star"
+msgid_plural "%d Stars"
+msgstr[0] ""
+
+msgid "%d album (%d)"
+msgid_plural "All %d albums (%d)"
+msgstr[0] ""
+
+msgid "%d artist (%d)"
+msgid_plural "All %d artists (%d)"
+msgstr[0] ""
+
+msgid "%d episode"
+msgid_plural "%d episodes"
+msgstr[0] ""
+
+msgid ""
+"%d file cannot be transferred as it must be converted into a format "
+"supported by the target device but no suitable encoding profiles are "
+"available"
+msgid_plural ""
+"%d files cannot be transferred as they must be converted into a format "
+"supported by the target device but no suitable encoding profiles are "
+"available"
+msgstr[0] ""
+
+msgid "%d genre (%d)"
+msgid_plural "All %d genres (%d)"
+msgstr[0] ""
+
+msgid "%d import error"
+msgid_plural "%d import errors"
+msgstr[0] ""
+
+msgid "%d missing file"
+msgid_plural "%d missing files"
+msgstr[0] ""
+
+msgid "%d of %d"
+msgstr ""
+
+msgid "%d song"
+msgid_plural "%d songs"
+msgstr[0] ""
+
+msgid "%d station"
+msgid_plural "%d stations"
+msgstr[0] ""
+
+msgid "%d:%02d"
+msgstr ""
+
+msgid "%d:%02d of %d:%02d"
+msgstr ""
+
+msgid "%d:%02d of %d:%02d remaining"
+msgstr ""
+
+msgid "%d:%02d:%02d"
+msgstr ""
+
+msgid "%d:%02d:%02d of %d:%02d:%02d"
+msgstr ""
+
+msgid "%d:%02d:%02d of %d:%02d:%02d remaining"
+msgstr ""
+
+msgid "%ld day"
+msgid_plural "%ld days"
+msgstr[0] ""
+
+msgid "%ld hour"
+msgid_plural "%ld hours"
+msgstr[0] ""
+
+msgid "%ld minute"
+msgid_plural "%ld minutes"
+msgstr[0] ""
+
+msgid "%lu kbps"
+msgstr ""
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "%s (%d track)"
+msgid_plural "%s (%d tracks)"
+msgstr[0] ""
+
+msgid "%s (%d)"
+msgstr ""
+
+msgid "%s (Paused)"
+msgstr ""
+
+msgid "%s / %s"
+msgstr ""
+
+msgid "%s Fan Radio"
+msgstr ""
+
+msgid "%s Group Radio"
+msgstr ""
+
+msgid "%s Properties"
+msgstr ""
+
+msgid "%s Radio"
+msgstr ""
+
+msgid "%s Sync Settings"
+msgstr ""
+
+msgid "%s Tag Radio"
+msgstr ""
+
+msgid "%s and %s"
+msgstr ""
+
+msgid "%s no longer supports this type of station"
+msgstr ""
+
+msgid "%s plays"
+msgstr ""
+
+msgid "%s's Library"
+msgstr ""
+
+msgid "%s's Loved Tracks"
+msgstr ""
+
+msgid "%s's Mix Radio"
+msgstr ""
+
+msgid "%s's Music"
+msgstr ""
+
+msgid "%s's Neighbourhood"
+msgstr ""
+
+msgid "%s's Recommended Radio"
+msgstr ""
+
+msgid "%s, %s and %s"
+msgstr ""
+
+msgid "%s. Would you like to add the podcast feed anyway?"
+msgstr ""
+
+msgid "%tt by %ta"
+msgstr ""
+
+msgid "%tt by %ta from %at"
+msgstr ""
+
+msgid "%tt from %ta"
+msgstr ""
+
+msgid "-%s / %s"
+msgstr ""
+
+msgid "-15.0 dB"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "0.0 dB"
+msgstr ""
+
+msgid "000 kbps"
+msgstr ""
+
+msgid "128K MP3"
+msgstr ""
+
+msgid "15.0 dB"
+msgstr ""
+
+msgid "<Invalid unicode>"
+msgstr ""
+
+msgid "A sample plugin in C with no features"
+msgstr ""
+
+msgid "A sample plugin in Python with no features"
+msgstr ""
+
+msgid "A sample plugin in Vala with no features"
+msgstr ""
+
+msgid "A_dd if any criteria are matched"
+msgstr ""
+
+msgid "A_lbum"
+msgstr ""
+
+msgid "A_lbum:"
+msgstr ""
+
+msgid "Access key:"
+msgstr ""
+
+msgid "Activate the source matching the specified URI"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Remote"
+msgstr ""
+
+msgid "Add specified tracks to the play queue"
+msgstr ""
+
+msgid "Add to New Playlist"
+msgstr ""
+
+msgid "Add to Play Queue"
+msgstr ""
+
+msgid "Add to Playlist"
+msgstr ""
+
+msgid "Add to Queue"
+msgstr ""
+
+msgid "Added files:"
+msgstr ""
+
+msgid "Adding tracks to the library"
+msgstr ""
+
+msgid "Additional GStreamer plugins are required to play this file: %s"
+msgstr ""
+
+msgid ""
+"Additional software is required to convert %d file into a format supported by the target device:\n"
+"%s"
+msgid_plural ""
+"Additional software is required to convert %d files into a format supported by the target device:\n"
+"%s"
+msgstr[0] ""
+
+msgid ""
+"Additional software is required to encode media in your preferred format:\n"
+"%s"
+msgstr ""
+
+msgid "Additional software is required to play some of these files."
+msgstr ""
+
+msgid ""
+"Adds support to Rhythmbox for playing and purchasing from the Magnatune "
+"online music store"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid ""
+"After you press OK, Rhythmbox will wait until you connect to it with winpdb "
+"or rpdb2. If you have not set a debugger password in the file %s, it will "
+"use the default password ('rhythmbox')."
+msgstr ""
+
+msgid "Albu_m sort order:"
+msgstr ""
+
+msgid "Albu_m:"
+msgstr ""
+
+msgid "Album"
+msgstr ""
+
+msgid "Album (ideal loudness for all tracks)"
+msgstr ""
+
+msgid "Album Art"
+msgstr ""
+
+msgid "Album a_rtist sort order:"
+msgstr ""
+
+msgid "Album a_rtist:"
+msgstr ""
+
+msgid "Albums"
+msgstr ""
+
+msgid "Alert Buttons"
+msgstr ""
+
+msgid "Alert Type"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "All Music"
+msgstr ""
+
+msgid "All Tracks"
+msgstr ""
+
+msgid ""
+"An error occurred while trying to authorize the download.\n"
+"The Magnatune server returned:\n"
+"%s"
+msgstr ""
+
+msgid ""
+"An error occurred while trying to download the album.\n"
+"The error text is:\n"
+"%s"
+msgstr ""
+
+msgid "Android devices"
+msgstr ""
+
+msgid "April (04)"
+msgstr ""
+
+msgid "Artist"
+msgstr ""
+
+msgid "Artist (Album) - Number - Title"
+msgstr ""
+
+msgid "Artist - Album"
+msgstr ""
+
+msgid "Artist - Number - Title"
+msgstr ""
+
+msgid "Artist - Title"
+msgstr ""
+
+msgid "Artist Info"
+msgstr ""
+
+msgid "Artist s_ort order:"
+msgstr ""
+
+msgid "Artist/Album"
+msgstr ""
+
+msgid "Artist/Artist - Album"
+msgstr ""
+
+msgid "Artist/Artist - Album/Artist (Album) - 01 - Title.ogg"
+msgstr ""
+
+msgid "Artists"
+msgstr ""
+
+msgid "Audio CD Player"
+msgstr ""
+
+msgid "Audio CD Recorder"
+msgstr ""
+
+msgid "Audio formats:"
+msgstr ""
+
+msgid "Audio;Song;MP3;CD;Podcast;MTP;iPod;Playlist;Last.fm;UPnP;DLNA;Radio;"
+msgstr ""
+
+msgid "August (08)"
+msgstr ""
+
+msgid "Authentication error"
+msgstr ""
+
+msgid "Authentication error. Please try logging in again."
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "BPM"
+msgstr ""
+
+msgid "Ban"
+msgstr ""
+
+msgid "Basic"
+msgstr ""
+
+msgid "Bitrate:"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Browse and play sounds from SoundCloud®"
+msgstr ""
+
+msgid "Browse this Album"
+msgstr ""
+
+msgid "Browse this Artist"
+msgstr ""
+
+msgid "Browse this Genre"
+msgstr ""
+
+msgid "Browse various local and Internet media sources"
+msgstr ""
+
+msgid "Browse..."
+msgstr ""
+
+msgid "Browser Views"
+msgstr ""
+
+msgid "Buffering"
+msgstr ""
+
+msgid "By extension"
+msgstr ""
+
+msgid "C_omment"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Download"
+msgstr ""
+
+msgid "Cannot get free space at %s: %s"
+msgstr ""
+
+msgid "Check for _new episodes:"
+msgstr ""
+
+msgid "Check if Rhythmbox is already running"
+msgstr ""
+
+msgid "Choose Library Location"
+msgstr ""
+
+msgid "Choose lyrics folder..."
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Clear Play Queue"
+msgstr ""
+
+msgid "Clear the search text"
+msgstr ""
+
+msgid "Clock is not set correctly"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Comm_ent:"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Composer"
+msgstr ""
+
+msgid "Connect to DAAP share..."
+msgstr ""
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Connecting to music share"
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+msgid "Connection error. Please try logging in again."
+msgstr ""
+
+msgid "Constant bit rate"
+msgstr ""
+
+msgid "Contents after sync"
+msgstr ""
+
+msgid "Context Pane"
+msgstr ""
+
+msgid "Contributors:"
+msgstr ""
+
+msgid "Control Rhythmbox from a web browser"
+msgstr ""
+
+msgid "Control Rhythmbox using an infrared remote control"
+msgstr ""
+
+msgid "Control Rhythmbox using key shortcuts"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy files that are outside the music library"
+msgstr ""
+
+msgid "Copying tracks to the library"
+msgstr ""
+
+msgid "Copyright:"
+msgstr ""
+
+msgid "Could not connect to shared music"
+msgstr ""
+
+msgid "Could not create a GStreamer sink element to write to %s"
+msgstr ""
+
+msgid "Could not find a GStreamer CD source plugin"
+msgstr ""
+
+msgid "Could not find this album on MusicBrainz."
+msgstr ""
+
+msgid "Could not load the music database:"
+msgstr ""
+
+msgid "Could not pair with this Remote"
+msgstr ""
+
+msgid "Could not pair with this Remote."
+msgstr ""
+
+msgid "Could not read the CD device."
+msgstr ""
+
+msgid "Could not search MusicBrainz for album details."
+msgstr ""
+
+msgid "Couldn't access %s: %s"
+msgstr ""
+
+msgid "Couldn't display help"
+msgstr ""
+
+msgid "Couldn't download album"
+msgstr ""
+
+msgid "Couldn't read playlist"
+msgstr ""
+
+msgid "Couldn't save playlist"
+msgstr ""
+
+msgid "Couldn't start playback"
+msgstr ""
+
+msgid "Couldn't stop playback"
+msgstr ""
+
+msgid "Cover art search"
+msgstr ""
+
+msgid "Create Audio CD..."
+msgstr ""
+
+msgid "Create Automatic Playlist"
+msgstr ""
+
+msgid "Create Station"
+msgstr ""
+
+msgid "Create a Radio Station"
+msgstr ""
+
+msgid "Create automatically updating playlist where:"
+msgstr ""
+
+msgid "Crossfade Duration (Seconds)"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Current contents"
+msgstr ""
+
+msgid "Current song is not seekable"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "DAAP Music Sharing"
+msgstr ""
+
+msgid "D_eselect All"
+msgstr ""
+
+msgid "Da_te added"
+msgstr ""
+
+msgid "Dark Lyrics (darklyrics.com)"
+msgstr ""
+
+msgid "Database version:"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date Added"
+msgstr ""
+
+msgid "Date added:"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "December (12)"
+msgstr ""
+
+msgid "Decrease the playback volume"
+msgstr ""
+
+msgid "Default settings"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Podcast Feed"
+msgstr ""
+
+msgid "Delete _Episode Only"
+msgstr ""
+
+msgid "Delete _Feed Only"
+msgstr ""
+
+msgid "Delete the podcast episode and downloaded file?"
+msgstr ""
+
+msgid "Delete the podcast feed and downloaded files?"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Device _name:"
+msgstr ""
+
+msgid "Device node:"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Digital Audio Player"
+msgstr ""
+
+msgid "Disable loading of plugins"
+msgstr ""
+
+msgid "Disable repeat playback order"
+msgstr ""
+
+msgid "Disable shuffle playback order"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disconnect"
+msgstr ""
+
+msgid "Do not register the shell"
+msgstr ""
+
+msgid "Do not update the library with file changes"
+msgstr ""
+
+msgid "Do you want to initialize your iPod?"
+msgstr ""
+
+msgid "Don't present an existing Rhythmbox window"
+msgstr ""
+
+msgid "Don't save any data permanently (implies --no-registration)"
+msgstr ""
+
+msgid "Don't start a new instance of Rhythmbox"
+msgstr ""
+
+msgid "Don't sync"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download Album"
+msgstr ""
+
+msgid "Download Episode"
+msgstr ""
+
+msgid "Download Error"
+msgstr ""
+
+msgid "Download location:"
+msgstr ""
+
+msgid "Downloaded"
+msgstr ""
+
+msgid "Downloading from Magnatune"
+msgstr ""
+
+msgid "Downloading podcast"
+msgstr ""
+
+msgid "Drop artwork here"
+msgstr ""
+
+msgid "Duplicate Audio CD..."
+msgstr ""
+
+msgid "Duration:"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Automatic Playlist"
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "Empty file"
+msgstr ""
+
+msgid "Empty the play queue before adding new tracks"
+msgstr ""
+
+msgid "Enable debug output"
+msgstr ""
+
+msgid "Enable debug output matching a specified string"
+msgstr ""
+
+msgid "Enable repeat playback order"
+msgstr ""
+
+msgid "Enable shuffle playback order"
+msgstr ""
+
+msgid "Episodes"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error creating podcast download directory"
+msgstr ""
+
+msgid "Error in podcast"
+msgstr ""
+
+msgid "Error message"
+msgstr ""
+
+msgid "Error transferring track"
+msgstr ""
+
+msgid "Error tuning station: %i - %s"
+msgstr ""
+
+msgid "Error tuning station: invalid response"
+msgstr ""
+
+msgid "Error tuning station: no response"
+msgstr ""
+
+msgid "Error tuning station: unexpected response"
+msgstr ""
+
+msgid "Error while saving song information"
+msgstr ""
+
+msgid "Every day"
+msgstr ""
+
+msgid "Every hour"
+msgstr ""
+
+msgid "Every week"
+msgstr ""
+
+msgid "Examining files"
+msgstr ""
+
+msgid "Example Path:"
+msgstr ""
+
+msgid "Extract"
+msgstr ""
+
+msgid "FLAC"
+msgstr ""
+
+msgid "FM Radio"
+msgstr ""
+
+msgid "F_older hierarchy:"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "Failed to create %s element; check your GStreamer installation"
+msgstr ""
+
+msgid "Failed to create GStreamer element; check your installation"
+msgstr ""
+
+msgid "Failed to create GStreamer pipeline to play %s"
+msgstr ""
+
+msgid "Failed to create a source element; check your installation"
+msgstr ""
+
+msgid "Failed to create audio output element; check your installation"
+msgstr ""
+
+msgid "Failed to create playbin element; check your GStreamer installation"
+msgstr ""
+
+msgid ""
+"Failed to create the 'decodebin' element; check your GStreamer installation"
+msgstr ""
+
+msgid ""
+"Failed to create the 'giostreamsink' element; check your GStreamer "
+"installation"
+msgstr ""
+
+msgid "Failed to create the player: %s"
+msgstr ""
+
+msgid "Failed to link GStreamer pipeline; check your installation"
+msgstr ""
+
+msgid "Failed to link new stream into GStreamer pipeline"
+msgstr ""
+
+msgid "Failed to open output device"
+msgstr ""
+
+msgid "Failed to open output device: %s"
+msgstr ""
+
+msgid "Failed to start new stream"
+msgstr ""
+
+msgid "February (02)"
+msgstr ""
+
+msgid "Feed"
+msgstr ""
+
+msgid "Feed:"
+msgstr ""
+
+msgid "Fetch album covers from the Internet"
+msgstr ""
+
+msgid "Fetch more tracks"
+msgstr ""
+
+msgid "Fetch song lyrics from the Internet"
+msgstr ""
+
+msgid "File corrupted during write"
+msgstr ""
+
+msgid "File name:"
+msgstr ""
+
+msgid "File size:"
+msgstr ""
+
+msgid "Find out about Magnatune at "
+msgstr ""
+
+msgid "Finished downloading podcast"
+msgstr ""
+
+msgid "Firmware version:"
+msgstr ""
+
+msgid "Follow Playing Track"
+msgstr ""
+
+msgid "Forget known Remotes"
+msgstr ""
+
+msgid "Former Maintainers:"
+msgstr ""
+
+msgid "Frequency of radio station"
+msgstr ""
+
+msgid "GB"
+msgstr ""
+
+msgid "G_enres, artists and albums"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Genre"
+msgstr ""
+
+msgid "Genres"
+msgstr ""
+
+msgid "Get an account at "
+msgstr ""
+
+msgid "Grilo media browser"
+msgstr ""
+
+msgid "H_ide"
+msgstr ""
+
+msgid "Help!"
+msgstr ""
+
+msgid "Hide all tracks"
+msgstr ""
+
+msgid "Host:port of DAAP share:"
+msgstr ""
+
+msgid "I don't have a Magnatune account"
+msgstr ""
+
+msgid "I have a download account"
+msgstr ""
+
+msgid "I have a streaming account"
+msgstr ""
+
+msgid "IM Status"
+msgstr ""
+
+msgid ""
+"If you choose to delete the episode and file, they will be permanently lost."
+"  Please note that you can delete the episode but keep the downloaded file "
+"by choosing to delete the episode only."
+msgstr ""
+
+msgid ""
+"If you choose to delete the feed and files, they will be permanently lost.  "
+"Please note that you can delete the feed but keep the downloaded files by "
+"choosing to delete the feed only."
+msgstr ""
+
+msgid "Image/label border"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Import %d listed track"
+msgid_plural "Import %d listed tracks"
+msgstr[0] ""
+
+msgid "Import %d selected track"
+msgid_plural "Import %d selected tracks"
+msgstr[0] ""
+
+msgid "Import Errors"
+msgstr ""
+
+msgid "Increase the playback volume"
+msgstr ""
+
+msgid "Inform Zeitgeist about your activity"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Inhibit Power Manager from suspending the machine while playing"
+msgstr ""
+
+msgid "Install Additional Software"
+msgstr ""
+
+msgid "Interactive python console"
+msgstr ""
+
+msgid "Internet Radio"
+msgstr ""
+
+msgid "Invalid URL"
+msgstr ""
+
+msgid "Invalid property type %s for property %s"
+msgstr ""
+
+msgid "Invalid station URL"
+msgstr ""
+
+msgid "January (01)"
+msgstr ""
+
+msgid "Jetlyrics (jetlyrics.com)"
+msgstr ""
+
+msgid "Jlyric (j-lyric.net)"
+msgstr ""
+
+msgid "July (07)"
+msgstr ""
+
+msgid "Jump to next song"
+msgstr ""
+
+msgid "Jump to previous song"
+msgstr ""
+
+msgid "June (06)"
+msgstr ""
+
+msgid "LIRC"
+msgstr ""
+
+msgid "L_ocation:"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "Last Played"
+msgstr ""
+
+msgid "Last Seen"
+msgstr ""
+
+msgid "Last episode:"
+msgstr ""
+
+msgid "Last played:"
+msgstr ""
+
+msgid "Last submission time:"
+msgstr ""
+
+msgid "Last updated:"
+msgstr ""
+
+msgid "Last.fm"
+msgstr ""
+
+msgid "Launch web remote control"
+msgstr ""
+
+msgid "Learn more about ReplayGain"
+msgstr ""
+
+msgid "Library"
+msgstr ""
+
+msgid "Library Location"
+msgstr ""
+
+msgid "Library Structure"
+msgstr ""
+
+msgid "Library _name:"
+msgstr ""
+
+msgid "Library of User:"
+msgstr ""
+
+msgid "Libre.fm"
+msgstr ""
+
+msgid "Linear"
+msgstr ""
+
+msgid "Linear looping"
+msgstr ""
+
+msgid "Linear, removing entries once played"
+msgstr ""
+
+msgid "Links"
+msgstr ""
+
+msgid "Listen to _Similar Artists Radio"
+msgstr ""
+
+msgid "Listen to _Top Fans Radio"
+msgstr ""
+
+msgid "Listened by Group:"
+msgstr ""
+
+msgid "Listening port:"
+msgstr ""
+
+msgid "Lo_cation"
+msgstr ""
+
+msgid "Load Playlist"
+msgstr ""
+
+msgid "Loading Magnatune catalog"
+msgstr ""
+
+msgid "Loading biography for %s"
+msgstr ""
+
+msgid "Loading lyrics for %s by %s"
+msgstr ""
+
+msgid "Loading top albums for %s"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Log in"
+msgstr ""
+
+msgid "Logging in"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Lossless"
+msgstr ""
+
+msgid "Love"
+msgstr ""
+
+msgid "Loved Tracks"
+msgstr ""
+
+msgid "Lyrics"
+msgstr ""
+
+msgid "Lyrics Folder"
+msgstr ""
+
+msgid "Lyrics not found"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "MPEG Version 3.0 URL"
+msgstr ""
+
+msgid "MPRIS D-Bus interface"
+msgstr ""
+
+msgid "Magnatune"
+msgstr ""
+
+msgid "Magnatune Information"
+msgstr ""
+
+msgid "Magnatune Store"
+msgstr ""
+
+msgid "Magnatune is an online record label that is not evil.\n"
+msgstr ""
+
+msgid "Magnatune online music store"
+msgstr ""
+
+msgid "Maintainers:"
+msgstr ""
+
+msgid "Manually"
+msgstr ""
+
+msgid "Manufacturer:"
+msgstr ""
+
+msgid "March (03)"
+msgstr ""
+
+msgid "May (05)"
+msgstr ""
+
+msgid "Media Player"
+msgstr ""
+
+msgid "Media Player Keys"
+msgstr ""
+
+msgid "Media Player Properties"
+msgstr ""
+
+msgid "Media player device error"
+msgstr ""
+
+msgid "MediaServer2 D-Bus interface"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Missing Files"
+msgstr ""
+
+msgid "Mix Radio for User:"
+msgstr ""
+
+msgid "Model:"
+msgstr ""
+
+msgid "Mount point:"
+msgstr ""
+
+msgid "Multiple Song Properties"
+msgstr ""
+
+msgid "Multiple locations set"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Music Player"
+msgstr ""
+
+msgid "Music management and playback software for GNOME."
+msgstr ""
+
+msgid "Musicbrainz server error"
+msgstr ""
+
+msgid "My Library"
+msgstr ""
+
+msgid "My Neighbourhood"
+msgstr ""
+
+msgid "My Recommendations"
+msgstr ""
+
+msgid "My Top Rated"
+msgstr ""
+
+msgid "Neighbourhood of User:"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New DAAP share"
+msgstr ""
+
+msgid "New Downloads"
+msgstr ""
+
+msgid "New Episodes"
+msgstr ""
+
+msgid "New FM Radio Station"
+msgstr ""
+
+msgid "New Internet Radio Station"
+msgstr ""
+
+msgid "New Playlist"
+msgstr ""
+
+msgid "New Playlist on %s"
+msgstr ""
+
+msgid "New Podcast Feed..."
+msgstr ""
+
+msgid "New _Automatic Playlist"
+msgstr ""
+
+msgid "New playlist"
+msgstr ""
+
+msgid "New updates available from"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No Stars"
+msgstr ""
+
+msgid "No artist specified."
+msgstr ""
+
+msgid "No information available"
+msgstr ""
+
+msgid "No lyrics found"
+msgstr ""
+
+msgid "No next song"
+msgstr ""
+
+msgid "No previous song"
+msgstr ""
+
+msgid "No registered source can handle URI %s"
+msgstr ""
+
+msgid "No registered source matches URI %s"
+msgstr ""
+
+msgid "No space left on MTP device"
+msgstr ""
+
+msgid ""
+"No storage areas found on this device. You may need to unlock it and enable "
+"MTP."
+msgstr ""
+
+msgid "Not Downloaded"
+msgstr ""
+
+msgid "Not Playing"
+msgstr ""
+
+msgid "Not currently playing"
+msgstr ""
+
+msgid "Not enough content to play station"
+msgstr ""
+
+msgid "Not enough space in %s"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Not playing"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "Notification popups"
+msgstr ""
+
+msgid "November (11)"
+msgstr ""
+
+msgid "Now Playing"
+msgstr ""
+
+msgid "Now playing: %s %s"
+msgstr ""
+
+msgid "Number - Title"
+msgstr ""
+
+msgid "Number. Artist - Title"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "October (10)"
+msgstr ""
+
+msgid "Ogg Vorbis"
+msgstr ""
+
+msgid "On the desktop"
+msgstr ""
+
+msgid "Only showing %d result"
+msgid_plural "Only showing %d results"
+msgstr[0] ""
+
+msgid "Other"
+msgstr ""
+
+msgid "P_arty Mode"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Path for database file to use"
+msgstr ""
+
+msgid "Path for playlists file to use"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Pause playback"
+msgstr ""
+
+msgid "Pause playback if currently playing"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Play Count"
+msgstr ""
+
+msgid "Play Queue"
+msgstr ""
+
+msgid "Play Queue in Side Pane"
+msgstr ""
+
+msgid "Play a specified URI, importing it if necessary"
+msgstr ""
+
+msgid "Play and organize your music collection"
+msgstr ""
+
+msgid "Play count:"
+msgstr ""
+
+msgid "Play from the source matching the specified URI"
+msgstr ""
+
+msgid "Play/Pause"
+msgstr ""
+
+msgid "Playback"
+msgstr ""
+
+msgid "Playback Error"
+msgstr ""
+
+msgid "Playback position not available"
+msgstr ""
+
+msgid "Playback volume is %f.\n"
+msgstr ""
+
+msgid "Player Backend"
+msgstr ""
+
+msgid "Playing"
+msgstr ""
+
+msgid "Playlist"
+msgstr ""
+
+msgid "Playlist %s already exists"
+msgstr ""
+
+msgid "Playlist %s is an automatic playlist"
+msgstr ""
+
+msgid "Playlist format"
+msgstr ""
+
+msgid "Playlist was empty"
+msgstr ""
+
+msgid "Playlists"
+msgstr ""
+
+msgid "Playlists:"
+msgstr ""
+
+msgid "Please enter the passcode displayed on your device."
+msgstr ""
+
+msgid "Podcast"
+msgstr ""
+
+msgid "Podcast Downloads"
+msgstr ""
+
+msgid "Podcast Error"
+msgstr ""
+
+msgid "Podcasts"
+msgstr ""
+
+msgid "Podcasts:"
+msgstr ""
+
+msgid "Portable Players"
+msgstr ""
+
+msgid "Portable Players - MTP"
+msgstr ""
+
+msgid "Portable Players - iPod"
+msgstr ""
+
+msgid "Power Manager"
+msgstr ""
+
+msgid "Pr_operties"
+msgstr ""
+
+msgid "Preferred audio _format:"
+msgstr ""
+
+msgid "Preferred format"
+msgstr ""
+
+msgid "Press 'h' for help."
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Print formatted details of the song"
+msgstr ""
+
+msgid "Print the current playback volume"
+msgstr ""
+
+msgid "Print the title and artist of the playing song"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Provides an implementation of the MPRIS D-Bus interface specification"
+msgstr ""
+
+msgid ""
+"Provides an implementation of the MediaServer2 D-Bus interface specification"
+msgstr ""
+
+msgid "Python Console"
+msgstr ""
+
+msgid "Python Debugger"
+msgstr ""
+
+msgid "Python Sample Plugin"
+msgstr ""
+
+msgid "Python Source"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
+
+msgid "Queued tracks:"
+msgstr ""
+
+msgid "Quit Rhythmbox"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio (equal loudness for all tracks)"
+msgstr ""
+
+msgid "Random by rating"
+msgstr ""
+
+msgid "Random by time since last play"
+msgstr ""
+
+msgid "Random by time since last play and rating"
+msgstr ""
+
+msgid "Random with equal weights"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Recently Added"
+msgstr ""
+
+msgid "Recently Listened Tracks"
+msgstr ""
+
+msgid "Recently Played"
+msgstr ""
+
+msgid "Recommendations"
+msgstr ""
+
+msgid "Recommendations for User:"
+msgstr ""
+
+msgid "Record audio CDs from playlists and duplicate audio CDs"
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Remotes"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove from Play Queue"
+msgstr ""
+
+msgid "Remove from Playlist"
+msgstr ""
+
+msgid "Removed files:"
+msgstr ""
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "ReplayGain"
+msgstr ""
+
+msgid "ReplayGain GStreamer plugins not available"
+msgstr ""
+
+msgid "ReplayGain _mode:"
+msgstr ""
+
+msgid "ReplayGain preferences"
+msgstr ""
+
+msgid "Request failed"
+msgstr ""
+
+msgid "Require _password:"
+msgstr ""
+
+msgid "Resume playback if currently paused"
+msgstr ""
+
+msgid "Retrieving songs from music share"
+msgstr ""
+
+msgid "Rhythmbox"
+msgstr ""
+
+msgid "Rhythmbox Music Player"
+msgstr ""
+
+msgid "Rhythmbox Preferences"
+msgstr ""
+
+msgid "Rhythmbox Website"
+msgstr ""
+
+msgid "Rhythmbox could not duplicate the disc"
+msgstr ""
+
+msgid "Rhythmbox could not record the audio disc"
+msgstr ""
+
+msgid ""
+"Rhythmbox could not understand the Magnatune catalog, please file a bug."
+msgstr ""
+
+msgid ""
+"Rhythmbox has detected a device that is probably an uninitialized or "
+"corrupted iPod. It must be initialized before Rhythmbox can use it, but this"
+" will destroy any song metadata already present. If you wish Rhythmbox to "
+"initialize the iPod, please fill in the information below. If the device is "
+"not an iPod, or you do not wish to initialize it, please click cancel."
+msgstr ""
+
+msgid ""
+"Rhythmbox is Free software, based on GTK+ and GStreamer, and is extensible "
+"via plugins written in Python or C."
+msgstr ""
+
+msgid ""
+"Rhythmbox is a music management application, designed to work well under the"
+" GNOME desktop. In addition to music stored on your computer, it supports "
+"network shares, podcasts, radio streams, portable music devices (including "
+"phones), and internet music services such as Last.fm and Magnatune."
+msgstr ""
+
+msgid ""
+"Rhythmbox is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+msgstr ""
+
+msgid ""
+"Rhythmbox is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 2 of the License, or\n"
+"(at your option) any later version.\n"
+msgstr ""
+
+msgid "S_kip All"
+msgstr ""
+
+msgid "S_ubmit Album"
+msgstr ""
+
+msgid "Sample Plugin"
+msgstr ""
+
+msgid "Save Playlist"
+msgstr ""
+
+msgid "Scanning"
+msgstr ""
+
+msgid "Scanning %s"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search albums"
+msgstr ""
+
+msgid "Search all fields"
+msgstr ""
+
+msgid "Search artists"
+msgstr ""
+
+msgid "Search composers"
+msgstr ""
+
+msgid "Search engines"
+msgstr ""
+
+msgid ""
+"Search for podcasts in the iTunes Store and on Miroguide.com, or enter a podcast feed URL.\n"
+"Subscribe to podcasts to download new episodes as they are published."
+msgstr ""
+
+msgid "Search genres"
+msgstr ""
+
+msgid "Search groups"
+msgstr ""
+
+msgid "Search groups on SoundCloud"
+msgstr ""
+
+msgid "Search podcast episodes"
+msgstr ""
+
+msgid "Search podcast feeds"
+msgstr ""
+
+msgid "Search sets"
+msgstr ""
+
+msgid "Search sets on SoundCloud"
+msgstr ""
+
+msgid "Search titles"
+msgstr ""
+
+msgid "Search tracks"
+msgstr ""
+
+msgid "Search tracks on SoundCloud"
+msgstr ""
+
+msgid "Search users"
+msgstr ""
+
+msgid "Search users on SoundCloud"
+msgstr ""
+
+msgid "Search your internet radio stations"
+msgstr ""
+
+msgid "Searching for lyrics..."
+msgstr ""
+
+msgid "Seek in current track"
+msgstr ""
+
+msgid "Seeked to %s"
+msgstr ""
+
+msgid "Select Folder For Podcasts"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select a location containing music to add to your library:"
+msgstr ""
+
+msgid "Select new artwork"
+msgstr ""
+
+msgid "Select playlist format:"
+msgstr ""
+
+msgid "Select the search type"
+msgstr ""
+
+msgid "Select the source matching the specified URI"
+msgstr ""
+
+msgid "Select tracks to be extracted"
+msgstr ""
+
+msgid "September (09)"
+msgstr ""
+
+msgid "Serial number:"
+msgstr ""
+
+msgid "Set the playback volume"
+msgstr ""
+
+msgid "Set the rating of the current song"
+msgstr ""
+
+msgid "Share music and play shared music on your local network"
+msgstr ""
+
+msgid "Shared"
+msgstr ""
+
+msgid "Sharing"
+msgstr ""
+
+msgid "Shoutcast playlist"
+msgstr ""
+
+msgid "Show %s"
+msgstr ""
+
+msgid "Show all tracks"
+msgstr ""
+
+msgid "Show information related to the currently playing artist and song."
+msgstr ""
+
+msgid "Show more _details"
+msgstr ""
+
+msgid "Show the version of the program"
+msgstr ""
+
+msgid "Shuffle"
+msgstr ""
+
+msgid "Shuffle Play Queue"
+msgstr ""
+
+msgid "Side Pane"
+msgstr ""
+
+msgid "Similar to Artist:"
+msgstr ""
+
+msgid "Song Lyrics"
+msgstr ""
+
+msgid "Song Position Slider"
+msgstr ""
+
+msgid "Song Properties"
+msgstr ""
+
+msgid "Sorting"
+msgstr ""
+
+msgid "SoundCloud"
+msgstr ""
+
+msgid "SoundCloud Groups"
+msgstr ""
+
+msgid "SoundCloud Sets"
+msgstr ""
+
+msgid "SoundCloud Users"
+msgstr ""
+
+msgid "Source to activate"
+msgstr ""
+
+msgid "Source to play from"
+msgstr ""
+
+msgid "Source to select"
+msgstr ""
+
+msgid "Source:"
+msgstr ""
+
+msgid "Start interactive mode"
+msgstr ""
+
+msgid "Start playback"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status:"
+msgstr ""
+
+msgid "Stop & Quit"
+msgstr ""
+
+msgid "Stop playback"
+msgstr ""
+
+msgid "Stores"
+msgstr ""
+
+msgid "Stream error"
+msgstr ""
+
+msgid "Submission statistics"
+msgstr ""
+
+msgid "Submit listening data"
+msgstr ""
+
+msgid "Submits song information to Last.fm and plays Last.fm radio streams"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Support for Android 4.0+ devices (via MTP)"
+msgstr ""
+
+msgid "Support for Apple iPod devices (show the content, play from device)"
+msgstr ""
+
+msgid "Support for FM radio broadcasting services"
+msgstr ""
+
+msgid "Support for MTP devices (show the content, transfer, play from device)"
+msgstr ""
+
+msgid "Support for broadcasting services transmitted via the Internet"
+msgstr ""
+
+msgid "Support for generic audio player devices (plus PSP and Nokia 770)"
+msgstr ""
+
+msgid "Support for playing of audio CDs as music source"
+msgstr ""
+
+msgid "Sync"
+msgstr ""
+
+msgid "Sync Preferences"
+msgstr ""
+
+msgid "Sync Preview"
+msgstr ""
+
+msgid "Sync with the device"
+msgstr ""
+
+msgid "Syncing tracks to %s"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "TerraBrasil (terra.com.br)"
+msgstr ""
+
+msgid "The Beatles"
+msgstr ""
+
+msgid ""
+"The GStreamer elements required for ReplayGain processing are not available."
+" The missing elements are: %s"
+msgstr ""
+
+msgid ""
+"The URL \"%s\" has already been added as a radio station. If this is a "
+"podcast feed, please remove the radio station."
+msgstr ""
+
+msgid "The URL \"%s\" is not valid, please check it."
+msgstr ""
+
+msgid ""
+"The URL '%s' does not appear to be a podcast feed. It may be the wrong URL, "
+"or the feed may be broken. Would you like Rhythmbox to attempt to use it "
+"anyway?"
+msgstr ""
+
+msgid "The buttons shown in the alert dialog"
+msgstr ""
+
+msgid ""
+"The database was created by a later version of Rhythmbox.  This version of "
+"Rhythmbox cannot read the database."
+msgstr ""
+
+msgid "The feed does not contain any downloadable items"
+msgstr ""
+
+msgid "The file \"%s\" already exists. Do you want to replace it?"
+msgstr ""
+
+msgid "The location you have selected is on the device %s."
+msgstr ""
+
+msgid "The music share '%s' requires a password to connect"
+msgstr ""
+
+msgid "The playlist file may be in an unknown format or corrupted."
+msgstr ""
+
+msgid "The type of alert"
+msgstr ""
+
+msgid ""
+"There is not enough space on the device to transfer the selected music, "
+"playlists and podcasts."
+msgstr ""
+
+msgid ""
+"There was a problem adding this podcast: %s.  Please verify the URL: %s"
+msgstr ""
+
+msgid "This disc matches multiple albums. Select the correct album."
+msgstr ""
+
+msgid ""
+"This information is only available to Last.fm users. Ensure the Last.fm "
+"plugin is enabled, select Last.fm in the side pane, and log in."
+msgstr ""
+
+msgid "This station is only available to %s subscribers"
+msgstr ""
+
+msgid "This version of Rhythmbox has been banned."
+msgstr ""
+
+msgid "Ti_me"
+msgstr ""
+
+msgid "Ticket To Ride"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Today %I:%M %p"
+msgstr ""
+
+msgid "Toggle play/pause mode"
+msgstr ""
+
+msgid "Too many symlinks"
+msgstr ""
+
+msgid "Top Artists"
+msgstr ""
+
+msgid "Top Fans of Artist:"
+msgstr ""
+
+msgid "Top Tracks"
+msgstr ""
+
+msgid "Top albums by %s"
+msgstr ""
+
+msgid "Track"
+msgstr ""
+
+msgid "Track %u"
+msgstr ""
+
+msgid "Track _number"
+msgstr ""
+
+msgid "Track _number:"
+msgstr ""
+
+msgid "Track list not available"
+msgstr ""
+
+msgid "Track submission failed too many times"
+msgstr ""
+
+msgid "Tracks Loved by User:"
+msgstr ""
+
+msgid "Tracks Tagged with:"
+msgstr ""
+
+msgid "Tracks submitted:"
+msgstr ""
+
+msgid "Tracks:"
+msgstr ""
+
+msgid "Transcode lossless files into this format"
+msgstr ""
+
+msgid "Transferring tracks to %s"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "URI to play"
+msgstr ""
+
+msgid "URL already added"
+msgstr ""
+
+msgid "URL of internet radio station:"
+msgstr ""
+
+msgid "Unable to build an audio track list"
+msgstr ""
+
+msgid "Unable to change station URI to %s, as that station already exists"
+msgstr ""
+
+msgid "Unable to change station property"
+msgstr ""
+
+msgid "Unable to check file type: %s"
+msgstr ""
+
+msgid "Unable to connect to Musicbrainz server"
+msgstr ""
+
+msgid "Unable to copy file from MTP device: %s"
+msgstr ""
+
+msgid "Unable to create audio CD project"
+msgstr ""
+
+msgid "Unable to create the download directory for %s: %s"
+msgstr ""
+
+msgid "Unable to eject"
+msgstr ""
+
+msgid "Unable to initialize new iPod"
+msgstr ""
+
+msgid "Unable to load catalog"
+msgstr ""
+
+msgid "Unable to load the feed. Check your network connection."
+msgstr ""
+
+msgid "Unable to open temporary file: %s"
+msgstr ""
+
+msgid "Unable to open the %s %s device"
+msgstr ""
+
+msgid "Unable to parse the feed contents"
+msgstr ""
+
+msgid "Unable to retrieve album information:"
+msgstr ""
+
+msgid "Unable to retrieve artist information:"
+msgstr ""
+
+msgid "Unable to search for podcasts. Check your network connection."
+msgstr ""
+
+msgid "Unable to send file to MTP device: %s"
+msgstr ""
+
+msgid "Unable to transfer tracks"
+msgstr ""
+
+msgid "Unable to unmount"
+msgstr ""
+
+msgid "Unable to write audio project"
+msgstr ""
+
+msgid "Unable to write audio project file %s: %s"
+msgstr ""
+
+msgid "Unable to write tags to this file as it contains multiple streams"
+msgstr ""
+
+msgid ""
+"Unable to write tags to this file as it is not encoded in a supported format"
+msgstr ""
+
+msgid "Unexpected end of stream!"
+msgstr ""
+
+msgid "Unexpected file type: %s"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown file name"
+msgstr ""
+
+msgid "Unknown location"
+msgstr ""
+
+msgid "Unknown playback state: %s"
+msgstr ""
+
+msgid "Unknown playlist: %s"
+msgstr ""
+
+msgid "Unknown property %s"
+msgstr ""
+
+msgid "Unknown song URI: %s"
+msgstr ""
+
+msgid "Unnamed playlist"
+msgstr ""
+
+msgid "Unsupported file extension given."
+msgstr ""
+
+msgid "Untitled Playlist"
+msgstr ""
+
+msgid "Update"
+msgstr ""
+
+msgid "Update All Feeds"
+msgstr ""
+
+msgid "Update Podcast Feed"
+msgstr ""
+
+msgid ""
+"Updates IM status according to the current song (works with Empathy and "
+"Pidgin)"
+msgstr ""
+
+msgid "Use ReplayGain to provide a consistent playback volume"
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid "V - Increase volume"
+msgstr ""
+
+msgid "VBR MP3"
+msgstr ""
+
+msgid "Vala Sample Plugin"
+msgstr ""
+
+msgid "Variable bit rate"
+msgstr ""
+
+msgid "View '%(container)s' on SoundCloud"
+msgstr ""
+
+msgid "View '%(title)s' on SoundCloud"
+msgstr ""
+
+msgid "View All"
+msgstr ""
+
+msgid "View your profile"
+msgstr ""
+
+msgid "Visible Columns"
+msgstr ""
+
+msgid "Volume is now %.02f"
+msgstr ""
+
+msgid "Volume usage"
+msgstr ""
+
+msgid "WAV"
+msgstr ""
+
+msgid "W_ith faster tempo tracks first"
+msgstr ""
+
+msgid "W_ith longer tracks first"
+msgstr ""
+
+msgid "W_ith more highly rated tracks first"
+msgstr ""
+
+msgid "W_ith more often played songs first"
+msgstr ""
+
+msgid "W_ith more recently added tracks first"
+msgstr ""
+
+msgid "W_ith more recently played tracks first"
+msgstr ""
+
+msgid "W_ith newer tracks first"
+msgstr ""
+
+msgid "Waiting"
+msgstr ""
+
+msgid "Waiting for authentication..."
+msgstr ""
+
+msgid "Web remote control"
+msgstr ""
+
+msgid "Web remote control preferences"
+msgstr ""
+
+msgid "Which Audioscrobbler services do you wish to use?"
+msgstr ""
+
+msgid "Width of border around the label and image in the alert dialog"
+msgstr ""
+
+msgid "WinampCN (www.winampcn.com)"
+msgstr ""
+
+msgid "XML Shareable Playlist Format"
+msgstr ""
+
+msgid "Year"
+msgstr ""
+
+msgid "Yesterday %I:%M %p"
+msgstr ""
+
+msgid "You are not currently logged in."
+msgstr ""
+
+msgid "You can access the main window through the 'shell' variable :"
+msgstr ""
+
+msgid "You can find more information at "
+msgstr ""
+
+msgid "You can improve the MusicBrainz database by adding this album."
+msgstr ""
+
+msgid "You can now control Rhythmbox through your Remote"
+msgstr ""
+
+msgid ""
+"You have not selected any music, playlists, or podcasts to transfer to this "
+"device."
+msgstr ""
+
+msgid "You must have a library location set to download an album."
+msgstr ""
+
+msgid ""
+"You should have received a copy of the GNU General Public License\n"
+"along with Rhythmbox; if not, write to the Free Software Foundation, Inc.,\n"
+"51 Franklin St, Fifth Floor, Boston, MA 02110-1301  USA\n"
+msgstr ""
+
+msgid "Zeitgeist"
+msgstr ""
+
+msgid "[%te of %td]"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Apply compression to prevent clipping"
+msgstr ""
+
+msgid "_Artist"
+msgstr ""
+
+msgid "_Artist sort order:"
+msgstr ""
+
+msgid "_Artist:"
+msgstr ""
+
+msgid "_Artists and albums"
+msgstr ""
+
+msgid "_BPM"
+msgstr ""
+
+msgid "_BPM:"
+msgstr ""
+
+msgid "_Back"
+msgstr ""
+
+msgid "_Browse"
+msgstr ""
+
+msgid "_Browse..."
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Cancel the transfer"
+msgstr ""
+
+msgid "_Check for New Devices"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Composer"
+msgstr ""
+
+msgid "_Composer sort order:"
+msgstr ""
+
+msgid "_Composer:"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Crossfade between tracks"
+msgstr ""
+
+msgid "_Delete Episode And File"
+msgstr ""
+
+msgid "_Delete Feed And Files"
+msgstr ""
+
+msgid "_Disc number:"
+msgstr ""
+
+msgid "_Disc:"
+msgstr ""
+
+msgid "_Download location:"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Edit..."
+msgstr ""
+
+msgid "_Fetch"
+msgstr ""
+
+msgid "_File name:"
+msgstr ""
+
+msgid "_Forward"
+msgstr ""
+
+msgid "_Genre"
+msgstr ""
+
+msgid "_Genre:"
+msgstr ""
+
+msgid "_Genres and artists"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_In decreasing order"
+msgstr ""
+
+msgid "_In reverse alphabetical order"
+msgstr ""
+
+msgid "_Initialize"
+msgstr ""
+
+msgid "_Install"
+msgstr ""
+
+msgid "_Install additional software required to use this format"
+msgstr ""
+
+msgid "_Last played"
+msgstr ""
+
+msgid "_Limit to: "
+msgstr ""
+
+msgid "_Load from File"
+msgstr ""
+
+msgid "_Look for touch Remotes"
+msgstr ""
+
+msgid "_Model:"
+msgstr ""
+
+msgid "_Move to Trash"
+msgstr ""
+
+msgid "_Music files are placed in:"
+msgstr ""
+
+msgid "_Name:"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_New Playlist"
+msgstr ""
+
+msgid "_No"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Play count"
+msgstr ""
+
+msgid "_Pre-amp:"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Preferred format:"
+msgstr ""
+
+msgid "_Properties"
+msgstr ""
+
+msgid "_Quality"
+msgstr ""
+
+msgid "_Queue All Tracks"
+msgstr ""
+
+msgid "_Rating"
+msgstr ""
+
+msgid "_Rating:"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Retry"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save to File..."
+msgstr ""
+
+msgid "_Search again"
+msgstr ""
+
+msgid "_Search:"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Share my music"
+msgstr ""
+
+msgid "_Shuffle Playlist"
+msgstr ""
+
+msgid "_Skip"
+msgstr ""
+
+msgid "_Skip these files"
+msgstr ""
+
+msgid "_Title:"
+msgstr ""
+
+msgid "_Tools"
+msgstr ""
+
+msgid "_Track count:"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_View on %s"
+msgstr ""
+
+msgid "_Watch my library for new files"
+msgstr ""
+
+msgid "_When sorted by:"
+msgstr ""
+
+msgid "_Year"
+msgstr ""
+
+msgid "_Year:"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "after"
+msgstr ""
+
+msgid "at least"
+msgstr ""
+
+msgid "at most"
+msgstr ""
+
+msgid "before"
+msgstr ""
+
+msgid "by"
+msgstr ""
+
+msgid "by <i>%s</i>"
+msgstr ""
+
+msgid "contains"
+msgstr ""
+
+msgid "days"
+msgstr ""
+
+msgid "does not contain"
+msgstr ""
+
+msgid "ends with"
+msgstr ""
+
+msgid "equals"
+msgstr ""
+
+msgid "from"
+msgstr ""
+
+msgid "from <i>%s</i>"
+msgstr ""
+
+msgid "h/? - Help"
+msgstr ""
+
+msgid "hours"
+msgstr ""
+
+msgid "http://magnatune.com/compare_plans"
+msgstr ""
+
+msgid "http://www.magnatune.com/"
+msgstr ""
+
+msgid "http://www.magnatune.com/info/"
+msgstr ""
+
+msgid "iPod _name:"
+msgstr ""
+
+msgid "iPod detected"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "in the last"
+msgstr ""
+
+msgid "invalid unicode in error message"
+msgstr ""
+
+msgid "minutes"
+msgstr ""
+
+msgid "n - Next track"
+msgstr ""
+
+msgid "not equal to"
+msgstr ""
+
+msgid "not in"
+msgstr ""
+
+msgid "not in the last"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "p - Previous track"
+msgstr ""
+
+msgid "q - Quit"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Album"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Album Artist"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Artist"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Beats Per Minute"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Bitrate"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Comment"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Composer"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Disc Number"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Duration"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Genre"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Path"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Play Count"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Rating"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Time Added to Library"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Time of Last Play"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Title"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Track Number"
+msgstr ""
+
+msgctxt "query-criteria"
+msgid "Year"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Album"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Album Artist"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Artist"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Beats Per Minute"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Comment"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Composer"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Date Added"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Duration"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Genre"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Last Played"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Play Count"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Rating"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Title"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Track Number"
+msgstr ""
+
+msgctxt "query-sort"
+msgid "Year"
+msgstr ""
+
+msgid "s - Show playing track details"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "songs"
+msgstr ""
+
+msgid "space - Play/pause"
+msgstr ""
+
+msgid "starts with"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "v - Decrease volume"
+msgstr ""
+
+msgid "weeks"
+msgstr ""
+
+msgid "♫ %(album)s ♫"
+msgstr ""
+
+msgid "♫ %(artist)s - %(album)s ♫"
+msgstr ""
+
+msgid "♫ %(artist)s - %(title)s ♫"
+msgstr ""
+
+msgid "♫ %(title)s ♫"
+msgstr ""
+
+msgid "♫ Listening to music... ♫"
+msgstr ""

@@ -1,0 +1,202 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: alternative-toolbar\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2018-04-03 12:58+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:08+0000\n"
+
+msgid "Album/genre/year for playing song"
+msgstr ""
+
+msgid "Alternative Toolbar"
+msgstr ""
+
+msgid ""
+"Best suitable for desktop\n"
+"environments like Gnome and Elementary."
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Dark theme if available"
+msgstr ""
+
+msgid ""
+"Display Song and Artist labels before the progress slider.  If not checked, "
+"they are displayed above the progress slider."
+msgstr ""
+
+msgid ""
+"Display album/genre/year instead of song-artist-album.  Useful for those "
+"desktop-environments where song-artist-album is already displayed in the "
+"window title."
+msgstr ""
+
+msgid ""
+"Display the playback controls in the toolbar in visually compact style instead of the standard rhythmbox style.\n"
+"Always enabled for modern toolbar mode."
+msgstr ""
+
+msgid "Enhanced plugins dialog"
+msgstr ""
+
+msgid "Enhanced sidebar"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Import"
+msgstr ""
+
+msgid "Inline song/artist label"
+msgstr ""
+
+msgid "Libre.fm"
+msgstr ""
+
+msgid "Local collection"
+msgstr ""
+
+msgid "Modern"
+msgstr ""
+
+msgid "My Top Rated"
+msgstr ""
+
+msgid "Online sources"
+msgstr ""
+
+msgid "Other sources"
+msgstr ""
+
+msgid "Play the next track"
+msgstr ""
+
+msgid "Play the previous track"
+msgstr ""
+
+msgid "Play the tracks in random order"
+msgstr ""
+
+msgid "Playback controls"
+msgstr ""
+
+msgid "Playlists"
+msgstr ""
+
+msgid "Podcasts"
+msgstr ""
+
+msgid "Recently Added"
+msgstr ""
+
+msgid "Recently Played"
+msgstr ""
+
+msgid "Repeat all tracks"
+msgstr ""
+
+msgid "Repeat the current track"
+msgstr ""
+
+msgid ""
+"Replace the Rhythmbox large toolbar with a Client-Side Decorated or Compact "
+"Toolbar which can be hidden"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Restart the player for the changes to take effect."
+msgstr ""
+
+msgid "Resume or pause the playback"
+msgstr ""
+
+msgid "Seek Backward"
+msgstr ""
+
+msgid "Seek Forward"
+msgstr ""
+
+msgid "Seek backward, in current track, by 5 seconds."
+msgstr ""
+
+msgid "Seek forward, in current track, by 10 seconds."
+msgstr ""
+
+msgid "Show Play-Controls Toolbar"
+msgstr ""
+
+msgid "Show Source Toolbar"
+msgstr ""
+
+msgid ""
+"Show or hide redesigned plugins dialog. It features switches instead of "
+"checkboxes and inline toolbar with symbolic icons .  Works best with Gnome "
+"based desktop environments."
+msgstr ""
+
+msgid ""
+"Show or hide redesigned sidebar for the player. It features improved "
+"symbolic icons, better sources organisation and ability to expand and "
+"collapse categories."
+msgstr ""
+
+msgid "Show or hide the play-controls toolbar"
+msgstr ""
+
+msgid "Show or hide the playing controls on player startup."
+msgstr ""
+
+msgid "Show or hide the source toolbar"
+msgstr ""
+
+msgid "Show or hide the tooltips for the playback controls."
+msgstr ""
+
+msgid "Show or hide the volume control."
+msgstr ""
+
+msgid "Show:"
+msgstr ""
+
+msgid "Songs"
+msgstr ""
+
+msgid "Stations"
+msgstr ""
+
+msgid "Toolbar:"
+msgstr ""
+
+msgid "Tooltips for the playback controls"
+msgstr ""
+
+msgid "Use compact controls"
+msgstr ""
+
+msgid "Use:"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "View All"
+msgstr ""
+
+msgid "Volume control"
+msgstr ""

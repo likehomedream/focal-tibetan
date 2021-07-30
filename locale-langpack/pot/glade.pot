@@ -1,0 +1,5290 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: glade3 3.20\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=glade&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-05 02:37+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:07+0000\n"
+
+msgid " < Search Widgets >"
+msgstr ""
+
+msgid " and "
+msgstr ""
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "%s - %s Properties"
+msgstr ""
+
+msgid "%s Properties - %s"
+msgstr ""
+
+msgid "%s Properties - %s [%s]"
+msgstr ""
+
+msgid "%s already has a menu."
+msgstr ""
+
+msgid "%s document properties"
+msgstr ""
+
+msgid "%s does not support adding any children."
+msgstr ""
+
+msgid "%s is locked by %s, edit %s first."
+msgstr ""
+
+msgid "%s is set to load %s from the model"
+msgstr ""
+
+msgid "%s is set to manipulate %s directly"
+msgstr ""
+
+msgid "%s item already has a submenu."
+msgstr ""
+
+msgid "%s targets Gtk+ %d.%d"
+msgstr ""
+
+msgid "%s::%s emitted %d times"
+msgstr ""
+
+msgid "%s::%s emitted one time"
+msgstr ""
+
+msgid "(%s child)"
+msgstr ""
+
+msgid "(%s of %s)"
+msgstr ""
+
+msgid "(default)"
+msgstr ""
+
+msgid "(internal %s)"
+msgstr ""
+
+msgid "(template)"
+msgstr ""
+
+msgid "(unnamed)"
+msgstr ""
+
+msgid "- previews a glade UI definition"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "2000"
+msgstr ""
+
+msgid "2003"
+msgstr ""
+
+msgid "2008"
+msgstr ""
+
+msgid "2012"
+msgstr ""
+
+msgid "3.8 for GTK+ 2"
+msgstr ""
+
+msgid "7"
+msgstr ""
+
+msgid "8"
+msgstr ""
+
+msgid "< define a new column >"
+msgstr ""
+
+msgid "<Enter ID>"
+msgstr ""
+
+msgid "<Enter Value>"
+msgstr ""
+
+msgid "<Insert update token, if you want to update previously sent data>"
+msgstr ""
+
+msgid "<Required to send back registration token>"
+msgstr ""
+
+msgid "<Type Here>"
+msgstr ""
+
+msgid "<Your name or nickname is required>"
+msgstr ""
+
+msgid ""
+"<big><b>Tips:</b></big>\n"
+"  * Right-click over the treeview to add items.\n"
+"  * Press Delete to remove the selected item.\n"
+"  * Drag &amp; Drop to reorder.\n"
+"  * Type column is editable."
+msgstr ""
+
+msgid "<choose a key>"
+msgstr ""
+
+msgid "<custom>"
+msgstr ""
+
+msgid "<separator>"
+msgstr ""
+
+msgid "A GDK color value"
+msgstr ""
+
+msgid "A GladeCreateReason for this creation"
+msgstr ""
+
+msgid "A GladeWidget template to base a new widget on"
+msgstr ""
+
+msgid "A builtin stock image"
+msgstr ""
+
+msgid "A builtin stock item"
+msgstr ""
+
+msgid "A cursor for inserting widgets in the UI"
+msgstr ""
+
+msgid "A derived adaptor (%s) of %s already exist!"
+msgstr ""
+
+msgid "A few times a month"
+msgstr ""
+
+msgid "A few times a year"
+msgstr ""
+
+msgid "A generic name prefix for internal widgets"
+msgstr ""
+
+msgid "A list of GladeProperties"
+msgstr ""
+
+msgid "A list of accel groups to be added to this window"
+msgstr ""
+
+msgid "A list of accelerator keys"
+msgstr ""
+
+msgid "A list of objects"
+msgstr ""
+
+msgid "A list of sources for this icon factory"
+msgstr ""
+
+msgid "A list of style class names to apply to this widget"
+msgstr ""
+
+msgid "A pointer to the parenting GladeWidget"
+msgstr ""
+
+msgid "A radical expression (in math)"
+msgstr ""
+
+msgid "A symbolic icon size for the stock icon"
+msgstr ""
+
+msgid "A user interface designer for GTK+ and GNOME."
+msgstr ""
+
+msgid "A warning string about version mismatches"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "About Dialog"
+msgstr ""
+
+msgid "Above Lines:"
+msgstr ""
+
+msgid "Academic"
+msgstr ""
+
+msgid "Accel Group"
+msgstr ""
+
+msgid "Accel Label"
+msgstr ""
+
+msgid "Accelerator"
+msgstr ""
+
+msgid "Accelerator Key"
+msgstr ""
+
+msgid "Accelerator Label"
+msgstr ""
+
+msgid "Accelerator Mode column"
+msgstr ""
+
+msgid "Accelerator Modifiers column"
+msgstr ""
+
+msgid "Accelerator Renderer"
+msgstr ""
+
+msgid "Accelerators"
+msgstr ""
+
+msgid "Accessibility"
+msgstr ""
+
+msgid "Accessible Description"
+msgstr ""
+
+msgid "Accessible Name"
+msgstr ""
+
+msgid "Accounting"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Action Attributes"
+msgstr ""
+
+msgid "Action Bar"
+msgstr ""
+
+msgid "Action Group"
+msgstr ""
+
+msgid "Action Group Editor"
+msgstr ""
+
+msgid "Action Name"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid "Activatable / Actionable"
+msgstr ""
+
+msgid "Activatable column"
+msgstr ""
+
+msgid "Activate"
+msgstr ""
+
+msgid "Active column"
+msgstr ""
+
+msgid "Adaptor"
+msgstr ""
+
+msgid "Add %s"
+msgstr ""
+
+msgid "Add Child"
+msgstr ""
+
+msgid "Add Item"
+msgstr ""
+
+msgid "Add Parent"
+msgstr ""
+
+msgid "Add Row"
+msgstr ""
+
+msgid "Add Slot"
+msgstr ""
+
+msgid "Add a %s to %s"
+msgstr ""
+
+msgid "Add a new catalog search path"
+msgstr ""
+
+msgid "Add and remove columns:"
+msgstr ""
+
+msgid "Add and remove rows:"
+msgstr ""
+
+msgid "Add center child"
+msgstr ""
+
+msgid "Add child %s"
+msgstr ""
+
+msgid "Add custom content"
+msgstr ""
+
+msgid ""
+"Add remove and edit rows of data (you can optionally use Ctrl+N to add new "
+"rows and the Delete key to remove the selected row)"
+msgstr ""
+
+msgid "Add signal handler %s"
+msgstr ""
+
+msgid "Add to Size Group"
+msgstr ""
+
+msgid "Add widget as _toplevel"
+msgstr ""
+
+msgid "Adding %s to Size Group %s"
+msgstr ""
+
+msgid "Adding %s to a new Size Group"
+msgstr ""
+
+msgid "Adding parent %s for %s"
+msgstr ""
+
+msgid "Adjustment"
+msgstr ""
+
+msgid "Adjustment column"
+msgstr ""
+
+msgid "Adjustment:"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "After"
+msgstr ""
+
+msgid "Alert"
+msgstr ""
+
+msgid "Alignment"
+msgstr ""
+
+msgid "Alignment and Padding"
+msgstr ""
+
+msgid "Alignment column"
+msgstr ""
+
+msgid "All Contexts"
+msgstr ""
+
+msgid "All Events"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "All Glade Files"
+msgstr ""
+
+msgid "All Modifiers"
+msgstr ""
+
+msgid ""
+"All the data will be stored in a private location and will not be shared "
+"with the public or any third party."
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Alt Key"
+msgstr ""
+
+msgid "Always"
+msgstr ""
+
+msgid "Always Center"
+msgstr ""
+
+msgid "An accelerator key for this action"
+msgstr ""
+
+msgid ""
+"An automatically saved version of `%s' is more recent.\n"
+"\n"
+"Would you like to load the autosave version instead?"
+msgstr ""
+
+msgid "An entry"
+msgstr ""
+
+msgid "An object of type %s cannot have any children."
+msgstr ""
+
+msgid "Anarchist"
+msgstr ""
+
+msgid "Animation"
+msgstr ""
+
+msgid "Apache 2"
+msgstr ""
+
+msgid "App Chooser Button Attributes"
+msgstr ""
+
+msgid "App Chooser Widget Attributes"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Append Colon"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Application Chooser Button"
+msgstr ""
+
+msgid "Application Chooser Dialog"
+msgstr ""
+
+msgid "Application Chooser Widget"
+msgstr ""
+
+msgid "Application Window"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Arch Linux"
+msgstr ""
+
+msgid "Arrow"
+msgstr ""
+
+msgid "Article"
+msgstr ""
+
+msgid "Artistic"
+msgstr ""
+
+msgid "Artists"
+msgstr ""
+
+msgid "Ascending"
+msgstr ""
+
+msgid "Aspect Frame"
+msgstr ""
+
+msgid "Assistant"
+msgstr ""
+
+msgid "Attached To:"
+msgstr ""
+
+msgid "Attribute"
+msgstr ""
+
+msgid "Attributes"
+msgstr ""
+
+msgid "Attributes column"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Author(s):"
+msgstr ""
+
+msgid "Authors"
+msgstr ""
+
+msgid "Autocomplete"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatically save project after"
+msgstr ""
+
+msgid ""
+"Automatically save the project to an alternate file whenever\n"
+"the project is modified and the specified timeout elapses"
+msgstr ""
+
+msgid "Automatically wrap"
+msgstr ""
+
+msgid "Autosaving '%s'"
+msgstr ""
+
+msgid "BSD"
+msgstr ""
+
+msgid "BSD 2-clause"
+msgstr ""
+
+msgid "BSD 3-clause"
+msgstr ""
+
+msgid "Background Color Name column"
+msgstr ""
+
+msgid "Background Color column"
+msgstr ""
+
+msgid "Background RGBA column"
+msgstr ""
+
+msgid "Baseline"
+msgstr ""
+
+msgid "Baseline:"
+msgstr ""
+
+msgid "Before"
+msgstr ""
+
+msgid "Beginner"
+msgstr ""
+
+msgid "Below Lines:"
+msgstr ""
+
+msgid "Block Quote"
+msgstr ""
+
+msgid "Book"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Bottom"
+msgstr ""
+
+msgid "Bottom Left"
+msgstr ""
+
+msgid "Bottom Right"
+msgstr ""
+
+msgid "Bottom to Top"
+msgstr ""
+
+msgid "Bottom:"
+msgstr ""
+
+msgid "Box"
+msgstr ""
+
+msgid "Box Attributes"
+msgstr ""
+
+msgid "Broken pipe!\n"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid ""
+"But this version of Glade is for GTK+ 3 only.\n"
+"Make sure you can run this project with Glade 3.8 with no deprecated widgets first.\n"
+"%s"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "Button 1 Motion"
+msgstr ""
+
+msgid "Button 2 Motion"
+msgstr ""
+
+msgid "Button 3 Motion"
+msgstr ""
+
+msgid "Button Attributes"
+msgstr ""
+
+msgid "Button Box"
+msgstr ""
+
+msgid "Button Content"
+msgstr ""
+
+msgid "Button Motion"
+msgstr ""
+
+msgid "Button Orientation:"
+msgstr ""
+
+msgid "Button Press"
+msgstr ""
+
+msgid "Button Release"
+msgstr ""
+
+msgid ""
+"By using GtkBuilder, Glade XML files can be used in numerous programming "
+"languages including C, C++, C#, Vala, Java, Perl, Python, and others."
+msgstr ""
+
+msgid "C"
+msgstr ""
+
+msgid "C#"
+msgstr ""
+
+msgid "C++"
+msgstr ""
+
+msgid "CSS Provider Path"
+msgstr ""
+
+msgid "CSS file to use"
+msgstr ""
+
+msgid "C_lear"
+msgstr ""
+
+msgid "C_ontexts:"
+msgstr ""
+
+msgid "Calendar"
+msgstr ""
+
+msgid "Can resize"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot add a popover to a container."
+msgstr ""
+
+msgid "Cannot add a toplevel window to a container."
+msgstr ""
+
+msgid ""
+"Cannot add non scrollable %s widget to a %s directly.\n"
+"Add a %s first."
+msgstr ""
+
+msgid "Canvas"
+msgstr ""
+
+msgid "Caption"
+msgstr ""
+
+msgid "Catalog"
+msgstr ""
+
+msgid "Categories"
+msgstr ""
+
+msgid "Cell Background Color column"
+msgstr ""
+
+msgid "Cell Background Color name column"
+msgstr ""
+
+msgid "Cell Background RGBA column"
+msgstr ""
+
+msgid "Cell Renderer"
+msgstr ""
+
+msgid "Cell Spacing:"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Center Child"
+msgstr ""
+
+msgid "Center on Parent"
+msgstr ""
+
+msgid "Change signal handler %s"
+msgstr ""
+
+msgid "Character"
+msgstr ""
+
+msgid "Chart"
+msgstr ""
+
+msgid "Check"
+msgstr ""
+
+msgid "Check Box"
+msgstr ""
+
+msgid "Check Button"
+msgstr ""
+
+msgid "Check Menu Item"
+msgstr ""
+
+msgid "Check item"
+msgstr ""
+
+msgid "Child alignments:"
+msgstr ""
+
+msgid "Children cannot be added to a Recent Chooser Menu."
+msgstr ""
+
+msgid "Children cannot be added to a separator."
+msgstr ""
+
+msgid "Choose %s type objects in this project"
+msgstr ""
+
+msgid "Choose a %s in this project"
+msgstr ""
+
+msgid ""
+"Choose a Data Model and define some\n"
+"columns in the data store first"
+msgstr ""
+
+msgid "Choose a parentless %s in this project"
+msgstr ""
+
+msgid "Choose a path to load image resources"
+msgstr ""
+
+msgid "Choose accelerator keys..."
+msgstr ""
+
+msgid "Choose parentless %s type objects in this project"
+msgstr ""
+
+msgid "Choose your country"
+msgstr ""
+
+msgid "City:"
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "Class Field"
+msgstr ""
+
+msgid "Class Name:"
+msgstr ""
+
+msgid "Clear properties"
+msgstr ""
+
+msgid "Click"
+msgstr ""
+
+msgid "Client side window decorations"
+msgstr ""
+
+msgid "Climb Rate column"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Co_mments for translators:"
+msgstr ""
+
+msgid "Collate"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color Button"
+msgstr ""
+
+msgid "Color Chooser"
+msgstr ""
+
+msgid "Color Chooser Dialog"
+msgstr ""
+
+msgid "Color Chooser Widget"
+msgstr ""
+
+msgid "Color Picker"
+msgstr ""
+
+msgid "Color Selection"
+msgstr ""
+
+msgid "Color Selection Dialog"
+msgstr ""
+
+msgid "Column"
+msgstr ""
+
+msgid "Column Header"
+msgstr ""
+
+msgid "Column name"
+msgstr ""
+
+msgid "Column type"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid ""
+"Columns must have a fixed size inside a treeview with fixed height mode set"
+msgstr ""
+
+msgid "Columns:"
+msgstr ""
+
+msgid "Combo"
+msgstr ""
+
+msgid "Combo Box"
+msgstr ""
+
+msgid "Combo Box Attributes"
+msgstr ""
+
+msgid "Combo Box Text"
+msgstr ""
+
+msgid "Combo Box Text Attributes"
+msgstr ""
+
+msgid "Combo Editor"
+msgstr ""
+
+msgid "Combo Renderer"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comment for translators"
+msgstr ""
+
+msgid "Comments"
+msgstr ""
+
+msgid "Comments:"
+msgstr ""
+
+msgid "Commercial/Closed software"
+msgstr ""
+
+msgid "Common"
+msgstr ""
+
+msgid "Common Properties and Attributes"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Composite"
+msgstr ""
+
+msgid "Composite Widgets"
+msgstr ""
+
+msgid "Composite template toplevel:"
+msgstr ""
+
+msgid "Condensed"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirmation page"
+msgstr ""
+
+msgid "Connecting to %s"
+msgstr ""
+
+msgid "Container"
+msgstr ""
+
+msgid "Containers"
+msgstr ""
+
+msgid "Conte_xt for translation:"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Content page"
+msgstr ""
+
+msgid "Context"
+msgstr ""
+
+msgid "Context for translation"
+msgstr ""
+
+msgid "Continuous"
+msgstr ""
+
+msgid "Control Key"
+msgstr ""
+
+msgid "Controlled By"
+msgstr ""
+
+msgid "Controller For"
+msgstr ""
+
+msgid "Copies"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Copyright:"
+msgstr ""
+
+msgid "Could not create a new project."
+msgstr ""
+
+msgid "Could not create directory: %s"
+msgstr ""
+
+msgid "Could not get the type from \"%s\""
+msgstr ""
+
+msgid "Could not save file %s. Another project with that path is open."
+msgstr ""
+
+msgid "Could not save the file %s"
+msgstr ""
+
+msgid "Could not show link:"
+msgstr ""
+
+msgid "Couldn't load builder definition: %s"
+msgstr ""
+
+msgid "Count:"
+msgstr ""
+
+msgid "Country:"
+msgstr ""
+
+msgid "Crea_te"
+msgstr ""
+
+msgid "Create %s"
+msgstr ""
+
+msgid "Create Folder"
+msgstr ""
+
+msgid "Create a %s"
+msgstr ""
+
+msgid ""
+"Create a backup of the last version of the project every time the project is"
+" saved"
+msgstr ""
+
+msgid "Create a new project"
+msgstr ""
+
+msgid "Create backups"
+msgstr ""
+
+msgid "Create or edit user interface designs for GTK+ or GNOME applications."
+msgstr ""
+
+msgid "Create or open user interface designs for GTK+ applications"
+msgstr ""
+
+msgid "Creates dummy widget class to load a template"
+msgstr ""
+
+msgid "Creating %s for %s of %s"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Crossfade"
+msgstr ""
+
+msgid "Cu_t"
+msgstr ""
+
+msgid "Cursor"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom CSS style provider:"
+msgstr ""
+
+msgid "Custom Text"
+msgstr ""
+
+msgid "Custom Text to display in the property label"
+msgstr ""
+
+msgid "Custom Title"
+msgstr ""
+
+msgid "Custom Tooltip"
+msgstr ""
+
+msgid "Custom label and image:"
+msgstr ""
+
+msgid "Custom text to override the property name"
+msgstr ""
+
+msgid "Custom title"
+msgstr ""
+
+msgid "Custom tooltip to override the property description"
+msgstr ""
+
+msgid "Cut %s"
+msgstr ""
+
+msgid "Data"
+msgstr ""
+
+msgid "Data column"
+msgstr ""
+
+msgid "Date Editor"
+msgstr ""
+
+msgid "Debian"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid ""
+"Define columns for your liststore; giving them meaningful names will help "
+"you to retrieve them when setting cell renderer attributes (press the Delete"
+" key to remove the selected column)"
+msgstr ""
+
+msgid "Definition"
+msgstr ""
+
+msgid "Delayed"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete %s"
+msgstr ""
+
+msgid "Delete %s child from %s"
+msgstr ""
+
+msgid "Delete All"
+msgstr ""
+
+msgid "Deprecated"
+msgstr ""
+
+msgid "Deprecation warnings"
+msgstr ""
+
+msgid "Descending"
+msgstr ""
+
+msgid "Described By"
+msgstr ""
+
+msgid "Description For"
+msgstr ""
+
+msgid "Description List"
+msgstr ""
+
+msgid "Description Term"
+msgstr ""
+
+msgid "Description Value"
+msgstr ""
+
+msgid "Description of an object, formatted for assistive technology access"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Design View"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Desktop Frame"
+msgstr ""
+
+msgid "Desktop Icon"
+msgstr ""
+
+msgid "Desktop applications"
+msgstr ""
+
+msgid "Detail"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "DevHelp search namespace for this widget class"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Dial"
+msgstr ""
+
+msgid "Dialog"
+msgstr ""
+
+msgid "Dialog Box"
+msgstr ""
+
+msgid "Digits"
+msgstr ""
+
+msgid "Digits column"
+msgstr ""
+
+msgid "Directory"
+msgstr ""
+
+msgid "Disable Check"
+msgstr ""
+
+msgid "Disable Devhelp integration"
+msgstr ""
+
+msgid "Disabling property %s on widget %s"
+msgstr ""
+
+msgid "Discontinuous"
+msgstr ""
+
+msgid "Discrete"
+msgstr ""
+
+msgid "Display previewer version"
+msgstr ""
+
+msgid "Do you want to reload the project?"
+msgstr ""
+
+msgid "Dock"
+msgstr ""
+
+msgid "Document Email"
+msgstr ""
+
+msgid "Document Frame"
+msgstr ""
+
+msgid "Document Presentation"
+msgstr ""
+
+msgid "Document Spreadsheet"
+msgstr ""
+
+msgid "Document Text"
+msgstr ""
+
+msgid "Document Web"
+msgstr ""
+
+msgid "Documenters"
+msgstr ""
+
+msgid "Double"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Drag %s and Drop to %s"
+msgstr ""
+
+msgid "Drag & Drop"
+msgstr ""
+
+msgid "Drag and Drop"
+msgstr ""
+
+msgid "Drag and Drop Multiple"
+msgstr ""
+
+msgid "Draw frame around entry"
+msgstr ""
+
+msgid "Drawing Area"
+msgstr ""
+
+msgid "Drop Down Menu"
+msgstr ""
+
+msgid "East"
+msgstr ""
+
+msgid "Edge"
+msgstr ""
+
+msgid "Edit Attributes"
+msgstr ""
+
+msgid "Edit Image"
+msgstr ""
+
+msgid "Edit Label"
+msgstr ""
+
+msgid "Edit Menu"
+msgstr ""
+
+msgid "Edit Menu Bar"
+msgstr ""
+
+msgid "Edit Separately"
+msgstr ""
+
+msgid "Edit Text"
+msgstr ""
+
+msgid "Edit menu"
+msgstr ""
+
+msgid "Edit page"
+msgstr ""
+
+msgid "Edit page:"
+msgstr ""
+
+msgid "Edit project properties"
+msgstr ""
+
+msgid "Edit&#8230;"
+msgstr ""
+
+msgid "Editable column"
+msgstr ""
+
+msgid "Editbar"
+msgstr ""
+
+msgid "Editing alignments of %s"
+msgstr ""
+
+msgid "Editing margins of %s"
+msgstr ""
+
+msgid "Editor Property Type Name"
+msgstr ""
+
+msgid "Educational"
+msgstr ""
+
+msgid "Eighth Key"
+msgstr ""
+
+msgid "Either --listen or --filename must be specified.\n"
+msgstr ""
+
+msgid "Ellipsize Text:"
+msgstr ""
+
+msgid "Ellipsize column"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Email:"
+msgstr ""
+
+msgid "Embedded"
+msgstr ""
+
+msgid "Embedded By"
+msgstr ""
+
+msgid "Embedded applications"
+msgstr ""
+
+msgid "Embeds"
+msgstr ""
+
+msgid "Emblems"
+msgstr ""
+
+msgid "Emoticons"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enabling property %s on widget %s"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "End Action"
+msgstr ""
+
+msgid "End Action:"
+msgstr ""
+
+msgid "Enter Notify"
+msgstr ""
+
+msgid ""
+"Enter a filename or a relative or full path for this source of '%s' (Glade "
+"will only ever load them in the runtime from your project directory)."
+msgstr ""
+
+msgid "Enter a filename, relative path or full path to load the image"
+msgstr ""
+
+msgid "Enter a list of column types for this data store"
+msgstr ""
+
+msgid "Enter a list of values to be applied on each row"
+msgstr ""
+
+msgid "Entry"
+msgstr ""
+
+msgid "Entry Buffer"
+msgstr ""
+
+msgid "Entry Completion"
+msgstr ""
+
+msgid "Entry Completion Editor"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error autosaving '%s'"
+msgstr ""
+
+msgid "Error launching previewer: %s\n"
+msgstr ""
+
+msgid ""
+"Error opening %s to write private data (%s).\n"
+"No private data will be saved in this session"
+msgstr ""
+
+msgid ""
+"Error serializing configuration data to save (%s).\n"
+"No private data will be saved in this session"
+msgstr ""
+
+msgid ""
+"Error writing private data to %s (%s).\n"
+"No private data will be saved in this session"
+msgstr ""
+
+msgid "Error: %s.\n"
+msgstr ""
+
+msgid "Etched In"
+msgstr ""
+
+msgid "Etched Out"
+msgstr ""
+
+msgid "Event Box"
+msgstr ""
+
+msgid "Every day"
+msgstr ""
+
+msgid "Every week"
+msgstr ""
+
+msgid "Exact Template"
+msgstr ""
+
+msgid "Expand"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+msgid "Expanded"
+msgstr ""
+
+msgid "Expander"
+msgstr ""
+
+msgid "Expander Column:"
+msgstr ""
+
+msgid "Expanders are not shown"
+msgstr ""
+
+msgid "Exposure"
+msgstr ""
+
+msgid "External"
+msgstr ""
+
+msgid "Extra Condensed"
+msgstr ""
+
+msgid "Extra Expanded"
+msgstr ""
+
+msgid "Extra catalog paths"
+msgstr ""
+
+msgid "Failed to backup existing file, continue saving?"
+msgstr ""
+
+msgid ""
+"Failed to create directory %s to save private data.\n"
+"No private data will be saved in this session"
+msgstr ""
+
+msgid "Failed to launch preview: %s.\n"
+msgstr ""
+
+msgid ""
+"Failed to load %s.\n"
+"The following required catalogs are unavailable: %s"
+msgstr ""
+
+msgid "Failed to save %s: %s"
+msgstr ""
+
+msgid "Family column"
+msgstr ""
+
+msgid "Fedora"
+msgstr ""
+
+msgid "Few days a week"
+msgstr ""
+
+msgid "Fifth Key"
+msgstr ""
+
+msgid "Fifth Mouse Button"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File Chooser"
+msgstr ""
+
+msgid "File Chooser Attributes"
+msgstr ""
+
+msgid "File Chooser Button"
+msgstr ""
+
+msgid "File Chooser Dialog"
+msgstr ""
+
+msgid "File Chooser Widget"
+msgstr ""
+
+msgid "File Filter"
+msgstr ""
+
+msgid "File Name"
+msgstr ""
+
+msgid "File name to save a screenshot"
+msgstr ""
+
+msgid "Fill"
+msgstr ""
+
+msgid "Filler"
+msgstr ""
+
+msgid "First Mouse Button"
+msgstr ""
+
+msgid ""
+"First add a stock name in the entry below, then add and define sources for "
+"that icon in the treeview."
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Flow Box"
+msgstr ""
+
+msgid "Flow Box Child"
+msgstr ""
+
+msgid "Flows From"
+msgstr ""
+
+msgid "Flows To"
+msgstr ""
+
+msgid "Focus Change"
+msgstr ""
+
+msgid "Follow State column"
+msgstr ""
+
+msgid "Font Button"
+msgstr ""
+
+msgid "Font Button Attributes"
+msgstr ""
+
+msgid "Font Chooser"
+msgstr ""
+
+msgid "Font Chooser Attributes"
+msgstr ""
+
+msgid "Font Chooser Dialog"
+msgstr ""
+
+msgid "Font Chooser Widget"
+msgstr ""
+
+msgid "Font Description column"
+msgstr ""
+
+msgid "Font Selection"
+msgstr ""
+
+msgid "Font Selection Dialog"
+msgstr ""
+
+msgid "Font column"
+msgstr ""
+
+msgid "Footer"
+msgstr ""
+
+msgid ""
+"For short and ambiguous strings: type a word here to differentiate the "
+"meaning of this string from the meaning of other occurrences of the same "
+"string"
+msgstr ""
+
+msgid "Foreground Color Name column"
+msgstr ""
+
+msgid "Foreground Color column"
+msgstr ""
+
+msgid "Foreground RGBA column"
+msgstr ""
+
+msgid "Form"
+msgstr ""
+
+msgid "Formatting"
+msgstr ""
+
+msgid "Fourth Mouse Button"
+msgstr ""
+
+msgid "Frame"
+msgstr ""
+
+msgid "Free Form"
+msgstr ""
+
+msgid "Free software"
+msgstr ""
+
+msgid "FreeBSD"
+msgstr ""
+
+msgid "From a project relative directory"
+msgstr ""
+
+msgid "From the project directory"
+msgstr ""
+
+msgid "From this directory"
+msgstr ""
+
+msgid "GIcon column"
+msgstr ""
+
+msgid "GNU All permissive"
+msgstr ""
+
+msgid "GNU GPL version 2"
+msgstr ""
+
+msgid "GNU GPL version 3"
+msgstr ""
+
+msgid "GNU LGPL version 2.1"
+msgstr ""
+
+msgid "GNU LGPL version 3"
+msgstr ""
+
+msgid "GNU/Linux"
+msgstr ""
+
+msgid "GPL 2.0"
+msgstr ""
+
+msgid "GPL 2.0 Only"
+msgstr ""
+
+msgid "GPL 3.0"
+msgstr ""
+
+msgid "GPL 3.0 Only"
+msgstr ""
+
+msgid "GTK+ Unix Print Toplevels"
+msgstr ""
+
+msgid "GType of the class"
+msgstr ""
+
+msgid "GUI designer;user interface;ui builder;"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Generate PDF"
+msgstr ""
+
+msgid "Generate PS"
+msgstr ""
+
+msgid "Generic Name"
+msgstr ""
+
+msgid "Generic object"
+msgstr ""
+
+msgid "Gentoo"
+msgstr ""
+
+msgid "Glade"
+msgstr ""
+
+msgid "Glade Interface Designer"
+msgstr ""
+
+msgid "Glade Preferences"
+msgstr ""
+
+msgid "Glade Registration & User Survey"
+msgstr ""
+
+msgid "Glade User Survey"
+msgstr ""
+
+msgid "Glade User Survey (update)"
+msgstr ""
+
+msgid "Glade Widget"
+msgstr ""
+
+msgid "Glade debug options"
+msgstr ""
+
+msgid ""
+"Glade is a RAD tool to enable quick &amp; easy development of user "
+"interfaces for the GTK+ 3 toolkit and the GNOME desktop environment."
+msgstr ""
+
+msgid ""
+"Glade is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as \n"
+"published by the Free Software Foundation; either version 2 of the \n"
+"License, or (at your option) any later version.\n"
+"\n"
+"Glade is distributed in the hope that it will be useful\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of \n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the \n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License \n"
+"along with Glade; if not, write to the Free Software \n"
+"Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, \n"
+"MA 02110-1301, USA."
+msgstr ""
+
+msgid "Glade options"
+msgstr ""
+
+msgid "GladeWidgetActionClass structure pointer"
+msgstr ""
+
+msgid "Glass Pane"
+msgstr ""
+
+msgid "Go to Help -> Registration & User Survey and complete our survey!"
+msgstr ""
+
+msgid "Gravity:"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Grid Attributes"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Group Header"
+msgstr ""
+
+msgid "Grouping"
+msgstr ""
+
+msgid "Grow Only"
+msgstr ""
+
+msgid "Gtk"
+msgstr ""
+
+msgid "GtkBuilder Files"
+msgstr ""
+
+msgid "HTML Container"
+msgstr ""
+
+msgid "Half"
+msgstr ""
+
+msgid "Handle Box"
+msgstr ""
+
+msgid "Handler"
+msgstr ""
+
+msgid "Has Entry column"
+msgstr ""
+
+msgid "Has Selection"
+msgstr ""
+
+msgid "Have you ever encountered a bug?"
+msgstr ""
+
+msgid "Have you ever thought about contributing?"
+msgstr ""
+
+msgid "Header"
+msgstr ""
+
+msgid "HeaderBar"
+msgstr ""
+
+msgid "Headerbar Attributes"
+msgstr ""
+
+msgid "Headers are invisible"
+msgstr ""
+
+msgid "Heading"
+msgstr ""
+
+msgid "Height column"
+msgstr ""
+
+msgid "Height property"
+msgstr ""
+
+msgid "Highlight Origin"
+msgstr ""
+
+msgid "Hint:"
+msgstr ""
+
+msgid ""
+"Holds the name of the packing property to depict special children for this "
+"container class"
+msgstr ""
+
+msgid "Homogeneous"
+msgstr ""
+
+msgid "Homogeneous:"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "Horizontal Alignment"
+msgstr ""
+
+msgid "Horizontal Alignment column"
+msgstr ""
+
+msgid "Horizontal Alignment:"
+msgstr ""
+
+msgid "Horizontal Box"
+msgstr ""
+
+msgid "Horizontal Button Box"
+msgstr ""
+
+msgid "Horizontal Padding"
+msgstr ""
+
+msgid "Horizontal Padding column"
+msgstr ""
+
+msgid "Horizontal Panes"
+msgstr ""
+
+msgid "Horizontal Scale"
+msgstr ""
+
+msgid "Horizontal Scrollbar"
+msgstr ""
+
+msgid "Horizontal Separator"
+msgstr ""
+
+msgid "Horizontal and Vertical"
+msgstr ""
+
+msgid "Horizontal:"
+msgstr ""
+
+msgid "How long have you been programming?"
+msgstr ""
+
+msgid "How often do you use it?"
+msgstr ""
+
+msgid "Hyper Modifier"
+msgstr ""
+
+msgid "I am not a programmer"
+msgstr ""
+
+msgid "ID:"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "Icon Factory"
+msgstr ""
+
+msgid "Icon File"
+msgstr ""
+
+msgid "Icon Na_mes:"
+msgstr ""
+
+msgid "Icon Name"
+msgstr ""
+
+msgid "Icon Name column"
+msgstr ""
+
+msgid "Icon Size"
+msgstr ""
+
+msgid "Icon Sources"
+msgstr ""
+
+msgid "Icon View"
+msgstr ""
+
+msgid "Icon View Attributes"
+msgstr ""
+
+msgid "Icon View Editor"
+msgstr ""
+
+msgid "Icon _Name:"
+msgstr ""
+
+msgid "Icons only"
+msgstr ""
+
+msgid "If Valid"
+msgstr ""
+
+msgid "If not, you can always find it in the Help menu."
+msgstr ""
+
+msgid ""
+"If overlay scrolling is enabled, scrollbars are only added as traditional "
+"widgets when a mouse is present"
+msgstr ""
+
+msgid "If so, did you file a bug report?"
+msgstr ""
+
+msgid "If the property is optional, this is its enabled state"
+msgstr ""
+
+msgid "If you reload it, all unsaved changes could be lost. Reload it anyway?"
+msgstr ""
+
+msgid ""
+"If you save it, all the external changes could be lost. Save it anyway?"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image File Name"
+msgstr ""
+
+msgid "Image Map"
+msgstr ""
+
+msgid "Image Menu Item"
+msgstr ""
+
+msgid "Image item"
+msgstr ""
+
+msgid "Image resources are loaded locally:"
+msgstr ""
+
+msgid "Image:"
+msgstr ""
+
+msgid "Immediate"
+msgstr ""
+
+msgid "In"
+msgstr ""
+
+msgid ""
+"In what field(s) is the software you used Glade to create generally used?"
+msgstr ""
+
+msgid "In your opinion what is the biggest problem with Glade?"
+msgstr ""
+
+msgid "Inconsistent column"
+msgstr ""
+
+msgid "Indentation:"
+msgstr ""
+
+msgid ""
+"Indicates a subwindow attached to a component but otherwise has no "
+"connection in the UI hierarchy to that component"
+msgstr ""
+
+msgid "Indicates an object controlled by one or more target objects"
+msgstr ""
+
+msgid ""
+"Indicates an object is a cell in a treetable which is displayed because a "
+"cell in the same column is expanded and identifies that cell"
+msgstr ""
+
+msgid "Indicates an object is a controller for one or more target objects"
+msgstr ""
+
+msgid "Indicates an object is a label for one or more target objects"
+msgstr ""
+
+msgid ""
+"Indicates an object is a member of a group of one or more target objects"
+msgstr ""
+
+msgid "Indicates an object is labeled by one or more target objects"
+msgstr ""
+
+msgid "Indicates that an object is a parent window of another object"
+msgstr ""
+
+msgid "Indicates that an object is a popup for another object"
+msgstr ""
+
+msgid ""
+"Indicates that an object provides descriptive information about another "
+"object; more verbose than 'Label For'"
+msgstr ""
+
+msgid ""
+"Indicates that another object provides descriptive information about this "
+"object; more verbose than 'Labelled By'"
+msgstr ""
+
+msgid ""
+"Indicates that the object has content that flows logically from another "
+"AtkObject in a sequential way, (for instance text-flow)"
+msgstr ""
+
+msgid ""
+"Indicates that the object has content that flows logically to another "
+"AtkObject in a sequential way, (for instance text-flow)"
+msgstr ""
+
+msgid ""
+"Indicates that the object visually embeds another object's content, i.e. "
+"this object's content flows around another's content"
+msgstr ""
+
+msgid "Indicator Mode:"
+msgstr ""
+
+msgid "Indicator Size column"
+msgstr ""
+
+msgid "Industrial applications"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Info Bar"
+msgstr ""
+
+msgid "Information will be sent to https://people.gnome.org/~jpu"
+msgstr ""
+
+msgid "Inhibit On-screen Keyboard"
+msgstr ""
+
+msgid "Initially Complete"
+msgstr ""
+
+msgid "Input Hints:"
+msgstr ""
+
+msgid "Input Method Window"
+msgstr ""
+
+msgid "Insert After"
+msgstr ""
+
+msgid "Insert Before"
+msgstr ""
+
+msgid "Insert Child on %s"
+msgstr ""
+
+msgid "Insert Column"
+msgstr ""
+
+msgid "Insert Column on %s"
+msgstr ""
+
+msgid "Insert Page After"
+msgstr ""
+
+msgid "Insert Page Before"
+msgstr ""
+
+msgid "Insert Row"
+msgstr ""
+
+msgid "Insert Row on %s"
+msgstr ""
+
+msgid "Insert page on %s"
+msgstr ""
+
+msgid "Insert placeholder to %s"
+msgstr ""
+
+msgid "Inside Wrap:"
+msgstr ""
+
+msgid "Insufficient amount of placeholders in target container"
+msgstr ""
+
+msgid "Interface Designer"
+msgstr ""
+
+msgid "Intermediate"
+msgstr ""
+
+msgid "Internal Frame"
+msgstr ""
+
+msgid "Internal Name"
+msgstr ""
+
+msgid "Internal name"
+msgstr ""
+
+msgid "Internal server error"
+msgstr ""
+
+msgid "International"
+msgstr ""
+
+msgid "Intro"
+msgstr ""
+
+msgid "Introduction page"
+msgstr ""
+
+msgid "Invalid"
+msgstr ""
+
+msgid ""
+"Inverse of 'Embeds', indicates that this object's content is visually "
+"embedded in another object"
+msgstr ""
+
+msgid "Inverted column"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Item Size and Spacing"
+msgstr ""
+
+msgid "Item Width:"
+msgstr ""
+
+msgid "Items"
+msgstr ""
+
+msgid "Java"
+msgstr ""
+
+msgid "JavaScript"
+msgstr ""
+
+msgid ""
+"Keep the headerbar height the same as the subtitle changes dynamically."
+msgstr ""
+
+msgid "Key Press"
+msgstr ""
+
+msgid "Key Release"
+msgstr ""
+
+msgid "Keycode column"
+msgstr ""
+
+msgid "LGPL 2.1"
+msgstr ""
+
+msgid "LGPL 2.1 Only"
+msgstr ""
+
+msgid "LGPL 3.0"
+msgstr ""
+
+msgid "LGPL 3.0 Only"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Label For"
+msgstr ""
+
+msgid "Label Width"
+msgstr ""
+
+msgid "Label behaviour"
+msgstr ""
+
+msgid "Label with optional image"
+msgstr ""
+
+msgid "Labeled By"
+msgstr ""
+
+msgid "Lack of documentation"
+msgstr ""
+
+msgid "Lack of official binary releases for other OS (Windows, Mac OS X)"
+msgstr ""
+
+msgid "Lack of professional support"
+msgstr ""
+
+msgid "Lack of professional training"
+msgstr ""
+
+msgid "Lack of publicity/exposure"
+msgstr ""
+
+msgid "Landmark"
+msgstr ""
+
+msgid "Language column"
+msgstr ""
+
+msgid "Large Toolbar"
+msgstr ""
+
+msgid "Last Defined"
+msgstr ""
+
+msgid "Latest stable from sources"
+msgstr ""
+
+msgid "Layered Pane"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Least Recently Used first"
+msgstr ""
+
+msgid "Leave Notify"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Left to Right"
+msgstr ""
+
+msgid "Left:"
+msgstr ""
+
+msgid "Leopard"
+msgstr ""
+
+msgid "Level Bar"
+msgstr ""
+
+msgid "Level Bar Attributes"
+msgstr ""
+
+msgid "Libglade Files"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "License Text"
+msgstr ""
+
+msgid "License and Copyright"
+msgstr ""
+
+msgid ""
+"License for this project, it will be added as a document level comment."
+msgstr ""
+
+msgid "License:"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link Button"
+msgstr ""
+
+msgid "Lion"
+msgstr ""
+
+msgid "List"
+msgstr ""
+
+msgid "List Box"
+msgstr ""
+
+msgid "List Box Row"
+msgstr ""
+
+msgid "List Item"
+msgstr ""
+
+msgid "List Store"
+msgstr ""
+
+msgid "List of items:"
+msgstr ""
+
+msgid "List of widgets in this group"
+msgstr ""
+
+msgid "Listen standard input"
+msgstr ""
+
+msgid "Load and Save"
+msgstr ""
+
+msgid "Lock Button"
+msgstr ""
+
+msgid "Lock Key"
+msgstr ""
+
+msgid "Locking %s by widget %s"
+msgstr ""
+
+msgid "Log"
+msgstr ""
+
+msgid "Logo:"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Lower:"
+msgstr ""
+
+msgid "Lowercase"
+msgstr ""
+
+msgid "MIME Types"
+msgstr ""
+
+msgid "MIT"
+msgstr ""
+
+msgid "MIT X11"
+msgstr ""
+
+msgid "Mac OS X"
+msgstr ""
+
+msgid "Mandriva"
+msgstr ""
+
+msgid "Margins"
+msgstr ""
+
+msgid "Markup column"
+msgstr ""
+
+msgid "Marquee"
+msgstr ""
+
+msgid "Master"
+msgstr ""
+
+msgid "Math"
+msgstr ""
+
+msgid "Mathematical fraction"
+msgstr ""
+
+msgid "Mavericks"
+msgstr ""
+
+msgid "Maximum width in characters"
+msgstr ""
+
+msgid "Maximum:"
+msgstr ""
+
+msgid "Medical"
+msgstr ""
+
+msgid "Member Of"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Menu Attributes"
+msgstr ""
+
+msgid "Menu Bar"
+msgstr ""
+
+msgid "Menu Button"
+msgstr ""
+
+msgid "Menu Item"
+msgstr ""
+
+msgid "Menu Shell"
+msgstr ""
+
+msgid "Menu Tool Button"
+msgstr ""
+
+msgid "Message Dialog"
+msgstr ""
+
+msgid "Message Dialog Attributes"
+msgstr ""
+
+msgid "Meta Modifier"
+msgstr ""
+
+msgid "Middle"
+msgstr ""
+
+msgid "Mime Types"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Minimum:"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Missing Image"
+msgstr ""
+
+msgid "Model Button"
+msgstr ""
+
+msgid "Model Button Attributes"
+msgstr ""
+
+msgid "Model column"
+msgstr ""
+
+msgid "Most Recently Used first"
+msgstr ""
+
+msgid "Mountain Lion"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Move Over Down"
+msgstr ""
+
+msgid "Move Over Down-Up"
+msgstr ""
+
+msgid "Move Over Left"
+msgstr ""
+
+msgid "Move Over Left-Right"
+msgstr ""
+
+msgid "Move Over Right"
+msgstr ""
+
+msgid "Move Over Right-Left"
+msgstr ""
+
+msgid "Move Over Up"
+msgstr ""
+
+msgid "Move Over Up-Down"
+msgstr ""
+
+msgid "Move Under Down"
+msgstr ""
+
+msgid "Move Under Left"
+msgstr ""
+
+msgid "Move Under Right"
+msgstr ""
+
+msgid "Move Under Up"
+msgstr ""
+
+msgid "Multiple"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Name and Email fields are required"
+msgstr ""
+
+msgid "Name of the class"
+msgstr ""
+
+msgid "Name of the file to preview"
+msgstr ""
+
+msgid "Name of the toplevel to preview"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Named Icon Chooser"
+msgstr ""
+
+msgid "Natural"
+msgstr ""
+
+msgid "NetBSD"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "Never wrap"
+msgstr ""
+
+msgid "New Size Group"
+msgstr ""
+
+msgid "New Tab"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Spellcheck"
+msgstr ""
+
+msgid "No open projects to save"
+msgstr ""
+
+msgid "No widget on the clipboard"
+msgstr ""
+
+msgid "No widget selected."
+msgstr ""
+
+msgid "Node Child Of"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "None - distributed internally"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Normal item"
+msgstr ""
+
+msgid "North"
+msgstr ""
+
+msgid "North East"
+msgstr ""
+
+msgid "North West"
+msgstr ""
+
+msgid "Notebook"
+msgstr ""
+
+msgid "Notebook Attributes"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Number Up"
+msgstr ""
+
+msgid "Number Up Layout"
+msgstr ""
+
+msgid "Number of Pages"
+msgstr ""
+
+msgid "Number of items"
+msgstr ""
+
+msgid "Number of pages"
+msgstr ""
+
+msgid "Number of pages in this assistant"
+msgstr ""
+
+msgid "Number of submenus"
+msgstr ""
+
+msgid "O_bjects:"
+msgstr ""
+
+msgid "Object"
+msgstr ""
+
+msgid "Object %s has unrecognized type %s\n"
+msgstr ""
+
+msgid "Object %s is a class template but this is not supported in gtk+ %d.%d"
+msgstr ""
+
+msgid "Object %s not found in UI definition.\n"
+msgstr ""
+
+msgid "Object has unrecognized type %s"
+msgstr ""
+
+msgid "Object instance's name formatted for assistive technology access"
+msgstr ""
+
+msgid "Object is not previewable.\n"
+msgstr ""
+
+msgid "Objects"
+msgstr ""
+
+msgid "Objects:"
+msgstr ""
+
+msgid "Oblique"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "Offscreen"
+msgstr ""
+
+msgid "Offscreen Window"
+msgstr ""
+
+msgid "Ok"
+msgstr ""
+
+msgid "Ok, Cancel"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "On what operating systems?"
+msgstr ""
+
+msgid "Once a month"
+msgstr ""
+
+msgid "Only objects of type %s can be added to objects of type %s."
+msgstr ""
+
+msgid "Only one widget can be pasted at a time to this container"
+msgstr ""
+
+msgid ""
+"Oops! Email address is already in use!\n"
+"To update information you need to provide the token that was sent to your inbox."
+msgstr ""
+
+msgid "Oops! Error accessing DB: %s"
+msgstr ""
+
+msgid "Oops! Error saving survey data: %s"
+msgstr ""
+
+msgid "Oops! Error saving user information: %s"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open Glade Users Website"
+msgstr ""
+
+msgid "Open a project"
+msgstr ""
+
+msgid "Open source software"
+msgstr ""
+
+msgid "OpenBSD"
+msgstr ""
+
+msgid "OpenSolaris"
+msgstr ""
+
+msgid "Open…"
+msgstr ""
+
+msgid "Option Pane"
+msgstr ""
+
+msgid "Oracle"
+msgstr ""
+
+msgid "Oracle Solaris"
+msgstr ""
+
+msgid "Ordering children of %s"
+msgstr ""
+
+msgid "Organization"
+msgstr ""
+
+msgid "Orientation column"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Out"
+msgstr ""
+
+msgid "Output version information and exit"
+msgstr ""
+
+msgid "Overlay"
+msgstr ""
+
+msgid "Packing"
+msgstr ""
+
+msgid "Padding"
+msgstr ""
+
+msgid "Page"
+msgstr ""
+
+msgid "Page Set"
+msgstr ""
+
+msgid "Page Setup Dialog"
+msgstr ""
+
+msgid "Page Tab"
+msgstr ""
+
+msgid "Page Tab List"
+msgstr ""
+
+msgid "Page Type"
+msgstr ""
+
+msgid "Paned"
+msgstr ""
+
+msgid "Panel"
+msgstr ""
+
+msgid "Paragraph"
+msgstr ""
+
+msgid "Parent"
+msgstr ""
+
+msgid "Parent Window Of"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password Text"
+msgstr ""
+
+msgid "Paste %s"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Path to load images and resources in Glade's runtime"
+msgstr ""
+
+msgid "Path to use as the custom CSS provider for this project."
+msgstr ""
+
+msgid "Patterns"
+msgstr ""
+
+msgid "Perl"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Pin Code"
+msgstr ""
+
+msgid "Pixbuf"
+msgstr ""
+
+msgid "Pixbuf Expander Closed column"
+msgstr ""
+
+msgid "Pixbuf Expander Open column"
+msgstr ""
+
+msgid "Pixbuf Renderer"
+msgstr ""
+
+msgid "Pixbuf column"
+msgstr ""
+
+msgid "Placeholder text"
+msgstr ""
+
+msgid "Places"
+msgstr ""
+
+msgid "Placing %s inside %s"
+msgstr ""
+
+msgid "Pointer Mode"
+msgstr ""
+
+msgid "Pointer Motion"
+msgstr ""
+
+msgid "Pointer Motion Hint"
+msgstr ""
+
+msgid "Policy:"
+msgstr ""
+
+msgid "Popover"
+msgstr ""
+
+msgid "Popover Attributes"
+msgstr ""
+
+msgid "Popover Menu"
+msgstr ""
+
+msgid "Populate for touch"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "Popup For"
+msgstr ""
+
+msgid "Popup Menu"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Position:"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Press"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Preview snapshot"
+msgstr ""
+
+msgid "Primary Icon"
+msgstr ""
+
+msgid "Primary Icon Activatable"
+msgstr ""
+
+msgid "Primary Icon Name"
+msgstr ""
+
+msgid "Primary Icon Pixbuf"
+msgstr ""
+
+msgid "Primary Icon Sensitive"
+msgstr ""
+
+msgid "Primary Icon Tooltip Markup"
+msgstr ""
+
+msgid "Primary Icon Tooltip Text"
+msgstr ""
+
+msgid "Primary Stock Icon"
+msgstr ""
+
+msgid "Primary Text:"
+msgstr ""
+
+msgid "Print Dialog"
+msgstr ""
+
+msgid "Print handlers signature on invocation"
+msgstr ""
+
+msgid "Priority information for the property editor to act on"
+msgstr ""
+
+msgid "Privacy Note:"
+msgstr ""
+
+msgid "Program Attributes"
+msgstr ""
+
+msgid "Progress"
+msgstr ""
+
+msgid "Progress Bar"
+msgstr ""
+
+msgid "Progress Bar Attributes"
+msgstr ""
+
+msgid "Progress Fraction"
+msgstr ""
+
+msgid "Progress Pulse Step"
+msgstr ""
+
+msgid "Progress Renderer"
+msgstr ""
+
+msgid "Progress bar"
+msgstr ""
+
+msgid "Project"
+msgstr ""
+
+msgid "Project \"%s\" has deprecated widgets and/or version mismatches."
+msgstr ""
+
+msgid "Project \"%s\" has errors. Save anyway?"
+msgstr ""
+
+msgid "Project %s has no deprecated widgets or version mismatches."
+msgstr ""
+
+msgid "Project %s is still loading."
+msgstr ""
+
+msgid "Project '%s' saved"
+msgstr ""
+
+msgid ""
+"Prompt the user at save time if the project\n"
+"contains any unrecognized types"
+msgstr ""
+
+msgid ""
+"Prompt the user at save time if the project uses any widgets,\n"
+"properties or signals which are deprecated"
+msgstr ""
+
+msgid ""
+"Prompt the user at save time if the project uses any widgets, properties\n"
+"or signals which are not available in the project's target version"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Properties and Attributes"
+msgstr ""
+
+msgid "Property"
+msgstr ""
+
+msgid "Property Change"
+msgstr ""
+
+msgid "Property Class"
+msgstr ""
+
+msgid "Property Name"
+msgstr ""
+
+msgid "Property _Description:"
+msgstr ""
+
+msgid "Property has versioning problems: "
+msgstr ""
+
+msgid "Property not selected"
+msgstr ""
+
+msgid "Proximity  Out"
+msgstr ""
+
+msgid "Proximity In"
+msgstr ""
+
+msgid "Pulse column"
+msgstr ""
+
+msgid "Push Button"
+msgstr ""
+
+msgid "Python"
+msgstr ""
+
+msgid "Question"
+msgstr ""
+
+msgid "Queue"
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Radio Action"
+msgstr ""
+
+msgid "Radio Button"
+msgstr ""
+
+msgid "Radio Menu Item"
+msgstr ""
+
+msgid "Radio Tool Button"
+msgstr ""
+
+msgid "Radio column"
+msgstr ""
+
+msgid "Radio item"
+msgstr ""
+
+msgid "Radio proxies"
+msgstr ""
+
+msgid "Range"
+msgstr ""
+
+msgid "Rating"
+msgstr ""
+
+msgid "Read Only"
+msgstr ""
+
+msgid "Read _documentation"
+msgstr ""
+
+msgid "Read documentation"
+msgstr ""
+
+msgid "Reason"
+msgstr ""
+
+msgid "Receiving data from %s"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Recent Action"
+msgstr ""
+
+msgid "Recent Chooser"
+msgstr ""
+
+msgid "Recent Chooser Attributes"
+msgstr ""
+
+msgid "Recent Chooser Dialog"
+msgstr ""
+
+msgid "Recent Chooser Menu"
+msgstr ""
+
+msgid "Recent Filter"
+msgstr ""
+
+msgid "Recent Manager"
+msgstr ""
+
+msgid "Recent Menu"
+msgstr ""
+
+msgid "Red Hat"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Redo: %s"
+msgstr ""
+
+msgid "Redundant Object"
+msgstr ""
+
+msgid "Registration & User Survey"
+msgstr ""
+
+msgid "Related Action"
+msgstr ""
+
+msgid "Release"
+msgstr ""
+
+msgid "Release Modifier"
+msgstr ""
+
+msgid "Remove %s"
+msgstr ""
+
+msgid "Remove Column"
+msgstr ""
+
+msgid "Remove Column on %s"
+msgstr ""
+
+msgid "Remove Page"
+msgstr ""
+
+msgid "Remove Parent"
+msgstr ""
+
+msgid "Remove Row"
+msgstr ""
+
+msgid "Remove Row on %s"
+msgstr ""
+
+msgid "Remove Slot"
+msgstr ""
+
+msgid "Remove multiple"
+msgstr ""
+
+msgid "Remove page from %s"
+msgstr ""
+
+msgid "Remove placeholder from %s"
+msgstr ""
+
+msgid "Remove signal handler %s"
+msgstr ""
+
+msgid "Remove the selected catalog search path"
+msgstr ""
+
+msgid "Removing parent of %s"
+msgstr ""
+
+msgid "Renaming %s to %s"
+msgstr ""
+
+msgid "Reorder %s's children"
+msgstr ""
+
+msgid "Reserve space for subtitle"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Reset Widget Properties"
+msgstr ""
+
+msgid "Resource Name"
+msgstr ""
+
+msgid "Resource Path"
+msgstr ""
+
+msgid "Response ID"
+msgstr ""
+
+msgid "Retrieve %s from model (type %s)"
+msgstr ""
+
+msgid "Revealer"
+msgstr ""
+
+msgid "Reverse"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right to Left"
+msgstr ""
+
+msgid "Right:"
+msgstr ""
+
+msgid "Rise column"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Root Pane"
+msgstr ""
+
+msgid "Row Header"
+msgstr ""
+
+msgid "Rows"
+msgstr ""
+
+msgid "Ruler"
+msgstr ""
+
+msgid "Run Cleanup"
+msgstr ""
+
+msgid "Run First"
+msgstr ""
+
+msgid "Run Last"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save As…"
+msgstr ""
+
+msgid "Save changes to project \"%s\" before closing?"
+msgstr ""
+
+msgid "Save the current project"
+msgstr ""
+
+msgid "Save the current project with a different name"
+msgstr ""
+
+msgid "Save…"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "Scale Attributes"
+msgstr ""
+
+msgid "Scale Button"
+msgstr ""
+
+msgid "Scale Button Attributes"
+msgstr ""
+
+msgid "Scale column"
+msgstr ""
+
+msgid "Scale is configured to not draw the value"
+msgstr ""
+
+msgid "Scale orientation:"
+msgstr ""
+
+msgid "Scientific"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "Scroll Bar"
+msgstr ""
+
+msgid "Scroll pane"
+msgstr ""
+
+msgid "Scrollbar"
+msgstr ""
+
+msgid "Scrollbar Attributes"
+msgstr ""
+
+msgid "Scrollbar Policy:"
+msgstr ""
+
+msgid "Scrolled Window"
+msgstr ""
+
+msgid "Scrolled Window Attributes"
+msgstr ""
+
+msgid "Scrolling Attributes"
+msgstr ""
+
+msgid "Search Bar"
+msgstr ""
+
+msgid "Search Column:"
+msgstr ""
+
+msgid "Search Entry"
+msgstr ""
+
+msgid "Search bar is already full"
+msgstr ""
+
+msgid "Search is disabled"
+msgstr ""
+
+msgid "Second Mouse Button"
+msgstr ""
+
+msgid "Secondary Icon"
+msgstr ""
+
+msgid "Secondary Icon Activatable"
+msgstr ""
+
+msgid "Secondary Icon Name"
+msgstr ""
+
+msgid "Secondary Icon Pixbuf"
+msgstr ""
+
+msgid "Secondary Icon Sensitive"
+msgstr ""
+
+msgid "Secondary Icon Tooltip Markup"
+msgstr ""
+
+msgid "Secondary Icon Tooltip Text"
+msgstr ""
+
+msgid "Secondary Stock Icon"
+msgstr ""
+
+msgid "Secondary Text:"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Select Fields"
+msgstr ""
+
+msgid "Select Folder"
+msgstr ""
+
+msgid "Select Named Icon"
+msgstr ""
+
+msgid "Select a CSS to use as custom style provider"
+msgstr ""
+
+msgid "Select a catalog search path"
+msgstr ""
+
+msgid "Select a color"
+msgstr ""
+
+msgid "Select a file from the project resource directory"
+msgstr ""
+
+msgid "Select a font"
+msgstr ""
+
+msgid "Select an object to pass to the handler"
+msgstr ""
+
+msgid "Select the properties that you want to reset to their default values"
+msgstr ""
+
+msgid "Semi Condensed"
+msgstr ""
+
+msgid "Semi Expanded"
+msgstr ""
+
+msgid "Sending data to %s"
+msgstr ""
+
+msgid "Sensitive"
+msgstr ""
+
+msgid "Sensitive column"
+msgstr ""
+
+msgid "Separator"
+msgstr ""
+
+msgid "Separator Menu Item"
+msgstr ""
+
+msgid "Separator Tool Item"
+msgstr ""
+
+msgid "Separator item"
+msgstr ""
+
+msgid "Set default value"
+msgstr ""
+
+msgid "Set the currently active page to edit, this property will not be saved"
+msgstr ""
+
+msgid ""
+"Set the currently active submenu to edit, this property will not be saved"
+msgstr ""
+
+msgid "Set the description of the Activate atk action"
+msgstr ""
+
+msgid "Set the description of the Click atk action"
+msgstr ""
+
+msgid "Set the description of the Press atk action"
+msgstr ""
+
+msgid "Set the description of the Release atk action"
+msgstr ""
+
+msgid "Set the icon size for this source of '%s'"
+msgstr ""
+
+msgid "Set the state for this source of '%s'"
+msgstr ""
+
+msgid "Set the text direction for this source of '%s'"
+msgstr ""
+
+msgid "Set whether you want to specify a state for this source of '%s'"
+msgstr ""
+
+msgid ""
+"Set whether you want to specify a text direction for this source of '%s'"
+msgstr ""
+
+msgid "Set whether you want to specify an icon size for this source of '%s'"
+msgstr ""
+
+msgid "Setting %s of %s"
+msgstr ""
+
+msgid "Setting %s of %s to %s"
+msgstr ""
+
+msgid "Setting %s to have a start action"
+msgstr ""
+
+msgid "Setting %s to have an end action"
+msgstr ""
+
+msgid "Setting %s to not have a start action"
+msgstr ""
+
+msgid "Setting %s to not have an end action"
+msgstr ""
+
+msgid "Setting %s to not show window controls"
+msgstr ""
+
+msgid "Setting %s to not use a center child"
+msgstr ""
+
+msgid "Setting %s to not use tooltip markup"
+msgstr ""
+
+msgid "Setting %s to show window controls"
+msgstr ""
+
+msgid "Setting %s to use a Pango markup string"
+msgstr ""
+
+msgid "Setting %s to use a center child"
+msgstr ""
+
+msgid "Setting %s to use a custom child"
+msgstr ""
+
+msgid "Setting %s to use a custom label widget"
+msgstr ""
+
+msgid "Setting %s to use a custom title"
+msgstr ""
+
+msgid "Setting %s to use a custom titlebar"
+msgstr ""
+
+msgid "Setting %s to use a custom tooltip"
+msgstr ""
+
+msgid "Setting %s to use a label and image"
+msgstr ""
+
+msgid "Setting %s to use a logo icon"
+msgstr ""
+
+msgid "Setting %s to use a named icon"
+msgstr ""
+
+msgid "Setting %s to use a pattern string"
+msgstr ""
+
+msgid "Setting %s to use a primary icon from filename"
+msgstr ""
+
+msgid "Setting %s to use a primary icon from stock"
+msgstr ""
+
+msgid "Setting %s to use a primary icon from the icon theme"
+msgstr ""
+
+msgid "Setting %s to use a resource name"
+msgstr ""
+
+msgid "Setting %s to use a secondary icon from filename"
+msgstr ""
+
+msgid "Setting %s to use a secondary icon from stock"
+msgstr ""
+
+msgid "Setting %s to use a secondary icon from the icon theme"
+msgstr ""
+
+msgid "Setting %s to use a single line"
+msgstr ""
+
+msgid "Setting %s to use a stock button"
+msgstr ""
+
+msgid "Setting %s to use a stock item"
+msgstr ""
+
+msgid "Setting %s to use a system provided titlebar"
+msgstr ""
+
+msgid "Setting %s to use an attribute list"
+msgstr ""
+
+msgid "Setting %s to use an external buffer"
+msgstr ""
+
+msgid "Setting %s to use an icon file"
+msgstr ""
+
+msgid "Setting %s to use an image from filename"
+msgstr ""
+
+msgid "Setting %s to use an image from stock"
+msgstr ""
+
+msgid "Setting %s to use an image from the icon theme"
+msgstr ""
+
+msgid "Setting %s to use logo file"
+msgstr ""
+
+msgid "Setting %s to use normal line wrapping"
+msgstr ""
+
+msgid "Setting %s to use specific Pango word wrapping"
+msgstr ""
+
+msgid "Setting %s to use standard configuration"
+msgstr ""
+
+msgid "Setting %s to use standard label text"
+msgstr ""
+
+msgid "Setting %s to use static text"
+msgstr ""
+
+msgid "Setting %s to use the %s property as an attribute"
+msgstr ""
+
+msgid "Setting %s to use the %s property directly"
+msgstr ""
+
+msgid "Setting %s to use the standard title"
+msgstr ""
+
+msgid "Setting %s to use tooltip markup"
+msgstr ""
+
+msgid "Setting License type of %s"
+msgstr ""
+
+msgid "Setting columns on %s"
+msgstr ""
+
+msgid "Setting i18n metadata"
+msgstr ""
+
+msgid "Setting multiple properties"
+msgstr ""
+
+msgid "Setting object type on %s to %s"
+msgstr ""
+
+msgid "Setting primary icon of %s to not use tooltip markup"
+msgstr ""
+
+msgid "Setting primary icon of %s to use tooltip markup"
+msgstr ""
+
+msgid "Setting project's %s property"
+msgstr ""
+
+msgid "Setting resource path to '%s'"
+msgstr ""
+
+msgid "Setting secondary icon of %s to not use tooltip markup"
+msgstr ""
+
+msgid "Setting secondary icon of %s to use tooltip markup"
+msgstr ""
+
+msgid "Setting target version of '%s' to %d.%d"
+msgstr ""
+
+msgid "Setting translation domain to '%s'"
+msgstr ""
+
+msgid "Setting widget '%s' as template"
+msgstr ""
+
+msgid "Setup Text Attributes"
+msgstr ""
+
+msgid "Seventh Key"
+msgstr ""
+
+msgid "Shift Key"
+msgstr ""
+
+msgid "Show Class Field"
+msgstr ""
+
+msgid "Show Glade debug options"
+msgstr ""
+
+msgid "Show info"
+msgstr ""
+
+msgid "Show warnings when saving"
+msgstr ""
+
+msgid "Show window controls"
+msgstr ""
+
+msgid "Shrink"
+msgstr ""
+
+msgid "Signal"
+msgstr ""
+
+msgid "Signal has versioning problems: "
+msgstr ""
+
+msgid "SignalClass"
+msgstr ""
+
+msgid "Single"
+msgstr ""
+
+msgid "Single Click Activate"
+msgstr ""
+
+msgid "Single Paragraph Mode column"
+msgstr ""
+
+msgid "Sixth Key"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Size Group"
+msgstr ""
+
+msgid "Size column"
+msgstr ""
+
+msgid "Slide Down"
+msgstr ""
+
+msgid "Slide Left"
+msgstr ""
+
+msgid "Slide Left-Right"
+msgstr ""
+
+msgid "Slide Right"
+msgstr ""
+
+msgid "Slide Up"
+msgstr ""
+
+msgid "Slide Up-Down"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Small Capitals"
+msgstr ""
+
+msgid "Small Toolbar"
+msgstr ""
+
+msgid "Smooth scroll"
+msgstr ""
+
+msgid "Snow Leopard"
+msgstr ""
+
+msgid "Solaris"
+msgstr ""
+
+msgid "Some properties have versioning problems: "
+msgstr ""
+
+msgid "Some signals have versioning problems: "
+msgstr ""
+
+msgid "Sorry, automatic subscription to Glade Users mailing list failed"
+msgstr ""
+
+msgid "South"
+msgstr ""
+
+msgid "South East"
+msgstr ""
+
+msgid "South West"
+msgstr ""
+
+msgid "Spacing"
+msgstr ""
+
+msgid "Spacing:"
+msgstr ""
+
+msgid "Special Child Type"
+msgstr ""
+
+msgid ""
+"Specially because there are %d objects that can not be build with types "
+msgstr ""
+
+msgid "Specially because there is an object that can not be build with type "
+msgstr ""
+
+msgid "Specify the actual editor property type name to use for this shell"
+msgstr ""
+
+msgid "Spellcheck"
+msgstr ""
+
+msgid "Spin"
+msgstr ""
+
+msgid "Spin Button"
+msgstr ""
+
+msgid "Spin Button Attributes"
+msgstr ""
+
+msgid "Spin Renderer"
+msgstr ""
+
+msgid "Spinner"
+msgstr ""
+
+msgid "Spinner Renderer"
+msgstr ""
+
+msgid "Splash Screen"
+msgstr ""
+
+msgid "Split Pane"
+msgstr ""
+
+msgid "Spread"
+msgstr ""
+
+msgid "Stack"
+msgstr ""
+
+msgid "Stack Attributes"
+msgstr ""
+
+msgid "Stack Sidebar"
+msgstr ""
+
+msgid "Stack Switcher"
+msgstr ""
+
+msgid "Stack Switcher Attributes"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "Start Action"
+msgstr ""
+
+msgid "Start Action:"
+msgstr ""
+
+msgid "Static"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status Bar"
+msgstr ""
+
+msgid "Status Icon"
+msgstr ""
+
+msgid "Stepper Sensitivity"
+msgstr ""
+
+msgid "Stock"
+msgstr ""
+
+msgid "Stock Button"
+msgstr ""
+
+msgid "Stock Detail column"
+msgstr ""
+
+msgid "Stock Image"
+msgstr ""
+
+msgid "Stock Item"
+msgstr ""
+
+msgid "Stock Item:"
+msgstr ""
+
+msgid "Stock Size column"
+msgstr ""
+
+msgid "Stock column"
+msgstr ""
+
+msgid "Stretch column"
+msgstr ""
+
+msgid "Strikethrough column"
+msgstr ""
+
+msgid "String"
+msgstr ""
+
+msgid "Structure"
+msgstr ""
+
+msgid "Style Classes"
+msgstr ""
+
+msgid "Style column"
+msgstr ""
+
+msgid "Submit"
+msgstr ""
+
+msgid "Subscribe me to the mailing list"
+msgstr ""
+
+msgid ""
+"Subscribe to Glade Users mailing list.\n"
+"You will be sent email requesting confirmation!"
+msgstr ""
+
+msgid "Subscript text"
+msgstr ""
+
+msgid "Substructure"
+msgstr ""
+
+msgid "Subwindow Of"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Super Modifier"
+msgstr ""
+
+msgid "Superscript text"
+msgstr ""
+
+msgid "Support Warning"
+msgstr ""
+
+msgid "Swap"
+msgstr ""
+
+msgid "Swapped"
+msgstr ""
+
+msgid "Swapped | After"
+msgstr ""
+
+msgid "Switch"
+msgstr ""
+
+msgid "T_ranslatable"
+msgstr ""
+
+msgid "Tab Attributes"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Table Cell"
+msgstr ""
+
+msgid "Table Row"
+msgstr ""
+
+msgid "Tabular Menus"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Tear Off Menu Item"
+msgstr ""
+
+msgid "Tearoff menus"
+msgstr ""
+
+msgid "Tearoff menus are disabled"
+msgstr ""
+
+msgid "Template"
+msgstr ""
+
+msgid "Template classes are not supported in gtk+ %d.%d"
+msgstr ""
+
+msgid "Terminal"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text Buffer"
+msgstr ""
+
+msgid "Text Column column"
+msgstr ""
+
+msgid "Text Entry"
+msgstr ""
+
+msgid "Text Formatting"
+msgstr ""
+
+msgid "Text Horizontal Alignment column"
+msgstr ""
+
+msgid "Text Renderer"
+msgstr ""
+
+msgid "Text Tag"
+msgstr ""
+
+msgid "Text Tag Table"
+msgstr ""
+
+msgid "Text Tag Table Editor"
+msgstr ""
+
+msgid "Text Vertical Alignment column"
+msgstr ""
+
+msgid "Text View"
+msgstr ""
+
+msgid "Text View Attributes"
+msgstr ""
+
+msgid "Text below icons"
+msgstr ""
+
+msgid "Text beside icons"
+msgstr ""
+
+msgid "Text column"
+msgstr ""
+
+msgid "Text only"
+msgstr ""
+
+msgid "Text:"
+msgstr ""
+
+msgid ""
+"Thank you for taking Glade Users survey, we appreciate it!\n"
+"\n"
+"To validate this email address open the folowing link\n"
+"\n"
+"https://people.gnome.org/~jpu/glade/registration.php?email=$email&validation_token=$new_validation_token\n"
+"\n"
+"In case you want to change or update the survey, your current update token is:\n"
+"$new_token\n"
+"\n"
+"Cheers\n"
+"\n"
+"\tThe Glade team\n"
+msgstr ""
+
+msgid ""
+"Thank you for taking the time to complete the survey, we appreciate it!"
+msgstr ""
+
+msgid ""
+"Thank you for updating your Glade Users survey data, we appreciate it!\n"
+"\n"
+"In case you want to change something again, your current update token is:\n"
+"$new_token\n"
+"\n"
+"Cheers\n"
+"\n"
+"\tThe Glade team\n"
+msgstr ""
+
+msgid "The GladeDesignView that contains this layout"
+msgstr ""
+
+msgid "The GladeProperty to display a label for"
+msgstr ""
+
+msgid "The GladePropertyClass for this property"
+msgstr ""
+
+msgid "The GladePropertyClass this GladeEditorProperty was created for"
+msgstr ""
+
+msgid "The accelerator can only be set when inside an Action Group."
+msgstr ""
+
+msgid "The accessible role of this object"
+msgstr ""
+
+msgid "The class adaptor for the associated widget"
+msgstr ""
+
+msgid "The class field string"
+msgstr ""
+
+msgid "The column in the model to load the value from"
+msgstr ""
+
+msgid "The container object this editor is currently editing"
+msgstr ""
+
+msgid "The current item to add to the project"
+msgstr ""
+
+msgid "The currently effective GladePointerMode"
+msgstr ""
+
+msgid "The currently loaded widget in this editor"
+msgstr ""
+
+msgid ""
+"The decoration layout does not apply to header bars which do no show window "
+"controls"
+msgstr ""
+
+msgid "The detail for this signal"
+msgstr ""
+
+msgid "The editor page type to create this GladeEditorTable for"
+msgstr ""
+
+msgid "The file %s has been modified since reading it"
+msgstr ""
+
+msgid "The filesystem path of the project"
+msgstr ""
+
+msgid "The glade project that this widget belongs to"
+msgstr ""
+
+msgid "The glade widget to edit signals"
+msgstr ""
+
+msgid "The handler for this signal"
+msgstr ""
+
+msgid "The height of the widget when toplevel in the GladeDesignLayout"
+msgstr ""
+
+msgid "The icon name"
+msgstr ""
+
+msgid "The internal name of the widget"
+msgstr ""
+
+msgid "The list of application names to add to the filter"
+msgstr ""
+
+msgid "The list of file name patterns to add to the filter"
+msgstr ""
+
+msgid "The list of items to show in the combo box"
+msgstr ""
+
+msgid "The list of mime types to add to the filter"
+msgstr ""
+
+msgid "The name of the widget"
+msgstr ""
+
+msgid "The name of the widget catalog this class was declared by"
+msgstr ""
+
+msgid ""
+"The names of the icons to be used by the scale button. The first item in the"
+" array will be used in the button when the current value is the lowest "
+"value, the second item for the highest value. All the subsequent icons will "
+"be used for all the other values, spread evenly over the range of values"
+msgstr ""
+
+msgid "The number of columns for this grid"
+msgstr ""
+
+msgid "The number of digits to round the value to when the value changes"
+msgstr ""
+
+msgid "The number of items in the action bar"
+msgstr ""
+
+msgid "The number of items in the box"
+msgstr ""
+
+msgid "The number of items in the header bar"
+msgstr ""
+
+msgid "The number of pages in the notebook"
+msgstr ""
+
+msgid "The number of pages in the stack"
+msgstr ""
+
+msgid "The number of rows for this grid"
+msgstr ""
+
+msgid "The number of submenus in the popover menu"
+msgstr ""
+
+msgid "The object associated"
+msgstr ""
+
+msgid "The object's unique identifier"
+msgstr ""
+
+msgid "The page position in the Assistant"
+msgstr ""
+
+msgid "The pango attributes for this label"
+msgstr ""
+
+msgid "The position of the child in the flowbox"
+msgstr ""
+
+msgid "The position of the menu item in the menu shell"
+msgstr ""
+
+msgid "The position of the row item in the listbox"
+msgstr ""
+
+msgid "The position of the tool item group in the palette"
+msgstr ""
+
+msgid "The position of the tool item in the toolbar"
+msgstr ""
+
+msgid "The project %s has unsaved changes"
+msgstr ""
+
+msgid "The project being inspected"
+msgstr ""
+
+msgid "The project file %s has been externally modified"
+msgstr ""
+
+msgid "The project this properties dialog was created for"
+msgstr ""
+
+msgid "The project translation domain"
+msgstr ""
+
+msgid "The project's template widget, if any"
+msgstr ""
+
+msgid "The property name to use when loading by widget"
+msgstr ""
+
+msgid "The property used to set the X position of a child object"
+msgstr ""
+
+msgid "The property used to set the Y position of a child object"
+msgstr ""
+
+msgid "The property used to set the height of a child object"
+msgstr ""
+
+msgid "The property used to set the width of a child object"
+msgstr ""
+
+msgid "The response ID of this button in a dialog"
+msgstr ""
+
+msgid "The signal class of this signal"
+msgstr ""
+
+msgid ""
+"The sole purpose of this survey is to better know our user base.\n"
+"Your email address will be used to uniquely identify you as a Glade user and send you back a modification token in case you want to modify something or add extra comments.\n"
+"Only statistics compiled from the whole dataset will be shared publicly.\n"
+"Individual data will be stored in a private database and it will not be shared with the public or any other third party."
+msgstr ""
+
+msgid ""
+"The stock icon displayed on the item (choose an item from GTK+ stock or from"
+" an icon factory)"
+msgstr ""
+
+msgid "The stock item for this button"
+msgstr ""
+
+msgid "The stock item for this menu item"
+msgstr ""
+
+msgid "The user data for this signal"
+msgstr ""
+
+msgid ""
+"The user interfaces designed in Glade are saved as XML and these can be "
+"loaded by applications dynamically as needed by using GtkBuilder or used "
+"directly to define a new GtkWidget derived object class using GTK+ new "
+"template feature."
+msgstr ""
+
+msgid "The versioning support warning for this signal"
+msgstr ""
+
+msgid "The width of the widget when toplevel in the GladeDesignLayout"
+msgstr ""
+
+msgid "Themed Icon"
+msgstr ""
+
+msgid "Third Mouse Button"
+msgstr ""
+
+msgid "This combo box is not configured to have an entry"
+msgstr ""
+
+msgid "This gives backends control to set property sensitivity"
+msgstr ""
+
+msgid "This progressbar does not show text"
+msgstr ""
+
+msgid "This property does not apply to client-side decorated windows"
+msgstr ""
+
+msgid "This property does not apply when a custom title is set"
+msgstr ""
+
+msgid "This property is deprecated"
+msgstr ""
+
+msgid "This property is disabled"
+msgstr ""
+
+msgid ""
+"This property is only available\n"
+"if the entry characters are invisible"
+msgstr ""
+
+msgid ""
+"This property is only available\n"
+"if the entry has a frame"
+msgstr ""
+
+msgid "This property is only for use in dialog action buttons"
+msgstr ""
+
+msgid "This property is set to be controlled by an Action"
+msgstr ""
+
+msgid "This property only applies if ellipsize and wrapping are enabled"
+msgstr ""
+
+msgid "This property only applies to named icons"
+msgstr ""
+
+msgid "This property only applies to stock images or named icons"
+msgstr ""
+
+msgid "This property only applies when configuring the label with text"
+msgstr ""
+
+msgid ""
+"This property was introduced in %s %d.%d while project targets %s %d.%d"
+msgstr ""
+
+msgid "This signal is deprecated"
+msgstr ""
+
+msgid "This signal was introduced in %s %d.%d while project targets %s %d.%d"
+msgstr ""
+
+msgid "This widget is deprecated"
+msgstr ""
+
+msgid "This widget was introduced in %s %d.%d while project targets %s %d.%d"
+msgstr ""
+
+msgid "Tiger"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Title Bar"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Toggle"
+msgstr ""
+
+msgid "Toggle Action"
+msgstr ""
+
+msgid "Toggle Button"
+msgstr ""
+
+msgid "Toggle Renderer"
+msgstr ""
+
+msgid "Toggle Tool Button"
+msgstr ""
+
+msgid "Toggle and Radio"
+msgstr ""
+
+msgid ""
+"Tokens are processed manually in batches.\n"
+"Please be patient."
+msgstr ""
+
+msgid "Tool Bar"
+msgstr ""
+
+msgid "Tool Bar Editor"
+msgstr ""
+
+msgid "Tool Button"
+msgstr ""
+
+msgid "Tool Item"
+msgstr ""
+
+msgid "Tool Item Group"
+msgstr ""
+
+msgid "Tool Palette"
+msgstr ""
+
+msgid "Tool Palette Editor"
+msgstr ""
+
+msgid "Tool Tip"
+msgstr ""
+
+msgid "Toolbar"
+msgstr ""
+
+msgid "Toolbar Proxies"
+msgstr ""
+
+msgid "Toolkit version required:"
+msgstr ""
+
+msgid "Tooltip"
+msgstr ""
+
+msgid "Tooltip:"
+msgstr ""
+
+msgid "Top"
+msgstr ""
+
+msgid "Top Left"
+msgstr ""
+
+msgid "Top Level"
+msgstr ""
+
+msgid "Top Right"
+msgstr ""
+
+msgid "Top to Bottom"
+msgstr ""
+
+msgid "Top:"
+msgstr ""
+
+msgid "Toplevel Height"
+msgstr ""
+
+msgid "Toplevel Width"
+msgstr ""
+
+msgid "Toplevels"
+msgstr ""
+
+msgid "Touch"
+msgstr ""
+
+msgid "Touchpad Gesture"
+msgstr ""
+
+msgid "Transient For:"
+msgstr ""
+
+msgid "Translatable"
+msgstr ""
+
+msgid "Translated title for the class used in the glade UI"
+msgstr ""
+
+msgid "Translation Domain"
+msgstr ""
+
+msgid "Translation domain:"
+msgstr ""
+
+msgid "Translators"
+msgstr ""
+
+msgid "Tree"
+msgstr ""
+
+msgid "Tree Item"
+msgstr ""
+
+msgid "Tree Model Filter"
+msgstr ""
+
+msgid "Tree Model Sort"
+msgstr ""
+
+msgid "Tree Selection"
+msgstr ""
+
+msgid "Tree Store"
+msgstr ""
+
+msgid "Tree Table"
+msgstr ""
+
+msgid "Tree View"
+msgstr ""
+
+msgid "Tree View Attributes"
+msgstr ""
+
+msgid "Tree View Column"
+msgstr ""
+
+msgid "Tree View Editor"
+msgstr ""
+
+msgid "Tree model:"
+msgstr ""
+
+msgid ""
+"Trying to save private data to %s directory but it is a regular file.\n"
+"No private data will be saved in this session"
+msgstr ""
+
+msgid "Turbolinux"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "UI definition has no previewable widgets.\n"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "Ubuntu"
+msgstr ""
+
+msgid "Ultra Condensed"
+msgstr ""
+
+msgid "Ultra Expanded"
+msgstr ""
+
+msgid "Unable to copy unrecognized widget type."
+msgstr ""
+
+msgid "Unable to cut unrecognized widget type"
+msgstr ""
+
+msgid "Unable to load image (%s)"
+msgstr ""
+
+msgid "Unable to open '%s', the file does not exist.\n"
+msgstr ""
+
+msgid "Unable to paste to multiple widgets"
+msgstr ""
+
+msgid "Unable to paste to the selected parent"
+msgstr ""
+
+msgid ""
+"Under what kind of license(s) do you release the software you used Glade to "
+"create?"
+msgstr ""
+
+msgid "Underline column"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo: %s"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unlocking %s"
+msgstr ""
+
+msgid "Unrecognized types"
+msgstr ""
+
+msgid "Unsaved %i"
+msgstr ""
+
+msgid "Unset"
+msgstr ""
+
+msgid "Unsetting template"
+msgstr ""
+
+msgid "Unsetting widget '%s' as template"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Update Info"
+msgstr ""
+
+msgid "Upper:"
+msgstr ""
+
+msgid "Uppercase Chars"
+msgstr ""
+
+msgid "Uppercase Sentences"
+msgstr ""
+
+msgid "Uppercase Words"
+msgstr ""
+
+msgid "Use Action Appearance"
+msgstr ""
+
+msgid "Use Command"
+msgstr ""
+
+msgid "Use Underline"
+msgstr ""
+
+msgid "Use markup"
+msgstr ""
+
+msgid ""
+"Use the \"query-tooltip\" to present a tooltip\n"
+"instead of setting a literal tooltip"
+msgstr ""
+
+msgid "Used to generate names of new widgets"
+msgstr ""
+
+msgid "User Data"
+msgstr ""
+
+msgid "User Information"
+msgstr ""
+
+msgid "User Interface Designer"
+msgstr ""
+
+msgid "User data"
+msgstr ""
+
+msgid "Utility"
+msgstr ""
+
+msgid "Vala"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value ID:"
+msgstr ""
+
+msgid "Value column"
+msgstr ""
+
+msgid "Value:"
+msgstr ""
+
+msgid "Variant column"
+msgstr ""
+
+msgid ""
+"Verify that the project does not use any properties,\n"
+"signals or widgets which are not available in the target version"
+msgstr ""
+
+msgid "Version:"
+msgstr ""
+
+msgid "Versioning errors"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Vertical Alignment"
+msgstr ""
+
+msgid "Vertical Alignment column"
+msgstr ""
+
+msgid "Vertical Box"
+msgstr ""
+
+msgid "Vertical Button Box"
+msgstr ""
+
+msgid "Vertical Padding"
+msgstr ""
+
+msgid "Vertical Padding column"
+msgstr ""
+
+msgid "Vertical Panes"
+msgstr ""
+
+msgid "Vertical Scale"
+msgstr ""
+
+msgid "Vertical Scrollbar"
+msgstr ""
+
+msgid "Vertical Separator"
+msgstr ""
+
+msgid "Vertical Writing"
+msgstr ""
+
+msgid "Vertical:"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "View Margin:"
+msgstr ""
+
+msgid "Viewport"
+msgstr ""
+
+msgid "Visibility Notify"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "Visible child"
+msgstr ""
+
+msgid "Visible column"
+msgstr ""
+
+msgid "Visit Glade web site"
+msgstr ""
+
+msgid "Vista"
+msgstr ""
+
+msgid "Visual State"
+msgstr ""
+
+msgid "Volume Button"
+msgstr ""
+
+msgid "Waiting for %s"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid ""
+"We are conducting a user survey\n"
+" would you like to take it now?"
+msgstr ""
+
+msgid "We care about privacy!"
+msgstr ""
+
+msgid "We could not find the symbol \"%s\""
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Website:"
+msgstr ""
+
+msgid "Weight column"
+msgstr ""
+
+msgid "West"
+msgstr ""
+
+msgid "Wether the widget is visible or not"
+msgstr ""
+
+msgid "What aspect of the software needs the most improvement?"
+msgstr ""
+
+msgid "What is available in my OS"
+msgstr ""
+
+msgid "What level of Glade user would you say you are?"
+msgstr ""
+
+msgid "When did you start using Glade?"
+msgstr ""
+
+msgid "Whether project has a selection"
+msgstr ""
+
+msgid "Whether project has been modified since it was last saved"
+msgstr ""
+
+msgid "Whether project is read-only"
+msgstr ""
+
+msgid "Whether the headerbar should use a custom title widget."
+msgstr ""
+
+msgid "Whether the property to load is a packing property or not"
+msgstr ""
+
+msgid "Whether the user data is swapped with the instance for the handler"
+msgstr ""
+
+msgid "Whether this action bar should include a centered child."
+msgstr ""
+
+msgid "Whether this action is sensitive"
+msgstr ""
+
+msgid "Whether this action is visible"
+msgstr ""
+
+msgid "Whether this box should include a centered child."
+msgstr ""
+
+msgid ""
+"Whether this composite child is an ancestral child or an anarchist child"
+msgstr ""
+
+msgid "Whether this container supports resizes of child widgets"
+msgstr ""
+
+msgid ""
+"Whether this page will initially be marked as complete regardless of user "
+"input."
+msgstr ""
+
+msgid "Whether this property is translatable"
+msgstr ""
+
+msgid "Whether this signal is run after default handlers"
+msgstr ""
+
+msgid "Whether this widget is a composite template"
+msgstr ""
+
+msgid "Whether this widget is the template for a composite widget"
+msgstr ""
+
+msgid "Whether this window should include a custom titlebar."
+msgstr ""
+
+msgid "Whether to append a colon ':' to the property name"
+msgstr ""
+
+msgid "Whether to explicitly disable the check button"
+msgstr ""
+
+msgid ""
+"Whether to highlight the area of the trough from the bottom or left leading "
+"up to the knob"
+msgstr ""
+
+msgid "Whether to show an informational button for the loaded widget"
+msgstr ""
+
+msgid "Whether to show the class field at the top"
+msgstr ""
+
+msgid "Whether to show window controls, e.g. a close button."
+msgstr ""
+
+msgid "Whether to start scrolling at less than minimum or natural height"
+msgstr ""
+
+msgid "Whether to start scrolling at less than minimum or natural width"
+msgstr ""
+
+msgid ""
+"Whether to use markup in the\n"
+"primary icon's tooltip\n"
+msgstr ""
+
+msgid ""
+"Whether to use markup in the\n"
+"secondary icon's tooltip"
+msgstr ""
+
+msgid "Whether to use markup in the tooltip"
+msgstr ""
+
+msgid "Whether to use the GladeCommand API when modifying properties"
+msgstr ""
+
+msgid "Whether we are creating an exact duplicate when using a template"
+msgstr ""
+
+msgid "Whether we should use the command API for the undo/redo stack"
+msgstr ""
+
+msgid "Which programming languages do you prefer?"
+msgstr ""
+
+msgid "Which version do you normally use?"
+msgstr ""
+
+msgid "Why not?"
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Widget Attributes"
+msgstr ""
+
+msgid "Widget Flags"
+msgstr ""
+
+msgid "Widget Spacing"
+msgstr ""
+
+msgid "Widget selector"
+msgstr ""
+
+msgid "Widget:"
+msgstr ""
+
+msgid "Widgets"
+msgstr ""
+
+msgid "Widgets of type %s can only have widgets as children."
+msgstr ""
+
+msgid "Widgets of type %s need placeholders to add children."
+msgstr ""
+
+msgid "Width column"
+msgstr ""
+
+msgid "Width in Characters column"
+msgstr ""
+
+msgid "Width property"
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid "Window Attributes"
+msgstr ""
+
+msgid "Window Flags"
+msgstr ""
+
+msgid "Window Group"
+msgstr ""
+
+msgid "Window Placement:"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Word"
+msgstr ""
+
+msgid "Word Character"
+msgstr ""
+
+msgid "Word Completion"
+msgstr ""
+
+msgid "Wrap Mode column"
+msgstr ""
+
+msgid "Wrap Width column"
+msgstr ""
+
+msgid "Wrap only on new line"
+msgstr ""
+
+msgid "X position property"
+msgstr ""
+
+msgid "XP"
+msgstr ""
+
+msgid "Xandros"
+msgstr ""
+
+msgid "Y position property"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yes, No"
+msgstr ""
+
+msgid ""
+"You can mark this as translatable and set one name/address if you want to "
+"show a translation specific translator, otherwise you should list all "
+"translators and unmark this string for translation"
+msgstr ""
+
+msgid "You cannot remove a widget internal to a composite widget."
+msgstr ""
+
+msgid "You do not have the permissions necessary to save the file."
+msgstr ""
+
+msgid "Your changes will be lost if you don't save them."
+msgstr ""
+
+msgid "[FILE...]"
+msgstr ""
+
+msgid "[Read Only]"
+msgstr ""
+
+msgid "_Add widget here"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Common"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Developer Reference"
+msgstr ""
+
+msgid "_Do not show this dialog again"
+msgstr ""
+
+msgid "_Don't Save"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_General"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_List standard icons only"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Packing"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Properties:"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save Anyway"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Select All"
+msgstr ""
+
+msgid "_Select individual fields:"
+msgstr ""
+
+msgid "_Signals"
+msgstr ""
+
+msgid "_Text:"
+msgstr ""
+
+msgid "_Unselect All"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "ago"
+msgstr ""
+
+msgid "be verbose"
+msgstr ""
+
+msgid "class"
+msgstr ""
+
+msgid "column"
+msgstr ""
+
+msgid "distribution"
+msgstr ""
+
+msgid ""
+"gmodule support not found. gmodule support is required for glade to work"
+msgstr ""
+
+msgid "illumos"
+msgstr ""
+
+msgid "make a slideshow of every toplevel widget by adding them in a GtkStack"
+msgstr ""
+
+msgid "months"
+msgstr ""
+
+msgid "multiple"
+msgstr ""
+
+msgid "no model"
+msgstr ""
+
+msgid "openSUSE"
+msgstr ""
+
+msgid "program or library name"
+msgstr ""
+
+msgid "program or library short description"
+msgstr ""
+
+msgid "root"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Absolute Size"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Background Color"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Font Description"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Foreground Color"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Gravity"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Gravity Hint"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Scale"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Size"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Stretch"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Strikethrough"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Strikethrough Color"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Style"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Underline"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Underline Color"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Variant"
+msgstr ""
+
+msgctxt "textattr"
+msgid "Weight"
+msgstr ""
+
+msgid "the last action"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "unset"
+msgstr ""
+
+msgid "user_data"
+msgstr ""
+
+msgid "variant"
+msgstr ""
+
+msgid "version"
+msgstr ""
+
+msgid "years"
+msgstr ""

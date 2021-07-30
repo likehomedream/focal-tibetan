@@ -1,0 +1,265 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-todo master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-todo&keywords=I18N+L10N&component=General\n"
+"PO-Revision-Date: 2020-04-05 22:37+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:11+0000\n"
+
+msgid "Available plugins for GNOME To Do"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Clear completed tasks…"
+msgstr ""
+
+msgid "Click a task list to select"
+msgstr ""
+
+msgid "Click to add a new Google account"
+msgstr ""
+
+msgid "Click to add a new Microsoft Exchange account"
+msgstr ""
+
+msgid "Click to add a new ownCloud account"
+msgstr ""
+
+msgid "Default provider to add new lists to"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Editing a tasklist with GNOME To Do"
+msgstr ""
+
+msgid "Enjoy the rest of your day"
+msgstr ""
+
+msgid "Error fetching tasks from list"
+msgstr ""
+
+msgid "Error loading GNOME Online Accounts"
+msgstr ""
+
+msgid "Extensions"
+msgstr ""
+
+msgid "First run of GNOME To Do"
+msgstr ""
+
+msgid ""
+"GNOME To Do is a task management application designed to integrate with "
+"GNOME. It is extensible through plugins and supports custom task providers."
+msgstr ""
+
+msgid "Get some rest now"
+msgstr ""
+
+msgid "Good job!"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "List Name"
+msgstr ""
+
+msgid "List of active extensions"
+msgstr ""
+
+msgid "Lists"
+msgstr ""
+
+msgid "Loading your task lists…"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Manage your personal tasks"
+msgstr ""
+
+msgid "Meanwhile, spread the love"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Microsoft Exchange"
+msgstr ""
+
+msgid "Name of the task list"
+msgstr ""
+
+msgid "New task…"
+msgstr ""
+
+msgid "No date set"
+msgstr ""
+
+msgid "No extensions found"
+msgstr ""
+
+msgid "No more tasks left"
+msgstr ""
+
+msgid "No task completed today"
+msgstr ""
+
+msgid "No tasks"
+msgstr ""
+
+msgid "No tasks found"
+msgstr ""
+
+msgid "Nothing else to do here"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On This Computer"
+msgstr ""
+
+msgid "Once removed, the task lists cannot be recovered."
+msgstr ""
+
+msgid "Once removed, the tasks cannot be recovered."
+msgstr ""
+
+msgid "Or you can just store your tasks on this computer"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove task lists"
+msgstr ""
+
+msgid "Remove the selected task lists?"
+msgstr ""
+
+msgid "Removing this task will also remove its subtasks. Remove anyway?"
+msgstr ""
+
+msgid "Scheduled"
+msgstr ""
+
+msgid "Select a storage location"
+msgstr ""
+
+msgid "Show or hide completed tasks"
+msgstr ""
+
+msgid "Task <b>%s</b> removed"
+msgstr ""
+
+msgid "Task lists displayed on grid mode"
+msgstr ""
+
+msgid "Task lists displayed on list mode"
+msgstr ""
+
+msgid "Task manager for GNOME"
+msgstr ""
+
+msgid "Tasks"
+msgstr ""
+
+msgid "The current list selector"
+msgstr ""
+
+msgid "The identifier of the default provider to add new lists to"
+msgstr ""
+
+msgid "The list of active extensions"
+msgstr ""
+
+msgid "To Do"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Tomorrow"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Unscheduled"
+msgstr ""
+
+msgid "Unscheduled (%d)"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Window maximized"
+msgstr ""
+
+msgid "Window maximized state"
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window position (x and y)."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "Working hard is always rewarded"
+msgstr ""
+
+msgid "You can add tasks using the <b>+</b> above"
+msgstr ""
+
+msgid "You made it!"
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "ownCloud"
+msgstr ""
+
+msgctxt "taskdate"
+msgid "None"
+msgstr ""
+
+msgctxt "taskpriority"
+msgid "None"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

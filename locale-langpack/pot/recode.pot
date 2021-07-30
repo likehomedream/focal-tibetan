@@ -1,0 +1,324 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: recode 3.6\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2007-07-10 14:23+0000\n"
+"Last-Translator: Meng Jie <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:39+0000\n"
+"X-Poedit-Basepath: z:\\recode-3.6\n"
+
+msgid ""
+"\n"
+"Copyright (C) 1990, 92, 93, 94, 96, 97, 99 Free Software Foundation, Inc.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Fine tuning:\n"
+"  -s, --strict           use strict mappings, even loose characters\n"
+"  -d, --diacritics       convert only diacritics or alike for HTML/LaTeX\n"
+"  -S, --source[=LN]      limit recoding to strings and comments as for LN\n"
+"  -c, --colons           use colons instead of double quotes for diaeresis\n"
+"  -g, --graphics         approximate IBMPC rulers by ASCII graphics\n"
+"  -x, --ignore=CHARSET   ignore CHARSET while choosing a recoding path\n"
+msgstr ""
+
+msgid ""
+"\n"
+"If a long option shows an argument as mandatory, then it is mandatory\n"
+"for the equivalent short option also.  Similarly for optional arguments.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"If none of -i and -p are given, presume -p if no FILE, else -i.\n"
+"Each FILE is recoded over itself, destroying the original.  If no\n"
+"FILE is specified, then act as a filter and recode stdin to stdout.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Listings:\n"
+"  -l, --list[=FORMAT]        list one or all known charsets and aliases\n"
+"  -k, --known=PAIRS          restrict charsets according to known PAIRS list\n"
+"  -h, --header[=[LN/]NAME]   write table NAME on stdout using LN, then exit\n"
+"  -F, --freeze-tables        write out a C module holding all tables\n"
+"  -T, --find-subsets         report all charsets being subset of others\n"
+"  -C, --copyright            display Copyright and copying conditions\n"
+"      --help                 display this help and exit\n"
+"      --version              output version information and exit\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Operation modes:\n"
+"  -v, --verbose           explain sequence of steps and report progress\n"
+"  -q, --quiet, --silent   inhibit messages about irreversible recodings\n"
+"  -f, --force             force recodings even when not reversible\n"
+"  -t, --touch             touch the recoded files after replacement\n"
+"  -i, --sequence=files    use intermediate files for sequencing passes\n"
+"      --sequence=memory   use memory buffers for sequencing passes\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Option -l with no FORMAT nor CHARSET list available charsets and surfaces.\n"
+"FORMAT is `decimal', `octal', `hexadecimal' or `full' (or one of `dohf').\n"
+msgstr ""
+
+msgid ""
+"\n"
+"REQUEST is SUBREQUEST[,SUBREQUEST]...; SUBREQUEST is ENCODING[..ENCODING]...\n"
+"ENCODING is [CHARSET][/[SURFACE]]...; REQUEST often looks like BEFORE..AFTER,\n"
+"with BEFORE and AFTER being charsets.  An omitted CHARSET implies the usual\n"
+"charset; an omitted [/SURFACE]... means the implied surfaces for CHARSET; a /\n"
+"with an empty surface name means no surfaces at all.  See the manual.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Report bugs to <recode-bugs@iro.umontreal.ca>.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Usage: %s [OPTION]... [ [CHARSET] | REQUEST [FILE]... ]\n"
+msgstr ""
+
+msgid "  -p, --sequence=pipe     same as -i (on this system)\n"
+msgstr ""
+
+msgid "  -p, --sequence=pipe     use pipe machinery for sequencing passes\n"
+msgstr ""
+
+msgid " done\n"
+msgstr ""
+
+msgid " failed: %s in step `%s..%s'\n"
+msgstr ""
+
+msgid "%s failed: %s in step `%s..%s'"
+msgstr ""
+
+msgid "%s in step `%s..%s'"
+msgstr ""
+
+msgid "%s to %s"
+msgstr ""
+
+msgid "%sConversion table generated mechanically by Free `%s' %s"
+msgstr ""
+
+msgid "%sfor sequence %s.%s"
+msgstr ""
+
+msgid "*Unachievable*"
+msgstr ""
+
+msgid "*mere copy*"
+msgstr ""
+
+msgid "Ambiguous output"
+msgstr ""
+
+msgid "Cannot complete table from set of known pairs"
+msgstr ""
+
+msgid "Cannot invert given one-to-one table"
+msgstr ""
+
+msgid "Cannot list `%s', no names available for this charset"
+msgstr ""
+
+msgid "Charset %s already exists and is not %s"
+msgstr ""
+
+msgid "Charset `%s' is unknown or ambiguous"
+msgstr ""
+
+msgid "Child process wait status is 0x%0.2x"
+msgstr ""
+
+msgid "Codes %3d and %3d both recode to %3d"
+msgstr ""
+
+msgid "Dec  Oct Hex   UCS2  Mne  %s\n"
+msgstr ""
+
+msgid "Expecting `..' in request"
+msgstr ""
+
+msgid "Following diagnostics for `%s' to `%s'"
+msgstr ""
+
+msgid "Format `%s' is ambiguous"
+msgstr ""
+
+msgid "Format `%s' is unknown"
+msgstr ""
+
+msgid ""
+"Free `recode' converts files between various character sets and surfaces.\n"
+msgstr ""
+
+msgid "Identity recoding, not worth a table"
+msgstr ""
+
+msgid "Internal recoding bug"
+msgstr ""
+
+msgid "Invalid input"
+msgstr ""
+
+msgid ""
+"LN is some language, it may be `c', `perl' or `po'; `c' is the default.\n"
+msgstr ""
+
+msgid "Language `%s' is ambiguous"
+msgstr ""
+
+msgid "Language `%s' is unknown"
+msgstr ""
+
+msgid "Misuse of recoding library"
+msgstr ""
+
+msgid "No character recodes to %3d"
+msgstr ""
+
+msgid "No error"
+msgstr ""
+
+msgid "No table to print"
+msgstr ""
+
+msgid "No way to recode from `%s' to `%s'"
+msgstr ""
+
+msgid "Non canonical input"
+msgstr ""
+
+msgid "Pair no. %d: <%3d, %3d> conflicts with <%3d, %3d>"
+msgstr ""
+
+msgid "Recoding %s..."
+msgstr ""
+
+msgid "Recoding is too complex for a mere table"
+msgstr ""
+
+msgid "Request `%s' is erroneous"
+msgstr ""
+
+msgid "Request: %s\n"
+msgstr ""
+
+msgid "Required argument is missing"
+msgstr ""
+
+msgid "Resurfacer set more than once for `%s'"
+msgstr ""
+
+msgid "Sequence `%s' is ambiguous"
+msgstr ""
+
+msgid "Sequence `%s' is unknown"
+msgstr ""
+
+msgid "Shrunk to: %s\n"
+msgstr ""
+
+msgid "Sorry, no names available for `%s'"
+msgstr ""
+
+msgid "Step initialisation failed"
+msgstr ""
+
+msgid "Step initialisation failed (unprocessed options)"
+msgstr ""
+
+msgid "Symbol `%s' is unknown"
+msgstr ""
+
+msgid "Syntax is deprecated, please prefer `%s'"
+msgstr ""
+
+msgid "System detected problem"
+msgstr ""
+
+msgid ""
+"This is free software; see the source for copying conditions.  There is NO\n"
+"warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n"
+msgstr ""
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify\n"
+"it under the terms of the GNU General Public License as published by\n"
+"the Free Software Foundation; either version 2, or (at your option)\n"
+"any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful,\n"
+"but WITHOUT ANY WARRANTY; without even the implied warranty of\n"
+"MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the\n"
+"GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License\n"
+"along with this program; if not, write to the Free Software Foundation,\n"
+"Inc., 59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.\n"
+msgstr ""
+
+msgid "Try `%s %s' for more information.\n"
+msgstr ""
+
+msgid ""
+"UCS2   Mne   Description\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Unless DEFAULT_CHARSET is set in environment, CHARSET defaults to the locale\n"
+"dependent encoding, determined by LC_ALL, LC_CTYPE, LANG.\n"
+msgstr ""
+
+msgid "Unrecognised surface name `%s'"
+msgstr ""
+
+msgid "Unsurfacer set more than once for `%s'"
+msgstr ""
+
+msgid "Untranslatable input"
+msgstr ""
+
+msgid "Virtual memory exhausted"
+msgstr ""
+
+msgid "Virtual memory exhausted!"
+msgstr ""
+
+msgid ""
+"With -k, possible before charsets are listed for the given after CHARSET,\n"
+"both being tabular charsets, with PAIRS of the form `BEF1:AFT1,BEF2:AFT2,...'\n"
+"and BEFs and AFTs being codes are given as decimal numbers.\n"
+msgstr ""
+
+msgid "Written by Franc,ois Pinard <pinard@iro.umontreal.ca>.\n"
+msgstr ""
+
+msgid "byte"
+msgstr ""
+
+msgid "reversible"
+msgstr ""
+
+msgid "ucs2"
+msgstr ""
+
+msgid "variable"
+msgstr ""

@@ -1,0 +1,511 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-contacts master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-contacts/issues\n"
+"PO-Revision-Date: 2020-03-26 23:58+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:21+0000\n"
+
+msgid "%d Selected"
+msgid_plural "%d Selected"
+msgstr[0] ""
+
+msgid "%d contact deleted"
+msgid_plural "%d contacts deleted"
+msgstr[0] ""
+
+msgid "%d contacts linked"
+msgid_plural "%d contacts linked"
+msgstr[0] ""
+
+msgid "%s linked to %s"
+msgstr ""
+
+msgid "%s linked to the contact"
+msgstr ""
+
+msgid "A contacts manager for GNOME"
+msgstr ""
+
+msgid "AOL Instant Messenger"
+msgstr ""
+
+msgid "About Contacts"
+msgstr ""
+
+msgid "About GNOME Contacts"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add contact"
+msgstr ""
+
+msgid "Add email"
+msgstr ""
+
+msgid "Add name"
+msgstr ""
+
+msgid "Add number"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "All Contacts"
+msgstr ""
+
+msgid "Assistant"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Browse for more pictures"
+msgstr ""
+
+msgid "Callback"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel selection"
+msgstr ""
+
+msgid "Cancel setup and quit"
+msgstr ""
+
+msgid "Car"
+msgstr ""
+
+msgid "Change"
+msgstr ""
+
+msgid "Change Address Book"
+msgstr ""
+
+msgid "Change Address Book…"
+msgstr ""
+
+msgid "Change avatar"
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Contact Management Application"
+msgstr ""
+
+msgid "Contact not found"
+msgstr ""
+
+msgid "Contacts"
+msgstr ""
+
+msgid "Contacts Setup"
+msgstr ""
+
+msgid ""
+"Contacts keeps and organize your contacts information. You can create, edit,"
+" delete and link together pieces of information about your contacts. "
+"Contacts aggregates the details from all your sources providing a "
+"centralized place for managing your contacts."
+msgstr ""
+
+msgid ""
+"Contacts will also integrate with online address books and automatically "
+"link contacts from different online sources."
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Create new contact"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete field"
+msgstr ""
+
+msgid "Deleted contact %s"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Editing %s"
+msgstr ""
+
+msgid "Extension"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Failed to set avatar."
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Fax"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "First-time setup done."
+msgstr ""
+
+msgid "GNOME Contacts"
+msgstr ""
+
+msgid "Gadu-Gadu"
+msgstr ""
+
+msgid "Google"
+msgstr ""
+
+msgid "Google Circles"
+msgstr ""
+
+msgid "Google Talk"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Home Fax"
+msgstr ""
+
+msgid "IBM Lotus Sametime"
+msgstr ""
+
+msgid "ICQ"
+msgstr ""
+
+msgid "IRC"
+msgstr ""
+
+msgid "ISDN"
+msgstr ""
+
+msgid ""
+"If the window size has not been changed by the user yet this will be used as"
+" the initial value for the height of the window."
+msgstr ""
+
+msgid ""
+"If the window size has not been changed by the user yet this will be used as"
+" the initial value for the width of the window."
+msgstr ""
+
+msgid ""
+"If this is set to true, the list of contacts will be sorted on their "
+"surnames. Otherwise, it will be sorted on the first names of the contacts."
+msgstr ""
+
+msgid "Is the window maximized?"
+msgstr ""
+
+msgid "Is this the same person as %s from %s?"
+msgstr ""
+
+msgid "Is this the same person as %s?"
+msgstr ""
+
+msgid "Jabber"
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Link"
+msgstr ""
+
+msgid "Link Contacts"
+msgstr ""
+
+msgid "Linked Accounts"
+msgstr ""
+
+msgid "List contacts by:"
+msgstr ""
+
+msgid "Livejournal"
+msgstr ""
+
+msgid "Loading"
+msgstr ""
+
+msgid "Local Address Book"
+msgstr ""
+
+msgid "Local Contact"
+msgstr ""
+
+msgid "Local network"
+msgstr ""
+
+msgid "MXit"
+msgstr ""
+
+msgid "Mark as favorite"
+msgstr ""
+
+msgid "Mobile"
+msgstr ""
+
+msgid "MySpace"
+msgstr ""
+
+msgid "Napster"
+msgstr ""
+
+msgid "New Contact"
+msgstr ""
+
+msgid ""
+"New contacts will be added to the selected address book.\n"
+"You are able to view and edit contacts from other address books."
+msgstr ""
+
+msgid "Nickname"
+msgstr ""
+
+msgid "No contact with email address %s found"
+msgstr ""
+
+msgid "No contact with id %s found"
+msgstr ""
+
+msgid "No primary addressbook configured"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "Novell Groupwise"
+msgstr ""
+
+msgid "Online Accounts <sup>↗</sup>"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Ovi Chat"
+msgstr ""
+
+msgid "PO box"
+msgstr ""
+
+msgid "Pager"
+msgstr ""
+
+msgid "Personal"
+msgstr ""
+
+msgid "Phone number"
+msgstr ""
+
+msgid ""
+"Please select your main address book: this is where new contacts will be "
+"added. If you keep your contacts in an online account, you can add them "
+"using the online accounts settings."
+msgstr ""
+
+msgid "Radio"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "SILC"
+msgstr ""
+
+msgid "Select a File…"
+msgstr ""
+
+msgid "Select a contact"
+msgstr ""
+
+msgid "Set to true after the user has run the first-time setup wizard."
+msgstr ""
+
+msgid "Setup complete"
+msgstr ""
+
+msgid "Show contact with this email address"
+msgstr ""
+
+msgid "Show contact with this individual id"
+msgstr ""
+
+msgid "Show the current version of Contacts"
+msgstr ""
+
+msgid "Skype"
+msgstr ""
+
+msgid "Sort contacts on surname."
+msgstr ""
+
+msgid "State/Province"
+msgstr ""
+
+msgid "Stores if the window is currently maximized."
+msgstr ""
+
+msgid "Street"
+msgstr ""
+
+msgid "Surname"
+msgstr ""
+
+msgid "TTY"
+msgstr ""
+
+msgid "Take Another…"
+msgstr ""
+
+msgid "Take a Picture…"
+msgstr ""
+
+msgid "Telephony"
+msgstr ""
+
+msgid "Telex"
+msgstr ""
+
+msgid "Tencent QQ"
+msgstr ""
+
+msgid "The default height of the contacts window."
+msgstr ""
+
+msgid "The default width of the contacts window."
+msgstr ""
+
+msgid "Trepia"
+msgstr ""
+
+msgid "Type to search"
+msgstr ""
+
+msgid "Unable to create new contacts: %s"
+msgstr ""
+
+msgid "Unable to find newly created contact"
+msgstr ""
+
+msgid "Unable to take photo."
+msgstr ""
+
+msgid "Unlink"
+msgstr ""
+
+msgid "Unmark as favorite"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Windows Live Messenger"
+msgstr ""
+
+msgid "Work"
+msgstr ""
+
+msgid "Work Fax"
+msgstr ""
+
+msgid "Yahoo! Messenger"
+msgstr ""
+
+msgid "You can link contacts by selecting them from the contacts list"
+msgstr ""
+
+msgid "Zephyr"
+msgstr ""
+
+msgid "Zip/Postal Code"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "friends;address book;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Create a new contact"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Overview"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Search"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Shortcut list"
+msgstr ""
+
+msgid "sip"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid ""
+"© 2011 Red Hat, Inc.\n"
+"© 2011-2018 The Contacts Developers"
+msgstr ""

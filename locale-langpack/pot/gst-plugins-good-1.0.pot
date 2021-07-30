@@ -1,0 +1,330 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gst-plugins-good 1.15.1\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/\n"
+"PO-Revision-Date: 2020-04-04 21:03+0000\n"
+"Last-Translator: zwpwjwtz <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:50+0000\n"
+
+msgid "'%s' by '%s'"
+msgstr ""
+
+msgid ""
+"A network error occurred, or the server closed the connection unexpectedly."
+msgstr ""
+
+msgid "Audio playback error."
+msgstr ""
+
+msgid "Cannot identify device '%s'."
+msgstr ""
+
+msgid "Cannot operate without a clock"
+msgstr ""
+
+msgid "Cannot play stream because it is encrypted with PlayReady DRM."
+msgstr ""
+
+msgid "Changing resolution at runtime is not yet supported."
+msgstr ""
+
+msgid "Converter on device %s has no supported input format"
+msgstr ""
+
+msgid "Converter on device %s has no supported output format"
+msgstr ""
+
+msgid "CoreAudio device could not be opened"
+msgstr ""
+
+msgid "CoreAudio device not found"
+msgstr ""
+
+msgid "Could not connect to server"
+msgstr ""
+
+msgid "Could not dup device '%s' for reading and writing."
+msgstr ""
+
+msgid "Could not establish connection to server."
+msgstr ""
+
+msgid "Could not get parameters on device '%s'"
+msgstr ""
+
+msgid "Could not map buffers from device '%s'"
+msgstr ""
+
+msgid "Could not open audio device for playback."
+msgstr ""
+
+msgid ""
+"Could not open audio device for playback. Device is being used by another "
+"application."
+msgstr ""
+
+msgid ""
+"Could not open audio device for playback. This version of the Open Sound "
+"System is not supported by this element."
+msgstr ""
+
+msgid ""
+"Could not open audio device for playback. You don't have permission to open "
+"the device."
+msgstr ""
+
+msgid "Could not open audio device for recording."
+msgstr ""
+
+msgid ""
+"Could not open audio device for recording. You don't have permission to open"
+" the device."
+msgstr ""
+
+msgid "Could not open device '%s' for reading and writing."
+msgstr ""
+
+msgid "Could not resolve server name."
+msgstr ""
+
+msgid "Decoder on device %s has no supported input format"
+msgstr ""
+
+msgid "Decoder on device %s has no supported output format"
+msgstr ""
+
+msgid "Device '%s' cannot capture at %dx%d"
+msgstr ""
+
+msgid "Device '%s' cannot capture in the specified format"
+msgstr ""
+
+msgid "Device '%s' does not support %s colorimetry"
+msgstr ""
+
+msgid "Device '%s' does not support %s interlacing"
+msgstr ""
+
+msgid "Device '%s' does support non-contiguous planes"
+msgstr ""
+
+msgid "Device '%s' failed during initialization"
+msgstr ""
+
+msgid "Device '%s' has no supported format"
+msgstr ""
+
+msgid "Device '%s' is busy"
+msgstr ""
+
+msgid "Device '%s' is not a M2M device."
+msgstr ""
+
+msgid "Device '%s' is not a capture device."
+msgstr ""
+
+msgid "Device '%s' is not a output device."
+msgstr ""
+
+msgid "Device '%s' is not a tuner."
+msgstr ""
+
+msgid "Encoder on device %s has no supported input format"
+msgstr ""
+
+msgid "Encoder on device %s has no supported output format"
+msgstr ""
+
+msgid "Error getting capabilities for device '%s'."
+msgstr ""
+
+msgid ""
+"Error getting capabilities for device '%s': It isn't a v4l2 driver. Check if"
+" it is a v4l1 driver."
+msgstr ""
+
+msgid "Error reading %d bytes from device '%s'."
+msgstr ""
+
+msgid "Error recording from audio device."
+msgstr ""
+
+msgid "Failed getting controls attributes on device '%s'."
+msgstr ""
+
+msgid "Failed to allocate required memory."
+msgstr ""
+
+msgid "Failed to allocated required memory."
+msgstr ""
+
+msgid "Failed to change mute state for device '%s'."
+msgstr ""
+
+msgid ""
+"Failed to configure LAME mp3 audio encoder. Check your encoding parameters."
+msgstr ""
+
+msgid "Failed to configure TwoLAME encoder. Check your encoding parameters."
+msgstr ""
+
+msgid "Failed to configure internal buffer pool."
+msgstr ""
+
+msgid "Failed to decode JPEG image"
+msgstr ""
+
+msgid "Failed to enumerate possible video formats device '%s' can work with"
+msgstr ""
+
+msgid ""
+"Failed to get current input on device '%s'. May be it is a radio device"
+msgstr ""
+
+msgid ""
+"Failed to get current output on device '%s'. May be it is a radio device"
+msgstr ""
+
+msgid "Failed to get current tuner frequency for device '%s'."
+msgstr ""
+
+msgid "Failed to get radio input on device '%s'. "
+msgstr ""
+
+msgid "Failed to get setting of tuner %d on device '%s'."
+msgstr ""
+
+msgid "Failed to get settings of tuner %d on device '%s'."
+msgstr ""
+
+msgid "Failed to get signal strength for device '%s'."
+msgstr ""
+
+msgid "Failed to get value for control %d on device '%s'."
+msgstr ""
+
+msgid "Failed to process frame."
+msgstr ""
+
+msgid "Failed to query attributes of input %d in device %s"
+msgstr ""
+
+msgid "Failed to query norm on device '%s'."
+msgstr ""
+
+msgid "Failed to set current tuner frequency for device '%s' to %lu Hz."
+msgstr ""
+
+msgid "Failed to set input %d on device %s."
+msgstr ""
+
+msgid "Failed to set norm for device '%s'."
+msgstr ""
+
+msgid "Failed to set output %d on device %s."
+msgstr ""
+
+msgid "Failed to set value %d for control %d on device '%s'."
+msgstr ""
+
+msgid "Failed to start decoding thread."
+msgstr ""
+
+msgid "Failed to start encoding thread."
+msgstr ""
+
+msgid "Invalid atom size."
+msgstr ""
+
+msgid "Jack server not found"
+msgstr ""
+
+msgid "No URL set."
+msgstr ""
+
+msgid "No downstream pool to import from."
+msgstr ""
+
+msgid "No or invalid input audio, AVI stream will be corrupt."
+msgstr ""
+
+msgid ""
+"No supported stream was found. You might need to allow more transport "
+"protocols or may otherwise be missing the right GStreamer RTSP extension "
+"plugin."
+msgstr ""
+
+msgid ""
+"No supported stream was found. You might need to install a GStreamer RTSP "
+"extension plugin for Real media streams."
+msgstr ""
+
+msgid "Playback is not supported by this audio device."
+msgstr ""
+
+msgid "Recording is not supported by this audio device."
+msgstr ""
+
+msgid "Secure connection setup failed."
+msgstr ""
+
+msgid "Server does not support seeking."
+msgstr ""
+
+msgid "Server sent bad data."
+msgstr ""
+
+msgid "The driver of device '%s' does not support any known IO method."
+msgstr ""
+
+msgid "The driver of device '%s' does not support the IO method %d"
+msgstr ""
+
+msgid ""
+"The requested bitrate %d kbit/s for property '%s' is not allowed. The "
+"bitrate was changed to %d kbit/s."
+msgstr ""
+
+msgid "The video in this file might not play correctly."
+msgstr ""
+
+msgid "This file contains no playable streams."
+msgstr ""
+
+msgid "This file is corrupt and cannot be played."
+msgstr ""
+
+msgid "This file is incomplete and cannot be played."
+msgstr ""
+
+msgid "This file is invalid and cannot be played."
+msgstr ""
+
+msgid "This isn't a device '%s'."
+msgstr ""
+
+msgid "Video device did not accept new frame rate setting."
+msgstr ""
+
+msgid "Video device did not provide output format."
+msgstr ""
+
+msgid "Video device did not suggest any buffer size."
+msgstr ""
+
+msgid "Video device returned invalid dimensions."
+msgstr ""
+
+msgid "Video device uses an unsupported interlacing method."
+msgstr ""
+
+msgid "Video device uses an unsupported pixel format."
+msgstr ""

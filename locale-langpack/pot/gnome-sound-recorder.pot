@@ -1,0 +1,252 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-sound-recorder master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gnome-sound-recorder/issues\n"
+"PO-Revision-Date: 2019-09-22 01:45+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:05+0000\n"
+
+msgid "%d Recorded Sound"
+msgid_plural "%d Recorded Sounds"
+msgstr[0] ""
+
+msgid "%d day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+msgid "%d month ago"
+msgid_plural "%d months ago"
+msgstr[0] ""
+
+msgid "%d week ago"
+msgid_plural "%d weeks ago"
+msgstr[0] ""
+
+msgid "%d year ago"
+msgid_plural "%d years ago"
+msgstr[0] ""
+
+msgid "A simple, modern sound recorder for GNOME"
+msgstr ""
+
+msgid "About Sound Recorder"
+msgstr ""
+
+msgid "Add Recordings"
+msgstr ""
+
+msgid "Audio;Application;Record;"
+msgstr ""
+
+msgid "Available channels"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Clip %d"
+msgstr ""
+
+msgid "Date Created"
+msgstr ""
+
+msgid "Date Modified"
+msgstr ""
+
+msgid "Default mode"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "FLAC"
+msgstr ""
+
+msgctxt "File Name"
+msgid "Name"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Last month"
+msgstr ""
+
+msgid "Last week"
+msgstr ""
+
+msgid "Last year"
+msgstr ""
+
+msgid "Load More"
+msgstr ""
+
+msgid "MOV"
+msgstr ""
+
+msgid "MP3"
+msgstr ""
+
+msgid ""
+"Maps available channels. If there is not no mapping set, stereo channel will"
+" be used by default."
+msgstr ""
+
+msgid "Maps media types to audio encoder preset names."
+msgstr ""
+
+msgid ""
+"Maps media types to audio encoder preset names. If there is no mapping set, "
+"the default encoder settings will be used."
+msgstr ""
+
+msgctxt "Media Type"
+msgid "Type"
+msgstr ""
+
+msgid "Microphone"
+msgstr ""
+
+msgid "Microphone volume level"
+msgstr ""
+
+msgid "Microphone volume level."
+msgstr ""
+
+msgid "Mono"
+msgstr ""
+
+msgid "No Media Profile was set."
+msgstr ""
+
+msgid "No Recorded Sounds"
+msgstr ""
+
+msgid "Not all elements could be created."
+msgstr ""
+
+msgid "Not all of the elements were linked."
+msgstr ""
+
+msgid "Ogg Vorbis"
+msgstr ""
+
+msgid "Ogg Vorbis, Opus, FLAC, MP3 and MOV"
+msgstr ""
+
+msgid "Opus"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Please install the GStreamer 1.0 PulseAudio plugin."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preferred format"
+msgstr ""
+
+msgid "Record"
+msgstr ""
+
+msgid "Record sound via the microphone and play it back"
+msgstr ""
+
+msgid "Recordings"
+msgstr ""
+
+msgid "Recording…"
+msgstr ""
+
+msgid "Sound Recorder"
+msgstr ""
+
+msgid ""
+"Sound Recorder automatically handles the saving process so that you do not "
+"need to worry about accidentally discarding the previous recording."
+msgstr ""
+
+msgid ""
+"Sound Recorder provides a simple and modern interface that provides a "
+"straight-forward way to record and play audio. It allows you to do basic "
+"editing, and create voice memos."
+msgstr ""
+
+msgid "Sound Recorder started"
+msgstr ""
+
+msgid "SoundRecorder"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Speaker volume level"
+msgstr ""
+
+msgid "Speaker volume level."
+msgstr ""
+
+msgid "Stereo"
+msgstr ""
+
+msgid "Supported audio formats:"
+msgstr ""
+
+msgid "Unable to create Recordings directory."
+msgstr ""
+
+msgid "Unable to play recording"
+msgstr ""
+
+msgid ""
+"Unable to set the pipeline \n"
+" to the recording state."
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Use the <b>Record</b> button to make sound recordings"
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "Window position"
+msgstr ""
+
+msgid "Window position (x and y)."
+msgstr ""
+
+msgid "Window size"
+msgstr ""
+
+msgid "Window size (width and height)."
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid "Your audio capture settings are invalid."
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

@@ -1,0 +1,220 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xz-utils\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2009-10-26 12:49+0000\n"
+"Last-Translator: Chen Ming <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:17+0000\n"
+
+msgid ""
+"\n"
+" Basic file format and compression options:\n"
+msgstr ""
+
+msgid ""
+"\n"
+" Other options:\n"
+msgstr ""
+
+msgid ""
+"\n"
+"With no FILE, or when FILE is -, read standard input.\n"
+msgstr ""
+
+msgid ""
+"      --robot         use machine-parsable messages (useful for scripts)"
+msgstr ""
+
+msgid "  -Q, --no-warn       make warnings not affect the exit status"
+msgstr ""
+
+msgid "  -V, --version       display the version number and exit"
+msgstr ""
+
+msgid ""
+"  -h, --help          display the short help (lists only the basic options)\n"
+"  -H, --long-help     display this long help and exit"
+msgstr ""
+
+msgid ""
+"  -h, --help          display this short help and exit\n"
+"  -H, --long-help     display the long help (lists also the advanced options)"
+msgstr ""
+
+msgid ""
+"  -k, --keep          keep (don't delete) input files\n"
+"  -f, --force         force overwrite of output file and (de)compress links\n"
+"  -c, --stdout        write to standard output and don't delete input files"
+msgstr ""
+
+msgid " Operation mode:\n"
+msgstr ""
+
+msgid "%s home page: <%s>\n"
+msgstr ""
+
+msgid "%s: Cannot remove: %s"
+msgstr ""
+
+msgid "%s: Cannot set the file group: %s"
+msgstr ""
+
+msgid "%s: Cannot set the file owner: %s"
+msgstr ""
+
+msgid "%s: Cannot set the file permissions: %s"
+msgstr ""
+
+msgid "%s: Closing the file failed: %s"
+msgstr ""
+
+msgid "%s: Error reading filenames: %s"
+msgstr ""
+
+msgid "%s: File already has `%s' suffix, skipping"
+msgstr ""
+
+msgid "%s: File has setuid or setgid bit set, skipping"
+msgstr ""
+
+msgid "%s: File has sticky bit set, skipping"
+msgstr ""
+
+msgid "%s: File seems to have been moved, not removing"
+msgstr ""
+
+msgid "%s: Filename has an unknown suffix, skipping"
+msgstr ""
+
+msgid "%s: Input file has more than one hard link, skipping"
+msgstr ""
+
+msgid "%s: Invalid option name"
+msgstr ""
+
+msgid "%s: Invalid option value"
+msgstr ""
+
+msgid "%s: Is a directory, skipping"
+msgstr ""
+
+msgid "%s: Is a symbolic link, skipping"
+msgstr ""
+
+msgid "%s: Not a regular file, skipping"
+msgstr ""
+
+msgid ""
+"%s: Null character found when reading filenames; maybe you meant to use "
+"`--files0' instead of `--files'?"
+msgstr ""
+
+msgid "%s: Read error: %s"
+msgstr ""
+
+msgid "%s: Unexpected end of file"
+msgstr ""
+
+msgid "%s: Unexpected end of input when reading filenames"
+msgstr ""
+
+msgid "%s: Unknown file format type"
+msgstr ""
+
+msgid "%s: Unsupported integrity check type"
+msgstr ""
+
+msgid "%s: Value is not a non-negative decimal integer"
+msgstr ""
+
+msgid "%s: Write error: %s"
+msgstr ""
+
+msgid "Cannot establish signal handlers"
+msgstr ""
+
+msgid ""
+"Cannot read data from standard input when reading filenames from standard "
+"input"
+msgstr ""
+
+msgid "Compressed data cannot be read from a terminal"
+msgstr ""
+
+msgid "Compressed data cannot be written to a terminal"
+msgstr ""
+
+msgid "Compressed data is corrupt"
+msgstr ""
+
+msgid "Compression and decompression with --robot are not supported yet."
+msgstr ""
+
+msgid "Empty filename, skipping"
+msgstr ""
+
+msgid "File format not recognized"
+msgstr ""
+
+msgid "Internal error (bug)"
+msgstr ""
+
+msgid "LZMA1 cannot be used with the .xz format"
+msgstr ""
+
+msgid ""
+"Mandatory arguments to long options are mandatory for short options too.\n"
+msgstr ""
+
+msgid "Maximum number of filters is four"
+msgstr ""
+
+msgid "Memory usage limit is too low for the given filter setup."
+msgstr ""
+
+msgid "Memory usage limit reached"
+msgstr ""
+
+msgid "No integrity check; not verifying file integrity"
+msgstr ""
+
+msgid "Only one file can be specified with `--files' or `--files0'."
+msgstr ""
+
+msgid "The .lzma format supports only the LZMA1 filter"
+msgstr ""
+
+msgid "The exact options of the presets may vary between software versions."
+msgstr ""
+
+msgid "Try `%s --help' for more information."
+msgstr ""
+
+msgid "Unexpected end of input"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unsupported options"
+msgstr ""
+
+msgid "Unsupported type of integrity check; not verifying file integrity"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [FILE]...\n"
+"Compress or decompress FILEs in the .xz format.\n"
+"\n"
+msgstr ""
+
+msgid "Using a preset in raw mode is discouraged."
+msgstr ""

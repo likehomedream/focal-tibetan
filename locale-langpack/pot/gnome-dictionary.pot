@@ -1,0 +1,439 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-utils master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-dictionary&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 04:28+0000\n"
+"Last-Translator: Qizhi Zhou <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:37+0000\n"
+
+msgid "%s — Dictionary"
+msgstr ""
+
+msgid "2628"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Add Dictionary Source"
+msgstr ""
+
+msgid "Add a new dictionary source"
+msgstr ""
+
+msgid "Another search is in progress"
+msgstr ""
+
+msgid "Available St_rategies"
+msgstr ""
+
+msgid "Available strategies"
+msgstr ""
+
+msgid "Bad command “%s”"
+msgstr ""
+
+msgid "Bad parameters for command “%s”"
+msgstr ""
+
+msgid "C_ancel"
+msgstr ""
+
+msgid "Check word definitions and spellings in an online dictionary"
+msgstr ""
+
+msgid "Clear the list of available databases"
+msgstr ""
+
+msgid "Clear the list of available strategies"
+msgstr ""
+
+msgid "Clear the list of similar words"
+msgstr ""
+
+msgid "Connection failed to the dictionary server at %s:%d"
+msgstr ""
+
+msgid "Connection timeout for the dictionary server at “%s:%d”"
+msgstr ""
+
+msgid "Database to use"
+msgstr ""
+
+msgid "Default Dictionary Server"
+msgstr ""
+
+msgid "Dictionaries"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Dictionary Preferences"
+msgstr ""
+
+msgid "Dictionary Sources"
+msgstr ""
+
+msgid "Dictionary source does not have name"
+msgstr ""
+
+msgid "Dictionary source to use"
+msgstr ""
+
+msgid "Dictionary source “%s” has invalid transport “%s”"
+msgstr ""
+
+msgid "Dictionary sources"
+msgstr ""
+
+msgid "Double-click on the matching strategy to use"
+msgstr ""
+
+msgid "Double-click on the source to use"
+msgstr ""
+
+msgid "Double-click on the word to look up"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Edit Dictionary Source"
+msgstr ""
+
+msgid "Edit the currently selected dictionary source"
+msgstr ""
+
+msgid "Error while looking up definition"
+msgstr ""
+
+msgid "Error while matching"
+msgstr ""
+
+msgid ""
+"Error while reading reply from server:\n"
+"%s"
+msgstr ""
+
+msgid "Error while retrieving the definition"
+msgstr ""
+
+msgid "Error while writing to “%s”"
+msgstr ""
+
+msgid "FLAGS"
+msgstr ""
+
+msgid "GDict Options"
+msgstr ""
+
+msgid "GDict debugging flags to set"
+msgstr ""
+
+msgid "GDict debugging flags to unset"
+msgstr ""
+
+msgid "GNOME Dictionary"
+msgstr ""
+
+msgid ""
+"GNOME Dictionary is a simple dictionary application that looks up "
+"definitions of words online. Though it looks up English definitions by "
+"default, you can easily switch to Spanish or add other online dictionaries "
+"using the DICT protocol to suit your needs."
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Invalid database “%s”"
+msgstr ""
+
+msgid "Invalid strategy “%s”"
+msgstr ""
+
+msgid "Invalid transport type “%d”"
+msgstr ""
+
+msgid "Longdo Thai-English Dictionaries"
+msgstr ""
+
+msgid "Look up words in dictionaries"
+msgstr ""
+
+msgid "Lookup failed for host “%s”: %s"
+msgstr ""
+
+msgid "Lookup failed for host “%s”: host not found"
+msgstr ""
+
+msgid "Lookup failed for hostname “%s”: no suitable resources found"
+msgstr ""
+
+msgid "NAME"
+msgstr ""
+
+msgid "No connection to the dictionary server at “%s:%d”"
+msgstr ""
+
+msgid "No context available for source “%s”"
+msgstr ""
+
+msgid "No databases found on dictionary server at “%s”"
+msgstr ""
+
+msgid "No definitions found for “%s”"
+msgstr ""
+
+msgid "No dictionary source available with name “%s”"
+msgstr ""
+
+msgid "No hostname defined for the dictionary server"
+msgstr ""
+
+msgid "No strategies found on dictionary server at “%s”"
+msgstr ""
+
+msgid "No “%s” group found inside the dictionary source definition"
+msgstr ""
+
+msgid "P_review"
+msgstr ""
+
+msgid "Please wait until the current search ends."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Reload the list of available databases"
+msgstr ""
+
+msgid "Reload the list of available sources"
+msgstr ""
+
+msgid "Reload the list of available strategies"
+msgstr ""
+
+msgid "Remove the currently selected dictionary source"
+msgstr ""
+
+msgid "Remove “%s”?"
+msgstr ""
+
+msgid "Save a Copy"
+msgstr ""
+
+msgid "Set the font used for printing the definitions"
+msgstr ""
+
+msgid "Show GDict Options"
+msgstr ""
+
+msgid "Similar _Words"
+msgstr ""
+
+msgid "Similar words"
+msgstr ""
+
+msgid "Source"
+msgstr ""
+
+msgid "Source Name"
+msgstr ""
+
+msgid "Spanish Dictionaries"
+msgstr ""
+
+msgid "Strategies"
+msgstr ""
+
+msgid "Strategy to use"
+msgstr ""
+
+msgid "The default database to use"
+msgstr ""
+
+msgid "The default search strategy to use"
+msgstr ""
+
+msgid "The font to be used when printing"
+msgstr ""
+
+msgid "The font to be used when printing a definition."
+msgstr ""
+
+msgid ""
+"The name of the default individual database or meta-database to use on a "
+"dictionary source. An exclamation mark (“!”) means that all the databases "
+"present in a dictionary source should be searched"
+msgstr ""
+
+msgid ""
+"The name of the default search strategy to use on a dictionary source, if "
+"available. The default strategy is “exact”, that is match exact words."
+msgstr ""
+
+msgid "The name of the dictionary source used"
+msgstr ""
+
+msgid ""
+"The name of the dictionary source used to retrieve the definitions of words."
+msgstr ""
+
+msgid "There was an error while displaying help"
+msgstr ""
+
+msgid "This will permanently remove the dictionary source from the list."
+msgstr ""
+
+msgid "Unable to connect to the dictionary server at “%s:%d”"
+msgstr ""
+
+msgid ""
+"Unable to connect to the dictionary server at “%s:%d”. The server replied "
+"with code %d (server down)"
+msgstr ""
+
+msgid "Unable to create a context"
+msgstr ""
+
+msgid "Unable to create a source file"
+msgstr ""
+
+msgid "Unable to create socket"
+msgstr ""
+
+msgid "Unable to display the preview: %s"
+msgstr ""
+
+msgid "Unable to find dictionary source"
+msgstr ""
+
+msgid ""
+"Unable to get the “%s” key inside the dictionary source definition file: %s"
+msgstr ""
+
+msgid "Unable to get the “%s” key inside the dictionary source definition: %s"
+msgstr ""
+
+msgid ""
+"Unable to parse the dictionary server reply\n"
+": “%s”"
+msgstr ""
+
+msgid "Unable to remove source “%s”"
+msgstr ""
+
+msgid "Unable to save source file"
+msgstr ""
+
+msgid "Unable to set the channel as non-blocking: %s"
+msgstr ""
+
+msgid "Untitled document"
+msgstr ""
+
+msgid "View Dictionary Source"
+msgstr ""
+
+msgid "WORD"
+msgstr ""
+
+msgid "WORDS"
+msgstr ""
+
+msgid "Words to look up"
+msgstr ""
+
+msgid "Words to match"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Description"
+msgstr ""
+
+msgid "_Find"
+msgstr ""
+
+msgid "_First Definition"
+msgstr ""
+
+msgid "_Go"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hostname"
+msgstr ""
+
+msgid "_Last Definition"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_Next Definition"
+msgstr ""
+
+msgid "_Port"
+msgstr ""
+
+msgid "_Previous Definition"
+msgstr ""
+
+msgid "_Print"
+msgstr ""
+
+msgid "_Print font:"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save a Copy…"
+msgstr ""
+
+msgid "_Select a dictionary source for looking up words:"
+msgstr ""
+
+msgid "_Sidebar"
+msgstr ""
+
+msgid "_Transport"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "dict.org"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "word;synonym;definition;spelling;"
+msgstr ""

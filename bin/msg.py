@@ -30,5 +30,21 @@ def decompress(files: List[Path]):
             print(str(file) + "is not exists or invalid type.")
 
 
+@msg.command()
+def generate_template(files: List[Path], directory: str):
+    for file in files:
+        if file.exists() and file.suffix == ".po":
+            pot_file = Path(directory) / file.with_suffix(".pot").name
+            pot = pofile(str(file))
+            pot.metadata['Language'] = "en_US"
+            for entry in pot:
+                if entry.msgid_plural:
+                    for i in range(0, len(entry.msgstr_plural)):
+                        entry.msgstr_plural[i] = ""
+                else:
+                    entry.msgstr = ""
+            pot.save(str(pot_file))
+
+
 if __name__ == '__main__':
     msg()

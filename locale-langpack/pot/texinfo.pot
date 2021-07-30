@@ -1,0 +1,850 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: texinfo 6.3.92\n"
+"Report-Msgid-Bugs-To: bug-texinfo@gnu.org\n"
+"PO-Revision-Date: 2020-04-03 10:26+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:31+0000\n"
+
+msgid "\tTry `%s --help' for a complete list of options.\n"
+msgstr ""
+
+msgid ""
+"   Source files groveled to make this file include:\n"
+"\n"
+msgstr ""
+
+msgid ""
+" --silent            suppress warnings.\n"
+" --test              suppress updating of DIR-FILE.\n"
+" --version           display version information and exit."
+msgstr ""
+
+msgid " backward"
+msgstr ""
+
+msgid " case-sensitively"
+msgstr ""
+
+msgid "\"%s\" is invalid"
+msgstr ""
+
+msgid "\"%s\", line %u: "
+msgstr ""
+
+msgid "%c%s requires a name"
+msgstr ""
+
+msgid "%s requires an argument: the formatter for %citem"
+msgstr ""
+
+msgid "%s%s%s [%s]: "
+msgstr ""
+
+msgid "%s: --footnote-style arg must be `separate' or `end', not `%s'.\n"
+msgstr ""
+
+msgid "%s: --paragraph-indent arg must be numeric/`none'/`asis', not `%s'.\n"
+msgstr ""
+
+msgid "%s: Specify the Info file only once.\n"
+msgstr ""
+
+msgid "%s: already have dir file: %s\n"
+msgstr ""
+
+msgid "%s: empty file"
+msgstr ""
+
+msgid "%s: missing file argument.\n"
+msgstr ""
+
+msgid "---------- Footnotes ----------"
+msgstr ""
+
+msgid "-----Info: (), lines ----, "
+msgstr ""
+
+msgid "1...9       Pick the first...ninth item in this node's menu.\n"
+msgstr ""
+
+msgid "@%s missing closing brace"
+msgstr ""
+
+msgid "@%s not meaningful inside `@%s' block"
+msgstr ""
+
+msgid "@%s not meaningful outside `@titlepage' and `@quotation' environments"
+msgstr ""
+
+msgid "@image file `%s' unreadable: %s"
+msgstr ""
+
+msgid "@image missing filename argument"
+msgstr ""
+
+msgid ""
+"@strong{Note...} produces a spurious cross-reference in Info; reword to "
+"avoid that"
+msgstr ""
+
+msgid "Accept (or force completion of) this line"
+msgstr ""
+
+msgid "Add or remove entries in INFO-FILE from the Info directory DIR-FILE."
+msgstr ""
+
+msgid "Add this digit to the current numeric argument"
+msgstr ""
+
+msgid "Basic Info command keys\n"
+msgstr ""
+
+msgid "Building completions..."
+msgstr ""
+
+msgid "Cancel current operation"
+msgstr ""
+
+msgid "Cancel or quit operation"
+msgstr ""
+
+msgid "Cannot delete a permanent window"
+msgstr ""
+
+msgid "Cannot find a window!"
+msgstr ""
+
+msgid ""
+"Commands available in Info windows:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"Commands available in the echo area:\n"
+"\n"
+msgstr ""
+
+msgid "Controls what happens when scrolling is requested at the end of a node"
+msgstr ""
+
+msgid "Controls whether scroll-behavior affects cursor movement commands"
+msgstr ""
+
+msgid ""
+"Copyright (C) %s Free Software Foundation, Inc.\n"
+"License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>\n"
+"This is free software: you are free to change and redistribute it.\n"
+"There is NO WARRANTY, to the extent permitted by law.\n"
+msgstr ""
+
+msgid "Could not read %s."
+msgstr ""
+
+msgid "Couldn't manipulate the file %s.\n"
+msgstr ""
+
+msgid "Delete all other windows"
+msgstr ""
+
+msgid "Delete the character behind the cursor"
+msgstr ""
+
+msgid "Delete the character under the cursor"
+msgstr ""
+
+msgid "Delete the current window"
+msgstr ""
+
+msgid "Describe command: "
+msgstr ""
+
+msgid "Describe key: %s"
+msgstr ""
+
+msgid "Describe variable: "
+msgstr ""
+
+msgid "Display help message"
+msgstr ""
+
+msgid "Divide the available screen space among the visible windows"
+msgstr ""
+
+msgid "END-INFO-DIR-ENTRY without matching START-INFO-DIR-ENTRY"
+msgstr ""
+
+msgid ""
+"Email bug reports to bug-texinfo@gnu.org,\n"
+"general questions and discussion to help-texinfo@gnu.org.\n"
+"Texinfo home page: http://www.gnu.org/software/texinfo/"
+msgstr ""
+
+msgid "Error in regular expression `%s': %s"
+msgstr ""
+
+msgid "Explain the use of a variable"
+msgstr ""
+
+msgid "Extra regular expression specified, ignoring `%s'"
+msgstr ""
+
+msgid "Failing "
+msgstr ""
+
+msgid "Find Invocation node of [%s]: "
+msgstr ""
+
+msgid "Find file: "
+msgstr ""
+
+msgid "Find the node describing program invocation"
+msgstr ""
+
+msgid "Finding index entries..."
+msgstr ""
+
+msgid "Follow menus: "
+msgstr ""
+
+msgid "Follow xref (%s): "
+msgstr ""
+
+msgid "Follow xref: "
+msgstr ""
+
+msgid "Footnotes could not be displayed"
+msgstr ""
+
+msgid "GNU Info version %s"
+msgstr ""
+
+msgid "Get Manpage: "
+msgstr ""
+
+msgid "Goto node: "
+msgstr ""
+
+msgid "Grovel all known info file's indices for a string and build a menu"
+msgstr ""
+
+msgid "Grow (or shrink) this window"
+msgstr ""
+
+msgid "I-search backward: "
+msgstr ""
+
+msgid "I-search: "
+msgstr ""
+
+msgid "Index entry: "
+msgstr ""
+
+msgid "Insert a TAB character"
+msgstr ""
+
+msgid "Insert completion"
+msgstr ""
+
+msgid "Insert next character verbatim"
+msgstr ""
+
+msgid "Kill ring is empty"
+msgstr ""
+
+msgid "Kill the word following the cursor"
+msgstr ""
+
+msgid "Kill the word preceding the cursor"
+msgstr ""
+
+msgid "Kill to the beginning of the line"
+msgstr ""
+
+msgid "Kill to the end of the line"
+msgstr ""
+
+msgid "List possible completions"
+msgstr ""
+
+msgid "Look up a string in the index for this file"
+msgstr ""
+
+msgid "Make a window containing a menu of all of the currently visited nodes"
+msgstr ""
+
+msgid "Menu item (%s): "
+msgstr ""
+
+msgid "Menu item: "
+msgstr ""
+
+msgid "Move backward a character"
+msgstr ""
+
+msgid "Move backward a word"
+msgstr ""
+
+msgid "Move backwards or up through node structure"
+msgstr ""
+
+msgid "Move down to the next line"
+msgstr ""
+
+msgid "Move forward a character"
+msgstr ""
+
+msgid "Move forward a word"
+msgstr ""
+
+msgid "Move forwards or down through node structure"
+msgstr ""
+
+msgid "Move the cursor to a specific line of the window"
+msgstr ""
+
+msgid "Move to the end of the line"
+msgstr ""
+
+msgid "Move to the end of this line"
+msgstr ""
+
+msgid "Move to the end of this node"
+msgstr ""
+
+msgid "Move to the next cross reference"
+msgstr ""
+
+msgid "Move to the previous cross reference"
+msgstr ""
+
+msgid "Move to the start of the line"
+msgstr ""
+
+msgid "Move to the start of this line"
+msgstr ""
+
+msgid "Move to the start of this node"
+msgstr ""
+
+msgid "Move to the start of this node's menu"
+msgstr ""
+
+msgid "Move up to the previous line"
+msgstr ""
+
+msgid "NUL character (\\000) not permitted"
+msgstr ""
+
+msgid "NUL character (^%c) not permitted"
+msgstr ""
+
+msgid "No completions"
+msgstr ""
+
+msgid "No dir file specified; try --help for more information."
+msgstr ""
+
+msgid "No file index"
+msgstr ""
+
+msgid "No indices found."
+msgstr ""
+
+msgid "No input file specified; try --help for more information."
+msgstr ""
+
+msgid "No previous search string"
+msgstr ""
+
+msgid "Not complete"
+msgstr ""
+
+msgid "Only @%s 10 or 11 is supported, not `%s'"
+msgstr ""
+
+msgid ""
+"Options for Info and plain text:\n"
+"      --disable-encoding      do not output accented and special characters\n"
+"                                in Info output based on @documentencoding.\n"
+"      --enable-encoding       override --disable-encoding (default).\n"
+"      --fill-column=NUM       break Info lines at NUM characters (default %d).\n"
+"      --footnote-style=STYLE  output footnotes in Info according to STYLE:\n"
+"                                `separate' to put them in their own node;\n"
+"                                `end' to put them at the end of the node, in\n"
+"                                which they are defined (this is the default).\n"
+"      --paragraph-indent=VAL  indent Info paragraphs by VAL spaces (default %d).\n"
+"                                If VAL is `none', do not indent; if VAL is\n"
+"                                `asis', preserve existing indentation.\n"
+"      --split-size=NUM        split Info files at size NUM (default %d).\n"
+msgstr ""
+
+msgid "Pipe the contents of this node through INFO_PRINT_COMMAND"
+msgstr ""
+
+msgid "Point doesn't appear within this window's node!"
+msgstr ""
+
+msgid "Print documentation for KEY"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Quit using Info"
+msgstr ""
+
+msgid "Read a command name in the echo area and execute it"
+msgstr ""
+
+msgid "Read a footnote or cross reference and select its node"
+msgstr ""
+
+msgid "Read a list of menus starting from dir and follow them"
+msgstr ""
+
+msgid "Read a manpage reference and select it"
+msgstr ""
+
+msgid "Read a menu item and select its node"
+msgstr ""
+
+msgid "Read a node name and select it"
+msgstr ""
+
+msgid "Read a string and search backward for it"
+msgstr ""
+
+msgid "Read a string and search for it"
+msgstr ""
+
+msgid "Read a string and search for it case-sensitively"
+msgstr ""
+
+msgid "Read the name of a file and select it"
+msgstr ""
+
+msgid "Read the name of an Info command and describe it"
+msgstr ""
+
+msgid "Redraw the display"
+msgstr ""
+
+msgid "Regexp I-search backward: "
+msgstr ""
+
+msgid "Regexp I-search: "
+msgstr ""
+
+msgid "Regexp search"
+msgstr ""
+
+msgid "Repeat last search in the reverse direction"
+msgstr ""
+
+msgid "Repeat last search in the same direction"
+msgstr ""
+
+msgid "Run command bound to this key's lowercase variant"
+msgstr ""
+
+msgid "START-INFO-DIR-ENTRY without matching END-INFO-DIR-ENTRY"
+msgstr ""
+
+msgid "Same as scroll-behaviour"
+msgstr ""
+
+msgid "Scroll backward in this window"
+msgstr ""
+
+msgid "Scroll backward in this window and set default window size"
+msgstr ""
+
+msgid "Scroll backward in this window staying within node"
+msgstr ""
+
+msgid ""
+"Scroll backward in this window staying within node and set default window "
+"size"
+msgstr ""
+
+msgid "Scroll down by half screen size"
+msgstr ""
+
+msgid "Scroll down by lines"
+msgstr ""
+
+msgid "Scroll forward in this window"
+msgstr ""
+
+msgid "Scroll forward in this window and set default window size"
+msgstr ""
+
+msgid "Scroll forward in this window staying within node"
+msgstr ""
+
+msgid ""
+"Scroll forward in this window staying within node and set default window "
+"size"
+msgstr ""
+
+msgid "Scroll the completions window"
+msgstr ""
+
+msgid "Scroll the other window"
+msgstr ""
+
+msgid "Scroll the other window backward"
+msgstr ""
+
+msgid "Scroll up by half screen size"
+msgstr ""
+
+msgid "Scroll up by lines"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search interactively for a string as you type it"
+msgstr ""
+
+msgid "Searching subfile %s ..."
+msgstr ""
+
+msgid "Select a node which has been previously visited in a visible window"
+msgstr ""
+
+msgid "Select reference or menu item appearing on this line"
+msgstr ""
+
+msgid "Select the Next node"
+msgstr ""
+
+msgid "Select the Prev node"
+msgstr ""
+
+msgid "Select the Up node"
+msgstr ""
+
+msgid "Select the first node in this file"
+msgstr ""
+
+msgid "Select the last item in this node's menu"
+msgstr ""
+
+msgid "Select the last node in this file"
+msgstr ""
+
+msgid "Select the most recently selected node"
+msgstr ""
+
+msgid "Select the next window"
+msgstr ""
+
+msgid "Select the previous window"
+msgstr ""
+
+msgid "Select this menu item"
+msgstr ""
+
+msgid "Select visited node: "
+msgstr ""
+
+msgid "Set %s to value (%d): "
+msgstr ""
+
+msgid "Set %s to value (%s): "
+msgstr ""
+
+msgid "Set screen height to (%d): "
+msgstr ""
+
+msgid "Set the height of the displayed window"
+msgstr ""
+
+msgid "Set the value of an Info variable"
+msgstr ""
+
+msgid "Set variable: "
+msgstr ""
+
+msgid "Show the footnotes associated with this node in another window"
+msgstr ""
+
+msgid "Show what to type to execute a given command"
+msgstr ""
+
+msgid "Sole completion"
+msgstr ""
+
+msgid "Split the current window"
+msgstr ""
+
+msgid "Start (or multiply by 4) the current numeric argument"
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "The current search path is:\n"
+msgstr ""
+
+msgid ""
+"The following commands can only be invoked via %s:\n"
+"\n"
+msgstr ""
+
+msgid ""
+"The following commands cannot be invoked at all:\n"
+"\n"
+msgstr ""
+
+msgid "The number lines to scroll when the cursor moves out of the window"
+msgstr ""
+
+msgid "The reference disappeared! (%s)."
+msgstr ""
+
+msgid "This window has no additional nodes"
+msgstr ""
+
+msgid "Toggle the state of line wrapping in the current window"
+msgstr ""
+
+msgid "Toggle the usage of regular expressions in searches"
+msgstr ""
+
+msgid "Trailing backslash"
+msgstr ""
+
+msgid "Transpose characters at point"
+msgstr ""
+
+msgid "Try --help for more information.\n"
+msgstr ""
+
+msgid "Try `%s --help' for more information.\n"
+msgstr ""
+
+msgid "Unknown system error"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... TEXINFO-FILE...\n"
+msgstr ""
+
+msgid "Usage: %s [OPTION]... [INFO-FILE [DIR-FILE]]\n"
+msgstr ""
+
+msgid ""
+"Usage: %s [OPTION]... [MENU-ITEM...]\n"
+"\n"
+"Read documentation in Info format.\n"
+msgstr ""
+
+msgid "Visit as many menu items at once as possible"
+msgstr ""
+
+msgid ""
+"What to do when a scrolling command is issued at the end of the last node"
+msgstr ""
+
+msgid "When \"On\", Info accepts and displays ISO Latin characters"
+msgstr ""
+
+msgid "When \"On\", Info garbage collects files which had to be uncompressed"
+msgstr ""
+
+msgid "When \"On\", creating or deleting a window resizes other windows"
+msgstr ""
+
+msgid "When \"On\", errors cause the bell to ring"
+msgstr ""
+
+msgid "When \"On\", flash the screen instead of ringing the bell"
+msgstr ""
+
+msgid "When \"On\", footnotes appear and disappear automatically"
+msgstr ""
+
+msgid "When \"On\", the portion of the matched search string is highlighted"
+msgstr ""
+
+msgid "Where is command: "
+msgstr ""
+
+msgid "Yank back a previous kill"
+msgstr ""
+
+msgid "Yank back the contents of the last kill"
+msgstr ""
+
+msgid "\\%-10[abort-key]  Cancel the current operation.\n"
+msgstr ""
+
+msgid "\\%-10[beginning-of-node]  Go to the beginning of this node.\n"
+msgstr ""
+
+msgid "\\%-10[end-of-node]  Go to the end of this node.\n"
+msgstr ""
+
+msgid "\\%-10[get-info-help-node]  Invoke the Info tutorial.\n"
+msgstr ""
+
+msgid "\\%-10[global-next-node]  Go to the next node in the document.\n"
+msgstr ""
+
+msgid "\\%-10[global-prev-node]  Go to the previous node in the document.\n"
+msgstr ""
+
+msgid "\\%-10[goto-node]  Go to a node specified by name.\n"
+msgstr ""
+
+msgid "\\%-10[history-node]  Go back to the last node seen in this window.\n"
+msgstr ""
+
+msgid ""
+"\\%-10[index-search]  Search for a specified string in the index, and\n"
+"              select the node referenced by the first entry found.\n"
+msgstr ""
+
+msgid "\\%-10[last-menu-item]  Pick the last item in this node's menu.\n"
+msgstr ""
+
+msgid "\\%-10[menu-item]  Pick a menu item specified by name.\n"
+msgstr ""
+
+msgid "\\%-10[move-to-next-xref]  Skip to the next hypertext link.\n"
+msgstr ""
+
+msgid "\\%-10[next-line]  Move down one line.\n"
+msgstr ""
+
+msgid "\\%-10[next-node]  Go to the next node on this level.\n"
+msgstr ""
+
+msgid "\\%-10[prev-line]  Move up one line.\n"
+msgstr ""
+
+msgid "\\%-10[prev-node]  Go to the previous node on this level.\n"
+msgstr ""
+
+msgid "\\%-10[quit-help]  Close this help window.\n"
+msgstr ""
+
+msgid "\\%-10[quit]  Quit Info altogether.\n"
+msgstr ""
+
+msgid "\\%-10[scroll-backward]  Scroll backward one screenful.\n"
+msgstr ""
+
+msgid "\\%-10[scroll-forward]  Scroll forward one screenful.\n"
+msgstr ""
+
+msgid "\\%-10[search-next]  Search for next occurrence.\n"
+msgstr ""
+
+msgid "\\%-10[search-previous]  Search for previous occurrence.\n"
+msgstr ""
+
+msgid "\\%-10[search]  Search forward for a specified string.\n"
+msgstr ""
+
+msgid ""
+"\\%-10[select-reference-this-line]  Follow the hypertext link under the "
+"cursor.\n"
+msgstr ""
+
+msgid "\\%-10[top-node]  Go to the top node of this document.\n"
+msgstr ""
+
+msgid "\\%-10[up-node]  Go up one level.\n"
+msgstr ""
+
+msgid "\\%-10[xref-item]  Follow a cross reference specified by name.\n"
+msgstr ""
+
+msgid "`@end' expected `%s', but saw `%s'"
+msgstr ""
+
+msgid "action name too long"
+msgstr ""
+
+msgid "excess command line argument `%s'"
+msgstr ""
+
+msgid "extra characters following action `%s'"
+msgstr ""
+
+msgid "here is the previous definition of `%s'"
+msgstr ""
+
+msgid "ignoring @tab outside of multitable"
+msgstr ""
+
+msgid "invalid number: %s\n"
+msgstr ""
+
+msgid "key sequence too long"
+msgstr ""
+
+msgid "macro `%s' previously defined"
+msgstr ""
+
+msgid "memory exhausted"
+msgstr ""
+
+msgid "missing `=' immediately after variable name"
+msgstr ""
+
+msgid "missing action name"
+msgstr ""
+
+msgid "missing key sequence"
+msgstr ""
+
+msgid "missing variable name"
+msgstr ""
+
+msgid "multiple @%s"
+msgstr ""
+
+msgid "no entries found for `%s'; nothing deleted"
+msgstr ""
+
+msgid "no info dir entry in `%s'"
+msgstr ""
+
+msgid ""
+"perhaps your @top node should be wrapped in @ifnottex rather than @ifinfo?"
+msgstr ""
+
+msgid "regexp error: %s"
+msgstr ""
+
+msgid "undefined flag: %s"
+msgstr ""
+
+msgid "unknown action `%s'"
+msgstr ""
+
+msgid "unrecognized encoding name `%s'"
+msgstr ""
+
+msgid "unreferenced node `%s'"
+msgstr ""
+
+msgid "value too long"
+msgstr ""
+
+msgid "variable name too long"
+msgstr ""

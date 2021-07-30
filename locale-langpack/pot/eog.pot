@@ -1,0 +1,1117 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eog master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/eog/issues\n"
+"PO-Revision-Date: 2019-08-12 18:23+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:58+0000\n"
+
+msgid " (invalid Unicode)"
+msgstr ""
+
+msgid "%.1f (35mm film)"
+msgstr ""
+
+msgid "%.1f (lens)"
+msgstr ""
+
+msgid "%X"
+msgstr ""
+
+msgid "%a, %d %B %Y"
+msgstr ""
+
+msgid "%a, %d %B %Y  %X"
+msgstr ""
+
+msgid "%d / %d"
+msgstr ""
+
+msgid "%d%%"
+msgstr ""
+
+msgid "%i × %i pixel"
+msgid_plural "%i × %i pixels"
+msgstr[0] ""
+
+msgid "%i × %i pixel  %s    %i%%"
+msgid_plural "%i × %i pixels  %s    %i%%"
+msgstr[0] ""
+
+msgid "%lu second"
+msgid_plural "%lu seconds"
+msgstr[0] ""
+
+msgid "%s (*.%s)"
+msgstr ""
+
+msgid "<b>%f:</b> original filename"
+msgstr ""
+
+msgid "<b>%n:</b> counter"
+msgstr ""
+
+msgid ""
+"A trash for “%s” couldn’t be found. Do you want to remove this image "
+"permanently?"
+msgstr ""
+
+msgid ""
+"A value greater than 0 determines the seconds an image stays on screen until"
+" the next one is shown automatically. Zero disables the automatic browsing."
+msgstr ""
+
+msgid "Activate fullscreen mode with double-click"
+msgstr ""
+
+msgid "Active plugins"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "Allow zoom greater than 100% initially"
+msgstr ""
+
+msgid "Aperture"
+msgstr ""
+
+msgid "Aperture Value:"
+msgstr ""
+
+msgid ""
+"Are you sure you want to move\n"
+"the selected image to the trash?"
+msgid_plural ""
+"Are you sure you want to move\n"
+"the %d selected images to the trash?"
+msgstr[0] ""
+
+msgid ""
+"Are you sure you want to move\n"
+"“%s” to the trash?"
+msgstr ""
+
+msgid ""
+"Are you sure you want to remove\n"
+"the selected image permanently?"
+msgid_plural ""
+"Are you sure you want to remove\n"
+"the %d selected images permanently?"
+msgstr[0] ""
+
+msgid ""
+"Are you sure you want to remove\n"
+"“%s” permanently?"
+msgstr ""
+
+msgid "As _background"
+msgstr ""
+
+msgid "As check _pattern"
+msgstr ""
+
+msgid "As custom c_olor:"
+msgstr ""
+
+msgid "As custom color:"
+msgstr ""
+
+msgid "At least two file names are equal."
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Automatic orientation"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Browse and rotate images"
+msgstr ""
+
+msgid "Bytes:"
+msgstr ""
+
+msgid "C_enter:"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Camera Model:"
+msgstr ""
+
+msgid "Changes the visibility of the image gallery pane in the current window"
+msgstr ""
+
+msgid "Choose a folder"
+msgstr ""
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Close main window without asking to save changes."
+msgstr ""
+
+msgid "Color for Transparent Areas"
+msgstr ""
+
+msgid "Copyright:"
+msgstr ""
+
+msgid "Could not display help for Image Viewer"
+msgstr ""
+
+msgid "Could not load image “%s”."
+msgstr ""
+
+msgid "Could not save image “%s”."
+msgstr ""
+
+msgid "Couldn’t access trash."
+msgstr ""
+
+msgid "Couldn’t allocate memory for loading JPEG file"
+msgstr ""
+
+msgid "Couldn’t create temporary file for saving: %s"
+msgstr ""
+
+msgid "Couldn’t delete file"
+msgstr ""
+
+msgid "Couldn’t retrieve image file"
+msgstr ""
+
+msgid "Couldn’t retrieve image file information"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Date in statusbar"
+msgstr ""
+
+msgid "Date/Time:"
+msgstr ""
+
+msgid "Delay in seconds until showing the next image"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid ""
+"Determines how transparency should be indicated. Valid values are "
+"CHECK_PATTERN, COLOR and NONE. If COLOR is chosen, then the trans-color key "
+"determines the color value used."
+msgstr ""
+
+msgid "Disable image gallery"
+msgstr ""
+
+msgid "Do _not ask again during this session"
+msgstr ""
+
+msgid "EXIF not supported for this file format."
+msgstr ""
+
+msgid "E_xpand images to fit screen"
+msgstr ""
+
+msgid "East"
+msgstr ""
+
+msgid "Enlarge the image"
+msgstr ""
+
+msgid "Error launching System Settings: "
+msgstr ""
+
+msgid "Error on deleting image %s"
+msgstr ""
+
+msgid ""
+"Error printing file:\n"
+"%s"
+msgstr ""
+
+msgid "Exposure"
+msgstr ""
+
+msgid "Exposure Time:"
+msgstr ""
+
+msgid "Extrapolate Image"
+msgstr ""
+
+msgid "Eye of GNOME"
+msgstr ""
+
+msgid "File Name Preview"
+msgstr ""
+
+msgid "File Path Specifications"
+msgstr ""
+
+msgid "File Size"
+msgstr ""
+
+msgid "File format is unknown or unsupported"
+msgstr ""
+
+msgid "Fit the image to the window"
+msgstr ""
+
+msgid "Flash:"
+msgstr ""
+
+msgid "Focal Length"
+msgstr ""
+
+msgid "Focal Length:"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Folder:"
+msgstr ""
+
+msgid "Fullscreen with double-click"
+msgstr ""
+
+msgid "GNOME Image Viewer"
+msgstr ""
+
+msgid "GPS Data"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Go to the first image of the gallery"
+msgstr ""
+
+msgid "Go to the last image of the gallery"
+msgstr ""
+
+msgid "Go to the next image of the gallery"
+msgstr ""
+
+msgid "Go to the previous image of the gallery"
+msgstr ""
+
+msgid "Height:"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "ISO"
+msgstr ""
+
+msgid "ISO Speed Rating:"
+msgstr ""
+
+msgid ""
+"If activated and no image is loaded in the active window, the file chooser "
+"will display the user’s pictures folder using the XDG special user "
+"directories. If deactivated or the pictures folder has not been set up, it "
+"will show the current working directory."
+msgstr ""
+
+msgid ""
+"If activated, Eye of GNOME won’t ask for confirmation when moving images to "
+"the trash. It will still ask if any of the files cannot be moved to the "
+"trash and would be deleted instead."
+msgstr ""
+
+msgid ""
+"If activated, the detailed metadata list in the properties dialog will be "
+"moved to its own page in the dialog. This should make the dialog more usable"
+" on smaller screens, e.g. as used by netbooks. If disabled, the widget will "
+"be embedded on the “Metadata” page."
+msgstr ""
+
+msgid ""
+"If the transparency key has the value COLOR, then this key determines the "
+"color which is used for indicating transparency."
+msgstr ""
+
+msgid ""
+"If this is active, the color set by the background-color key will be used to"
+" fill the area behind the image. If it is not set, the current GTK+ theme "
+"will determine the fill color."
+msgstr ""
+
+msgid ""
+"If this is set to FALSE small images will not be stretched to fit into the "
+"screen initially."
+msgstr ""
+
+msgid "If you don’t save, all your changes will be lost."
+msgstr ""
+
+msgid "If you don’t save, your changes will be lost."
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image Data"
+msgstr ""
+
+msgid "Image Enhancements"
+msgstr ""
+
+msgid "Image Prope_rties"
+msgstr ""
+
+msgid "Image Properties"
+msgstr ""
+
+msgid "Image Settings"
+msgstr ""
+
+msgid "Image Taking Conditions"
+msgstr ""
+
+msgid "Image View"
+msgstr ""
+
+msgid "Image Viewer"
+msgstr ""
+
+msgid ""
+"Image Viewer could not determine a supported writable file format based on "
+"the filename."
+msgstr ""
+
+msgid "Image Zoom"
+msgstr ""
+
+msgid "Image _Gallery"
+msgstr ""
+
+msgid ""
+"Image gallery pane position. Set to 0 for bottom; 1 for left; 2 for top; 3 "
+"for right."
+msgstr ""
+
+msgid "Image loading failed."
+msgstr ""
+
+msgid "Inches"
+msgstr ""
+
+msgid "Interpolate Image"
+msgstr ""
+
+msgid "Keywords:"
+msgstr ""
+
+msgid "Leave fullscreen mode"
+msgstr ""
+
+msgid ""
+"List of active plugins. It doesn’t contain the “Location” of the active "
+"plugins. See the .eog-plugin file for obtaining the “Location” of a given "
+"plugin."
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Loop through the image sequence"
+msgstr ""
+
+msgid "Maker Note"
+msgstr ""
+
+msgctxt "MessageArea"
+msgid "Hi_de"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
+msgid "Metering"
+msgstr ""
+
+msgid "Metering Mode:"
+msgstr ""
+
+msgid "Millimeters"
+msgstr ""
+
+msgid "Move to _Trash"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "No image loaded."
+msgstr ""
+
+msgid "No images found in “%s”."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "North"
+msgstr ""
+
+msgid "Op_en With"
+msgstr ""
+
+msgid "Open Folder"
+msgstr ""
+
+msgid "Open Image"
+msgstr ""
+
+msgid "Open _with"
+msgstr ""
+
+msgid ""
+"Open in a single window, if multiple windows are open the first one is used"
+msgstr ""
+
+msgid "Open in fullscreen mode"
+msgstr ""
+
+msgid "Open in slideshow mode"
+msgstr ""
+
+msgid "Open with _Document Viewer"
+msgstr ""
+
+msgid "Opening image “%s”"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Page Setup"
+msgstr ""
+
+msgid "Pause or resume the slideshow"
+msgstr ""
+
+msgid "Picture;Slideshow;Graphics;"
+msgstr ""
+
+msgid "Please try a different file extension like .png or .jpg."
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Prefere_nces"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Prope_rties"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Reload Image"
+msgstr ""
+
+msgid "Reload current image"
+msgstr ""
+
+msgid "Rename from:"
+msgstr ""
+
+msgid "Rotate Counter_clockwise"
+msgstr ""
+
+msgid "Rotate the image 90 degrees to the left"
+msgstr ""
+
+msgid "Rotate the image 90 degrees to the right"
+msgstr ""
+
+msgid "Run “%s --help” to see a full list of available command line options."
+msgstr ""
+
+msgid "S_elect the images you want to save:"
+msgstr ""
+
+msgid "S_ide Pane"
+msgstr ""
+
+msgid "S_tatus Bar"
+msgstr ""
+
+msgid "Save As"
+msgstr ""
+
+msgid "Save Image"
+msgstr ""
+
+msgid "Save _As"
+msgstr ""
+
+msgid "Save _As…"
+msgstr ""
+
+msgid "Save changes to image “%s” before closing?"
+msgstr ""
+
+msgid "Saving image locally…"
+msgstr ""
+
+msgid "Saving image “%s” (%u/%u)"
+msgstr ""
+
+msgid "Scroll wheel zoom"
+msgstr ""
+
+msgid "Sequence"
+msgstr ""
+
+msgid "Set as Wa_llpaper"
+msgstr ""
+
+msgid "Sho_w"
+msgstr ""
+
+msgid "Show Containing _Folder"
+msgstr ""
+
+msgid "Show the application’s version"
+msgstr ""
+
+msgid "Show the current image in fullscreen mode"
+msgstr ""
+
+msgid "Show the folder which contains this file in the file manager"
+msgstr ""
+
+msgid "Show the image at its normal size"
+msgstr ""
+
+msgid "Show/Hide the image gallery pane scroll buttons."
+msgstr ""
+
+msgid "Show/Hide the image gallery pane."
+msgstr ""
+
+msgid "Show/Hide the window side pane."
+msgstr ""
+
+msgid "Show/Hide the window statusbar."
+msgstr ""
+
+msgid "Shows the image date in the window statusbar"
+msgstr ""
+
+msgid "Shrink or enlarge the current image"
+msgstr ""
+
+msgid "Shrink the image"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Sli_deshow"
+msgstr ""
+
+msgid "Slideshow"
+msgstr ""
+
+msgid "Smooth images when zoomed _in"
+msgstr ""
+
+msgid "Smooth images when zoomed _out"
+msgstr ""
+
+msgid ""
+"Some of the selected images can’t be moved to the trash and will be removed "
+"permanently. Are you sure you want to proceed?"
+msgstr ""
+
+msgid "South"
+msgstr ""
+
+msgid "Start a new instance instead of reusing an existing one"
+msgstr ""
+
+msgid "Supported image files"
+msgstr ""
+
+msgid "Tag"
+msgstr ""
+
+msgid "Taken on"
+msgstr ""
+
+msgid "Temporary file creation failed."
+msgstr ""
+
+msgid ""
+"The Eye of GNOME also allows to view the images in a fullscreen slideshow "
+"mode or set an image as the desktop wallpaper. It reads the camera tags to "
+"automatically rotate your images in the correct portrait or landscape "
+"orientation."
+msgstr ""
+
+msgid ""
+"The Eye of GNOME is the official image viewer for the GNOME desktop. It "
+"integrates with the GTK+ look and feel of GNOME, and supports many image "
+"formats for viewing single images or images in a collection."
+msgstr ""
+
+msgid "The GNOME image viewer."
+msgstr ""
+
+msgid ""
+"The color that is used to fill the area behind the image. If the use-"
+"background-color key is not set, the color is determined by the active GTK+ "
+"theme instead."
+msgstr ""
+
+msgid "The given locations contain no images."
+msgstr ""
+
+msgid "The image whose printing properties will be set up"
+msgstr ""
+
+msgid ""
+"The image “%s” has been modified by an external application.\n"
+"Would you like to reload it?"
+msgstr ""
+
+msgid ""
+"The image “%s” has been set as Desktop Background.\n"
+"Would you like to modify its appearance?"
+msgstr ""
+
+msgid "The information for the page where the image will be printed"
+msgstr ""
+
+msgid ""
+"The multiplier to be applied when using the mouse scroll wheel for zooming. "
+"This value defines the zooming step used for each scroll event. For example,"
+" 0.05 results in a 5% zoom increment for each scroll event and 1.00 result "
+"in a 100% zoom increment."
+msgstr ""
+
+msgid "There is %d image with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d images with unsaved changes. Save changes before closing?"
+msgstr[0] ""
+
+msgid ""
+"This image contains multiple pages. Image Viewer displays only the first page.\n"
+"Do you want to open the image with the Document Viewer to see all pages?"
+msgstr ""
+
+msgid ""
+"This image contains multiple pages. Image Viewer displays only the first page.\n"
+"You may want to install the Document Viewer to see all pages."
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Transformation failed."
+msgstr ""
+
+msgid "Transformation on unloaded image."
+msgstr ""
+
+msgid "Transparency color"
+msgstr ""
+
+msgid "Transparency indicator"
+msgstr ""
+
+msgid "Transparent Parts"
+msgstr ""
+
+msgid "Trash images without asking"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Use a custom background color"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Viewing a slideshow"
+msgstr ""
+
+msgid "West"
+msgstr ""
+
+msgid ""
+"Whether the file chooser should show the user’s pictures folder if no images"
+" are loaded."
+msgstr ""
+
+msgid "Whether the image gallery pane should be resizable."
+msgstr ""
+
+msgid ""
+"Whether the image should be extrapolated on zoom-in. This leads to blurry "
+"quality and is somewhat slower than non-extrapolated images."
+msgstr ""
+
+msgid ""
+"Whether the image should be interpolated on zoom-out. This leads to better "
+"quality but is somewhat slower than non-interpolated images."
+msgstr ""
+
+msgid ""
+"Whether the image should be rotated automatically based on EXIF orientation."
+msgstr ""
+
+msgid ""
+"Whether the metadata list in the properties dialog should have its own page."
+msgstr ""
+
+msgid "Whether the scroll wheel should be used for zooming."
+msgstr ""
+
+msgid "Whether the sequence of images should be shown in an endless loop."
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "XMP Exif"
+msgstr ""
+
+msgid "XMP IPTC"
+msgstr ""
+
+msgid "XMP Other"
+msgstr ""
+
+msgid "XMP Rights Management"
+msgstr ""
+
+msgid "You do not have the permissions necessary to save the file."
+msgstr ""
+
+msgid "Zoom _Out"
+msgstr ""
+
+msgid "Zoom multiplier"
+msgstr ""
+
+msgid "[FILE…]"
+msgstr ""
+
+msgid "_About Image Viewer"
+msgstr ""
+
+msgid "_Automatic orientation"
+msgstr ""
+
+msgid "_Best Fit"
+msgstr ""
+
+msgid "_Best fit"
+msgstr ""
+
+msgid "_Bottom:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Destination folder:"
+msgstr ""
+
+msgid "_Filename format:"
+msgstr ""
+
+msgid "_First Image"
+msgstr ""
+
+msgid "_Height:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Image Gallery"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Last Image"
+msgstr ""
+
+msgid "_Leave Fullscreen"
+msgstr ""
+
+msgid "_Left:"
+msgstr ""
+
+msgid "_Loop sequence"
+msgstr ""
+
+msgid "_Next Image"
+msgstr ""
+
+msgid "_Normal Size"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open Background Preferences"
+msgstr ""
+
+msgid "_Open…"
+msgstr ""
+
+msgid "_Previous Image"
+msgstr ""
+
+msgid "_Print…"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Replace spaces with underscores"
+msgstr ""
+
+msgid "_Right:"
+msgstr ""
+
+msgid "_Rotate Clockwise"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Scaling:"
+msgstr ""
+
+msgid "_Start counter at:"
+msgstr ""
+
+msgid "_Time between images:"
+msgstr ""
+
+msgid "_Top:"
+msgstr ""
+
+msgid "_Unit:"
+msgstr ""
+
+msgid "_Width:"
+msgstr ""
+
+msgid "_Yes"
+msgstr ""
+
+msgid "_Zoom In"
+msgstr ""
+
+msgid "as is"
+msgstr ""
+
+msgid "pixel"
+msgid_plural "pixels"
+msgstr[0] ""
+
+msgctxt "shortcut window"
+msgid "Actual size"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Best fit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Browsing Images"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close all windows"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close the current window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Enter/Leave fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Fullscreen"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "General"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to a random image in the folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the first image in the folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the last image in the folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the next image in the folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to the previous image in the folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open an image file"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open the application manual"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Pause slideshow"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print the current image"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate clockwise"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotate counterclockwise"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Rotation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save the image"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save the image with a new file name"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Set the image as desktop background"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show image properties dialog"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show/Hide the image gallery"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show/Hide the sidebar"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Start/Stop slideshow"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Zoom out"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "view-fullscreen"
+msgstr ""
+
+msgid "view-refresh"
+msgstr ""

@@ -1,0 +1,187 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: whois\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2019-07-19 18:30+0000\n"
+"Last-Translator: Terence Ng <Unknown>\n"
+"Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:54+0000\n"
+
+msgid ""
+"\n"
+"\n"
+"Found a referral to %s.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Querying for the IPv4 endpoint %s of a 6to4 IPv6 address.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"\n"
+"Querying for the IPv4 endpoint %s of a Teredo IPv6 address.\n"
+"\n"
+msgstr ""
+
+msgid ""
+"      --verbose        explain what is being done\n"
+"      --help           display this help and exit\n"
+"      --version        output version information and exit\n"
+"\n"
+msgstr ""
+
+msgid ""
+"      -R, --rounds=NUMBER   use the specified NUMBER of rounds\n"
+"      -P, --password-fd=NUM read the password from file descriptor NUM\n"
+"                            instead of /dev/tty\n"
+"      -s, --stdin           like --password-fd=0\n"
+msgstr ""
+
+msgid ""
+"      -h, --help            display this help and exit\n"
+"      -V, --version         output version information and exit\n"
+"\n"
+"If PASSWORD is missing then it is asked interactively.\n"
+"If no SALT is specified, a random one is generated.\n"
+"If TYPE is 'help', available methods are printed.\n"
+"\n"
+"Report bugs to %s.\n"
+msgstr ""
+
+msgid "%s/tcp: unknown service"
+msgstr ""
+
+msgid ""
+"-B                     turn off object filtering (show email addresses)\n"
+"-G                     turn off grouping of associated objects\n"
+"-d                     return DNS reverse delegation objects too\n"
+msgstr ""
+
+msgid ""
+"-R                     force to show local copy of the domain object even\n"
+"                       if it contains referral\n"
+"-a                     also search all the mirrored databases\n"
+"-s SOURCE[,SOURCE]...  search the database mirrored from SOURCE\n"
+"-g SOURCE:FIRST-LAST   find updates from SOURCE from serial FIRST to LAST\n"
+msgstr ""
+
+msgid ""
+"-c                     find the smallest match containing a mnt-irt attribute\n"
+"-x                     exact match\n"
+"-b                     return brief IP address ranges with abuse contact\n"
+msgstr ""
+
+msgid ""
+"-i ATTR[,ATTR]...      do an inverse look-up for specified ATTRibutes\n"
+"-T TYPE[,TYPE]...      only look for objects of TYPE\n"
+"-K                     only primary keys are returned\n"
+"-r                     turn off recursive look-ups for contact information\n"
+msgstr ""
+
+msgid ""
+"-t TYPE                request template for object of TYPE\n"
+"-v TYPE                request verbose template for object of TYPE\n"
+"-q [version|sources|types]  query specified server info\n"
+msgstr ""
+
+msgid "Available methods:\n"
+msgstr ""
+
+msgid "Cannot parse this line: %s"
+msgstr ""
+
+msgid ""
+"Catastrophic error: disclaimer text has been changed.\n"
+"Please upgrade this program.\n"
+msgstr ""
+
+msgid "Host %s not found."
+msgstr ""
+
+msgid "Illegal salt character '%c'.\n"
+msgstr ""
+
+msgid "Interrupted by signal %d..."
+msgstr ""
+
+msgid "Invalid method '%s'.\n"
+msgstr ""
+
+msgid "Invalid number '%s'.\n"
+msgstr ""
+
+msgid "Method not supported by crypt(3).\n"
+msgstr ""
+
+msgid "No whois server is known for this kind of object."
+msgstr ""
+
+msgid "Password: "
+msgstr ""
+
+msgid ""
+"Query string: \"%s\"\n"
+"\n"
+msgstr ""
+
+msgid ""
+"These flags are supported by whois.ripe.net and some RIPE-like servers:\n"
+"-l                     find the one level less specific match\n"
+"-L                     find all levels less specific matches\n"
+"-m                     find all one level more specific matches\n"
+"-M                     find all levels of more specific matches\n"
+msgstr ""
+
+msgid "This TLD has no whois server, but you can access the whois database at"
+msgstr ""
+
+msgid "This TLD has no whois server."
+msgstr ""
+
+msgid "Timeout."
+msgstr ""
+
+msgid "Try '%s --help' for more information.\n"
+msgstr ""
+
+msgid "Unknown AS number or IP network. Please upgrade this program."
+msgstr ""
+
+msgid ""
+"Usage: mkpasswd [OPTIONS]... [PASSWORD [SALT]]\n"
+"Crypts the PASSWORD using crypt(3).\n"
+"\n"
+msgstr ""
+
+msgid "Using server %s.\n"
+msgstr ""
+
+msgid ""
+"Version %s.\n"
+"\n"
+"Report bugs to %s.\n"
+msgstr ""
+
+msgid "Warning: RIPE flags used with a traditional server."
+msgstr ""
+
+msgid "Wrong salt length: %d byte when %d <= n <= %d expected.\n"
+msgid_plural "Wrong salt length: %d bytes when %d <= n <= %d expected.\n"
+msgstr[0] ""
+
+msgid "Wrong salt length: %d byte when %d expected.\n"
+msgid_plural "Wrong salt length: %d bytes when %d expected.\n"
+msgstr[0] ""
+
+msgid "standard 56 bit DES-based crypt(3)"
+msgstr ""

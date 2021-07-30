@@ -1,0 +1,619 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: dconf master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=dconf-editor&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-05 02:54+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese <>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:09+0000\n"
+
+msgid " and one dconf operation delayed."
+msgid_plural " and %u dconf operations delayed."
+msgstr[0] ""
+
+msgid "%s (key erased)"
+msgstr ""
+
+msgid "%s%s"
+msgstr ""
+
+msgid "A 1-choice enumeration"
+msgstr ""
+
+msgid "A 16-bit signed integer. See also the “integer-16-unsigned” key."
+msgstr ""
+
+msgid "A 16-bit unsigned integer. See also the “integer-16-signed” key."
+msgstr ""
+
+msgid "A 32-bit signed integer. See also the “integer-32-unsigned” key."
+msgstr ""
+
+msgid "A 32-bit unsigned integer. See also the “integer-32-signed” key."
+msgstr ""
+
+msgid "A 5-choices enumeration"
+msgstr ""
+
+msgid "A 64-bit signed integer. See also the “integer-64-unsigned” key."
+msgstr ""
+
+msgid "A 64-bit unsigned integer. See also the “integer-64-signed” key."
+msgstr ""
+
+msgid "A D-Bus handle type, type ‘h’"
+msgstr ""
+
+msgid "A D-Bus object path array, type ‘ao’"
+msgstr ""
+
+msgid "A D-Bus object path, type ‘o’"
+msgstr ""
+
+msgid "A D-Bus signature, type ‘g’"
+msgstr ""
+
+msgid "A boolean, type ‘b’"
+msgstr ""
+
+msgid "A byte (unsigned), type ‘y’"
+msgstr ""
+
+msgid ""
+"A byte value is an integer between 0 and 255. It may be used to pass around "
+"characters."
+msgstr ""
+
+msgid "A bytestring array, type ‘aay’"
+msgstr ""
+
+msgid "A bytestring, type ‘ay’"
+msgstr ""
+
+msgid "A custom type, here ‘(ii)’"
+msgstr ""
+
+msgid "A double value could represent any real number."
+msgstr ""
+
+msgid "A double, type ‘d’"
+msgstr ""
+
+msgid "A flag to enable maximized mode"
+msgstr ""
+
+msgid "A flag to enable small rows for bookmarks list"
+msgstr ""
+
+msgid "A flag to enable small rows for keys list"
+msgstr ""
+
+msgid "A flag to restore the last view"
+msgstr ""
+
+msgid "A graphical tool for editing the dconf database"
+msgstr ""
+
+msgid "A list of bookmarked paths"
+msgstr ""
+
+msgid "A long integer, type ‘x’"
+msgstr ""
+
+msgid "A nullable boolean, type ‘mb’"
+msgstr ""
+
+msgid "A nullable string, type ‘ms’"
+msgstr ""
+
+msgid "A number with range"
+msgstr ""
+
+msgid "A path to restore the last view"
+msgstr ""
+
+msgid "A short integer, type ‘n’"
+msgstr ""
+
+msgid ""
+"A string array contains any number of strings of whatever length. It may be "
+"an empty array, “[]”."
+msgstr ""
+
+msgid "A string array, type ‘as’"
+msgstr ""
+
+msgid "A string, type ‘s’"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
+msgid ""
+"An enumeration could contain only one item, but that’s probably an error. "
+"Dconf Editor warns you in that case."
+msgstr ""
+
+msgid "An unsigned long integer, type ‘t’"
+msgstr ""
+
+msgid "An unsigned short integer, type ‘q’"
+msgstr ""
+
+msgid "An unsigned usual integer, type ‘u’"
+msgstr ""
+
+msgid "An usual integer, type ‘i’"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Bookmark this Location"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid ""
+"Bookmarks will\n"
+"be added here"
+msgstr ""
+
+msgid "Boolean"
+msgstr ""
+
+msgid "Booleans can only take two values, “true” or “false”."
+msgstr ""
+
+msgid "Browse the keys used by installed applications"
+msgstr ""
+
+msgid "Change the behaviour of a key value change request"
+msgstr ""
+
+msgid "Changes will be delayed until you request it."
+msgstr ""
+
+msgid "Configuration editor for dconf"
+msgstr ""
+
+msgid "Contains all paths bookmarked by the user as an array of strings."
+msgstr ""
+
+msgid "Copied to clipboard"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy current path"
+msgstr ""
+
+msgid "Creators"
+msgstr ""
+
+msgid "Credits"
+msgstr ""
+
+msgid "Current value"
+msgstr ""
+
+msgid "Current view actions"
+msgstr ""
+
+msgid "Custom value"
+msgstr ""
+
+msgid "Customize…"
+msgstr ""
+
+msgid "Dconf Editor"
+msgstr ""
+
+msgid ""
+"Dconf Editor is a tool to allow direct editing of the dconf configuration "
+"database. This is useful when developing applications that use these "
+"settings."
+msgstr ""
+
+msgid ""
+"Dconf Editor lets you edit any settings type supported by GSettings, falling"
+" back on a string entry when it doesn’t have a better way to do. Here is a "
+"tuple of two 32-bit signed integers."
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default value"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Directly edit your entire configuration database"
+msgstr ""
+
+msgid "Dismiss change"
+msgstr ""
+
+msgid "Do not erase"
+msgstr ""
+
+msgid "Don’t forget that some options may break applications, so be careful."
+msgstr ""
+
+msgid "Double"
+msgstr ""
+
+msgid ""
+"Editing your configuration directly is an advanced feature and may cause "
+"applications to not work correctly."
+msgstr ""
+
+msgid "Enter delay mode"
+msgstr ""
+
+msgid "Enumeration"
+msgstr ""
+
+msgid ""
+"Enumerations could be done either with the “enum” attribute, or with a "
+"“choices” tag."
+msgstr ""
+
+msgid "Erase key"
+msgstr ""
+
+msgid ""
+"Every numeral setting (integers and unsigned integers of every type, plus "
+"doubles) could be limited to a custom range of values. For example, this "
+"integer could only take a value between -2 and 10."
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Flags could be set by the “enum” attribute."
+msgstr ""
+
+msgid "Flags: choose-colors-you-love"
+msgstr ""
+
+msgid ""
+"For users with mice that have buttons for “Forward” and “Back”, this key "
+"will set which button activates the “Back” command in a browser window. "
+"Possible values range between 6 and 14."
+msgstr ""
+
+msgid ""
+"For users with mice that have buttons for “Forward” and “Back”, this key "
+"will set which button activates the “Forward” command in a browser window. "
+"Possible values range between 6 and 14."
+msgstr ""
+
+msgid ""
+"GSettings allows nullable types, that are similar to other types but could "
+"take a “nothing” value. A nullable boolean can only take three values, "
+"“true”, “false” and “nothing”."
+msgstr ""
+
+msgid ""
+"GSettings allows nullable types, that are similar to other types but could "
+"take a “nothing” value. A nullable string can take any string as value, "
+"including the empty string “''”, or can be NULL (nothing)."
+msgstr ""
+
+msgid ""
+"If the “restore-view” key is set to “true”, Dconf Editor tries at launch to "
+"navigate to this path."
+msgstr ""
+
+msgid ""
+"If “true”, Dconf Editor opens a popup when launched reminding the user to be"
+" careful."
+msgstr ""
+
+msgid ""
+"If “true”, Dconf Editor tries at launch to navigate to the path described in"
+" the “saved-view” key."
+msgstr ""
+
+msgid "If “true”, the bookmarks list use smaller rows."
+msgstr ""
+
+msgid "If “true”, the keys list use smaller rows."
+msgstr ""
+
+msgid "Integer"
+msgstr ""
+
+msgid "I’ll be careful."
+msgstr ""
+
+msgid "Key erased."
+msgstr ""
+
+msgid "Keyboard Shortcuts"
+msgstr ""
+
+msgid "Location bookmarked"
+msgstr ""
+
+msgid "Manage your bookmarks"
+msgstr ""
+
+msgid "Maximum"
+msgstr ""
+
+msgid "Minimum"
+msgstr ""
+
+msgid "Mouse button to activate the “Back” command in browser window"
+msgstr ""
+
+msgid "Mouse button to activate the “Forward” command in browser window"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "No change"
+msgstr ""
+
+msgid "No keys in this path"
+msgstr ""
+
+msgid "No schema found"
+msgstr ""
+
+msgid "Nothing"
+msgstr ""
+
+msgid "Nothing to reset."
+msgstr ""
+
+msgid "One dconf operation delayed."
+msgid_plural "%u dconf operations delayed."
+msgstr[0] ""
+
+msgid "One gsettings operation"
+msgid_plural "%u gsettings operations"
+msgstr[0] ""
+
+msgid "One gsettings operation delayed."
+msgid_plural "%u gsettings operations delayed."
+msgstr[0] ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Print release version and exit"
+msgstr ""
+
+msgid "Read keys descriptions and edit their values"
+msgstr ""
+
+msgid "Reset recursively"
+msgstr ""
+
+msgid "Reset visible keys"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search keys"
+msgstr ""
+
+msgid "Set to default"
+msgstr ""
+
+msgid "Show initial warning"
+msgstr ""
+
+msgid "Show this dialog next time."
+msgstr ""
+
+msgid "String"
+msgstr ""
+
+msgid "String array"
+msgstr ""
+
+msgid ""
+"Strings, signatures and object paths should be surrounded by quotation "
+"marks."
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Thanks for using Dconf Editor for editing your settings!"
+msgstr ""
+
+msgid ""
+"The bytestring type is commonly used to pass around strings that may not be "
+"valid utf8. In that case, the convention is that the nul terminator "
+"character should be included as the last character in the array."
+msgstr ""
+
+msgid "The change will be applied on such request or if you quit this view."
+msgstr ""
+
+msgid "The change will be dismissed if you quit this view without applying."
+msgstr ""
+
+msgid "The height of the main window in pixels."
+msgstr ""
+
+msgid "The height of the window"
+msgstr ""
+
+msgid ""
+"The string type could accept any utf8 string. Note that an empty string “''”"
+" is not the same as NULL (nothing); see also the “string-nullable” key."
+msgstr ""
+
+msgid "The value is invalid."
+msgstr ""
+
+msgid "The width of the main window in pixels."
+msgstr ""
+
+msgid "The width of the window"
+msgstr ""
+
+msgid ""
+"The “unsafe” value is discouraged: for keys that have a non-special-cased "
+"type, it updates the key value each time something changes in the entry, so "
+"including intermediate states. The “safe” value asks for confirmation in "
+"these cases, but allows instant changes for booleans and nullable booleans, "
+"enums and flags. The “always-confirm-implicit” and “always-confirm-explicit”"
+" values always asks for confirmation, but the first applies the change if "
+"you change path whereas the second dismiss it. The “always-delay” value adds"
+" each change in delay mode, allowing to apply multiple keys at once."
+msgstr ""
+
+msgid ""
+"This enumeration offers only one choice. That’s probably an error of the "
+"application that installed this schema. If possible, please open a bug about"
+" it."
+msgstr ""
+
+msgid ""
+"This is the type of an array of bytestrings. The bytestring type is commonly"
+" used to pass around strings that may not be valid utf8."
+msgstr ""
+
+msgid "This value is invalid for the key type."
+msgstr ""
+
+msgid "Toggle to bookmark this location"
+msgstr ""
+
+msgid "Translators"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Use default value"
+msgstr ""
+
+msgid ""
+"Use the keyword “nothing” to set a maybe type (beginning with “m”) to its "
+"empty value."
+msgstr ""
+
+msgid ""
+"Use the keyword “nothing” to set a maybe type (beginning with “m”) to its "
+"empty value. Strings, signatures and object paths should be surrounded by "
+"quotation marks."
+msgstr ""
+
+msgid "dconf Editor"
+msgstr ""
+
+msgid "false"
+msgstr ""
+
+msgid "nothing"
+msgstr ""
+
+msgid "settings;configuration;"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "About"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Actions"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Actions menu"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Bookmark this path"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Bookmarks menu"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy descriptor"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy path"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Generic"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open active direct child"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open active last child"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open parent folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open root folder"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Path bar navigation"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show this help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Unbookmark this path"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "true"
+msgstr ""

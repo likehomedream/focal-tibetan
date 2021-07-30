@@ -1,0 +1,1790 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: xkeyboard-config 2.26.99\n"
+"Report-Msgid-Bugs-To: svu@users.sourceforge.net\n"
+"PO-Revision-Date: 2020-02-29 20:58+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:21+0000\n"
+
+msgid "&lt;Less/Greater&gt;"
+msgstr ""
+
+msgid "A4Tech KB-21"
+msgstr ""
+
+msgid "A4Tech KBS-8"
+msgstr ""
+
+msgid "A4Tech Wireless Desktop RFKB-23"
+msgstr ""
+
+msgid "APL Keyboard Symbols: sax"
+msgstr ""
+
+msgid "ATM/phone-style"
+msgstr ""
+
+msgid "Acer AirKey V"
+msgstr ""
+
+msgid "Acer C300"
+msgstr ""
+
+msgid "Acer Ferrari 4000"
+msgstr ""
+
+msgid "Acer laptop"
+msgstr ""
+
+msgid "Add the standard behavior to Menu key"
+msgstr ""
+
+msgid "Adding currency signs to certain keys"
+msgstr ""
+
+msgid "Advance Scorpius KI"
+msgstr ""
+
+msgid "Afghani"
+msgstr ""
+
+msgid "Akan"
+msgstr ""
+
+msgid "Albanian"
+msgstr ""
+
+msgid "Alt and Meta are on Alt"
+msgstr ""
+
+msgid "Alt is mapped to Right Win, Super to Menu"
+msgstr ""
+
+msgid "Alt is swapped with Win"
+msgstr ""
+
+msgid "Alt+Caps Lock"
+msgstr ""
+
+msgid "Alt+Ctrl"
+msgstr ""
+
+msgid "Alt+Shift"
+msgstr ""
+
+msgid "Alt+Space"
+msgstr ""
+
+msgid "Alt/Win key behavior"
+msgstr ""
+
+msgid "Amharic"
+msgstr ""
+
+msgid "Any Alt"
+msgstr ""
+
+msgid "Any Win"
+msgstr ""
+
+msgid "Any Win (while pressed)"
+msgstr ""
+
+msgid "Apple"
+msgstr ""
+
+msgid "Apple Aluminium (ANSI)"
+msgstr ""
+
+msgid "Apple Aluminium (ISO)"
+msgstr ""
+
+msgid "Apple Aluminium (JIS)"
+msgstr ""
+
+msgid "Apple laptop"
+msgstr ""
+
+msgid "Arabic"
+msgstr ""
+
+msgid "Arabic (AZERTY)"
+msgstr ""
+
+msgid "Arabic (AZERTY/digits)"
+msgstr ""
+
+msgid "Arabic (Buckwalter)"
+msgstr ""
+
+msgid "Arabic (Macintosh)"
+msgstr ""
+
+msgid "Arabic (Morocco)"
+msgstr ""
+
+msgid "Arabic (Pakistan)"
+msgstr ""
+
+msgid "Arabic (QWERTY)"
+msgstr ""
+
+msgid "Arabic (Syria)"
+msgstr ""
+
+msgid "Arabic (digits)"
+msgstr ""
+
+msgid "Arabic (qwerty/digits)"
+msgstr ""
+
+msgid "Armenian"
+msgstr ""
+
+msgid "Armenian (phonetic)"
+msgstr ""
+
+msgid "Asus laptop"
+msgstr ""
+
+msgid "At bottom left"
+msgstr ""
+
+msgid "At left of 'A'"
+msgstr ""
+
+msgid "Azerbaijani"
+msgstr ""
+
+msgid "Azerbaijani (Cyrillic)"
+msgstr ""
+
+msgid "BTC 5090"
+msgstr ""
+
+msgid "BTC 5113RF Multimedia"
+msgstr ""
+
+msgid "BTC 5126T"
+msgstr ""
+
+msgid "BTC 6301URF"
+msgstr ""
+
+msgid "BTC 9000"
+msgstr ""
+
+msgid "BTC 9000A"
+msgstr ""
+
+msgid "BTC 9001AH"
+msgstr ""
+
+msgid "BTC 9019U"
+msgstr ""
+
+msgid "Backslash"
+msgstr ""
+
+msgid "Bambara"
+msgstr ""
+
+msgid "Bangla"
+msgstr ""
+
+msgid "Bangla (India)"
+msgstr ""
+
+msgid "Bashkirian"
+msgstr ""
+
+msgid "Belarusian"
+msgstr ""
+
+msgid "Belarusian (Latin)"
+msgstr ""
+
+msgid "Belarusian (legacy)"
+msgstr ""
+
+msgid "Belgian"
+msgstr ""
+
+msgid "Belgian (alt.)"
+msgstr ""
+
+msgid "Belgian (alt., with Sun dead keys)"
+msgstr ""
+
+msgid "Belgian (no dead keys)"
+msgstr ""
+
+msgid "Belgian (with Sun dead keys)"
+msgstr ""
+
+msgid "BenQ X-Touch"
+msgstr ""
+
+msgid "BenQ X-Touch 730"
+msgstr ""
+
+msgid "BenQ X-Touch 800"
+msgstr ""
+
+msgid "Bosnian"
+msgstr ""
+
+msgid "Both Alt together"
+msgstr ""
+
+msgid "Both Ctrl together"
+msgstr ""
+
+msgid "Both Shift together"
+msgstr ""
+
+msgid "Bulgarian"
+msgstr ""
+
+msgid "Bulgarian (new phonetic)"
+msgstr ""
+
+msgid "Bulgarian (traditional phonetic)"
+msgstr ""
+
+msgid "Burmese"
+msgstr ""
+
+msgid "Caps Lock"
+msgstr ""
+
+msgid "Caps Lock as Ctrl"
+msgstr ""
+
+msgid "Caps Lock behavior"
+msgstr ""
+
+msgid "Caps Lock is also a Ctrl"
+msgstr ""
+
+msgid "Caps Lock is disabled"
+msgstr ""
+
+msgid "Caps Lock toggles ShiftLock (affects all keys)"
+msgstr ""
+
+msgid "Caps Lock toggles normal capitalization of alphabetic characters"
+msgstr ""
+
+msgid "Cherry Blue Line CyBo@rd"
+msgstr ""
+
+msgid "Chicony KB-9885"
+msgstr ""
+
+msgid "Chicony KU-0420"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Church Slavonic"
+msgstr ""
+
+msgid "Classmate PC"
+msgstr ""
+
+msgid "CloGaelach"
+msgstr ""
+
+msgid "Compaq Easy Access"
+msgstr ""
+
+msgid "Compaq Internet (13 keys)"
+msgstr ""
+
+msgid "Compaq Internet (18 keys)"
+msgstr ""
+
+msgid "Compaq Internet (7 keys)"
+msgstr ""
+
+msgid "Compaq iPaq"
+msgstr ""
+
+msgid "Creative Desktop Wireless 7000"
+msgstr ""
+
+msgid "Croatian"
+msgstr ""
+
+msgid "Ctrl is mapped to Alt; Alt is mapped to Win"
+msgstr ""
+
+msgid "Ctrl position"
+msgstr ""
+
+msgid "Ctrl+Alt+Backspace"
+msgstr ""
+
+msgid "Ctrl+Shift"
+msgstr ""
+
+msgid "Czech"
+msgstr ""
+
+msgid "Czech (QWERTY)"
+msgstr ""
+
+msgid "Czech (with &lt;\\|&gt; key)"
+msgstr ""
+
+msgid "DTK2000"
+msgstr ""
+
+msgid "Danish"
+msgstr ""
+
+msgid "Danish (Dvorak)"
+msgstr ""
+
+msgid "Danish (Macintosh)"
+msgstr ""
+
+msgid "Danish (Macintosh, no dead keys)"
+msgstr ""
+
+msgid "Danish (Win keys)"
+msgstr ""
+
+msgid "Danish (no dead keys)"
+msgstr ""
+
+msgid "Default numeric keypad keys"
+msgstr ""
+
+msgid "Dell"
+msgstr ""
+
+msgid "Dell 101-key PC"
+msgstr ""
+
+msgid "Dell Latitude laptop"
+msgstr ""
+
+msgid "Dell Precision M65 laptop"
+msgstr ""
+
+msgid "Dell SK-8125"
+msgstr ""
+
+msgid "Dell SK-8135"
+msgstr ""
+
+msgid "Dell USB Multimedia"
+msgstr ""
+
+msgid "Dhivehi"
+msgstr ""
+
+msgid "Dutch"
+msgstr ""
+
+msgid "Dutch (Macintosh)"
+msgstr ""
+
+msgid "Dutch (standard)"
+msgstr ""
+
+msgid "Dutch (with Sun dead keys)"
+msgstr ""
+
+msgid "Dzongkha"
+msgstr ""
+
+msgid "English (Cameroon)"
+msgstr ""
+
+msgid "English (Canada)"
+msgstr ""
+
+msgid "English (Colemak)"
+msgstr ""
+
+msgid "English (Dvorak)"
+msgstr ""
+
+msgid "English (Dvorak, alt. intl.)"
+msgstr ""
+
+msgid "English (Dvorak, intl., with dead keys)"
+msgstr ""
+
+msgid "English (Dvorak, left-handed)"
+msgstr ""
+
+msgid "English (Dvorak, right-handed)"
+msgstr ""
+
+msgid "English (Macintosh)"
+msgstr ""
+
+msgid "English (Nigeria)"
+msgstr ""
+
+msgid "English (South Africa)"
+msgstr ""
+
+msgid "English (UK)"
+msgstr ""
+
+msgid "English (UK, Colemak)"
+msgstr ""
+
+msgid "English (UK, Dvorak)"
+msgstr ""
+
+msgid "English (UK, Dvorak, with UK punctuation)"
+msgstr ""
+
+msgid "English (UK, Macintosh)"
+msgstr ""
+
+msgid "English (UK, extended, with Win keys)"
+msgstr ""
+
+msgid "English (UK, intl., Macintosh)"
+msgstr ""
+
+msgid "English (UK, intl., with dead keys)"
+msgstr ""
+
+msgid "English (US)"
+msgstr ""
+
+msgid "English (classic Dvorak)"
+msgstr ""
+
+msgid "English (programmer Dvorak)"
+msgstr ""
+
+msgid "Ennyah DKB-1008"
+msgstr ""
+
+msgid "Enter on keypad"
+msgstr ""
+
+msgid "Esperanto"
+msgstr ""
+
+msgid "Estonian"
+msgstr ""
+
+msgid "Estonian (Dvorak)"
+msgstr ""
+
+msgid "Estonian (no dead keys)"
+msgstr ""
+
+msgid "Euro on 2"
+msgstr ""
+
+msgid "Euro on 4"
+msgstr ""
+
+msgid "Euro on 5"
+msgstr ""
+
+msgid "Euro on E"
+msgstr ""
+
+msgid "Everex STEPnote"
+msgstr ""
+
+msgid "Ewe"
+msgstr ""
+
+msgid "FL90"
+msgstr ""
+
+msgid "Faroese"
+msgstr ""
+
+msgid "Faroese (no dead keys)"
+msgstr ""
+
+msgid "Filipino"
+msgstr ""
+
+msgid "Finnish"
+msgstr ""
+
+msgid "Finnish (Macintosh)"
+msgstr ""
+
+msgid "Finnish (Winkeys)"
+msgstr ""
+
+msgid "Finnish (classic)"
+msgstr ""
+
+msgid "Finnish (classic, no dead keys)"
+msgstr ""
+
+msgid "French"
+msgstr ""
+
+msgid "French (Cameroon)"
+msgstr ""
+
+msgid "French (Canada)"
+msgstr ""
+
+msgid "French (Canada, Dvorak)"
+msgstr ""
+
+msgid "French (Canada, legacy)"
+msgstr ""
+
+msgid "French (Democratic Republic of the Congo)"
+msgstr ""
+
+msgid "French (Dvorak)"
+msgstr ""
+
+msgid "French (Guinea)"
+msgstr ""
+
+msgid "French (Mali, alt.)"
+msgstr ""
+
+msgid "French (Morocco)"
+msgstr ""
+
+msgid "French (Switzerland)"
+msgstr ""
+
+msgid "French (Switzerland, Macintosh)"
+msgstr ""
+
+msgid "French (Switzerland, no dead keys)"
+msgstr ""
+
+msgid "French (Switzerland, with Sun dead keys)"
+msgstr ""
+
+msgid "French (alt.)"
+msgstr ""
+
+msgid "French (no dead keys)"
+msgstr ""
+
+msgid "French (with Sun dead keys)"
+msgstr ""
+
+msgid "Fula"
+msgstr ""
+
+msgid "Ga"
+msgstr ""
+
+msgid "Generic 101-key PC"
+msgstr ""
+
+msgid "Generic 102-key PC (intl.)"
+msgstr ""
+
+msgid "Generic 104-key PC"
+msgstr ""
+
+msgid "Generic 105-key PC (intl.)"
+msgstr ""
+
+msgid "Genius Comfy KB-12e"
+msgstr ""
+
+msgid "Georgian (Italy)"
+msgstr ""
+
+msgid "German"
+msgstr ""
+
+msgid "German (Austria)"
+msgstr ""
+
+msgid "German (Dvorak)"
+msgstr ""
+
+msgid "German (Macintosh)"
+msgstr ""
+
+msgid "German (Macintosh, no dead keys)"
+msgstr ""
+
+msgid "German (Neo qwerty)"
+msgstr ""
+
+msgid "German (Neo qwertz)"
+msgstr ""
+
+msgid "German (Switzerland)"
+msgstr ""
+
+msgid "German (Switzerland, Macintosh)"
+msgstr ""
+
+msgid "German (Switzerland, legacy)"
+msgstr ""
+
+msgid "German (Switzerland, no dead keys)"
+msgstr ""
+
+msgid "German (Switzerland, with Sun dead keys)"
+msgstr ""
+
+msgid "German (US, with German letters)"
+msgstr ""
+
+msgid "German (with Sun dead keys)"
+msgstr ""
+
+msgid "Greek"
+msgstr ""
+
+msgid "Greek (Colemak)"
+msgstr ""
+
+msgid "Greek (extended)"
+msgstr ""
+
+msgid "Greek (no dead keys)"
+msgstr ""
+
+msgid "Gujarati"
+msgstr ""
+
+msgid "Hanyu Pinyin (altgr)"
+msgstr ""
+
+msgid "Hebrew"
+msgstr ""
+
+msgid "Hewlett-Packard Internet"
+msgstr ""
+
+msgid "Hewlett-Packard Mini 110 laptop"
+msgstr ""
+
+msgid "Hewlett-Packard NEC SK-2500 Multimedia"
+msgstr ""
+
+msgid "Hewlett-Packard Omnibook 500"
+msgstr ""
+
+msgid "Hewlett-Packard Omnibook 500 FA"
+msgstr ""
+
+msgid "Hewlett-Packard Omnibook 6000/6100"
+msgstr ""
+
+msgid "Hewlett-Packard Omnibook XE3 GC"
+msgstr ""
+
+msgid "Hewlett-Packard Omnibook XE3 GF"
+msgstr ""
+
+msgid "Hewlett-Packard Omnibook XT1000"
+msgstr ""
+
+msgid "Hewlett-Packard Pavilion ZT1100"
+msgstr ""
+
+msgid "Hewlett-Packard Pavilion dv5"
+msgstr ""
+
+msgid "Hewlett-Packard nx9020"
+msgstr ""
+
+msgid "Hexadecimal"
+msgstr ""
+
+msgid "Honeywell Euroboard"
+msgstr ""
+
+msgid "Hungarian"
+msgstr ""
+
+msgid "Hungarian (standard)"
+msgstr ""
+
+msgid "Hyper is mapped to Win"
+msgstr ""
+
+msgid "IBM Rapid Access"
+msgstr ""
+
+msgid "IBM Rapid Access II"
+msgstr ""
+
+msgid "IBM ThinkPad 560Z/600/600E/A22E"
+msgstr ""
+
+msgid "IBM ThinkPad R60/T60/R61/T61"
+msgstr ""
+
+msgid "IBM ThinkPad Z60m/Z60t/Z61m/Z61t"
+msgstr ""
+
+msgid "Icelandic"
+msgstr ""
+
+msgid "Icelandic (Dvorak)"
+msgstr ""
+
+msgid "Igbo"
+msgstr ""
+
+msgid "Indian"
+msgstr ""
+
+msgid "International Phonetic Alphabet"
+msgstr ""
+
+msgid "Inuktitut"
+msgstr ""
+
+msgid "Iraqi"
+msgstr ""
+
+msgid "Irish"
+msgstr ""
+
+msgid "Italian"
+msgstr ""
+
+msgid "Italian (IBM 142)"
+msgstr ""
+
+msgid "Italian (Macintosh)"
+msgstr ""
+
+msgid "Italian (US, with Italian letters)"
+msgstr ""
+
+msgid "Italian (Winkeys)"
+msgstr ""
+
+msgid "Italian (intl., with dead keys)"
+msgstr ""
+
+msgid "Italian (no dead keys)"
+msgstr ""
+
+msgid "Japanese"
+msgstr ""
+
+msgid "Japanese (Dvorak)"
+msgstr ""
+
+msgid "Japanese (Macintosh)"
+msgstr ""
+
+msgid "Japanese (PC-98)"
+msgstr ""
+
+msgid "Japanese keyboard options"
+msgstr ""
+
+msgid "Kannada"
+msgstr ""
+
+msgid "Kazakh"
+msgstr ""
+
+msgid "Key sequence to kill the X server"
+msgstr ""
+
+msgid "Keytronic FlexPro"
+msgstr ""
+
+msgid "Kinesis"
+msgstr ""
+
+msgid "Korean"
+msgstr ""
+
+msgid "Korean (101/104 key compatible)"
+msgstr ""
+
+msgid "Korean Hangul/Hanja keys"
+msgstr ""
+
+msgid "Kurdish (Iran, Arabic-Latin)"
+msgstr ""
+
+msgid "Kurdish (Iran, F)"
+msgstr ""
+
+msgid "Kurdish (Iran, Latin Alt-Q)"
+msgstr ""
+
+msgid "Kurdish (Iran, Latin Q)"
+msgstr ""
+
+msgid "Kurdish (Iraq, Arabic-Latin)"
+msgstr ""
+
+msgid "Kurdish (Iraq, F)"
+msgstr ""
+
+msgid "Kurdish (Iraq, Latin Alt-Q)"
+msgstr ""
+
+msgid "Kurdish (Iraq, Latin Q)"
+msgstr ""
+
+msgid "Kurdish (Syria, F)"
+msgstr ""
+
+msgid "Kurdish (Syria, Latin Alt-Q)"
+msgstr ""
+
+msgid "Kurdish (Syria, Latin Q)"
+msgstr ""
+
+msgid "Kurdish (Turkey, F)"
+msgstr ""
+
+msgid "Kurdish (Turkey, Latin Alt-Q)"
+msgstr ""
+
+msgid "Kurdish (Turkey, Latin Q)"
+msgstr ""
+
+msgid "Kyrgyz"
+msgstr ""
+
+msgid "Kyrgyz (phonetic)"
+msgstr ""
+
+msgid "Lao"
+msgstr ""
+
+msgid "Latvian"
+msgstr ""
+
+msgid "Layout of numeric keypad"
+msgstr ""
+
+msgid "Left Alt"
+msgstr ""
+
+msgid "Left Alt (while pressed)"
+msgstr ""
+
+msgid "Left Alt is swapped with Left Win"
+msgstr ""
+
+msgid "Left Alt+Left Shift"
+msgstr ""
+
+msgid "Left Ctrl"
+msgstr ""
+
+msgid "Left Ctrl as Meta"
+msgstr ""
+
+msgid "Left Ctrl+Left Shift"
+msgstr ""
+
+msgid "Left Ctrl+Left Win"
+msgstr ""
+
+msgid "Left Shift"
+msgstr ""
+
+msgid "Left Win"
+msgstr ""
+
+msgid "Left Win (while pressed)"
+msgstr ""
+
+msgid "Legacy"
+msgstr ""
+
+msgid "Legacy Wang 724"
+msgstr ""
+
+msgid "Lithuanian"
+msgstr ""
+
+msgid "Lithuanian (IBM LST 1205-92)"
+msgstr ""
+
+msgid "Lithuanian (LEKP)"
+msgstr ""
+
+msgid "Lithuanian (LEKPa)"
+msgstr ""
+
+msgid "Lithuanian (standard)"
+msgstr ""
+
+msgid "Logitech"
+msgstr ""
+
+msgid "Logitech Cordless Desktop"
+msgstr ""
+
+msgid "Logitech Cordless Desktop EX110"
+msgstr ""
+
+msgid "Logitech Cordless Desktop LX-300"
+msgstr ""
+
+msgid "Logitech Cordless Desktop Navigator"
+msgstr ""
+
+msgid "Logitech Cordless Desktop Optical"
+msgstr ""
+
+msgid "Logitech Cordless Desktop iTouch"
+msgstr ""
+
+msgid "Logitech Cordless Freedom/Desktop Navigator"
+msgstr ""
+
+msgid "Logitech Internet 350"
+msgstr ""
+
+msgid "Logitech iTouch"
+msgstr ""
+
+msgid "MacBook/MacBook Pro"
+msgstr ""
+
+msgid "Macedonian"
+msgstr ""
+
+msgid "Macintosh"
+msgstr ""
+
+msgid "Macintosh Old"
+msgstr ""
+
+msgid "Maintain key compatibility with old Solaris keycodes"
+msgstr ""
+
+msgid "Make Caps Lock an additional Backspace"
+msgstr ""
+
+msgid "Make Caps Lock an additional Esc"
+msgstr ""
+
+msgid "Make Caps Lock an additional Hyper"
+msgstr ""
+
+msgid "Make Caps Lock an additional Menu key"
+msgstr ""
+
+msgid "Make Caps Lock an additional Num Lock"
+msgstr ""
+
+msgid "Make Caps Lock an additional Super"
+msgstr ""
+
+msgid "Malayalam"
+msgstr ""
+
+msgid "Maltese"
+msgstr ""
+
+msgid "Maltese (with US layout)"
+msgstr ""
+
+msgid "Memorex MX1998"
+msgstr ""
+
+msgid "Memorex MX2750"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Menu (while pressed), Shift+Menu for Menu"
+msgstr ""
+
+msgid "Menu as Right Ctrl"
+msgstr ""
+
+msgid "Meta is mapped to Left Win"
+msgstr ""
+
+msgid "Meta is mapped to Win"
+msgstr ""
+
+msgid "Microsoft Internet"
+msgstr ""
+
+msgid "Microsoft Natural"
+msgstr ""
+
+msgid "Microsoft Office Keyboard"
+msgstr ""
+
+msgid "Miscellaneous compatibility options"
+msgstr ""
+
+msgid "Moldavian"
+msgstr ""
+
+msgid "Mongolian"
+msgstr ""
+
+msgid "Montenegrin"
+msgstr ""
+
+msgid "Montenegrin (Cyrillic)"
+msgstr ""
+
+msgid "Nepali"
+msgstr ""
+
+msgid "Non-breaking space at the 2nd level"
+msgstr ""
+
+msgid "Non-breaking space at the 3rd level"
+msgstr ""
+
+msgid "Non-breaking space at the 3rd level, nothing at the 4th level"
+msgstr ""
+
+msgid ""
+"Non-breaking space at the 3rd level, thin non-breaking space at the 4th "
+"level"
+msgstr ""
+
+msgid "Non-breaking space at the 4th level"
+msgstr ""
+
+msgid "Northgate OmniKey 101"
+msgstr ""
+
+msgid "Norwegian"
+msgstr ""
+
+msgid "Norwegian (Dvorak)"
+msgstr ""
+
+msgid "Norwegian (Macintosh)"
+msgstr ""
+
+msgid "Num Lock"
+msgstr ""
+
+msgid "Numeric keypad Delete behavior"
+msgstr ""
+
+msgid "Numeric keypad always enters digits (as in macOS)"
+msgstr ""
+
+msgid "OLPC"
+msgstr ""
+
+msgid "Ogham"
+msgstr ""
+
+msgid "Old Hungarian"
+msgstr ""
+
+msgid "Oriya"
+msgstr ""
+
+msgid "PC-98"
+msgstr ""
+
+msgid "Parentheses position"
+msgstr ""
+
+msgid "Pashto"
+msgstr ""
+
+msgid "Pashto (Afghanistan, OLPC)"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Persian"
+msgstr ""
+
+msgid "Persian (Afghanistan, Dari OLPC)"
+msgstr ""
+
+msgid "Persian (with Persian keypad)"
+msgstr ""
+
+msgid "Polish"
+msgstr ""
+
+msgid "Polish (Dvorak)"
+msgstr ""
+
+msgid "Polish (Germany, no dead keys)"
+msgstr ""
+
+msgid "Polish (QWERTZ)"
+msgstr ""
+
+msgid "Polish (legacy)"
+msgstr ""
+
+msgid "Polish (programmer Dvorak)"
+msgstr ""
+
+msgid "Portuguese"
+msgstr ""
+
+msgid "Portuguese (Brazil)"
+msgstr ""
+
+msgid "Portuguese (Brazil, Dvorak)"
+msgstr ""
+
+msgid "Portuguese (Macintosh)"
+msgstr ""
+
+msgid "Portuguese (Macintosh, no dead keys)"
+msgstr ""
+
+msgid "Portuguese (Macintosh, with Sun dead keys)"
+msgstr ""
+
+msgid "Portuguese (no dead keys)"
+msgstr ""
+
+msgid "Portuguese (with Sun dead keys)"
+msgstr ""
+
+msgid "Position of Compose key"
+msgstr ""
+
+msgid "PrtSc"
+msgstr ""
+
+msgid "QTronix Scorpius 98N+"
+msgstr ""
+
+msgid "Right Alt"
+msgstr ""
+
+msgid "Right Alt (while pressed)"
+msgstr ""
+
+msgid "Right Ctrl"
+msgstr ""
+
+msgid "Right Ctrl (while pressed)"
+msgstr ""
+
+msgid "Right Ctrl as Right Alt"
+msgstr ""
+
+msgid "Right Ctrl+Right Shift"
+msgstr ""
+
+msgid "Right Shift"
+msgstr ""
+
+msgid "Right Win"
+msgstr ""
+
+msgid "Romanian"
+msgstr ""
+
+msgid "Romanian (Germany)"
+msgstr ""
+
+msgid "Romanian (Germany, no dead keys)"
+msgstr ""
+
+msgid "Romanian (Win keys)"
+msgstr ""
+
+msgid "Romanian (standard)"
+msgstr ""
+
+msgid "Russian"
+msgstr ""
+
+msgid "Russian (Czech, phonetic)"
+msgstr ""
+
+msgid "Russian (DOS)"
+msgstr ""
+
+msgid "Russian (Macintosh)"
+msgstr ""
+
+msgid "Russian (Sweden, phonetic)"
+msgstr ""
+
+msgid "Russian (Sweden, phonetic, no dead keys)"
+msgstr ""
+
+msgid "Russian (legacy)"
+msgstr ""
+
+msgid "Russian (phonetic, Dvorak)"
+msgstr ""
+
+msgid "Russian (typewriter)"
+msgstr ""
+
+msgid "Russian (typewriter, legacy)"
+msgstr ""
+
+msgid "SVEN Ergonomic 2500"
+msgstr ""
+
+msgid "SVEN Slim 303"
+msgstr ""
+
+msgid "Samsung SDM 4500P"
+msgstr ""
+
+msgid "Samsung SDM 4510P"
+msgstr ""
+
+msgid "Scroll Lock"
+msgstr ""
+
+msgid "Semicolon on third level"
+msgstr ""
+
+msgid "Serbian"
+msgstr ""
+
+msgid "Serbian (Latin)"
+msgstr ""
+
+msgid "Serbian (Latin, QWERTY)"
+msgstr ""
+
+msgid "Serbian (Latin, Unicode)"
+msgstr ""
+
+msgid "Serbian (Latin, Unicode, QWERTY)"
+msgstr ""
+
+msgid "Serbian (Russia)"
+msgstr ""
+
+msgid "Serbo-Croatian (US)"
+msgstr ""
+
+msgid "Shift cancels Caps Lock"
+msgstr ""
+
+msgid "Shift+Caps Lock"
+msgstr ""
+
+msgid "Sindhi"
+msgstr ""
+
+msgid "Slovak"
+msgstr ""
+
+msgid "Spanish"
+msgstr ""
+
+msgid "Spanish (Dvorak)"
+msgstr ""
+
+msgid "Spanish (Latin American)"
+msgstr ""
+
+msgid "Spanish (Macintosh)"
+msgstr ""
+
+msgid "Spanish (no dead keys)"
+msgstr ""
+
+msgid "Spanish (with Sun dead keys)"
+msgstr ""
+
+msgid "Special keys (Ctrl+Alt+&lt;key&gt;) handled in a server"
+msgstr ""
+
+msgid "Sun Key compatibility"
+msgstr ""
+
+msgid "Swahili (Tanzania)"
+msgstr ""
+
+msgid "Swap Ctrl and Caps Lock"
+msgstr ""
+
+msgid "Swap ESC and Caps Lock"
+msgstr ""
+
+msgid "Swap Left Alt with Left Ctrl"
+msgstr ""
+
+msgid "Swedish"
+msgstr ""
+
+msgid "Swedish (Dvorak)"
+msgstr ""
+
+msgid "Swedish (Macintosh)"
+msgstr ""
+
+msgid "Swedish (no dead keys)"
+msgstr ""
+
+msgid "Switching to another layout"
+msgstr ""
+
+msgid "Syriac"
+msgstr ""
+
+msgid "Syriac (phonetic)"
+msgstr ""
+
+msgid "Taiwanese"
+msgstr ""
+
+msgid "Taiwanese (indigenous)"
+msgstr ""
+
+msgid "Tajik"
+msgstr ""
+
+msgid "Telugu"
+msgstr ""
+
+msgid "Thai"
+msgstr ""
+
+msgid "Thai (Pattachote)"
+msgstr ""
+
+msgid "Thai (TIS-820.2538)"
+msgstr ""
+
+msgid "Tibetan"
+msgstr ""
+
+msgid "Tibetan (with ASCII numerals)"
+msgstr ""
+
+msgid "Toshiba Satellite S3000"
+msgstr ""
+
+msgid "Trust Wireless Classic"
+msgstr ""
+
+msgid "Turkish"
+msgstr ""
+
+msgid "Turkish (Alt-Q)"
+msgstr ""
+
+msgid "Turkish (F)"
+msgstr ""
+
+msgid "Turkish (Germany)"
+msgstr ""
+
+msgid "Turkish (intl., with dead keys)"
+msgstr ""
+
+msgid "Turkish (with Sun dead keys)"
+msgstr ""
+
+msgid "Ukrainian"
+msgstr ""
+
+msgid "Ukrainian (Win keys)"
+msgstr ""
+
+msgid "Ukrainian (legacy)"
+msgstr ""
+
+msgid "Ukrainian (phonetic)"
+msgstr ""
+
+msgid "Ukrainian (typewriter)"
+msgstr ""
+
+msgid "Unicode additions (arrows and math operators)"
+msgstr ""
+
+msgid "Urdu (Pakistan)"
+msgstr ""
+
+msgid "Urdu (phonetic)"
+msgstr ""
+
+msgid "Use keyboard LED to show alternative layout"
+msgstr ""
+
+msgid "Using space key to input non-breaking space"
+msgstr ""
+
+msgid "Usual space at any level"
+msgstr ""
+
+msgid "Uyghur"
+msgstr ""
+
+msgid "Uzbek"
+msgstr ""
+
+msgid "Uzbek (Afghanistan)"
+msgstr ""
+
+msgid "Uzbek (Afghanistan, OLPC)"
+msgstr ""
+
+msgid "Uzbek (Latin)"
+msgstr ""
+
+msgid "Vietnamese"
+msgstr ""
+
+msgid "Vietnamese (AÐERTY)"
+msgstr ""
+
+msgid "Vietnamese (QĐERTY)"
+msgstr ""
+
+msgid "Win+Space"
+msgstr ""
+
+msgid "Winbook Model XP5"
+msgstr ""
+
+msgid "Yahoo! Internet"
+msgstr ""
+
+msgid "ak"
+msgstr ""
+
+msgid "am"
+msgstr ""
+
+msgid "apl"
+msgstr ""
+
+msgid "ar"
+msgstr ""
+
+msgid "avn"
+msgstr ""
+
+msgid "az"
+msgstr ""
+
+msgid "be"
+msgstr ""
+
+msgid "ber"
+msgstr ""
+
+msgid "bg"
+msgstr ""
+
+msgid "bm"
+msgstr ""
+
+msgid "bn"
+msgstr ""
+
+msgid "brl"
+msgstr ""
+
+msgid "bs"
+msgstr ""
+
+msgid "ca"
+msgstr ""
+
+msgid "chr"
+msgstr ""
+
+msgid "crh"
+msgstr ""
+
+msgid "cs"
+msgstr ""
+
+msgid "da"
+msgstr ""
+
+msgid "de"
+msgstr ""
+
+msgid "dv"
+msgstr ""
+
+msgid "dz"
+msgstr ""
+
+msgid "ee"
+msgstr ""
+
+msgid "en"
+msgstr ""
+
+msgid "eo"
+msgstr ""
+
+msgid "es"
+msgstr ""
+
+msgid "et"
+msgstr ""
+
+msgid "eu"
+msgstr ""
+
+msgid "fa"
+msgstr ""
+
+msgid "ff"
+msgstr ""
+
+msgid "fi"
+msgstr ""
+
+msgid "fo"
+msgstr ""
+
+msgid "fr"
+msgstr ""
+
+msgid "fr-tg"
+msgstr ""
+
+msgid "gaa"
+msgstr ""
+
+msgid "gr"
+msgstr ""
+
+msgid "gu"
+msgstr ""
+
+msgid "ha"
+msgstr ""
+
+msgid "he"
+msgstr ""
+
+msgid "hi"
+msgstr ""
+
+msgid "hr"
+msgstr ""
+
+msgid "hu"
+msgstr ""
+
+msgid "hy"
+msgstr ""
+
+msgid "ie"
+msgstr ""
+
+msgid "ig"
+msgstr ""
+
+msgid "ike"
+msgstr ""
+
+msgid "in"
+msgstr ""
+
+msgid "is"
+msgstr ""
+
+msgid "it"
+msgstr ""
+
+msgid "ja"
+msgstr ""
+
+msgid "ka"
+msgstr ""
+
+msgid "ki"
+msgstr ""
+
+msgid "kk"
+msgstr ""
+
+msgid "km"
+msgstr ""
+
+msgid "kn"
+msgstr ""
+
+msgid "ko"
+msgstr ""
+
+msgid "ku"
+msgstr ""
+
+msgid "kut"
+msgstr ""
+
+msgid "lo"
+msgstr ""
+
+msgid "lt"
+msgstr ""
+
+msgid "lv"
+msgstr ""
+
+msgid "mi"
+msgstr ""
+
+msgid "mk"
+msgstr ""
+
+msgid "ml"
+msgstr ""
+
+msgid "mn"
+msgstr ""
+
+msgid "mt"
+msgstr ""
+
+msgid "my"
+msgstr ""
+
+msgid "ne"
+msgstr ""
+
+msgid "nl"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "pa"
+msgstr ""
+
+msgid "ph"
+msgstr ""
+
+msgid "pl"
+msgstr ""
+
+msgid "ps"
+msgstr ""
+
+msgid "pt"
+msgstr ""
+
+msgid "ro"
+msgstr ""
+
+msgid "ru"
+msgstr ""
+
+msgid "sd"
+msgstr ""
+
+msgid "shs"
+msgstr ""
+
+msgid "si"
+msgstr ""
+
+msgid "sk"
+msgstr ""
+
+msgid "sl"
+msgstr ""
+
+msgid "sq"
+msgstr ""
+
+msgid "sr"
+msgstr ""
+
+msgid "sv"
+msgstr ""
+
+msgid "sw"
+msgstr ""
+
+msgid "syc"
+msgstr ""
+
+msgid "ta"
+msgstr ""
+
+msgid "te"
+msgstr ""
+
+msgid "tg"
+msgstr ""
+
+msgid "th"
+msgstr ""
+
+msgid "tk"
+msgstr ""
+
+msgid "tn"
+msgstr ""
+
+msgid "tr"
+msgstr ""
+
+msgid "ug"
+msgstr ""
+
+msgid "uk"
+msgstr ""
+
+msgid "ur"
+msgstr ""
+
+msgid "us"
+msgstr ""
+
+msgid "uz"
+msgstr ""
+
+msgid "vi"
+msgstr ""
+
+msgid "wo"
+msgstr ""
+
+msgid "xsy"
+msgstr ""
+
+msgid "yo"
+msgstr ""
+
+msgid "zh"
+msgstr ""

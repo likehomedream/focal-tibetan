@@ -1,0 +1,2400 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gedit master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gedit/issues\n"
+"PO-Revision-Date: 2020-01-28 10:43+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:16+0000\n"
+
+msgid "  Ln %d, Col %d"
+msgstr ""
+
+msgid "%d of %d"
+msgstr ""
+
+msgid "%d/%m/%Y %H:%M:%S"
+msgstr ""
+
+msgid "%s (Current Locale)"
+msgstr ""
+
+msgid "%s: invalid encoding."
+msgstr ""
+
+msgid "'Monospace 12'"
+msgstr ""
+
+msgid "'Monospace 9'"
+msgstr ""
+
+msgid "'Sans 11'"
+msgstr ""
+
+msgid "'Sans 8'"
+msgstr ""
+
+msgid "(Empty)"
+msgstr ""
+
+msgid "/ on %s"
+msgstr ""
+
+msgid "01/11/2009 17:52:00"
+msgstr ""
+
+msgid "A Pango font name. Examples are “Sans 12” or “Monospace Bold 14”."
+msgstr ""
+
+msgid ""
+"A custom font that will be used for the editing area. This will only take "
+"effect if the “Use Default Font” option is turned off."
+msgstr ""
+
+msgid "A file with the same name already exists. Please use a different name."
+msgstr ""
+
+msgid "A_dd Scheme"
+msgstr ""
+
+msgid "A_vailable Encodings"
+msgstr ""
+
+msgid "Activation"
+msgstr ""
+
+msgid "Active plugins"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Scheme"
+msgstr ""
+
+msgid "Add Snippet"
+msgstr ""
+
+msgid "Add Tool"
+msgstr ""
+
+msgid "Add a new snippet…"
+msgstr ""
+
+msgid "Add a new tool"
+msgstr ""
+
+msgid "Add or Remove…"
+msgstr ""
+
+msgid "All Files"
+msgstr ""
+
+msgid "All Languages"
+msgstr ""
+
+msgid "All Text Files"
+msgstr ""
+
+msgid "All documents"
+msgstr ""
+
+msgid "All documents except untitled ones"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "All languages"
+msgstr ""
+
+msgid "All supported archives"
+msgstr ""
+
+msgid "Always available"
+msgstr ""
+
+msgid "An error occurred"
+msgstr ""
+
+msgid "An error occurred while creating a new directory"
+msgstr ""
+
+msgid "An error occurred while creating a new file"
+msgstr ""
+
+msgid "An error occurred while deleting a file or directory"
+msgstr ""
+
+msgid "An error occurred while loading a directory"
+msgstr ""
+
+msgid "An error occurred while opening a directory in the file manager"
+msgstr ""
+
+msgid "An error occurred while renaming a file or directory"
+msgstr ""
+
+msgid "An error occurred while setting a root directory"
+msgstr ""
+
+msgid "Append to current document"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete the selected files?"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete “%s”?"
+msgstr ""
+
+msgid "Automatic Indentation"
+msgstr ""
+
+msgid "Automatic indent"
+msgstr ""
+
+msgid "Automatically Detected"
+msgstr ""
+
+msgid "Autosave"
+msgstr ""
+
+msgid "Autosave Interval"
+msgstr ""
+
+msgid "Available formats"
+msgstr ""
+
+msgid "Body Font for Printing"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
+
+msgid "Bracket match found on line: %d"
+msgstr ""
+
+msgid "Bracket match is out of range"
+msgstr ""
+
+msgid "Bracket match not found"
+msgstr ""
+
+msgid "Build"
+msgstr ""
+
+msgid "Bytes"
+msgstr ""
+
+msgid "Bzip2 compressed archive"
+msgstr ""
+
+msgid "C_ase sensitive"
+msgstr ""
+
+msgid "C_haracter Encoding:"
+msgstr ""
+
+msgid "C_ommand color:"
+msgstr ""
+
+msgid "C_ut"
+msgstr ""
+
+msgid "Candidate Encodings"
+msgstr ""
+
+msgid "Cannot find the requested file. Perhaps it has recently been deleted."
+msgstr ""
+
+msgid ""
+"Cannot handle this location in write mode. Please check that you typed the "
+"location correctly and try again."
+msgstr ""
+
+msgid ""
+"Cannot handle “%s:” locations in write mode. Please check that you typed the"
+" location correctly and try again."
+msgstr ""
+
+msgid ""
+"Cannot move file to trash, do you\n"
+"want to delete permanently?"
+msgstr ""
+
+msgid "Ch_aracter Encoding:"
+msgstr ""
+
+msgid "Change side panel page"
+msgstr ""
+
+msgid ""
+"Changes made to the document in the last %d hour will be permanently lost."
+msgid_plural ""
+"Changes made to the document in the last %d hours will be permanently lost."
+msgstr[0] ""
+
+msgid ""
+"Changes made to the document in the last %ld minute will be permanently "
+"lost."
+msgid_plural ""
+"Changes made to the document in the last %ld minutes will be permanently "
+"lost."
+msgstr[0] ""
+
+msgid ""
+"Changes made to the document in the last %ld second will be permanently "
+"lost."
+msgid_plural ""
+"Changes made to the document in the last %ld seconds will be permanently "
+"lost."
+msgstr[0] ""
+
+msgid ""
+"Changes made to the document in the last hour and %d minute will be "
+"permanently lost."
+msgid_plural ""
+"Changes made to the document in the last hour and %d minutes will be "
+"permanently lost."
+msgstr[0] ""
+
+msgid ""
+"Changes made to the document in the last hour will be permanently lost."
+msgstr ""
+
+msgid ""
+"Changes made to the document in the last minute and %ld second will be "
+"permanently lost."
+msgid_plural ""
+"Changes made to the document in the last minute and %ld seconds will be "
+"permanently lost."
+msgstr[0] ""
+
+msgid ""
+"Changes made to the document in the last minute will be permanently lost."
+msgstr ""
+
+msgid "Changes to %d document will be permanently lost."
+msgid_plural "Changes to %d documents will be permanently lost."
+msgstr[0] ""
+
+msgid "Changes to document “%s” will be permanently lost."
+msgstr ""
+
+msgid "Character Encoding:"
+msgstr ""
+
+msgid "Character Encodings"
+msgstr ""
+
+msgid "Characters (no spaces)"
+msgstr ""
+
+msgid "Characters (with spaces)"
+msgstr ""
+
+msgid "Check for latest version of gedit"
+msgstr ""
+
+msgid "Check update"
+msgstr ""
+
+msgid "Checks the spelling of the current document."
+msgstr ""
+
+msgid "Cho_sen Encodings"
+msgstr ""
+
+msgid "Click on this button to select the font to be used by the editor"
+msgstr ""
+
+msgid "Close Document"
+msgstr ""
+
+msgid "Close _without Saving"
+msgstr ""
+
+msgid "Close print preview"
+msgstr ""
+
+msgid "Color Scheme"
+msgstr ""
+
+msgid "Color Scheme Files"
+msgstr ""
+
+msgid "Command Color Text"
+msgstr ""
+
+msgid "Configure date/time plugin"
+msgstr ""
+
+msgid "Connection timed out. Please try again."
+msgstr ""
+
+msgid ""
+"Could not back up the old copy of the file before saving the new one. You "
+"can ignore this warning and save the file anyway, but if an error occurs "
+"while saving, you could lose the old copy of the file. Save anyway?"
+msgstr ""
+
+msgid "Could not create a backup file while saving “%s”"
+msgstr ""
+
+msgid "Could not create a temporary backup file while saving “%s”"
+msgstr ""
+
+msgid "Could not execute command: %s"
+msgstr ""
+
+msgid "Could not find the file “%s”."
+msgstr ""
+
+msgid "Could not mount volume: %s"
+msgstr ""
+
+msgid "Could not open media: %s"
+msgstr ""
+
+msgid "Could not open the file “%s” using the “%s” character encoding."
+msgstr ""
+
+msgid "Could not open the file “%s”."
+msgstr ""
+
+msgid "Could not remove color scheme “%s”."
+msgstr ""
+
+msgid "Could not revert the file “%s”."
+msgstr ""
+
+msgid "Could not save the file “%s” using the “%s” character encoding."
+msgstr ""
+
+msgid "Could not save the file “%s”."
+msgstr ""
+
+msgid "Create Backup Copies"
+msgstr ""
+
+msgid "Create a _backup copy of files before saving"
+msgstr ""
+
+msgid "Create a new document"
+msgstr ""
+
+msgid "Create a new document in an existing instance of gedit"
+msgstr ""
+
+msgid "Create a new top-level window in an existing instance of gedit"
+msgstr ""
+
+msgid "Create new document"
+msgstr ""
+
+msgid "Create new snippet"
+msgstr ""
+
+msgid "Current Locale (%s)"
+msgstr ""
+
+msgid "Current document"
+msgstr ""
+
+msgid "Current line"
+msgstr ""
+
+msgid "Current page (Alt+P)"
+msgstr ""
+
+msgid "Current selection"
+msgstr ""
+
+msgid "Current selection (default to document)"
+msgstr ""
+
+msgid "Current word"
+msgstr ""
+
+msgid "Custom Format"
+msgstr ""
+
+msgid "D_on’t Edit"
+msgstr ""
+
+msgid "D_on’t Save"
+msgstr ""
+
+msgid "Delete selected snippet"
+msgstr ""
+
+msgid "Directory “%s” could not be created: g_mkdir_with_parents() failed: %s"
+msgstr ""
+
+msgid "Display Line Numbers"
+msgstr ""
+
+msgid "Display Right Margin"
+msgstr ""
+
+msgid "Display _grid pattern"
+msgstr ""
+
+msgid "Display _statusbar"
+msgstr ""
+
+msgid "Display in bottom pane"
+msgstr ""
+
+msgid "Display line numbers"
+msgstr ""
+
+msgid "Display list of possible values for the encoding option"
+msgstr ""
+
+msgid "Display right _margin at column:"
+msgstr ""
+
+msgid "Display right margin"
+msgstr ""
+
+msgid "Do not _split words over two lines"
+msgstr ""
+
+msgid "Do you really want to reset the character encodings’ preferences?"
+msgstr ""
+
+msgid "Do you want to edit it anyway?"
+msgstr ""
+
+msgid "Do you want to include selected <b>system</b> snippets in your export?"
+msgstr ""
+
+msgid "Do you want to try to replace it with the one you are saving?"
+msgstr ""
+
+msgid "Docum_ents with unsaved changes:"
+msgstr ""
+
+msgid "Document"
+msgstr ""
+
+msgid "Document Statistics"
+msgstr ""
+
+msgid "Document background pattern type"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Done."
+msgstr ""
+
+msgid "Drop Changes and _Reload"
+msgstr ""
+
+msgid "ENCODING"
+msgstr ""
+
+msgid "Easy file access from the side panel"
+msgstr ""
+
+msgid "Edit Any_way"
+msgstr ""
+
+msgid "Edit text files"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Editor Font"
+msgstr ""
+
+msgid "Editor _font: "
+msgstr ""
+
+msgid "Emacs, Kate and Vim-style modelines support for gedit."
+msgstr ""
+
+msgid "Enable Restore of Remote Locations"
+msgstr ""
+
+msgid "Enable Search Highlighting"
+msgstr ""
+
+msgid "Enable Syntax Highlighting"
+msgstr ""
+
+msgid "Enable text _wrapping"
+msgstr ""
+
+msgid "Encoding:"
+msgstr ""
+
+msgid "Ensure Trailing Newline"
+msgstr ""
+
+msgid "Error Color Text"
+msgstr ""
+
+msgid "Error opening file %s"
+msgstr ""
+
+msgid "Error reverting file %s"
+msgstr ""
+
+msgid "Error saving file %s"
+msgstr ""
+
+msgid "Error when loading “%s”: No such directory"
+msgstr ""
+
+msgid "Execute a custom command and put its output in a new document"
+msgstr ""
+
+msgid "Execute external commands and shell scripts."
+msgstr ""
+
+msgid ""
+"Execution of the Python command (%s) exceeds the maximum time, execution "
+"aborted."
+msgstr ""
+
+msgid "Execution of the Python command (%s) failed: %s"
+msgstr ""
+
+msgid "Exited"
+msgstr ""
+
+msgid "Export Snippets"
+msgstr ""
+
+msgid "Export selected snippets"
+msgstr ""
+
+msgid "Export snippets"
+msgstr ""
+
+msgid "Export successfully completed"
+msgstr ""
+
+msgid "External Tools"
+msgstr ""
+
+msgid "External _Tools"
+msgstr ""
+
+msgid "File Browser"
+msgstr ""
+
+msgid "File Browser Binary Patterns"
+msgstr ""
+
+msgid "File Browser Filter Mode"
+msgstr ""
+
+msgid "File Browser Filter Pattern"
+msgstr ""
+
+msgid "File Browser Panel"
+msgstr ""
+
+msgid "File Browser Root Directory"
+msgstr ""
+
+msgid "File Browser Virtual Root Directory"
+msgstr ""
+
+msgid "File Saving"
+msgstr ""
+
+msgid "File System"
+msgstr ""
+
+msgid "File “%s” does not exist"
+msgstr ""
+
+msgid "File “%s” is not a valid snippets archive"
+msgstr ""
+
+msgid "File “%s” is not a valid snippets file"
+msgstr ""
+
+msgid "File: %s"
+msgstr ""
+
+msgid "Find Ne_xt"
+msgstr ""
+
+msgid "Find Pre_vious"
+msgstr ""
+
+msgid "Find and Replace"
+msgstr ""
+
+msgid "Find and _Replace…"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Font & Colors"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "Found and replaced %d occurrence"
+msgid_plural "Found and replaced %d occurrences"
+msgstr[0] ""
+
+msgid "Found and replaced one occurrence"
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Go to _Line…"
+msgstr ""
+
+msgid "Gzip compressed archive"
+msgstr ""
+
+msgid "He_aders and footers:"
+msgstr ""
+
+msgid "Header Font for Printing"
+msgstr ""
+
+msgid "Hide panel"
+msgstr ""
+
+msgid "Highlight Current Line"
+msgstr ""
+
+msgid "Highlight Matching Brackets"
+msgstr ""
+
+msgid "Highlight Mode"
+msgstr ""
+
+msgid "Highlight current _line"
+msgstr ""
+
+msgid "Highlight current line"
+msgstr ""
+
+msgid "Highlight matching _brackets"
+msgstr ""
+
+msgid "Highlighting"
+msgstr ""
+
+msgid "Highlights every occurrences of selected text."
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid ""
+"Host “%s” could not be found. Please check that your proxy settings are "
+"correct and try again."
+msgstr ""
+
+msgid ""
+"Hostname was invalid. Please check that you typed the location correctly and"
+" try again."
+msgstr ""
+
+msgid "INS"
+msgstr ""
+
+msgid ""
+"If TRUE the file browser plugin will view the directory of the first opened "
+"document given that the file browser hasn’t been used yet. (Thus this "
+"generally applies to opening a document from the command line or opening it "
+"with Nautilus, etc.)"
+msgstr ""
+
+msgid ""
+"If the user should be prompted for a format or if the selected or custom "
+"format should be used."
+msgstr ""
+
+msgid ""
+"If this value is 0, then no line numbers will be inserted when printing a "
+"document. Otherwise, gedit will print line numbers every such number of "
+"lines."
+msgstr ""
+
+msgid ""
+"If true, the external tools will use the desktop-global standard font if "
+"it’s monospace (and the most similar font it can come up with otherwise)."
+msgstr ""
+
+msgid ""
+"If true, the terminal will use the desktop-global standard font if it’s "
+"monospace (and the most similar font it can come up with otherwise)."
+msgstr ""
+
+msgid ""
+"If you continue saving this file you can corrupt the document.  Save anyway?"
+msgstr ""
+
+msgid "If you delete an item, it is permanently lost."
+msgstr ""
+
+msgid "If you don’t save, all your changes will be permanently lost."
+msgstr ""
+
+msgid ""
+"If you don’t save, changes from the last %d hour will be permanently lost."
+msgid_plural ""
+"If you don’t save, changes from the last %d hours will be permanently lost."
+msgstr[0] ""
+
+msgid ""
+"If you don’t save, changes from the last %ld minute will be permanently "
+"lost."
+msgid_plural ""
+"If you don’t save, changes from the last %ld minutes will be permanently "
+"lost."
+msgstr[0] ""
+
+msgid ""
+"If you don’t save, changes from the last %ld second will be permanently "
+"lost."
+msgid_plural ""
+"If you don’t save, changes from the last %ld seconds will be permanently "
+"lost."
+msgstr[0] ""
+
+msgid ""
+"If you don’t save, changes from the last hour and %d minute will be "
+"permanently lost."
+msgid_plural ""
+"If you don’t save, changes from the last hour and %d minutes will be "
+"permanently lost."
+msgstr[0] ""
+
+msgid ""
+"If you don’t save, changes from the last hour will be permanently lost."
+msgstr ""
+
+msgid ""
+"If you don’t save, changes from the last minute and %ld second will be "
+"permanently lost."
+msgid_plural ""
+"If you don’t save, changes from the last minute and %ld seconds will be "
+"permanently lost."
+msgstr[0] ""
+
+msgid ""
+"If you don’t save, changes from the last minute will be permanently lost."
+msgstr ""
+
+msgid ""
+"If you save it, all the external changes could be lost. Save it anyway?"
+msgstr ""
+
+msgid "Import Snippets"
+msgstr ""
+
+msgid "Import snippets"
+msgstr ""
+
+msgid "Import successfully completed"
+msgstr ""
+
+msgid "Imported file “%s” is not a valid snippets file"
+msgstr ""
+
+msgid "In_sert Date and Time…"
+msgstr ""
+
+msgid "Insert Date and Time"
+msgstr ""
+
+msgid "Insert Date/Time"
+msgstr ""
+
+msgid "Insert _spaces instead of tabs"
+msgstr ""
+
+msgid "Insert at cursor position"
+msgstr ""
+
+msgid "Insert often-used pieces of text in a fast way"
+msgstr ""
+
+msgid "Insert spaces"
+msgstr ""
+
+msgid "Inserts current date and time at the cursor position."
+msgstr ""
+
+msgid "Install Scheme"
+msgstr ""
+
+msgid "Install scheme"
+msgstr ""
+
+msgid "Interactive Python console standing in the bottom panel"
+msgstr ""
+
+msgid ""
+"Its flexible plugin system allows you to tailor the application to your "
+"needs and adapt it to your workflow."
+msgstr ""
+
+msgid "L_ine Ending:"
+msgstr ""
+
+msgid "Last split mode choice for line wrapping mode"
+msgstr ""
+
+msgid "Leave Fullscreen"
+msgstr ""
+
+msgid "Line Ending:"
+msgstr ""
+
+msgid "Line Number Font for Printing"
+msgstr ""
+
+msgid "Line Numbers"
+msgstr ""
+
+msgid "Line Wrapping Mode"
+msgstr ""
+
+msgid "Line you want to move the cursor to"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid ""
+"List of active plugins. It contains the “Location” of the active plugins. "
+"See the .gedit-plugin file for obtaining the “Location” of a given plugin."
+msgstr ""
+
+msgid ""
+"List of candidate encodings shown in the Character Encoding menu in the "
+"open/save file chooser. “CURRENT” represents the current locale encoding. "
+"Only recognized encodings are used. The default value is the empty list, in "
+"which case gedit will choose good defaults depending on the country and "
+"language."
+msgstr ""
+
+msgid "Loading %d file…"
+msgid_plural "Loading %d files…"
+msgstr[0] ""
+
+msgid "Loading %s"
+msgstr ""
+
+msgid "Loading %s from %s"
+msgstr ""
+
+msgid "Loading file “%s”…"
+msgstr ""
+
+msgid "Local files only"
+msgstr ""
+
+msgid "MIME Type:"
+msgstr ""
+
+msgid "Mac OS Classic"
+msgstr ""
+
+msgid "Manage External Tools"
+msgstr ""
+
+msgid "Manage Snippets"
+msgstr ""
+
+msgid "Manage _External Tools…"
+msgstr ""
+
+msgid "Manage _Snippets…"
+msgstr ""
+
+msgid "Margin Bottom"
+msgstr ""
+
+msgid "Margin Left"
+msgstr ""
+
+msgid "Margin Right"
+msgstr ""
+
+msgid "Margin Top"
+msgstr ""
+
+msgid "Match Filename"
+msgstr ""
+
+msgid "Match _Entire Word Only"
+msgstr ""
+
+msgid "Match _entire word only"
+msgstr ""
+
+msgid "Match as _Regular Expression"
+msgstr ""
+
+msgid "Maximum Number of Undo Actions"
+msgstr ""
+
+msgid ""
+"Maximum number of actions that gedit will be able to undo or redo. Use “-1” "
+"for unlimited number of actions."
+msgstr ""
+
+msgid "Modelines"
+msgstr ""
+
+msgid "Move _Left"
+msgstr ""
+
+msgid "Move _Right"
+msgstr ""
+
+msgid "Move to New Tab _Group"
+msgstr ""
+
+msgid "Move to New _Window"
+msgstr ""
+
+msgid "Move to a higher priority"
+msgstr ""
+
+msgid "Move to a lower priority"
+msgstr ""
+
+msgid "N_ext Document"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New Document"
+msgstr ""
+
+msgid "New F_ile"
+msgstr ""
+
+msgid "New Window"
+msgstr ""
+
+msgid "New tool"
+msgstr ""
+
+msgid "Nex_t Tab Group"
+msgstr ""
+
+msgid "No mount object for mounted volume: %s"
+msgstr ""
+
+msgid "Notebook Show Tabs Mode"
+msgstr ""
+
+msgid "Nothing"
+msgstr ""
+
+msgid ""
+"Number of minutes after which gedit will automatically save modified files. "
+"This will only take effect if the “Autosave” option is turned on."
+msgstr ""
+
+msgid "OVR"
+msgstr ""
+
+msgid "Open With Tree View"
+msgstr ""
+
+msgid "Open _Recent"
+msgstr ""
+
+msgid "Open a file"
+msgstr ""
+
+msgid "Open a recently used file"
+msgstr ""
+
+msgid "Open a terminal in the document location"
+msgstr ""
+
+msgid "Open files and block process until files are closed"
+msgstr ""
+
+msgid "Open history menu"
+msgstr ""
+
+msgid "Open terminal here"
+msgstr ""
+
+msgid ""
+"Open the tree view when the file browser plugin gets loaded instead of the "
+"bookmarks view"
+msgstr ""
+
+msgid "Overwrite _Mode"
+msgstr ""
+
+msgid "P_revious Tab Group"
+msgstr ""
+
+msgid "Page %N of %Q"
+msgstr ""
+
+msgid "Page %d of %d"
+msgstr ""
+
+msgid "Page Preview"
+msgstr ""
+
+msgid "Page header"
+msgstr ""
+
+msgid "Page total"
+msgstr ""
+
+msgid "Paste selected text or current document to fpaste"
+msgstr ""
+
+msgid "Pick the editor font"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Please check that you are not trying to open a binary file."
+msgstr ""
+
+msgid "Please check that you typed the location correctly and try again."
+msgstr ""
+
+msgid "Plugins"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preparing…"
+msgstr ""
+
+msgid "Print Header"
+msgstr ""
+
+msgid "Print Line Numbers"
+msgstr ""
+
+msgid "Print Syntax Highlighting"
+msgstr ""
+
+msgid "Print line nu_mbers"
+msgstr ""
+
+msgid "Print page _headers"
+msgstr ""
+
+msgid "Print synta_x highlighting"
+msgstr ""
+
+msgid "Printing Line Wrapping Mode"
+msgstr ""
+
+msgid "Prompt Type"
+msgstr ""
+
+msgid "Python Console"
+msgstr ""
+
+msgid "Quick Highlight"
+msgstr ""
+
+msgid "Quick Open"
+msgstr ""
+
+msgid "Quick Open…"
+msgstr ""
+
+msgid "Quickly open files"
+msgstr ""
+
+msgid "R_emove duplicates"
+msgstr ""
+
+msgid "Re_fresh View"
+msgstr ""
+
+msgid "Re_gular expression"
+msgstr ""
+
+msgid "Read-Only"
+msgstr ""
+
+msgid "Remote files only"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove Snippet"
+msgstr ""
+
+msgid "Remove Tool"
+msgstr ""
+
+msgid "Remove selected tool"
+msgstr ""
+
+msgid "Remove trailing spaces"
+msgstr ""
+
+msgid "Remove useless trailing spaces in your file"
+msgstr ""
+
+msgid "Rendering page %d of %d…"
+msgstr ""
+
+msgid "Reopen Closed _Tab"
+msgstr ""
+
+msgid "Replace _All"
+msgstr ""
+
+msgid "Replace _with "
+msgstr ""
+
+msgid "Replace current document"
+msgstr ""
+
+msgid "Replace current selection"
+msgstr ""
+
+msgid "Report the number of words, lines and characters in a document."
+msgstr ""
+
+msgid "Restore Previous Cursor Position"
+msgstr ""
+
+msgid "Revert Tool"
+msgstr ""
+
+msgid "Revert selected snippet"
+msgstr ""
+
+msgid "Revert tool"
+msgstr ""
+
+msgid "Revert unsaved changes to document “%s”?"
+msgstr ""
+
+msgid "Reverting %s"
+msgstr ""
+
+msgid "Reverting %s from %s"
+msgstr ""
+
+msgid "Reverting the document “%s”…"
+msgstr ""
+
+msgid "Right Margin Position"
+msgstr ""
+
+msgid "Run command"
+msgstr ""
+
+msgid "Run gedit in standalone mode"
+msgstr ""
+
+msgid "Run “make” in the document directory"
+msgstr ""
+
+msgid "Running tool:"
+msgstr ""
+
+msgid "S_ave Anyway"
+msgstr ""
+
+msgid "S_elect the documents you want to save:"
+msgstr ""
+
+msgid "S_hortcut key:"
+msgstr ""
+
+msgid "S_ort…"
+msgstr ""
+
+msgid "S_tart at column:"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save _All"
+msgstr ""
+
+msgid "Save _As…"
+msgstr ""
+
+msgid "Save changes to document “%s” before closing?"
+msgstr ""
+
+msgid "Save the current file"
+msgstr ""
+
+msgid "Save the file as plain text?"
+msgstr ""
+
+msgid "Save the file using compression?"
+msgstr ""
+
+msgid "Saving %s"
+msgstr ""
+
+msgid "Saving %s to %s"
+msgstr ""
+
+msgid "Saving file “%s”…"
+msgstr ""
+
+msgid "Saving has been disabled by the system administrator."
+msgstr ""
+
+msgid "Search _backwards"
+msgstr ""
+
+msgid "Search highlight mode…"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select a character encoding from the menu and try again."
+msgstr ""
+
+msgid "Select a different character encoding from the menu and try again."
+msgstr ""
+
+msgid "Selected Format"
+msgstr ""
+
+msgid "Selection"
+msgstr ""
+
+msgid "Send to fpaste"
+msgstr ""
+
+msgid "Set Location to First Document"
+msgstr ""
+
+msgid "Set _Language…"
+msgstr ""
+
+msgid ""
+"Set the character encoding to be used to open the files listed on the "
+"command line"
+msgstr ""
+
+msgid "Sets whether to enable restoring of remote locations."
+msgstr ""
+
+msgid "Shortcut _key:"
+msgstr ""
+
+msgid "Shortcut key with which the snippet is activated"
+msgstr ""
+
+msgid "Show _Binary"
+msgstr ""
+
+msgid "Show _Hidden"
+msgstr ""
+
+msgid "Show multiple pages"
+msgstr ""
+
+msgid "Show the application’s version"
+msgstr ""
+
+msgid "Show the next page"
+msgstr ""
+
+msgid "Show the previous page"
+msgstr ""
+
+msgid "Side _Panel"
+msgstr ""
+
+msgid "Side panel is Visible"
+msgstr ""
+
+msgid "Single snippets file"
+msgstr ""
+
+msgid "Single word the snippet is activated with after pressing Tab"
+msgstr ""
+
+msgid "Smart Home End"
+msgstr ""
+
+msgid "Snippets"
+msgstr ""
+
+msgid "Snippets archive"
+msgstr ""
+
+msgid "Some invalid chars have been detected while saving “%s”"
+msgstr ""
+
+msgid "Sort"
+msgstr ""
+
+msgid "Sorts a document or selected text."
+msgstr ""
+
+msgid ""
+"Specifies how the cursor moves when the HOME and END keys are pressed. Use "
+"“disabled” to always move at the start/end of the line, “after” to move to "
+"the start/end of the line the first time the keys are pressed and to the "
+"start/end of the text ignoring whitespaces the second time the keys are "
+"pressed, “before” to move to the start/end of the text before moving to the "
+"start/end of the line and “always” to always move to the start/end of the "
+"text instead of the start/end of the line."
+msgstr ""
+
+msgid ""
+"Specifies how to wrap long lines for printing. Use “none” for no wrapping, "
+"“word” for wrapping at word boundaries, and “char” for wrapping at "
+"individual character boundaries. Note that the values are case-sensitive, so"
+" make sure they appear exactly as mentioned here."
+msgstr ""
+
+msgid ""
+"Specifies how to wrap long lines in the editing area. Use “none” for no "
+"wrapping, “word” for wrapping at word boundaries, and “char” for wrapping at"
+" individual character boundaries. Note that the values are case-sensitive, "
+"so make sure they appear exactly as mentioned here."
+msgstr ""
+
+msgid ""
+"Specifies the font to use for a document’s body when printing documents."
+msgstr ""
+
+msgid ""
+"Specifies the font to use for line numbers when printing. This will only "
+"take effect if the “Print Line Numbers” option is non-zero."
+msgstr ""
+
+msgid ""
+"Specifies the font to use for page headers when printing a document. This "
+"will only take effect if the “Print Header” option is turned on."
+msgstr ""
+
+msgid ""
+"Specifies the last split mode used with line wrapping mode, so that when "
+"wrapping mode is off we still remember the split mode choice. Use “word” for"
+" wrapping at word boundaries, and “char” for wrapping at individual "
+"character boundaries."
+msgstr ""
+
+msgid ""
+"Specifies the number of spaces that should be displayed instead of Tab "
+"characters."
+msgstr ""
+
+msgid "Specifies the position of the right margin."
+msgstr ""
+
+msgid ""
+"Specifies when to show the notebook tabs. Use “never” to never show the "
+"tabs, “always” to always show the tabs, and “auto” to show the tabs only "
+"when there is more than one tab. Note that the values are case-sensitive, so"
+" make sure they appear exactly as mentioned here."
+msgstr ""
+
+msgid "Spell Checker"
+msgstr ""
+
+msgid "Status Bar is Visible"
+msgstr ""
+
+msgid "Stop Tool"
+msgstr ""
+
+msgid "Stopped."
+msgstr ""
+
+msgid "String you want to search for"
+msgstr ""
+
+msgid "Style Scheme"
+msgstr ""
+
+msgid "Syntax Highlighting"
+msgstr ""
+
+msgid "Tab Group %i"
+msgstr ""
+
+msgid "Tab Size"
+msgstr ""
+
+msgid "Tab Stops"
+msgstr ""
+
+msgid "Tab Width: %u"
+msgstr ""
+
+msgid "Target directory “%s” does not exist"
+msgstr ""
+
+msgid "Target directory “%s” is not a valid directory"
+msgstr ""
+
+msgid "Text Editor"
+msgstr ""
+
+msgid "Text Wrapping"
+msgstr ""
+
+msgid "Text wrapping"
+msgstr ""
+
+msgid "The ID of a GtkSourceView Style Scheme used to color the text."
+msgstr ""
+
+msgid "The archive “%s” could not be created"
+msgstr ""
+
+msgid "The archive “%s” could not be extracted"
+msgstr ""
+
+msgid "The bottom margin, in millimeters."
+msgstr ""
+
+msgid "The command color text"
+msgstr ""
+
+msgid "The custom format used when inserting the date/time."
+msgstr ""
+
+msgid ""
+"The disk where you are trying to save the file has a limitation on file "
+"sizes. Please try saving a smaller file or saving it to a disk that does not"
+" have this limitation."
+msgstr ""
+
+msgid ""
+"The disk where you are trying to save the file has a limitation on length of"
+" the file names. Please use a shorter name."
+msgstr ""
+
+msgid ""
+"The document contains one or more characters that cannot be encoded using "
+"the specified character encoding."
+msgstr ""
+
+msgid "The error color text"
+msgstr ""
+
+msgid ""
+"The file browser root directory to use when loading the file browser plugin "
+"and onload/tree_view is TRUE."
+msgstr ""
+
+msgid ""
+"The file browser virtual root directory to use when loading the file browser"
+" plugin when onload/tree_view is TRUE. The virtual root must always be below"
+" the actual root."
+msgstr ""
+
+msgid ""
+"The file you opened has some invalid characters. If you continue editing "
+"this file you could corrupt this document."
+msgstr ""
+
+msgid "The file “%s” cannot be moved to the trash."
+msgstr ""
+
+msgid "The file “%s” changed on disk."
+msgstr ""
+
+msgid "The file “%s” has been modified since reading it."
+msgstr ""
+
+msgid "The file “%s” is read-only."
+msgstr ""
+
+msgid ""
+"The file “%s” was previously saved as plain text and will now be saved using"
+" compression."
+msgstr ""
+
+msgid ""
+"The file “%s” was previously saved using compression and will now be saved "
+"as plain text."
+msgstr ""
+
+msgid ""
+"The filter pattern to filter the file browser with. This filter works on top"
+" of the filter_mode."
+msgstr ""
+
+msgid "The following error occurred while exporting: %s"
+msgstr ""
+
+msgid "The following error occurred while importing: %s"
+msgstr ""
+
+msgid "The following files could not be imported: %s"
+msgstr ""
+
+msgid "The left margin, in millimeters."
+msgstr ""
+
+msgid "The location of the file cannot be accessed."
+msgstr ""
+
+msgid ""
+"The new directory is currently filtered out. You need to adjust your filter "
+"settings to make the directory visible"
+msgstr ""
+
+msgid ""
+"The new file is currently filtered out. You need to adjust your filter "
+"settings to make the file visible"
+msgstr ""
+
+msgid ""
+"The number of followed links is limited and the actual file could not be "
+"found within this limit."
+msgstr ""
+
+msgid "The preview of a page in the document to be printed"
+msgstr ""
+
+msgid ""
+"The renamed file is currently filtered out. You need to adjust your filter "
+"settings to make the file visible"
+msgstr ""
+
+msgid "The right margin, in millimeters."
+msgstr ""
+
+msgid "The selected color scheme cannot be installed."
+msgstr ""
+
+msgid "The selected files cannot be moved to the trash."
+msgstr ""
+
+msgid "The selected format used when inserting the date/time."
+msgstr ""
+
+msgid "The supplemental patterns to use when filtering binary files."
+msgstr ""
+
+msgid "The top margin, in millimeters."
+msgstr ""
+
+msgid "The total number of pages in the document"
+msgstr ""
+
+msgid "There are no snippets selected to be exported"
+msgstr ""
+
+msgid "There are unsaved documents"
+msgstr ""
+
+msgid ""
+"There is %d document with unsaved changes. Save changes before closing?"
+msgid_plural ""
+"There are %d documents with unsaved changes. Save changes before closing?"
+msgstr[0] ""
+
+msgid "There is a new version of gedit"
+msgstr ""
+
+msgid "There is a tab with errors"
+msgid_plural "There are %d tabs with errors"
+msgstr[0] ""
+
+msgid ""
+"There is not enough disk space to save the file. Please free some disk space"
+" and try again."
+msgstr ""
+
+msgid "There was a problem opening the file “%s”."
+msgstr ""
+
+msgid "There was an error displaying the URI."
+msgstr ""
+
+msgid "There was an error displaying the help."
+msgstr ""
+
+msgid "This accelerator is already bound to %s"
+msgstr ""
+
+msgid "This file “%s” is already open in another window."
+msgstr ""
+
+msgid ""
+"This is not a valid Tab trigger. Triggers can either contain alphanumeric "
+"characters (or _, : and .) or a single (non-alphanumeric) character like: {,"
+" [, etc."
+msgstr ""
+
+msgid ""
+"This value determines what files get filtered from the file browser. Valid "
+"values are: none (filter nothing), hide-hidden (filter hidden files) and "
+"hide-binary (filter binary files)."
+msgstr ""
+
+msgid "Tool Output"
+msgstr ""
+
+msgid "Type a new accelerator"
+msgstr ""
+
+msgid "Type a new accelerator, or press Backspace to clear"
+msgstr ""
+
+msgid "Type a new shortcut"
+msgstr ""
+
+msgid "Type a new shortcut, or press Backspace to clear"
+msgstr ""
+
+msgid "Type to search…"
+msgstr ""
+
+msgid "Unable to detect the character encoding."
+msgstr ""
+
+msgid "Unable to handle this location."
+msgstr ""
+
+msgid "Unable to handle “%s:” locations."
+msgstr ""
+
+msgid "Unexpected error: %s"
+msgstr ""
+
+msgid "Uninstall Scheme"
+msgstr ""
+
+msgid "Uninstall scheme"
+msgstr ""
+
+msgid "Unix/Linux"
+msgstr ""
+
+msgid "Untitled Document %d"
+msgstr ""
+
+msgid "Untitled File"
+msgstr ""
+
+msgid "Untitled Folder"
+msgstr ""
+
+msgid "Untitled documents only"
+msgstr ""
+
+msgid "Use Default Font"
+msgstr ""
+
+msgid "Use Spaces"
+msgstr ""
+
+msgid "Use the _selected format"
+msgstr ""
+
+msgid "Version to Ignore"
+msgstr ""
+
+msgid "Version to ignore until a newer version is released."
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "When inserting date/time…"
+msgstr ""
+
+msgid ""
+"Whether gedit should automatically save modified files after a time "
+"interval. You can set the time interval with the “Autosave Interval” option."
+msgstr ""
+
+msgid "Whether gedit should create backup copies for the files it saves."
+msgstr ""
+
+msgid "Whether gedit should display line numbers in the editing area."
+msgstr ""
+
+msgid "Whether gedit should display the right margin in the editing area."
+msgstr ""
+
+msgid "Whether gedit should enable automatic indentation."
+msgstr ""
+
+msgid "Whether gedit should enable syntax highlighting."
+msgstr ""
+
+msgid ""
+"Whether gedit should highlight all the occurrences of the searched text."
+msgstr ""
+
+msgid "Whether gedit should highlight matching brackets."
+msgstr ""
+
+msgid "Whether gedit should highlight the current line."
+msgstr ""
+
+msgid ""
+"Whether gedit should include a document header when printing documents."
+msgstr ""
+
+msgid "Whether gedit should insert spaces instead of tabs."
+msgstr ""
+
+msgid ""
+"Whether gedit should print syntax highlighting when printing documents."
+msgstr ""
+
+msgid ""
+"Whether gedit should restore the previous cursor position when a file is "
+"loaded."
+msgstr ""
+
+msgid ""
+"Whether gedit will ensure that documents always end with a trailing newline."
+msgstr ""
+
+msgid "Whether the document will get a background pattern painted."
+msgstr ""
+
+msgid ""
+"Whether the side panel at the left of editing windows should be visible."
+msgstr ""
+
+msgid ""
+"Whether the status bar at the bottom of editing windows should be visible."
+msgstr ""
+
+msgid "Whether to use the system font"
+msgstr ""
+
+msgid ""
+"Whether to use the system’s default fixed width font for editing text "
+"instead of a font specific to gedit. If this option is turned off, then the "
+"font named in the “Editor Font” option will be used instead of the system "
+"font."
+msgstr ""
+
+msgid ""
+"Whether you are writing the next bestseller, programming an innovative "
+"application, or simply taking some quick notes, gedit will be a reliable "
+"tool to accomplish your task."
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Words"
+msgstr ""
+
+msgid "Wra_p around"
+msgstr ""
+
+msgid ""
+"You are trying to save the file on a read-only disk. Please check that you "
+"typed the location correctly and try again."
+msgstr ""
+
+msgid "You can also choose another character encoding and try again."
+msgstr ""
+
+msgid ""
+"You can download the new version of gedit by clicking on the download button"
+" or ignore that version and wait for a new one"
+msgstr ""
+
+msgid "You do not have the permissions necessary to open the file."
+msgstr ""
+
+msgid ""
+"You do not have the permissions necessary to save the file. Please check "
+"that you typed the location correctly and try again."
+msgstr ""
+
+msgid "You must be inside a word to run this command"
+msgstr ""
+
+msgid "Zoom 1:1"
+msgstr ""
+
+msgid "Zoom the page in"
+msgstr ""
+
+msgid "Zoom the page out"
+msgstr ""
+
+msgid "Zoom to fit the whole page"
+msgstr ""
+
+msgid "[FILE…] [+LINE[:COLUMN]]"
+msgstr ""
+
+msgid "_About Text Editor"
+msgstr ""
+
+msgid "_Applicability:"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Autosave files every"
+msgstr ""
+
+msgid "_Body:"
+msgstr ""
+
+msgid "_Bottom Panel"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Check Spelling…"
+msgstr ""
+
+msgid "_Clear Highlight"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Close All"
+msgstr ""
+
+msgid "_Close Preview"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Description"
+msgstr ""
+
+msgid "_Display line numbers"
+msgstr ""
+
+msgid "_Document Statistics"
+msgstr ""
+
+msgid "_Documents"
+msgstr ""
+
+msgid "_Download"
+msgstr ""
+
+msgid "_Drop targets:"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Enable automatic indentation"
+msgstr ""
+
+msgid "_Encoding"
+msgstr ""
+
+msgid "_Error color:"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Filter"
+msgstr ""
+
+msgid "_Find and Replace…"
+msgstr ""
+
+msgid "_Find…"
+msgstr ""
+
+msgid "_Fullscreen"
+msgstr ""
+
+msgid "_Go to Line…"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Highlight Misspelled Words"
+msgstr ""
+
+msgid "_Highlight Mode…"
+msgstr ""
+
+msgid "_Ignore Version"
+msgstr ""
+
+msgid "_Input:"
+msgstr ""
+
+msgid "_Insert"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Line numbers:"
+msgstr ""
+
+msgid "_Match Case"
+msgstr ""
+
+msgid "_Match case"
+msgstr ""
+
+msgid "_Move To New Window"
+msgstr ""
+
+msgid "_Move to Trash"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_New Folder"
+msgstr ""
+
+msgid "_New Tab Group"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_Number every"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Open in Terminal"
+msgstr ""
+
+msgid "_Output:"
+msgstr ""
+
+msgid "_Paste"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Previous Document"
+msgstr ""
+
+msgid "_Print…"
+msgstr ""
+
+msgid "_Prompt for a format"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Redo"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Rename…"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Restore Default Fonts"
+msgstr ""
+
+msgid "_Retry"
+msgstr ""
+
+msgid "_Reverse order"
+msgstr ""
+
+msgid "_Revert"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save All"
+msgstr ""
+
+msgid "_Save As Plain Text"
+msgstr ""
+
+msgid "_Save As…"
+msgstr ""
+
+msgid "_Save Using Compression"
+msgstr ""
+
+msgid "_Save:"
+msgstr ""
+
+msgid "_Search"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Set Root to Active Document"
+msgstr ""
+
+msgid "_Sort"
+msgstr ""
+
+msgid "_Tab trigger:"
+msgstr ""
+
+msgid "_Tab width:"
+msgstr ""
+
+msgid "_Tools"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "_Use custom format"
+msgstr ""
+
+msgid "_Use the system fixed width font (%s)"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_View Folder"
+msgstr ""
+
+msgid "_Wrap Around"
+msgstr ""
+
+msgid "_minutes"
+msgstr ""
+
+msgid "document-open"
+msgstr ""
+
+msgid "gedit"
+msgstr ""
+
+msgid "gedit is a small and lightweight text editor for the GNOME Desktop"
+msgstr ""
+
+msgid ""
+"gedit is the official text editor of the GNOME desktop environment. While "
+"aiming at simplicity and ease of use, gedit is a powerful general purpose "
+"text editor."
+msgstr ""
+
+msgctxt "label of the find button"
+msgid "_Find"
+msgstr ""
+
+msgctxt "label on the left of the GtkEntry containing text to search"
+msgid "F_ind "
+msgstr ""
+
+msgid "lines"
+msgstr ""
+
+msgid "of"
+msgstr ""
+
+msgid "org.gnome.gedit"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Check spelling"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Clear highlight"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close all the documents"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Convert to lowercase"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Convert to uppercase"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy and Paste"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Copy selected text to clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Create a new document in a tab"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Create a new document in a window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Create a new tab group"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Cut selected text to clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Decrement number at cursor"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Delete current line"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Documents"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Editing"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find and Replace"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find the next match"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find the previous match"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Fullscreen on / off"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Go to line"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Increment number at cursor"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Invert case"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Join selected lines"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move current line down"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move current line up"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move current word left"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Move current word right"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Paste text from clipboard"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Print the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit the application"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Redo previous command"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Reopen the most recently closed document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save all the documents"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save the document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Save the document with a new filename"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Select all text"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Selection"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show bottom panel"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show completion window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Show side panel"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to the first — ninth document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to the next document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Switch to the previous document"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Toggle insert / overwrite"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Tools"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo and Redo"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Undo previous command"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Windows and Panels"
+msgstr ""
+
+msgid "system-file-manager"
+msgstr ""
+
+msgid "text-x-script"
+msgstr ""
+
+msgid "tools-check-spelling"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "view-sort-ascending"
+msgstr ""
+
+msgctxt "window title"
+msgid "Open"
+msgstr ""
+
+msgctxt "window title"
+msgid "Save As"
+msgstr ""
+
+msgid "“%s” is a directory."
+msgstr ""
+
+msgid "“%s” is not a regular file."
+msgstr ""
+
+msgid "“%s” is not a valid location."
+msgstr ""
+
+msgid ""
+"“%s” is not a valid location. Please check that you typed the location "
+"correctly and try again."
+msgstr ""
+
+msgid "“%s” not found"
+msgstr ""

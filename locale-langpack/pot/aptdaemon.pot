@@ -1,0 +1,959 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: aptdaemon\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2015-07-24 10:10+0000\n"
+"Last-Translator: peaceman <zengchang1985@163.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:14+0000\n"
+
+msgid "%"
+msgstr ""
+
+msgid "%sB more disk space will be used."
+msgstr ""
+
+msgid "%sB of disk space will be freed."
+msgstr ""
+
+msgid "%sB will be downloaded in total."
+msgstr ""
+
+msgid "Add a new repository and install packages from it"
+msgstr ""
+
+msgid ""
+"Add a new repository of purchased software and install packages from it"
+msgstr ""
+
+msgid "Add new repository from the given deb-line"
+msgstr ""
+
+msgid "Add the vendor keyid (also needs --keyserver)"
+msgstr ""
+
+msgid "Add the vendor to the trusted ones"
+msgstr ""
+
+msgid "Added key from file"
+msgstr ""
+
+msgid "Added software source"
+msgstr ""
+
+msgid "Adding key from file"
+msgstr ""
+
+msgid "Adding license key"
+msgstr ""
+
+msgid "Adding software source"
+msgstr ""
+
+msgid "Adding software source failed"
+msgstr ""
+
+msgid "Adding the key to the list of trusted software vendors failed"
+msgstr ""
+
+msgid "Additional changes are required"
+msgstr ""
+
+msgid "Additional software has to be downgraded"
+msgstr ""
+
+msgid "Additional software has to be installed"
+msgstr ""
+
+msgid "Additional software has to be purged"
+msgstr ""
+
+msgid "Additional software has to be re-installed"
+msgstr ""
+
+msgid "Additional software has to be removed"
+msgstr ""
+
+msgid "Additional software has to be upgraded"
+msgstr ""
+
+msgid "After this operation, %sB of additional disk space will be freed."
+msgstr ""
+
+msgid "After this operation, %sB of additional disk space will be used."
+msgstr ""
+
+msgid "All available upgrades have already been installed."
+msgstr ""
+
+msgid "Allow packages from unauthenticated sources"
+msgstr ""
+
+msgid "An unhandlable error occured"
+msgstr ""
+
+msgid "Applied changes"
+msgstr ""
+
+msgid "Applying changes"
+msgstr ""
+
+msgid "Applying software changes failed"
+msgstr ""
+
+msgid "Authentication failed"
+msgstr ""
+
+msgid "Available packages from %s"
+msgstr ""
+
+msgid "Available sources from %s"
+msgstr ""
+
+msgid "Available translations from %s"
+msgstr ""
+
+msgid "CD/DVD '%s' is required"
+msgstr ""
+
+msgid "C_ontinue"
+msgstr ""
+
+msgid "Cancel the task of another user"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Cancelling"
+msgstr ""
+
+msgid "Change software configuration"
+msgstr ""
+
+msgid "Change software repository"
+msgstr ""
+
+msgid ""
+"Check if you are currently running another software management tool, e.g. "
+"Synaptic or aptitude. Only one tool is allowed to make changes at a time."
+msgstr ""
+
+msgid ""
+"Check if you are using third party repositories. If so disable them, since they are a common source of problems.\n"
+"Furthermore run the following command in a Terminal: apt-get install -f"
+msgstr ""
+
+msgid ""
+"Check the spelling of the package name, and that the appropriate repository "
+"is enabled."
+msgstr ""
+
+msgid "Check your Internet connection."
+msgstr ""
+
+msgid "Cleaning up"
+msgstr ""
+
+msgid "Completely removed %s"
+msgstr ""
+
+msgid "Completely removing %s"
+msgstr ""
+
+msgid "Configuring %s"
+msgstr ""
+
+msgid "Deprecated: Please use --safe-upgrade"
+msgstr ""
+
+msgid "Description of %s"
+msgstr ""
+
+msgid "Description signature of %s"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Do not attach to the apt terminal"
+msgstr ""
+
+msgid "Do not load any plugins"
+msgstr ""
+
+msgid "Do not make any changes to the system (Only of use to developers)"
+msgstr ""
+
+msgid "Do not shutdown the daemon because of inactivity"
+msgstr ""
+
+msgid "Do you want to continue [Y/n]?"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Downgrade"
+msgstr ""
+
+msgid "Downgrade the given packages"
+msgstr ""
+
+msgid "Downloaded"
+msgstr ""
+
+msgid "Downloaded %(cur)sB of %(total)sB"
+msgstr ""
+
+msgid "Downloaded %(cur)sB of %(total)sB at %(rate)sB/s"
+msgstr ""
+
+msgid "Downloaded %sB"
+msgstr ""
+
+msgid "Downloaded %sB of %sB"
+msgstr ""
+
+msgid "Downloaded %sB of %sB at %sB/s"
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Downloading %(files)s"
+msgid_plural "Downloading %(files)s"
+msgstr[0] ""
+
+msgid "Downloading from %s"
+msgid_plural "Downloading from %s"
+msgstr[0] ""
+
+msgid "ERROR"
+msgstr ""
+
+msgid "ERROR:"
+msgstr ""
+
+msgid "Enabled component of the distribution"
+msgstr ""
+
+msgid "Enabling component of the distribution"
+msgstr ""
+
+msgid "Enabling component of the distribution failed"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid ""
+"Failed to download and install the key %s from %s:\n"
+"%s"
+msgstr ""
+
+msgid "Failed to download package files"
+msgstr ""
+
+msgid "Failed to download repository information"
+msgstr ""
+
+msgid "Failed to download the license key"
+msgstr ""
+
+msgid "Failed to install the license key"
+msgstr ""
+
+msgid "Failed to load the package list"
+msgstr ""
+
+msgid "Failed to lock the package manager"
+msgstr ""
+
+msgid "Failed to remove essential system package"
+msgstr ""
+
+msgid "Failed to write key file to: %s"
+msgstr ""
+
+msgid "Fetching"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid ""
+"If you don't know why the file is there already, it is usually safe to "
+"replace it."
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Install or remove packages"
+msgstr ""
+
+msgid "Install package file"
+msgstr ""
+
+msgid "Install software from a high-trust whitelisted repository."
+msgstr ""
+
+msgid "Install the given packages"
+msgstr ""
+
+msgid "Installation of software failed"
+msgstr ""
+
+msgid "Installation of the package file failed"
+msgstr ""
+
+msgid "Installed %s"
+msgstr ""
+
+msgid "Installed file"
+msgstr ""
+
+msgid "Installed packages"
+msgstr ""
+
+msgid "Installing %s"
+msgstr ""
+
+msgid "Installing file"
+msgstr ""
+
+msgid "Installing packages"
+msgstr ""
+
+msgid "Invalid key id: %s"
+msgstr ""
+
+msgid "Invalid protocol of the server: %s"
+msgstr ""
+
+msgid "Key file %s couldn't be installed: %s"
+msgstr ""
+
+msgid "Key was not installed"
+msgstr ""
+
+msgid "Key was not removed"
+msgstr ""
+
+msgid "Key with fingerprint %s couldn't be removed: %s"
+msgstr ""
+
+msgid "List keys of trusted vendors"
+msgstr ""
+
+msgid "List trusted vendor keys"
+msgstr ""
+
+msgid "Listen on the DBus session bus (Only required for testing"
+msgstr ""
+
+msgid "Loading software list"
+msgstr ""
+
+msgid "Need to get %sB of archives."
+msgstr ""
+
+msgid "Network isn't available"
+msgstr ""
+
+msgid "Not supported feature"
+msgstr ""
+
+msgid "Noting disappearance of %s"
+msgstr ""
+
+msgid "Package %s cannot be removed"
+msgstr ""
+
+msgid "Package %s cannot be removed."
+msgstr ""
+
+msgid "Package %s is already installed"
+msgstr ""
+
+msgid "Package %s isn't available"
+msgstr ""
+
+msgid "Package %s isn't installed"
+msgstr ""
+
+msgid "Package dependencies cannot be resolved"
+msgstr ""
+
+msgid "Package does not exist"
+msgstr ""
+
+msgid "Package file could not be opened"
+msgstr ""
+
+msgid "Package is already installed"
+msgstr ""
+
+msgid "Package is already up to date"
+msgstr ""
+
+msgid "Package isn't installed"
+msgstr ""
+
+msgid "Package operation failed"
+msgstr ""
+
+msgid "Perform operations in the given chroot"
+msgstr ""
+
+msgid ""
+"Please copy the file to your local computer and check the file permissions."
+msgstr ""
+
+msgid ""
+"Please insert the above CD/DVD into the drive '%s' to install software "
+"packages from it."
+msgstr ""
+
+msgid "Please take a look at the list of changes below."
+msgstr ""
+
+msgid "Preparing complete removal of %s"
+msgstr ""
+
+msgid "Preparing configuration of %s"
+msgstr ""
+
+msgid "Preparing installation of %s"
+msgstr ""
+
+msgid "Preparing removal of %s"
+msgstr ""
+
+msgid "Previous installation hasn't been completed"
+msgstr ""
+
+msgid "Processing %s"
+msgstr ""
+
+msgid "Purge"
+msgstr ""
+
+msgid "Querying software sources"
+msgstr ""
+
+msgid "Queuing"
+msgstr ""
+
+msgid "Quit and replace an already running daemon"
+msgstr ""
+
+msgid ""
+"Reconfigure installed packages. Optionally the minimum priority of questions"
+" can be specified"
+msgstr ""
+
+msgid "Reconfigured installed packages"
+msgstr ""
+
+msgid "Reconfiguring installed packages"
+msgstr ""
+
+msgid "Refresh the cache"
+msgstr ""
+
+msgid "Refreshing the software list failed"
+msgstr ""
+
+msgid "Reinstall"
+msgstr ""
+
+msgid "Reinstall the given packages"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove downloaded package files"
+msgstr ""
+
+msgid "Remove the given packages"
+msgstr ""
+
+msgid "Remove the given packages including configuration files"
+msgstr ""
+
+msgid "Remove the trusted key of the given fingerprint"
+msgstr ""
+
+msgid "Removed %s"
+msgstr ""
+
+msgid "Removed downloaded package files"
+msgstr ""
+
+msgid "Removed packages"
+msgstr ""
+
+msgid "Removed trusted key"
+msgstr ""
+
+msgid "Removing %s"
+msgstr ""
+
+msgid "Removing downloaded package files"
+msgstr ""
+
+msgid "Removing downloaded package files failed"
+msgstr ""
+
+msgid "Removing packages"
+msgstr ""
+
+msgid "Removing software failed"
+msgstr ""
+
+msgid "Removing the vendor from the list of trusted ones failed"
+msgstr ""
+
+msgid "Removing trusted key"
+msgstr ""
+
+msgid "Repaired broken dependencies"
+msgstr ""
+
+msgid "Repaired incomplete installation"
+msgstr ""
+
+msgid "Repairing broken dependencies failed"
+msgstr ""
+
+msgid "Repairing incomplete installation"
+msgstr ""
+
+msgid "Repairing incomplete installation failed"
+msgstr ""
+
+msgid "Repairing installed software"
+msgstr ""
+
+msgid ""
+"Replace your changes in '%s' with a later version of the configuration file?"
+msgstr ""
+
+msgid "Requires installation of untrusted packages"
+msgstr ""
+
+msgid "Resolving dependencies"
+msgstr ""
+
+msgid "Running post-installation trigger %s"
+msgstr ""
+
+msgid "Running task"
+msgstr ""
+
+msgid "Search done"
+msgstr ""
+
+msgid "Search failed"
+msgstr ""
+
+msgid "Searching"
+msgstr ""
+
+msgid "Set a proxy for software downloads"
+msgstr ""
+
+msgid ""
+"Show additional information about the packages. Currently only the version "
+"number"
+msgstr ""
+
+msgid "Show internal processing information"
+msgstr ""
+
+msgid "Skip upgrade"
+msgstr ""
+
+msgid ""
+"Specify an alternative sources.list.d file to which repositories should be "
+"added."
+msgstr ""
+
+msgid "Store profile stats in the specified file"
+msgstr ""
+
+msgid "Structure of %s"
+msgstr ""
+
+msgid "Successful"
+msgstr ""
+
+msgid "Task cannot be monitored or controlled"
+msgstr ""
+
+msgid ""
+"The connection to the daemon was lost. Most likely the background daemon "
+"crashed."
+msgstr ""
+
+msgid "The directory where to install the key to doesn't exist yet: %s"
+msgstr ""
+
+msgid ""
+"The downloaded license key which is required to run this piece of software is not valid or could not be installed correctly.\n"
+"See the details for more information."
+msgstr ""
+
+msgid "The following NEW package will be installed (%(count)s):"
+msgid_plural "The following NEW packages will be installed (%(count)s):"
+msgstr[0] ""
+
+msgid "The following package has been kept back (%(count)s):"
+msgid_plural "The following packages have been kept back (%(count)s):"
+msgstr[0] ""
+
+msgid "The following package will be DOWNGRADED (%(count)s):"
+msgid_plural "The following packages will be DOWNGRADED (%(count)s):"
+msgstr[0] ""
+
+msgid "The following package will be REMOVED (%(count)s):"
+msgid_plural "The following packages will be REMOVED (%(count)s):"
+msgstr[0] ""
+
+msgid "The following package will be reinstalled (%(count)s):"
+msgid_plural "The following packages will be reinstalled (%(count)s):"
+msgstr[0] ""
+
+msgid "The following package will be upgraded (%(count)s):"
+msgid_plural "The following packages will be upgraded (%(count)s):"
+msgstr[0] ""
+
+msgid "The following packages have unmet dependencies:"
+msgstr ""
+
+msgid "The former version %s of %s is already installed"
+msgstr ""
+
+msgid ""
+"The installation could have failed because of an error in the corresponding "
+"software package or it was cancelled in an unfriendly way. You have to "
+"repair this before you can install or remove any further software."
+msgstr ""
+
+msgid ""
+"The installation of a package which violates the quality standards isn't "
+"allowed. This could cause serious problems on your computer. Please contact "
+"the person or organisation who provided this package file and include the "
+"details beneath."
+msgstr ""
+
+msgid "The installation or removal of a software package failed."
+msgstr ""
+
+msgid "The keyserver URL is invalid: %s"
+msgstr ""
+
+msgid "The later version %s of %s is already installed"
+msgstr ""
+
+msgid "The license key already exists: %s"
+msgstr ""
+
+msgid "The license key is empty"
+msgstr ""
+
+msgid "The license key is not allowed to contain executable code."
+msgstr ""
+
+msgid "The license key path %s is invalid"
+msgstr ""
+
+msgid ""
+"The license key which allows you to use this piece of software could not be "
+"downloaded. Please check your network connection."
+msgstr ""
+
+msgid ""
+"The location of the license key is unsecure since it contains symbolic "
+"links. The path %s maps to %s"
+msgstr ""
+
+msgid "The minimum debconf priority of question to be displayed"
+msgstr ""
+
+msgid "The package %s isn't available in the %s release."
+msgstr ""
+
+msgid ""
+"The package doesn't provide a valid Installed-Size control field. See Debian"
+" Policy 5.6.20."
+msgstr ""
+
+msgid "The package is of bad quality"
+msgstr ""
+
+msgid "The package system is broken"
+msgstr ""
+
+msgid "The requested feature is not supported."
+msgstr ""
+
+msgid "The selected file may not be a GPG key file or it might be corrupt."
+msgstr ""
+
+msgid ""
+"The selected key couldn't be removed. Check that you provided a valid "
+"fingerprint."
+msgstr ""
+
+msgid "The system is already up to date"
+msgstr ""
+
+msgid "The version %s of %s is already installed"
+msgstr ""
+
+msgid "The version %s of %s is not installed"
+msgstr ""
+
+msgid "The version %s of %s isn't available"
+msgstr ""
+
+msgid "The version %s of %s isn't available."
+msgstr ""
+
+msgid "The version %s of %s isn't installed"
+msgstr ""
+
+msgid "There isn't any need for a removal."
+msgstr ""
+
+msgid "There isn't any need for an installation"
+msgstr ""
+
+msgid "There isn't any need for an update."
+msgstr ""
+
+msgid ""
+"There seems to be a programming error in aptdaemon, the software that allows"
+" you to install/remove software and to perform other package management "
+"related tasks."
+msgstr ""
+
+msgid ""
+"This error could be caused by required additional software packages which "
+"are missing or not installable. Furthermore there could be a conflict "
+"between software packages which are not allowed to be installed at the same "
+"time."
+msgstr ""
+
+msgid ""
+"This is a serious problem. Try again later. If this problem appears again, "
+"please report an error to the developers."
+msgstr ""
+
+msgid "This requires installing packages from unauthenticated sources."
+msgstr ""
+
+msgid "To cancel someone else's software changes, you need to authenticate."
+msgstr ""
+
+msgid "To change software repository settings, you need to authenticate."
+msgstr ""
+
+msgid "To change software settings, you need to authenticate."
+msgstr ""
+
+msgid "To clean downloaded package files, you need to authenticate."
+msgstr ""
+
+msgid "To install or remove software, you need to authenticate."
+msgstr ""
+
+msgid "To install purchased software, you need to authenticate."
+msgstr ""
+
+msgid "To install software from a new source, you need to authenticate."
+msgstr ""
+
+msgid "To install software, you need to authenticate."
+msgstr ""
+
+msgid "To install this package, you need to authenticate."
+msgstr ""
+
+msgid "To install updated software, you need to authenticate."
+msgstr ""
+
+msgid ""
+"To operate on more than one package put the package names in quotation marks:\n"
+"aptdcon --install \"foo bar\""
+msgstr ""
+
+msgid "To update the software catalog, you need to authenticate."
+msgstr ""
+
+msgid ""
+"To use a proxy server for downloading software, you need to authenticate."
+msgstr ""
+
+msgid "To view the list of trusted keys, you need to authenticate."
+msgstr ""
+
+msgid "Translations (%s) from %s"
+msgstr ""
+
+msgid "Translations for %s (%s) from %s"
+msgstr ""
+
+msgid "Translations for %s from %s"
+msgstr ""
+
+msgid "Try to finish a previous incompleted installation"
+msgstr ""
+
+msgid ""
+"Try to resolve broken dependencies. Potentially dangerous operation since it"
+" could try to remove many packages."
+msgstr ""
+
+msgid "Unpacking %s"
+msgstr ""
+
+msgid "Update package information"
+msgstr ""
+
+msgid "Updated cache"
+msgstr ""
+
+msgid "Updated packages"
+msgstr ""
+
+msgid "Updates will be skipped"
+msgstr ""
+
+msgid "Updating cache"
+msgstr ""
+
+msgid "Updating packages"
+msgstr ""
+
+msgid "Updating software failed"
+msgstr ""
+
+msgid "Upgrade"
+msgstr ""
+
+msgid "Upgrade packages"
+msgstr ""
+
+msgid "Upgrade the system in a safe way"
+msgstr ""
+
+msgid "Upgrade the system, possibly installing and removing packages"
+msgstr ""
+
+msgid "Upgraded system"
+msgstr ""
+
+msgid "Upgrading %s"
+msgstr ""
+
+msgid "Upgrading system"
+msgstr ""
+
+msgid "Upgrading the system failed"
+msgstr ""
+
+msgid "Use the given keyserver for looking up keys"
+msgstr ""
+
+msgid "Waiting"
+msgstr ""
+
+msgid "Waiting for %s to exit"
+msgstr ""
+
+msgid "Waiting for authentication"
+msgstr ""
+
+msgid "Waiting for configuration file prompt"
+msgstr ""
+
+msgid "Waiting for other software managers to quit"
+msgstr ""
+
+msgid "Waiting for required medium"
+msgstr ""
+
+msgid "Waiting for service to start"
+msgstr ""
+
+msgid "You are not allowed to perform this action"
+msgstr ""
+
+msgid "You are not allowed to perform this action."
+msgstr ""
+
+msgid "You could not be authorized"
+msgstr ""
+
+msgid "You don't have the required privileges to perform this action."
+msgstr ""
+
+msgid ""
+"You either provided a wrong password or cancelled the authorization.\n"
+"Furthermore there could also be a technical reason for this error if you haven't seen a password dialog: your desktop environment doesn't provide a PolicyKit session agent."
+msgstr ""
+
+msgid "You need to specify a version to downgrade %s to"
+msgstr ""
+
+msgid ""
+"You requested to remove a package which is an essential part of your system."
+msgstr ""
+
+msgid "_Changes"
+msgstr ""
+
+msgid "_Details"
+msgstr ""
+
+msgid "_Keep"
+msgstr ""
+
+msgid "_Replace"
+msgstr ""
+
+msgid "but %s is installed"
+msgstr ""
+
+msgid "but %s is to be installed"
+msgstr ""
+
+msgid "but it is a virtual package"
+msgstr ""
+
+msgid "but it is not going to be installed"
+msgstr ""
+
+msgid "but it is not installed"
+msgstr ""
+
+msgid "local repository"
+msgstr ""

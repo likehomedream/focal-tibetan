@@ -1,0 +1,347 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-nibbles&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-10-03 00:45+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:57+0000\n"
+
+msgid "%d Point"
+msgid_plural "%d Points"
+msgstr[0] ""
+
+msgid "(%ld more points to reach the leaderboard)"
+msgstr ""
+
+msgid "A worm game for GNOME"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Are you sure you want to start a new game?"
+msgstr ""
+
+msgid "Beginner"
+msgstr ""
+
+msgid "Beginner with Fakes"
+msgstr ""
+
+msgid "Color to use for worm"
+msgstr ""
+
+msgid "Color to use for worm."
+msgstr ""
+
+msgid "Congratulations!"
+msgstr ""
+
+msgid ""
+"Control a worm in its quest to eat bonuses and become longer. Outmaneuver "
+"enemy worms while eating doughnuts and ice cream to increase your length. "
+"Each worm has ten lives and loses one by running into a wall, another worm, "
+"or itself. The enemy worms are after the same bonuses that you are, so be "
+"careful: if they become too large, you won’t have much room for movement."
+msgstr ""
+
+msgid "Controls"
+msgstr ""
+
+msgid "Difficulty Level:"
+msgstr ""
+
+msgid "E_nable sounds"
+msgstr ""
+
+msgid "Eat the treats before the other worms, but don’t hit anything!"
+msgstr ""
+
+msgid "Enable fake bonuses"
+msgstr ""
+
+msgid "Enable fake bonuses."
+msgstr ""
+
+msgid "Enable sounds"
+msgstr ""
+
+msgid "Enable sounds."
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Fast with Fakes"
+msgstr ""
+
+msgid "GNOME Nibbles"
+msgstr ""
+
+msgid "Game Over!"
+msgstr ""
+
+msgid "Game level to start on"
+msgstr ""
+
+msgid "Game level to start on."
+msgstr ""
+
+msgid "Guide a worm around a maze"
+msgstr ""
+
+msgid "Height of the window in pixels"
+msgstr ""
+
+msgid "Height of the window in pixels."
+msgstr ""
+
+msgid "If you start a new game, the current one will be lost."
+msgstr ""
+
+msgid "Is this the first run"
+msgstr ""
+
+msgid "Key"
+msgstr ""
+
+msgid "Key to use for motion down."
+msgstr ""
+
+msgid "Key to use for motion left."
+msgstr ""
+
+msgid "Key to use for motion right."
+msgstr ""
+
+msgid "Key to use for motion up."
+msgstr ""
+
+msgid "Let’s _Play"
+msgstr ""
+
+msgid "Level %d"
+msgstr ""
+
+msgid "Level %d Completed!"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Medium with Fakes"
+msgstr ""
+
+msgid "Move down"
+msgstr ""
+
+msgid "Move left"
+msgstr ""
+
+msgid "Move right"
+msgstr ""
+
+msgid "Move up"
+msgstr ""
+
+msgid "Nibbles"
+msgstr ""
+
+msgid "Number of AI players"
+msgstr ""
+
+msgid "Number of AI players."
+msgstr ""
+
+msgid "Number of human players"
+msgstr ""
+
+msgid "Number of human players."
+msgstr ""
+
+msgid "Number of players"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid ""
+"Play on your own against up to five enemy worms, or share your keyboard to "
+"play with a friend."
+msgstr ""
+
+msgid "Player"
+msgstr ""
+
+msgid "Player %d"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Select the number of computer players."
+msgstr ""
+
+msgid "Select the number of human players."
+msgstr ""
+
+msgid "Setting to decide whether to show first-run hint dialog or not."
+msgstr ""
+
+msgid "Show release version"
+msgstr ""
+
+msgid "Size of game tiles"
+msgstr ""
+
+msgid "Size of game tiles."
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Slow with Fakes"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid ""
+"The adventure progresses through 26 maps of increasing difficulty. The early"
+" levels are mostly open with a few walls, but later on, cramped spaces and "
+"teleporters make things more interesting."
+msgstr ""
+
+msgid "The key you selected is already assigned!"
+msgstr ""
+
+msgid "Use relative movement"
+msgstr ""
+
+msgid "Use relative movement (ie. left or right only)."
+msgstr ""
+
+msgid "Welcome, worms."
+msgstr ""
+
+msgid "Width of the window in pixels"
+msgstr ""
+
+msgid "Width of the window in pixels."
+msgstr ""
+
+msgid "Worm"
+msgstr ""
+
+msgid "Worm _1"
+msgstr ""
+
+msgid "Worm _2"
+msgstr ""
+
+msgid "Worm _3"
+msgstr ""
+
+msgid "Worm _4"
+msgstr ""
+
+msgid "Worm color"
+msgstr ""
+
+msgid "Worms movement speed"
+msgstr ""
+
+msgid "Worms movement speed."
+msgstr ""
+
+msgid "You have completed the game."
+msgstr ""
+
+msgid "_Beginner"
+msgstr ""
+
+msgid "_Enable fake bonuses"
+msgstr ""
+
+msgid "_Fast"
+msgstr ""
+
+msgid "_General"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Medium"
+msgstr ""
+
+msgid "_New Game"
+msgstr ""
+
+msgid "_Next"
+msgstr ""
+
+msgid "_Next Level"
+msgstr ""
+
+msgid "_Pause"
+msgstr ""
+
+msgid "_Play Again"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Resume"
+msgstr ""
+
+msgid "_Scores"
+msgstr ""
+
+msgid "_Slow"
+msgstr ""
+
+msgid "_Start"
+msgstr ""
+
+msgid "blue"
+msgstr ""
+
+msgid "cyan"
+msgstr ""
+
+msgid "game;snake;board;"
+msgstr ""
+
+msgid "green"
+msgstr ""
+
+msgid "purple"
+msgstr ""
+
+msgid "red"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "true if the window is maximized"
+msgstr ""
+
+msgid "true if the window is maximized."
+msgstr ""
+
+msgid "yellow"
+msgstr ""

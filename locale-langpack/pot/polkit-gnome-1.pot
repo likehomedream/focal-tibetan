@@ -1,0 +1,68 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: policykit-gnome VERSION\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=policykit-gnome&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-04 14:46+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:18+0000\n"
+
+msgid "%s (%s)"
+msgstr ""
+
+msgid "<small><b>Action:</b></small>"
+msgstr ""
+
+msgid "<small><b>Vendor:</b></small>"
+msgstr ""
+
+msgid "<small><b>_Details</b></small>"
+msgstr ""
+
+msgid ""
+"An application is attempting to perform an action that requires privileges. "
+"Authentication as one of the users below is required to perform this action."
+msgstr ""
+
+msgid ""
+"An application is attempting to perform an action that requires privileges. "
+"Authentication as the super user is required to perform this action."
+msgstr ""
+
+msgid ""
+"An application is attempting to perform an action that requires privileges. "
+"Authentication is required to perform this action."
+msgstr ""
+
+msgid "Authenticate"
+msgstr ""
+
+msgid "Authentication dialog was dismissed by the user"
+msgstr ""
+
+msgid "Click to edit %s"
+msgstr ""
+
+msgid "Click to open %s"
+msgstr ""
+
+msgid "Select user..."
+msgstr ""
+
+msgid "Your authentication attempt was unsuccessful. Please try again."
+msgstr ""
+
+msgid "_Authenticate"
+msgstr ""
+
+msgid "_Password for %s:"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""

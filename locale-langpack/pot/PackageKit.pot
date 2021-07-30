@@ -1,0 +1,1129 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PackageKit\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-04-04 20:59+0000\n"
+"Last-Translator: Boyuan Yang <073plan@gmail.com>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/freedesktop/packagekit/language/zh_CN/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:00+0000\n"
+
+msgid "(seconds)"
+msgstr ""
+
+msgid "A correct role is required"
+msgstr ""
+
+msgid "A destination directory and the package names to download are required"
+msgstr ""
+
+msgid "A distribution name is required"
+msgstr ""
+
+msgid "A filename to install is required"
+msgstr ""
+
+msgid "A licence identifier (eula-id) is required"
+msgstr ""
+
+msgid "A output directory or file name is required"
+msgstr ""
+
+msgid "A pack with the same name already exists, do you want to overwrite it?"
+msgstr ""
+
+msgid "A package name is required"
+msgstr ""
+
+msgid "A package name to install is required"
+msgstr ""
+
+msgid "A package name to remove is required"
+msgstr ""
+
+msgid "A package name to resolve is required"
+msgstr ""
+
+msgid "A package provide string is required"
+msgstr ""
+
+msgid "A repo name, parameter and value are required"
+msgstr ""
+
+msgid "A repository name is required"
+msgstr ""
+
+msgid "A search term is required"
+msgstr ""
+
+msgid "A search type is required, e.g. name"
+msgstr ""
+
+msgid "A type, key_id and package_id are required"
+msgstr ""
+
+msgid "Accept EULA"
+msgstr ""
+
+msgid "Accepting EULA"
+msgstr ""
+
+msgid "Affected packages:"
+msgstr ""
+
+msgid "Affected packages: None"
+msgstr ""
+
+msgid "Agreement"
+msgstr ""
+
+msgid "An action, e.g. 'update-packages' is required"
+msgstr ""
+
+msgid "An upgrade type is required, e.g. 'minimal', 'default' or 'complete'"
+msgstr ""
+
+msgid "Application restart required by:"
+msgstr ""
+
+msgid "Attempting to rebind device"
+msgstr ""
+
+msgid "Authentication is required to accept a EULA"
+msgstr ""
+
+msgid ""
+"Authentication is required to cancel a task that was not started by yourself"
+msgstr ""
+
+msgid "Authentication is required to change software source parameters"
+msgstr ""
+
+msgid "Authentication is required to clear the offline updates message"
+msgstr ""
+
+msgid ""
+"Authentication is required to consider a key used for signing packages as "
+"trusted"
+msgstr ""
+
+msgid "Authentication is required to install a package"
+msgstr ""
+
+msgid "Authentication is required to install an untrusted package"
+msgstr ""
+
+msgid "Authentication is required to refresh the system sources"
+msgstr ""
+
+msgid "Authentication is required to reload the device with a new driver"
+msgstr ""
+
+msgid "Authentication is required to remove packages"
+msgstr ""
+
+msgid "Authentication is required to repair the installed software"
+msgstr ""
+
+msgid ""
+"Authentication is required to set the network proxy used for downloading "
+"packages"
+msgstr ""
+
+msgid "Authentication is required to trigger offline updates"
+msgstr ""
+
+msgid "Authentication is required to update packages"
+msgstr ""
+
+msgid "Authentication is required to upgrade the operating system"
+msgstr ""
+
+msgid "Available"
+msgstr ""
+
+msgid "Blocked"
+msgstr ""
+
+msgid "Both options selected."
+msgstr ""
+
+msgid "Bug fix "
+msgstr ""
+
+msgid "Bugzilla"
+msgstr ""
+
+msgid "CVE"
+msgstr ""
+
+msgid "Cancel foreign task"
+msgstr ""
+
+msgid "Canceling"
+msgstr ""
+
+msgid "Cancelling"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Change software source parameters"
+msgstr ""
+
+msgid "Changes"
+msgstr ""
+
+msgid "Checking applications in use"
+msgstr ""
+
+msgid "Checking libraries in use"
+msgstr ""
+
+msgid "Checking signatures"
+msgstr ""
+
+msgid "Cleaned up"
+msgstr ""
+
+msgid "Cleaning up"
+msgstr ""
+
+msgid "Cleaning up packages"
+msgstr ""
+
+msgid "Clear offline update message"
+msgstr ""
+
+msgid "Command failed"
+msgstr ""
+
+msgid "Command line"
+msgstr ""
+
+msgid "Committing changes"
+msgstr ""
+
+msgid "Copying files"
+msgstr ""
+
+msgid "Could not disable the debugging sources: %s"
+msgstr ""
+
+msgid "Could not find dependent packages: %s"
+msgstr ""
+
+msgid "Could not install packages: %s"
+msgstr ""
+
+msgid "Creating service pack..."
+msgstr ""
+
+msgid "Daemonize and detach from the terminal"
+msgstr ""
+
+msgid "Debugging Options"
+msgstr ""
+
+msgid "Details about the update:"
+msgstr ""
+
+msgid "Device could not be found"
+msgstr ""
+
+msgid "Device path not found"
+msgstr ""
+
+msgid "Device paths"
+msgstr ""
+
+msgid "Directory not found"
+msgstr ""
+
+msgid "Disable the idle timer"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disabled %i debugging sources."
+msgstr ""
+
+msgid "Disabling sources previously enabled"
+msgstr ""
+
+msgid "Distribution"
+msgstr ""
+
+msgid "Do not display information or progress"
+msgstr ""
+
+msgid "Do not install dependencies of the core packages"
+msgstr ""
+
+msgid "Do not install these packages unless you are sure it is safe to do so."
+msgstr ""
+
+msgid "Do not install this package unless you are sure it is safe to do so."
+msgstr ""
+
+msgid "Do not update these packages unless you are sure it is safe to do so."
+msgstr ""
+
+msgid "Do not update this package unless you are sure it is safe to do so."
+msgstr ""
+
+msgid "Do you accept this agreement?"
+msgstr ""
+
+msgid "Do you accept this signature?"
+msgstr ""
+
+msgid "Do you want to allow installing of unsigned software?"
+msgstr ""
+
+msgid ""
+"Don't actually install any packages, only simulate what would be installed"
+msgstr ""
+
+msgid "Don't actually touch the hardware, only simulate what would be done"
+msgstr ""
+
+msgid "Don't clear environment on startup"
+msgstr ""
+
+msgid "Downloaded"
+msgstr ""
+
+msgid "Downloading"
+msgstr ""
+
+msgid "Downloading details about the software sources."
+msgstr ""
+
+msgid "Downloading file lists"
+msgstr ""
+
+msgid "Downloading filelists (this may take some time to complete)."
+msgstr ""
+
+msgid "Downloading groups"
+msgstr ""
+
+msgid "Downloading list of packages"
+msgstr ""
+
+msgid "Downloading lists of changes"
+msgstr ""
+
+msgid "Downloading packages"
+msgstr ""
+
+msgid "Downloading repository information"
+msgstr ""
+
+msgid "Downloading update information"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "ERROR: Specify package names to install."
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enabled %i debugging sources."
+msgstr ""
+
+msgid "Enabling debugging sources"
+msgstr ""
+
+msgid "Enabling repository"
+msgstr ""
+
+msgid "End user licence agreement required"
+msgstr ""
+
+msgid "Enhancement"
+msgstr ""
+
+msgid "Exit after a small delay"
+msgstr ""
+
+msgid "Exit after the engine has loaded"
+msgstr ""
+
+msgid ""
+"Expected package name, actually got file. Try using 'pkcon install-local %s'"
+" instead."
+msgstr ""
+
+msgid "FAILED."
+msgstr ""
+
+msgid "Failed to contact PackageKit"
+msgstr ""
+
+msgid "Failed to create '%s': %s"
+msgstr ""
+
+msgid "Failed to create directory:"
+msgstr ""
+
+msgid "Failed to find package '%s': %s"
+msgstr ""
+
+msgid "Failed to find the debuginfo package %s: %s"
+msgstr ""
+
+msgid "Failed to find the package %s, or already installed: %s"
+msgstr ""
+
+msgid "Failed to find the package %s: %s"
+msgstr ""
+
+msgid "Failed to get daemon state"
+msgstr ""
+
+msgid "Failed to get properties"
+msgstr ""
+
+msgid "Failed to get the time since this action was last completed"
+msgstr ""
+
+msgid "Failed to install packages"
+msgstr ""
+
+msgid "Failed to launch:"
+msgstr ""
+
+msgid "Failed to open file"
+msgstr ""
+
+msgid "Failed to open package list."
+msgstr ""
+
+msgid "Failed to parse command line"
+msgstr ""
+
+msgid "Failed to rebind device"
+msgstr ""
+
+msgid "Failed to register driver"
+msgstr ""
+
+msgid "Failed to search for file"
+msgstr ""
+
+msgid "Failed to unregister driver"
+msgstr ""
+
+msgid "Failed to verify device path"
+msgstr ""
+
+msgid "Failed to write to device"
+msgstr ""
+
+msgid "Failed to write to the file"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "Fatal error"
+msgstr ""
+
+msgid "File already exists: %s"
+msgstr ""
+
+msgid "Finding debugging packages"
+msgstr ""
+
+msgid "Finding debugging sources"
+msgstr ""
+
+msgid "Finding package name."
+msgstr ""
+
+msgid "Finding packages that depend on these packages"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Found %i disabled debuginfo repos."
+msgstr ""
+
+msgid "Found %i enabled and %i disabled sources."
+msgstr ""
+
+msgid "Found %i extra packages."
+msgstr ""
+
+msgid "Found %i packages to install:"
+msgstr ""
+
+msgid "Found %i packages:"
+msgstr ""
+
+msgid "Found no packages to install."
+msgstr ""
+
+msgid "Generating package lists"
+msgstr ""
+
+msgid "Getting categories"
+msgstr ""
+
+msgid "Getting dependencies"
+msgstr ""
+
+msgid "Getting details"
+msgstr ""
+
+msgid "Getting file list"
+msgstr ""
+
+msgid "Getting information"
+msgstr ""
+
+msgid "Getting package information..."
+msgstr ""
+
+msgid "Getting packages"
+msgstr ""
+
+msgid "Getting provides"
+msgstr ""
+
+msgid "Getting repositories"
+msgstr ""
+
+msgid "Getting requires"
+msgstr ""
+
+msgid "Getting sources list"
+msgstr ""
+
+msgid "Getting the list of files failed"
+msgstr ""
+
+msgid "Getting transactions"
+msgstr ""
+
+msgid "Getting update details"
+msgstr ""
+
+msgid "Getting updates"
+msgstr ""
+
+msgid "Getting upgrades"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Icon"
+msgstr ""
+
+msgid "If specifying a file, the service pack name must end with"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Incorrect device path specified"
+msgstr ""
+
+msgid "Install %s now"
+msgstr ""
+
+msgid "Install package '%s' to provide command '%s'?"
+msgstr ""
+
+msgid "Install signed package"
+msgstr ""
+
+msgid "Install the packages without asking for confirmation"
+msgstr ""
+
+msgid "Install untrusted local file"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installed version"
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Installing files"
+msgstr ""
+
+msgid "Installing packages"
+msgstr ""
+
+msgid "Installing signature"
+msgstr ""
+
+msgid "Installing updates"
+msgstr ""
+
+msgid "Installing..."
+msgstr ""
+
+msgid "Invalid search type"
+msgstr ""
+
+msgid "Issued"
+msgstr ""
+
+msgid "Key ID"
+msgstr ""
+
+msgid "Key Timestamp"
+msgstr ""
+
+msgid "Key URL"
+msgstr ""
+
+msgid "Key fingerprint"
+msgstr ""
+
+msgid "Key user"
+msgstr ""
+
+msgid "Loading cache"
+msgstr ""
+
+msgid "Loading list of packages."
+msgstr ""
+
+msgid "Media change required"
+msgstr ""
+
+msgid "Media label"
+msgstr ""
+
+msgid "Media type"
+msgstr ""
+
+msgid "Message:"
+msgstr ""
+
+msgid "More than one package matches:"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Neither --package or --updates option selected."
+msgstr ""
+
+msgid "No extra packages required."
+msgstr ""
+
+msgid "No files"
+msgstr ""
+
+msgid "No packages found for your system"
+msgstr ""
+
+msgid "No packages require updating to newer versions."
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not installing packages in simulate mode"
+msgstr ""
+
+msgid "OK."
+msgstr ""
+
+msgid "Obsoleted"
+msgstr ""
+
+msgid "Obsoletes"
+msgstr ""
+
+msgid "Obsoleting"
+msgstr ""
+
+msgid "Obsoleting packages"
+msgstr ""
+
+msgid "Option '%s' is not supported"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Package description"
+msgstr ""
+
+msgid "Package files"
+msgstr ""
+
+msgid "PackageKit Catalog"
+msgstr ""
+
+msgid "PackageKit Console Interface"
+msgstr ""
+
+msgid "PackageKit Debuginfo Installer"
+msgstr ""
+
+msgid "PackageKit Device Reloader"
+msgstr ""
+
+msgid "PackageKit Monitor"
+msgstr ""
+
+msgid "PackageKit Package List"
+msgstr ""
+
+msgid "PackageKit Service Pack"
+msgstr ""
+
+msgid "PackageKit service"
+msgstr ""
+
+msgid "Packages providing this file are:"
+msgstr ""
+
+msgid "Packaging backend to use, e.g. dummy"
+msgstr ""
+
+msgid "Parent"
+msgstr ""
+
+msgid "Percentage"
+msgstr ""
+
+msgid "Please choose a command to run"
+msgstr ""
+
+msgid "Please choose a package to install"
+msgstr ""
+
+msgid "Please choose the correct package: "
+msgstr ""
+
+msgid "Please enter a number from 1 to %i: "
+msgstr ""
+
+msgid "Please insert the correct media"
+msgstr ""
+
+msgid ""
+"Please logout and login to complete the update as important security updates"
+" have been installed."
+msgstr ""
+
+msgid "Please logout and login to complete the update."
+msgstr ""
+
+msgid ""
+"Please restart the computer to complete the update as important security "
+"updates have been installed."
+msgstr ""
+
+msgid "Please restart the computer to complete the update."
+msgstr ""
+
+msgid "Prepare the transaction by downloading pakages only"
+msgstr ""
+
+msgid ""
+"Print to screen a machine readable output, rather than using animated "
+"widgets"
+msgstr ""
+
+msgid "Proceed with changes?"
+msgstr ""
+
+msgid "Put all updates available in the service pack"
+msgstr ""
+
+msgid "Querying"
+msgstr ""
+
+msgid "Real name"
+msgstr ""
+
+msgid "Refresh system sources"
+msgstr ""
+
+msgid "Refreshing cache"
+msgstr ""
+
+msgid "Refreshing software list"
+msgstr ""
+
+msgid "Reinstalled"
+msgstr ""
+
+msgid "Reinstalling"
+msgstr ""
+
+msgid "Reload a device"
+msgstr ""
+
+msgid "Remove package"
+msgstr ""
+
+msgid "Removed"
+msgstr ""
+
+msgid "Removing"
+msgstr ""
+
+msgid "Removing packages"
+msgstr ""
+
+msgid "Repackaging files"
+msgstr ""
+
+msgid "Repair System"
+msgstr ""
+
+msgid "Requesting data"
+msgstr ""
+
+msgid "Resolving"
+msgstr ""
+
+msgid "Resolving dependencies"
+msgstr ""
+
+msgid "Restart"
+msgstr ""
+
+msgid "Results:"
+msgstr ""
+
+msgid "Role"
+msgstr ""
+
+msgid "Run %s"
+msgstr ""
+
+msgid "Run now"
+msgstr ""
+
+msgid "Run similar command:"
+msgstr ""
+
+msgid "Run the command using idle network bandwidth and also using less power"
+msgstr ""
+
+msgid "Run version %s now"
+msgstr ""
+
+msgid "Running"
+msgstr ""
+
+msgid "Scanning applications"
+msgstr ""
+
+msgid "Searching by details"
+msgstr ""
+
+msgid "Searching by file"
+msgstr ""
+
+msgid "Searching by name"
+msgstr ""
+
+msgid "Searching groups"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Service pack created '%s'"
+msgstr ""
+
+msgid ""
+"Service packs cannot be created as PackageKit was not built with libarchive "
+"support."
+msgstr ""
+
+msgid "Session restart (security) required:"
+msgstr ""
+
+msgid "Session restart required:"
+msgstr ""
+
+msgid "Set network proxy"
+msgstr ""
+
+msgid "Set the file name of dependencies to be excluded"
+msgstr ""
+
+msgid "Set the filter, e.g. installed"
+msgstr ""
+
+msgid "Setting data"
+msgstr ""
+
+msgid "Show debugging information for all files"
+msgstr ""
+
+msgid "Show debugging options"
+msgstr ""
+
+msgid "Show extra debugging information"
+msgstr ""
+
+msgid "Show the program version and exit"
+msgstr ""
+
+msgid "Show version and exit"
+msgstr ""
+
+msgid "Similar command is:"
+msgstr ""
+
+msgid "Similar commands are:"
+msgstr ""
+
+msgid "Software source name"
+msgstr ""
+
+msgid "Software source signature required"
+msgstr ""
+
+msgid "Starting"
+msgstr ""
+
+msgid "Starting install"
+msgstr ""
+
+msgid "State"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Subcommands:"
+msgstr ""
+
+msgid "Succeeded"
+msgstr ""
+
+msgid "Suitable packages are:"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "System restart (security) required by:"
+msgstr ""
+
+msgid "System restart required by:"
+msgstr ""
+
+msgid "System time"
+msgstr ""
+
+msgid "Testing changes"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "The agreement was not accepted."
+msgstr ""
+
+msgid "The correct media was not inserted."
+msgstr ""
+
+msgid "The daemon crashed mid-transaction!"
+msgstr ""
+
+msgid "The daemon failed to startup"
+msgstr ""
+
+msgid "The filter specified was invalid"
+msgstr ""
+
+msgid "The following packages are untrusted:"
+msgstr ""
+
+msgid "The following packages have to be downgraded:"
+msgstr ""
+
+msgid "The following packages have to be installed:"
+msgstr ""
+
+msgid "The following packages have to be reinstalled:"
+msgstr ""
+
+msgid "The following packages have to be removed:"
+msgstr ""
+
+msgid "The following packages have to be updated:"
+msgstr ""
+
+msgid "The maximum metadata cache age. Use -1 for 'never'."
+msgstr ""
+
+msgid ""
+"The output file or directory (the current directory is used if omitted)"
+msgstr ""
+
+msgid "The pack was not overwritten."
+msgstr ""
+
+msgid "The package manager cannot perform this type of operation."
+msgstr ""
+
+msgid "The package providing this file is:"
+msgstr ""
+
+msgid "The package to be put into the service pack"
+msgstr ""
+
+msgid "The proxy could not be set"
+msgstr ""
+
+msgid "The signature was not accepted."
+msgstr ""
+
+msgid "The software is not from a trusted source."
+msgstr ""
+
+msgid "The transaction did not proceed."
+msgstr ""
+
+msgid "The transaction failed"
+msgstr ""
+
+msgid "The unsigned software will not be installed."
+msgstr ""
+
+msgid "There are no packages to update."
+msgstr ""
+
+msgid "There are no updates available at this time."
+msgstr ""
+
+msgid "There are no upgrades available at this time."
+msgstr ""
+
+msgid "This script can only be used by the root user"
+msgstr ""
+
+msgid "This tool could not find all the packages: %s"
+msgstr ""
+
+msgid "This tool could not find any available package: %s"
+msgstr ""
+
+msgid "This tool could not find the installed package: %s"
+msgstr ""
+
+msgid "This tool could not find the package: %s"
+msgstr ""
+
+msgid "Transaction"
+msgstr ""
+
+msgid "Trigger offline updates"
+msgstr ""
+
+msgid "Trivial"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "Trust a key used for signing packages"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unknown role type"
+msgstr ""
+
+msgid "Unknown state"
+msgstr ""
+
+msgid "Update packages"
+msgstr ""
+
+msgid "Update text"
+msgstr ""
+
+msgid "Update to version %s"
+msgstr ""
+
+msgid "Updated"
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Updating"
+msgstr ""
+
+msgid "Updating packages"
+msgstr ""
+
+msgid "Updating running applications"
+msgstr ""
+
+msgid "Upgrade System"
+msgstr ""
+
+msgid "User ID"
+msgstr ""
+
+msgid "User aborted selection"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Vendor"
+msgstr ""
+
+msgid "Verifying device path"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "Waiting for authentication"
+msgstr ""
+
+msgid "Waiting for package manager lock"
+msgstr ""
+
+msgid "Waiting for package manager lock."
+msgstr ""
+
+msgid "Waiting in queue"
+msgstr ""
+
+msgid "You need to specify a list file to create"
+msgstr ""
+
+msgid "You need to specify at least one valid device path"
+msgstr ""
+
+msgid "command not found"
+msgstr ""

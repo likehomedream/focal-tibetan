@@ -1,0 +1,256 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: opcodes 2.15.96\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-19 13:21+0000\n"
+"Last-Translator: Meng Jie <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:36+0000\n"
+
+msgid "\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  cp0-names=ARCH           Print CP0 register names according to\n"
+"                           specified architecture.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  fpr-names=ABI            Print FPR names according to specified ABI.\n"
+"                           Default: numeric.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  gpr-names=ABI            Print GPR names according to  specified ABI.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  hwr-names=ARCH           Print HWR names according to specified \n"
+"\t\t\t   architecture.\n"
+"                           Default: based on binary being disassembled.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  reg-names=ABI            Print GPR and FPR names according to\n"
+"                           specified ABI.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"  reg-names=ARCH           Print CP0 register and HWR names according to\n"
+"                           specified architecture.\n"
+msgstr ""
+
+msgid ""
+"\n"
+"The following ARM specific disassembler options are supported for use with\n"
+"the -M switch:\n"
+msgstr ""
+
+msgid "$<undefined>"
+msgstr ""
+
+msgid "%02x\t\t*unknown*"
+msgstr ""
+
+msgid "%s: Error: "
+msgstr ""
+
+msgid "%s: Warning: "
+msgstr ""
+
+msgid "(DP) offset out of range."
+msgstr ""
+
+msgid "(SP) offset out of range."
+msgstr ""
+
+msgid "(unknown)"
+msgstr ""
+
+msgid "*unknown*"
+msgstr ""
+
+msgid "21-bit offset out of range"
+msgstr ""
+
+msgid "<function code %d>"
+msgstr ""
+
+msgid "<illegal precision>"
+msgstr ""
+
+msgid "<internal disassembler error>"
+msgstr ""
+
+msgid "<internal error in opcode table: %s %s>\n"
+msgstr ""
+
+msgid "<unknown register %d>"
+msgstr ""
+
+msgid "Address 0x%s is out of bounds.\n"
+msgstr ""
+
+msgid "Bad immediate expression"
+msgstr ""
+
+msgid "Bad register in postincrement"
+msgstr ""
+
+msgid "Bad register in preincrement"
+msgstr ""
+
+msgid "Bad register name"
+msgstr ""
+
+msgid "Don't know how to specify # dependency %s\n"
+msgstr ""
+
+msgid "Hmmmm 0x%x"
+msgstr ""
+
+msgid "Internal disassembler error"
+msgstr ""
+
+msgid "Internal error:  bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr ""
+
+msgid "Internal error: bad sparc-opcode.h: \"%s\", %#.8lx, %#.8lx\n"
+msgstr ""
+
+msgid "Label conflicts with `Rx'"
+msgstr ""
+
+msgid "Label conflicts with register name"
+msgstr ""
+
+msgid "Operand is not a symbol"
+msgstr ""
+
+msgid "Syntax error: No trailing ')'"
+msgstr ""
+
+msgid "Unknown error %d\n"
+msgstr ""
+
+msgid "Unrecognised disassembler option: %s\n"
+msgstr ""
+
+msgid "Unrecognised register name set: %s\n"
+msgstr ""
+
+msgid "bad instruction `%.50s'"
+msgstr ""
+
+msgid "bad instruction `%.50s...'"
+msgstr ""
+
+msgid "branch operand unaligned"
+msgstr ""
+
+msgid "branch to odd offset"
+msgstr ""
+
+msgid "branch value not in range and to odd offset"
+msgstr ""
+
+msgid "branch value out of range"
+msgstr ""
+
+msgid "displacement value is not aligned"
+msgstr ""
+
+msgid "displacement value is out of range"
+msgstr ""
+
+msgid "don't know how to specify %% dependency %s\n"
+msgstr ""
+
+msgid "illegal bitmask"
+msgstr ""
+
+msgid "illegal use of parentheses"
+msgstr ""
+
+msgid "immediate value cannot be register"
+msgstr ""
+
+msgid "immediate value is out of range"
+msgstr ""
+
+msgid "immediate value out of range"
+msgstr ""
+
+msgid "invalid conditional option"
+msgstr ""
+
+msgid "invalid mask field"
+msgstr ""
+
+msgid "invalid register for stack adjustment"
+msgstr ""
+
+msgid "jump hint unaligned"
+msgstr ""
+
+msgid "junk at end of line"
+msgstr ""
+
+msgid "missing `)'"
+msgstr ""
+
+msgid "missing mnemonic in syntax string"
+msgstr ""
+
+msgid "operand out of range (%ld not between %ld and %ld)"
+msgstr ""
+
+msgid "operand out of range (%ld not between %ld and %lu)"
+msgstr ""
+
+msgid "operand out of range (%lu not between %lu and %lu)"
+msgstr ""
+
+msgid "register number must be even"
+msgstr ""
+
+msgid "syntax error (expected char `%c', found `%c')"
+msgstr ""
+
+msgid "syntax error (expected char `%c', found end of instruction)"
+msgstr ""
+
+msgid "unable to change directory to \"%s\", errno = %s\n"
+msgstr ""
+
+msgid "undefined"
+msgstr ""
+
+msgid "unknown"
+msgstr ""
+
+msgid "unknown\t0x%04lx"
+msgstr ""
+
+msgid "unknown constraint `%c'"
+msgstr ""
+
+msgid "unrecognized form of instruction"
+msgstr ""
+
+msgid "unrecognized instruction"
+msgstr ""

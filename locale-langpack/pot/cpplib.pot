@@ -1,0 +1,561 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cpplib 4.6.0\n"
+"Report-Msgid-Bugs-To: https://gcc.gnu.org/bugs/\n"
+"PO-Revision-Date: 2020-04-13 02:31+0000\n"
+"Last-Translator: Meng Jie <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Bugs: Report translation errors to the Language-Team address.\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:34+0000\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-Language: Chinese\n"
+
+msgid "\"%s\" after # is not a positive integer"
+msgstr ""
+
+msgid "\"%s\" after #line is not a positive integer"
+msgstr ""
+
+msgid "\"%s\" cannot be used as a macro name as it is an operator in C++"
+msgstr ""
+
+msgid "\"%s\" is not a valid filename"
+msgstr ""
+
+msgid "\"%s\" re-asserted"
+msgstr ""
+
+msgid "\"%s\" redefined"
+msgstr ""
+
+msgid "\"/*\" within comment"
+msgstr ""
+
+msgid "#%s expects \"FILENAME\" or <FILENAME>"
+msgstr ""
+
+msgid "#%s is a GCC extension"
+msgstr ""
+
+msgid "#%s is a deprecated GCC extension"
+msgstr ""
+
+msgid "#elif after #else"
+msgstr ""
+
+msgid "#elif without #if"
+msgstr ""
+
+msgid "#else after #else"
+msgstr ""
+
+msgid "#else without #if"
+msgstr ""
+
+msgid "#endif without #if"
+msgstr ""
+
+msgid "#include_next in primary source file"
+msgstr ""
+
+msgid "#pragma %s %s is already registered"
+msgstr ""
+
+msgid "#pragma %s is already registered"
+msgstr ""
+
+msgid "#pragma once in main file"
+msgstr ""
+
+msgid "#pragma system_header ignored outside include file"
+msgstr ""
+
+msgid "%.*s is not a valid universal character"
+msgstr ""
+
+msgid "%s"
+msgstr ""
+
+msgid "%s in preprocessing directive"
+msgstr ""
+
+msgid "%s: %s"
+msgstr ""
+
+msgid "%s: not used because `%.*s' defined as `%s' not `%.*s'"
+msgstr ""
+
+msgid "%s: not used because `%.*s' is poisoned"
+msgstr ""
+
+msgid "%s: not used because `%.*s' not defined"
+msgstr ""
+
+msgid "%s: not used because `%s' is defined"
+msgstr ""
+
+msgid "%s: not used because `__COUNTER__' is invalid"
+msgstr ""
+
+msgid "'##' cannot appear at either end of a macro expansion"
+msgstr ""
+
+msgid "'#' is not followed by a macro parameter"
+msgstr ""
+
+msgid "'$' in identifier or number"
+msgstr ""
+
+msgid "'?' without following ':'"
+msgstr ""
+
+msgid "(\"%s\" is an alternative token for \"%s\" in C++)"
+msgstr ""
+
+msgid "(this will be reported only once per input file)"
+msgstr ""
+
+msgid "C++ style comments are not allowed in ISO C90"
+msgstr ""
+
+msgid "CPP arithmetic must be at least as precise as a target int"
+msgstr ""
+
+msgid "CPP half-integer narrower than CPP character"
+msgstr ""
+
+msgid ""
+"CPP on this host cannot handle wide character constants over %lu bits, but "
+"the target requires %lu bits"
+msgstr ""
+
+msgid "ISO C does not permit named variadic macros"
+msgstr ""
+
+msgid "ISO C99 requires whitespace after the macro name"
+msgstr ""
+
+msgid "In _cpp_valid_ucn but not a UCN"
+msgstr ""
+
+msgid "Multiple include guards may be useful for:\n"
+msgstr ""
+
+msgid "\\x used with no following hex digits"
+msgstr ""
+
+msgid "_Pragma takes a parenthesized string literal"
+msgstr ""
+
+msgid "__COUNTER__ expanded inside directive with -fdirectives-only"
+msgstr ""
+
+msgid "__VA_ARGS__ can only appear in the expansion of a C99 variadic macro"
+msgstr ""
+
+msgid "`%.*s' is not in NFC"
+msgstr ""
+
+msgid "`%.*s' is not in NFKC"
+msgstr ""
+
+msgid "anonymous variadic macros were introduced in C99"
+msgstr ""
+
+msgid "assertion without predicate"
+msgstr ""
+
+msgid "assertions are a GCC extension"
+msgstr ""
+
+msgid "assertions are a deprecated extension"
+msgstr ""
+
+msgid "attempt to use poisoned \"%s\""
+msgstr ""
+
+msgid "backslash and newline separated by space"
+msgstr ""
+
+msgid "backslash-newline at end of file"
+msgstr ""
+
+msgid "binary constants are a GCC extension"
+msgstr ""
+
+msgid "cannot find source file %s"
+msgstr ""
+
+msgid "character 0x%lx is not in the basic source character set\n"
+msgstr ""
+
+msgid "character 0x%lx is not unibyte in execution character set"
+msgstr ""
+
+msgid "character constant too long for its type"
+msgstr ""
+
+msgid "comma operator in operand of #if"
+msgstr ""
+
+msgid "conversion from %s to %s not supported by iconv"
+msgstr ""
+
+msgid "converting UCN to execution character set"
+msgstr ""
+
+msgid "converting UCN to source character set"
+msgstr ""
+
+msgid "converting escape sequence to execution character set"
+msgstr ""
+
+msgid "converting to execution character set"
+msgstr ""
+
+msgid "could not determine date and time"
+msgstr ""
+
+msgid "could not determine file timestamp"
+msgstr ""
+
+msgid "cppchar_t must be an unsigned type"
+msgstr ""
+
+msgid "current file is older than %s"
+msgstr ""
+
+msgid "detected recursion whilst expanding macro \"%s\""
+msgstr ""
+
+msgid "division by zero in #if"
+msgstr ""
+
+msgid "duplicate macro parameter \"%s\""
+msgstr ""
+
+msgid "embedding a directive within macro arguments is not portable"
+msgstr ""
+
+msgid "empty character constant"
+msgstr ""
+
+msgid "empty filename in #%s"
+msgstr ""
+
+msgid "extra tokens at end of #%s directive"
+msgstr ""
+
+msgid "failure to convert %s to %s"
+msgstr ""
+
+msgid "fixed-point constants are a GCC extension"
+msgstr ""
+
+msgid "floating constant in preprocessor expression"
+msgstr ""
+
+msgid "function-like macro \"%s\" must be used with arguments in traditional C"
+msgstr ""
+
+msgid "hex escape sequence out of range"
+msgstr ""
+
+msgid "iconv_open"
+msgstr ""
+
+msgid "identifier \"%s\" is a special operator name in C++"
+msgstr ""
+
+msgid "imaginary constants are a GCC extension"
+msgstr ""
+
+msgid "imaginary number in preprocessor expression"
+msgstr ""
+
+msgid "impossible operator '%u'"
+msgstr ""
+
+msgid "incomplete universal character name %.*s"
+msgstr ""
+
+msgid "integer constant is so large that it is unsigned"
+msgstr ""
+
+msgid "integer constant is too large for its type"
+msgstr ""
+
+msgid "integer overflow in preprocessor expression"
+msgstr ""
+
+msgid "invalid #%s directive"
+msgstr ""
+
+msgid "invalid #pragma GCC poison directive"
+msgstr ""
+
+msgid "invalid #pragma pop_macro directive"
+msgstr ""
+
+msgid "invalid #pragma push_macro directive"
+msgstr ""
+
+msgid "invalid built-in macro \"%s\""
+msgstr ""
+
+msgid "invalid character '%c' in raw string delimiter"
+msgstr ""
+
+msgid "invalid flag \"%s\" in line directive"
+msgstr ""
+
+msgid "invalid prefix \"0b\" for floating constant"
+msgstr ""
+
+msgid "invalid preprocessing directive #%s"
+msgstr ""
+
+msgid "invalid string literal, ignoring final '\\'"
+msgstr ""
+
+msgid "invalid suffix \"%.*s\" on floating constant"
+msgstr ""
+
+msgid "invalid suffix \"%.*s\" on integer constant"
+msgstr ""
+
+msgid "invalid suffix \"%.*s\" with hexadecimal floating constant"
+msgstr ""
+
+msgid "line number out of range"
+msgstr ""
+
+msgid "macro \"%s\" is not used"
+msgstr ""
+
+msgid "macro \"%s\" passed %u arguments, but takes just %u"
+msgstr ""
+
+msgid "macro \"%s\" requires %u arguments, but only %u given"
+msgstr ""
+
+msgid "macro argument \"%s\" would be stringified in traditional C"
+msgstr ""
+
+msgid "macro names must be identifiers"
+msgstr ""
+
+msgid "missing '(' after predicate"
+msgstr ""
+
+msgid "missing '(' in expression"
+msgstr ""
+
+msgid "missing ')' after \"defined\""
+msgstr ""
+
+msgid "missing ')' in expression"
+msgstr ""
+
+msgid "missing ')' to complete answer"
+msgstr ""
+
+msgid "missing terminating %c character"
+msgstr ""
+
+msgid "missing terminating > character"
+msgstr ""
+
+msgid "missing whitespace after the macro name"
+msgstr ""
+
+msgid "multi-character character constant"
+msgstr ""
+
+msgid "multi-line comment"
+msgstr ""
+
+msgid "no iconv implementation, cannot convert from %s to %s"
+msgstr ""
+
+msgid "no include path in which to search for %s"
+msgstr ""
+
+msgid "no macro name given in #%s directive"
+msgstr ""
+
+msgid "non-ISO-standard escape sequence, '\\%c'"
+msgstr ""
+
+msgid "null character(s) ignored"
+msgstr ""
+
+msgid "null character(s) preserved in literal"
+msgstr ""
+
+msgid "octal escape sequence out of range"
+msgstr ""
+
+msgid "one or more PCH files were found, but they were invalid"
+msgstr ""
+
+msgid "operator \"defined\" requires an identifier"
+msgstr ""
+
+msgid "pasting \"%s\" and \"%s\" does not give a valid preprocessing token"
+msgstr ""
+
+msgid "poisoning existing macro \"%s\""
+msgstr ""
+
+msgid "predicate must be an identifier"
+msgstr ""
+
+msgid "predicate's answer is empty"
+msgstr ""
+
+msgid ""
+"preprocessor arithmetic has maximum precision of %lu bits; target requires "
+"%lu bits"
+msgstr ""
+
+msgid "raw string delimiter longer than 16 characters"
+msgstr ""
+
+msgid "registering \"%s\" as both a pragma and a pragma namespace"
+msgstr ""
+
+msgid "registering pragma \"%s\" with name expansion and no namespace"
+msgstr ""
+
+msgid "registering pragma with NULL handler"
+msgstr ""
+
+msgid "registering pragmas in namespace \"%s\" with mismatched name expansion"
+msgstr ""
+
+msgid "stdout"
+msgstr ""
+
+msgid "style of line directive is a GCC extension"
+msgstr ""
+
+msgid "suffix for double constant is a GCC extension"
+msgstr ""
+
+msgid "suggest hiding #%s from traditional C with an indented #"
+msgstr ""
+
+msgid "suggest not using #elif in traditional C"
+msgstr ""
+
+msgid "syntax error in macro parameter list"
+msgstr ""
+
+msgid "target char is less than 8 bits wide"
+msgstr ""
+
+msgid "target int is narrower than target char"
+msgstr ""
+
+msgid "target wchar_t is narrower than target char"
+msgstr ""
+
+msgid "the conditional began here"
+msgstr ""
+
+msgid "the left operand of \"%s\" changes sign when promoted"
+msgstr ""
+
+msgid "the meaning of '\\%c' is different in traditional C"
+msgstr ""
+
+msgid "the meaning of '\\a' is different in traditional C"
+msgstr ""
+
+msgid "the meaning of '\\x' is different in traditional C"
+msgstr ""
+
+msgid "the right operand of \"%s\" changes sign when promoted"
+msgstr ""
+
+msgid "this is the location of the previous definition"
+msgstr ""
+
+msgid "this use of \"defined\" may not be portable"
+msgstr ""
+
+msgid "traditional C ignores #%s with the # indented"
+msgstr ""
+
+msgid "traditional C rejects the \"%.*s\" suffix"
+msgstr ""
+
+msgid "traditional C rejects the unary plus operator"
+msgstr ""
+
+msgid "trigraph ??%c converted to %c"
+msgstr ""
+
+msgid "trigraph ??%c ignored, use -trigraphs to enable"
+msgstr ""
+
+msgid "unbalanced stack in %s"
+msgstr ""
+
+msgid "undefining \"%s\""
+msgstr ""
+
+msgid "unexpected end of file after #line"
+msgstr ""
+
+msgid "universal character %.*s is not valid at the start of an identifier"
+msgstr ""
+
+msgid "universal character %.*s is not valid in an identifier"
+msgstr ""
+
+msgid "universal character names are only valid in C++ and C99"
+msgstr ""
+
+msgid "unknown escape sequence: '\\%c'"
+msgstr ""
+
+msgid "unknown escape sequence: '\\%s'"
+msgstr ""
+
+msgid "unspellable token %s"
+msgstr ""
+
+msgid "unterminated #%s"
+msgstr ""
+
+msgid "unterminated argument list invoking macro \"%s\""
+msgstr ""
+
+msgid "unterminated comment"
+msgstr ""
+
+msgid "unterminated raw string"
+msgstr ""
+
+msgid "use -Winvalid-pch for more information"
+msgstr ""
+
+msgid "use of C99 hexadecimal floating constant"
+msgstr ""
+
+msgid "use of C99 long long integer constant"
+msgstr ""
+
+msgid "while reading precompiled header"
+msgstr ""
+
+msgid "while writing precompiled header"
+msgstr ""

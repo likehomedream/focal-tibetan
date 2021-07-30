@@ -1,0 +1,1606 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2017-06-27 20:08+0000\n"
+"Last-Translator: Kakurady Drakenar <kakurady@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:46+0000\n"
+
+msgid " (Limit: %s)"
+msgstr ""
+
+msgid " _to "
+msgstr ""
+
+msgid "%"
+msgstr ""
+
+msgid "%'d Torrent Properties"
+msgstr ""
+
+msgid "%'d day"
+msgid_plural "%'d days"
+msgstr[0] ""
+
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] ""
+
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] ""
+
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] ""
+
+msgid "%1$'d Piece @ %2$s"
+msgid_plural "%1$'d Pieces @ %2$s"
+msgstr[0] ""
+
+msgid "%1$s  %2$s"
+msgstr ""
+
+msgid "%1$s %2$s  %3$s %4$s"
+msgstr ""
+
+msgid "%1$s (%2$'d piece @ %3$s)"
+msgid_plural "%1$s (%2$'d pieces @ %3$s)"
+msgstr[0] ""
+
+msgid "%1$s (%2$'d piece)"
+msgid_plural "%1$s (%2$'d pieces)"
+msgstr[0] ""
+
+msgid "%1$s (%2$s%% of %3$s%% Available)"
+msgstr ""
+
+msgid "%1$s (%2$s%% of %3$s%% Available); %4$s Unverified"
+msgstr ""
+
+msgid "%1$s (%2$s%%)"
+msgstr ""
+
+msgid "%1$s (+%2$s corrupt)"
+msgstr ""
+
+msgid "%1$s ago"
+msgstr ""
+
+msgid "%1$s of %2$s (%3$s%%)"
+msgstr ""
+
+msgid "%1$s of %2$s (%3$s%%), uploaded %4$s (Ratio: %5$s Goal: %6$s)"
+msgstr ""
+
+msgid "%1$s of %2$s (%3$s%%), uploaded %4$s (Ratio: %5$s)"
+msgstr ""
+
+msgid "%1$s, uploaded %2$s (Ratio: %3$s Goal: %4$s)"
+msgstr ""
+
+msgid "%1$s, uploaded %2$s (Ratio: %3$s)"
+msgstr ""
+
+msgid "%1$s; %2$'d File"
+msgid_plural "%1$s; %2$'d Files"
+msgstr[0] ""
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "%s %s started"
+msgstr ""
+
+msgid "%s (Ratio: %s)"
+msgstr ""
+
+msgid "%s - Add Tracker"
+msgstr ""
+
+msgid "%s - Edit Trackers"
+msgstr ""
+
+msgid "%s Properties"
+msgstr ""
+
+msgid "%s free"
+msgstr ""
+
+msgid "%s is not a valid address"
+msgstr ""
+
+msgid "%s is not an IPv4 address. RPC listeners must be IPv4"
+msgstr ""
+
+msgid "%s remaining"
+msgstr ""
+
+msgid "%s succeeded (%d)"
+msgstr ""
+
+msgid "<b>Closing Connections</b>"
+msgstr ""
+
+msgid "<b>Unable to update.</b>"
+msgstr ""
+
+msgid "<b>Update succeeded!</b>"
+msgstr ""
+
+msgid "<i>No source selected</i>"
+msgstr ""
+
+msgid "<i>Testing TCP port…</i>"
+msgstr ""
+
+msgid "A fast and easy BitTorrent client"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Active now"
+msgstr ""
+
+msgid "Activity"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Addresses:"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "Allow _remote access"
+msgstr ""
+
+msgid "Allow encryption"
+msgstr ""
+
+msgid "Allowing desktop hibernation"
+msgstr ""
+
+msgid "Alternative Speed Limits"
+msgstr ""
+
+msgid "Append \"._part\" to incomplete files' names"
+msgstr ""
+
+msgid "Ask Tracker for _More Peers"
+msgstr ""
+
+msgid "Asking for more peers in %s"
+msgstr ""
+
+msgid "Asking for more peers now… <small>%s</small>"
+msgstr ""
+
+msgid "Asking for peer counts in %s"
+msgstr ""
+
+msgid "Asking for peer counts now… <small>%s</small>"
+msgstr ""
+
+msgid "Automatically add .torrent files _from:"
+msgstr ""
+
+msgid "BitTorrent Client"
+msgstr ""
+
+msgid "Blocklist"
+msgstr ""
+
+msgid "Blocklist \"%s\" contains %zu entries"
+msgstr ""
+
+msgid "Blocklist \"%s\" updated with %zu entries"
+msgstr ""
+
+msgid "Blocklist contains %'d rule"
+msgid_plural "Blocklist contains %'d rules"
+msgstr[0] ""
+
+msgid "Blocklist has %'d rule."
+msgid_plural "Blocklist has %'d rules."
+msgstr[0] ""
+
+msgid "Call scrip_t when torrent is completed:"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid ""
+"Click to disable Alternative Speed Limits\n"
+" (%1$s down, %2$s up)"
+msgstr ""
+
+msgid ""
+"Click to enable Alternative Speed Limits\n"
+" (%1$s down, %2$s up)"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Co_mment:"
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Complete"
+msgstr ""
+
+msgid "Connection failed"
+msgstr ""
+
+msgid "Copy _Magnet Link to Clipboard"
+msgstr ""
+
+msgid "Copyright (c) The Transmission Project"
+msgstr ""
+
+msgid "Could not connect to tracker"
+msgstr ""
+
+msgid "Couldn't add corrupt torrent"
+msgid_plural "Couldn't add corrupt torrents"
+msgstr[0] ""
+
+msgid "Couldn't add duplicate torrent"
+msgid_plural "Couldn't add duplicate torrents"
+msgstr[0] ""
+
+msgid "Couldn't bind port %d on %s: %s"
+msgstr ""
+
+msgid "Couldn't bind port %d on %s: %s (%s)"
+msgstr ""
+
+msgid "Couldn't create \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't create socket: %s"
+msgstr ""
+
+msgid "Couldn't find settings key \"%s\""
+msgstr ""
+
+msgid "Couldn't inhibit desktop hibernation: %s"
+msgstr ""
+
+msgid "Couldn't move torrent"
+msgstr ""
+
+msgid "Couldn't open \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't read \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't read \"%s\": %s"
+msgstr ""
+
+msgid "Couldn't save \"%s\""
+msgstr ""
+
+msgid "Couldn't save file \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't save temporary file \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Couldn't truncate \"%1$s\": %2$s"
+msgstr ""
+
+msgid "Create a torrent"
+msgstr ""
+
+msgid "Created \"%s\"!"
+msgstr ""
+
+msgid "Created by %1$s"
+msgstr ""
+
+msgid "Created by %1$s on %2$s"
+msgstr ""
+
+msgid "Created on %1$s"
+msgstr ""
+
+msgid "Creating \"%s\""
+msgstr ""
+
+msgid "Creating torrent…"
+msgstr ""
+
+msgid "Current Session"
+msgstr ""
+
+msgid "DHT is a tool for finding peers without a tracker."
+msgstr ""
+
+msgid "DNS Lookup failed: %s"
+msgstr ""
+
+msgid "Debug"
+msgstr ""
+
+msgid "Delete this torrent's downloaded files?"
+msgid_plural "Delete these %d torrents' downloaded files?"
+msgstr[0] ""
+
+msgid "Dese_lect All"
+msgstr ""
+
+msgid "Desktop"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Dn Blocks"
+msgstr ""
+
+msgid "Dn Reqs"
+msgstr ""
+
+msgid "Do_wnload (%s):"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Down"
+msgstr ""
+
+msgid "Down: %1$s, Up: %2$s"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Download Queue"
+msgstr ""
+
+msgid "Download and share files over BitTorrent"
+msgstr ""
+
+msgid "Downloaded:"
+msgstr ""
+
+msgid "Downloading from %1$'d %2$s"
+msgstr ""
+
+msgid "Downloading from %1$'d of %2$'d %3$s"
+msgstr ""
+
+msgid "Downloading from %1$'d of %2$'d %3$s and %4$'d %5$s"
+msgstr ""
+
+msgid "Downloading from this peer"
+msgstr ""
+
+msgid "Downloading metadata from %1$'d %2$s (%3$d%% done)"
+msgstr ""
+
+msgid "Downloads sharing data in the last _N minutes are active:"
+msgstr ""
+
+msgid "Duration:"
+msgstr ""
+
+msgid "Enable Alternative Speed _Limits"
+msgstr ""
+
+msgid "Enable _automatic updates"
+msgstr ""
+
+msgid "Enable _blocklist:"
+msgstr ""
+
+msgid "Enable _uTP for peer communication"
+msgstr ""
+
+msgid "Encrypted connection"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error opening \"%s\""
+msgstr ""
+
+msgid "Error opening torrent"
+msgstr ""
+
+msgid "Error reading \"%s\": %s"
+msgstr ""
+
+msgid "Error registering Transmission as a %s handler: %s"
+msgstr ""
+
+msgid "Error uncompressing blocklist: %s (%d)"
+msgstr ""
+
+msgid "Error writing \"%s\": %s"
+msgstr ""
+
+msgid "Error:"
+msgstr ""
+
+msgid "Error: %s"
+msgstr ""
+
+msgid "Error: invalid announce URL \"%s\""
+msgstr ""
+
+msgid "Every Day"
+msgstr ""
+
+msgid "File \"%s\" is in the way"
+msgstr ""
+
+msgid "File listing not available for combined torrent properties"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Finished"
+msgstr ""
+
+msgid "Flags"
+msgstr ""
+
+msgid "Forwarded"
+msgstr ""
+
+msgid "Found Internet Gateway Device \"%s\""
+msgstr ""
+
+msgid "Found public address \"%s\""
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "GB"
+msgstr ""
+
+msgid "GB/s"
+msgstr ""
+
+msgctxt "Gerund"
+msgid "Adding"
+msgstr ""
+
+msgctxt "Gerund"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "Gerund"
+msgid "Seeding"
+msgstr ""
+
+msgid "Getting new blocklist…"
+msgstr ""
+
+msgid "GiB"
+msgstr ""
+
+msgid "Got a list of %1$s%2$'d peers%3$s %4$s ago"
+msgstr ""
+
+msgid "Got a scrape error \"%s%s%s\" %s ago"
+msgstr ""
+
+msgid "Got an error %1$s\"%2$s\"%3$s %4$s ago"
+msgstr ""
+
+msgid ""
+"Got signal %d; trying to shut down cleanly. Do it again if it gets stuck."
+msgstr ""
+
+msgid "HTTP _port:"
+msgstr ""
+
+msgid "Hash:"
+msgstr ""
+
+msgid "Have"
+msgstr ""
+
+msgid "Have:"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Honor global _limits"
+msgstr ""
+
+msgid "I _Agree"
+msgstr ""
+
+msgid "IP addresses may use wildcards, such as 192.168.*.*"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid "Incomplete"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Inhibiting desktop hibernation"
+msgstr ""
+
+msgid "Invalid metadata"
+msgstr ""
+
+msgid "Invalid metadata entry \"%s\""
+msgstr ""
+
+msgid "Is another copy of Transmission already running?"
+msgstr ""
+
+msgid "Keep _incomplete torrents in:"
+msgstr ""
+
+msgid "KiB"
+msgstr ""
+
+msgid "LPD is a tool for finding peers on your local network."
+msgstr ""
+
+msgid "Last activity:"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "Limit Download Speed"
+msgstr ""
+
+msgid "Limit Upload Speed"
+msgstr ""
+
+msgid "Limit _download speed (%s):"
+msgstr ""
+
+msgid "Limit _upload speed (%s):"
+msgstr ""
+
+msgid "Limits"
+msgstr ""
+
+msgid "List contains invalid URLs"
+msgstr ""
+
+msgid "Listening Port"
+msgstr ""
+
+msgid "Loaded %d torrents"
+msgstr ""
+
+msgid "Local Address is \"%s\""
+msgstr ""
+
+msgid "Local data is _already there"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "MB/s"
+msgstr ""
+
+msgid "Ma_ximum active downloads:"
+msgstr ""
+
+msgid "Magnet torrent's metadata is not usable"
+msgstr ""
+
+msgid "Maximum peers _overall:"
+msgstr ""
+
+msgid "Maximum peers per _torrent:"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Message Log"
+msgstr ""
+
+msgid "Message _Log"
+msgstr ""
+
+msgid "MiB"
+msgstr ""
+
+msgid "Mixed"
+msgstr ""
+
+msgid "Mo_ve .torrent file to the trash"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Move _Down"
+msgstr ""
+
+msgid "Move _Up"
+msgstr ""
+
+msgid "Move to _Bottom"
+msgstr ""
+
+msgid "Move to _Top"
+msgstr ""
+
+msgid "Moving \"%s\""
+msgstr ""
+
+msgid "N/A"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New Torrent"
+msgstr ""
+
+msgid "No Torrents Selected"
+msgstr ""
+
+msgid ""
+"No data found! Ensure your drives are connected or use \"Set Location\". To "
+"re-download, remove the torrent and re-add it."
+msgstr ""
+
+msgid "No errors"
+msgstr ""
+
+msgid "No source selected"
+msgstr ""
+
+msgid "No updates scheduled"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Not a regular file"
+msgstr ""
+
+msgid "Not forwarded"
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid ""
+"Once removed, continuing the transfer will require the torrent file or "
+"magnet link."
+msgid_plural ""
+"Once removed, continuing the transfers will require the torrent files or "
+"magnet links."
+msgstr[0] ""
+
+msgid "One of these torrents has not finished downloading."
+msgid_plural "Some of these torrents have not finished downloading."
+msgstr[0] ""
+
+msgid "One of these torrents is connected to peers."
+msgid_plural "Some of these torrents are connected to peers."
+msgstr[0] ""
+
+msgid "Only allow these IP a_ddresses:"
+msgstr ""
+
+msgid "Open File"
+msgstr ""
+
+msgid "Open Fold_er"
+msgstr ""
+
+msgid "Open Folder"
+msgstr ""
+
+msgid "Open URL"
+msgstr ""
+
+msgid "Open URL…"
+msgstr ""
+
+msgid "Open _URL…"
+msgstr ""
+
+msgid "Open a Torrent"
+msgstr ""
+
+msgid "Open a torrent"
+msgstr ""
+
+msgid "Open torrent from URL"
+msgstr ""
+
+msgid "Optimistic unchoke"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Origin:"
+msgstr ""
+
+msgid "Override normal speed limits manually or at scheduled times"
+msgstr ""
+
+msgid ""
+"PEX is a tool for exchanging peer lists with the peers you're connected to."
+msgstr ""
+
+msgid "Pass_word:"
+msgstr ""
+
+msgid "Password required"
+msgstr ""
+
+msgid "Pause all torrents"
+msgstr ""
+
+msgid "Pause torrent"
+msgstr ""
+
+msgid "Paused"
+msgstr ""
+
+msgid "Peer Connections"
+msgstr ""
+
+msgid "Peer Limits"
+msgstr ""
+
+msgid "Peer has unchoked us, but we're not interested"
+msgstr ""
+
+msgid "Peer is an incoming connection"
+msgstr ""
+
+msgid "Peer is connected over µTP"
+msgstr ""
+
+msgid "Peer list request %1$stimed out%2$s %3$s ago; will retry"
+msgstr ""
+
+msgid "Peer was found through DHT"
+msgstr ""
+
+msgid "Peer was found through Peer Exchange (PEX)"
+msgstr ""
+
+msgid "Peers"
+msgstr ""
+
+msgid "Pick a _random port every time Transmission is started"
+msgstr ""
+
+msgid "Play a _sound when torrents finish"
+msgstr ""
+
+msgid "Please Verify Local Data! Piece #%zu is corrupt."
+msgstr ""
+
+msgid "Please correct the errors and try again."
+msgstr ""
+
+msgid "Port %d forwarded successfully"
+msgstr ""
+
+msgid "Port %d isn't forwarded"
+msgstr ""
+
+msgid "Port Forwarding"
+msgstr ""
+
+msgid "Port Forwarding (NAT-PMP)"
+msgstr ""
+
+msgid "Port Forwarding (UPnP)"
+msgstr ""
+
+msgid "Port forwarding successful!"
+msgstr ""
+
+msgid "Port forwarding through \"%s\", service \"%s\". (local address: %s:%d)"
+msgstr ""
+
+msgid "Port is <b>closed</b>"
+msgstr ""
+
+msgid "Port is <b>open</b>"
+msgstr ""
+
+msgid "Prefer encryption"
+msgstr ""
+
+msgid "Present Main Window"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Privacy"
+msgstr ""
+
+msgid "Privacy:"
+msgstr ""
+
+msgid "Private to this tracker -- DHT and PEX disabled"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Public torrent"
+msgstr ""
+
+msgid "Queued for download"
+msgstr ""
+
+msgid "Queued for seeding"
+msgstr ""
+
+msgid "Queued for verification"
+msgstr ""
+
+msgid "Queued to ask for more peers"
+msgstr ""
+
+msgid "Queued to ask for peer counts"
+msgstr ""
+
+msgid "Ratio:"
+msgstr ""
+
+msgid "Ratio: %s"
+msgstr ""
+
+msgid "Re_verse Sort Order"
+msgstr ""
+
+msgid "Remaining time unknown"
+msgstr ""
+
+msgid "Remaining time:"
+msgstr ""
+
+msgid "Remote"
+msgstr ""
+
+msgid "Remote Control"
+msgstr ""
+
+msgid "Remove torrent"
+msgstr ""
+
+msgid "Remove torrent?"
+msgid_plural "Remove %d torrents?"
+msgstr[0] ""
+
+msgid "Removing torrent"
+msgstr ""
+
+msgid "Require encryption"
+msgstr ""
+
+msgid "Reset your statistics?"
+msgstr ""
+
+msgid "Restarted manually -- disabling its seed ratio"
+msgstr ""
+
+msgid "Running time:"
+msgstr ""
+
+msgid "Sa_ve to:"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Save Log"
+msgstr ""
+
+msgid "Save to _Location:"
+msgstr ""
+
+msgid "Saved \"%s\""
+msgstr ""
+
+msgid "Scanned %s"
+msgstr ""
+
+msgid "Searching for web interface file \"%s\""
+msgstr ""
+
+msgid "Seed Forever"
+msgstr ""
+
+msgid "Seed regardless of activity"
+msgstr ""
+
+msgid "Seed regardless of ratio"
+msgstr ""
+
+msgid "Seeding Limits"
+msgstr ""
+
+msgid "Seeding to %1$'d of %2$'d connected peer"
+msgid_plural "Seeding to %1$'d of %2$'d connected peers"
+msgstr[0] ""
+
+msgid "Select Destination Folder"
+msgstr ""
+
+msgid "Select Source File"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Sending upload/download totals to tracker…"
+msgstr ""
+
+msgid "Server returned \"%1$ld %2$s\""
+msgstr ""
+
+msgid "Serving RPC and Web requests on port 127.0.0.1:%d%s"
+msgstr ""
+
+msgid "Session Ratio"
+msgstr ""
+
+msgid "Session Transfer"
+msgstr ""
+
+msgid "Set Torrent Location"
+msgstr ""
+
+msgid "Set _Location…"
+msgstr ""
+
+msgid "Show Transmission icon in the _notification area"
+msgstr ""
+
+msgid "Show _backup trackers"
+msgstr ""
+
+msgid "Show _more details"
+msgstr ""
+
+msgid "Show _options dialog"
+msgstr ""
+
+msgid "Show a notification when torrents _finish"
+msgstr ""
+
+msgid "Show a notification when torrents are a_dded"
+msgstr ""
+
+msgid "Show the Torrent Options _dialog"
+msgstr ""
+
+msgid "Show version number and exit"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Skipping unknown torrent \"%s\""
+msgstr ""
+
+msgid "Sort by A_ge"
+msgstr ""
+
+msgid "Sort by Rati_o"
+msgstr ""
+
+msgid "Sort by Si_ze"
+msgstr ""
+
+msgid "Sort by Stat_e"
+msgstr ""
+
+msgid "Sort by Time _Left"
+msgstr ""
+
+msgid "Sort by _Activity"
+msgstr ""
+
+msgid "Sort by _Name"
+msgstr ""
+
+msgid "Sort by _Progress"
+msgstr ""
+
+msgid "Sort by _Queue"
+msgstr ""
+
+msgid "Source F_older:"
+msgstr ""
+
+msgid "Source _File:"
+msgstr ""
+
+msgid "Speed"
+msgstr ""
+
+msgid "Speed Limits"
+msgstr ""
+
+msgid "Stalled"
+msgstr ""
+
+msgid "Start Transmission Minimized"
+msgstr ""
+
+msgid "Start Transmission with All Torrents Paused"
+msgstr ""
+
+msgid "Start _Now"
+msgstr ""
+
+msgid "Start all torrents"
+msgstr ""
+
+msgid "Start minimized in notification area"
+msgstr ""
+
+msgid "Start torrent"
+msgstr ""
+
+msgid "Start torrent now"
+msgstr ""
+
+msgid "Start with all torrents paused"
+msgstr ""
+
+msgid "Started %'d time"
+msgid_plural "Started %'d times"
+msgstr[0] ""
+
+msgid "Starting"
+msgstr ""
+
+msgid "State changed from \"%1$s\" to \"%2$s\""
+msgstr ""
+
+msgid "State:"
+msgstr ""
+
+msgid "Statistics"
+msgstr ""
+
+msgid "Status unknown"
+msgstr ""
+
+msgid "Stop Seeding at Ratio"
+msgstr ""
+
+msgid "Stop at Ratio (%s)"
+msgstr ""
+
+msgid "Stop seeding at _ratio:"
+msgstr ""
+
+msgid "Stop seeding at ratio:"
+msgstr ""
+
+msgid "Stop seeding if idle for N minutes:"
+msgstr ""
+
+msgid "Stop seeding if idle for _N minutes:"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Stopping"
+msgstr ""
+
+msgid "Stopping port forwarding through \"%s\", service \"%s\""
+msgstr ""
+
+msgid "Success"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "TB"
+msgstr ""
+
+msgid "TB/s"
+msgstr ""
+
+msgid "Te_st Port"
+msgstr ""
+
+msgid "The torrent file \"%s\" contains invalid data."
+msgstr ""
+
+msgid "The torrent file \"%s\" encountered an unknown error."
+msgstr ""
+
+msgid "The torrent file \"%s\" is already in use by \"%s.\""
+msgstr ""
+
+msgid ""
+"These statistics are for your information only. Resetting them doesn't "
+"affect the statistics logged by your BitTorrent trackers."
+msgstr ""
+
+msgid "They Cancelled"
+msgstr ""
+
+msgid ""
+"This magnet link appears to be intended for something other than BitTorrent."
+" BitTorrent magnet links have a section containing \"%s\"."
+msgstr ""
+
+msgid "This may take a moment…"
+msgstr ""
+
+msgid "This torrent has not finished downloading."
+msgid_plural "These torrents have not finished downloading."
+msgstr[0] ""
+
+msgid "This torrent is connected to peers."
+msgid_plural "These torrents are connected to peers."
+msgstr[0] ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "TiB"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid ""
+"To add a backup URL, add it on the line after the primary URL.\n"
+"To add another primary URL, add it after a blank line."
+msgstr ""
+
+msgid "Torrent"
+msgstr ""
+
+msgid "Torrent Added"
+msgstr ""
+
+msgid "Torrent Complete"
+msgstr ""
+
+msgid "Torrent Creator is skipping file \"%s\": %s"
+msgstr ""
+
+msgid "Torrent Options"
+msgstr ""
+
+msgid "Torrent _location:"
+msgstr ""
+
+msgid "Torrent _priority:"
+msgstr ""
+
+msgid "Torrent files"
+msgstr ""
+
+msgid "Torrent properties"
+msgstr ""
+
+msgid "Torrent size:"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Total Ratio"
+msgstr ""
+
+msgid "Total Transfer"
+msgstr ""
+
+msgid "Tracker"
+msgstr ""
+
+msgid "Tracker Announce URLs"
+msgstr ""
+
+msgid "Tracker did not respond"
+msgstr ""
+
+msgid "Tracker error: \"%s\""
+msgstr ""
+
+msgid "Tracker gave HTTP response code %1$ld (%2$s)"
+msgstr ""
+
+msgid "Tracker gave a warning: \"%s\""
+msgstr ""
+
+msgid "Tracker gave an error: \"%s\""
+msgstr ""
+
+msgid "Tracker had %s%'d seeders and %'d leechers%s %s ago"
+msgstr ""
+
+msgid "Tracker warning: \"%s\""
+msgstr ""
+
+msgid "Tracker will allow requests in %s"
+msgstr ""
+
+msgid "Trackers"
+msgstr ""
+
+msgid "Transmission"
+msgstr ""
+
+msgid ""
+"Transmission\n"
+"Up: %1$s %2$s\n"
+"Down: %3$s %4$s"
+msgstr ""
+
+msgid "Transmission BitTorrent Client"
+msgstr ""
+
+msgid "Transmission Preferences"
+msgstr ""
+
+msgid "Transmission doesn't know how to use \"%s\""
+msgstr ""
+
+msgid ""
+"Transmission is a file sharing program. When you run a torrent, its data "
+"will be made available to others by means of upload. Any content you share "
+"is your sole responsibility."
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "U_pload (%s):"
+msgstr ""
+
+msgid "Unable to rename file as \"%s\": %s"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Unrecognized URL"
+msgstr ""
+
+msgid "Up"
+msgstr ""
+
+msgid "Up Blocks"
+msgstr ""
+
+msgid "Up Reqs"
+msgstr ""
+
+msgid "Update Blocklist"
+msgstr ""
+
+msgid "Uploaded:"
+msgstr ""
+
+msgid "Uploading to peer"
+msgstr ""
+
+msgid "Use PE_X to find more peers"
+msgstr ""
+
+msgid "Use UPnP or NAT-PMP port _forwarding from my router"
+msgstr ""
+
+msgid "Use _DHT to find more peers"
+msgstr ""
+
+msgid "Use _Local Peer Discovery to find more peers"
+msgstr ""
+
+msgid "Use _authentication"
+msgstr ""
+
+msgid "Use global settings"
+msgstr ""
+
+msgctxt "Verb"
+msgid "Downloading"
+msgstr ""
+
+msgctxt "Verb"
+msgid "Seeding"
+msgstr ""
+
+msgctxt "Verb"
+msgid "Verifying"
+msgstr ""
+
+msgid "Verifying local data"
+msgstr ""
+
+msgid "Verifying local data (%.1f%% tested)"
+msgstr ""
+
+msgid "Verifying torrent"
+msgstr ""
+
+msgid "We Cancelled"
+msgstr ""
+
+msgid "We unchoked this peer, but they're not interested"
+msgstr ""
+
+msgid "We would download from this peer if they would let us"
+msgstr ""
+
+msgid "We would upload to this peer if they asked"
+msgstr ""
+
+msgid "Web Seeds"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Weekdays"
+msgstr ""
+
+msgid "Weekends"
+msgstr ""
+
+msgid "Where to look for configuration files"
+msgstr ""
+
+msgid "Whitelist enabled"
+msgstr ""
+
+msgid "[torrent files or urls]"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Announce URL:"
+msgstr ""
+
+msgid "_Compact View"
+msgstr ""
+
+msgid "_Contents"
+msgstr ""
+
+msgid "_Delete Files and Remove"
+msgstr ""
+
+msgid "_Destination folder:"
+msgstr ""
+
+msgid "_Donate"
+msgstr ""
+
+msgid "_Download (%s):"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Encryption mode:"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Filterbar"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Idle:"
+msgstr ""
+
+msgid "_Inhibit hibernation when torrents are active"
+msgstr ""
+
+msgid "_Maximum peers:"
+msgstr ""
+
+msgid "_Move from the current folder"
+msgstr ""
+
+msgid "_New…"
+msgstr ""
+
+msgid "_On days:"
+msgstr ""
+
+msgid "_Open web client"
+msgstr ""
+
+msgid "_Pause"
+msgstr ""
+
+msgid "_Pause All"
+msgstr ""
+
+msgid "_Port used for incoming connections:"
+msgstr ""
+
+msgid "_Private torrent"
+msgstr ""
+
+msgid "_Queue"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Quit Now"
+msgstr ""
+
+msgid "_Ratio:"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Scheduled times:"
+msgstr ""
+
+msgid "_Show %'d of:"
+msgstr ""
+
+msgid "_Show Transmission"
+msgstr ""
+
+msgid "_Show:"
+msgstr ""
+
+msgid "_Sort Torrents By"
+msgstr ""
+
+msgid "_Start"
+msgstr ""
+
+msgid "_Start All"
+msgstr ""
+
+msgid "_Start added torrents"
+msgstr ""
+
+msgid "_Start when added"
+msgstr ""
+
+msgid "_Statistics"
+msgstr ""
+
+msgid "_Statusbar"
+msgstr ""
+
+msgid "_Toolbar"
+msgstr ""
+
+msgid "_Torrent"
+msgstr ""
+
+msgid "_Torrent file:"
+msgstr ""
+
+msgid "_Trackers:"
+msgstr ""
+
+msgid "_URL"
+msgstr ""
+
+msgid "_Update"
+msgstr ""
+
+msgid "_Upload (%s):"
+msgstr ""
+
+msgid "_Username:"
+msgstr ""
+
+msgid "_Verify Local Data"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "blocklist skipped invalid address at line %d"
+msgstr ""
+
+msgid "kB"
+msgstr ""
+
+msgid "kB/s"
+msgstr ""
+
+msgid "no longer forwarding port %d"
+msgstr ""
+
+msgid "peer"
+msgid_plural "peers"
+msgstr[0] ""
+
+msgid "size|Down: %1$s, Up: %2$s"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "uTP is a tool for reducing network congestion."
+msgstr ""
+
+msgid "web seed"
+msgid_plural "web seeds"
+msgstr[0] ""

@@ -1,0 +1,310 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-robots&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2018-10-08 20:43+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:57+0000\n"
+
+msgid "(Remaining: %d)"
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Are you sure you want to discard the current game?"
+msgstr ""
+
+msgid "Avoid the robots and make them crash into each other"
+msgstr ""
+
+msgid "Background color"
+msgstr ""
+
+msgid "Background color. The hex specification of the background color."
+msgstr ""
+
+msgid "Based on classic BSD Robots"
+msgstr ""
+
+msgid "Classic robots"
+msgstr ""
+
+msgid "Classic robots with safe moves"
+msgstr ""
+
+msgid "Classic robots with super-safe moves"
+msgstr ""
+
+msgid ""
+"Congratulations, You Have Defeated the Robots!! \n"
+"But Can You do it Again?"
+msgstr ""
+
+msgid "Enable game sounds"
+msgstr ""
+
+msgid ""
+"Enable game sounds. Play sounds for various events throughout the game."
+msgstr ""
+
+msgid ""
+"Fortunately, the robots are extremely stupid and will always move directly "
+"towards you. Trick them into colliding into each other, resulting in their "
+"destruction, or into the junk piles that result. You can defend yourself by "
+"moving the junk piles, or escape to safety with your handy teleportation "
+"device."
+msgstr ""
+
+msgid "GNOME Robots"
+msgstr ""
+
+msgid "Game"
+msgstr ""
+
+msgid "Game Type"
+msgstr ""
+
+msgid "Game Type:"
+msgstr ""
+
+msgid "Game type"
+msgstr ""
+
+msgid "Game type. The name of the game variation to use."
+msgstr ""
+
+msgid "Height of the window in pixels"
+msgstr ""
+
+msgid "Keep _Playing"
+msgstr ""
+
+msgid "Key to hold"
+msgstr ""
+
+msgid "Key to move E"
+msgstr ""
+
+msgid "Key to move N"
+msgstr ""
+
+msgid "Key to move NE"
+msgstr ""
+
+msgid "Key to move NW"
+msgstr ""
+
+msgid "Key to move S"
+msgstr ""
+
+msgid "Key to move SE"
+msgstr ""
+
+msgid "Key to move SW"
+msgstr ""
+
+msgid "Key to move W"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Level: %d\tScore: %d"
+msgstr ""
+
+msgid "Nightmare"
+msgstr ""
+
+msgid "Nightmare with safe moves"
+msgstr ""
+
+msgid "Nightmare with super-safe moves"
+msgstr ""
+
+msgid "No game data could be found."
+msgstr ""
+
+msgid "Play sounds for events like winning a level and dying."
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Prevent accidental moves that result in getting killed."
+msgstr ""
+
+msgid "Prevents all moves that result in getting killed."
+msgstr ""
+
+msgid "Robot image theme"
+msgstr ""
+
+msgid "Robot image theme. The theme of the images to use for the robots."
+msgstr ""
+
+msgid "Robots"
+msgstr ""
+
+msgid "Robots with safe teleport"
+msgstr ""
+
+msgid "Robots with safe teleport with safe moves"
+msgstr ""
+
+msgid "Robots with safe teleport with super-safe moves"
+msgstr ""
+
+msgid "Robots2"
+msgstr ""
+
+msgid "Robots2 easy"
+msgstr ""
+
+msgid "Robots2 easy with safe moves"
+msgstr ""
+
+msgid "Robots2 easy with super-safe moves"
+msgstr ""
+
+msgid "Robots2 with safe moves"
+msgstr ""
+
+msgid "Robots2 with super-safe moves"
+msgstr ""
+
+msgid "Show toolbar"
+msgstr ""
+
+msgid "Show toolbar. A standard option for toolbars."
+msgstr ""
+
+msgid "Some graphics files are missing or corrupt."
+msgstr ""
+
+msgid "Teleport _Randomly"
+msgstr ""
+
+msgid "Teleport _Safely"
+msgstr ""
+
+msgid "The key used to hold still."
+msgstr ""
+
+msgid "The key used to move east."
+msgstr ""
+
+msgid "The key used to move north-east."
+msgstr ""
+
+msgid "The key used to move north-west."
+msgstr ""
+
+msgid "The key used to move north."
+msgstr ""
+
+msgid "The key used to move south-east."
+msgstr ""
+
+msgid "The key used to move south-west."
+msgstr ""
+
+msgid "The key used to move south."
+msgstr ""
+
+msgid "The key used to move west."
+msgstr ""
+
+msgid ""
+"The program Robots was unable to find any valid game configuration files. "
+"Please check that the program is installed correctly."
+msgstr ""
+
+msgid ""
+"The program Robots was unable to load all the necessary graphics files. "
+"Please check that the program is installed correctly."
+msgstr ""
+
+msgid "There are no safe locations to teleport to!!"
+msgstr ""
+
+msgid "There are no teleport locations left!!"
+msgstr ""
+
+msgid "U_se super safe moves"
+msgstr ""
+
+msgid "Unknown Command"
+msgstr ""
+
+msgid "Use safe moves"
+msgstr ""
+
+msgid ""
+"Use safe moves. The safe moves option will help you to avoid being killed "
+"due to a mistake. If you try to make a move that would lead to your death "
+"when there is a safe move available you will not be allowed to proceed."
+msgstr ""
+
+msgid "Use super safe moves"
+msgstr ""
+
+msgid ""
+"Use super safe moves. The player is alerted when there is no safe move and "
+"the only option is to teleport out."
+msgstr ""
+
+msgid "Width of the window in pixels"
+msgstr ""
+
+msgid ""
+"Your supply of safe teleports is limited, and once you run out, "
+"teleportation could land you right next to a robot, who will kill you. "
+"Survive for as long as possible!"
+msgstr ""
+
+msgid "_Background color:"
+msgstr ""
+
+msgid "_Enable sounds"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Image theme:"
+msgstr ""
+
+msgid "_New Game"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Restore Defaults"
+msgstr ""
+
+msgid "_Scores"
+msgstr ""
+
+msgid "_Use safe moves"
+msgstr ""
+
+msgid "_Wait for Robots"
+msgstr ""
+
+msgid "game;arcade;teleport;"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "true if the window is maximized"
+msgstr ""

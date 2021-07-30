@@ -1,0 +1,245 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ibus-pinyin 1.2.99\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2016-03-25 03:05+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Peng Huang <shawn.p.huang@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:12+0000\n"
+
+msgid "<b>Bopomofo mode</b>"
+msgstr ""
+
+msgid "<b>Correct pinyin</b>"
+msgstr ""
+
+msgid "<b>Dictionary option</b>"
+msgstr ""
+
+msgid "<b>Initial state</b>"
+msgstr ""
+
+msgid "<b>Input Custom</b>"
+msgstr ""
+
+msgid "<b>Other</b>"
+msgstr ""
+
+msgid "<b>Pinyin mode</b>"
+msgstr ""
+
+msgid "<b>Selection mode</b>"
+msgstr ""
+
+msgid "<b>UI</b>"
+msgstr ""
+
+msgid "<big><b>IBus Pinyin %s</b></big>"
+msgstr ""
+
+msgid ""
+"<small>\n"
+"<b>Authors:</b>\n"
+"Peng Huang\n"
+"BYVoid\n"
+"Peng Wu\n"
+"\n"
+"<b>Contributors:</b>\n"
+"koterpilla, Zerng07\n"
+"</small>"
+msgstr ""
+
+msgid "<small>Copyright (c) 2009-2010 Peng Huang</small>"
+msgstr ""
+
+msgid "ABC"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Auto commit"
+msgstr ""
+
+msgid "Bopomofo (debug)"
+msgstr ""
+
+msgid "Bopomofo input method (debug)"
+msgstr ""
+
+msgid "Bopomofo mode"
+msgstr ""
+
+msgid "Chinese"
+msgstr ""
+
+msgid "Chinese:"
+msgstr ""
+
+msgid "Commit first candidate"
+msgstr ""
+
+msgid "Commit original text"
+msgstr ""
+
+msgid "Dictionary"
+msgstr ""
+
+msgid "Double pinyin"
+msgstr ""
+
+msgid "Edit custom phrases"
+msgstr ""
+
+msgid "Enable Auxiliary Select Keys F1 .. F10"
+msgstr ""
+
+msgid "Enable Auxiliary Select Keys Numbers on Keypad"
+msgstr ""
+
+msgid "Enable Guidekey for Candidates Selection"
+msgstr ""
+
+msgid "Enable correct pinyin"
+msgstr ""
+
+msgid "Enable fuzzy syllable"
+msgstr ""
+
+msgid "English"
+msgstr ""
+
+msgid "Eten"
+msgstr ""
+
+msgid "Feature of Enter key:"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "Full pinyin"
+msgstr ""
+
+msgid "Full/Half width"
+msgstr ""
+
+msgid "Full/Half width punctuation"
+msgstr ""
+
+msgid "Fuzzy syllable"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "GinYieh"
+msgstr ""
+
+msgid "Half"
+msgstr ""
+
+msgid "Half/full width:"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "IBM"
+msgstr ""
+
+msgid "Incomplete Bopomofo"
+msgstr ""
+
+msgid "Incomplete pinyin"
+msgstr ""
+
+msgid "Keyboard Mapping:"
+msgstr ""
+
+msgid "Language:"
+msgstr ""
+
+msgid "MSPY"
+msgstr ""
+
+msgid "Number of candidates:"
+msgstr ""
+
+msgid "Orientation of candidates:"
+msgstr ""
+
+msgid "PYJJ"
+msgstr ""
+
+msgid "Pinyin (debug)"
+msgstr ""
+
+msgid "Pinyin input method"
+msgstr ""
+
+msgid "Pinyin input method (debug)"
+msgstr ""
+
+msgid "Pinyin input method for IBus"
+msgstr ""
+
+msgid "Pinyin mode"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Punctuations:"
+msgstr ""
+
+msgid "Selection Keys:"
+msgstr ""
+
+msgid "Show raw input of Double Pinyin"
+msgstr ""
+
+msgid "Simplfied/Traditional Chinese"
+msgstr ""
+
+msgid "Simplified"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Traditional"
+msgstr ""
+
+msgid "Use custom phrases"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "XHE"
+msgstr ""
+
+msgid "ZGPY"
+msgstr ""
+
+msgid "ZRM"
+msgstr ""
+
+msgid "[,] [.] flip page"
+msgstr ""
+
+msgid "[-] [=] flip page"
+msgstr ""
+
+msgid "[Shift] select candidate"
+msgstr ""
+
+msgid "http://ibus.googlecode.com"
+msgstr ""

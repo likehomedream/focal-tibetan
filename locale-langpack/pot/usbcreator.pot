@@ -1,0 +1,163 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: usb-creator\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2016-03-25 06:38+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:11+0000\n"
+
+msgid "%d%% complete"
+msgstr ""
+
+msgid "All existing data will be lost."
+msgstr ""
+
+msgid ""
+"An uncaught exception was raised:\n"
+"%s"
+msgstr ""
+
+msgid "Are you sure you want to write the disc image to the device?"
+msgstr ""
+
+msgid "CD Images"
+msgstr ""
+
+msgid "CD-Drive/Image"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Capacity"
+msgstr ""
+
+msgid ""
+"Could not write the disk image (%(source)s) to the device (%(device)s)."
+msgstr ""
+
+msgid "Create a startup disk using a CD or disc image"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Disk Images"
+msgstr ""
+
+msgid "Disk to use:"
+msgstr ""
+
+msgid "Do you really want to quit the installation now?"
+msgstr ""
+
+msgid "Erase Disk"
+msgstr ""
+
+msgid "Finishing..."
+msgstr ""
+
+msgid "Image the device"
+msgstr ""
+
+msgid "Installation Complete"
+msgstr ""
+
+msgid "Installation Failed"
+msgstr ""
+
+msgid "Installation failed."
+msgstr ""
+
+msgid ""
+"Installation is complete.  You may now run Ubuntu on other computers by "
+"booting them with this drive inserted."
+msgstr ""
+
+msgid "Installing"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Make Startup Disk"
+msgstr ""
+
+msgid "OS Version"
+msgstr ""
+
+msgid "Other..."
+msgstr ""
+
+msgid "Quit the installation?"
+msgstr ""
+
+msgid "Retry?"
+msgstr ""
+
+msgid "Run KVM"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Source disc image (.iso):"
+msgstr ""
+
+msgid "Starting up"
+msgstr ""
+
+msgid "Starting up..."
+msgstr ""
+
+msgid "Startup Disk Creator"
+msgstr ""
+
+msgid "System policy prevents running KVM"
+msgstr ""
+
+msgid "System policy prevents writing a disk image to this device"
+msgstr ""
+
+msgid "Test Disk"
+msgstr ""
+
+msgid "The device is not large enough to hold this image."
+msgstr ""
+
+msgid "The extension \"%s\" is not supported."
+msgstr ""
+
+msgid ""
+"The installation failed.  Please see ~/.cache/usb-creator.log for more "
+"details.\n"
+msgstr ""
+
+msgid ""
+"The installation is complete.  You may now reboot your computer with this "
+"device inserted to try or install Ubuntu."
+msgstr ""
+
+msgid ""
+"To try or install Ubuntu from a removable disk, it needs to be set up as a "
+"startup disk."
+msgstr ""
+
+msgid "Writing disk image..."
+msgstr ""
+
+msgid "You must select both source image and target device first."
+msgstr ""
+
+msgid "allow writing to system-internal devices"
+msgstr ""
+
+msgid "provide a source image to pre-populate the UI."
+msgstr ""

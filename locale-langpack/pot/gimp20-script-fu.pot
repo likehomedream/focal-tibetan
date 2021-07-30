@@ -1,0 +1,1155 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-script-fu HEAD\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gimp/issues\n"
+"PO-Revision-Date: 2020-04-05 12:52+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:22+0000\n"
+
+msgid "%s:"
+msgstr ""
+
+msgid "Active colors"
+msgstr ""
+
+msgid "Add B_evel..."
+msgstr ""
+
+msgid "Add _Border..."
+msgstr ""
+
+msgid "Add a 'Predator' effect to the selected region (or alpha)"
+msgstr ""
+
+msgid "Add a beveled border to an image"
+msgstr ""
+
+msgid "Add a border around an image"
+msgstr ""
+
+msgid ""
+"Add a chrome effect to the selected region (or alpha) using a specified "
+"(grayscale) stencil"
+msgstr ""
+
+msgid "Add a cloth-like texture to the selected region (or alpha)"
+msgstr ""
+
+msgid "Add a drop shadow to the selected region (or alpha)"
+msgstr ""
+
+msgid "Add a guide at the orientation and position specified (in pixels)"
+msgstr ""
+
+msgid ""
+"Add a guide at the position specified as a percentage of the image size"
+msgstr ""
+
+msgid "Add a jagged, fuzzy border to an image"
+msgstr ""
+
+msgid "Add a perspective shadow to the selected region (or alpha)"
+msgstr ""
+
+msgid "Add a slide-film like frame, sprocket holes, and labels to an image"
+msgstr ""
+
+msgid "Add a subtle translucent 3D effect to the selected region (or alpha)"
+msgstr ""
+
+msgid "Add background"
+msgstr ""
+
+msgid "Add drop-shadow"
+msgstr ""
+
+msgid "Add glowing"
+msgstr ""
+
+msgid "Add realistic looking coffee stains to the image"
+msgstr ""
+
+msgid "Add shadow"
+msgstr ""
+
+msgid "After glow"
+msgstr ""
+
+msgid "Airbrush"
+msgstr ""
+
+msgid ""
+"All characters in the name are either white-spaces or characters which can "
+"not appear in filenames."
+msgstr ""
+
+msgid "Allow resizing"
+msgstr ""
+
+msgid "Alpha to _Logo"
+msgstr ""
+
+msgid "Amplitude"
+msgstr ""
+
+msgid "Angle"
+msgstr ""
+
+msgid "Azimuth"
+msgstr ""
+
+msgid "B_urn-In..."
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Bevel Highlight"
+msgstr ""
+
+msgid "Bevel Shadow"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Black on white"
+msgstr ""
+
+msgid "Blend Animation needs at least three source layers"
+msgstr ""
+
+msgid "Blur X"
+msgstr ""
+
+msgid "Blur Y"
+msgstr ""
+
+msgid "Blur border"
+msgstr ""
+
+msgid "Blur horizontally"
+msgstr ""
+
+msgid "Blur radius"
+msgstr ""
+
+msgid "Blur the edges of an image so the result tiles seamlessly"
+msgstr ""
+
+msgid "Blur type"
+msgstr ""
+
+msgid "Blur vertically"
+msgstr ""
+
+msgid "Bookmark to the GIMP web site"
+msgstr ""
+
+msgid "Bookmark to the bug tracker of GIMP"
+msgstr ""
+
+msgid "Bookmark to the roadmap of GIMP"
+msgstr ""
+
+msgid "Bookmark to the user manual"
+msgstr ""
+
+msgid "Bookmark to the wiki of GIMP"
+msgstr ""
+
+msgid "Border Layer"
+msgstr ""
+
+msgid "Border X size"
+msgstr ""
+
+msgid "Border Y size"
+msgstr ""
+
+msgid "Border color"
+msgstr ""
+
+msgid "Border size"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
+msgid "Bumpmap"
+msgstr ""
+
+msgid "C_lear"
+msgstr ""
+
+msgid "Carve white areas"
+msgstr ""
+
+msgid "Carved Surface"
+msgstr ""
+
+msgid "Cast Shadow"
+msgstr ""
+
+msgid "Change the colormap of an image to the colors in a specified palette."
+msgstr ""
+
+msgid "Chrome"
+msgstr ""
+
+msgid "Chrome balance"
+msgstr ""
+
+msgid "Chrome factor"
+msgstr ""
+
+msgid "Chrome lightness"
+msgstr ""
+
+msgid "Chrome saturation"
+msgstr ""
+
+msgid "Chrome white areas"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Circuit seed"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color method"
+msgstr ""
+
+msgid "Columns"
+msgstr ""
+
+msgid "Convert a selection to a brush"
+msgstr ""
+
+msgid "Convert a selection to a pattern"
+msgstr ""
+
+msgid "Convert a selection to an image"
+msgstr ""
+
+msgid "Corona width"
+msgstr ""
+
+msgid "Could not open '%s' for writing: %s"
+msgstr ""
+
+msgid ""
+"Create a multi-layer image by adding a ripple effect to the current layer"
+msgstr ""
+
+msgid ""
+"Create a multi-layer image with an effect like a stone was thrown into the "
+"current image"
+msgstr ""
+
+msgid ""
+"Create a new layer filled with a weave effect to be used as an overlay or "
+"bump map"
+msgstr ""
+
+msgid "Create a rectangular brush"
+msgstr ""
+
+msgid "Create a rectangular brush with feathered edges"
+msgstr ""
+
+msgid ""
+"Create an animation by mapping the current image onto a spinning sphere"
+msgstr ""
+
+msgid "Create an elliptical brush"
+msgstr ""
+
+msgid "Create an elliptical brush with feathered edges"
+msgstr ""
+
+msgid "Create an image filled with an example of the current gradient"
+msgstr ""
+
+msgid ""
+"Create an image filled with previews of fonts matching a fontname filter"
+msgstr ""
+
+msgid "Create and Use _Selections"
+msgstr ""
+
+msgid "Create four guides around the bounding box of the current selection"
+msgstr ""
+
+msgid ""
+"Create intermediate layers to blend two or more layers over a background as "
+"an animation"
+msgstr ""
+
+msgid ""
+"Create intermediate layers to produce an animated 'burn-in' transition "
+"between two layers"
+msgstr ""
+
+msgid "Create, Open and Save _Files"
+msgstr ""
+
+msgid "Custom _Gradient..."
+msgstr ""
+
+msgid "Darken only"
+msgstr ""
+
+msgid "Defocus"
+msgstr ""
+
+msgid "Delta value on color"
+msgstr ""
+
+msgid "Depth"
+msgstr ""
+
+msgid "Distress the selection"
+msgstr ""
+
+msgid ""
+"Draw a grid as specified by the lists of X and Y locations using the current"
+" brush"
+msgstr ""
+
+msgid "Drawing _Simple Objects"
+msgstr ""
+
+msgid "Drop Shadow"
+msgstr ""
+
+msgid "Drop shadow X offset"
+msgstr ""
+
+msgid "Drop shadow Y offset"
+msgstr ""
+
+msgid "Drop shadow blur radius"
+msgstr ""
+
+msgid "Drop shadow color"
+msgstr ""
+
+msgid "Drop shadow opacity"
+msgstr ""
+
+msgid "Edge amount"
+msgstr ""
+
+msgid "Edge behavior"
+msgstr ""
+
+msgid "Edge radius"
+msgstr ""
+
+msgid "Effect layer"
+msgstr ""
+
+msgid "Elevation"
+msgstr ""
+
+msgid "Elli_ptical, Feathered..."
+msgstr ""
+
+msgid "Environment map"
+msgstr ""
+
+msgid "Epitrochoid"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
+msgid "Erase every other row or column"
+msgstr ""
+
+msgid "Erase/fill"
+msgstr ""
+
+msgid "Error while executing %s:"
+msgstr ""
+
+msgid "Error while loading %s:"
+msgstr ""
+
+msgid "Even"
+msgstr ""
+
+msgid "Even/odd"
+msgstr ""
+
+msgid ""
+"Export the active palette as a CSS stylesheet with the color entry name as "
+"their class name, and the color itself as the color attribute"
+msgstr ""
+
+msgid "Export the active palette as a PHP dictionary (name => color)"
+msgstr ""
+
+msgid "Export the active palette as a Python dictionary (name: color)"
+msgstr ""
+
+msgid "Export the active palette as a java.util.Hashtable<String, Color>"
+msgstr ""
+
+msgid "Fadeout"
+msgstr ""
+
+msgid "Fadeout width"
+msgstr ""
+
+msgid "Feathering"
+msgstr ""
+
+msgid ""
+"Fill a layer with rays emanating outward from its center using the "
+"foreground color"
+msgstr ""
+
+msgid "Fill the current selection with lava"
+msgstr ""
+
+msgid ""
+"Fill the selected region (or alpha) with traces like those on a circuit "
+"board"
+msgstr ""
+
+msgid "Fill with BG"
+msgstr ""
+
+msgid "Flatten image"
+msgstr ""
+
+msgid "Folder for the output file"
+msgstr ""
+
+msgid "Font"
+msgstr ""
+
+msgid "Font _size (pixels)"
+msgstr ""
+
+msgid "Font color"
+msgstr ""
+
+msgid "Frame"
+msgstr ""
+
+msgid "Frames"
+msgstr ""
+
+msgid "Glow color"
+msgstr ""
+
+msgid "Gradient"
+msgstr ""
+
+msgid "Gradient reverse"
+msgstr ""
+
+msgid "Gradient: Loop Sawtooth"
+msgstr ""
+
+msgid "Gradient: Loop Triangle"
+msgstr ""
+
+msgid "Granularity (1 is Low)"
+msgstr ""
+
+msgid "Height"
+msgstr ""
+
+msgid "Hexagon"
+msgstr ""
+
+msgid "Highlight"
+msgstr ""
+
+msgid "Highlight X offset"
+msgstr ""
+
+msgid "Highlight Y offset"
+msgstr ""
+
+msgid "Highlight balance"
+msgstr ""
+
+msgid "Highlight color"
+msgstr ""
+
+msgid "Highlight opacity"
+msgstr ""
+
+msgid "Hole ratio"
+msgstr ""
+
+msgid "Horizontal"
+msgstr ""
+
+msgid "How to Use _Dialogs"
+msgstr ""
+
+msgid "IIR"
+msgstr ""
+
+msgid "Image to carve"
+msgstr ""
+
+msgid "Index to n colors (0 = remain RGB)"
+msgstr ""
+
+msgid "Inner teeth"
+msgstr ""
+
+msgid "Inset"
+msgstr ""
+
+msgid "Interactive Scheme Development"
+msgstr ""
+
+msgid "Interactive console for Script-Fu development"
+msgstr ""
+
+msgid "Intermediate frames"
+msgstr ""
+
+msgid "Interpolation"
+msgstr ""
+
+msgid "Invert direction"
+msgstr ""
+
+msgid "Keep bump layer"
+msgstr ""
+
+msgid "Keep selection"
+msgstr ""
+
+msgid "Layer 1"
+msgstr ""
+
+msgid "Layer 2"
+msgstr ""
+
+msgid "Layer 3"
+msgstr ""
+
+msgid "Line _Nova..."
+msgstr ""
+
+msgid "Lissajous"
+msgstr ""
+
+msgid "Listen on IP:"
+msgstr ""
+
+msgid ""
+"Listening on an IP address other than 127.0.0.1 (especially 0.0.0.0) can "
+"allow attackers to remotely execute arbitrary code on this machine."
+msgstr ""
+
+msgid "Looped"
+msgstr ""
+
+msgid "Make an image look like an old photo"
+msgstr ""
+
+msgid "Margin (pixels)"
+msgstr ""
+
+msgid "Mask opacity"
+msgstr ""
+
+msgid "Mask size"
+msgstr ""
+
+msgid "Max. blur radius"
+msgstr ""
+
+msgid "Mottle"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Guide (by _Percent)..."
+msgstr ""
+
+msgid "New Guides from _Selection"
+msgstr ""
+
+msgid "New _Brush..."
+msgstr ""
+
+msgid "New _Guide..."
+msgstr ""
+
+msgid "New _Pattern..."
+msgstr ""
+
+msgid "No background (only for separate layer)"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Number of frames"
+msgstr ""
+
+msgid "Number of lines"
+msgstr ""
+
+msgid "Odd"
+msgstr ""
+
+msgid "Offset X"
+msgstr ""
+
+msgid "Offset Y"
+msgstr ""
+
+msgid "Offset radius"
+msgstr ""
+
+msgid "Oilify mask size"
+msgstr ""
+
+msgid "Opacity"
+msgstr ""
+
+msgid "Outer teeth"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "Paste the clipboard contents into a new brush"
+msgstr ""
+
+msgid "Paste the clipboard contents into a new pattern"
+msgstr ""
+
+msgid "Pencil"
+msgstr ""
+
+msgid "Pentagon"
+msgstr ""
+
+msgid "Pixel amount"
+msgstr ""
+
+msgid "Pixelize"
+msgstr ""
+
+msgid "Polygon: 10 sides"
+msgstr ""
+
+msgid "Polygon: 7 sides"
+msgstr ""
+
+msgid "Polygon: 8 sides"
+msgstr ""
+
+msgid "Polygon: 9 sides"
+msgstr ""
+
+msgid "Prepare for GIF"
+msgstr ""
+
+msgid "RLE"
+msgstr ""
+
+msgid "Radius"
+msgstr ""
+
+msgid "Randomness"
+msgstr ""
+
+msgid "Re-read all available Script-Fu scripts"
+msgstr ""
+
+msgid "Re_ctangular, Feathered..."
+msgstr ""
+
+msgid "Relative distance of horizon"
+msgstr ""
+
+msgid "Relative length of shadow"
+msgstr ""
+
+msgid "Remove all horizontal and vertical guides"
+msgstr ""
+
+msgid "Render _Font Map..."
+msgstr ""
+
+msgid "Rendering Spyro"
+msgstr ""
+
+msgid "Reverse the order of layers in the image"
+msgstr ""
+
+msgid "Ribbon spacing"
+msgstr ""
+
+msgid "Ribbon width"
+msgstr ""
+
+msgid "Rippling strength"
+msgstr ""
+
+msgid "Roughness"
+msgstr ""
+
+msgid ""
+"Round the corners of an image and optionally add a drop-shadow and "
+"background"
+msgstr ""
+
+msgid "Round the corners of the current selection"
+msgstr ""
+
+msgid "Rounded R_ectangle..."
+msgstr ""
+
+msgid "Rows"
+msgstr ""
+
+msgid "Rows/cols"
+msgstr ""
+
+msgid "Save Script-Fu Console Output"
+msgstr ""
+
+msgid "Script-Fu Brush Selection"
+msgstr ""
+
+msgid "Script-Fu Color Selection"
+msgstr ""
+
+msgid "Script-Fu Console"
+msgstr ""
+
+msgid "Script-Fu File Selection"
+msgstr ""
+
+msgid "Script-Fu Folder Selection"
+msgstr ""
+
+msgid "Script-Fu Font Selection"
+msgstr ""
+
+msgid "Script-Fu Gradient Selection"
+msgstr ""
+
+msgid "Script-Fu Palette Selection"
+msgstr ""
+
+msgid "Script-Fu Pattern Selection"
+msgstr ""
+
+msgid "Script-Fu Procedure Browser"
+msgstr ""
+
+msgid "Script-Fu Server Options"
+msgstr ""
+
+msgid "Script-Fu cannot process two scripts at the same time."
+msgstr ""
+
+msgid "Script-Fu evaluation mode only allows non-interactive invocation"
+msgstr ""
+
+msgid "Script-Fu: %s"
+msgstr ""
+
+msgid "Se_t Colormap..."
+msgstr ""
+
+msgid "Seed"
+msgstr ""
+
+msgid "Separate layer"
+msgstr ""
+
+msgid "Sepia"
+msgstr ""
+
+msgid "Server for remote Script-Fu operation"
+msgstr ""
+
+msgid "Server logfile:"
+msgstr ""
+
+msgid "Server port:"
+msgstr ""
+
+msgid "Shadow"
+msgstr ""
+
+msgid "Shadow X offset"
+msgstr ""
+
+msgid "Shadow Y offset"
+msgstr ""
+
+msgid "Shadow darkness"
+msgstr ""
+
+msgid "Shadow depth"
+msgstr ""
+
+msgid "Shadow weight (%)"
+msgstr ""
+
+msgid "Shape"
+msgstr ""
+
+msgid "Sharpness (degrees)"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Smear"
+msgstr ""
+
+msgid "Solid Color"
+msgstr ""
+
+msgid "Solid noise applied with Difference layer mode"
+msgstr ""
+
+msgid "Spacing"
+msgstr ""
+
+msgid "Speed (pixels/frame)"
+msgstr ""
+
+msgid "Spyrograph"
+msgstr ""
+
+msgid "Square"
+msgstr ""
+
+msgid "Stain"
+msgstr ""
+
+msgid "Stains"
+msgstr ""
+
+msgid "Start angle"
+msgstr ""
+
+msgid "Stencil C_arve..."
+msgstr ""
+
+msgid "Stencil C_hrome..."
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid ""
+"The Burn-In script needs two layers in total. A foreground layer with "
+"transparency and a background layer."
+msgstr ""
+
+msgid "The filename you entered is not a suitable name for a file."
+msgstr ""
+
+msgid ""
+"The name of the file to create (if a file with this name already exist, it "
+"will be replaced)"
+msgstr ""
+
+msgid "There is no image data in the clipboard to paste."
+msgstr ""
+
+msgid "Thickness"
+msgstr ""
+
+msgid "Thread density"
+msgstr ""
+
+msgid "Thread intensity"
+msgstr ""
+
+msgid "Thread length"
+msgstr ""
+
+msgid "To _Brush..."
+msgstr ""
+
+msgid "To _Image"
+msgstr ""
+
+msgid "To _Pattern..."
+msgstr ""
+
+msgid "Too few arguments to 'script-fu-register' call"
+msgstr ""
+
+msgid "Tool"
+msgstr ""
+
+msgid "Transparent background"
+msgstr ""
+
+msgid "Triangle"
+msgstr ""
+
+msgid "Turn from left to right"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Use current gradient"
+msgstr ""
+
+msgid "Use font _name as text"
+msgstr ""
+
+msgid ""
+"Use the specified drawable as a stencil to carve from the specified image."
+msgstr ""
+
+msgid "Using _Paths"
+msgstr ""
+
+msgid "Vertical"
+msgstr ""
+
+msgid "Wavelength"
+msgstr ""
+
+msgid "Welcome to TinyScheme"
+msgstr ""
+
+msgid "Width"
+msgstr ""
+
+msgid "Work on copy"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid ""
+"Write all the colors in a palette to a text file, one hexadecimal value per "
+"line (no names)"
+msgstr ""
+
+msgid "X divisions"
+msgstr ""
+
+msgid "Y divisions"
+msgstr ""
+
+msgid "You are already running the \"%s\" script."
+msgstr ""
+
+msgid ""
+"You can not use \"Refresh Scripts\" while a Script-Fu dialog box is open.  "
+"Please close all Script-Fu windows and try again."
+msgstr ""
+
+msgid "_Alien Glow"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Basic Concepts"
+msgstr ""
+
+msgid "_Beveled Pattern"
+msgstr ""
+
+msgid "_Blend..."
+msgstr ""
+
+msgid "_Border (pixels)"
+msgstr ""
+
+msgid "_Browse..."
+msgstr ""
+
+msgid "_Bug Reports and Feature Requests"
+msgstr ""
+
+msgid "_Buttons"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Circuit..."
+msgstr ""
+
+msgid "_Classic.Gimp.Org"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Clothify..."
+msgstr ""
+
+msgid "_Coffee Stain..."
+msgstr ""
+
+msgid "_Color scheme"
+msgstr ""
+
+msgid "_Console"
+msgstr ""
+
+msgid "_Developer Web Site"
+msgstr ""
+
+msgid "_Distort..."
+msgstr ""
+
+msgid "_Drop Shadow (legacy)..."
+msgstr ""
+
+msgid "_Elliptical..."
+msgstr ""
+
+msgid "_Erase Every Other Row..."
+msgstr ""
+
+msgid "_Filter (regexp)"
+msgstr ""
+
+msgid "_Fuzzy Border..."
+msgstr ""
+
+msgid "_GIMP Online"
+msgstr ""
+
+msgid "_Grid..."
+msgstr ""
+
+msgid "_Labels"
+msgstr ""
+
+msgid "_Lava..."
+msgstr ""
+
+msgid "_Logos"
+msgstr ""
+
+msgid "_Main Web Site"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Old Photo..."
+msgstr ""
+
+msgid "_Patterns"
+msgstr ""
+
+msgid "_Perspective..."
+msgstr ""
+
+msgid "_Predator..."
+msgstr ""
+
+msgid "_Preparing your Images for the Web"
+msgstr ""
+
+msgid "_Rectangular..."
+msgstr ""
+
+msgid "_Refresh Scripts"
+msgstr ""
+
+msgid "_Remove all Guides"
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Rippling..."
+msgstr ""
+
+msgid "_Roadmap"
+msgstr ""
+
+msgid "_Round Corners..."
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Script-Fu"
+msgstr ""
+
+msgid "_Slide..."
+msgstr ""
+
+msgid "_Sphere..."
+msgstr ""
+
+msgid "_Spinning Globe..."
+msgstr ""
+
+msgid "_Start Server"
+msgstr ""
+
+msgid "_Start Server..."
+msgstr ""
+
+msgid "_Test"
+msgstr ""
+
+msgid "_Text"
+msgstr ""
+
+msgid "_Tileable Blur..."
+msgstr ""
+
+msgid "_User Manual"
+msgstr ""
+
+msgid "_User Manual Web Site"
+msgstr ""
+
+msgid "_Waves..."
+msgstr ""
+
+msgid "_Weave..."
+msgstr ""
+
+msgid "_Web Page Themes"
+msgstr ""
+
+msgid "_Wiki"
+msgstr ""
+
+msgid "_Working with Digital Camera Photos"
+msgstr ""
+
+msgid "_Xach-Effect..."
+msgstr ""

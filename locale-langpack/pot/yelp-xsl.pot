@@ -1,0 +1,206 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: yelp-xsl master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/yelp-xsl/issues\n"
+"PO-Revision-Date: 2019-08-29 17:42+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:29+0000\n"
+
+msgid " and "
+msgstr ""
+
+msgid ", "
+msgstr ""
+
+msgid ", and "
+msgstr ""
+
+msgid "A:"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Advanced"
+msgstr ""
+
+msgid "Bibliography"
+msgstr ""
+
+msgid "Bug"
+msgstr ""
+
+msgid "Candidate"
+msgstr ""
+
+msgid "Caution"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Colophon"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Creative Commons"
+msgstr ""
+
+msgid "Danger"
+msgstr ""
+
+msgid "Dedication"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Edited By"
+msgstr ""
+
+msgid "Final"
+msgstr ""
+
+msgid "Glossary"
+msgstr ""
+
+msgid "Important"
+msgstr ""
+
+msgid "Incomplete"
+msgstr ""
+
+msgid "Index"
+msgstr ""
+
+msgid "Legal"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Maintained By"
+msgstr ""
+
+msgid "More Information"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Note"
+msgstr ""
+
+msgid "On This Page"
+msgstr ""
+
+msgid "Other Credits"
+msgstr ""
+
+msgid "Outdated"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Pause"
+msgstr ""
+
+msgid "Play"
+msgstr ""
+
+msgid "Previous"
+msgstr ""
+
+msgid "Published By"
+msgstr ""
+
+msgid "Q:"
+msgstr ""
+
+msgid "Read the definition for ‘<glossterm/>’."
+msgstr ""
+
+msgid "Ready for review"
+msgstr ""
+
+msgid "Scale images down"
+msgstr ""
+
+msgid "See <glosssee/>."
+msgstr ""
+
+msgid "See <seeie/>."
+msgstr ""
+
+msgid "See Also"
+msgstr ""
+
+msgid "See also <glosssee/>."
+msgstr ""
+
+msgid "See also <seeie/>."
+msgstr ""
+
+msgid "Send email to ‘<string/>’."
+msgstr ""
+
+msgid "Sidebar"
+msgstr ""
+
+msgid "Stub"
+msgstr ""
+
+msgid "Synopsis"
+msgstr ""
+
+msgid "Tip"
+msgstr ""
+
+msgid "Translated By"
+msgstr ""
+
+msgid "View images at normal size"
+msgstr ""
+
+msgid "View the bibliography entry <biblioentry.label/>."
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Written By"
+msgstr ""
+
+msgid "[<biblioentry.label/>]"
+msgstr ""
+
+msgid "[<citation.label/>]"
+msgstr ""
+
+msgid "default:LTR"
+msgstr ""
+
+msgid "from <comment.name/>"
+msgstr ""
+
+msgid "from <comment.name/> on <comment.date/>"
+msgstr ""
+
+msgid "© <copyright.years/> <copyright.name/>"
+msgstr ""
+
+msgid "‘<node/>’"
+msgstr ""
+
+msgid "“<node/>”"
+msgstr ""

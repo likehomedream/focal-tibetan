@@ -1,0 +1,2125 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: GIMP-master\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-04-05 13:01+0000\n"
+"Last-Translator: lumingzh <lumingzh@qq.com>\n"
+"Language-Team: Chinese - China <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:21+0000\n"
+
+msgid "%d page selected"
+msgid_plural "All %d pages selected"
+msgstr[0] ""
+
+msgid "%d procedure"
+msgid_plural "%d procedures"
+msgstr[0] ""
+
+msgid "%d procedure matches your query"
+msgid_plural "%d procedures match your query"
+msgstr[0] ""
+
+msgid "%s plug-in can only handle RGB images"
+msgstr ""
+
+msgid "%s plug-in can only handle RGB or grayscale images"
+msgstr ""
+
+msgid "%s plug-in can only handle RGB or indexed images"
+msgstr ""
+
+msgid "%s plug-in can only handle bitmap (two color) indexed images"
+msgstr ""
+
+msgid "%s plug-in can only handle grayscale images"
+msgstr ""
+
+msgid "%s plug-in can only handle grayscale or indexed images"
+msgstr ""
+
+msgid "%s plug-in can only handle indexed images"
+msgstr ""
+
+msgid "%s plug-in can only handle layers as animation frames"
+msgstr ""
+
+msgid "%s plug-in can't handle layer masks"
+msgstr ""
+
+msgid "%s plug-in can't handle layer offsets, size or opacity"
+msgstr ""
+
+msgid "%s plug-in can't handle layers"
+msgstr ""
+
+msgid "%s plug-in can't handle transparency"
+msgstr ""
+
+msgid "%s plug-in needs an alpha channel"
+msgstr ""
+
+msgid "'%s' does not appear to be an ICC color profile"
+msgstr ""
+
+msgid "(Empty)"
+msgstr ""
+
+msgid "(invalid UTF-8 string)"
+msgstr ""
+
+msgid "(unnamed profile)"
+msgstr ""
+
+msgid "0..100"
+msgstr ""
+
+msgid "0..255"
+msgstr ""
+
+msgid "Add Alpha Channel"
+msgstr ""
+
+msgid "Add a new folder"
+msgstr ""
+
+msgid "Additional Information"
+msgstr ""
+
+msgid "All files (*.*)"
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Anchor"
+msgstr ""
+
+msgid "Apply Layer Masks"
+msgstr ""
+
+msgid "Author:"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Blac_k"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Bogus color"
+msgstr ""
+
+msgid "Bogus warning color"
+msgstr ""
+
+msgid "Brush Selection"
+msgstr ""
+
+msgid "Button %d"
+msgstr ""
+
+msgid "Button %d Press"
+msgstr ""
+
+msgid "Button %d Release"
+msgstr ""
+
+msgid "Button 0"
+msgstr ""
+
+msgid "Button 1"
+msgstr ""
+
+msgid "Button 2"
+msgstr ""
+
+msgid "Button 3"
+msgstr ""
+
+msgid "Button 4"
+msgstr ""
+
+msgid "Button 5"
+msgstr ""
+
+msgid "Button 6"
+msgstr ""
+
+msgid "Button 7"
+msgstr ""
+
+msgid "Button 8"
+msgstr ""
+
+msgid "Button 9"
+msgstr ""
+
+msgid "Button Back"
+msgstr ""
+
+msgid "Button Extra"
+msgstr ""
+
+msgid "Button Forward"
+msgstr ""
+
+msgid "Button Gear Down"
+msgstr ""
+
+msgid "Button Gear Up"
+msgstr ""
+
+msgid "Button Left"
+msgstr ""
+
+msgid "Button Middle"
+msgstr ""
+
+msgid "Button Mouse"
+msgstr ""
+
+msgid "Button Right"
+msgstr ""
+
+msgid "Button Side"
+msgstr ""
+
+msgid "Button Task"
+msgstr ""
+
+msgid "Button Wheel"
+msgstr ""
+
+msgid "CIE LCh color model"
+msgstr ""
+
+msgid "CMYK"
+msgstr ""
+
+msgid "CMYK color selector (using color profile)"
+msgstr ""
+
+msgid "CMYK profile"
+msgstr ""
+
+msgid "C_enter"
+msgstr ""
+
+msgid "C_onfirm"
+msgstr ""
+
+msgid "Calling ShowItems failed: "
+msgstr ""
+
+msgid "Can load metadata only from local files"
+msgstr ""
+
+msgid "Can save metadata only to local files"
+msgstr ""
+
+msgid "Can't show file in file manager: %s"
+msgstr ""
+
+msgid "Cannot convert '%s' into a valid NSURL."
+msgstr ""
+
+msgid ""
+"Cannot determine a valid thumbnails directory.\n"
+"Thumbnails will be stored in the folder for temporary files (%s) instead."
+msgstr ""
+
+msgid "Cannot expand ${%s}"
+msgstr ""
+
+msgid "Channel:"
+msgstr ""
+
+msgid "Check Size"
+msgstr ""
+
+msgid "Check Style"
+msgstr ""
+
+msgid ""
+"Click the eyedropper, then click a color anywhere on your screen to select "
+"that color."
+msgstr ""
+
+msgid "Clip Warning"
+msgstr ""
+
+msgid "Clip warning color display filter"
+msgstr ""
+
+msgid "Color Deficient Vision"
+msgstr ""
+
+msgid "Color deficit simulation filter (Brettel-Vienot-Mollon algorithm)"
+msgstr ""
+
+msgid "Color profile '%s' is not for CMYK color space."
+msgstr ""
+
+msgid "Color profile '%s' is not for GRAY color space."
+msgstr ""
+
+msgid "Color profile '%s' is not for RGB color space."
+msgstr ""
+
+msgid "Color vision deficiency type"
+msgstr ""
+
+msgid "Confirm Save"
+msgstr ""
+
+msgid "Connecting to org.freedesktop.FileManager1 failed: "
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Contrast cycles"
+msgstr ""
+
+msgid "Controller %03d"
+msgstr ""
+
+msgid "Conversion of the filename to system codepage failed."
+msgstr ""
+
+msgid "Convert to Grayscale"
+msgstr ""
+
+msgid ""
+"Convert to Indexed using bitmap default settings\n"
+"(Do it manually to tune the result)"
+msgstr ""
+
+msgid ""
+"Convert to Indexed using default settings\n"
+"(Do it manually to tune the result)"
+msgstr ""
+
+msgid "Convert to RGB"
+msgstr ""
+
+msgid "Copyright:"
+msgstr ""
+
+msgid "Copyright: "
+msgstr ""
+
+msgid "Copyright: %s"
+msgstr ""
+
+msgid "Could not create directory '%s' for '%s': "
+msgstr ""
+
+msgid "Could not create temporary file for '%s': "
+msgstr ""
+
+msgid "Could not create thumbnail for %s: %s"
+msgstr ""
+
+msgid "Could not save color profile to memory"
+msgstr ""
+
+msgid "Cr_op"
+msgstr ""
+
+msgid "Current:"
+msgstr ""
+
+msgid "Cyan"
+msgstr ""
+
+msgid "Data does not appear to be an ICC color profile"
+msgstr ""
+
+msgid "Date:"
+msgstr ""
+
+msgid "Deuteranopia (insensitivity to green)"
+msgstr ""
+
+msgid "Device not available"
+msgstr ""
+
+msgid "Device not available: %s"
+msgstr ""
+
+msgid "Device:"
+msgstr ""
+
+msgid "Dial Turn Left"
+msgstr ""
+
+msgid "Dial Turn Right"
+msgstr ""
+
+msgid "DirectInput Events"
+msgstr ""
+
+msgid "DirectX DirectInput"
+msgstr ""
+
+msgid "DirectX DirectInput event controller"
+msgstr ""
+
+msgid "Display rendering intent"
+msgstr ""
+
+msgid ""
+"Do use black point compensation (unless you know you have a reason not to)."
+msgstr ""
+
+msgid "End of file"
+msgstr ""
+
+msgid "Enter 'alsa' to use the ALSA sequencer."
+msgstr ""
+
+msgid "Error converting UTF-8 filename to wide char"
+msgstr ""
+
+msgid "Error while parsing '%s' in line %d: %s"
+msgstr ""
+
+msgid "Error writing '%s': %s"
+msgstr ""
+
+msgid "Error writing to '%s': %s"
+msgstr ""
+
+msgid "Export File"
+msgstr ""
+
+msgid "Factor"
+msgstr ""
+
+msgid "Failed to create thumbnail folder '%s'."
+msgstr ""
+
+msgid "File has no path representation"
+msgstr ""
+
+msgid "File path is NULL"
+msgstr ""
+
+msgid "Flatten Image"
+msgstr ""
+
+msgid "Folder"
+msgstr ""
+
+msgid "Font Selection"
+msgstr ""
+
+msgid "GIMP"
+msgstr ""
+
+msgid "GIMP 2.10"
+msgstr ""
+
+msgid "GIMP MIDI Input Controller"
+msgstr ""
+
+msgid "Gamma"
+msgstr ""
+
+msgid "Gamma color display filter"
+msgstr ""
+
+msgid "Gigabytes"
+msgstr ""
+
+msgid "Gradient Selection"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "HSV"
+msgstr ""
+
+msgid "HSV Hue"
+msgstr ""
+
+msgid "HSV Saturation"
+msgstr ""
+
+msgid "HSV Value"
+msgstr ""
+
+msgid "HSV color model"
+msgstr ""
+
+msgid "HSV color wheel"
+msgstr ""
+
+msgid "HTML _notation:"
+msgstr ""
+
+msgid ""
+"Hexadecimal color notation as used in HTML and CSS.  This entry also accepts"
+" CSS color names."
+msgstr ""
+
+msgid "High Contrast color display filter"
+msgstr ""
+
+msgid "Highlights color"
+msgstr ""
+
+msgid "Highlights warning color"
+msgstr ""
+
+msgid "Horiz. Wheel Turn Back"
+msgstr ""
+
+msgid "Horiz. Wheel Turn Forward"
+msgstr ""
+
+msgid ""
+"How colors are converted from your image's color space to the output "
+"simulation device (usually your monitor). Try them all and choose what looks"
+" the best. "
+msgstr ""
+
+msgid ""
+"How colors are converted from your image's color space to your display "
+"device. Relative colorimetric is usually the best choice. Unless you use a "
+"LUT monitor profile (most monitor profiles are matrix), choosing perceptual "
+"intent really gives you relative colorimetric."
+msgstr ""
+
+msgid "How images are displayed on screen."
+msgstr ""
+
+msgid "ICC color profile (*.icc, *.icm)"
+msgstr ""
+
+msgid "ILCreateFromPath() failed"
+msgstr ""
+
+msgid "Include alpha component"
+msgstr ""
+
+msgid "Include alpha component in the warning"
+msgstr ""
+
+msgid "Include fully transparent pixels in the warning"
+msgstr ""
+
+msgid "Include transparent pixels"
+msgstr ""
+
+msgid "Indicates whether or not the file exists"
+msgstr ""
+
+msgid "Indicates whether or not the folder exists"
+msgstr ""
+
+msgid "Invalid Exif data size."
+msgstr ""
+
+msgid "Kilobytes"
+msgstr ""
+
+msgid "LCh"
+msgstr ""
+
+msgid "LCh Chroma"
+msgstr ""
+
+msgid "LCh Hue"
+msgstr ""
+
+msgid "LCh Lightness"
+msgstr ""
+
+msgid "L_etter Spacing"
+msgstr ""
+
+msgid "L_ine Spacing"
+msgstr ""
+
+msgid "Linked"
+msgstr ""
+
+msgid "Linux Input"
+msgstr ""
+
+msgid "Linux Input Events"
+msgstr ""
+
+msgid "Linux input event controller"
+msgstr ""
+
+msgid "Load failed"
+msgstr ""
+
+msgid "Loaded"
+msgstr ""
+
+msgid "MIDI"
+msgstr ""
+
+msgid "MIDI Events"
+msgstr ""
+
+msgid "MIDI event controller"
+msgstr ""
+
+msgid "Magenta"
+msgstr ""
+
+msgid "Manufacturer: "
+msgstr ""
+
+msgid "Manufacturer: %s"
+msgstr ""
+
+msgid "Mark out of gamut colors"
+msgstr ""
+
+msgid "Megabytes"
+msgstr ""
+
+msgid "Merge Visible Layers"
+msgstr ""
+
+msgid "Mode of operation"
+msgstr ""
+
+msgid "Model: %s"
+msgstr ""
+
+msgid "Module '%s' load error: %s"
+msgstr ""
+
+msgid "Module error"
+msgstr ""
+
+msgid "Monitor profile"
+msgstr ""
+
+msgid "More..."
+msgstr ""
+
+msgid "Move the selected folder down"
+msgstr ""
+
+msgid "Move the selected folder up"
+msgstr ""
+
+msgid "No device configured"
+msgstr ""
+
+msgid "No matches"
+msgstr ""
+
+msgid "No matches for your query"
+msgstr ""
+
+msgid "Not a regular file."
+msgstr ""
+
+msgid "Not loaded"
+msgstr ""
+
+msgid "Note %02x off"
+msgstr ""
+
+msgid "Note %02x on"
+msgstr ""
+
+msgid "Nothing selected"
+msgstr ""
+
+msgid "Old:"
+msgstr ""
+
+msgid "One page selected"
+msgstr ""
+
+msgid "Open _pages as"
+msgstr ""
+
+msgid "Open a file selector to browse your files"
+msgstr ""
+
+msgid "Open a file selector to browse your folders"
+msgstr ""
+
+msgid "Optimize display color transformations"
+msgstr ""
+
+msgid "Optimize soft-proofing color transformations"
+msgstr ""
+
+msgid "Original"
+msgstr ""
+
+msgid "Out of gamut warning color"
+msgstr ""
+
+msgid "POV %d Return"
+msgstr ""
+
+msgid "POV %d X View"
+msgstr ""
+
+msgid "POV %d Y View"
+msgstr ""
+
+msgid "Page %d"
+msgstr ""
+
+msgid "Palette Selection"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Parsing Exif data failed."
+msgstr ""
+
+msgid "Parsing IPTC data failed."
+msgstr ""
+
+msgid "Parsing XMP data failed."
+msgstr ""
+
+msgid "Paste Into"
+msgstr ""
+
+msgid "Paste as New"
+msgstr ""
+
+msgid "Pattern Selection"
+msgstr ""
+
+msgid "Preferred RGB profile"
+msgstr ""
+
+msgid "Preferred grayscale profile"
+msgstr ""
+
+msgid "Press F1 for more help"
+msgstr ""
+
+msgid "Pressure"
+msgstr ""
+
+msgid "Profile: %s"
+msgstr ""
+
+msgid "Profile: (none)"
+msgstr ""
+
+msgid "Protanopia (insensitivity to red)"
+msgstr ""
+
+msgid "RGB color model"
+msgstr ""
+
+msgid "Re_size"
+msgstr ""
+
+msgid "Reading from %s"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Remove the selected folder from the list"
+msgstr ""
+
+msgid "Return Values"
+msgstr ""
+
+msgid "Rotate %s?"
+msgstr ""
+
+msgid "Rotated"
+msgstr ""
+
+msgid "Save as Animation"
+msgstr ""
+
+msgid "Scales"
+msgstr ""
+
+msgid "Search term invalid or incomplete"
+msgstr ""
+
+msgid "Searching"
+msgstr ""
+
+msgid "Searching by author"
+msgstr ""
+
+msgid "Searching by copyright"
+msgstr ""
+
+msgid "Searching by date"
+msgstr ""
+
+msgid "Searching by description"
+msgstr ""
+
+msgid "Searching by help"
+msgstr ""
+
+msgid "Searching by name"
+msgstr ""
+
+msgid "Searching by type"
+msgstr ""
+
+msgid "Seed random number generator with a generated random number"
+msgstr ""
+
+msgid "Select File"
+msgstr ""
+
+msgid "Select Folder"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select _range:"
+msgstr ""
+
+msgid "Select color profile from disk..."
+msgstr ""
+
+msgid "Shadows color"
+msgstr ""
+
+msgid "Shadows warning color"
+msgstr ""
+
+msgid "Show bogus"
+msgstr ""
+
+msgid "Show file location in the file manager"
+msgstr ""
+
+msgid "Show highlights"
+msgstr ""
+
+msgid "Show shadows"
+msgstr ""
+
+msgid "Show warning for pixels with a component greater than one"
+msgstr ""
+
+msgid "Show warning for pixels with a negative component"
+msgstr ""
+
+msgid "Show warning for pixels with an infinite or NaN component"
+msgstr ""
+
+msgid "Simulation profile for soft-proofing"
+msgstr ""
+
+msgid "Slider %d Decrease"
+msgstr ""
+
+msgid "Slider %d Increase"
+msgstr ""
+
+msgid "Soft-proofing rendering intent"
+msgstr ""
+
+msgid "The CMYK color profile used to convert between RGB and CMYK."
+msgstr ""
+
+msgid ""
+"The MIDI channel to read events from. Set to -1 for reading from all MIDI "
+"channels."
+msgstr ""
+
+msgid "The color profile of your (primary) monitor."
+msgstr ""
+
+msgid ""
+"The color profile to use for soft-proofing from your image's color space to "
+"some other color space, including soft-proofing to a printer or other output"
+" device profile. "
+msgstr ""
+
+msgid "The color to use for marking colors which are out of gamut."
+msgstr ""
+
+msgid "The device to read DirectInput events from."
+msgstr ""
+
+msgid "The export conversion won't modify your original image."
+msgstr ""
+
+msgid "The name of the device to read Linux Input events from."
+msgstr ""
+
+msgid "The name of the device to read MIDI events from."
+msgstr ""
+
+msgid ""
+"The preferred RGB working space color profile. It will be offered next to "
+"the built-in RGB profile when a color profile can be chosen."
+msgstr ""
+
+msgid ""
+"The preferred grayscale working space color profile. It will be offered next"
+" to the built-in grayscale profile when a color profile can be chosen."
+msgstr ""
+
+msgid "This image contains Exif orientation metadata."
+msgstr ""
+
+msgid "This text input field is limited to %d character."
+msgid_plural "This text input field is limited to %d characters."
+msgstr[0] ""
+
+msgid "Thumbnail contains no Thumb::URI tag"
+msgstr ""
+
+msgid "Tritanopia (insensitivity to blue)"
+msgstr ""
+
+msgid ""
+"Try with and without black point compensation and choose what looks best. "
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit Selection"
+msgstr ""
+
+msgid "Use black point compensation for soft-proofing"
+msgstr ""
+
+msgid "Use black point compensation for the display"
+msgstr ""
+
+msgid "Use the system monitor profile"
+msgstr ""
+
+msgid ""
+"Use this value for random number generator seed - this allows you to repeat "
+"a given \"random\" operation"
+msgstr ""
+
+msgid "Visible"
+msgstr ""
+
+msgid "Watercolor"
+msgstr ""
+
+msgid "Watercolor style color selector"
+msgstr ""
+
+msgid "Wheel"
+msgstr ""
+
+msgid "Wheel Turn Left"
+msgstr ""
+
+msgid "Wheel Turn Right"
+msgstr ""
+
+msgid ""
+"When disabled, image display might be of better quality at the cost of "
+"speed."
+msgstr ""
+
+msgid ""
+"When disabled, soft-proofing might be of better quality at the cost of "
+"speed."
+msgstr ""
+
+msgid ""
+"When enabled, GIMP will try to use the display color profile from the "
+"windowing system.  The configured monitor profile is then only used as a "
+"fallback."
+msgstr ""
+
+msgid ""
+"When enabled, the soft-proofing will mark colors which can not be "
+"represented in the target color space."
+msgstr ""
+
+msgid "Would you like to rotate the image?"
+msgstr ""
+
+msgid "Writable"
+msgstr ""
+
+msgid "X Axis Tilt Away"
+msgstr ""
+
+msgid "X Axis Tilt Back"
+msgstr ""
+
+msgid "X Axis Tilt Forward"
+msgstr ""
+
+msgid "X Axis Tilt Near"
+msgstr ""
+
+msgid "X Move Left"
+msgstr ""
+
+msgid "X Move Right"
+msgstr ""
+
+msgid "Y Axis Tilt Left"
+msgstr ""
+
+msgid "Y Axis Tilt Right"
+msgstr ""
+
+msgid "Y Move Away"
+msgstr ""
+
+msgid "Y Move Back"
+msgstr ""
+
+msgid "Y Move Forward"
+msgstr ""
+
+msgid "Y Move Near"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid ""
+"You are about to save a channel (saved selection) as %s.\n"
+"This will not save the visible layers."
+msgstr ""
+
+msgid ""
+"You are about to save a layer mask as %s.\n"
+"This will not save the visible layers."
+msgstr ""
+
+msgid ""
+"Your image should be exported before it can be saved as %s for the following"
+" reasons:"
+msgstr ""
+
+msgid "Z Axis Turn Left"
+msgstr ""
+
+msgid "Z Axis Turn Right"
+msgstr ""
+
+msgid "Z Move Down"
+msgstr ""
+
+msgid "Z Move Up"
+msgstr ""
+
+msgid "_Background Color"
+msgstr ""
+
+msgid "_Browse..."
+msgstr ""
+
+msgid "_C"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Don't ask me again"
+msgstr ""
+
+msgid "_Duplicate"
+msgstr ""
+
+msgid "_Export"
+msgstr ""
+
+msgid "_Foreground Color"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Ignore"
+msgstr ""
+
+msgid "_K"
+msgstr ""
+
+msgid "_Keep Original"
+msgstr ""
+
+msgid "_M"
+msgstr ""
+
+msgid "_New Seed"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Preview"
+msgstr ""
+
+msgid "_Randomize"
+msgstr ""
+
+msgid "_Reset"
+msgstr ""
+
+msgid "_Rotate"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Scale"
+msgstr ""
+
+msgid "_Search:"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Shear"
+msgstr ""
+
+msgid "_Stroke"
+msgstr ""
+
+msgid "_Transform"
+msgstr ""
+
+msgid "_White"
+msgstr ""
+
+msgid "_Y"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "C_hannel"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "Layer's _alpha channel"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "_Black (full transparency)"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "_Grayscale copy of layer"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "_Selection"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "_Transfer layer's alpha channel"
+msgstr ""
+
+msgctxt "add-mask-type"
+msgid "_White (full opacity)"
+msgstr ""
+
+msgctxt "aspect-type"
+msgid "Landscape"
+msgstr ""
+
+msgctxt "aspect-type"
+msgid "Portrait"
+msgstr ""
+
+msgctxt "aspect-type"
+msgid "Square"
+msgstr ""
+
+msgctxt "blend-mode"
+msgid "Custom gradient"
+msgstr ""
+
+msgctxt "blend-mode"
+msgid "FG to BG (HSV)"
+msgstr ""
+
+msgctxt "blend-mode"
+msgid "FG to BG (RGB)"
+msgstr ""
+
+msgctxt "blend-mode"
+msgid "FG to transparent"
+msgstr ""
+
+msgctxt "brush-generated-shape"
+msgid "Circle"
+msgstr ""
+
+msgctxt "brush-generated-shape"
+msgid "Diamond"
+msgstr ""
+
+msgctxt "brush-generated-shape"
+msgid "Square"
+msgstr ""
+
+msgctxt "bucket-fill-mode"
+msgid "BG color fill"
+msgstr ""
+
+msgctxt "bucket-fill-mode"
+msgid "FG color fill"
+msgstr ""
+
+msgctxt "bucket-fill-mode"
+msgid "Pattern fill"
+msgstr ""
+
+msgid "by author"
+msgstr ""
+
+msgid "by copyright"
+msgstr ""
+
+msgid "by date"
+msgstr ""
+
+msgid "by description"
+msgstr ""
+
+msgid "by help"
+msgstr ""
+
+msgid "by name"
+msgstr ""
+
+msgid "by type"
+msgstr ""
+
+msgid "calling error"
+msgstr ""
+
+msgid "cancelled"
+msgstr ""
+
+msgctxt "cap-style"
+msgid "Butt"
+msgstr ""
+
+msgctxt "cap-style"
+msgid "Round"
+msgstr ""
+
+msgctxt "cap-style"
+msgid "Square"
+msgstr ""
+
+msgctxt "channel-ops"
+msgid "Add to the current selection"
+msgstr ""
+
+msgctxt "channel-ops"
+msgid "Intersect with the current selection"
+msgstr ""
+
+msgctxt "channel-ops"
+msgid "Replace the current selection"
+msgstr ""
+
+msgctxt "channel-ops"
+msgid "Subtract from the current selection"
+msgstr ""
+
+msgctxt "channel-type"
+msgid "Alpha"
+msgstr ""
+
+msgctxt "channel-type"
+msgid "Blue"
+msgstr ""
+
+msgctxt "channel-type"
+msgid "Gray"
+msgstr ""
+
+msgctxt "channel-type"
+msgid "Green"
+msgstr ""
+
+msgctxt "channel-type"
+msgid "Indexed"
+msgstr ""
+
+msgctxt "channel-type"
+msgid "Red"
+msgstr ""
+
+msgctxt "check-size"
+msgid "Large"
+msgstr ""
+
+msgctxt "check-size"
+msgid "Medium"
+msgstr ""
+
+msgctxt "check-size"
+msgid "Small"
+msgstr ""
+
+msgctxt "check-type"
+msgid "Black only"
+msgstr ""
+
+msgctxt "check-type"
+msgid "Dark checks"
+msgstr ""
+
+msgctxt "check-type"
+msgid "Gray only"
+msgstr ""
+
+msgctxt "check-type"
+msgid "Light checks"
+msgstr ""
+
+msgctxt "check-type"
+msgid "Mid-tone checks"
+msgstr ""
+
+msgctxt "check-type"
+msgid "White only"
+msgstr ""
+
+msgctxt "clone-type"
+msgid "Image"
+msgstr ""
+
+msgctxt "clone-type"
+msgid "Pattern"
+msgstr ""
+
+msgctxt "color-management-mode"
+msgid "Color-managed display"
+msgstr ""
+
+msgctxt "color-management-mode"
+msgid "No color management"
+msgstr ""
+
+msgctxt "color-management-mode"
+msgid "Soft-proofing"
+msgstr ""
+
+msgctxt "color-rendering-intent"
+msgid "Absolute colorimetric"
+msgstr ""
+
+msgctxt "color-rendering-intent"
+msgid "Perceptual"
+msgstr ""
+
+msgctxt "color-rendering-intent"
+msgid "Relative colorimetric"
+msgstr ""
+
+msgctxt "color-rendering-intent"
+msgid "Saturation"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_A"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_B"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_C"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_G"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_H"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_L"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_R"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_S"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_V"
+msgstr ""
+
+msgctxt "color-selector-channel"
+msgid "_h"
+msgstr ""
+
+msgctxt "color-selector-model"
+msgid "HSV"
+msgstr ""
+
+msgctxt "color-selector-model"
+msgid "LCH"
+msgstr ""
+
+msgctxt "color-selector-model"
+msgid "RGB"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Blue"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Brown"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Gray"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Green"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "None"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Orange"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Red"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Violet"
+msgstr ""
+
+msgctxt "color-tag"
+msgid "Yellow"
+msgstr ""
+
+msgctxt "component-type"
+msgid "16-bit floating point"
+msgstr ""
+
+msgctxt "component-type"
+msgid "16-bit integer"
+msgstr ""
+
+msgctxt "component-type"
+msgid "32-bit floating point"
+msgstr ""
+
+msgctxt "component-type"
+msgid "32-bit integer"
+msgstr ""
+
+msgctxt "component-type"
+msgid "64-bit floating point"
+msgstr ""
+
+msgctxt "component-type"
+msgid "8-bit integer"
+msgstr ""
+
+msgctxt "convert-palette-type"
+msgid "Generate optimum palette"
+msgstr ""
+
+msgctxt "convert-palette-type"
+msgid "Use black and white (1-bit) palette"
+msgstr ""
+
+msgctxt "convert-palette-type"
+msgid "Use custom palette"
+msgstr ""
+
+msgctxt "convert-palette-type"
+msgid "Use web-optimized palette"
+msgstr ""
+
+msgctxt "convolve-type"
+msgid "Blur"
+msgstr ""
+
+msgctxt "convolve-type"
+msgid "Sharpen"
+msgstr ""
+
+msgctxt "desaturate-mode"
+msgid "Average (HSI Intensity)"
+msgstr ""
+
+msgctxt "desaturate-mode"
+msgid "Lightness (HSL)"
+msgstr ""
+
+msgctxt "desaturate-mode"
+msgid "Luma"
+msgstr ""
+
+msgctxt "desaturate-mode"
+msgid "Luminance"
+msgstr ""
+
+msgctxt "desaturate-mode"
+msgid "Value (HSV)"
+msgstr ""
+
+msgctxt "dodge-burn-type"
+msgid "Burn"
+msgstr ""
+
+msgctxt "dodge-burn-type"
+msgid "Dodge"
+msgstr ""
+
+msgid "execution error"
+msgstr ""
+
+msgid "expected 'yes' or 'no' for boolean token %s, got '%s'"
+msgstr ""
+
+msgid "expected 'yes' or 'no' for boolean token, got '%s'"
+msgstr ""
+
+msgid "fatal parse error"
+msgstr ""
+
+msgctxt "fill-type"
+msgid "Background color"
+msgstr ""
+
+msgctxt "fill-type"
+msgid "Foreground color"
+msgstr ""
+
+msgctxt "fill-type"
+msgid "Pattern"
+msgstr ""
+
+msgctxt "fill-type"
+msgid "Transparency"
+msgstr ""
+
+msgctxt "fill-type"
+msgid "White"
+msgstr ""
+
+msgctxt "gradient-blend-color-space"
+msgid "CIE Lab"
+msgstr ""
+
+msgctxt "gradient-blend-color-space"
+msgid "Linear RGB"
+msgstr ""
+
+msgctxt "gradient-blend-color-space"
+msgid "Perceptual RGB"
+msgstr ""
+
+msgctxt "gradient-segment-color"
+msgid "HSV (ccw)"
+msgstr ""
+
+msgctxt "gradient-segment-color"
+msgid "HSV (clockwise hue)"
+msgstr ""
+
+msgctxt "gradient-segment-color"
+msgid "HSV (counter-clockwise hue)"
+msgstr ""
+
+msgctxt "gradient-segment-color"
+msgid "HSV (cw)"
+msgstr ""
+
+msgctxt "gradient-segment-color"
+msgid "RGB"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Curved"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Linear"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Sinusoidal"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Spherical (dec)"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Spherical (decreasing)"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Spherical (inc)"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Spherical (increasing)"
+msgstr ""
+
+msgctxt "gradient-segment-type"
+msgid "Step"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Bi-linear"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Conical (asym)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Conical (asymmetric)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Conical (sym)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Conical (symmetric)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Linear"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Radial"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Shaped (angular)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Shaped (dimpled)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Shaped (spherical)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Spiral (ccw)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Spiral (clockwise)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Spiral (counter-clockwise)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Spiral (cw)"
+msgstr ""
+
+msgctxt "gradient-type"
+msgid "Square"
+msgstr ""
+
+msgctxt "grid-style"
+msgid "Dashed"
+msgstr ""
+
+msgctxt "grid-style"
+msgid "Double dashed"
+msgstr ""
+
+msgctxt "grid-style"
+msgid "Intersections (crosshairs)"
+msgstr ""
+
+msgctxt "grid-style"
+msgid "Intersections (dots)"
+msgstr ""
+
+msgctxt "grid-style"
+msgid "Solid"
+msgstr ""
+
+msgctxt "icon-type"
+msgid "Icon name"
+msgstr ""
+
+msgctxt "icon-type"
+msgid "Image file"
+msgstr ""
+
+msgctxt "icon-type"
+msgid "Inline pixbuf"
+msgstr ""
+
+msgctxt "image-base-type"
+msgid "Grayscale"
+msgstr ""
+
+msgctxt "image-base-type"
+msgid "Indexed color"
+msgstr ""
+
+msgctxt "image-base-type"
+msgid "RGB color"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Grayscale"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Grayscale-alpha"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Indexed"
+msgstr ""
+
+msgctxt "image-type"
+msgid "Indexed-alpha"
+msgstr ""
+
+msgctxt "image-type"
+msgid "RGB"
+msgstr ""
+
+msgctxt "image-type"
+msgid "RGB-alpha"
+msgstr ""
+
+msgctxt "ink-blob-type"
+msgid "Circle"
+msgstr ""
+
+msgctxt "ink-blob-type"
+msgid "Diamond"
+msgstr ""
+
+msgctxt "ink-blob-type"
+msgid "Square"
+msgstr ""
+
+msgctxt "input-mode"
+msgid "Disabled"
+msgstr ""
+
+msgctxt "input-mode"
+msgid "Screen"
+msgstr ""
+
+msgctxt "input-mode"
+msgid "Window"
+msgstr ""
+
+msgctxt "interpolation-type"
+msgid "Cubic"
+msgstr ""
+
+msgctxt "interpolation-type"
+msgid "Linear"
+msgstr ""
+
+msgctxt "interpolation-type"
+msgid "LoHalo"
+msgstr ""
+
+msgctxt "interpolation-type"
+msgid "NoHalo"
+msgstr ""
+
+msgctxt "interpolation-type"
+msgid "None"
+msgstr ""
+
+msgid "invalid UTF-8 string"
+msgstr ""
+
+msgid "invalid value '%ld' for token %s"
+msgstr ""
+
+msgid "invalid value '%s' for token %s"
+msgstr ""
+
+msgctxt "join-style"
+msgid "Bevel"
+msgstr ""
+
+msgctxt "join-style"
+msgid "Miter"
+msgstr ""
+
+msgctxt "join-style"
+msgid "Round"
+msgstr ""
+
+msgctxt "merge-type"
+msgid "Clipped to bottom layer"
+msgstr ""
+
+msgctxt "merge-type"
+msgid "Clipped to image"
+msgstr ""
+
+msgctxt "merge-type"
+msgid "Expanded as necessary"
+msgstr ""
+
+msgctxt "merge-type"
+msgid "Flatten"
+msgstr ""
+
+msgctxt "orientation-type"
+msgid "Horizontal"
+msgstr ""
+
+msgctxt "orientation-type"
+msgid "Unknown"
+msgstr ""
+
+msgctxt "orientation-type"
+msgid "Vertical"
+msgstr ""
+
+msgctxt "page-selector-target"
+msgid "Images"
+msgstr ""
+
+msgctxt "page-selector-target"
+msgid "Layers"
+msgstr ""
+
+msgctxt "paint-application-mode"
+msgid "Constant"
+msgstr ""
+
+msgctxt "paint-application-mode"
+msgid "Incremental"
+msgstr ""
+
+msgctxt "pdb-proc-type"
+msgid "GIMP Extension"
+msgstr ""
+
+msgctxt "pdb-proc-type"
+msgid "GIMP Plug-In"
+msgstr ""
+
+msgctxt "pdb-proc-type"
+msgid "Internal GIMP procedure"
+msgstr ""
+
+msgctxt "pdb-proc-type"
+msgid "Temporary Procedure"
+msgstr ""
+
+msgid "percent"
+msgstr ""
+
+msgctxt "precision"
+msgid "16-bit gamma floating point"
+msgstr ""
+
+msgctxt "precision"
+msgid "16-bit gamma integer"
+msgstr ""
+
+msgctxt "precision"
+msgid "16-bit linear floating point"
+msgstr ""
+
+msgctxt "precision"
+msgid "16-bit linear integer"
+msgstr ""
+
+msgctxt "precision"
+msgid "32-bit gamma floating point"
+msgstr ""
+
+msgctxt "precision"
+msgid "32-bit gamma integer"
+msgstr ""
+
+msgctxt "precision"
+msgid "32-bit linear floating point"
+msgstr ""
+
+msgctxt "precision"
+msgid "32-bit linear integer"
+msgstr ""
+
+msgctxt "precision"
+msgid "64-bit gamma floating point"
+msgstr ""
+
+msgctxt "precision"
+msgid "64-bit linear floating point"
+msgstr ""
+
+msgctxt "precision"
+msgid "8-bit gamma integer"
+msgstr ""
+
+msgctxt "precision"
+msgid "8-bit linear integer"
+msgstr ""
+
+msgctxt "profile"
+msgid "None"
+msgstr ""
+
+msgctxt "repeat-mode"
+msgid "None (extend)"
+msgstr ""
+
+msgctxt "repeat-mode"
+msgid "Sawtooth wave"
+msgstr ""
+
+msgctxt "repeat-mode"
+msgid "Triangular wave"
+msgstr ""
+
+msgctxt "repeat-mode"
+msgid "Truncate"
+msgstr ""
+
+msgctxt "run-mode"
+msgid "Run interactively"
+msgstr ""
+
+msgctxt "run-mode"
+msgid "Run non-interactively"
+msgstr ""
+
+msgctxt "run-mode"
+msgid "Run with last used values"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "Alpha"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "Blue"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "Composite"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "Green"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "HSV Hue"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "HSV Saturation"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "HSV Value"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "LCh Chroma"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "LCh Hue"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "LCh Lightness"
+msgstr ""
+
+msgctxt "select-criterion"
+msgid "Red"
+msgstr ""
+
+msgctxt "size-type"
+msgid "Pixels"
+msgstr ""
+
+msgctxt "size-type"
+msgid "Points"
+msgstr ""
+
+msgctxt "stroke-method"
+msgid "Stroke line"
+msgstr ""
+
+msgctxt "stroke-method"
+msgid "Stroke with a paint tool"
+msgstr ""
+
+msgid "success"
+msgstr ""
+
+msgctxt "text-direction"
+msgid "From left to right"
+msgstr ""
+
+msgctxt "text-direction"
+msgid "From right to left"
+msgstr ""
+
+msgctxt "text-direction"
+msgid "Vertical, left to right (mixed orientation)"
+msgstr ""
+
+msgctxt "text-direction"
+msgid "Vertical, left to right (upright orientation)"
+msgstr ""
+
+msgctxt "text-direction"
+msgid "Vertical, right to left (mixed orientation)"
+msgstr ""
+
+msgctxt "text-direction"
+msgid "Vertical, right to left (upright orientation)"
+msgstr ""
+
+msgctxt "text-hint-style"
+msgid "Full"
+msgstr ""
+
+msgctxt "text-hint-style"
+msgid "Medium"
+msgstr ""
+
+msgctxt "text-hint-style"
+msgid "None"
+msgstr ""
+
+msgctxt "text-hint-style"
+msgid "Slight"
+msgstr ""
+
+msgctxt "text-justification"
+msgid "Centered"
+msgstr ""
+
+msgctxt "text-justification"
+msgid "Filled"
+msgstr ""
+
+msgctxt "text-justification"
+msgid "Left justified"
+msgstr ""
+
+msgctxt "text-justification"
+msgid "Right justified"
+msgstr ""
+
+msgctxt "transfer-mode"
+msgid "Highlights"
+msgstr ""
+
+msgctxt "transfer-mode"
+msgid "Midtones"
+msgstr ""
+
+msgctxt "transfer-mode"
+msgid "Shadows"
+msgstr ""
+
+msgctxt "transform-direction"
+msgid "Corrective (Backward)"
+msgstr ""
+
+msgctxt "transform-direction"
+msgid "Normal (Forward)"
+msgstr ""
+
+msgctxt "transform-resize"
+msgid "Adjust"
+msgstr ""
+
+msgctxt "transform-resize"
+msgid "Clip"
+msgstr ""
+
+msgctxt "transform-resize"
+msgid "Crop to result"
+msgstr ""
+
+msgctxt "transform-resize"
+msgid "Crop with aspect"
+msgstr ""
+
+msgid "value for token %s is not a valid UTF-8 string"
+msgstr ""
+
+msgid "while parsing token '%s': %s"
+msgstr ""
+
+msgctxt "zoom-type"
+msgid "Zoom in"
+msgstr ""
+
+msgctxt "zoom-type"
+msgid "Zoom out"
+msgstr ""

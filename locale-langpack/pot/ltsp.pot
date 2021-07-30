@@ -1,0 +1,279 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ltsp 5.2.2\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2010-08-01 02:42+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:18+0000\n"
+
+msgid "       supported values are: %s"
+msgstr ""
+
+msgid "  Advanced options:"
+msgstr ""
+
+msgid "  Regular options:"
+msgstr ""
+
+msgid "API ERROR: you need to provide true or false."
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Copying packages"
+msgstr ""
+
+msgid "Distro name"
+msgstr ""
+
+msgid "Draw progress bar"
+msgstr ""
+
+msgid "ERROR: %s does not exist"
+msgstr ""
+
+msgid "ERROR: --arch %s called on unsupported arch: %s"
+msgstr ""
+
+msgid "ERROR: unsupported architecture. Check your --arch argument: %s"
+msgstr ""
+
+msgid "Enable progress reporting"
+msgstr ""
+
+msgid "Enabling popularity contest..."
+msgstr ""
+
+msgid "Enabling serial console..."
+msgstr ""
+
+msgid "Installing into: %s"
+msgstr ""
+
+msgid "LTSP Build Client usage:"
+msgstr ""
+
+msgid "Load a user specific configuration file"
+msgstr ""
+
+msgid "Login Error"
+msgstr ""
+
+msgid "Login Warning"
+msgstr ""
+
+msgid "NOTE: adding default dist and components to backports mirror:"
+msgstr ""
+
+msgid "NOTE: adding default dist and components to security mirror:"
+msgstr ""
+
+msgid "Path to chroot-creator cache"
+msgstr ""
+
+msgid "Path to kickstart file"
+msgstr ""
+
+msgid "Print stage times (seconds)"
+msgstr ""
+
+msgid "Release version number"
+msgstr ""
+
+msgid "Set extra mirror locations (space-separated)"
+msgstr ""
+
+msgid "Set the i18n langs"
+msgstr ""
+
+msgid "Set the number of parallel build processes"
+msgstr ""
+
+msgid "Stage 3 URI"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "a simple webkiosk mode"
+msgstr ""
+
+msgid "add a backports mirror"
+msgstr ""
+
+msgid "add a mirror, which takes priority over the default mirror"
+msgstr ""
+
+msgid "add a mirror, with lower priority than the default mirror"
+msgstr ""
+
+msgid "add a security mirror"
+msgstr ""
+
+msgid "allow unsigned packages during install"
+msgstr ""
+
+msgid "already logged in!"
+msgstr ""
+
+msgid "cache downloaded packages"
+msgstr ""
+
+msgid "copy apt Packages files from server"
+msgstr ""
+
+msgid "create ext2 image for use with NBD"
+msgstr ""
+
+msgid "create image for use with NBD of the specified filesystem"
+msgstr ""
+
+msgid "create squashfs image for use with NBD"
+msgstr ""
+
+msgid "display help for all available commandline options"
+msgstr ""
+
+msgid "display this help message"
+msgstr ""
+
+msgid "distribution to pull backports from"
+msgstr ""
+
+msgid "distribution to set up apt pinning"
+msgstr ""
+
+msgid "do not autodetect apt proxy configuration"
+msgstr ""
+
+msgid "done."
+msgstr ""
+
+msgid "enable LTSP-Cluster"
+msgstr ""
+
+msgid "enable debug support"
+msgstr ""
+
+msgid "enable popularity-contest in the chroot"
+msgstr ""
+
+msgid "enable serial console"
+msgstr ""
+
+msgid "error: LTSP client installation ended abnormally"
+msgstr ""
+
+msgid "exclude packages from the initial chroot"
+msgstr ""
+
+msgid "force to skip the squashfs build (for debian-installer)"
+msgstr ""
+
+msgid "include the listed keys in the apt keyring"
+msgstr ""
+
+msgid "info: LTSP client installation completed successfully"
+msgstr ""
+
+msgid ""
+"install to the chroot all the .deb files contained in the provided directory"
+msgstr ""
+
+msgid "keep cache of downloaded package files"
+msgstr ""
+
+msgid "list of extra packages to install as part of the initial installation."
+msgstr ""
+
+msgid "list of packages to install as part of the final installation"
+msgstr ""
+
+msgid "list of packages to install from the backports repositories"
+msgstr ""
+
+msgid "list of packages to install from the pinned distribution"
+msgstr ""
+
+msgid "load a user specific configuration file"
+msgstr ""
+
+msgid "load debconf seeding in the chroot after install"
+msgstr ""
+
+msgid "mount a server directory as the chroot package cache dir"
+msgstr ""
+
+msgid "mount package cache dir from server"
+msgstr ""
+
+msgid "prompt to set the root password, defaults to disabled"
+msgstr ""
+
+msgid "purge existing LTSP chroot if present"
+msgstr ""
+
+msgid "run most or all applications locally"
+msgstr ""
+
+msgid "set the components to be used in mirror"
+msgstr ""
+
+msgid "set the default base install directory"
+msgstr ""
+
+msgid "set the default locale"
+msgstr ""
+
+msgid "set the distribution to be used for install"
+msgstr ""
+
+msgid "set the kernel modules packages to install."
+msgstr ""
+
+msgid "set the kernel package to install."
+msgstr ""
+
+msgid "set the list of kernel packages to install"
+msgstr ""
+
+msgid "set the list of packages to install after base-install is completed"
+msgstr ""
+
+msgid "set the mirror location"
+msgstr ""
+
+msgid "set the name of the chroot"
+msgstr ""
+
+msgid "set the security mirror location"
+msgstr ""
+
+msgid "set the target architecture"
+msgstr ""
+
+msgid "set the update mirror location"
+msgstr ""
+
+msgid "skip upgrade of installed packages"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "use specified http proxy"
+msgstr ""
+
+msgid "use the servers sources.list instead of generating one"
+msgstr ""

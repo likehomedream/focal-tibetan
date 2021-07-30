@@ -1,0 +1,361 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-bluetooth master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gnome-bluetooth&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-04 16:56+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:07+0000\n"
+
+msgid "%'d hour"
+msgid_plural "%'d hours"
+msgstr[0] ""
+
+msgid "%'d minute"
+msgid_plural "%'d minutes"
+msgstr[0] ""
+
+msgid "%'d second"
+msgid_plural "%'d seconds"
+msgstr[0] ""
+
+msgid "%d B/s"
+msgstr ""
+
+msgid "%d kB/s"
+msgstr ""
+
+msgid "%u transfer complete"
+msgid_plural "%u transfers complete"
+msgstr[0] ""
+
+msgid "ADDRESS"
+msgstr ""
+
+msgid "Accept"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "All categories"
+msgstr ""
+
+msgid "All types"
+msgstr ""
+
+msgid "Allow"
+msgstr ""
+
+msgid "An unknown error occurred"
+msgstr ""
+
+msgid "Audio device"
+msgstr ""
+
+msgid "Bluetooth File Transfer"
+msgstr ""
+
+msgid "Bluetooth Pairing Request"
+msgstr ""
+
+msgid "Bluetooth Transfer"
+msgstr ""
+
+msgid "Bluetooth file transfer from %s"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Choose files to send"
+msgstr ""
+
+msgid "Click to select device…"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Confirm Bluetooth Connection"
+msgstr ""
+
+msgid "Confirm Bluetooth PIN"
+msgstr ""
+
+msgid ""
+"Confirm the Bluetooth PIN for “%s”. This can usually be found in the "
+"device’s manual."
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connecting…"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Decline"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device _category:"
+msgstr ""
+
+msgid "Device _type:"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Disconnected"
+msgstr ""
+
+msgid "Dismiss"
+msgstr ""
+
+msgid "Display"
+msgstr ""
+
+msgid "File reception complete"
+msgstr ""
+
+msgid "From:"
+msgstr ""
+
+msgid "Headphones"
+msgstr ""
+
+msgid "Headphones, headsets and other audio devices"
+msgstr ""
+
+msgid "Headset"
+msgstr ""
+
+msgid ""
+"If you remove the device, you will have to set it up again before next use."
+msgstr ""
+
+msgid "Input devices (mice, keyboards, etc.)"
+msgstr ""
+
+msgid "Joypad"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid ""
+"Make sure that the remote device is switched on and that it accepts "
+"Bluetooth connections"
+msgstr ""
+
+msgid "Modem"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "NAME"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No adapters available"
+msgstr ""
+
+msgid "Not Set Up"
+msgstr ""
+
+msgid "Not paired or trusted"
+msgstr ""
+
+msgid "Open File"
+msgstr ""
+
+msgid "Paired"
+msgstr ""
+
+msgid "Paired or trusted"
+msgstr ""
+
+msgid "Pairing “%s”"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid ""
+"Please confirm that the following PIN matches the one displayed on “%s”."
+msgstr ""
+
+msgid "Please confirm the PIN that was entered on “%s”."
+msgstr ""
+
+msgid "Please enter the following PIN on “%s”."
+msgstr ""
+
+msgid ""
+"Please enter the following PIN on “%s”. Then press “Return” on the keyboard."
+msgstr ""
+
+msgid ""
+"Please move the joystick of your iCade in the following directions. Then "
+"press any of the white buttons."
+msgstr ""
+
+msgid "Printer"
+msgstr ""
+
+msgid "Remote control"
+msgstr ""
+
+msgid "Remote device to use"
+msgstr ""
+
+msgid "Remote device’s name"
+msgstr ""
+
+msgid "Remove “%s” from the list of devices?"
+msgstr ""
+
+msgid "Scanner"
+msgstr ""
+
+msgid "Searching for devices…"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select device to send to"
+msgstr ""
+
+msgid "Select the device category to filter"
+msgstr ""
+
+msgid "Select the device type to filter"
+msgstr ""
+
+msgid "Send _Files…"
+msgstr ""
+
+msgid "Send files via Bluetooth"
+msgstr ""
+
+msgid "Sending %s"
+msgstr ""
+
+msgid "Sending file %d of %d"
+msgstr ""
+
+msgid "Show:"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "There was an error"
+msgstr ""
+
+msgid "To:"
+msgstr ""
+
+msgid "Toy"
+msgstr ""
+
+msgid "Trusted"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Video device"
+msgstr ""
+
+msgid ""
+"Visible as “%s” and available for Bluetooth file transfers. Transferred "
+"files are placed in the <a href=\"%s\">Downloads</a> folder."
+msgstr ""
+
+msgid "Wearable"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "You received a file"
+msgstr ""
+
+msgid "You received “%s” via Bluetooth"
+msgstr ""
+
+msgid "[FILE…]"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Keyboard Settings"
+msgstr ""
+
+msgid "_Mouse & Touchpad Settings"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Remove Device"
+msgstr ""
+
+msgid "_Retry"
+msgstr ""
+
+msgid "_Send"
+msgstr ""
+
+msgid "_Sound Settings"
+msgstr ""
+
+msgid "approximately %'d hour"
+msgid_plural "approximately %'d hours"
+msgstr[0] ""
+
+msgid "bluetooth"
+msgstr ""
+
+msgid "“%s” wants to connect with this device. Do you want to allow it?"
+msgstr ""
+
+msgid "“%s” wants to pair with this device. Do you want to allow pairing?"
+msgstr ""

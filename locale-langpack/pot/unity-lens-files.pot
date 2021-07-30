@@ -1,0 +1,215 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: unity-lens-files\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2016-03-25 01:19+0000\n"
+"Last-Translator: Rockworld <sumoisrock@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:44+0000\n"
+
+msgid "%s, %u items"
+msgstr ""
+
+msgid "1 hour ago"
+msgstr ""
+
+msgid "100MB"
+msgstr ""
+
+msgid "100kB"
+msgstr ""
+
+msgid "10MB"
+msgstr ""
+
+msgid "1GB"
+msgstr ""
+
+msgid "1MB"
+msgstr ""
+
+msgid "1kB"
+msgstr ""
+
+msgid ">1GB"
+msgstr ""
+
+msgid "A month ago"
+msgstr ""
+
+msgid "April"
+msgstr ""
+
+msgid "Audio"
+msgstr ""
+
+msgid "August"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "December"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Downloads"
+msgstr ""
+
+msgid "Earlier today"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "February"
+msgstr ""
+
+msgid "Files & Folders"
+msgstr ""
+
+msgid "Filesystem type"
+msgstr ""
+
+msgid "Five hours ago"
+msgstr ""
+
+msgid "Folders"
+msgstr ""
+
+msgid "Format"
+msgstr ""
+
+msgid "Four hours ago"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Invalid Month"
+msgstr ""
+
+msgid "January"
+msgstr ""
+
+msgid "July"
+msgstr ""
+
+msgid "June"
+msgstr ""
+
+msgid "Last 30 days"
+msgstr ""
+
+msgid "Last 7 days"
+msgstr ""
+
+msgid "Last modified"
+msgstr ""
+
+msgid "Last year"
+msgstr ""
+
+msgid "March"
+msgstr ""
+
+msgid "May"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "November"
+msgstr ""
+
+msgid "October"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Other"
+msgstr ""
+
+msgid "Past hour"
+msgstr ""
+
+msgid "Path"
+msgstr ""
+
+msgid "Presentations"
+msgstr ""
+
+msgid "Recent"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Search Files & Folders"
+msgstr ""
+
+msgid "September"
+msgstr ""
+
+msgid "Show in Folder"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Sorry, there are no files or folders that match your search."
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid ""
+"This is an Ubuntu search plugin that enables local files to be searched and "
+"displayed in the Dash underneath the Files & Folders header. If you do not "
+"wish to search this content source, you can disable this search plugin."
+msgstr ""
+
+msgid "Three hours ago"
+msgstr ""
+
+msgid "Three weeks ago"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Total capacity %s"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Two hours ago"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Videos"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""

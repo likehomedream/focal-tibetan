@@ -1,0 +1,252 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: eog-plugins master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=eog-plugins&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-15 18:02+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:13+0000\n"
+
+msgid " (invalid Unicode)"
+msgstr ""
+
+msgid "%.1fmm (35mm film)"
+msgstr ""
+
+msgid "%.1fmm (lens)"
+msgstr ""
+
+msgid "Aperture:"
+msgstr ""
+
+msgid "Background color in fullscreen mode"
+msgstr ""
+
+msgid "C_ommand color:"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel All"
+msgstr ""
+
+msgid "Cancel Selected"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Command Text Color"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Display RGB histogram"
+msgstr ""
+
+msgid "Display camera settings in statusbar"
+msgstr ""
+
+msgid "Display per-channel histogram"
+msgstr ""
+
+msgid "Display the geolocation of the image on a map"
+msgstr ""
+
+msgid "Displays camera settings and histogram"
+msgstr ""
+
+msgid "Enables changing background in fullscreen mode"
+msgstr ""
+
+msgid "Error Text Color"
+msgstr ""
+
+msgid "Expo. Time:"
+msgstr ""
+
+msgid "Expo. bias:"
+msgstr ""
+
+msgid "Export directory:"
+msgstr ""
+
+msgid "Export the current image to a separate directory"
+msgstr ""
+
+msgid "Export to Folder"
+msgstr ""
+
+msgid "Failed"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Fit images to the window width"
+msgstr ""
+
+msgid "Fit to width"
+msgstr ""
+
+msgid "Flickr Uploader"
+msgstr ""
+
+msgid "Font used by Python Console"
+msgstr ""
+
+msgid "Fullscreen Background"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Hide Titlebar"
+msgstr ""
+
+msgid "Hides the titlebar of maximized Eye of GNOME windows"
+msgstr ""
+
+msgid "Histogram"
+msgstr ""
+
+msgid "ISO speed:"
+msgstr ""
+
+msgid "Logged in successfully."
+msgstr ""
+
+msgid "Login failed. %s"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Metering:"
+msgstr ""
+
+msgid "P_ython Console"
+msgstr ""
+
+msgid "PicasaWeb Login"
+msgstr ""
+
+msgid "PicasaWeb Uploader"
+msgstr ""
+
+msgid "Please log in to continue upload."
+msgstr ""
+
+msgid "Python Console"
+msgstr ""
+
+msgid "Python console for Eye of GNOME"
+msgstr ""
+
+msgid "Send By Mail"
+msgstr ""
+
+msgid "Send by Mail"
+msgstr ""
+
+msgid "Sends an image attached to a new mail"
+msgstr ""
+
+msgid "Shuffles images in slideshow mode"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Slideshow Shuffle"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid ""
+"The color that is used to fill the area behind the image. This option has "
+"effect only if use-custom is enabled."
+msgstr ""
+
+msgid "The color used for commands."
+msgstr ""
+
+msgid "The color used for errors."
+msgstr ""
+
+msgid "The folder to export to"
+msgstr ""
+
+msgid ""
+"This is the folder the plugin will place the exported files in. Plugin will "
+"export to $HOME/exported-images if not set."
+msgstr ""
+
+msgid "Upload to Flickr"
+msgstr ""
+
+msgid "Upload to PicasaWeb"
+msgstr ""
+
+msgid "Upload your pictures to Flickr"
+msgstr ""
+
+msgid "Upload your pictures to PicasaWeb"
+msgstr ""
+
+msgid "Uploaded"
+msgstr ""
+
+msgid "Uploads:"
+msgstr ""
+
+msgid "Use custom background settings"
+msgstr ""
+
+msgid "Use custom color:"
+msgstr ""
+
+msgid "Whether the plugin should use global settings or its own."
+msgstr ""
+
+msgid "Whether to use the system font"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "Zoom:"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Error color:"
+msgstr ""
+
+msgid "_Export"
+msgstr ""
+
+msgid "_Login"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_Username:"
+msgstr ""

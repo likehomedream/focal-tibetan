@@ -1,0 +1,101 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: popt 1.14\n"
+"Report-Msgid-Bugs-To: <popt-devel@rpm5.org>\n"
+"PO-Revision-Date: 2009-02-26 14:42+0000\n"
+"Last-Translator: Feng Chao <chaofeng111@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:39+0000\n"
+
+msgid "ARG"
+msgstr ""
+
+msgid "DOUBLE"
+msgstr ""
+
+msgid "Display brief usage message"
+msgstr ""
+
+msgid "Display option defaults in message"
+msgstr ""
+
+msgid "FLOAT"
+msgstr ""
+
+msgid "Help options:"
+msgstr ""
+
+msgid "INT"
+msgstr ""
+
+msgid "LONG"
+msgstr ""
+
+msgid "LONGLONG"
+msgstr ""
+
+msgid "NONE"
+msgstr ""
+
+msgid "Options implemented via popt alias/exec:"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "Show this help message"
+msgstr ""
+
+msgid "Terminate options"
+msgstr ""
+
+msgid "Usage:"
+msgstr ""
+
+msgid "VAL"
+msgstr ""
+
+msgid "[OPTION...]"
+msgstr ""
+
+msgid "aliases nested too deeply"
+msgstr ""
+
+msgid "error in parameter quoting"
+msgstr ""
+
+msgid "invalid numeric value"
+msgstr ""
+
+msgid "memory allocation failed"
+msgstr ""
+
+msgid "missing argument"
+msgstr ""
+
+msgid "mutually exclusive logical operations requested"
+msgstr ""
+
+msgid "number too large or too small"
+msgstr ""
+
+msgid "opt->arg should not be NULL"
+msgstr ""
+
+msgid "option type (%u) not implemented in popt\n"
+msgstr ""
+
+msgid "unknown errno"
+msgstr ""
+
+msgid "unknown error"
+msgstr ""
+
+msgid "unknown option"
+msgstr ""

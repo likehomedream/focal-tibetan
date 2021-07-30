@@ -1,0 +1,267 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: anjuta-extras master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=anjuta&component=unknown\n"
+"PO-Revision-Date: 2020-04-06 10:15+0000\n"
+"Last-Translator: Aron Xu <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:29+0000\n"
+
+msgid "Add line number every:"
+msgstr ""
+
+msgid "Add page header"
+msgstr ""
+
+msgid "An alternate editor based on Scintilla"
+msgstr ""
+
+msgid "Attributes:"
+msgstr ""
+
+msgid "Autocomplete XML/HTML closing tags"
+msgstr ""
+
+msgid "Autocompletion pop up choices"
+msgstr ""
+
+msgid "Background color:"
+msgstr ""
+
+msgid "Bold"
+msgstr ""
+
+msgid "Calltip background:"
+msgstr ""
+
+msgid ""
+"Cannot load Global defaults and configuration files:\n"
+"%s.\n"
+"This may result in improper behaviour or instabilities.\n"
+"Anjuta will fall back to built in (limited) settings"
+msgstr ""
+
+msgid "Caret (cursor) color:"
+msgstr ""
+
+msgid "Change build commands to use scratchbox 1 or 2"
+msgstr ""
+
+msgid "Choose autocomplete for single match"
+msgstr ""
+
+msgid "Collapse all code folds on file open"
+msgstr ""
+
+msgid "Colors & Fonts"
+msgstr ""
+
+msgid "Colour"
+msgstr ""
+
+msgid "Compact folding"
+msgstr ""
+
+msgid "Could not get file info"
+msgstr ""
+
+msgid ""
+"Could not load file: %s\n"
+"\n"
+"Details: %s"
+msgstr ""
+
+msgid "Could not open file"
+msgstr ""
+
+msgid "Could not save intermediate file %s: %s"
+msgstr ""
+
+msgid "Disable syntax highlighting"
+msgstr ""
+
+msgid "Draw line below folded lines"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Editor caret (cursor) width in pixels"
+msgstr ""
+
+msgid "Editor view settings"
+msgstr ""
+
+msgid "Enable HTML tags folding"
+msgstr ""
+
+msgid "Enable automatic indentation"
+msgstr ""
+
+msgid "Enable braces check"
+msgstr ""
+
+msgid "Enable code folding"
+msgstr ""
+
+msgid "Enable comments folding"
+msgstr ""
+
+msgid "Enable line wrap"
+msgstr ""
+
+msgid "Enable/disable line wrapping"
+msgstr ""
+
+msgid "Error while reading from file"
+msgstr ""
+
+msgid "File loaded successfully"
+msgstr ""
+
+msgid "File saved successfully"
+msgstr ""
+
+msgid "File: %s"
+msgstr ""
+
+msgid "Filter extraneous characters in DOS mode"
+msgstr ""
+
+msgid "Fold style:"
+msgstr ""
+
+msgid "Font:"
+msgstr ""
+
+msgid "Foreground color:"
+msgstr ""
+
+msgid "Indent closing braces"
+msgstr ""
+
+msgid "Indent opening braces"
+msgstr ""
+
+msgid "Indentation size in spaces:"
+msgstr ""
+
+msgid "Italic"
+msgstr ""
+
+msgid "Line _Wrapping"
+msgstr ""
+
+msgid "Line numbers margin width in pixels"
+msgstr ""
+
+msgid "Lines"
+msgstr ""
+
+msgid "Loading file..."
+msgstr ""
+
+msgid "Mode:"
+msgstr ""
+
+msgid "Monochrome"
+msgstr ""
+
+msgid "No file to print!"
+msgstr ""
+
+msgid "Pressing backspace un-indents"
+msgstr ""
+
+msgid "Printing"
+msgstr ""
+
+msgid "Program '%s' does not exists"
+msgstr ""
+
+msgid "Sample Plugin"
+msgstr ""
+
+msgid "Sample Plugin for Anjuta."
+msgstr ""
+
+msgid "Saving file..."
+msgstr ""
+
+msgid "Scratchbox"
+msgstr ""
+
+msgid "Select highlight style to edit:"
+msgstr ""
+
+msgid "Selection background:"
+msgstr ""
+
+msgid "Selection foreground:"
+msgstr ""
+
+msgid "Show/Hide code fold margin"
+msgstr ""
+
+msgid "Show/Hide indentation guides"
+msgstr ""
+
+msgid "Show/Hide line end characters"
+msgstr ""
+
+msgid "Show/Hide line numbers"
+msgstr ""
+
+msgid "Show/Hide marker margin"
+msgstr ""
+
+msgid "Show/Hide white spaces"
+msgstr ""
+
+msgid "Tab size in spaces:"
+msgstr ""
+
+msgid ""
+"The file does not look like a text file or the file encoding is not "
+"supported. Please check if the encoding of file is in the supported "
+"encodings list. If not, add it from the preferences."
+msgstr ""
+
+msgid "This file is too big. Unable to allocate memory."
+msgstr ""
+
+msgid "Unable to get text buffer for printing"
+msgstr ""
+
+msgid "Underlined"
+msgstr ""
+
+msgid "Use default"
+msgstr ""
+
+msgid "Use tabs for indentation"
+msgstr ""
+
+msgid "_Code Fold Margin"
+msgstr ""
+
+msgid "_Indentation Guides"
+msgstr ""
+
+msgid "_Line End Characters"
+msgstr ""
+
+msgid "_Line Number Margin"
+msgstr ""
+
+msgid "_Marker Margin"
+msgstr ""
+
+msgid "_White Space"
+msgstr ""

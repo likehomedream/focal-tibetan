@@ -1,0 +1,397 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: cheese master\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/cheese/issues\n"
+"PO-Revision-Date: 2020-03-02 15:59+0000\n"
+"Last-Translator: wsxy162 <wsxy162@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:59+0000\n"
+
+msgid "Adjusts the brightness of the image coming from the camera"
+msgstr ""
+
+msgid "Adjusts the contrast of the image coming from the camera"
+msgstr ""
+
+msgid "Adjusts the hue (color tint) of the image coming from the camera"
+msgstr ""
+
+msgid "Adjusts the saturation of the image coming from the camera"
+msgstr ""
+
+msgid "Are you sure you want to permanently delete the file?"
+msgid_plural "Are you sure you want to permanently delete %d files?"
+msgstr[0] ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Burst"
+msgstr ""
+
+msgid "Burst mode"
+msgstr ""
+
+msgid "Camera device string indicator"
+msgstr ""
+
+msgid "Cancellable initialization not supported"
+msgstr ""
+
+msgid "Capture"
+msgstr ""
+
+msgid "Cheese"
+msgstr ""
+
+msgid "Cheese Website"
+msgstr ""
+
+msgid ""
+"Cheese uses your webcam to take photos and videos, applies fancy special "
+"effects and lets you share the fun with others."
+msgstr ""
+
+msgid "Choose an Effect"
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Could not delete %s"
+msgstr ""
+
+msgid "Could not move %s to trash"
+msgstr ""
+
+msgid "Could not open %s"
+msgstr ""
+
+msgid "Could not save %s"
+msgstr ""
+
+msgid "Countdown length"
+msgstr ""
+
+msgid "DEVICE"
+msgstr ""
+
+msgid ""
+"Defines the path where the photos are stored. If empty, "
+"“XDG_PICTURES_DIR/Webcam” will be used."
+msgstr ""
+
+msgid ""
+"Defines the path where the videos are stored. If empty, "
+"“XDG_VIDEOS_DIR/Webcam” will be used."
+msgstr ""
+
+msgid "Delay between photos (seconds)"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device capabilities not supported"
+msgstr ""
+
+msgid "Device to use as a camera"
+msgstr ""
+
+msgid "Effects"
+msgstr ""
+
+msgid "Fire _flash"
+msgstr ""
+
+msgid "Fire flash before taking a photo"
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid "If you delete an item, it will be permanently lost"
+msgid_plural "If you delete the items, they will be permanently lost"
+msgstr[0] ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image brightness"
+msgstr ""
+
+msgid "Image contrast"
+msgstr ""
+
+msgid "Image hue"
+msgstr ""
+
+msgid "Image saturation"
+msgstr ""
+
+msgid "Last selected effect"
+msgstr ""
+
+msgid "Leave fullscreen mode and go back to windowed mode"
+msgstr ""
+
+msgid "Move to _Trash"
+msgstr ""
+
+msgid "Name of the installed effect that was selected last"
+msgstr ""
+
+msgid "Navigate to the next page of effects"
+msgstr ""
+
+msgid "Navigate to the previous page of effects"
+msgstr ""
+
+msgid "No Effect"
+msgstr ""
+
+msgid "No device found"
+msgstr ""
+
+msgid "No effects found"
+msgstr ""
+
+msgid "Number of photos"
+msgstr ""
+
+msgid "Number of photos in burst mode"
+msgstr ""
+
+msgid "One or more needed GStreamer elements are missing: "
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Output version information and exit"
+msgstr ""
+
+msgid "P_references"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Photo burst mode"
+msgstr ""
+
+msgid "Photo height"
+msgstr ""
+
+msgid "Photo mode"
+msgstr ""
+
+msgid "Photo path"
+msgstr ""
+
+msgid "Photo resolution"
+msgstr ""
+
+msgid "Photo width"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Record a Video"
+msgstr ""
+
+msgid "Record a video"
+msgstr ""
+
+msgid "Record a video using a webcam"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save File"
+msgstr ""
+
+msgid "Save _As…"
+msgstr ""
+
+msgid "Set to true to fire a flash before taking a photo"
+msgstr ""
+
+msgid "Set to true to show a countdown before taking a photo"
+msgstr ""
+
+msgid "Shutter"
+msgstr ""
+
+msgid "Shutter sound"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Skip all"
+msgstr ""
+
+msgid "Start in fullscreen mode"
+msgstr ""
+
+msgid "Start in wide mode"
+msgstr ""
+
+msgid "Stop recording"
+msgstr ""
+
+msgid "Stop taking pictures"
+msgstr ""
+
+msgid "Take Multiple Photos"
+msgstr ""
+
+msgid "Take a Photo"
+msgstr ""
+
+msgid "Take a photo using a webcam"
+msgstr ""
+
+msgid "Take multiple photos"
+msgstr ""
+
+msgid ""
+"Take multiple photos in quick succession with burst mode. Use the countdown "
+"to give yourself time to strike a pose, and wait for the flash!"
+msgstr ""
+
+msgid "Take multiple photos using a webcam"
+msgstr ""
+
+msgid "Take photos and videos with your webcam, with fun graphical effects"
+msgstr ""
+
+msgid "The duration of the countdown before taking a photo, in seconds"
+msgstr ""
+
+msgid "The height of the image captured from the camera, in pixels"
+msgstr ""
+
+msgid "The height of the video captured from the camera, in pixels"
+msgstr ""
+
+msgid ""
+"The length of time, in milliseconds, to delay between taking each photo in a"
+" burst sequence of photos. If the burst delay is less than the countdown "
+"duration, the countdown duration will be used instead."
+msgstr ""
+
+msgid "The number of photos to take in a single burst."
+msgstr ""
+
+msgid ""
+"The path to the device node which points to the camera, for example "
+"/dev/video0"
+msgstr ""
+
+msgid "The width of the image captured from the camera, in pixels"
+msgstr ""
+
+msgid "The width of the video captured from the camera, in pixels"
+msgstr ""
+
+msgid "There was an error playing video from the webcam"
+msgstr ""
+
+msgid "Time between photos in burst mode"
+msgstr ""
+
+msgid ""
+"Under the hood, Cheese uses GStreamer to apply fancy effects to photos and "
+"videos. With Cheese it is easy to take photos of you, your friends, pets or "
+"whatever you want and share them with others."
+msgstr ""
+
+msgid "Unknown device"
+msgstr ""
+
+msgid "Use a countdown"
+msgstr ""
+
+msgid "Video"
+msgstr ""
+
+msgid "Video height"
+msgstr ""
+
+msgid "Video mode"
+msgstr ""
+
+msgid "Video path"
+msgstr ""
+
+msgid "Video resolution"
+msgstr ""
+
+msgid "Video width"
+msgstr ""
+
+msgid "Webcam"
+msgstr ""
+
+msgid "Webcam Booth"
+msgstr ""
+
+msgid "Webcam in use"
+msgstr ""
+
+msgid "_About Cheese"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Countdown"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Effects"
+msgstr ""
+
+msgid "_Fullscreen"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Take Another Picture"
+msgstr ""
+
+msgid "photo;video;webcam;"
+msgstr ""
+
+msgctxt "time format"
+msgid "%02i:%02i:%02i"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""

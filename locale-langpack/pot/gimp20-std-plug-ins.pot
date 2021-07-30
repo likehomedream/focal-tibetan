@@ -1,0 +1,6565 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gimp-plug-ins HEAD\n"
+"Report-Msgid-Bugs-To: https://gitlab.gnome.org/GNOME/gimp/issues\n"
+"PO-Revision-Date: 2020-04-05 13:09+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:23+0000\n"
+
+msgid " (Height Mismatch!) "
+msgstr ""
+
+msgid " (Width Mismatch!) "
+msgstr ""
+
+msgid " Columns on each layer"
+msgstr ""
+
+msgid " Rows of "
+msgstr ""
+
+msgid ""
+"\"Fix seed\" button is an alias of me.\n"
+"The same seed produces the same image, if (1) the widths of images are same (this is the reason why image on drawable is different from preview), and (2) all mutation rates equal to zero."
+msgstr ""
+
+msgid "#"
+msgstr ""
+
+msgid "# of Spikes:"
+msgstr ""
+
+msgid "# of subranges:"
+msgstr ""
+
+msgid "%d fps"
+msgstr ""
+
+msgid "%d plug-in"
+msgid_plural "%d plug-ins"
+msgstr[0] ""
+
+msgid "%d plug-in matches your query"
+msgid_plural "%d plug-ins match your query"
+msgstr[0] ""
+
+msgid "%d × %d"
+msgstr ""
+
+msgid "%s-%d-of-%d-pages"
+msgstr ""
+
+msgid "%s-%s"
+msgstr ""
+
+msgid "%s-pages"
+msgstr ""
+
+msgid "'%s' is corrupt. Line %d Option section incorrect"
+msgstr ""
+
+msgid "'%s' is not a DICOM file."
+msgstr ""
+
+msgid "'%s' is not a FractalExplorer file"
+msgstr ""
+
+msgid "'%s' is not a PCX file"
+msgstr ""
+
+msgid "'%s' is not a regular file"
+msgstr ""
+
+msgid "'%s' is not a valid BMP file"
+msgstr ""
+
+msgid "'%s' is not a valid GFlare file."
+msgstr ""
+
+msgid "'%s' is not a valid X cursor."
+msgstr ""
+
+msgid "'%s' is too high for an X cursor."
+msgstr ""
+
+msgid "'%s' is too wide for an X cursor."
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"Could not read header (ftell == %ld)"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"Illegal number of colormap entries: %ld"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"Image height is larger than GIMP can handle"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"Image width is larger than GIMP can handle"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"No image data type specified"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"No image height specified"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"No image width specified"
+msgstr ""
+
+msgid ""
+"'%s':\n"
+"Number of colormap entries < number of colors"
+msgstr ""
+
+msgid "'%s': EOF or error while reading palette data"
+msgstr ""
+
+msgid "'%s': EOF or error while reading palette header"
+msgstr ""
+
+msgid "'%s': illegal bpp value in palette: %hhu"
+msgstr ""
+
+msgid "'%s': illegal number of colors: %u"
+msgstr ""
+
+msgid "'%s': is not a KCF palette file"
+msgstr ""
+
+msgid "(None)"
+msgstr ""
+
+msgid "1 bpp, 1-bit alpha, 2-slot palette"
+msgstr ""
+
+msgid "16 bits"
+msgstr ""
+
+msgid "24 bits"
+msgstr ""
+
+msgid "24 bpp, 1-bit alpha, no palette"
+msgstr ""
+
+msgid "32 bits"
+msgstr ""
+
+msgid "32 bpp, 8-bit alpha, no palette"
+msgstr ""
+
+msgid "4 bpp, 1-bit alpha, 16-slot palette"
+msgstr ""
+
+msgid "4:2:0 (chroma quartered)"
+msgstr ""
+
+msgid "4:2:2 horizontal (chroma halved)"
+msgstr ""
+
+msgid "4:2:2 vertical (chroma halved)"
+msgstr ""
+
+msgid "4:4:4 (best quality)"
+msgstr ""
+
+msgid "8 bpp, 1-bit alpha, 256-slot palette"
+msgstr ""
+
+msgid "<Untitled>"
+msgstr ""
+
+msgid "A bailout-value for adaptive selections"
+msgstr ""
+
+msgid "A read error occurred."
+msgstr ""
+
+msgid "A sharing violation occurred."
+msgstr ""
+
+msgid ""
+"A unit definition will only be saved before GIMP exits if this column is "
+"checked."
+msgstr ""
+
+msgid "ALT Text"
+msgstr ""
+
+msgid "ALT te_xt: (optional)"
+msgstr ""
+
+msgid "ASCII art"
+msgstr ""
+
+msgid "A_daptive supersampling"
+msgstr ""
+
+msgid "A_dd"
+msgstr ""
+
+msgid "A_dd border"
+msgstr ""
+
+msgid "A_dvanced"
+msgstr ""
+
+msgid "A_ll"
+msgstr ""
+
+msgid "A_ll tiles"
+msgstr ""
+
+msgid "A_lpha:"
+msgstr ""
+
+msgid "A_ngle:"
+msgstr ""
+
+msgid "A_ppend"
+msgstr ""
+
+msgid "A_uto update preview"
+msgstr ""
+
+msgid "A_verage under brush"
+msgstr ""
+
+msgid "Abbreviation"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Ad_vanced"
+msgstr ""
+
+msgid "Adaptive"
+msgstr ""
+
+msgid "Add Additional Guides"
+msgstr ""
+
+msgid "Add FractalExplorer Path"
+msgstr ""
+
+msgid "Add a New Unit"
+msgstr ""
+
+msgid "Add a jigsaw-puzzle pattern to the image"
+msgstr ""
+
+msgid "Add new smvector"
+msgstr ""
+
+msgid "Add new vector"
+msgstr ""
+
+msgid "Add this image"
+msgstr ""
+
+msgid "Adding blinds"
+msgstr ""
+
+msgid "Addition"
+msgstr ""
+
+msgid "Adds a shadow effect to each brush stroke"
+msgstr ""
+
+msgid "Adds random noise to the color"
+msgstr ""
+
+msgid "Adjust how much the hue should be changed randomly"
+msgstr ""
+
+msgid "Adjust how much the saturation should be changed randomly"
+msgstr ""
+
+msgid "Adjust page size and orientation for printing"
+msgstr ""
+
+msgid "Adjust the flare intensity"
+msgstr ""
+
+msgid "Adjust the luminosity threshold"
+msgstr ""
+
+msgid "Adjust the number of spikes"
+msgstr ""
+
+msgid "Adjust the opacity of the spikes"
+msgstr ""
+
+msgid "Adjust the preview's brightness"
+msgstr ""
+
+msgid "Adjust the spike angle (-1 causes a random angle to be chosen)"
+msgstr ""
+
+msgid "Adjust the spike density"
+msgstr ""
+
+msgid "Adjust the spike length"
+msgstr ""
+
+msgid "Advanced Filter Pack Options"
+msgstr ""
+
+msgid "Advanced Options"
+msgstr ""
+
+msgid "Affected Range"
+msgstr ""
+
+msgid ""
+"After the delay, drag your mouse to select the region for the screenshot."
+msgstr ""
+
+msgid "After the delay, the screenshot is taken."
+msgstr ""
+
+msgid "Al_ternate"
+msgstr ""
+
+msgid "Al_ternate tiles"
+msgstr ""
+
+msgid "Alias Pix image"
+msgstr ""
+
+msgid "Align Visi_ble Layers..."
+msgstr ""
+
+msgid "Align Visible Layers"
+msgstr ""
+
+msgid "Align all visible layers of the image"
+msgstr ""
+
+msgid "All JNG"
+msgstr ""
+
+msgid "All PNG"
+msgstr ""
+
+msgid "All Values are Fractions of the Strip Height"
+msgstr ""
+
+msgid "All black"
+msgstr ""
+
+msgid "All gray"
+msgstr ""
+
+msgid "All white"
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Alpha channel will be ignored."
+msgstr ""
+
+msgid "Ambient:"
+msgstr ""
+
+msgid "Amount of original color to show where no direct light falls"
+msgstr ""
+
+msgid "Amount:"
+msgstr ""
+
+msgid "An error occurred while trying to print:"
+msgstr ""
+
+msgid "Analyze the set of colors in the image"
+msgstr ""
+
+msgid "Ang_le offset:"
+msgstr ""
+
+msgid "Angle span:"
+msgstr ""
+
+msgid "Angle:"
+msgstr ""
+
+msgid "Angular gradient:"
+msgstr ""
+
+msgid "Angular size gradient:"
+msgstr ""
+
+msgid "Animated GIF Options"
+msgstr ""
+
+msgid "Animated MNG Options"
+msgstr ""
+
+msgid "Animation Playback:"
+msgstr ""
+
+msgid "Antialiasing"
+msgstr ""
+
+msgid "Antialiasing quality. Higher is better, but slower"
+msgstr ""
+
+msgid "Applies the paper as it is (without embossing it)"
+msgstr ""
+
+msgid "Apply PNG Offset"
+msgstr ""
+
+msgid "Apply PNG offset to layer"
+msgstr ""
+
+msgid "Apply active gradient to final image"
+msgstr ""
+
+msgid "Apply currently selected fractal"
+msgstr ""
+
+msgid "Apply various lighting effects to an image"
+msgstr ""
+
+msgid "Applying filter pack"
+msgstr ""
+
+msgid "Are you sure you want to delete \"%s\" from the list and from disk?"
+msgstr ""
+
+msgid "Area"
+msgstr ""
+
+msgid "Area #%d Settings"
+msgstr ""
+
+msgid "Area List"
+msgstr ""
+
+msgid "Area Settings"
+msgstr ""
+
+msgid "Arrow"
+msgstr ""
+
+msgid "As _animation"
+msgstr ""
+
+msgid "As specified above"
+msgstr ""
+
+msgid "Aspect ratio:"
+msgstr ""
+
+msgid "Assembling jigsaw"
+msgstr ""
+
+msgid "Asymmetry:"
+msgstr ""
+
+msgid "At _bottom"
+msgstr ""
+
+msgid "At _top"
+msgstr ""
+
+msgid "At least one image is needed to compose"
+msgstr ""
+
+msgid "At the end of the delay, click in a window to snap it."
+msgstr ""
+
+msgid "Aut_hor:"
+msgstr ""
+
+msgid "AutoDesk FLIC animation"
+msgstr ""
+
+msgid "Autocrop unused space from edges and middle"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatic pre_view"
+msgstr ""
+
+msgid "Available images:"
+msgstr ""
+
+msgid "B, G, R, X (BMP style)"
+msgstr ""
+
+msgid "B/W"
+msgstr ""
+
+msgid "Back:"
+msgstr ""
+
+msgid "Background"
+msgstr ""
+
+msgid "Background (%d%s)"
+msgstr ""
+
+msgid "Background:"
+msgstr ""
+
+msgid "Bad colormap"
+msgstr ""
+
+msgid "Barnsley 1"
+msgstr ""
+
+msgid "Barnsley 2"
+msgstr ""
+
+msgid "Barnsley 3"
+msgstr ""
+
+msgid "Base _URL:"
+msgstr ""
+
+msgid "Basic Options"
+msgstr ""
+
+msgid "Bend the image using two control curves"
+msgstr ""
+
+msgid "Bent"
+msgstr ""
+
+msgid "Bevel Edges"
+msgstr ""
+
+msgid "Black"
+msgstr ""
+
+msgid "Blinds"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Blue:"
+msgstr ""
+
+msgid "Blur"
+msgstr ""
+
+msgid "Blurring"
+msgstr ""
+
+msgid "Border Average"
+msgstr ""
+
+msgid "Border Size"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Bottom border out of bounds (must be < %d): %d"
+msgstr ""
+
+msgid "Bottom edge"
+msgstr ""
+
+msgid "Bottom left"
+msgstr ""
+
+msgid "Bottom:"
+msgstr ""
+
+msgid "Box"
+msgstr ""
+
+msgid "Browse..."
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
+msgid "Brush Pipe"
+msgstr ""
+
+msgid "Bubble"
+msgstr ""
+
+msgid "Bump"
+msgstr ""
+
+msgid "Bumpm_ap image:"
+msgstr ""
+
+msgid "Bumpmap"
+msgstr ""
+
+msgid "C source code"
+msgstr ""
+
+msgid "C source code header"
+msgstr ""
+
+msgid "C-Source"
+msgstr ""
+
+msgid "CCITT Group _3 fax"
+msgstr ""
+
+msgid "CCITT Group _4 fax"
+msgstr ""
+
+msgid "CML Explorer: evoluting"
+msgstr ""
+
+msgid "CML _Explorer..."
+msgstr ""
+
+msgid "CMY"
+msgstr ""
+
+msgid "CMYK"
+msgstr ""
+
+msgid "CX:"
+msgstr ""
+
+msgid "CY:"
+msgstr ""
+
+msgid "C_amera"
+msgstr ""
+
+msgid "C_aption"
+msgstr ""
+
+msgid "C_ell content:"
+msgstr ""
+
+msgid "C_enter of brush"
+msgstr ""
+
+msgid "C_enter:"
+msgstr ""
+
+msgid "C_ircle"
+msgstr ""
+
+msgid "C_ompose..."
+msgstr ""
+
+msgid "C_opy location"
+msgstr ""
+
+msgid "C_reate new image"
+msgstr ""
+
+msgid "C_rosses"
+msgstr ""
+
+msgid "C_urved"
+msgstr ""
+
+msgid "C_ylinder"
+msgstr ""
+
+msgid "Calculating file size..."
+msgstr ""
+
+msgid "Can only operate on RGB drawables."
+msgstr ""
+
+msgid "Can only save drawables!"
+msgstr ""
+
+msgid "Can operate on layers only (but was called on channel or mask)."
+msgstr ""
+
+msgid "Can't create a new image"
+msgstr ""
+
+msgid "Can't operate on unknown image types"
+msgstr ""
+
+msgid "Can't read color entries"
+msgstr ""
+
+msgid "Cannot delete!! There must be at least one GFlare."
+msgstr ""
+
+msgid "Cannot operate on empty selections."
+msgstr ""
+
+msgid "Cannot operate on indexed color images."
+msgstr ""
+
+msgid "Cannot operate on layers with masks."
+msgstr ""
+
+msgid "Cannot operate on unknown image types."
+msgstr ""
+
+msgid "Cannot read extension from '%s'"
+msgstr ""
+
+msgid "Cannot read footer from '%s'"
+msgstr ""
+
+msgid "Cannot read header from '%s'"
+msgstr ""
+
+msgid "Cannot save images with alpha channel."
+msgstr ""
+
+msgid ""
+"Cannot set the hot spot!\n"
+"You must arrange layers so that all of them have an intersection."
+msgstr ""
+
+msgid "Capture an image from a TWAIN datasource"
+msgstr ""
+
+msgid "Cartoon"
+msgstr ""
+
+msgid "Cell-_padding:"
+msgstr ""
+
+msgid "Cell-_spacing:"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Center _x:"
+msgstr ""
+
+msgid "Center _y:"
+msgstr ""
+
+msgid "Centered"
+msgstr ""
+
+msgid "Ch. sensitivity:"
+msgstr ""
+
+msgid "Change the angle of the selected smvector"
+msgstr ""
+
+msgid "Change the angle of the selected vector"
+msgstr ""
+
+msgid "Change the exponent of the strength"
+msgstr ""
+
+msgid "Change the intensity of the blue channel"
+msgstr ""
+
+msgid "Change the intensity of the green channel"
+msgstr ""
+
+msgid "Change the intensity of the red channel"
+msgstr ""
+
+msgid "Change the number of colors in the mapping"
+msgstr ""
+
+msgid "Change the strength of the selected smvector"
+msgstr ""
+
+msgid "Change the strength of the selected vector"
+msgstr ""
+
+msgid "Changes aspect of fractal"
+msgstr ""
+
+msgid "Changes the gamma (brightness) of the selected brush"
+msgstr ""
+
+msgid "Channel Independent Parameters"
+msgstr ""
+
+msgid "Channel Representations"
+msgstr ""
+
+msgid "Check if you would like to have the table captioned."
+msgstr ""
+
+msgid "Checker"
+msgstr ""
+
+msgid "Checkerboard"
+msgstr ""
+
+msgid ""
+"Checking this tag will cause GTM to leave no whitespace between the TD tags "
+"and the cellcontent.  This is only necessary for pixel level positioning "
+"control."
+msgstr ""
+
+msgid "Choose a high compression level for small file size"
+msgstr ""
+
+msgid ""
+"Choose the nominal size of frames.\n"
+"If you don't have plans to make multi-sized cursor, or you have no idea, leave it \"32px\".\n"
+"Nominal size has no relation with the actual size (width or height).\n"
+"It is only used to determine which frame depends on which animation sequence, and which sequence is used based on the value of \"gtk-cursor-theme-size\"."
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "Close curve on completion"
+msgstr ""
+
+msgid "Closed"
+msgstr ""
+
+msgid "Co_lor"
+msgstr ""
+
+msgid "Co_lor:"
+msgstr ""
+
+msgid "Co_lors"
+msgstr ""
+
+msgid "Co_mment:"
+msgstr ""
+
+msgid "Co_mpatibility Options"
+msgstr ""
+
+msgid "Co_mpress TD tags"
+msgstr ""
+
+msgid "Co_mpression level:"
+msgstr ""
+
+msgid "Co_ntiguous Region"
+msgstr ""
+
+msgid "Co_ntrast:"
+msgstr ""
+
+msgid "Col_umn:"
+msgstr ""
+
+msgid "Collect"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color Density"
+msgstr ""
+
+msgid "Color Enhance"
+msgstr ""
+
+msgid "Color Function"
+msgstr ""
+
+msgid "Color Mode"
+msgstr ""
+
+msgid "Color Selection Dialog"
+msgstr ""
+
+msgid "Color Transformation"
+msgstr ""
+
+msgid "Color _model:"
+msgstr ""
+
+msgid "Color _noise:"
+msgstr ""
+
+msgid "Color fill"
+msgstr ""
+
+msgid "Color is computed from the average of all pixels under the brush"
+msgstr ""
+
+msgid "Color:"
+msgstr ""
+
+msgid "Color_map:"
+msgstr ""
+
+msgid "Colorcube A_nalysis..."
+msgstr ""
+
+msgid "Colorcube Analysis"
+msgstr ""
+
+msgid "Colorif_y..."
+msgstr ""
+
+msgid "Colorify"
+msgstr ""
+
+msgid "Colorify Custom Color"
+msgstr ""
+
+msgid "Colorifying"
+msgstr ""
+
+msgid "Coloring"
+msgstr ""
+
+msgid "Colorize image using a sample image as a guide"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Colors:"
+msgstr ""
+
+msgid "Combine"
+msgstr ""
+
+msgid "Combine several images on a film strip"
+msgstr ""
+
+msgid "Combine two images using depth maps (z-buffers)"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comment is limited to %d characters."
+msgstr ""
+
+msgid "Comment:"
+msgstr ""
+
+msgid "Compose"
+msgstr ""
+
+msgid "Compose Channels"
+msgstr ""
+
+msgid "Composing"
+msgstr ""
+
+msgid "Composing images"
+msgstr ""
+
+msgid "Composition:"
+msgstr ""
+
+msgid "Compressed (PNG)"
+msgstr ""
+
+msgid "Compression"
+msgstr ""
+
+msgid "Compression type"
+msgstr ""
+
+msgid "Constrain aspect ratio"
+msgstr ""
+
+msgid "Continuous grad. w/o gap"
+msgstr ""
+
+msgid "Continuous gradient"
+msgstr ""
+
+msgid "Controls"
+msgstr ""
+
+msgid "Controls how intense the highlights will be"
+msgstr ""
+
+msgid "Convolve"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Copy Gradient Flare"
+msgstr ""
+
+msgid "Copy Parameters"
+msgstr ""
+
+msgid "Copy Settings"
+msgstr ""
+
+msgid "Copy an object"
+msgstr ""
+
+msgid "Copy the active curve to the other border"
+msgstr ""
+
+msgid "Copy the location of this page to the clipboard"
+msgstr ""
+
+msgid "Copy the texture of the selected paper as a background"
+msgstr ""
+
+msgid "Copyright © 1999-2005 by Maurits Rijk"
+msgstr ""
+
+msgid "Cosine"
+msgstr ""
+
+msgid "Could not create new image for '%s': %s"
+msgstr ""
+
+msgid "Could not get layers for image %d"
+msgstr ""
+
+msgid "Could not load '%s': %s"
+msgstr ""
+
+msgid "Could not open '%s' as SUN-raster-file"
+msgstr ""
+
+msgid "Could not open '%s' for reading"
+msgstr ""
+
+msgid "Could not open '%s' for reading."
+msgstr ""
+
+msgid "Could not open '%s' for reading: %s"
+msgstr ""
+
+msgid "Could not open '%s' for writing."
+msgstr ""
+
+msgid "Could not open '%s' for writing: %s"
+msgstr ""
+
+msgid "Could not read XWD header from '%s'"
+msgstr ""
+
+msgid "Could not read color entries from '%s'"
+msgstr ""
+
+msgid "Could not read header from '%s'"
+msgstr ""
+
+msgid "Could not start sendmail (%s)"
+msgstr ""
+
+msgid "Could not write '%s': %s"
+msgstr ""
+
+msgid "Couldn't losslessly save transparency, saving opacity instead."
+msgstr ""
+
+msgid "Couldn't read file:"
+msgstr ""
+
+msgid "Couldn't save file:"
+msgstr ""
+
+msgid "Couldn't save resource file:"
+msgstr ""
+
+msgid "Coupled-Map-Lattice Explorer"
+msgstr ""
+
+msgid "Cre_ate new image"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "Create Guides"
+msgstr ""
+
+msgid "Create Guides..."
+msgstr ""
+
+msgid "Create _histogram"
+msgstr ""
+
+msgid "Create _new layer"
+msgstr ""
+
+msgid "Create a checkerboard pattern"
+msgstr ""
+
+msgid "Create a clickable imagemap"
+msgstr ""
+
+msgid "Create a color-map using a gradient from the gradient editor"
+msgstr ""
+
+msgid ""
+"Create a color-map with the options you specified above (color "
+"density/function). The result is visible in the preview image"
+msgstr ""
+
+msgid "Create a new image when applying filter"
+msgstr ""
+
+msgid "Create a new layer when applying filter"
+msgstr ""
+
+msgid "Create a new unit from scratch"
+msgstr ""
+
+msgid "Create a new unit using the currently selected unit as template"
+msgstr ""
+
+msgid "Create abstract Coupled-Map Lattice patterns"
+msgstr ""
+
+msgid "Create an Iterated Function System (IFS) fractal"
+msgstr ""
+
+msgid "Create an array of copies of the image"
+msgstr ""
+
+msgid "Create an image from an area of the screen"
+msgstr ""
+
+msgid "Create an image of a textured sphere"
+msgstr ""
+
+msgid "Create an image of a webpage"
+msgstr ""
+
+msgid "Create an image using multiple gray images as color channels"
+msgstr ""
+
+msgid "Create arc"
+msgstr ""
+
+msgid "Create bezier curve"
+msgstr ""
+
+msgid "Create bezier curve. Shift + Button ends object creation."
+msgstr ""
+
+msgid "Create circle"
+msgstr ""
+
+msgid "Create cosmic recursive fractal flames"
+msgstr ""
+
+msgid "Create ellipse"
+msgstr ""
+
+msgid "Create from webpage"
+msgstr ""
+
+msgid "Create geometric shapes"
+msgstr ""
+
+msgid "Create line"
+msgstr ""
+
+msgid "Create new image"
+msgstr ""
+
+msgid "Create new layer"
+msgstr ""
+
+msgid "Create or alter units used in GIMP"
+msgstr ""
+
+msgid "Create rectangle"
+msgstr ""
+
+msgid "Create reg polygon"
+msgstr ""
+
+msgid "Create spiral"
+msgstr ""
+
+msgid "Create star"
+msgstr ""
+
+msgid "Cu_rve:"
+msgstr ""
+
+msgid "Cumulative layers (combine)"
+msgstr ""
+
+msgid "Curl Layer"
+msgstr ""
+
+msgid "Curl Location"
+msgstr ""
+
+msgid "Curl Orientation"
+msgstr ""
+
+msgid "Curl up one of the image corners"
+msgstr ""
+
+msgid "Current gradient"
+msgstr ""
+
+msgid "Current gradient (reversed)"
+msgstr ""
+
+msgid "Current:"
+msgstr ""
+
+msgid "Curve Bend"
+msgstr ""
+
+msgid "Curve Type"
+msgstr ""
+
+msgid "Curve for Border"
+msgstr ""
+
+msgid "Custom color:"
+msgstr ""
+
+msgid "Custom gradient"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Cyan"
+msgstr ""
+
+msgid "Cyan:"
+msgstr ""
+
+msgid "Cyan_K"
+msgstr ""
+
+msgid "Cylinder"
+msgstr ""
+
+msgid "Cylinder length"
+msgstr ""
+
+msgid "Cylinder radius"
+msgstr ""
+
+msgid "DDE transaction busy"
+msgstr ""
+
+msgid "DICOM image"
+msgstr ""
+
+msgid "D_eselect All"
+msgstr ""
+
+msgid "Darker"
+msgstr ""
+
+msgid "Darker:"
+msgstr ""
+
+msgid "Data Compression"
+msgstr ""
+
+msgid "Data Formatting"
+msgstr ""
+
+msgid "Data formatting"
+msgstr ""
+
+msgid "Decompose"
+msgstr ""
+
+msgid "Decompose an image into separate colorspace components"
+msgstr ""
+
+msgid "Decomposing"
+msgstr ""
+
+msgid "Decrease the speed of the animation"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Map Type"
+msgstr ""
+
+msgid "Default _URL:"
+msgstr ""
+
+msgid "Default chunks type:"
+msgstr ""
+
+msgid "Default frame delay:"
+msgstr ""
+
+msgid "Default framerate"
+msgstr ""
+
+msgid "Define Circle/Oval area"
+msgstr ""
+
+msgid "Define Polygon area"
+msgstr ""
+
+msgid "Define Rectangle area"
+msgstr ""
+
+msgid "Degree of slope of each piece's edge"
+msgstr ""
+
+msgid "Delay"
+msgstr ""
+
+msgid "Delay inserted to prevent evil CPU-sucking animation."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete Area"
+msgstr ""
+
+msgid "Delete Fractal"
+msgstr ""
+
+msgid "Delete Gradient Flare"
+msgstr ""
+
+msgid "Delete Point"
+msgstr ""
+
+msgid "Delete an object"
+msgstr ""
+
+msgid "Delete currently selected fractal"
+msgstr ""
+
+msgid "Delete selected smvector"
+msgstr ""
+
+msgid "Delete selected vector"
+msgstr ""
+
+msgid "Deletes the selected Preset"
+msgstr ""
+
+msgid "Delta function"
+msgstr ""
+
+msgid "Delta function stepped"
+msgstr ""
+
+msgid "Depth Merge"
+msgstr ""
+
+msgid "Depth map:"
+msgstr ""
+
+msgid "Depth-merging"
+msgstr ""
+
+msgid "Derive a smooth color palette from the image"
+msgstr ""
+
+msgid "Deriving smooth palette"
+msgstr ""
+
+msgid "Des_peckle..."
+msgstr ""
+
+msgid "Des_tripe..."
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Desktop Link"
+msgstr ""
+
+msgid "Despeckle"
+msgstr ""
+
+msgid "Destination channel:"
+msgstr ""
+
+msgid "Destination:"
+msgstr ""
+
+msgid "Destripe"
+msgstr ""
+
+msgid "Destriping"
+msgstr ""
+
+msgid "Detach"
+msgstr ""
+
+msgid "Detach the animation from the dialog window"
+msgstr ""
+
+msgid "Deviation threshold:"
+msgstr ""
+
+msgid "Diamond"
+msgstr ""
+
+msgid "Diffuse:"
+msgstr ""
+
+msgid "Diffusion dist.:"
+msgstr ""
+
+msgid "Digital Imaging and Communications in Medicine image"
+msgstr ""
+
+msgid "Digits"
+msgstr ""
+
+msgid "Dimensions"
+msgstr ""
+
+msgid "Direction"
+msgstr ""
+
+msgid "Direction Vector"
+msgstr ""
+
+msgid "Directional"
+msgstr ""
+
+msgid "Directional light"
+msgstr ""
+
+msgid "Directions"
+msgstr ""
+
+msgid "Directions:"
+msgstr ""
+
+msgid "Disc"
+msgstr ""
+
+msgid "Displacement map:"
+msgstr ""
+
+msgid "Display as:"
+msgstr ""
+
+msgid "Display information about plug-ins"
+msgstr ""
+
+msgid "Distance:"
+msgstr ""
+
+msgid "Dither size:"
+msgstr ""
+
+msgid "Do you really want to discard your changes?"
+msgstr ""
+
+msgid "DoG Edge Detect"
+msgstr ""
+
+msgid "Downloading webpage '%s'"
+msgstr ""
+
+msgid ""
+"Drag and drop colors to rearrange the colormap.  The numbers shown are the "
+"original indices.  Right-click for a menu with sort options."
+msgstr ""
+
+msgid "Draw a border of spikes around the image"
+msgstr ""
+
+msgid "Draw a grid on the image"
+msgstr ""
+
+msgid "Drawables have different size"
+msgstr ""
+
+msgid "Drawing flame"
+msgstr ""
+
+msgid "Drawing grid"
+msgstr ""
+
+msgid "Draws lines between the control points. Only during curve creation"
+msgstr ""
+
+msgid "Drop shadow"
+msgstr ""
+
+msgid "Dy_namic:"
+msgstr ""
+
+msgid "EOF encountered on reading"
+msgstr ""
+
+msgid "EOF or error while reading image data"
+msgstr ""
+
+msgid "EOF or error while reading image header"
+msgstr ""
+
+msgid "E_levation:"
+msgstr ""
+
+msgid "E_nable bump mapping"
+msgstr ""
+
+msgid "E_nable environment mapping"
+msgstr ""
+
+msgid "Each piece has curved sides"
+msgstr ""
+
+msgid "Each piece has straight sides"
+msgstr ""
+
+msgid "Edge darken:"
+msgstr ""
+
+msgid "Edge detection with control of edge thickness"
+msgstr ""
+
+msgid "Edit Area _Info..."
+msgstr ""
+
+msgid "Edit Flame"
+msgstr ""
+
+msgid "Edit Map Info"
+msgstr ""
+
+msgid "Edit Map Info..."
+msgstr ""
+
+msgid "Edit Object"
+msgstr ""
+
+msgid "Edit selected area info"
+msgstr ""
+
+msgid "Editing read-only object - you will not be able to save it"
+msgstr ""
+
+msgid "Effect Channel"
+msgstr ""
+
+msgid "Effect Operator"
+msgstr ""
+
+msgid "Emboss"
+msgstr ""
+
+msgid "En_vironment image:"
+msgstr ""
+
+msgid "Enable _antialiasing"
+msgstr ""
+
+msgid "Enable preview to obtain the file size."
+msgstr ""
+
+msgid "Enable/disable bump-mapping (image depth)"
+msgstr ""
+
+msgid "Enable/disable environment-mapping (reflection)"
+msgstr ""
+
+msgid "Enable/disable high quality preview"
+msgstr ""
+
+msgid "Enable/disable jagged edges removal (antialiasing)"
+msgstr ""
+
+msgid "Enable/disable real time preview of changes"
+msgstr ""
+
+msgid "Encapsulated PostScript image"
+msgstr ""
+
+msgid "Enhance contrast using the Retinex method"
+msgstr ""
+
+msgid "Enter a name for the copied GFlare"
+msgstr ""
+
+msgid "Enter a name for the new GFlare"
+msgstr ""
+
+msgid "Enter copyright information."
+msgstr ""
+
+msgid "Enter license information."
+msgstr ""
+
+msgid "Enter location (URI):"
+msgstr ""
+
+msgid "Enter other comment if you want."
+msgstr ""
+
+msgid "Enter the X coordinate of the hot spot. The origin is top left corner."
+msgstr ""
+
+msgid "Enter the Y coordinate of the hot spot. The origin is top left corner."
+msgstr ""
+
+msgid "Enter time span in milliseconds in which each frame is rendered."
+msgstr ""
+
+msgid "Env. sensitivity:"
+msgstr ""
+
+msgid "Environment image to use"
+msgstr ""
+
+msgid "Error during open of FITS file"
+msgstr ""
+
+msgid "Error getting number of pages from the given PDF file."
+msgstr ""
+
+msgid "Error in getting layer IDs"
+msgstr ""
+
+msgid "Error loading PSD file: %s"
+msgstr ""
+
+msgid ""
+"Error loading UI file '%s':\n"
+"%s"
+msgstr ""
+
+msgid "Error loading UI file '%s': %s"
+msgstr ""
+
+msgid "Error loading desktop file '%s': %s"
+msgstr ""
+
+msgid "Error opening file"
+msgstr ""
+
+msgid "Error opening file '%s'"
+msgstr ""
+
+msgid "Error reading BMP file header from '%s'"
+msgstr ""
+
+msgid "Error reading file"
+msgstr ""
+
+msgid "Error scanning 'decompose-data' parasite: too few layers found"
+msgstr ""
+
+msgid "Error selecting the window"
+msgstr ""
+
+msgid "Error trying to open temporary file '%s' for parasite loading: %s"
+msgstr ""
+
+msgid ""
+"Error trying to save figure as a parasite: can't attach parasite to "
+"drawable."
+msgstr ""
+
+msgid "Error while reading '%s'. File corrupted?"
+msgstr ""
+
+msgid "Error while reading '%s': %s"
+msgstr ""
+
+msgid "Error! In order to save the file, at least one image should be added!"
+msgstr ""
+
+msgid "Error: Can't convert GIMP base imagetype to PSD mode"
+msgstr ""
+
+msgid "Error: failed to load parameters"
+msgstr ""
+
+msgid "Error: it's not CML parameter file."
+msgstr ""
+
+msgid "Evenly distributed"
+msgstr ""
+
+msgid "Ex"
+msgstr ""
+
+msgid "Exp.:"
+msgstr ""
+
+msgid "Exponential"
+msgstr ""
+
+msgid "Export Preview"
+msgstr ""
+
+msgid "Extra"
+msgstr ""
+
+msgid "Extract Channels"
+msgstr ""
+
+msgid "Eyefish"
+msgstr ""
+
+msgid "FITS file keeps no displayable images"
+msgstr ""
+
+msgid "FP can only be run interactively."
+msgstr ""
+
+msgid "FP can only be used on RGB images."
+msgstr ""
+
+msgid "F_ile"
+msgstr ""
+
+msgid "F_lare intensity:"
+msgstr ""
+
+msgid "Factor"
+msgstr ""
+
+msgid "Failed to open '%s': %s"
+msgstr ""
+
+msgid "Failed to open GFlare file '%s': %s"
+msgstr ""
+
+msgid "Failed to save PPM file '%s': %s"
+msgstr ""
+
+msgid "Failed to write GFlare file '%s': %s"
+msgstr ""
+
+msgid "Fan"
+msgstr ""
+
+msgid "Fast Integer"
+msgstr ""
+
+msgid "Faster"
+msgstr ""
+
+msgid "Feather"
+msgstr ""
+
+msgid "File \"%s\" saved."
+msgstr ""
+
+msgid "File '%s' doesn't seem to be an IFS Fractal file."
+msgstr ""
+
+msgid ""
+"File '%s' is corrupt.\n"
+"Line %d Option section incorrect"
+msgstr ""
+
+msgid "File '%s' is not a FractalExplorer file"
+msgstr ""
+
+msgid "File '%s' is not a valid save file."
+msgstr ""
+
+msgid "File not in a supported format."
+msgstr ""
+
+msgid "File size: %s"
+msgstr ""
+
+msgid "File size: unknown"
+msgstr ""
+
+msgid "Filename:"
+msgstr ""
+
+msgid "Fill"
+msgstr ""
+
+msgid "Fill (bottom to top)"
+msgstr ""
+
+msgid "Fill (left to right)"
+msgstr ""
+
+msgid "Fill (right to left)"
+msgstr ""
+
+msgid "Fill (top to bottom)"
+msgstr ""
+
+msgid "Fill with parameter k"
+msgstr ""
+
+msgid "Filmstrip"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Filter Pack Simulation"
+msgstr ""
+
+msgid "Find _Again"
+msgstr ""
+
+msgid "Find and fix pixels that may be unsafely bright"
+msgstr ""
+
+msgid "Find text in current page"
+msgstr ""
+
+msgid "Find:"
+msgstr ""
+
+msgid "Finding XY gradient"
+msgstr ""
+
+msgid "Finding animation background"
+msgstr ""
+
+msgid "First Gfig"
+msgstr ""
+
+msgid "Fisheye"
+msgstr ""
+
+msgid "Fix Seed"
+msgstr ""
+
+msgid "Fixed-direction-vector map selection menu"
+msgstr ""
+
+msgid "Flame"
+msgstr ""
+
+msgid "Flexible Image Transport System"
+msgstr ""
+
+msgid "Flip"
+msgstr ""
+
+msgid "Floating-Point"
+msgstr ""
+
+msgid "Flow step %d"
+msgstr ""
+
+msgid "Flowing"
+msgstr ""
+
+msgid "Focus the brush strokes around the center of the image"
+msgstr ""
+
+msgid "Font size:"
+msgstr ""
+
+msgid "Foreground"
+msgstr ""
+
+msgid "Foreground / background colors"
+msgstr ""
+
+msgid "Foreground color"
+msgstr ""
+
+msgid "Fractal Explorer"
+msgstr ""
+
+msgid "Fractal Parameters"
+msgstr ""
+
+msgid "Fractal Trace"
+msgstr ""
+
+msgid "Fractal Type"
+msgstr ""
+
+msgid "FractalExplorer Gradient"
+msgstr ""
+
+msgid "Frame %d"
+msgstr ""
+
+msgid "Frame %d (%d%s)"
+msgstr ""
+
+msgid "Frame %d of %d"
+msgstr ""
+
+msgid "Frame %d of '%s' is too high for an X cursor."
+msgstr ""
+
+msgid "Frame %d of '%s' is too wide for an X cursor."
+msgstr ""
+
+msgid "Frame '%s' is too high. Please reduce to no more than %dpx."
+msgstr ""
+
+msgid "Frame '%s' is too wide. Please reduce to no more than %dpx."
+msgstr ""
+
+msgid "Frame (%i)"
+msgstr ""
+
+msgid "From _Webpage..."
+msgstr ""
+
+msgid "From gradient"
+msgstr ""
+
+msgid "From paper"
+msgstr ""
+
+msgid "From reverse gradient"
+msgstr ""
+
+msgid "Front:"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
+msgid "Function"
+msgstr ""
+
+msgid "Function type:"
+msgstr ""
+
+msgid "G-Qbist"
+msgstr ""
+
+msgid "G3 fax image"
+msgstr ""
+
+msgid "GFLI 1.3"
+msgstr ""
+
+msgid "GFLI 1.3 - Load framestack"
+msgstr ""
+
+msgid ""
+"GFlare '%s' is not saved. If you add a new entry in '%s', like:\n"
+"(gflare-path \"%s\")\n"
+"and make a folder '%s', then you can save your own GFlares into that folder."
+msgstr ""
+
+msgid "GIF"
+msgstr ""
+
+msgid "GIF Options"
+msgstr ""
+
+msgid "GIF image"
+msgstr ""
+
+msgid ""
+"GIF: Undocumented GIF composite type %d is not handled.  Animation might not"
+" play or re-save perfectly."
+msgstr ""
+
+msgid "GIMP Help Browser"
+msgstr ""
+
+msgid "GIMP brush"
+msgstr ""
+
+msgid "GIMP brush (animated)"
+msgstr ""
+
+msgid "GIMP pattern"
+msgstr ""
+
+msgid "GIMPressionist"
+msgstr ""
+
+msgid "G_low"
+msgstr ""
+
+msgid "Gamma:"
+msgstr ""
+
+msgid "Gaussian"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "General Options"
+msgstr ""
+
+msgid "General Preferences"
+msgstr ""
+
+msgid "Generate a huge variety of abstract patterns"
+msgstr ""
+
+msgid "Get _Sample Colors"
+msgstr ""
+
+msgid "Gfig"
+msgstr ""
+
+msgid "Gimpressionist Defaults"
+msgstr ""
+
+msgid "Glow Paint Options"
+msgstr ""
+
+msgid "Go back one page"
+msgstr ""
+
+msgid "Go forward one page"
+msgstr ""
+
+msgid "Go to the index page"
+msgstr ""
+
+msgid "Gradient Flare"
+msgstr ""
+
+msgid "Gradient Flare Editor"
+msgstr ""
+
+msgid "Gradient Map"
+msgstr ""
+
+msgid "Gradient map selection menu"
+msgstr ""
+
+msgid "Gradient scale:"
+msgstr ""
+
+msgid "Gradients"
+msgstr ""
+
+msgid "Graph of the Current Settings"
+msgstr ""
+
+msgid "Graphic antialiasing"
+msgstr ""
+
+msgid "Gray"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Green:"
+msgstr ""
+
+msgid "Grey"
+msgstr ""
+
+msgid "Grid"
+msgstr ""
+
+msgid "Grid Granularity"
+msgstr ""
+
+msgid "Grid Offset"
+msgstr ""
+
+msgid "Grid Settings"
+msgstr ""
+
+msgid "Grid Settings..."
+msgstr ""
+
+msgid "Grid Visibility and Type"
+msgstr ""
+
+msgid "Grid color:"
+msgstr ""
+
+msgid "Grid spacing:"
+msgstr ""
+
+msgid "Grid type:"
+msgstr ""
+
+msgid "Guides"
+msgstr ""
+
+msgid ""
+"Guides are pre-defined rectangles covering the image. You define them by "
+"their width, height, and spacing from each other. This allows you to rapidly"
+" create the most common image map type - image collection of \"thumbnails\","
+" suitable for navigation bars."
+msgstr ""
+
+msgid "Guillotine"
+msgstr ""
+
+msgid "HSL"
+msgstr ""
+
+msgid "HSV"
+msgstr ""
+
+msgid "HTML Page Options"
+msgstr ""
+
+msgid "HTML table"
+msgstr ""
+
+msgid "H_ighlight:"
+msgstr ""
+
+msgid "H_ighlights"
+msgstr ""
+
+msgid "H_ue"
+msgstr ""
+
+msgid "Handkerchief"
+msgstr ""
+
+msgid "Heart"
+msgstr ""
+
+msgid "Height:"
+msgstr ""
+
+msgid "Help ID '%s' unknown"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "High _quality preview"
+msgstr ""
+
+msgid "Higher values makes the highlights more focused"
+msgstr ""
+
+msgid "Higher values makes the object reflect more light (appear lighter)"
+msgstr ""
+
+msgid "Highlight:"
+msgstr ""
+
+msgid "Highlights:"
+msgstr ""
+
+msgid "Ho_ld the minimal channels"
+msgstr ""
+
+msgid "Ho_le width:"
+msgstr ""
+
+msgid "Ho_rizontal base:"
+msgstr ""
+
+msgid "Hol_e height:"
+msgstr ""
+
+msgid "Hole sp_acing:"
+msgstr ""
+
+msgid ""
+"Horizontal\n"
+"Lines"
+msgstr ""
+
+msgid "Horizontal Color"
+msgstr ""
+
+msgid "Horizontal gradient"
+msgstr ""
+
+msgid "Horizontally"
+msgstr ""
+
+msgid "Horseshoe"
+msgstr ""
+
+msgid "Hot"
+msgstr ""
+
+msgid "Hot spot _X:"
+msgstr ""
+
+msgid "Hot spot _Y:"
+msgstr ""
+
+msgid "How many units make up an inch."
+msgstr ""
+
+msgid "How much to \"darken\" the drop shadow"
+msgstr ""
+
+msgid "How much to \"darken\" the edges of each brush stroke"
+msgstr ""
+
+msgid "How much to blur the drop shadow"
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid "Hue (HSL)"
+msgstr ""
+
+msgid "Hue Variations"
+msgstr ""
+
+msgid "Hue rotation:"
+msgstr ""
+
+msgid "Huge"
+msgstr ""
+
+msgid "Hyperbolic"
+msgstr ""
+
+msgid "I don't care"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "IFS Fractal"
+msgstr ""
+
+msgid "IFS Fractal Render Options"
+msgstr ""
+
+msgid "IFS Fractal: Black"
+msgstr ""
+
+msgid "IFS Fractal: Blue"
+msgstr ""
+
+msgid "IFS Fractal: Green"
+msgstr ""
+
+msgid "IFS Fractal: Red"
+msgstr ""
+
+msgid "IFS Fractal: Target"
+msgstr ""
+
+msgid "I_nteractive"
+msgstr ""
+
+msgid "I_nterlace"
+msgstr ""
+
+msgid "I_solate"
+msgstr ""
+
+msgid "Icon #%i"
+msgstr ""
+
+msgid "Icon Details"
+msgstr ""
+
+msgid ""
+"If checked GTM will output a full HTML document with <HTML>, <BODY>, etc. "
+"tags instead of just the table html."
+msgstr ""
+
+msgid ""
+"If checked GTM will replace any rectangular sections of identically colored "
+"blocks with one large cell with ROWSPAN and COLSPAN values."
+msgstr ""
+
+msgid "If enabled the preview will be redrawn automatically"
+msgstr ""
+
+msgid ""
+"If the original image was loaded from a JPEG file using non-standard quality"
+" settings (quantization tables), enable this option to get almost the same "
+"quality and file size."
+msgstr ""
+
+msgid ""
+"If you enable this option higher color values will be swapped with lower "
+"ones and vice versa"
+msgstr ""
+
+msgid "Ignore PNG offset"
+msgstr ""
+
+msgid "Ignore Page _Margins"
+msgstr ""
+
+msgid "Image"
+msgstr ""
+
+msgid "Image Composing"
+msgstr ""
+
+msgid "Image Selection"
+msgstr ""
+
+msgid "Image Settings"
+msgstr ""
+
+msgid "Image Size"
+msgstr ""
+
+msgid "Image Types"
+msgstr ""
+
+msgid "Image _Type:"
+msgstr ""
+
+msgid "Image _height:"
+msgstr ""
+
+msgid "Image dimensions too large: width %d x height %d"
+msgstr ""
+
+msgid "Image dimensions: %d × %d"
+msgstr ""
+
+msgid "Image height is larger than GIMP can handle."
+msgstr ""
+
+msgid "Image name:"
+msgstr ""
+
+msgid "Image size has changed."
+msgstr ""
+
+msgid "Image spac_ing:"
+msgstr ""
+
+msgid "Image width is larger than GIMP can handle."
+msgstr ""
+
+msgid "Images"
+msgstr ""
+
+msgid "Images for the Cap Faces"
+msgstr ""
+
+msgid "Images have different size"
+msgstr ""
+
+msgid "Import _paths"
+msgstr ""
+
+msgid "Import from PDF"
+msgstr ""
+
+msgid "Import from PostScript"
+msgstr ""
+
+msgid "Import from TIFF"
+msgstr ""
+
+msgid ""
+"Import path elements of the SVG so they can be used with the GIMP path tool"
+msgstr ""
+
+msgid "Importing screenshot"
+msgstr ""
+
+msgid "In_tegration steps:"
+msgstr ""
+
+msgid "In_verse"
+msgstr ""
+
+msgid "Include _mouse pointer"
+msgstr ""
+
+msgid "Include window _decoration"
+msgstr ""
+
+msgid "Incomplete input"
+msgstr ""
+
+msgid "Increase the speed of the animation"
+msgstr ""
+
+msgid "Indexed"
+msgstr ""
+
+msgid "Indexed Alpha"
+msgstr ""
+
+msgid "Initial value:"
+msgstr ""
+
+msgid "Input levels:"
+msgstr ""
+
+msgid "Insert Point"
+msgstr ""
+
+msgid "Installation Date"
+msgstr ""
+
+msgid "Integer"
+msgstr ""
+
+msgid "Intensity Levels"
+msgstr ""
+
+msgid "Intensity of original color when lit by a light source"
+msgstr ""
+
+msgid "Interaction:"
+msgstr ""
+
+msgid "Interactively modify the image colors"
+msgstr ""
+
+msgid "Intersection"
+msgstr ""
+
+msgid "Intersection Color"
+msgstr ""
+
+msgid "Interval (MCU rows):"
+msgstr ""
+
+msgid "Invalid X offset: %d"
+msgstr ""
+
+msgid "Invalid X resolution."
+msgstr ""
+
+msgid "Invalid Y offset: %d"
+msgstr ""
+
+msgid "Invalid Y resolution."
+msgstr ""
+
+msgid "Invalid file."
+msgstr ""
+
+msgid "Invalid height: %hu"
+msgstr ""
+
+msgid "Invalid number of bytes per line in PCX header"
+msgstr ""
+
+msgid "Invalid number of channels: %hu"
+msgstr ""
+
+msgid "Invalid remap array was passed to remap function"
+msgstr ""
+
+msgid "Invalid width: %hu"
+msgstr ""
+
+msgid "Inversion"
+msgstr ""
+
+msgid "Inverts the Papers texture"
+msgstr ""
+
+msgid "Isometric"
+msgstr ""
+
+msgid "Iterations:"
+msgstr ""
+
+msgid "JNG"
+msgstr ""
+
+msgid "JNG + delta PNG"
+msgstr ""
+
+msgid "JPEG"
+msgstr ""
+
+msgid "JPEG 2000 image"
+msgstr ""
+
+msgid "JPEG compression quality:"
+msgstr ""
+
+msgid "JPEG image"
+msgstr ""
+
+msgid "JPEG preview"
+msgstr ""
+
+msgid "JPEG quality parameter"
+msgstr ""
+
+msgid "JPEG smoothing factor:"
+msgstr ""
+
+msgid "Jigsaw"
+msgstr ""
+
+msgid "Jigsaw Style"
+msgstr ""
+
+msgid "Julia"
+msgstr ""
+
+msgid "KISS CEL"
+msgstr ""
+
+msgid "Keep image's values"
+msgstr ""
+
+msgid "Keep original"
+msgstr ""
+
+msgid "Keep the first value"
+msgstr ""
+
+msgid "Keeping the masks will not change the output"
+msgstr ""
+
+msgid "LAB"
+msgstr ""
+
+msgid "LZ77"
+msgstr ""
+
+msgid "L_eft border"
+msgstr ""
+
+msgid "L_ength:"
+msgstr ""
+
+msgid "Lambda"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid ""
+"Large icons and compression are not supported by all programs. Older "
+"applications may not open this file correctly."
+msgstr ""
+
+msgid ""
+"Layer background type. Copy causes the previous layer to be copied before "
+"the draw is performed."
+msgstr ""
+
+msgid "Layers"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Left edge"
+msgstr ""
+
+msgid "Left:"
+msgstr ""
+
+msgid "Less Sat:"
+msgstr ""
+
+msgid ""
+"Let the direction from the center determine the direction of the stroke"
+msgstr ""
+
+msgid "Let the direction from the center determine the size of the stroke"
+msgstr ""
+
+msgid ""
+"Let the value (brightness) of the region determine the direction of the "
+"stroke"
+msgstr ""
+
+msgid ""
+"Let the value (brightness) of the region determine the size of the stroke"
+msgstr ""
+
+msgid "Light"
+msgstr ""
+
+msgid "Light 1"
+msgstr ""
+
+msgid "Light 2"
+msgstr ""
+
+msgid "Light 3"
+msgstr ""
+
+msgid "Light 4"
+msgstr ""
+
+msgid "Light 5"
+msgstr ""
+
+msgid "Light 6"
+msgstr ""
+
+msgid "Light Settings"
+msgstr ""
+
+msgid "Light intensity"
+msgstr ""
+
+msgid "Light source X direction in XYZ space"
+msgstr ""
+
+msgid "Light source X position in XYZ space"
+msgstr ""
+
+msgid "Light source Y direction in XYZ space"
+msgstr ""
+
+msgid "Light source Y position in XYZ space"
+msgstr ""
+
+msgid "Light source Z direction in XYZ space"
+msgstr ""
+
+msgid "Light source Z position in XYZ space"
+msgstr ""
+
+msgid "Lighter"
+msgstr ""
+
+msgid "Lighter:"
+msgstr ""
+
+msgid "Lighting Effects"
+msgstr ""
+
+msgid "Lighting preset:"
+msgstr ""
+
+msgid "Lightness"
+msgstr ""
+
+msgid "Lightsource color:"
+msgstr ""
+
+msgid "Lightsource type:"
+msgstr ""
+
+msgid "Linear"
+msgstr ""
+
+msgid "Link Type"
+msgstr ""
+
+msgid "List View"
+msgstr ""
+
+msgid "List available procedures in the PDB"
+msgstr ""
+
+msgid "Lizard"
+msgstr ""
+
+msgid "Lo_wer border"
+msgstr ""
+
+msgid "Load CML Explorer Parameters"
+msgstr ""
+
+msgid "Load Curve Points from File"
+msgstr ""
+
+msgid "Load FITS File"
+msgstr ""
+
+msgid "Load Flame"
+msgstr ""
+
+msgid "Load Fractal Parameters"
+msgstr ""
+
+msgid "Load Gfig Object Collection"
+msgstr ""
+
+msgid "Load Image Map"
+msgstr ""
+
+msgid "Load Image from Raw Data"
+msgstr ""
+
+msgid "Load KISS Palette"
+msgstr ""
+
+msgid "Load Lighting Preset"
+msgstr ""
+
+msgid "Load QBE File"
+msgstr ""
+
+msgid "Load a fractal from file"
+msgstr ""
+
+msgid "Load the curves from a file"
+msgstr ""
+
+msgid "Loading index from '%s'"
+msgstr ""
+
+msgid "Logarithmic"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Lower left"
+msgstr ""
+
+msgid "Lower right"
+msgstr ""
+
+msgid "Lower selected object"
+msgstr ""
+
+msgid "Lower selected object to bottom"
+msgstr ""
+
+msgid "Luminosity _threshold:"
+msgstr ""
+
+msgid "MNG"
+msgstr ""
+
+msgid "MNG Options"
+msgstr ""
+
+msgid "MNG animation"
+msgstr ""
+
+msgid "M_aximum value:"
+msgstr ""
+
+msgid "Ma_ximum height:"
+msgstr ""
+
+msgid "Magenta"
+msgstr ""
+
+msgid "Magenta:"
+msgstr ""
+
+msgid "Magenta_K"
+msgstr ""
+
+msgid "Magnitude map:"
+msgstr ""
+
+msgid "Make destination image transparent where bump height is zero"
+msgstr ""
+
+msgid "Make image sharper (less powerful than Unsharp Mask)"
+msgstr ""
+
+msgid "Make image transparent outside object"
+msgstr ""
+
+msgid "Man'o'war"
+msgstr ""
+
+msgid "Mandelbrot"
+msgstr ""
+
+msgid "Mandelbrot Parameters"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+msgid "Manually specify the stroke orientation"
+msgstr ""
+
+msgid "Manually specify the stroke size"
+msgstr ""
+
+msgid "Map File Format"
+msgstr ""
+
+msgid "Map Images to Box Faces"
+msgstr ""
+
+msgid "Map _Object..."
+msgstr ""
+
+msgid "Map the image to an object (plane, sphere, box or cylinder)"
+msgstr ""
+
+msgid "Map to Object"
+msgstr ""
+
+msgid "Map to box"
+msgstr ""
+
+msgid "Map to cylinder"
+msgstr ""
+
+msgid "Map to plane"
+msgstr ""
+
+msgid "Map to sphere"
+msgstr ""
+
+msgid "Map to:"
+msgstr ""
+
+msgid "Marble"
+msgstr ""
+
+msgid "Mask File"
+msgstr ""
+
+msgid "Mask value"
+msgstr ""
+
+msgid "Material Properties"
+msgstr ""
+
+msgid "Max (x+d, -)"
+msgstr ""
+
+msgid "Max (x+d, -), (0.5 < x)"
+msgstr ""
+
+msgid "Max (x+d, -), (x < 0.5)"
+msgstr ""
+
+msgid "Max (x, -)"
+msgstr ""
+
+msgid "Max (x-d, -)"
+msgstr ""
+
+msgid "Max (x-d, -), (0.5 < x)"
+msgstr ""
+
+msgid "Max (x-d, -), (x < 0.5)"
+msgstr ""
+
+msgid "Max RGB"
+msgstr ""
+
+msgid "Max undo:"
+msgstr ""
+
+msgid "Max. memory:"
+msgstr ""
+
+msgid "Maxim_um RGB..."
+msgstr ""
+
+msgid "Maximum RGB Value"
+msgstr ""
+
+msgid "Maximum height for bumps"
+msgstr ""
+
+msgid "Maximum size:"
+msgstr ""
+
+msgid "Median"
+msgstr ""
+
+msgid "Menu"
+msgstr ""
+
+msgid "Menu Path"
+msgstr ""
+
+msgid "Merge imported paths"
+msgstr ""
+
+msgid "Microsoft WMF file"
+msgstr ""
+
+msgid "Microsoft Windows icon"
+msgstr ""
+
+msgid "Midtones:"
+msgstr ""
+
+msgid "Min (x+d, -)"
+msgstr ""
+
+msgid "Min (x+d, -), (0.5 < x)"
+msgstr ""
+
+msgid "Min (x+d, -), (x < 0.5)"
+msgstr ""
+
+msgid "Min (x, -)"
+msgstr ""
+
+msgid "Min (x-d, -)"
+msgstr ""
+
+msgid "Min (x-d, -), (0.5 < x)"
+msgstr ""
+
+msgid "Min (x-d, -), (x < 0.5)"
+msgstr ""
+
+msgid "Minimum size:"
+msgstr ""
+
+msgid "Mirror the active curve to the other border"
+msgstr ""
+
+msgid "Misc arrange:"
+msgstr ""
+
+msgid "Mod. rate:"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "Modify Curves"
+msgstr ""
+
+msgid "Modify image to reduce size when saved as GIF animation"
+msgstr ""
+
+msgid "More Advanced Options"
+msgstr ""
+
+msgid "More Sat:"
+msgstr ""
+
+msgid "Mouse Pointer"
+msgstr ""
+
+msgid "Move"
+msgstr ""
+
+msgid "Move Area to Bottom"
+msgstr ""
+
+msgid "Move Area to Front"
+msgstr ""
+
+msgid "Move Down"
+msgstr ""
+
+msgid "Move Sash"
+msgstr ""
+
+msgid "Move Selected Objects"
+msgstr ""
+
+msgid "Move To Front"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Move a single point"
+msgstr ""
+
+msgid "Move an object"
+msgstr ""
+
+msgid "Multipage PDF export"
+msgstr ""
+
+msgid "Multiply gradient (0,1)"
+msgstr ""
+
+msgid "Multiply rand. value (0,1)"
+msgstr ""
+
+msgid "Multiply rand. value (0,2)"
+msgstr ""
+
+msgid "Mutation dist.:"
+msgstr ""
+
+msgid "Mutation rate:"
+msgstr ""
+
+msgid "My first fractal"
+msgstr ""
+
+msgid "NL Filter"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "New Gradient Flare"
+msgstr ""
+
+msgid "New Seed"
+msgstr ""
+
+msgid ""
+"No %s in gimprc:\n"
+"You need to add an entry like\n"
+"(%s \"%s\")\n"
+"to your %s file."
+msgstr ""
+
+msgid "No URL was specified"
+msgstr ""
+
+msgid "No colors"
+msgstr ""
+
+msgid "No data captured"
+msgstr ""
+
+msgid "No fill"
+msgstr ""
+
+msgid "No light"
+msgstr ""
+
+msgid "No matches"
+msgstr ""
+
+msgid "No matches for your query"
+msgstr ""
+
+msgid "No selection to convert"
+msgstr ""
+
+msgid "No sensible file extension, attempting to load with file magic."
+msgstr ""
+
+msgid "No sensible file extension, saving as compressed XCF."
+msgstr ""
+
+msgid "No. _down:"
+msgstr ""
+
+msgid "Noise"
+msgstr ""
+
+msgid "Non-square pixels.  Image might look squashed."
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Nonlinear swiss army knife filter"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Normal:"
+msgstr ""
+
+msgid "Not a valid Photoshop document file"
+msgstr ""
+
+msgid "Nothing to crop."
+msgstr ""
+
+msgid "Number of Colors"
+msgstr ""
+
+msgid "Number of M_RU entries (1 - 16):"
+msgstr ""
+
+msgid "Number of Segments"
+msgstr ""
+
+msgid "Number of Tiles"
+msgstr ""
+
+msgid "Number of _undo levels (1 - 99):"
+msgstr ""
+
+msgid "Number of colors:"
+msgstr ""
+
+msgid "Number of pieces going across"
+msgstr ""
+
+msgid "Number of pieces going down"
+msgstr ""
+
+msgid "Number of unique colors: %d"
+msgstr ""
+
+msgid "Numbering"
+msgstr ""
+
+msgid "O_ffset:"
+msgstr ""
+
+msgid "O_pacity:"
+msgstr ""
+
+msgid "O_ptions"
+msgstr ""
+
+msgid "O_rientation"
+msgstr ""
+
+msgid "O_thers"
+msgstr ""
+
+msgid "O_verlap:"
+msgstr ""
+
+msgid "O_verlay"
+msgstr ""
+
+msgid "Object Details"
+msgstr ""
+
+msgid "Object X position in XYZ space"
+msgstr ""
+
+msgid "Object Y position in XYZ space"
+msgstr ""
+
+msgid "Object Z position in XYZ space"
+msgstr ""
+
+msgid "Off_set:"
+msgstr ""
+
+msgid "Offset all vectors with a given angle"
+msgstr ""
+
+msgid "Offset:"
+msgstr ""
+
+msgid "On edges:"
+msgstr ""
+
+msgid "On film:"
+msgstr ""
+
+msgid "One frame per layer (replace)"
+msgstr ""
+
+msgid "Only one unique color"
+msgstr ""
+
+msgid "Op_acity:"
+msgstr ""
+
+msgid "Op_timal estimation"
+msgstr ""
+
+msgid "Op_tions"
+msgstr ""
+
+msgid "Opacity:"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open File"
+msgstr ""
+
+msgid "Open IFS Fractal file"
+msgstr ""
+
+msgid "Open as"
+msgstr ""
+
+msgid "Open failed"
+msgstr ""
+
+msgid "Opening '%s'"
+msgstr ""
+
+msgid "Opening '%s' (frame %d)"
+msgstr ""
+
+msgid "Opening thumbnail for '%s'"
+msgstr ""
+
+msgid "Opens up the Orientation Map Editor"
+msgstr ""
+
+msgid "Opens up the Size Map Editor"
+msgstr ""
+
+msgid "Optimize (for _GIF)"
+msgstr ""
+
+msgid "Optimizing animation"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Or_ientation"
+msgstr ""
+
+msgid "Or_igin:"
+msgstr ""
+
+msgid "Orientation"
+msgstr ""
+
+msgid "Orientation Map Editor"
+msgstr ""
+
+msgid "Orientation:"
+msgstr ""
+
+msgid "Original:"
+msgstr ""
+
+msgid "Ot_her"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "Output levels:"
+msgstr ""
+
+msgid "Outside Type"
+msgstr ""
+
+msgid "Overlay"
+msgstr ""
+
+msgid "P(ower factor):"
+msgstr ""
+
+msgid "PBM image"
+msgstr ""
+
+msgid "PGM image"
+msgstr ""
+
+msgid "PNG"
+msgstr ""
+
+msgid "PNG + delta PNG"
+msgstr ""
+
+msgid "PNG image"
+msgstr ""
+
+msgid "PNM"
+msgstr ""
+
+msgid "PNM Image"
+msgstr ""
+
+msgid "PNM image"
+msgstr ""
+
+msgid "PPM image"
+msgstr ""
+
+msgid "PSP"
+msgstr ""
+
+msgid "P_aper"
+msgstr ""
+
+msgid "P_review"
+msgstr ""
+
+msgid "Page %d"
+msgstr ""
+
+msgid "Page Curl"
+msgstr ""
+
+msgid "Pagecurl Effect"
+msgstr ""
+
+msgid "Pages to load (e.g.: 1-4 or 1,3,5-7)"
+msgstr ""
+
+msgid "Pages:"
+msgstr ""
+
+msgid "Paint Shop Pro image"
+msgstr ""
+
+msgid "Paint edges"
+msgstr ""
+
+msgid "Paint mode:"
+msgstr ""
+
+msgid "Painting"
+msgstr ""
+
+msgid "Pal_ette File:"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "Palette Map"
+msgstr ""
+
+msgid "Parameter k:"
+msgstr ""
+
+msgid "Parameters"
+msgstr ""
+
+msgid "Parameters were saved to '%s'"
+msgstr ""
+
+msgid ""
+"Parse error in '%s':\n"
+"%s"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Pattern"
+msgstr ""
+
+msgid "Pattern fill"
+msgstr ""
+
+msgid "Percent _black:"
+msgstr ""
+
+msgid "Percent _white:"
+msgstr ""
+
+msgid "Performs various artistic operations"
+msgstr ""
+
+msgid "Perhaps you are missing GIO backends and need to install GVFS?"
+msgstr ""
+
+msgid "Phong"
+msgstr ""
+
+msgid "Photocopy"
+msgstr ""
+
+msgid "Photoshop image"
+msgstr ""
+
+msgid "Pixel value scaling"
+msgstr ""
+
+msgid "Pixels"
+msgstr ""
+
+msgid ""
+"Pixels in the foreground color will appear black in all output images.  This"
+" can be used for things like crop marks that have to show up on all "
+"channels."
+msgstr ""
+
+msgid "Pl_acement"
+msgstr ""
+
+msgid "Place strokes randomly around the image"
+msgstr ""
+
+msgid "Placement"
+msgstr ""
+
+msgid "Planar RGB"
+msgstr ""
+
+msgid "Plane"
+msgstr ""
+
+msgid "Playback speed"
+msgstr ""
+
+msgid "Please fill in all text fields."
+msgstr ""
+
+msgid "Plot a Graph of the Settings"
+msgstr ""
+
+msgid "Plural"
+msgstr ""
+
+msgid "Point"
+msgstr ""
+
+msgid "Point light"
+msgstr ""
+
+msgid "Polar"
+msgstr ""
+
+msgid "Polar grid radius interval:"
+msgstr ""
+
+msgid "Polar grid sectors desired:"
+msgstr ""
+
+msgid "Polygon"
+msgstr ""
+
+msgid "Popcorn"
+msgstr ""
+
+msgid "Portable Document Format"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Position X:"
+msgstr ""
+
+msgid "Position Y:"
+msgstr ""
+
+msgid "Position Z:"
+msgstr ""
+
+msgid "PostScript"
+msgstr ""
+
+msgid "PostScript document"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgid "Pre_view"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Premature end of file."
+msgstr ""
+
+msgid "Preserve the original image as a background"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Preview Size"
+msgstr ""
+
+msgid "Preview _size:"
+msgstr ""
+
+msgid "Preview a GIMP layer-based animation"
+msgstr ""
+
+msgid "Print the image"
+msgstr ""
+
+msgid "Printing"
+msgstr ""
+
+msgid "Probability gradient:"
+msgstr ""
+
+msgid "Procedure Browser"
+msgstr ""
+
+msgid "Procedure _Browser"
+msgstr ""
+
+msgid "Produce a lense flare effect using gradients"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Qbist"
+msgstr ""
+
+msgid "R, G, B (normal)"
+msgstr ""
+
+msgid "RGB"
+msgstr ""
+
+msgid "RGB Alpha"
+msgstr ""
+
+msgid "RGB Save Type"
+msgstr ""
+
+msgid "RGBA"
+msgstr ""
+
+msgid "RLE"
+msgstr ""
+
+msgid "R_adius 2:"
+msgstr ""
+
+msgid "R_adius:"
+msgstr ""
+
+msgid "R_earrange Colormap..."
+msgstr ""
+
+msgid "R_ecompose"
+msgstr ""
+
+msgid "R_ecursive"
+msgstr ""
+
+msgid "R_edraw preview"
+msgstr ""
+
+msgid "Radial"
+msgstr ""
+
+msgid "Radial gradient:"
+msgstr ""
+
+msgid "Radius"
+msgstr ""
+
+msgid "Radius:"
+msgstr ""
+
+msgid "Raise selected object"
+msgstr ""
+
+msgid "Raise selected object to top"
+msgstr ""
+
+msgid "Rando_m saturation:"
+msgstr ""
+
+msgid "Random"
+msgstr ""
+
+msgid "Random Seed"
+msgstr ""
+
+msgid "Random seed:"
+msgstr ""
+
+msgid "Random shared"
+msgstr ""
+
+msgid "Random, ch. independent"
+msgstr ""
+
+msgid "Randomly"
+msgstr ""
+
+msgid "Randoms from seed"
+msgstr ""
+
+msgid "Randoms from seed (shared)"
+msgstr ""
+
+msgid "Range high:"
+msgstr ""
+
+msgid "Range low:"
+msgstr ""
+
+msgid "Ranks:"
+msgstr ""
+
+msgid "Raw Image"
+msgstr ""
+
+msgid "Raw image data"
+msgstr ""
+
+msgid "Rays Paint Options"
+msgstr ""
+
+msgid "Re_center"
+msgstr ""
+
+msgid "Reads the selected Preset into memory"
+msgstr ""
+
+msgid "Rearrange Colormap"
+msgstr ""
+
+msgid "Rearrange the colormap"
+msgstr ""
+
+msgid "Rearranging the colormap"
+msgstr ""
+
+msgid "Recolor the image using colors from the active gradient"
+msgstr ""
+
+msgid "Recolor the image using colors from the active palette"
+msgstr ""
+
+msgid "Recompose an image that was previously decomposed"
+msgstr ""
+
+msgid "Recompute Center"
+msgstr ""
+
+msgid "Recompute preview image"
+msgstr ""
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Red:"
+msgstr ""
+
+msgid "Redo"
+msgstr ""
+
+msgid "Redo last zoom change"
+msgstr ""
+
+msgid "Reduce _Luminance"
+msgstr ""
+
+msgid "Reduce _Saturation"
+msgstr ""
+
+msgid "Reduce file size where combining layers is possible"
+msgstr ""
+
+msgid "Reduce image to pure red, green, and blue"
+msgstr ""
+
+msgid "Reflectivity"
+msgstr ""
+
+msgid "Refresh the Preview window"
+msgstr ""
+
+msgid "Region selected for filter is empty"
+msgstr ""
+
+msgid "Region selected for filter is empty."
+msgstr ""
+
+msgid "Region selected for plug-in is empty"
+msgstr ""
+
+msgid "Regular Polygon Number of Sides"
+msgstr ""
+
+msgid "Relati_ve link"
+msgstr ""
+
+msgid "Relative probability:"
+msgstr ""
+
+msgid "Released under the GNU General Public License"
+msgstr ""
+
+msgid "Relief:"
+msgstr ""
+
+msgid "Reload current page"
+msgstr ""
+
+msgid "Remap colorized"
+msgstr ""
+
+msgid "Remove optimization to make editing easier"
+msgstr ""
+
+msgid "Remove speckle noise from the image"
+msgstr ""
+
+msgid ""
+"Remove the empty borders of all frames.\n"
+"This reduces the file size and may fix the problem that some large cursors disorder the screen.\n"
+"Uncheck if you plan to edit the exported cursor using other programs."
+msgstr ""
+
+msgid "Remove the selected pages"
+msgstr ""
+
+msgid "Remove vertical stripe artifacts from the image"
+msgstr ""
+
+msgid "Removing animation background"
+msgstr ""
+
+msgid "Render Options"
+msgstr ""
+
+msgid "Render Scalable Vector Graphics"
+msgstr ""
+
+msgid "Render Windows Metafile"
+msgstr ""
+
+msgid "Render fractal art"
+msgstr ""
+
+msgid "Rendered SVG"
+msgstr ""
+
+msgid "Rendered WMF"
+msgstr ""
+
+msgid "Rendering"
+msgstr ""
+
+msgid "Rendering IFS (%d/%d)"
+msgstr ""
+
+msgid "Rendering SVG"
+msgstr ""
+
+msgid "Rendering fractal"
+msgstr ""
+
+msgid "Rendering sphere"
+msgstr ""
+
+msgid "Replace"
+msgstr ""
+
+msgid "Replace all colors with shades of a specified color"
+msgstr ""
+
+msgid "Replacement for undefined pixels"
+msgstr ""
+
+msgid "Reread the folder of Presets"
+msgstr ""
+
+msgid "Rescan for Fractals"
+msgstr ""
+
+msgid "Reset Order"
+msgstr ""
+
+msgid "Reset parameters to default values"
+msgstr ""
+
+msgid "Reset speed"
+msgstr ""
+
+msgid "Reset the active curve"
+msgstr ""
+
+msgid "Reset the speed of the animation"
+msgstr ""
+
+msgid "Resize area's?"
+msgstr ""
+
+msgid "Resolution:"
+msgstr ""
+
+msgid "Resulting Guide Bounds: %d,%d to %d,%d (%d areas)"
+msgstr ""
+
+msgid "Resulting Guide Bounds: 0,0 to 0,0 (0 areas)"
+msgstr ""
+
+msgid "Retine_x..."
+msgstr ""
+
+msgid "Retinex"
+msgstr ""
+
+msgid "Retinex Image Enhancement"
+msgstr ""
+
+msgid "Retinex: filtering"
+msgstr ""
+
+msgid "Reverse Order"
+msgstr ""
+
+msgid "Revert to the original image"
+msgstr ""
+
+msgid "Rewind the animation"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Right border out of bounds (must be < %d): %d"
+msgstr ""
+
+msgid "Right edge"
+msgstr ""
+
+msgid "Right:"
+msgstr ""
+
+msgid "Rings"
+msgstr ""
+
+msgid "Ro_tation:"
+msgstr ""
+
+msgid "Ro_w:"
+msgstr ""
+
+msgid "Rotat_e:"
+msgstr ""
+
+msgid "Rotate"
+msgstr ""
+
+msgid "Rotate / Scale"
+msgstr ""
+
+msgid "Rotate X:"
+msgstr ""
+
+msgid "Rotate Y:"
+msgstr ""
+
+msgid "Rotate Z:"
+msgstr ""
+
+msgid "Rotation"
+msgstr ""
+
+msgid "Rotation angle about X axis"
+msgstr ""
+
+msgid "Rotation angle about Y axis"
+msgstr ""
+
+msgid "Rotation angle about Z axis"
+msgstr ""
+
+msgid "Rotation angle:"
+msgstr ""
+
+msgid "Rotation:"
+msgstr ""
+
+msgid "Roughness"
+msgstr ""
+
+msgid "SGI"
+msgstr ""
+
+msgid "SUN Rasterfile image"
+msgstr ""
+
+msgid "SUNRAS"
+msgstr ""
+
+msgid ""
+"SVG file does not\n"
+"specify a size!"
+msgstr ""
+
+msgid "SVG image"
+msgstr ""
+
+msgid "S_ave Defaults"
+msgstr ""
+
+msgid "S_elector"
+msgstr ""
+
+msgid "S_how Index"
+msgstr ""
+
+msgid "S_moothing:"
+msgstr ""
+
+msgid "S_nap"
+msgstr ""
+
+msgid "S_trength exp.:"
+msgstr ""
+
+msgid "S_trength:"
+msgstr ""
+
+msgid "S_ubject:"
+msgstr ""
+
+msgid "S_wap"
+msgstr ""
+
+msgid "Sa_ve Defaults"
+msgstr ""
+
+msgid "Sa_ve alpha channel (RGBA/RGB)"
+msgstr ""
+
+msgid "Same"
+msgstr ""
+
+msgid "Sample Colorize"
+msgstr ""
+
+msgid "Sample _density:"
+msgstr ""
+
+msgid "Sample analyze"
+msgstr ""
+
+msgid "Sample:"
+msgstr ""
+
+msgid "Samples the color from the pixel in the center of the brush"
+msgstr ""
+
+msgid "Sat_uration"
+msgstr ""
+
+msgid "Satu_ration"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Saturation (HSL)"
+msgstr ""
+
+msgid "Saturation Variations"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Save Brush"
+msgstr ""
+
+msgid "Save CML Explorer Parameters"
+msgstr ""
+
+msgid "Save Current"
+msgstr ""
+
+msgid "Save Current..."
+msgstr ""
+
+msgid "Save Curve Points to File"
+msgstr ""
+
+msgid "Save File"
+msgstr ""
+
+msgid "Save Flame"
+msgstr ""
+
+msgid "Save Fractal Parameters"
+msgstr ""
+
+msgid "Save Gfig Drawing"
+msgstr ""
+
+msgid "Save Image Map"
+msgstr ""
+
+msgid "Save Lighting Preset"
+msgstr ""
+
+msgid "Save XMP data"
+msgstr ""
+
+msgid "Save _As..."
+msgstr ""
+
+msgid "Save _XMP data"
+msgstr ""
+
+msgid "Save _background color"
+msgstr ""
+
+msgid "Save _gamma"
+msgstr ""
+
+msgid "Save _resolution"
+msgstr ""
+
+msgid "Save _thumbnail"
+msgstr ""
+
+msgid "Save active fractal to file"
+msgstr ""
+
+msgid "Save as IFS Fractal file"
+msgstr ""
+
+msgid "Save as QBE File"
+msgstr ""
+
+msgid "Save as _RGB565 (16-bit)"
+msgstr ""
+
+msgid "Save color _values from transparent pixels"
+msgstr ""
+
+msgid "Save comme_nt"
+msgstr ""
+
+msgid "Save creation _time"
+msgstr ""
+
+msgid "Save failed"
+msgstr ""
+
+msgid "Save gamma"
+msgstr ""
+
+msgid "Save layer o_ffset"
+msgstr ""
+
+msgid "Save resolution"
+msgstr ""
+
+msgid "Save the current settings to the specified file"
+msgstr ""
+
+msgid "Save the curves to a file"
+msgstr ""
+
+msgid "Save thumbnail"
+msgstr ""
+
+msgid "Save to:"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Saving '%s'"
+msgstr ""
+
+msgid "Sc_ale 1:"
+msgstr ""
+
+msgid "Sca_le 2:"
+msgstr ""
+
+msgid "Scale X:"
+msgstr ""
+
+msgid "Scale Y:"
+msgstr ""
+
+msgid "Scale Z:"
+msgstr ""
+
+msgid "Scale _division:"
+msgstr ""
+
+msgid "Scale hue by:"
+msgstr ""
+
+msgid "Scale value by:"
+msgstr ""
+
+msgid "Scale:"
+msgstr ""
+
+msgid "Screen"
+msgstr ""
+
+msgid "Screenshot"
+msgstr ""
+
+msgid "Se_lection only"
+msgstr ""
+
+msgid "Searching by name"
+msgstr ""
+
+msgid "Second Flares Paint Options"
+msgstr ""
+
+msgid "Seed of Random (only for \"From Seed\" Modes)"
+msgstr ""
+
+msgid "Seed:"
+msgstr ""
+
+msgid "Selec_tion in context"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Select Color"
+msgstr ""
+
+msgid "Select Film Color"
+msgstr ""
+
+msgid "Select HTML file"
+msgstr ""
+
+msgid "Select Image File"
+msgstr ""
+
+msgid "Select Next"
+msgstr ""
+
+msgid "Select Number Color"
+msgstr ""
+
+msgid "Select Palette File"
+msgstr ""
+
+msgid "Select Pixels By"
+msgstr ""
+
+msgid "Select Previous"
+msgstr ""
+
+msgid "Select Region"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Select a _region to grab"
+msgstr ""
+
+msgid "Select an object"
+msgstr ""
+
+msgid "Select existing area"
+msgstr ""
+
+msgid "Select folder and rescan collection"
+msgstr ""
+
+msgid "Select lightsource color"
+msgstr ""
+
+msgid "Select next smvector"
+msgstr ""
+
+msgid "Select next vector"
+msgstr ""
+
+msgid "Select previous smvector"
+msgstr ""
+
+msgid "Select previous vector"
+msgstr ""
+
+msgid "Select:"
+msgstr ""
+
+msgid "Selected:"
+msgstr ""
+
+msgid "Selection"
+msgstr ""
+
+msgid "Selection to Path"
+msgstr ""
+
+msgid "Selection to Path Advanced Settings"
+msgstr ""
+
+msgid "Selective Load Settings"
+msgstr ""
+
+msgid "Selects a random direction of each stroke"
+msgstr ""
+
+msgid "Selects a random size for each stroke"
+msgstr ""
+
+msgid "Selects if the resulting image should be seamlessly tileable"
+msgstr ""
+
+msgid "Selects if to place strokes all the way out to the edges of the image"
+msgstr ""
+
+msgid "Send To Back"
+msgstr ""
+
+msgid "Send by E_mail..."
+msgstr ""
+
+msgid "Send by Email"
+msgstr ""
+
+msgid "Send the image by email"
+msgstr ""
+
+msgid "Set foreground to the average color of the image border"
+msgstr ""
+
+msgid "Set light source color"
+msgstr ""
+
+msgid "Settings for this Mapfile"
+msgstr ""
+
+msgid "Sha_dows"
+msgstr ""
+
+msgid "Shadow blur:"
+msgstr ""
+
+msgid "Shadow darken:"
+msgstr ""
+
+msgid "Shadow depth:"
+msgstr ""
+
+msgid "Shadows:"
+msgstr ""
+
+msgid "Shape gradient"
+msgstr ""
+
+msgid "Shape of Second Flares"
+msgstr ""
+
+msgid "Sharpen"
+msgstr ""
+
+msgid "Sharpening"
+msgstr ""
+
+msgid "Shear:"
+msgstr ""
+
+msgid "Sho_w preview in image window"
+msgstr ""
+
+msgid "Should the effect be inversed?"
+msgstr ""
+
+msgid "Should the luminosity be preserved?"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Show Line Frame"
+msgstr ""
+
+msgid "Show _wireframe"
+msgstr ""
+
+msgid "Show all objects"
+msgstr ""
+
+msgid "Show area URL _tip"
+msgstr ""
+
+msgid "Show area _handles"
+msgstr ""
+
+msgid "Show control points"
+msgstr ""
+
+msgid "Show grid"
+msgstr ""
+
+msgid "Show image"
+msgstr ""
+
+msgid "Show next object"
+msgstr ""
+
+msgid "Show position"
+msgstr ""
+
+msgid "Show previous object"
+msgstr ""
+
+msgid "Si_ngular:"
+msgstr ""
+
+msgid "Sides:"
+msgstr ""
+
+msgid "Sierpinski"
+msgstr ""
+
+msgid "Silicon Graphics IRIS image"
+msgstr ""
+
+msgid "Simple"
+msgstr ""
+
+msgid "Simple blur, fast but not very strong"
+msgstr ""
+
+msgid "Simulate a cartoon by enhancing edges"
+msgstr ""
+
+msgid "Simulate an image created by embossing"
+msgstr ""
+
+msgid "Simulate an image painted on window blinds"
+msgstr ""
+
+msgid "Simulate color distortion produced by a copy machine"
+msgstr ""
+
+msgid "Simulate glow by making highlights intense and fuzzy"
+msgstr ""
+
+msgid "Sine"
+msgstr ""
+
+msgid "Singular"
+msgstr ""
+
+msgid "Sinusoidal"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Size (%):"
+msgstr ""
+
+msgid "Size Map Editor"
+msgstr ""
+
+msgid "Size depends on:"
+msgstr ""
+
+msgid "Size factor gradient:"
+msgstr ""
+
+msgid "Size variants:"
+msgstr ""
+
+msgid "Slice the image into subimages using guides"
+msgstr ""
+
+msgid "Slower"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Small Tiles"
+msgstr ""
+
+msgid "Smear"
+msgstr ""
+
+msgid "Smoo_th Palette..."
+msgstr ""
+
+msgid "Smoo_thing"
+msgstr ""
+
+msgid "Smoot_h"
+msgstr ""
+
+msgid "Smooth Palette"
+msgstr ""
+
+msgid "Smoothing Parameters"
+msgstr ""
+
+msgid "Smoothing X gradient"
+msgstr ""
+
+msgid "Smoothing Y gradient"
+msgstr ""
+
+msgid "Smvectors"
+msgstr ""
+
+msgid "Snap to grid"
+msgstr ""
+
+msgid "Softglow"
+msgstr ""
+
+msgid "Solid"
+msgstr ""
+
+msgid "Solid colored background"
+msgstr ""
+
+msgid ""
+"Some applications can not read BMP images that include color space "
+"information. GIMP writes color space information by default. Enabling this "
+"option will cause GIMP to not write color space information to the file."
+msgstr ""
+
+msgid "Some data has been changed!"
+msgstr ""
+
+msgid ""
+"Sorry, this plug-in cannot handle a cursor which contains over %i different "
+"nominal sizes."
+msgstr ""
+
+msgid "Sort on Hue"
+msgstr ""
+
+msgid "Sort on Saturation"
+msgstr ""
+
+msgid "Sort on Value"
+msgstr ""
+
+msgid "Source 1:"
+msgstr ""
+
+msgid "Source 2:"
+msgstr ""
+
+msgid "Source channel in file:"
+msgstr ""
+
+msgid "Source channel:"
+msgstr ""
+
+msgid "Source..."
+msgstr ""
+
+msgid "Sp_ike points:"
+msgstr ""
+
+msgid "Spa_tial oversample:"
+msgstr ""
+
+msgid "Spacing:"
+msgstr ""
+
+msgid "Sparkle"
+msgstr ""
+
+msgid "Sparkling"
+msgstr ""
+
+msgid "Spatial Transformation"
+msgstr ""
+
+msgid "Spatial _filter radius:"
+msgstr ""
+
+msgid "Special effects that nobody understands"
+msgstr ""
+
+msgid "Specified layer %d not found"
+msgstr ""
+
+msgid "Specified window not found"
+msgstr ""
+
+msgid "Specifies the amount of embossing to apply to the image (in percent)"
+msgstr ""
+
+msgid "Specifies the aspect ratio of the brush"
+msgstr ""
+
+msgid "Specifies the scale of the texture (in percent of original file)"
+msgstr ""
+
+msgid "Specular:"
+msgstr ""
+
+msgid "Sphere"
+msgstr ""
+
+msgid "Sphere Designer"
+msgstr ""
+
+msgid "Sphere _Designer..."
+msgstr ""
+
+msgid "Spherical"
+msgstr ""
+
+msgid "Spi_ke angle (-1: random):"
+msgstr ""
+
+msgid "Spider"
+msgstr ""
+
+msgid "Spik_e density:"
+msgstr ""
+
+msgid "Spike thickness:"
+msgstr ""
+
+msgid "Spiral"
+msgstr ""
+
+msgid "Spiral Number of Turns"
+msgstr ""
+
+msgid "Spot radius:"
+msgstr ""
+
+msgid "Spots"
+msgstr ""
+
+msgid "St_rength exp.:"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Star Number of Points"
+msgstr ""
+
+msgid "Start _index:"
+msgstr ""
+
+msgid "Start angle:"
+msgstr ""
+
+msgid "Start offset:"
+msgstr ""
+
+msgid "Start playback"
+msgstr ""
+
+msgid "Step size:"
+msgstr ""
+
+msgid "Step to next frame"
+msgstr ""
+
+msgid "Stop loading this page"
+msgstr ""
+
+msgid "Stop playback"
+msgstr ""
+
+msgid "Stop when pixel differences are smaller than this value"
+msgstr ""
+
+msgid "Stretch"
+msgstr ""
+
+msgid "Stretch color saturation to cover maximum possible range"
+msgstr ""
+
+msgid "Stroke _density:"
+msgstr ""
+
+msgid "Strong"
+msgstr ""
+
+msgid "Su_bsampling:"
+msgstr ""
+
+msgid "Subdivide:"
+msgstr ""
+
+msgid "Substeps:"
+msgstr ""
+
+msgid "Swap the two curves"
+msgstr ""
+
+msgid "Swap two colors in the colormap"
+msgstr ""
+
+msgid "Swirl"
+msgstr ""
+
+msgid "Switch to \"From seed\" With the Last Seed"
+msgstr ""
+
+msgid "Symbol"
+msgstr ""
+
+msgid "TGA"
+msgstr ""
+
+msgid "TIFF"
+msgstr ""
+
+msgid "TIFF '%s' does not contain any directories"
+msgstr ""
+
+msgid "TIFF Channel"
+msgstr ""
+
+msgid "TIFF image"
+msgstr ""
+
+msgid "T_ransparent background"
+msgstr ""
+
+msgid "Table Creation Options"
+msgstr ""
+
+msgid "Table Options"
+msgstr ""
+
+msgid "Take a screenshot of a single _window"
+msgstr ""
+
+msgid "Take a screenshot of the entire _screen"
+msgstr ""
+
+msgid "TarGA image"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Tel_net"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Text antialiasing"
+msgstr ""
+
+msgid "Texture"
+msgstr ""
+
+msgid "Texture:"
+msgstr ""
+
+msgid ""
+"The .exe file is invalid (non-Microsoft Win32 .exe or error in .exe image)."
+msgstr ""
+
+msgid "The DDE transaction failed."
+msgstr ""
+
+msgid "The DDE transaction timed out."
+msgstr ""
+
+msgid ""
+"The GIF format only supports comments in 7bit ASCII encoding. No comment is "
+"saved."
+msgstr ""
+
+msgid "The GIMP user manual is not available."
+msgstr ""
+
+msgid ""
+"The PNG file specifies an offset that caused the layer to be positioned "
+"outside the image."
+msgstr ""
+
+msgid ""
+"The PNG image you are importing specifies an offset of %d, %d. Do you want "
+"to apply this offset to the layer?"
+msgstr ""
+
+msgid ""
+"The TIFF format only supports comments in\n"
+"7bit ASCII encoding. No comment is saved."
+msgstr ""
+
+msgid "The amount of cell padding."
+msgstr ""
+
+msgid "The amount of cell spacing."
+msgstr ""
+
+msgid "The amount of highlighting on the edges of each piece"
+msgstr ""
+
+msgid "The angle span of the first brush to create"
+msgstr ""
+
+msgid "The bitmap ends unexpectedly."
+msgstr ""
+
+msgid "The brush-size that matches the original image the closest is selected"
+msgstr ""
+
+msgid "The default comment is limited to %d characters."
+msgstr ""
+
+msgid ""
+"The depth of the drop shadow, i.e. how far apart from the object it should "
+"be"
+msgstr ""
+
+msgid "The direction that matches the original image the closest is selected"
+msgstr ""
+
+msgid ""
+"The distance from the center of the image determines the direction of the "
+"stroke"
+msgstr ""
+
+msgid ""
+"The distance from the center of the image determines the size of the stroke"
+msgstr ""
+
+msgid "The file is corrupt!"
+msgstr ""
+
+msgid "The file name association is incomplete or invalid."
+msgstr ""
+
+msgid "The first row of the image"
+msgstr ""
+
+msgid "The height for each table cell.  Can be a number or a percent."
+msgstr ""
+
+msgid "The help pages for '%s' are not available."
+msgstr ""
+
+msgid ""
+"The higher the number of iterations, the more details will be calculated"
+msgstr ""
+
+msgid "The hue of the region determines the direction of the stroke"
+msgstr ""
+
+msgid "The hue of the region determines the size of the stroke"
+msgstr ""
+
+msgid "The largest brush to create"
+msgstr ""
+
+msgid "The name '%s' is used already!"
+msgstr ""
+
+msgid "The number of directions (i.e. brushes) to use"
+msgstr ""
+
+msgid "The number of pixels in the table border."
+msgstr ""
+
+msgid "The number of sizes of brushes to use"
+msgstr ""
+
+msgid "The operating system denied access to the specified file."
+msgstr ""
+
+msgid "The operating system is out of memory or resources."
+msgstr ""
+
+msgid ""
+"The parasite \"%s\" is too long for an X cursor comment. It was cut off to "
+"fit."
+msgstr ""
+
+msgid ""
+"The part of copyright information that exceeded 65535 characters was "
+"removed."
+msgstr ""
+
+msgid ""
+"The part of license information that exceeded 65535 characters was removed."
+msgstr ""
+
+msgid "The relative density of the brush strokes"
+msgstr ""
+
+msgid "The selection does not intersect the active layer or mask."
+msgstr ""
+
+msgid "The smallest brush to create"
+msgstr ""
+
+msgid ""
+"The smvector-field. Left-click to move selected smvector, Right-click to "
+"point it towards mouse, Middle-click to add a new smvector."
+msgstr ""
+
+msgid "The specified DLL was not found."
+msgstr ""
+
+msgid "The specified file was not found."
+msgstr ""
+
+msgid "The specified path was not found."
+msgstr ""
+
+msgid "The starting angle of the first brush to create"
+msgstr ""
+
+msgid "The strokes are evenly distributed across the image"
+msgstr ""
+
+msgid "The strokes follow a \"flowing\" pattern"
+msgstr ""
+
+msgid "The text for the table caption."
+msgstr ""
+
+msgid "The text to go into each cell."
+msgstr ""
+
+msgid "The type of this SUN-rasterfile is not supported"
+msgstr ""
+
+msgid "The unit's abbreviation (e.g. \"cm\" for centimeters)."
+msgstr ""
+
+msgid "The unit's plural form."
+msgstr ""
+
+msgid "The unit's singular form."
+msgstr ""
+
+msgid ""
+"The unit's symbol if it has one (e.g. \" for inches). The unit's "
+"abbreviation is used if doesn't have a symbol."
+msgstr ""
+
+msgid ""
+"The vector-field. Left-click to move selected vector, Right-click to point "
+"it towards mouse, Middle-click to add a new vector."
+msgstr ""
+
+msgid "The width for each table cell.  Can be a number or a percent."
+msgstr ""
+
+msgid "There are not enough layers to align."
+msgstr ""
+
+msgid "There is no application associated with the given file name extension."
+msgstr ""
+
+msgid "There was not enough memory to complete the operation."
+msgstr ""
+
+msgid ""
+"These options are only available when the exported image has more than one "
+"layer. The image you are exporting only has one layer."
+msgstr ""
+
+msgid ""
+"This field is a hint for numerical input fields. It specifies how many "
+"decimal digits the input field should provide to get approximately the same "
+"accuracy as an \"inch\" input field with two decimal digits."
+msgstr ""
+
+msgid "This image depth is not supported"
+msgstr ""
+
+msgid "This is not a GIF file"
+msgstr ""
+
+msgid ""
+"This string will be used to identify a unit in GIMP's configuration files."
+msgstr ""
+
+msgid "This tool has no options"
+msgstr ""
+
+msgid "Tile"
+msgstr ""
+
+msgid "Tile image into smaller versions of the original"
+msgstr ""
+
+msgid "Tile source image"
+msgstr ""
+
+msgid "Tile source image: useful for infinite planes"
+msgstr ""
+
+msgid "Tile to New Size"
+msgstr ""
+
+msgid "Tileable"
+msgstr ""
+
+msgid "Tiling"
+msgstr ""
+
+msgid "Tiny"
+msgstr ""
+
+msgid "Toggle the visibility of the sidebar"
+msgstr ""
+
+msgid "Too many channels in file: %d"
+msgstr ""
+
+msgid "Too many channels in layer: %d"
+msgstr ""
+
+msgid "Tool Options"
+msgstr ""
+
+msgid "Top edge"
+msgstr ""
+
+msgid "Top left"
+msgstr ""
+
+msgid "Top:"
+msgstr ""
+
+msgid "Tr_ansparency:"
+msgstr ""
+
+msgid "Transferring data from scanner/camera"
+msgstr ""
+
+msgid "Transferring webpage image for '%s'"
+msgstr ""
+
+msgid "Transform image with the Mandelbrot Fractal"
+msgstr ""
+
+msgid "Transformation %s"
+msgstr ""
+
+msgid "Transformations"
+msgstr ""
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Transparent background"
+msgstr ""
+
+msgid "Tree View"
+msgstr ""
+
+msgid "Try Bounding Box"
+msgstr ""
+
+msgid "Turbulence:"
+msgstr ""
+
+msgid "Turn bright spots into starry sparkles"
+msgstr ""
+
+msgid "Twist or smear image in many different ways"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type of colormap not supported"
+msgstr ""
+
+msgid "Type of light source to apply"
+msgstr ""
+
+msgid "Type of object to map to"
+msgstr ""
+
+msgid "Type:"
+msgstr ""
+
+msgid "URL"
+msgstr ""
+
+msgid "URL: %s"
+msgstr ""
+
+msgid "U_nits"
+msgstr ""
+
+msgid "U_se disposal entered above for all frames"
+msgstr ""
+
+msgid "Unable to recompose, source layer not found"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Undo last zoom change"
+msgstr ""
+
+msgid "Unexpected end of file"
+msgstr ""
+
+msgid "Uniform"
+msgstr ""
+
+msgid "Unit"
+msgstr ""
+
+msgid "Unit Editor"
+msgstr ""
+
+msgid "Unknown Microsoft Windows error."
+msgstr ""
+
+msgid "Unknown color model in PNG file '%s'."
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown reason"
+msgstr ""
+
+msgid "Unnamed"
+msgstr ""
+
+msgid "Unoptimizing animation"
+msgstr ""
+
+msgid "Unrecognized or invalid BMP compression format."
+msgstr ""
+
+msgid "Unselect"
+msgstr ""
+
+msgid "Unselect All"
+msgstr ""
+
+msgid "Unsupported bit depth (%d)!"
+msgstr ""
+
+msgid "Unsupported bit depth: %d"
+msgstr ""
+
+msgid "Unsupported color mode: %s"
+msgstr ""
+
+msgid "Unsupported compression mode: %d"
+msgstr ""
+
+msgid "Unsupported file format version: %d"
+msgstr ""
+
+msgid "Unsupported maximum value."
+msgstr ""
+
+msgid "Unsupported or invalid bitdepth."
+msgstr ""
+
+msgid "Unsupported or invalid channel size"
+msgstr ""
+
+msgid "Unsupported or invalid image height: %d"
+msgstr ""
+
+msgid "Unsupported or invalid image size: %dx%d"
+msgstr ""
+
+msgid "Unsupported or invalid image width: %d"
+msgstr ""
+
+msgid "Unsupported or invalid layer height: %d"
+msgstr ""
+
+msgid "Unsupported or invalid layer mask height: %d"
+msgstr ""
+
+msgid "Unsupported or invalid layer mask size: %dx%d"
+msgstr ""
+
+msgid "Unsupported or invalid layer mask width: %d"
+msgstr ""
+
+msgid "Unsupported or invalid layer size: %dx%d"
+msgstr ""
+
+msgid "Unsupported or invalid layer width: %d"
+msgstr ""
+
+msgid "Untitled"
+msgstr ""
+
+msgid "Unusual PCX flavour, giving up"
+msgstr ""
+
+msgid "Update preview _live"
+msgstr ""
+
+msgid "Upper left"
+msgstr ""
+
+msgid "Upper left _x:"
+msgstr ""
+
+msgid "Upper left _y:"
+msgstr ""
+
+msgid "Upper right"
+msgstr ""
+
+msgid "Us_e macros instead of struct"
+msgstr ""
+
+msgid "Use GIMP Guides..."
+msgstr ""
+
+msgid "Use Gimp Guides"
+msgstr ""
+
+msgid "Use _1 byte Run-Length-Encoding"
+msgstr ""
+
+msgid "Use _Anti-aliasing"
+msgstr ""
+
+msgid "Use _restart markers"
+msgstr ""
+
+msgid "Use a transparent background; Only the strokes painted will be visible"
+msgstr ""
+
+msgid "Use average value"
+msgstr ""
+
+msgid "Use cosine-function for this color component"
+msgstr ""
+
+msgid "Use cyclic range"
+msgstr ""
+
+msgid ""
+"Use linear mapping instead of any trigonometrical function for this color "
+"channel"
+msgstr ""
+
+msgid "Use log log smoothing to eliminate \"banding\" in the result"
+msgstr ""
+
+msgid "Use loglog smoothing"
+msgstr ""
+
+msgid "Use magnitude map"
+msgstr ""
+
+msgid "Use reverse value"
+msgstr ""
+
+msgid "Use sine-function for this color component"
+msgstr ""
+
+msgid "Use the background color"
+msgstr ""
+
+msgid "Use the color of the image"
+msgstr ""
+
+msgid "Use the foreground color"
+msgstr ""
+
+msgid "V_alue"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Value Variations"
+msgstr ""
+
+msgid "Van Gogh (LIC)"
+msgstr ""
+
+msgid "Vector _angle:"
+msgstr ""
+
+msgid "Vector _length:"
+msgstr ""
+
+msgid "Vector mag:"
+msgstr ""
+
+msgid "Vectors"
+msgstr ""
+
+msgid "Ver_tical base:"
+msgstr ""
+
+msgid ""
+"Vertical\n"
+"Lines"
+msgstr ""
+
+msgid "Vertical Color"
+msgstr ""
+
+msgid "Vertical gradient"
+msgstr ""
+
+msgid "Vertically"
+msgstr ""
+
+msgid "Very dark"
+msgstr ""
+
+msgid "View Source"
+msgstr ""
+
+msgid "Visit the GIMP documentation website"
+msgstr ""
+
+msgid ""
+"Voronoi-mode makes only the smvector closest to the given point have any "
+"influence"
+msgstr ""
+
+msgid ""
+"Voronoi-mode makes only the vector closest to the given point have any "
+"influence"
+msgstr ""
+
+msgid "Vorte_x"
+msgstr ""
+
+msgid "Vortex_2"
+msgstr ""
+
+msgid "Vortex_3"
+msgstr ""
+
+msgid "WAI_S"
+msgstr ""
+
+msgid ""
+"WMF file does not\n"
+"specify a size!"
+msgstr ""
+
+msgid "W_ith source image"
+msgstr ""
+
+msgid "W_rite extra mask file"
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Warning: '%s' is a parameter file for a newer version of CML Explorer."
+msgstr ""
+
+msgid "Warning: '%s' is an old format file."
+msgstr ""
+
+msgid "Warning: the source and the destination are the same channel."
+msgstr ""
+
+msgid "Warp"
+msgstr ""
+
+msgid "Waves"
+msgstr ""
+
+msgid "Weak"
+msgstr ""
+
+msgid "Webpage"
+msgstr ""
+
+msgid ""
+"When toggled, the resulting image will be scaled to fit into the given size "
+"without changing the aspect ratio."
+msgstr ""
+
+msgid "White"
+msgstr ""
+
+msgid "Width (pixels):"
+msgstr ""
+
+msgid "Width and/or height of frame '%s' is zero!"
+msgstr ""
+
+msgid "Width:"
+msgstr ""
+
+msgid "Windows"
+msgstr ""
+
+msgid "Windows BMP image"
+msgstr ""
+
+msgid "Windows Icon"
+msgstr ""
+
+msgid "With gradient power (0,1)"
+msgstr ""
+
+msgid "With p and random (0,1)"
+msgstr ""
+
+msgid "With random power (0,1)"
+msgstr ""
+
+msgid "With random power (0,10)"
+msgstr ""
+
+msgid "Wood"
+msgstr ""
+
+msgid "Work on cop_y"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid "Write error occurred"
+msgstr ""
+
+msgid "Writing to file '%s' failed: %s"
+msgstr ""
+
+msgid "X BitMap image"
+msgstr ""
+
+msgid "X PixMap image"
+msgstr ""
+
+msgid "X scale (size)"
+msgstr ""
+
+msgid "X window dump"
+msgstr ""
+
+msgid "X11 Mouse Cursor"
+msgstr ""
+
+msgid "X:"
+msgstr ""
+
+msgid "XBM"
+msgstr ""
+
+msgid "XBM Options"
+msgstr ""
+
+msgid "XMC Options"
+msgstr ""
+
+msgid "XPM"
+msgstr ""
+
+msgid "XPM file invalid"
+msgstr ""
+
+msgid ""
+"XWD-file %s has format %d, depth %d and bits per pixel %d. Currently this is"
+" not supported."
+msgstr ""
+
+msgid "XWD-file %s is corrupt."
+msgstr ""
+
+msgid "XY position:"
+msgstr ""
+
+msgid "X_1:"
+msgstr ""
+
+msgid "X_2:"
+msgstr ""
+
+msgid "Y scale (size)"
+msgstr ""
+
+msgid "Y:"
+msgstr ""
+
+msgid "Y_1:"
+msgstr ""
+
+msgid "Y_2:"
+msgstr ""
+
+msgid "Yellow"
+msgstr ""
+
+msgid "Yellow:"
+msgstr ""
+
+msgid "Yellow_K"
+msgstr ""
+
+msgid ""
+"You are about to create a huge\n"
+"HTML file which will most likely\n"
+"crash your browser."
+msgstr ""
+
+msgid ""
+"You can only export as animation when the image has more than one layer. The"
+" image you are trying to export only has one layer."
+msgstr ""
+
+msgid ""
+"You can only run 'Recompose' if the active image was originally produced by "
+"'Decompose'."
+msgstr ""
+
+msgid ""
+"You cannot save a cursor mask for an image\n"
+"which has no alpha channel."
+msgstr ""
+
+msgid "You must select a file to save!"
+msgstr ""
+
+msgid "Z scale (size)"
+msgstr ""
+
+msgid "Z:"
+msgstr ""
+
+msgid "ZSoft PCX image"
+msgstr ""
+
+msgid "Zealous cropping"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "Zoom scale:"
+msgstr ""
+
+msgid "_Abbreviation:"
+msgstr ""
+
+msgid "_Adaptive"
+msgstr ""
+
+msgid "_Advanced"
+msgstr ""
+
+msgid "_Advanced Options"
+msgstr ""
+
+msgid "_Alpha threshold:"
+msgstr ""
+
+msgid "_Alpha trimmed mean"
+msgstr ""
+
+msgid "_Alpha:"
+msgstr ""
+
+msgid "_Antialiasing"
+msgstr ""
+
+msgid "_Auto-Crop all frames."
+msgstr ""
+
+msgid "_Automatically convert"
+msgstr ""
+
+msgid "_Azimuth:"
+msgstr ""
+
+msgid "_Background color"
+msgstr ""
+
+msgid "_Base URL:"
+msgstr ""
+
+msgid "_Bevel width:"
+msgstr ""
+
+msgid "_Black"
+msgstr ""
+
+msgid "_Black level:"
+msgstr ""
+
+msgid "_Black:"
+msgstr ""
+
+msgid "_Blacken"
+msgstr ""
+
+msgid "_Blinds..."
+msgstr ""
+
+msgid "_Blue:"
+msgstr ""
+
+msgid "_Blueness cb470:"
+msgstr ""
+
+msgid "_Blueness cb709:"
+msgstr ""
+
+msgid "_Blur"
+msgstr ""
+
+msgid "_Border Average..."
+msgstr ""
+
+msgid "_Border:"
+msgstr ""
+
+msgid "_Bottom:"
+msgstr ""
+
+msgid "_Box"
+msgstr ""
+
+msgid "_Bright:"
+msgstr ""
+
+msgid "_Brightness"
+msgstr ""
+
+msgid "_Brightness:"
+msgstr ""
+
+msgid "_Brush"
+msgstr ""
+
+msgid "_Bucket size:"
+msgstr ""
+
+msgid "_Bump Map"
+msgstr ""
+
+msgid "_Bumpmap"
+msgstr ""
+
+msgid "_Clear"
+msgstr ""
+
+msgid "_Contents"
+msgstr ""
+
+msgid "_Copy"
+msgstr ""
+
+msgid "_Copyright:"
+msgstr ""
+
+msgid "_Create multipage PDF..."
+msgstr ""
+
+msgid "_Curve Bend..."
+msgstr ""
+
+msgid "_Cyan:"
+msgstr ""
+
+msgid "_DCT method:"
+msgstr ""
+
+msgid "_Decompose to layers"
+msgstr ""
+
+msgid "_Decompose..."
+msgstr ""
+
+msgid "_Deflate"
+msgstr ""
+
+msgid "_Delay between frames where unspecified:"
+msgstr ""
+
+msgid "_Delay:"
+msgstr ""
+
+msgid "_Depth Merge..."
+msgstr ""
+
+msgid "_Depth:"
+msgstr ""
+
+msgid "_Derivative"
+msgstr ""
+
+msgid "_Description:"
+msgstr ""
+
+msgid "_Digits:"
+msgstr ""
+
+msgid "_Displacement:"
+msgstr ""
+
+msgid "_Do not write color space information"
+msgstr ""
+
+msgid "_Draw Crop Marks"
+msgstr ""
+
+msgid "_Edge enhancement"
+msgstr ""
+
+msgid "_Edit"
+msgstr ""
+
+msgid "_Effect image:"
+msgstr ""
+
+msgid "_Emboss"
+msgstr ""
+
+msgid "_Encapsulated PostScript"
+msgstr ""
+
+msgid "_Entire image"
+msgstr ""
+
+msgid "_Environment Map"
+msgstr ""
+
+msgid "_Explicit tile"
+msgstr ""
+
+msgid "_Factor:"
+msgstr ""
+
+msgid "_File"
+msgstr ""
+
+msgid "_Filename:"
+msgstr ""
+
+msgid "_Filmstrip..."
+msgstr ""
+
+msgid "_Filter Pack..."
+msgstr ""
+
+msgid "_Filter length:"
+msgstr ""
+
+msgid "_Find Backdrop"
+msgstr ""
+
+msgid "_Fit height to images"
+msgstr ""
+
+msgid "_Flame..."
+msgstr ""
+
+msgid "_Font:"
+msgstr ""
+
+msgid "_Foreground as registration color"
+msgstr ""
+
+msgid "_Foreground color"
+msgstr ""
+
+msgid "_Format:"
+msgstr ""
+
+msgid "_Fractal Explorer..."
+msgstr ""
+
+msgid "_Fractals"
+msgstr ""
+
+msgid "_Frame disposal where unspecified:"
+msgstr ""
+
+msgid "_Free"
+msgstr ""
+
+msgid "_Ftp Site"
+msgstr ""
+
+msgid "_GIF comment:"
+msgstr ""
+
+msgid "_GIMPressionist..."
+msgstr ""
+
+msgid "_Gamma:"
+msgstr ""
+
+msgid "_General"
+msgstr ""
+
+msgid "_Generate full HTML document"
+msgstr ""
+
+msgid "_Gfig..."
+msgstr ""
+
+msgid "_Glow radius:"
+msgstr ""
+
+msgid "_Glowing:"
+msgstr ""
+
+msgid "_Gopher"
+msgstr ""
+
+msgid "_Gradient"
+msgstr ""
+
+msgid "_Gradient Flare..."
+msgstr ""
+
+msgid "_Gradient Map"
+msgstr ""
+
+msgid "_Green:"
+msgstr ""
+
+msgid "_Grid"
+msgstr ""
+
+msgid "_Grid size:"
+msgstr ""
+
+msgid "_Height"
+msgstr ""
+
+msgid "_Height (pixels):"
+msgstr ""
+
+msgid "_Height:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hidden"
+msgstr ""
+
+msgid "_Hold the maximal channels"
+msgstr ""
+
+msgid "_Hole offset:"
+msgstr ""
+
+msgid "_Horizontal"
+msgstr ""
+
+msgid "_Horizontal style:"
+msgstr ""
+
+msgid "_Horizontal:"
+msgstr ""
+
+msgid "_Horz. spacing:"
+msgstr ""
+
+msgid "_Hot..."
+msgstr ""
+
+msgid "_Hue"
+msgstr ""
+
+msgid "_Hue rotation:"
+msgstr ""
+
+msgid "_Hue:"
+msgstr ""
+
+msgid "_ID:"
+msgstr ""
+
+msgid "_IFS Fractal..."
+msgstr ""
+
+msgid "_Identifier prefix:"
+msgstr ""
+
+msgid "_Ignore the bottom layer even if visible"
+msgstr ""
+
+msgid "_Image Map..."
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_Inch"
+msgstr ""
+
+msgid "_Insert"
+msgstr ""
+
+msgid "_Intensity:"
+msgstr ""
+
+msgid "_Interlace"
+msgstr ""
+
+msgid "_Interlacing (Adam7)"
+msgstr ""
+
+msgid "_Invert"
+msgstr ""
+
+msgid "_JPEG"
+msgstr ""
+
+msgid "_JavaScript"
+msgstr ""
+
+msgid "_Jigsaw..."
+msgstr ""
+
+msgid "_Keep NCSA circles true"
+msgstr ""
+
+msgid "_Keep aspect ratio"
+msgstr ""
+
+msgid "_Kill"
+msgstr ""
+
+msgid "_LZW"
+msgstr ""
+
+msgid "_Left start at:"
+msgstr ""
+
+msgid "_Left:"
+msgstr ""
+
+msgid "_Level:"
+msgstr ""
+
+msgid "_License:"
+msgstr ""
+
+msgid "_Light"
+msgstr ""
+
+msgid "_Lighting Effects..."
+msgstr ""
+
+msgid "_Lightness:"
+msgstr ""
+
+msgid "_Lines"
+msgstr ""
+
+msgid "_Link"
+msgstr ""
+
+msgid "_Load Defaults"
+msgstr ""
+
+msgid "_Loop forever"
+msgstr ""
+
+msgid "_Lower"
+msgstr ""
+
+msgid "_Luma y470:"
+msgstr ""
+
+msgid "_Luma y709:"
+msgstr ""
+
+msgid "_Magenta:"
+msgstr ""
+
+msgid "_Mapping"
+msgstr ""
+
+msgid "_Mask file extension:"
+msgstr ""
+
+msgid "_Mask radius:"
+msgstr ""
+
+msgid "_Material"
+msgstr ""
+
+msgid "_Max depth:"
+msgstr ""
+
+msgid "_Metallic"
+msgstr ""
+
+msgid "_Midtones"
+msgstr ""
+
+msgid "_Millimeter"
+msgstr ""
+
+msgid "_Minimum value:"
+msgstr ""
+
+msgid "_Mirror"
+msgstr ""
+
+msgid "_Misc Ops."
+msgstr ""
+
+msgid "_NL Filter..."
+msgstr ""
+
+msgid "_Natural color"
+msgstr ""
+
+msgid "_No. across:"
+msgstr ""
+
+msgid "_Noise magnitude:"
+msgstr ""
+
+msgid "_None"
+msgstr ""
+
+msgid "_Normal"
+msgstr ""
+
+msgid "_Normalize"
+msgstr ""
+
+msgid "_Number height:"
+msgstr ""
+
+msgid "_Number of segments:"
+msgstr ""
+
+msgid "_Opacity:"
+msgstr ""
+
+msgid "_Open..."
+msgstr ""
+
+msgid "_Optimize"
+msgstr ""
+
+msgid "_Optimize (Difference)"
+msgstr ""
+
+msgid "_Other:"
+msgstr ""
+
+msgid "_Pack Bits"
+msgstr ""
+
+msgid "_Pagecurl..."
+msgstr ""
+
+msgid "_Palette Map"
+msgstr ""
+
+msgid "_Palette Type:"
+msgstr ""
+
+msgid "_Parameters"
+msgstr ""
+
+msgid "_Percent black:"
+msgstr ""
+
+msgid "_Playback..."
+msgstr ""
+
+msgid "_Plural:"
+msgstr ""
+
+msgid "_Polished:"
+msgstr ""
+
+msgid "_Polygon"
+msgstr ""
+
+msgid "_PostScript level 2"
+msgstr ""
+
+msgid "_Prefixed name:"
+msgstr ""
+
+msgid "_Preserve luminosity"
+msgstr ""
+
+msgid "_Presets"
+msgstr ""
+
+msgid "_Preview"
+msgstr ""
+
+msgid "_Preview Once"
+msgstr ""
+
+msgid "_Preview!"
+msgstr ""
+
+msgid "_Print..."
+msgstr ""
+
+msgid "_Progressive"
+msgstr ""
+
+msgid "_Prompt for area info"
+msgstr ""
+
+msgid "_Psychobilly"
+msgstr ""
+
+msgid "_Qbist..."
+msgstr ""
+
+msgid "_Quality:"
+msgstr ""
+
+msgid "_RLE compression"
+msgstr ""
+
+msgid "_Radius 1:"
+msgstr ""
+
+msgid "_Radius:"
+msgstr ""
+
+msgid "_Random hue:"
+msgstr ""
+
+msgid "_Randomize"
+msgstr ""
+
+msgid "_Rays"
+msgstr ""
+
+msgid "_Rectangle"
+msgstr ""
+
+msgid "_Red:"
+msgstr ""
+
+msgid "_Redness cr470:"
+msgstr ""
+
+msgid "_Redness cr709:"
+msgstr ""
+
+msgid "_Redo %s"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Remove Backdrop"
+msgstr ""
+
+msgid "_Rendering"
+msgstr ""
+
+msgid "_Replace the delay of all frames even if it is specified."
+msgstr ""
+
+msgid "_Replace the size of all frames even if it is specified."
+msgstr ""
+
+msgid "_Require default URL"
+msgstr ""
+
+msgid "_Resolution:"
+msgstr ""
+
+msgid "_Right border"
+msgstr ""
+
+msgid "_Right:"
+msgstr ""
+
+msgid "_Run-Length Encoded"
+msgstr ""
+
+msgid "_Sample Colorize..."
+msgstr ""
+
+msgid "_Saturation"
+msgstr ""
+
+msgid "_Saturation:"
+msgstr ""
+
+msgid "_Save comment to file"
+msgstr ""
+
+msgid "_Save..."
+msgstr ""
+
+msgid "_Scale:"
+msgstr ""
+
+msgid "_Scanner/Camera..."
+msgstr ""
+
+msgid "_Screenshot..."
+msgstr ""
+
+msgid "_Search depth:"
+msgstr ""
+
+msgid "_Second Flares"
+msgstr ""
+
+msgid "_Send"
+msgstr ""
+
+msgid "_Settings"
+msgstr ""
+
+msgid "_Shade under curl"
+msgstr ""
+
+msgid "_Sharpen..."
+msgstr ""
+
+msgid "_Sharpness:"
+msgstr ""
+
+msgid "_Shiny:"
+msgstr ""
+
+msgid "_Size"
+msgstr ""
+
+msgid "_Size:"
+msgstr ""
+
+msgid "_Small Tiles..."
+msgstr ""
+
+msgid "_Snap-to grid enabled"
+msgstr ""
+
+msgid "_Sparkle..."
+msgstr ""
+
+msgid "_Speed:"
+msgstr ""
+
+msgid "_Spike length:"
+msgstr ""
+
+msgid "_Square"
+msgstr ""
+
+msgid "_Step"
+msgstr ""
+
+msgid "_Stop"
+msgstr ""
+
+msgid "_Strength:"
+msgstr ""
+
+msgid "_Stroke"
+msgstr ""
+
+msgid "_Swap Colors"
+msgstr ""
+
+msgid "_Symbol:"
+msgstr ""
+
+msgid "_Target frame name/ID: (optional - used for FRAMES only)"
+msgstr ""
+
+msgid "_Thickness:"
+msgstr ""
+
+msgid "_Threshold"
+msgstr ""
+
+msgid "_Threshold:"
+msgstr ""
+
+msgid "_Tile..."
+msgstr ""
+
+msgid "_Title:"
+msgstr ""
+
+msgid "_Tools"
+msgstr ""
+
+msgid "_Top start at:"
+msgstr ""
+
+msgid "_Top:"
+msgstr ""
+
+msgid "_Transparent"
+msgstr ""
+
+msgid "_URL to activate when this area is clicked: (required)"
+msgstr ""
+
+msgid "_Undo"
+msgstr ""
+
+msgid "_Undo %s"
+msgstr ""
+
+msgid "_Unoptimize"
+msgstr ""
+
+msgid "_Update"
+msgstr ""
+
+msgid "_Upper border"
+msgstr ""
+
+msgid "_Use GLib types (guint8*)"
+msgstr ""
+
+msgid "_Use cellspan"
+msgstr ""
+
+msgid "_Use delay entered above for all frames"
+msgstr ""
+
+msgid "_Use double-sized grab handles"
+msgstr ""
+
+msgid "_Use quality settings from original image"
+msgstr ""
+
+msgid "_Use the (invisible) bottom layer as the base"
+msgstr ""
+
+msgid "_Use this value only for a frame which delay is not specified."
+msgstr ""
+
+msgid "_Use this value only for a frame which size is not specified."
+msgstr ""
+
+msgid "_Value"
+msgstr ""
+
+msgid "_Value:"
+msgstr ""
+
+msgid "_Van Gogh (LIC)..."
+msgstr ""
+
+msgid "_Variation:"
+msgstr ""
+
+msgid "_Vert. spacing:"
+msgstr ""
+
+msgid "_Vertical"
+msgstr ""
+
+msgid "_Vertical style:"
+msgstr ""
+
+msgid "_Vertical:"
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_Voronoi"
+msgstr ""
+
+msgid "_Warp..."
+msgstr ""
+
+msgid "_Web Site"
+msgstr ""
+
+msgid "_White"
+msgstr ""
+
+msgid "_White level:"
+msgstr ""
+
+msgid "_Width"
+msgstr ""
+
+msgid "_Width (pixels):"
+msgstr ""
+
+msgid "_Width:"
+msgstr ""
+
+msgid "_With white noise"
+msgstr ""
+
+msgid "_Wrap"
+msgstr ""
+
+msgid "_Write hot spot values"
+msgstr ""
+
+msgid "_X offset:"
+msgstr ""
+
+msgid "_X ratio:"
+msgstr ""
+
+msgid "_X resolution:"
+msgstr ""
+
+msgid "_X10 format bitmap"
+msgstr ""
+
+msgid "_X:"
+msgstr ""
+
+msgid "_Y offset:"
+msgstr ""
+
+msgid "_Y ratio:"
+msgstr ""
+
+msgid "_Y resolution:"
+msgstr ""
+
+msgid "_Y:"
+msgstr ""
+
+msgid "_Yellow:"
+msgstr ""
+
+msgid "_Z:"
+msgstr ""
+
+msgid "_Zealous Crop"
+msgstr ""
+
+msgid "_Zoom"
+msgstr ""
+
+msgid "_Zoom To"
+msgstr ""
+
+msgid "_Zoom:"
+msgstr ""
+
+msgctxt "align-style"
+msgid "None"
+msgstr ""
+
+msgid "alpha"
+msgstr ""
+
+msgctxt "antialiasing"
+msgid "None"
+msgstr ""
+
+msgid "black"
+msgstr ""
+
+msgid "blue"
+msgstr ""
+
+msgid "blueness-cb470"
+msgstr ""
+
+msgid "blueness-cb709"
+msgstr ""
+
+msgid "bzip archive"
+msgstr ""
+
+msgctxt "center-mode"
+msgid "None"
+msgstr ""
+
+msgctxt "checkbutton"
+msgid "Snap to grid"
+msgstr ""
+
+msgctxt "cml-composition"
+msgid "None"
+msgstr ""
+
+msgctxt "color-function"
+msgid "None"
+msgstr ""
+
+msgctxt "compression"
+msgid "None"
+msgstr ""
+
+msgid "cyan"
+msgstr ""
+
+msgid "cyan-k"
+msgstr ""
+
+msgid "e-_mail"
+msgstr ""
+
+msgctxt "email-address"
+msgid "_From:"
+msgstr ""
+
+msgctxt "email-address"
+msgid "_To:"
+msgstr ""
+
+msgid "green"
+msgstr ""
+
+msgid "gzip archive"
+msgstr ""
+
+msgid "hue"
+msgstr ""
+
+msgid "illegal bpp value in image: %hhu"
+msgstr ""
+
+msgid ""
+"illegal image dimensions: width: %d, horizontal offset: %d, height: %d, "
+"vertical offset: %d"
+msgstr ""
+
+msgid "invalid formatted GFlare file: %s\n"
+msgstr ""
+
+msgid "is not a CEL image file"
+msgstr ""
+
+msgid "k(1-x^p)"
+msgstr ""
+
+msgid "k(1-x^p) stepped"
+msgstr ""
+
+msgid "kx^p"
+msgstr ""
+
+msgid "kx^p stepped"
+msgstr ""
+
+msgid "k{x(1-x)}^p"
+msgstr ""
+
+msgid "k{x(1-x)}^p stepped"
+msgstr ""
+
+msgctxt "light-source"
+msgid "None"
+msgstr ""
+
+msgid "lightness"
+msgstr ""
+
+msgid "luma-y470"
+msgstr ""
+
+msgid "luma-y709"
+msgstr ""
+
+msgid "magenta"
+msgstr ""
+
+msgid "magenta-k"
+msgstr ""
+
+msgid "milliseconds"
+msgstr ""
+
+msgid "not found %s in gflares_list"
+msgstr ""
+
+msgid "pixels"
+msgstr ""
+
+msgid "pixels from _top"
+msgstr ""
+
+msgid "pixels from l_eft"
+msgstr ""
+
+msgid "pixels/%a"
+msgstr ""
+
+msgid "red"
+msgstr ""
+
+msgid "redness-cr470"
+msgstr ""
+
+msgid "redness-cr709"
+msgstr ""
+
+msgid "saturation"
+msgstr ""
+
+msgctxt "search"
+msgid "_Next"
+msgstr ""
+
+msgctxt "search"
+msgid "_Previous"
+msgstr ""
+
+msgid "seconds"
+msgstr ""
+
+msgid "sin^p, stepped"
+msgstr ""
+
+msgid "sin^p-based function"
+msgstr ""
+
+msgid "some sort of error with the file extension or lack thereof"
+msgstr ""
+
+msgid "there is no image chunk in \"%s\"."
+msgstr ""
+
+msgid "value"
+msgstr ""
+
+msgctxt "web-page"
+msgid "Default"
+msgstr ""
+
+msgid "x (pixels)"
+msgstr ""
+
+msgid "y (pixels)"
+msgstr ""
+
+msgid "yellow"
+msgstr ""
+
+msgid "yellow-k"
+msgstr ""

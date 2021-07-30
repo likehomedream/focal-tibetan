@@ -1,0 +1,2601 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugzilla.redhat.com/bugzilla\n"
+"PO-Revision-Date: 2018-04-17 12:49+0000\n"
+"Last-Translator: Christopher Meng <i@cicku.me>\n"
+"Language-Team: Chinese (China) (http://www.transifex.com/projects/p/system-config-printer/language/zh_CN/)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:34+0000\n"
+
+msgid ""
+"\n"
+"(%s)"
+msgstr ""
+
+msgid " (Current)"
+msgstr ""
+
+msgid " (recommended)"
+msgstr ""
+
+msgid "%d days ago"
+msgstr ""
+
+msgid "%d documents queued"
+msgstr ""
+
+msgid "%d hours ago"
+msgstr ""
+
+msgid "%d minutes ago"
+msgstr ""
+
+msgid "%d weeks ago"
+msgstr ""
+
+msgid "%s network printer via DNS-SD"
+msgstr ""
+
+msgid ", "
+msgstr ""
+
+msgid "-- No matches found --"
+msgstr ""
+
+msgid "-- Select from search results --"
+msgstr ""
+
+msgid "0"
+msgstr ""
+
+msgid "1"
+msgstr ""
+
+msgid "1 document queued"
+msgstr ""
+
+msgid "10.00"
+msgstr ""
+
+msgid "100"
+msgstr ""
+
+msgid "1000"
+msgstr ""
+
+msgid "1200 dpi, photo, black + color cartridge, photo paper"
+msgstr ""
+
+msgid "300 dpi, color, black + color cartridge"
+msgstr ""
+
+msgid "300 dpi, draft, color, black + color cartridge"
+msgstr ""
+
+msgid "300 dpi, draft, grayscale, black + color cartridge"
+msgstr ""
+
+msgid "300 dpi, grayscale, black + color cartridge"
+msgstr ""
+
+msgid "3x5 inch index card"
+msgstr ""
+
+msgid "50"
+msgstr ""
+
+msgid "5x8 inch index card"
+msgstr ""
+
+msgid "6.40"
+msgstr ""
+
+msgid "600 dpi, color, black + color cartridge"
+msgstr ""
+
+msgid "600 dpi, color, black + color cartridge, photo paper, normal"
+msgstr ""
+
+msgid "600 dpi, grayscale, black + color cartridge"
+msgstr ""
+
+msgid "600 dpi, photo, black + color cartridge, photo paper"
+msgstr ""
+
+msgid "<b>Authentication</b>"
+msgstr ""
+
+msgid "<b>Banner</b>"
+msgstr ""
+
+msgid "<b>Basic Server Settings</b>"
+msgstr ""
+
+msgid "<b>Browse servers</b>"
+msgstr ""
+
+msgid "<b>Common Options</b>"
+msgstr ""
+
+msgid "<b>Description</b>"
+msgstr ""
+
+msgid "<b>Description</b> (optional)"
+msgstr ""
+
+msgid "<b>Enter device URI</b>"
+msgstr ""
+
+msgid "<b>Image Options</b>"
+msgstr ""
+
+msgid "<b>Ink/Toner Levels</b>"
+msgstr ""
+
+msgid "<b>Job history</b>"
+msgstr ""
+
+msgid "<b>License Terms</b>"
+msgstr ""
+
+msgid "<b>Location of the LPD network printer</b>"
+msgstr ""
+
+msgid "<b>Location of the network printer</b>"
+msgstr ""
+
+msgid "<b>Location</b> (optional)"
+msgstr ""
+
+msgid "<b>Network Printer</b>"
+msgstr ""
+
+msgid "<b>Note</b>"
+msgstr ""
+
+msgid "<b>Other Options (Advanced)</b>"
+msgstr ""
+
+msgid "<b>Output Quality</b>"
+msgstr ""
+
+msgid "<b>Policies</b>"
+msgstr ""
+
+msgid "<b>Printer Name</b>"
+msgstr ""
+
+msgid "<b>SMB Printer</b>"
+msgstr ""
+
+msgid "<b>Select Driver</b>"
+msgstr ""
+
+msgid "<b>Settings of the serial port</b>"
+msgstr ""
+
+msgid "<b>Settings</b>"
+msgstr ""
+
+msgid "<b>State</b>"
+msgstr ""
+
+msgid "<b>Status Messages</b>"
+msgstr ""
+
+msgid "<b>Tests and Maintenance</b>"
+msgstr ""
+
+msgid "<b>Text Options</b>"
+msgstr ""
+
+msgid ""
+"<i>Not published\n"
+"See server settings</i>"
+msgstr ""
+
+msgid "<i>Opening connection to %s</i>"
+msgstr ""
+
+msgid "<i>smb://[workgroup/]server[:port]/printer</i>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Choose Class Members</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Choose Driver</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Connecting to CUPS server</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Describe Printer</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Existing Settings</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Installable Options</span>"
+msgstr ""
+
+msgid "<span weight=\"bold\" size=\"larger\">Select Device</span>"
+msgstr ""
+
+msgid "A CUPS configuration tool."
+msgstr ""
+
+msgid "A printer connected to a USB port."
+msgstr ""
+
+msgid "A printer connected to the parallel port."
+msgstr ""
+
+msgid "A printer connected via Bluetooth."
+msgstr ""
+
+msgid "A6 with tear-off tab"
+msgstr ""
+
+msgid "Abort job"
+msgstr ""
+
+msgid "Aborted"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Accepting jobs"
+msgstr ""
+
+msgid "Access Control"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add or Remove Members"
+msgstr ""
+
+msgid "Adjust Firewall"
+msgstr ""
+
+msgid "Adjust server settings"
+msgstr ""
+
+msgid "Adjust the firewall now to allow all incoming IPP connections?"
+msgstr ""
+
+msgid "Adjustment"
+msgstr ""
+
+msgid "Advanced Server Settings"
+msgstr ""
+
+msgid "All files (*)"
+msgstr ""
+
+msgid "Allow _remote administration"
+msgstr ""
+
+msgid "Allow _users to cancel any job (not just their own)"
+msgstr ""
+
+msgid "Allow all incoming IPP Browse packets"
+msgstr ""
+
+msgid "Allow all incoming SMB/CIFS browse packets"
+msgstr ""
+
+msgid "Allow all incoming mDNS traffic"
+msgstr ""
+
+msgid "Allow printing for everyone except these users:"
+msgstr ""
+
+msgid "Allow printing from the _Internet"
+msgstr ""
+
+msgid ""
+"Although one or more printers are marked as being shared, this print server "
+"is not exporting shared printers to the network."
+msgstr ""
+
+msgid "AppSocket/HP JetDirect"
+msgstr ""
+
+msgid "Authenticated"
+msgstr ""
+
+msgid "Authentication"
+msgstr ""
+
+msgid "Authentication (%s)"
+msgstr ""
+
+msgid "Authentication required for printing document `%s' (job %d)"
+msgstr ""
+
+msgid "Auto Select"
+msgstr ""
+
+msgid "Auto Source"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
+msgid "Automatic rotation"
+msgstr ""
+
+msgid "Bad request"
+msgstr ""
+
+msgid "Bale"
+msgstr ""
+
+msgid "Baud Rate"
+msgstr ""
+
+msgid "Best"
+msgstr ""
+
+msgid "Best quality (color on photo paper)"
+msgstr ""
+
+msgid "Bind"
+msgstr ""
+
+msgid "Bind (bottom)"
+msgstr ""
+
+msgid "Bind (left)"
+msgstr ""
+
+msgid "Bind (right)"
+msgstr ""
+
+msgid "Bind (top)"
+msgstr ""
+
+msgid "Black Only Grayscale"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Booklet maker"
+msgstr ""
+
+msgid "Bottom margin:"
+msgstr ""
+
+msgid "Bottom to top, left to right"
+msgstr ""
+
+msgid "Bottom to top, right to left"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Brightness:"
+msgstr ""
+
+msgid "Browse..."
+msgstr ""
+
+msgid "Busy"
+msgstr ""
+
+msgid "CD or DVD 120mm"
+msgstr ""
+
+msgid "CD or DVD 80mm"
+msgstr ""
+
+msgid "CD or DVD tray"
+msgstr ""
+
+msgid "CUPS Service Stopped"
+msgstr ""
+
+msgid "CUPS _server:"
+msgstr ""
+
+msgid "CUPS server error"
+msgstr ""
+
+msgid "CUPS server error (%s)"
+msgstr ""
+
+msgid "CUPS test page"
+msgstr ""
+
+msgid "Cancel All Jobs"
+msgstr ""
+
+msgid "Cancel Job"
+msgstr ""
+
+msgid "Cancel Jobs"
+msgstr ""
+
+msgid "Cancel selected jobs"
+msgstr ""
+
+msgid "Canceled"
+msgstr ""
+
+msgid "Cannot Rename"
+msgstr ""
+
+msgid "Cannot start service on remote server"
+msgstr ""
+
+msgid "Change Device URI"
+msgstr ""
+
+msgid "Change Driver"
+msgstr ""
+
+msgid "Change PPD"
+msgstr ""
+
+msgid "Change..."
+msgstr ""
+
+msgid "Characters per inch:"
+msgstr ""
+
+msgid "Check Server Firewall"
+msgstr ""
+
+msgid "Choose Device"
+msgstr ""
+
+msgid "Choose Network Printer"
+msgstr ""
+
+msgid "Choose Printer"
+msgstr ""
+
+msgid "Choose a different CUPS server"
+msgstr ""
+
+msgid "Class"
+msgstr ""
+
+msgid "Class Members"
+msgstr ""
+
+msgid "Classified"
+msgstr ""
+
+msgid "Clean Print Heads"
+msgstr ""
+
+msgid "Click 'Forward' to begin."
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Close this window"
+msgstr ""
+
+msgid "Co_nflicts"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color Mode"
+msgstr ""
+
+msgid "Color Model"
+msgstr ""
+
+msgid "Color Precision"
+msgstr ""
+
+msgid "Color Settings"
+msgstr ""
+
+msgid "Color Settings (Advanced)"
+msgstr ""
+
+msgid "Columns:"
+msgstr ""
+
+msgid "Comment"
+msgstr ""
+
+msgid "Comments..."
+msgstr ""
+
+msgid "Completed"
+msgstr ""
+
+msgid "Completed jobs will no longer be available for re-printing."
+msgstr ""
+
+msgid "Confidential"
+msgstr ""
+
+msgid "Configure"
+msgstr ""
+
+msgid "Configure printers"
+msgstr ""
+
+msgid "Configuring new printer"
+msgstr ""
+
+msgid "Conflicts with:"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connect to CUPS server"
+msgstr ""
+
+msgid "Connected to %s"
+msgstr ""
+
+msgid "Connecting to CUPS server"
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connections"
+msgstr ""
+
+msgid "Contrast"
+msgstr ""
+
+msgid "Controlled by 'Printout mode'"
+msgstr ""
+
+msgid "Copies"
+msgstr ""
+
+msgid "Copies:"
+msgstr ""
+
+msgid "Copyright © 2006-2012 Red Hat, Inc."
+msgstr ""
+
+msgid "Cover"
+msgstr ""
+
+msgid "Cover open"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "DTR/DSR (Hardware)"
+msgstr ""
+
+msgid "Dark (4)"
+msgstr ""
+
+msgid "Data Bits"
+msgstr ""
+
+msgid "Database error"
+msgstr ""
+
+msgid "Daytime"
+msgstr ""
+
+msgid "Debug logging enabled."
+msgstr ""
+
+msgid "Debug logging was already enabled."
+msgstr ""
+
+msgid "Debugging"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default behavior"
+msgstr ""
+
+msgid "Delete Job"
+msgstr ""
+
+msgid "Delete Jobs"
+msgstr ""
+
+msgid "Delete selected jobs"
+msgstr ""
+
+msgid "Deny printing for everyone except these users:"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Description:"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device URI"
+msgstr ""
+
+msgid "Device URI:"
+msgstr ""
+
+msgid "Device description."
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Diagnostic Output (Advanced)"
+msgstr ""
+
+msgid "Did the marked print jobs print correctly?"
+msgstr ""
+
+msgid "Distributable"
+msgstr ""
+
+msgid "Do It Later"
+msgstr ""
+
+msgid "Do not preserve job history"
+msgstr ""
+
+msgid "Do you really want to cancel these jobs?"
+msgstr ""
+
+msgid "Do you really want to cancel this job?"
+msgstr ""
+
+msgid "Do you really want to delete these jobs?"
+msgstr ""
+
+msgid "Do you really want to delete this job?"
+msgstr ""
+
+msgid "Do you want to set this as the system-wide default printer?"
+msgstr ""
+
+msgid "Document"
+msgstr ""
+
+msgid "Document Print Status (%s)"
+msgstr ""
+
+msgid "Document `%s' has been sent to `%s' for printing."
+msgstr ""
+
+msgid "Document printed"
+msgstr ""
+
+msgid "Domain:"
+msgstr ""
+
+msgid "Door open"
+msgstr ""
+
+msgid "Download Printer Driver"
+msgstr ""
+
+msgid "Downloadable Drivers"
+msgstr ""
+
+msgid "Downloadable drivers"
+msgstr ""
+
+msgid "Draft"
+msgstr ""
+
+msgid "Draft (Color cartridge)"
+msgstr ""
+
+msgid "Draft (auto-detect-paper type)"
+msgstr ""
+
+msgid "Draft grayscale (auto-detect-paper type)"
+msgstr ""
+
+msgid "Driver details"
+msgstr ""
+
+msgid "Drivers"
+msgstr ""
+
+msgid "Duplicate Printer"
+msgstr ""
+
+msgid "E_nabled"
+msgstr ""
+
+msgid "Edge stitch"
+msgstr ""
+
+msgid "Edge stitch (bottom)"
+msgstr ""
+
+msgid "Edge stitch (left)"
+msgstr ""
+
+msgid "Edge stitch (right)"
+msgstr ""
+
+msgid "Edge stitch (top)"
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "Enable Debugging"
+msgstr ""
+
+msgid ""
+"Enable the 'Publish shared printers connected to this system' option in the "
+"server settings using the printing administration tool."
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Ending Banner:"
+msgstr ""
+
+msgid "Enter URI"
+msgstr ""
+
+msgid "Enter hostname"
+msgstr ""
+
+msgid "Envelope"
+msgstr ""
+
+msgid "Envelope feeder"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Error Policy:"
+msgstr ""
+
+msgid "Error log messages"
+msgstr ""
+
+msgid "Error saving file"
+msgstr ""
+
+msgid "Error submitting test page"
+msgstr ""
+
+msgid "Errors are listed below:"
+msgstr ""
+
+msgid "Even"
+msgstr ""
+
+msgid "Evening"
+msgstr ""
+
+msgid "External Tray"
+msgstr ""
+
+msgid "Extra Dark (5)"
+msgstr ""
+
+msgid "Extra Light (1)"
+msgstr ""
+
+msgid "Failed to download PPD."
+msgstr ""
+
+msgid "Failed to read PPD file.  Possible reason follows:"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Fast Only"
+msgstr ""
+
+msgid "Fax"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find Network Printer"
+msgstr ""
+
+msgid "Find driver"
+msgstr ""
+
+msgid "Finishings:"
+msgstr ""
+
+msgid "Flow Control"
+msgstr ""
+
+msgid "Fold"
+msgstr ""
+
+msgid ""
+"For example:\n"
+"ipp://cups-server/printers/printer-queue\n"
+"ipp://printer.mydomain/ipp"
+msgstr ""
+
+msgid ""
+"For the printer you have selected there are drivers available for download."
+msgstr ""
+
+msgid "Free software"
+msgstr ""
+
+msgid "Gamma:"
+msgstr ""
+
+msgid "Gathering information"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "Graphics:"
+msgstr ""
+
+msgid "Grayscale"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "HP Linux Imaging and Printing (HPLIP)"
+msgstr ""
+
+msgid ""
+"HPLIP software driving a fax machine, or the fax function of a multi-"
+"function device."
+msgstr ""
+
+msgid ""
+"HPLIP software driving a printer, or the printer function of a multi-"
+"function device."
+msgstr ""
+
+msgid "HTTP"
+msgstr ""
+
+msgid "Hardware Abstraction Layer (HAL)"
+msgstr ""
+
+msgid "Held"
+msgstr ""
+
+msgid "Held for authentication"
+msgstr ""
+
+msgid "Held until %s"
+msgstr ""
+
+msgid "Held until day-time"
+msgstr ""
+
+msgid "Held until evening"
+msgstr ""
+
+msgid "Held until night-time"
+msgstr ""
+
+msgid "Held until second shift"
+msgstr ""
+
+msgid "Held until third shift"
+msgstr ""
+
+msgid "Held until weekend"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "High Resolution "
+msgstr ""
+
+msgid "High quality (auto-detect-paper type)"
+msgstr ""
+
+msgid "High quality grayscale (auto-detect-paper type)"
+msgstr ""
+
+msgid "High-Resolution Photo"
+msgstr ""
+
+msgid "Hold selected jobs"
+msgstr ""
+
+msgid "Hold until:"
+msgstr ""
+
+msgid "Host:"
+msgstr ""
+
+msgid "Hue adjustment:"
+msgstr ""
+
+msgid "Human-readable description such as \"HP LaserJet with Duplexer\""
+msgstr ""
+
+msgid "Human-readable location such as \"Lab 1\""
+msgstr ""
+
+msgid "IPP"
+msgstr ""
+
+msgid "Idle"
+msgstr ""
+
+msgid "Incorrect Page Size"
+msgstr ""
+
+msgid "Indefinite"
+msgstr ""
+
+msgid "Information"
+msgstr ""
+
+msgid "Ink Type"
+msgstr ""
+
+msgid "Ink empty"
+msgstr ""
+
+msgid "Ink low"
+msgstr ""
+
+msgid "Ink/Toner Levels"
+msgstr ""
+
+msgid "InputSlot"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Install driver"
+msgstr ""
+
+msgid "Install printer driver"
+msgstr ""
+
+msgid "Installable Options"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Installed Options"
+msgstr ""
+
+msgid "Installing ..."
+msgstr ""
+
+msgid "Installing driver %s"
+msgstr ""
+
+msgid "Internal Tray 2"
+msgstr ""
+
+msgid "Internet Printing Protocol (http)"
+msgstr ""
+
+msgid "Internet Printing Protocol (https)"
+msgstr ""
+
+msgid "Internet Printing Protocol (ipp)"
+msgstr ""
+
+msgid "Invalid PPD File"
+msgstr ""
+
+msgid "Is the printer connected to this computer or available on the network?"
+msgstr ""
+
+msgid "It is not possible to connect to the server."
+msgstr ""
+
+msgid "JetDirect"
+msgstr ""
+
+msgid "Job"
+msgstr ""
+
+msgid "Job Options"
+msgstr ""
+
+msgid "Job attributes"
+msgstr ""
+
+msgid "Job offset"
+msgstr ""
+
+msgid "Job priority:"
+msgstr ""
+
+msgid "Keep Printing"
+msgstr ""
+
+msgid "LPD"
+msgstr ""
+
+msgid "LPD/LPR Host or Printer"
+msgstr ""
+
+msgid "LPD/LPR queue"
+msgstr ""
+
+msgid "LPD/LPR queue '%s'"
+msgstr ""
+
+msgid "LPT #1"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Landscape (90 degrees)"
+msgstr ""
+
+msgid "Large capacity tray"
+msgstr ""
+
+msgid "Left margin:"
+msgstr ""
+
+msgid "Left to right, bottom to top"
+msgstr ""
+
+msgid "Left to right, top to bottom"
+msgstr ""
+
+msgid "License:"
+msgstr ""
+
+msgid "Light (2)"
+msgstr ""
+
+msgid "Line art:"
+msgstr ""
+
+msgid "Lines per inch:"
+msgstr ""
+
+msgid "Local Driver"
+msgstr ""
+
+msgid "Local printer detected by the Hardware Abstraction Layer (HAL)."
+msgstr ""
+
+msgid "Locally connected printer"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Location:"
+msgstr ""
+
+msgid "Long Edge"
+msgstr ""
+
+msgid "Long edge (standard)"
+msgstr ""
+
+msgid "Lower tray"
+msgstr ""
+
+msgid "Maintenance command submitted as job %d"
+msgstr ""
+
+msgid "Make and Model:"
+msgstr ""
+
+msgid "Make and model:"
+msgstr ""
+
+msgid "Makes"
+msgstr ""
+
+msgid "Manual Feed"
+msgstr ""
+
+msgid "Manual feeder"
+msgstr ""
+
+msgid "Manufacturer"
+msgstr ""
+
+msgid "Manufacturer / Model"
+msgstr ""
+
+msgid "Marker levels are not reported for this printer."
+msgstr ""
+
+msgid "Media source"
+msgstr ""
+
+msgid "Media:"
+msgstr ""
+
+msgid "Medium (3)"
+msgstr ""
+
+msgid "Members"
+msgstr ""
+
+msgid "Members of this class"
+msgstr ""
+
+msgid "Message"
+msgstr ""
+
+msgid "Mirror"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Missing Printer Driver"
+msgstr ""
+
+msgid "Missing driver"
+msgstr ""
+
+msgid "Missing printer driver"
+msgstr ""
+
+msgid "Models"
+msgstr ""
+
+msgid "More"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Network Printer"
+msgstr ""
+
+msgid "Network class (discovered)"
+msgstr ""
+
+msgid "Network print share"
+msgstr ""
+
+msgid "Network printer"
+msgstr ""
+
+msgid "Network printer (discovered)"
+msgstr ""
+
+msgid "Network printer via DNS-SD"
+msgstr ""
+
+msgid "New Class"
+msgstr ""
+
+msgid "New Printer"
+msgstr ""
+
+msgid "New name for the printer"
+msgstr ""
+
+msgid "Night"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Installable Options"
+msgstr ""
+
+msgid "No Print Shares"
+msgstr ""
+
+msgid "No documents queued"
+msgstr ""
+
+msgid "No driver for this printer."
+msgstr ""
+
+msgid "No hold"
+msgstr ""
+
+msgid "No printer driver for %s."
+msgstr ""
+
+msgid "No printer was found at that address."
+msgstr ""
+
+msgid "No support contacts known"
+msgstr ""
+
+msgid ""
+"No system journal entries were found. This may be because you are not an "
+"administrator. To fetch journal entries please run this command:"
+msgstr ""
+
+msgid "No, I do not accept this license"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Normal (Color cartridge)"
+msgstr ""
+
+msgid "Normal (auto-detect-paper type)"
+msgstr ""
+
+msgid "Normal Color"
+msgstr ""
+
+msgid "Normal Grayscale"
+msgstr ""
+
+msgid "Normal grayscale (auto-detect-paper type)"
+msgstr ""
+
+msgid "Normal quality (color on photo paper)"
+msgstr ""
+
+msgid "Not Installed"
+msgstr ""
+
+msgid "Not authorized"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "Not connected?"
+msgstr ""
+
+msgid "Not found"
+msgstr ""
+
+msgid "Not listed"
+msgstr ""
+
+msgid "Not possible"
+msgstr ""
+
+msgid "Not specified."
+msgstr ""
+
+msgid ""
+"Now print a test page.  If you are having problems printing a specific "
+"document, print that document now and mark the print job below."
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "ON"
+msgstr ""
+
+msgid "ON (Long-edged Binding)"
+msgstr ""
+
+msgid "ON (Short-edged Binding)"
+msgstr ""
+
+msgid "Odd"
+msgstr ""
+
+msgid "Off"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "One-sided"
+msgstr ""
+
+msgid "OpenPrinting"
+msgstr ""
+
+msgid "Operation Policy:"
+msgstr ""
+
+msgid "Operation canceled"
+msgstr ""
+
+msgid "Orientation:"
+msgstr ""
+
+msgid "Others"
+msgstr ""
+
+msgid "Out of paper"
+msgstr ""
+
+msgid "Output Mode"
+msgstr ""
+
+msgid "Output bin:"
+msgstr ""
+
+msgid "Output order:"
+msgstr ""
+
+msgid "PPD error"
+msgstr ""
+
+msgid "Page size"
+msgstr ""
+
+msgid "PageSize"
+msgstr ""
+
+msgid "Pages per side layout:"
+msgstr ""
+
+msgid "Pages per side:"
+msgstr ""
+
+msgid "Paper Size"
+msgstr ""
+
+msgid "Paper Type"
+msgstr ""
+
+msgid "Paper low"
+msgstr ""
+
+msgid "Paper source"
+msgstr ""
+
+msgid "Parallel Port"
+msgstr ""
+
+msgid "Parity"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Patented algorithms"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Photo (on photo paper)"
+msgstr ""
+
+msgid "Photo Only"
+msgstr ""
+
+msgid "Photo or 4x6 inch index card"
+msgstr ""
+
+msgid "Photo or 5x7 inch index card"
+msgstr ""
+
+msgid "Photo tray"
+msgstr ""
+
+msgid "Photo with tear-off tab"
+msgstr ""
+
+msgid "Photo:"
+msgstr ""
+
+msgid "Please Wait"
+msgstr ""
+
+msgid ""
+"Please check to see if a firewall or router configuration is blocking TCP "
+"port %d on server '%s'."
+msgstr ""
+
+msgid ""
+"Please enter as many details as you can about the network address of this "
+"printer."
+msgstr ""
+
+msgid ""
+"Please select the device you want to use from the list below. If it does not"
+" appear in the list, select 'Not listed'."
+msgstr ""
+
+msgid ""
+"Please select the network printer you are trying to use from the list below."
+" If it does not appear in the list, select 'Not listed'."
+msgstr ""
+
+msgid ""
+"Please select the printer you are trying to use from the list below. If it "
+"does not appear in the list, select 'Not listed'."
+msgstr ""
+
+msgid "Please wait"
+msgstr ""
+
+msgid "Please wait..."
+msgstr ""
+
+msgid "Policies"
+msgstr ""
+
+msgid "Port number:"
+msgstr ""
+
+msgid "Portrait (no rotation)"
+msgstr ""
+
+msgid ""
+"PostScript Printer Description (PPD) files can often be found on the driver "
+"disk that comes with the printer. For PostScript printers they are often "
+"part of the Windows<sup>®</sup> driver."
+msgstr ""
+
+msgid ""
+"PostScript Printer Description files (*.ppd, *.PPD, *.ppd.gz, *.PPD.gz, "
+"*.PPD.GZ)"
+msgstr ""
+
+msgid "Preserve job files (allow reprinting)"
+msgstr ""
+
+msgid "Preserve job history but not files"
+msgstr ""
+
+msgid "Pretty print"
+msgstr ""
+
+msgid "Print Density"
+msgstr ""
+
+msgid "Print Error"
+msgstr ""
+
+msgid "Print Quality"
+msgstr ""
+
+msgid "Print Queue Applet"
+msgstr ""
+
+msgid "Print Self-Test Page"
+msgstr ""
+
+msgid "Print Settings"
+msgstr ""
+
+msgid "Print Share Inaccessible"
+msgstr ""
+
+msgid "Print Share Verified"
+msgstr ""
+
+msgid "Print Test Page"
+msgstr ""
+
+msgid "Print job page size:"
+msgstr ""
+
+msgid "Print quality:"
+msgstr ""
+
+msgid "Print test page"
+msgstr ""
+
+msgid "Printer"
+msgstr ""
+
+msgid "Printer '%s' has no ink left."
+msgstr ""
+
+msgid "Printer '%s' has no toner left."
+msgstr ""
+
+msgid "Printer '%s' is currently off-line."
+msgstr ""
+
+msgid "Printer '%s' is low on ink."
+msgstr ""
+
+msgid "Printer '%s' is low on paper."
+msgstr ""
+
+msgid "Printer '%s' is low on toner."
+msgstr ""
+
+msgid "Printer '%s' is out of paper."
+msgstr ""
+
+msgid "Printer '%s' may not be connected."
+msgstr ""
+
+msgid ""
+"Printer '%s' requires the %s package but it is not currently installed."
+msgstr ""
+
+msgid ""
+"Printer '%s' requires the '%s' program but it is not currently installed."
+msgstr ""
+
+msgid ""
+"Printer '%s' requires the '%s' program but it is not currently installed.  "
+"Please install it before using this printer."
+msgstr ""
+
+msgid "Printer '%s': '%s'."
+msgstr ""
+
+msgid "Printer Location"
+msgstr ""
+
+msgid "Printer Options"
+msgstr ""
+
+msgid "Printer Properties"
+msgstr ""
+
+msgid "Printer Properties - '%s' on %s"
+msgstr ""
+
+msgid "Printer State:"
+msgstr ""
+
+msgid "Printer added"
+msgstr ""
+
+msgid "Printer configuration error"
+msgstr ""
+
+msgid "Printer error"
+msgstr ""
+
+msgid "Printer model:"
+msgstr ""
+
+msgid "Printer off-line"
+msgstr ""
+
+msgid "Printer page size:"
+msgstr ""
+
+msgid "Printer report"
+msgstr ""
+
+msgid "Printer resolution:"
+msgstr ""
+
+msgid "Printer warning"
+msgstr ""
+
+msgid "Printers"
+msgstr ""
+
+msgid "Printers - %s"
+msgstr ""
+
+msgid "Printing Quality"
+msgstr ""
+
+msgid ""
+"Printing service not available.  Start the service on this computer or "
+"connect to another server."
+msgstr ""
+
+msgid "Printing troubleshooter"
+msgstr ""
+
+msgid "Printout mode"
+msgstr ""
+
+msgid "Probe"
+msgstr ""
+
+msgid "Problems?"
+msgstr ""
+
+msgid "Proceed anyway?"
+msgstr ""
+
+msgid "Processing"
+msgstr ""
+
+msgid "Prompt user if authentication is required"
+msgstr ""
+
+msgid "Provide PPD file"
+msgstr ""
+
+msgid "Publish Shared Printers"
+msgstr ""
+
+msgid "Punch"
+msgstr ""
+
+msgid "Quality"
+msgstr ""
+
+msgid "Queue Not Enabled"
+msgstr ""
+
+msgid "Queue Not Shared"
+msgstr ""
+
+msgid "Queue Rejecting Jobs"
+msgstr ""
+
+msgid "Queue:"
+msgstr ""
+
+msgid "RTS/CTS (Hardware)"
+msgstr ""
+
+msgid "Raw Queue"
+msgstr ""
+
+msgid "Re_print"
+msgstr ""
+
+msgid "Re_trieve"
+msgstr ""
+
+msgid "Really delete class '%s'?"
+msgstr ""
+
+msgid "Really delete printer '%s'?"
+msgstr ""
+
+msgid "Really delete selected destinations?"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Refresh job list"
+msgstr ""
+
+msgid "Release selected jobs"
+msgstr ""
+
+msgid "Remember password"
+msgstr ""
+
+msgid "Remember to load paper of type '%s' into the printer first."
+msgstr ""
+
+msgid "Remote Address"
+msgstr ""
+
+msgid "Remote CUPS printer via DNS-SD"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Renaming will lose history"
+msgstr ""
+
+msgid "Reprint selected jobs"
+msgstr ""
+
+msgid "Request timeout"
+msgstr ""
+
+msgid "Require _encryption"
+msgstr ""
+
+msgid "Reset"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Resolution "
+msgstr ""
+
+msgid "Resolution, quality, ink type, media type"
+msgstr ""
+
+msgid "Retrieve Journal Entries"
+msgstr ""
+
+msgid "Retrieve selected jobs"
+msgstr ""
+
+msgid "Retry"
+msgstr ""
+
+msgid "Retry current job"
+msgstr ""
+
+msgid "Retry job"
+msgstr ""
+
+msgid "Reverse"
+msgstr ""
+
+msgid "Reverse landscape (270 degrees)"
+msgstr ""
+
+msgid "Reverse portrait (180 degrees)"
+msgstr ""
+
+msgid "Right margin:"
+msgstr ""
+
+msgid "Right to left, bottom to top"
+msgstr ""
+
+msgid "Right to left, top to bottom"
+msgstr ""
+
+msgid "SCSI"
+msgstr ""
+
+msgid "SMB"
+msgstr ""
+
+msgid "SMB Browser"
+msgstr ""
+
+msgid "Saddle stitch"
+msgstr ""
+
+msgid "Saturation:"
+msgstr ""
+
+msgid "Save File"
+msgstr ""
+
+msgid "Save _debugging information for troubleshooting"
+msgstr ""
+
+msgid "Scale to fit"
+msgstr ""
+
+msgid "Scaling:"
+msgstr ""
+
+msgid "Scanning..."
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search for a printer driver to download"
+msgstr ""
+
+msgid "Searching"
+msgstr ""
+
+msgid "Searching for drivers"
+msgstr ""
+
+msgid "Searching for printers"
+msgstr ""
+
+msgid "Searching..."
+msgstr ""
+
+msgid "Second shift"
+msgstr ""
+
+msgid "Secret"
+msgstr ""
+
+msgid "Select printer from database"
+msgstr ""
+
+msgid "Serial"
+msgstr ""
+
+msgid "Serial Port"
+msgstr ""
+
+msgid "Serial Port #1"
+msgstr ""
+
+msgid "Server IP address:"
+msgstr ""
+
+msgid "Server Not Exporting Printers"
+msgstr ""
+
+msgid "Server Settings"
+msgstr ""
+
+msgid "Server error"
+msgstr ""
+
+msgid "Server name:"
+msgstr ""
+
+msgid "Service framework not available"
+msgstr ""
+
+msgid "Set As De_fault"
+msgstr ""
+
+msgid "Set Default Printer"
+msgstr ""
+
+msgid "Set as my _personal default printer"
+msgstr ""
+
+msgid "Set as the _system-wide default printer"
+msgstr ""
+
+msgid "Set authentication details now"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Shared"
+msgstr ""
+
+msgid ""
+"Shared printers are not available to other people unless the 'Publish shared"
+" printers' option is enabled in the server settings."
+msgstr ""
+
+msgid "Short Edge"
+msgstr ""
+
+msgid "Short edge (flip)"
+msgstr ""
+
+msgid "Short name for this printer such as \"laserjet\""
+msgstr ""
+
+msgid "Show _completed jobs"
+msgstr ""
+
+msgid "Show completed jobs"
+msgstr ""
+
+msgid "Sides:"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Sorry!"
+msgstr ""
+
+msgid ""
+"Specify the default job options for this printer.  Jobs arriving at this "
+"print server will have these options added if they are not already set by "
+"the application."
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Standard Paper"
+msgstr ""
+
+msgid "Staple"
+msgstr ""
+
+msgid "Staple (bottom left)"
+msgstr ""
+
+msgid "Staple (bottom right)"
+msgstr ""
+
+msgid "Staple (top left)"
+msgstr ""
+
+msgid "Staple (top right)"
+msgstr ""
+
+msgid "Staple dual (bottom)"
+msgstr ""
+
+msgid "Staple dual (left)"
+msgstr ""
+
+msgid "Staple dual (right)"
+msgstr ""
+
+msgid "Staple dual (top)"
+msgstr ""
+
+msgid "Start Service"
+msgstr ""
+
+msgid "Starting Banner:"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Status Messages"
+msgstr ""
+
+msgid "Stop printer"
+msgstr ""
+
+msgid "Stopped"
+msgstr ""
+
+msgid "Submitted"
+msgstr ""
+
+msgid "Supplier:"
+msgstr ""
+
+msgid "Support:"
+msgstr ""
+
+msgid "System tray icon for managing print jobs"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Test Page"
+msgstr ""
+
+msgid "Test page submitted as job %d"
+msgstr ""
+
+msgid "Text:"
+msgstr ""
+
+msgid "The '%s' driver cannot be used with printer '%s %s'."
+msgstr ""
+
+msgid ""
+"The CUPS print spooler does not appear to be running.  To correct this, "
+"choose System->Administration->Services from the main menu and look for the "
+"'cups' service."
+msgstr ""
+
+msgid "The CUPS printer on the server is not shared."
+msgstr ""
+
+msgid ""
+"The PPD file for printer '%s' does not conform to the specification.  "
+"Possible reason follows:"
+msgstr ""
+
+msgid "The PPD file for this queue is damaged."
+msgstr ""
+
+msgid "The cover is open on printer '%s'."
+msgstr ""
+
+msgid "The door is open on printer '%s'."
+msgstr ""
+
+msgid ""
+"The firewall may need adjusting in order to detect network printers.  Adjust"
+" the firewall now?"
+msgstr ""
+
+msgid ""
+"The foomatic printer database contains various manufacturer provided "
+"PostScript Printer Description (PPD) files and also can generate PPD files "
+"for a large number of (non PostScript) printers. But in general manufacturer"
+" provided PPD files provide better access to the specific features of the "
+"printer."
+msgstr ""
+
+msgid ""
+"The next few screens will contain some questions about your problem with "
+"printing. Based on your answers a solution may be suggested."
+msgstr ""
+
+msgid ""
+"The page size for the print job was not the printer's default page size.  If"
+" this is not intentional it may cause alignment problems."
+msgstr ""
+
+msgid ""
+"The password may be incorrect, or the server may be configured to deny "
+"remote administration."
+msgstr ""
+
+msgid "The password may be incorrect."
+msgstr ""
+
+msgid "The printer called `%s' has been disabled."
+msgstr ""
+
+msgid "The printer's state message is: '%s'."
+msgstr ""
+
+msgid "The queue '%s' is not enabled."
+msgstr ""
+
+msgid "The queue '%s' is rejecting jobs."
+msgstr ""
+
+msgid "The reason given is: '%s'."
+msgstr ""
+
+msgid ""
+"The remote server did not accept the print job, most likely because the "
+"printer is not shared."
+msgstr ""
+
+msgid ""
+"There are conflicting options.\n"
+"Changes can only be applied after\n"
+"these conflicts are resolved."
+msgstr ""
+
+msgid "There are messages in the error log."
+msgstr ""
+
+msgid "There are no printers configured yet."
+msgstr ""
+
+msgid "There are no status messages for this printer."
+msgstr ""
+
+msgid "There are queued jobs."
+msgstr ""
+
+msgid "There are status messages associated with this queue."
+msgstr ""
+
+msgid "There is a missing print filter for printer '%s'."
+msgstr ""
+
+msgid "There is a problem on printer '%s'."
+msgstr ""
+
+msgid "There is a problem with the PPD file for printer '%s'."
+msgstr ""
+
+msgid ""
+"There is no obvious solution to this problem.  Your answers have been "
+"collected together with other useful information.  If you would like to "
+"report a bug, please include this information."
+msgstr ""
+
+msgid "There was a problem connecting to the CUPS server."
+msgstr ""
+
+msgid "There was a problem printing document `%s' (job %d): `%s'."
+msgstr ""
+
+msgid "There was a problem processing document `%s' (job %d)."
+msgstr ""
+
+msgid "There was a problem sending document `%s' (job %d) to the printer."
+msgstr ""
+
+msgid "There was an HTTP error: %s."
+msgstr ""
+
+msgid "There was an error during the CUPS operation: '%s'."
+msgstr ""
+
+msgid "There was an error saving the file:"
+msgstr ""
+
+msgid ""
+"There were no print shares found.  Please check that the Samba service is "
+"marked as trusted in your firewall configuration."
+msgstr ""
+
+msgid ""
+"These drivers do not come from your operating system supplier and will not "
+"be covered by their commercial support.  See the support and license terms "
+"of the driver's supplier."
+msgstr ""
+
+msgid "Third shift"
+msgstr ""
+
+msgid "This PPD is generated by foomatic."
+msgstr ""
+
+msgid ""
+"This driver supports additional hardware that may be installed in the "
+"printer."
+msgstr ""
+
+msgid ""
+"This is done by assuming that options with the same name do have the same "
+"meaning. Settings of options that are not present in the new PPD will be "
+"lost and options only present in the new PPD will be set to default."
+msgstr ""
+
+msgid "This may be due to the printer being disconnected or switched off."
+msgstr ""
+
+msgid "This print share is accessible."
+msgstr ""
+
+msgid "This print share is not accessible."
+msgstr ""
+
+msgid ""
+"This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.\n"
+"\n"
+"This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.\n"
+"\n"
+"You should have received a copy of the GNU General Public License along with this program; if not, write to the Free Software Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA."
+msgstr ""
+
+msgid ""
+"This step will enable debugging output from the CUPS scheduler.  This may "
+"cause the scheduler to restart.  Click the button below to enable debugging."
+msgstr ""
+
+msgid ""
+"This way all current option settings will be lost. The default settings of "
+"the new PPD will be used. "
+msgstr ""
+
+msgid "This will delete this class!"
+msgstr ""
+
+msgid "Time submitted"
+msgstr ""
+
+msgid "To add a new option, enter its name in the box below and click to add."
+msgstr ""
+
+msgid ""
+"To enable it, select the 'Enabled' checkbox in the 'Policies' tab for the "
+"printer in the printer administration tool."
+msgstr ""
+
+msgid ""
+"To make the queue accept jobs, select the 'Accepting Jobs' checkbox in the "
+"'Policies' tab for the printer in the printer administration tool."
+msgstr ""
+
+msgid ""
+"To start this tool, select System->Administration->Print Settings from the "
+"main menu."
+msgstr ""
+
+msgid "Toner empty"
+msgstr ""
+
+msgid "Toner low"
+msgstr ""
+
+msgid "Top margin:"
+msgstr ""
+
+msgid "Top secret"
+msgstr ""
+
+msgid "Top to bottom, left to right"
+msgstr ""
+
+msgid "Top to bottom, right to left"
+msgstr ""
+
+msgid "Transparency"
+msgstr ""
+
+msgid "Tray 1"
+msgstr ""
+
+msgid "Tray 2"
+msgstr ""
+
+msgid "Tray 3"
+msgstr ""
+
+msgid "Tray 4"
+msgstr ""
+
+msgid "Trim"
+msgstr ""
+
+msgid "Trouble-shooting Printing"
+msgstr ""
+
+msgid "Try to copy the option settings over from the old PPD. "
+msgstr ""
+
+msgid "Try to transfer the current settings"
+msgstr ""
+
+msgid "Two-Sided"
+msgstr ""
+
+msgid "Two-sided"
+msgstr ""
+
+msgid "Two-sided (long edge)"
+msgstr ""
+
+msgid "Two-sided (short edge)"
+msgstr ""
+
+msgid ""
+"Typically shows whether all jets on a print head are functioning and that "
+"the print feed mechanisms are working properly."
+msgstr ""
+
+msgid "USB"
+msgstr ""
+
+msgid "Unable to get queue details. Treating queue as raw."
+msgstr ""
+
+msgid "Unclassified"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Upgrade required"
+msgstr ""
+
+msgid "Upper tray"
+msgstr ""
+
+msgid "Use the new PPD (Postscript Printer Description) as is."
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Username:"
+msgstr ""
+
+msgid "Users"
+msgstr ""
+
+msgid ""
+"Usually print servers broadcast their queues. Specify print servers below to"
+" periodically ask for queues instead."
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "View Print _Queue"
+msgstr ""
+
+msgid "Warnings are listed below:"
+msgstr ""
+
+msgid "Weekend"
+msgstr ""
+
+msgid "Windows Printer via SAMBA"
+msgstr ""
+
+msgid ""
+"With this choice no driver download will be performed. In the next steps a "
+"locally installed driver will be selected."
+msgstr ""
+
+msgid "Word wrap"
+msgstr ""
+
+msgid "Would you like to print a test page?"
+msgstr ""
+
+msgid "XON/XOFF (Software)"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yes, I accept this license"
+msgstr ""
+
+msgid "You must log in to access %s."
+msgstr ""
+
+msgid "You will need to install the '%s' package in order to use this driver."
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Apply"
+msgstr ""
+
+msgid "_Authenticate"
+msgstr ""
+
+msgid "_Back"
+msgstr ""
+
+msgid "_Brightness"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Class"
+msgstr ""
+
+msgid "_Clear my personal default setting"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Configure Printers"
+msgstr ""
+
+msgid "_Connect..."
+msgstr ""
+
+msgid "_Contrast"
+msgstr ""
+
+msgid "_Create class"
+msgstr ""
+
+msgid "_Delete"
+msgstr ""
+
+msgid "_Diagnose"
+msgstr ""
+
+msgid "_Discovered Printers"
+msgstr ""
+
+msgid "_Duplicate"
+msgstr ""
+
+msgid "_Filter:"
+msgstr ""
+
+msgid "_Forward"
+msgstr ""
+
+msgid "_Grayscale"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_Hide"
+msgstr ""
+
+msgid "_Hold"
+msgstr ""
+
+msgid "_Install"
+msgstr ""
+
+msgid "_Move To"
+msgstr ""
+
+msgid "_New"
+msgstr ""
+
+msgid "_OK"
+msgstr ""
+
+msgid "_Printer"
+msgstr ""
+
+msgid "_Publish shared printers connected to this system"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Refresh"
+msgstr ""
+
+msgid "_Release"
+msgstr ""
+
+msgid "_Rename"
+msgstr ""
+
+msgid "_Saturation"
+msgstr ""
+
+msgid "_Search"
+msgstr ""
+
+msgid "_Server"
+msgstr ""
+
+msgid "_Settings..."
+msgstr ""
+
+msgid "_Shared"
+msgstr ""
+
+msgid "_Show printers shared by other systems"
+msgstr ""
+
+msgid "_Troubleshoot"
+msgstr ""
+
+msgid "_Verify..."
+msgstr ""
+
+msgid "_View"
+msgstr ""
+
+msgid "_View Attributes"
+msgstr ""
+
+msgid "`%s' has been added, using the `%s' driver."
+msgstr ""
+
+msgid "`%s' is ready for printing."
+msgstr ""
+
+msgid "`%s' requires driver installation: %s."
+msgstr ""
+
+msgid "a minute ago"
+msgstr ""
+
+msgid "adding printer %s"
+msgstr ""
+
+msgid "all jobs"
+msgstr ""
+
+msgid "an hour ago"
+msgstr ""
+
+msgid "authenticating job"
+msgstr ""
+
+msgid "canceling job"
+msgstr ""
+
+msgid "deleting job"
+msgstr ""
+
+msgid "deleting printer %s"
+msgstr ""
+
+msgid "disabled"
+msgstr ""
+
+msgid "fetching PPD"
+msgstr ""
+
+msgid "fetching PPDs"
+msgstr ""
+
+msgid "fetching device list"
+msgstr ""
+
+msgid "fetching server settings"
+msgstr ""
+
+msgid "holding job"
+msgstr ""
+
+msgid "last week"
+msgstr ""
+
+msgid "license"
+msgstr ""
+
+msgid "make and model"
+msgstr ""
+
+msgid "modifying class %s"
+msgstr ""
+
+msgid "modifying printer %s"
+msgstr ""
+
+msgid "modifying server settings"
+msgstr ""
+
+msgid "move left"
+msgstr ""
+
+msgid "move right"
+msgstr ""
+
+msgid "my jobs"
+msgstr ""
+
+msgid "my jobs on %s"
+msgstr ""
+
+msgid "obtaining queue details"
+msgstr ""
+
+msgid "points"
+msgstr ""
+
+msgid "printer state"
+msgstr ""
+
+msgid "printing test page"
+msgstr ""
+
+msgid "processing / pending:   %d / %d"
+msgstr ""
+
+msgid "releasing job"
+msgstr ""
+
+msgid "renaming printer"
+msgstr ""
+
+msgid "retrieved"
+msgstr ""
+
+msgid "sending maintenance command"
+msgstr ""
+
+msgid "setting default printer"
+msgstr ""
+
+msgid "short description"
+msgstr ""
+
+msgid "status %s"
+msgstr ""
+
+msgid "supplier"
+msgstr ""
+
+msgid "support contacts"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "user"
+msgstr ""
+
+msgid "yesterday"
+msgstr ""

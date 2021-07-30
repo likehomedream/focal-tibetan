@@ -1,0 +1,678 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: w3m 0.5.3\n"
+"Report-Msgid-Bugs-To: satodai@w3m.jp\n"
+"PO-Revision-Date: 2018-01-25 18:42+0000\n"
+"Last-Translator: Tatsuya Kinoshita <tats@debian.org>\n"
+"Language-Team: AOSC zh_CN <aosc@members.fsf.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:54+0000\n"
+
+msgid "   on New Tab (n) "
+msgstr ""
+
+msgid " ---------------- "
+msgstr ""
+
+msgid " Back         (b) "
+msgstr ""
+
+msgid " Bookmark     (B) "
+msgstr ""
+
+msgid " Edit Source  (e) "
+msgstr ""
+
+msgid " Go Link      (a) "
+msgstr ""
+
+msgid " Help         (h) "
+msgstr ""
+
+msgid " Option       (o) "
+msgstr ""
+
+msgid " Quit         (q) "
+msgstr ""
+
+msgid " Reload       (r) "
+msgstr ""
+
+msgid " Save Image   (I) "
+msgstr ""
+
+msgid " Save Link    (A) "
+msgstr ""
+
+msgid " Save Source  (S) "
+msgstr ""
+
+msgid " Select Buffer(s) "
+msgstr ""
+
+msgid " Select Tab   (t) "
+msgstr ""
+
+msgid " View Frame   (f) "
+msgstr ""
+
+msgid " View Image   (i) "
+msgstr ""
+
+msgid " View Source  (v) "
+msgstr ""
+
+msgid "(A only)Scroll by # (%) of screen"
+msgstr ""
+
+msgid "(B only)Scroll by # lines"
+msgstr ""
+
+msgid "2nd external browser"
+msgstr ""
+
+msgid "3rd external browser"
+msgstr ""
+
+msgid "4th external browser"
+msgstr ""
+
+msgid "5th external browser"
+msgstr ""
+
+msgid "6th external browser"
+msgstr ""
+
+msgid "7th external browser"
+msgstr ""
+
+msgid "8th external browser"
+msgstr ""
+
+msgid "9th external browser"
+msgstr ""
+
+msgid "A:relative to screen height"
+msgstr ""
+
+msgid "ASCII"
+msgstr ""
+
+msgid "Accept cookies"
+msgstr ""
+
+msgid "Accept header"
+msgstr ""
+
+msgid "Accept-Encoding header"
+msgstr ""
+
+msgid "Accept-Language header"
+msgstr ""
+
+msgid "Action to be taken on invalid cookie"
+msgstr ""
+
+msgid "Adjust search string for document charset"
+msgstr ""
+
+msgid "Automatic charset detect when loading"
+msgstr ""
+
+msgid "B:fixed speed"
+msgstr ""
+
+msgid "Behavior of wheel scroll speed"
+msgstr ""
+
+msgid "Character type for border of table and menu"
+msgstr ""
+
+msgid "Charset Settings"
+msgstr ""
+
+msgid "Charset conversion using Unicode map"
+msgstr ""
+
+msgid "Charset conversion when loading"
+msgstr ""
+
+msgid "Check noproxy by network address"
+msgstr ""
+
+msgid "Close tab if buffer is last when back"
+msgstr ""
+
+msgid "Color Settings"
+msgstr ""
+
+msgid "Color of anchor"
+msgstr ""
+
+msgid "Color of background"
+msgstr ""
+
+msgid "Color of currently active link"
+msgstr ""
+
+msgid "Color of form"
+msgstr ""
+
+msgid "Color of image link"
+msgstr ""
+
+msgid "Color of mark"
+msgstr ""
+
+msgid "Color of normal character"
+msgstr ""
+
+msgid "Color of visited link"
+msgstr ""
+
+msgid "Confirm when quitting with q"
+msgstr ""
+
+msgid "Cookie Settings"
+msgstr ""
+
+msgid "DEC special graphics"
+msgstr ""
+
+msgid "Decode Content-Transfer-Encoding when saving"
+msgstr ""
+
+msgid "Default document charset"
+msgstr ""
+
+msgid "Default value for open-URL command"
+msgstr ""
+
+msgid "Directory Settings"
+msgstr ""
+
+msgid "Directory corresponding to / (document root)"
+msgstr ""
+
+msgid "Directory corresponding to /cgi-bin"
+msgstr ""
+
+msgid "Directory corresponding to /~user"
+msgstr ""
+
+msgid "Disable cache"
+msgstr ""
+
+msgid "Disable secret file security check"
+msgstr ""
+
+msgid "Display INS, DEL, S and STRIKE element"
+msgstr ""
+
+msgid "Display Settings"
+msgstr ""
+
+msgid "Display charset"
+msgstr ""
+
+msgid "Display current line number"
+msgstr ""
+
+msgid "Display decoded URL"
+msgstr ""
+
+msgid "Display file names in multi-column format"
+msgstr ""
+
+msgid "Display inline images"
+msgstr ""
+
+msgid "Display link URL automatically"
+msgstr ""
+
+msgid "Display link name for images lacking ALT"
+msgstr ""
+
+msgid "Display link numbers"
+msgstr ""
+
+msgid "Display pseudo-ALTs for inline images with no ALT or TITLE string"
+msgstr ""
+
+msgid "Display table borders, ignore value of BORDER"
+msgstr ""
+
+msgid "Display unseen objects (e.g. bgimage tag)"
+msgstr ""
+
+msgid "Display with color"
+msgstr ""
+
+msgid "Domains to accept cookies from"
+msgstr ""
+
+msgid "Domains to avoid [wrong number of dots]"
+msgstr ""
+
+msgid "Domains to be accessed directly (no proxy)"
+msgstr ""
+
+msgid "Domains to reject cookies from"
+msgstr ""
+
+msgid "Editor"
+msgstr ""
+
+msgid "Enable Emacs-style line editing"
+msgstr ""
+
+msgid "Enable Migemo (Roma-ji search)"
+msgstr ""
+
+msgid "Enable coloring of active link"
+msgstr ""
+
+msgid "Enable cookie processing"
+msgstr ""
+
+msgid "Enable dictionary lookup through CGI"
+msgstr ""
+
+msgid "Enable mark operations"
+msgstr ""
+
+msgid "Enable mouse"
+msgstr ""
+
+msgid "Enable processing of meta-refresh tag"
+msgstr ""
+
+msgid "Enable vi-like numeric prefix"
+msgstr ""
+
+msgid "External Program Settings"
+msgstr ""
+
+msgid "External Viewer Setup"
+msgstr ""
+
+msgid "External browser"
+msgstr ""
+
+msgid "External command to display image"
+msgstr ""
+
+msgid "File consisting of PEM encoded certificates of CAs"
+msgstr ""
+
+msgid "File for preferences for each site"
+msgstr ""
+
+msgid "File for setting form on loading"
+msgstr ""
+
+msgid "Fix character width when conversion"
+msgstr ""
+
+msgid "Fold lines in TEXTAREA"
+msgstr ""
+
+msgid "Fold lines of plain text file"
+msgstr ""
+
+msgid "Free memory of undisplayed buffers"
+msgstr ""
+
+msgid "Generate domain part of password for FTP"
+msgstr ""
+
+msgid "How to call Mailer for mailto URLs with options"
+msgstr ""
+
+msgid "Indent for HTML rendering"
+msgstr ""
+
+msgid "Index file for directories"
+msgstr ""
+
+msgid ""
+"List of forbidden SSL methods (2: SSLv2, 3: SSLv3, t: TLSv1.0, 5: TLSv1.1)"
+msgstr ""
+
+msgid "List of mailcap files"
+msgstr ""
+
+msgid "List of mime.types files"
+msgstr ""
+
+msgid "List of urimethodmap files"
+msgstr ""
+
+msgid "Load inline images automatically"
+msgstr ""
+
+msgid "Mailer"
+msgstr ""
+
+msgid "Maximum processes for parallel image loading"
+msgstr ""
+
+msgid "Migemo command"
+msgstr ""
+
+msgid "Miscellaneous Settings"
+msgstr ""
+
+msgid "Mode of news server"
+msgstr ""
+
+msgid "Move cursor to top line when going to label"
+msgstr ""
+
+msgid "Move cursor to top line when moving to next page"
+msgstr ""
+
+msgid "Network Settings"
+msgstr ""
+
+msgid "News server"
+msgstr ""
+
+msgid "Number of news messages"
+msgstr ""
+
+msgid "Number of pixels per character (4.0...32.0)"
+msgstr ""
+
+msgid "Number of pixels per line (4.0...64.0)"
+msgstr ""
+
+msgid "Number of redirections to follow"
+msgstr ""
+
+msgid "Number of remembered URL"
+msgstr ""
+
+msgid "Number of remembered lines when used as a pager"
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "ON"
+msgstr ""
+
+msgid "Only ISO 2022"
+msgstr ""
+
+msgid "Open download list panel on new tab"
+msgstr ""
+
+msgid "Open link on new tab if target is _blank or _new"
+msgstr ""
+
+msgid "Order of name resolution"
+msgstr ""
+
+msgid "Output halfdump with display charset"
+msgstr ""
+
+msgid "PEM encoded certificate file of client"
+msgstr ""
+
+msgid "PEM encoded private key file of client"
+msgstr ""
+
+msgid "Password file"
+msgstr ""
+
+msgid "Password for anonymous FTP (your mail address)"
+msgstr ""
+
+msgid "Path to directory for PEM encoded certificates of CAs"
+msgstr ""
+
+msgid "Perform SSL server verification"
+msgstr ""
+
+msgid "Prepend http:// to URL automatically"
+msgstr ""
+
+msgid "Preserve timestamp when saving"
+msgstr ""
+
+msgid "Print a message when receiving a cookie"
+msgstr ""
+
+msgid "Proxy Settings"
+msgstr ""
+
+msgid "Render frames automatically"
+msgstr ""
+
+msgid "Run external viewer in a separate session"
+msgstr ""
+
+msgid "Run external viewer in the background"
+msgstr ""
+
+msgid "SSL Settings"
+msgstr ""
+
+msgid "Save URL history"
+msgstr ""
+
+msgid "Scale of image (%)"
+msgstr ""
+
+msgid "Scroll in reverse direction of mouse drag"
+msgstr ""
+
+msgid "Search case-insensitively"
+msgstr ""
+
+msgid "Show line numbers"
+msgstr ""
+
+msgid "Show search string"
+msgstr ""
+
+msgid "Simple Preserve space"
+msgstr ""
+
+msgid "Strict ISO-2022-JP/KR/CN"
+msgstr ""
+
+msgid "Suppress `Referer:' header"
+msgstr ""
+
+msgid "System charset"
+msgstr ""
+
+msgid "System charset follows locale(LC_CTYPE)"
+msgstr ""
+
+msgid "Tab width in characters"
+msgstr ""
+
+msgid "Treat 4 bytes char. of GB18030 as Unicode"
+msgstr ""
+
+msgid "Treat URL-like strings as links in all pages"
+msgstr ""
+
+msgid "Treat argument without scheme as URL"
+msgstr ""
+
+msgid "URL of FTP proxy host"
+msgstr ""
+
+msgid "URL of GOPHER proxy host"
+msgstr ""
+
+msgid "URL of HTTP proxy host"
+msgstr ""
+
+msgid "URL of HTTPS proxy host"
+msgstr ""
+
+msgid "URL of dictionary lookup command"
+msgstr ""
+
+msgid "URL of directory listing command"
+msgstr ""
+
+msgid "Uncompress compressed data automatically when downloading"
+msgstr ""
+
+msgid "Use ASCII equivalents to display entities"
+msgstr ""
+
+msgid "Use GB 12345 Unicode map instead of GB 2312's"
+msgstr ""
+
+msgid "Use JIS C 6226:1978 for ISO-2022-JP"
+msgstr ""
+
+msgid "Use JIS X 0201 Katakana"
+msgstr ""
+
+msgid "Use JIS X 0201 Roman for ISO-2022-JP"
+msgstr ""
+
+msgid "Use JIS X 0212:1990 (Supplemental Kanji)"
+msgstr ""
+
+msgid "Use JIS X 0213:2000 (2000JIS)"
+msgstr ""
+
+msgid "Use LESSOPEN"
+msgstr ""
+
+msgid "Use URL history"
+msgstr ""
+
+msgid "Use Unicode language tags"
+msgstr ""
+
+msgid "Use _self as default target"
+msgstr ""
+
+msgid "Use combining characters"
+msgstr ""
+
+msgid "Use double width for some Unicode characters"
+msgstr ""
+
+msgid "Use external image viewer"
+msgstr ""
+
+msgid "Use external program for directory listing"
+msgstr ""
+
+msgid "Use link list of image map"
+msgstr ""
+
+msgid "Use multi column characters"
+msgstr ""
+
+msgid "Use proxy"
+msgstr ""
+
+msgid "Use visited link color"
+msgstr ""
+
+msgid "User-Agent identification string"
+msgstr ""
+
+msgid "Wrap search"
+msgstr ""
+
+msgid "accept"
+msgstr ""
+
+msgid "ask"
+msgstr ""
+
+msgid "black"
+msgstr ""
+
+msgid "blue"
+msgstr ""
+
+msgid "charset specific"
+msgstr ""
+
+msgid "current URL"
+msgstr ""
+
+msgid "cyan"
+msgstr ""
+
+msgid "discard"
+msgstr ""
+
+msgid "en;q=1.0"
+msgstr ""
+
+msgid "green"
+msgstr ""
+
+msgid "ignore options and use only the address"
+msgstr ""
+
+msgid "inet inet6"
+msgstr ""
+
+msgid "inet only"
+msgstr ""
+
+msgid "inet6 inet"
+msgstr ""
+
+msgid "inet6 only"
+msgstr ""
+
+msgid "keymap file"
+msgstr ""
+
+msgid "link URL"
+msgstr ""
+
+msgid "magenta"
+msgstr ""
+
+msgid "none"
+msgstr ""
+
+msgid "red"
+msgstr ""
+
+msgid "simple"
+msgstr ""
+
+msgid "terminal"
+msgstr ""
+
+msgid "unspecified"
+msgstr ""
+
+msgid "use full mailto URL"
+msgstr ""
+
+msgid "use internal mailer instead"
+msgstr ""
+
+msgid "use tag"
+msgstr ""
+
+msgid "white"
+msgstr ""
+
+msgid "yellow"
+msgstr ""

@@ -1,0 +1,212 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: apparmor-parser\n"
+"Report-Msgid-Bugs-To: <apparmor@lists.ubuntu.com>\n"
+"PO-Revision-Date: 2020-04-14 09:43+0000\n"
+"Last-Translator: Ubuntu Archive Auto-Sync <archive@ubuntu.com>\n"
+"Language-Team: Novell Language <language@novell.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:48+0000\n"
+
+msgid ""
+"!\n"
+"Ensure that it has been loaded.\n"
+msgstr ""
+
+msgid "%s: ASSERT: Invalid option: %d\n"
+msgstr ""
+
+msgid "%s: Could not allocate memory for subdomainbase mount point\n"
+msgstr ""
+
+msgid "%s: Errors found in combining rules postprocessing. Aborting.\n"
+msgstr ""
+
+msgid "%s: Errors found in file. Aborting.\n"
+msgstr ""
+
+msgid "%s: Failed to compile regex '%s' [original: '%s']\n"
+msgstr ""
+
+msgid "%s: Failed to compile regex '%s' [original: '%s'] - malloc failed\n"
+msgstr ""
+
+msgid "%s: Illegal open {, nesting groupings not allowed\n"
+msgstr ""
+
+msgid "%s: Internal buffer overflow detected, %d characters exceeded\n"
+msgstr ""
+
+msgid "%s: Regex grouping error: Invalid close }, no matching open { detected\n"
+msgstr ""
+
+msgid "%s: Regex grouping error: Invalid number of items between {}\n"
+msgstr ""
+
+msgid ""
+"%s: Sorry. You need root privileges to run this program.\n"
+"\n"
+msgstr ""
+
+msgid "%s: Unable to add \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to find "
+msgstr ""
+
+msgid "%s: Unable to parse input line '%s'\n"
+msgstr ""
+
+msgid ""
+"%s: Unable to query modules - '%s'\n"
+"Either modules are disabled or your kernel is too old.\n"
+msgstr ""
+
+msgid "%s: Unable to remove \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to replace \"%s\".  "
+msgstr ""
+
+msgid "%s: Unable to write entire profile entry\n"
+msgstr ""
+
+msgid "%s: Unable to write to stdout\n"
+msgstr ""
+
+msgid ""
+"%s: Warning! You've set this program setuid root.\n"
+"Anybody who can run this program can update your AppArmor profiles.\n"
+"\n"
+msgstr ""
+
+msgid "%s: error near               "
+msgstr ""
+
+msgid "%s: error reason: '%s'\n"
+msgstr ""
+
+msgid "(ip_mode) Found unexpected character: '%s'"
+msgstr ""
+
+msgid "Addition succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "AppArmor parser error, line %d: %s\n"
+msgstr ""
+
+msgid "Assert: 'hat rule' returned NULL."
+msgstr ""
+
+msgid "Assert: `addresses' returned NULL."
+msgstr ""
+
+msgid "Assert: `netrule' returned NULL."
+msgstr ""
+
+msgid "Assert: `rule' returned NULL."
+msgstr ""
+
+msgid "Bad write position\n"
+msgstr ""
+
+msgid "Couldn't copy profile Bad memory address\n"
+msgstr ""
+
+msgid "Couldn't merge entries. Out of Memory\n"
+msgstr ""
+
+msgid "ERROR in profile %s, failed to load\n"
+msgstr ""
+
+msgid "Error couldn't allocate temporary file\n"
+msgstr ""
+
+msgid "Error: Can't add directory %s to search path\n"
+msgstr ""
+
+msgid "Error: Could not allocate memory\n"
+msgstr ""
+
+msgid "Error: Out of Memory\n"
+msgstr ""
+
+msgid "Exec qualifier 'i' invalid, conflicting qualifier already specified"
+msgstr ""
+
+msgid "Exec qualifier 'i' must be followed by 'x'"
+msgstr ""
+
+msgid "Found unexpected character: '%s'"
+msgstr ""
+
+msgid "Memory allocation error."
+msgstr ""
+
+msgid "Network entries can only have one FROM address."
+msgstr ""
+
+msgid "Network entries can only have one TO address."
+msgstr ""
+
+msgid "Out of memory\n"
+msgstr ""
+
+msgid "PANIC bad increment buffer %p pos %p ext %p size %d res %p\n"
+msgstr ""
+
+msgid "Permission denied\n"
+msgstr ""
+
+msgid "Profile already exists\n"
+msgstr ""
+
+msgid "Profile does not match signature\n"
+msgstr ""
+
+msgid "Profile doesn't conform to protocol\n"
+msgstr ""
+
+msgid "Profile doesn't exist\n"
+msgstr ""
+
+msgid "Removal succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "Replacement succeeded for \"%s\".\n"
+msgstr ""
+
+msgid "Unable to open %s - %s\n"
+msgstr ""
+
+msgid "Unknown error\n"
+msgstr ""
+
+msgid "`%s' is not a valid ip address."
+msgstr ""
+
+msgid "`%s' is not a valid netmask."
+msgstr ""
+
+msgid "`/%d' is not a valid netmask."
+msgstr ""
+
+msgid "missing an end of line character? (entry: %s)"
+msgstr ""
+
+msgid "ports must be between %d and %d"
+msgstr ""
+
+msgid "profile %s: has merged rule %s with multiple x modifiers\n"
+msgstr ""
+
+msgid "unable to create work area\n"
+msgstr ""
+
+msgid "unable to serialize profile %s\n"
+msgstr ""

@@ -1,0 +1,20 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: zeitgeist\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2014-04-02 02:40+0000\n"
+"Last-Translator: shijing <jingshi@ubuntukylin.com>\n"
+"Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:17+0000\n"
+
+msgid "Start the Zeitgeist Datahub for passive loggers"
+msgstr ""
+
+msgid "Zeitgeist Datahub"
+msgstr ""

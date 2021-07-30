@@ -1,0 +1,3809 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-control-center master\n"
+"Report-Msgid-Bugs-To: \n"
+"PO-Revision-Date: 2020-03-11 17:08+0000\n"
+"Last-Translator: Launchpad Translations Administrators <Unknown>\n"
+"Language-Team: Chinese (Simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:03+0000\n"
+
+msgid " "
+msgstr ""
+
+msgid "%b %e"
+msgstr ""
+
+msgid "%b %e, %Y"
+msgstr ""
+
+msgid "%d Mb/s"
+msgstr ""
+
+msgid "%d of %d"
+msgstr ""
+
+msgid "%d x %d"
+msgstr ""
+
+msgid "%d x %d (%s)"
+msgstr ""
+
+msgid "%d × %d"
+msgstr ""
+
+msgid "%d-bit"
+msgstr ""
+
+msgid "%i %s %i %s"
+msgstr ""
+
+msgid "%i day ago"
+msgid_plural "%i days ago"
+msgstr[0] ""
+
+msgid "%i hour"
+msgid_plural "%i hours"
+msgstr[0] ""
+
+msgid "%i minute"
+msgid_plural "%i minutes"
+msgstr[0] ""
+
+msgid "%i month"
+msgid_plural "%i months"
+msgstr[0] ""
+
+msgid "%i week"
+msgid_plural "%i weeks"
+msgstr[0] ""
+
+msgid "%i year"
+msgid_plural "%i years"
+msgstr[0] ""
+
+msgid ""
+"%s\n"
+"Run '%s --help' to see a full list of available command line options.\n"
+msgstr ""
+
+msgid "%s Account"
+msgstr ""
+
+msgid "%s Active Jobs"
+msgstr ""
+
+msgid "%s Options"
+msgstr ""
+
+msgid "%s VPN"
+msgstr ""
+
+msgid "%s is still logged in"
+msgstr ""
+
+msgid "%u Input"
+msgid_plural "%u Inputs"
+msgstr[0] ""
+
+msgid "%u Output"
+msgid_plural "%u Outputs"
+msgstr[0] ""
+
+msgid "%u active"
+msgid_plural "%u active"
+msgstr[0] ""
+
+msgid "'0000' (most headsets, mice and GPS devices)"
+msgstr ""
+
+msgid "'1111'"
+msgstr ""
+
+msgid "'1234'"
+msgstr ""
+
+msgid "- System Settings"
+msgstr ""
+
+msgid "1 hour"
+msgstr ""
+
+msgid "1 minute"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "100%"
+msgstr ""
+
+msgid "125%"
+msgstr ""
+
+msgid "150%"
+msgstr ""
+
+msgid "2 hours"
+msgstr ""
+
+msgid "2 minutes"
+msgstr ""
+
+msgid "20 minutes"
+msgstr ""
+
+msgid "3 minutes"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "30 seconds"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "75%"
+msgstr ""
+
+msgid "802.1x supplicant configuration failed"
+msgstr ""
+
+msgid "802.1x supplicant disconnected"
+msgstr ""
+
+msgid "802.1x supplicant failed"
+msgstr ""
+
+msgid "802.1x supplicant took too long to authenticate"
+msgstr ""
+
+msgid "<Unknown Action>"
+msgstr ""
+
+msgid "<b>%s</b> removed"
+msgstr ""
+
+msgid "<b>Auto-hide the Launcher</b>"
+msgstr ""
+
+msgid "<b>Background</b>"
+msgstr ""
+
+msgid "<b>Launcher icon size</b>"
+msgstr ""
+
+msgid "<b>Menus visibility</b>"
+msgstr ""
+
+msgid "<b>Show the menus for a window</b>"
+msgstr ""
+
+msgid "<b>Theme</b>"
+msgstr ""
+
+msgid "<small>High</small>"
+msgstr ""
+
+msgid ""
+"<small>Includes shadows and animations when opening, resizing and switching "
+"windows.</small>"
+msgstr ""
+
+msgid "<small>Low</small>"
+msgstr ""
+
+msgid ""
+"<span size=\"small\">The launcher will reveal when moving the pointer to the"
+" defined hot spot.</span>"
+msgstr ""
+
+msgid "A user with the username '%s' already exists"
+msgstr ""
+
+msgid "A_cceptance delay:"
+msgstr ""
+
+msgid "A_utomatic Login"
+msgstr ""
+
+msgid "Acc_eptance delay:"
+msgstr ""
+
+msgid "Account Information"
+msgstr ""
+
+msgid "Account _Type"
+msgstr ""
+
+msgctxt "Account type"
+msgid "Administrator"
+msgstr ""
+
+msgctxt "Account type"
+msgid "Standard"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Active Jobs"
+msgstr ""
+
+msgid "Ad-hoc"
+msgstr ""
+
+msgid "Add Device"
+msgstr ""
+
+msgid "Add Input Source"
+msgstr ""
+
+msgid "Add Language"
+msgstr ""
+
+msgid "Add New Printer"
+msgstr ""
+
+msgid "Add Printer"
+msgstr ""
+
+msgid "Add Region"
+msgstr ""
+
+msgid "Add Shortcut"
+msgstr ""
+
+msgid "Add User Account"
+msgstr ""
+
+msgid "Add a Location…"
+msgstr ""
+
+msgid "Add a New Printer"
+msgstr ""
+
+msgid "Add a virtual device"
+msgstr ""
+
+msgid "Add account"
+msgstr ""
+
+msgid "Add an account"
+msgstr ""
+
+msgid "Add device"
+msgstr ""
+
+msgid "Add dots"
+msgstr ""
+
+msgid "Add new connection"
+msgstr ""
+
+msgid "Add or remove users"
+msgstr ""
+
+msgid "Add profile"
+msgstr ""
+
+msgid "Add show desktop icon to the launcher"
+msgstr ""
+
+msgid "Add wallpaper"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Adjust display resolution"
+msgstr ""
+
+msgid "Administrator Password"
+msgstr ""
+
+msgid "Administrator _Name"
+msgstr ""
+
+msgid "Air_plane Mode"
+msgstr ""
+
+msgid "All categories"
+msgstr ""
+
+msgid "All displays"
+msgstr ""
+
+msgid "All files"
+msgstr ""
+
+msgid "All types"
+msgstr ""
+
+msgid "Allow different sources for each application"
+msgstr ""
+
+msgid "Allow different sources for each window"
+msgstr ""
+
+msgid "Allow louder than 100%"
+msgstr ""
+
+msgid "Allow louder than 100% (may distort sound)"
+msgstr ""
+
+msgid "Alternative Characters Key"
+msgstr ""
+
+msgid "Always displayed"
+msgstr ""
+
+msgid "An internal error occurred."
+msgstr ""
+
+msgid "Appearance"
+msgstr ""
+
+msgid "Applications"
+msgstr ""
+
+msgid "Ask what to do"
+msgstr ""
+
+msgid "Audio device"
+msgstr ""
+
+msgid "Authentication failed"
+msgstr ""
+
+msgid "Authentication is required to change user data"
+msgstr ""
+
+msgid "Authentication required"
+msgstr ""
+
+msgid "Auto Select"
+msgstr ""
+
+msgid "AutoIP service error"
+msgstr ""
+
+msgid "AutoIP service failed"
+msgstr ""
+
+msgid "AutoIP service failed to start"
+msgstr ""
+
+msgid "Available Profiles"
+msgstr ""
+
+msgid "Available Profiles for Cameras"
+msgstr ""
+
+msgid "Available Profiles for Displays"
+msgstr ""
+
+msgid "Available Profiles for Printers"
+msgstr ""
+
+msgid "Available Profiles for Scanners"
+msgstr ""
+
+msgid "Available Profiles for Webcams"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Battery"
+msgstr ""
+
+msgctxt "Battery power"
+msgid "Caution"
+msgstr ""
+
+msgctxt "Battery power"
+msgid "Charging"
+msgstr ""
+
+msgctxt "Battery power"
+msgid "Charging - fully charged"
+msgstr ""
+
+msgctxt "Battery power"
+msgid "Empty"
+msgstr ""
+
+msgctxt "Battery power"
+msgid "Good"
+msgstr ""
+
+msgctxt "Battery power"
+msgid "Low"
+msgstr ""
+
+msgid "Beep on Caps and Num Lock"
+msgstr ""
+
+msgid "Beep when a _modifer key is pressed"
+msgstr ""
+
+msgid "Beep when a key is"
+msgstr ""
+
+msgid "Beep when a key is _rejected"
+msgstr ""
+
+msgid "Behavior"
+msgstr ""
+
+msgid "Blu-ray video disc"
+msgstr ""
+
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Bluetooth New Device Setup"
+msgstr ""
+
+msgid "Bluetooth Settings"
+msgstr ""
+
+msgid "Bluetooth connection failed"
+msgstr ""
+
+msgid "Bluetooth is disabled"
+msgstr ""
+
+msgid "Bluetooth is disabled by hardware switch"
+msgstr ""
+
+msgid "Bottom Button #%d"
+msgstr ""
+
+msgid "Bottom Half"
+msgstr ""
+
+msgid "Bounce Keys"
+msgstr ""
+
+msgid "Bounce keys typing delay"
+msgstr ""
+
+msgid "Brightness"
+msgstr ""
+
+msgid "Brightness & Lock"
+msgstr ""
+
+msgid "Brightness:"
+msgstr ""
+
+msgid "Brightness;Lock;Dim;Blank;Monitor;"
+msgstr ""
+
+msgid "Browse"
+msgstr ""
+
+msgid "Browse for more pictures"
+msgstr ""
+
+msgid "Browse for more pictures…"
+msgstr ""
+
+msgid "Built-in"
+msgstr ""
+
+msgid "Button"
+msgstr ""
+
+msgid "CD _audio"
+msgstr ""
+
+msgid "C_hoose an alert sound:"
+msgstr ""
+
+msgid "C_ommand:"
+msgstr ""
+
+msgid "C_onfirm password"
+msgstr ""
+
+msgid "C_ontinue"
+msgstr ""
+
+msgid "Cable unplugged"
+msgstr ""
+
+msgid "Calculating…"
+msgstr ""
+
+msgid "Calibrate the device"
+msgstr ""
+
+msgid "Calibrate…"
+msgstr ""
+
+msgid "Calibration"
+msgstr ""
+
+msgid "Camera"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cancel Print Job"
+msgstr ""
+
+msgid "Cannot log in as %s at the %s domain"
+msgstr ""
+
+msgid "Cannot remove automatically added profile"
+msgstr ""
+
+msgid "Card;Microphone;Volume;Fade;Balance;Bluetooth;Headset;"
+msgstr ""
+
+msgid "Caution low UPS"
+msgstr ""
+
+msgid "Caution low UPS, %s remaining"
+msgstr ""
+
+msgid "Caution low battery, %s remaining"
+msgstr ""
+
+msgid "Cellphone"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Ch_ange"
+msgstr ""
+
+msgid "Change keyboard settings"
+msgstr ""
+
+msgid "Change printer settings"
+msgstr ""
+
+msgid "Change resolution and position of monitors and projectors"
+msgstr ""
+
+msgid "Change sound volume and sound events"
+msgstr ""
+
+msgid "Change system time and date settings"
+msgstr ""
+
+msgid "Change the background and the theme"
+msgstr ""
+
+msgid "Change your clock and date settings"
+msgstr ""
+
+msgid "Change your keyboard or input method settings"
+msgstr ""
+
+msgid "Changes throughout the day"
+msgstr ""
+
+msgid "Changing password for"
+msgstr ""
+
+msgid "Changing photo for:"
+msgstr ""
+
+msgid "Charging"
+msgstr ""
+
+msgid "Charging - %s until fully charged"
+msgstr ""
+
+msgid "Charging - fully charged"
+msgstr ""
+
+msgid "Checking for Updates"
+msgstr ""
+
+msgid "China"
+msgstr ""
+
+msgid "Choose _Locations…"
+msgstr ""
+
+msgid ""
+"Choose a picture that will be shown at the login screen for this account."
+msgstr ""
+
+msgid "Choose an input source"
+msgstr ""
+
+msgid "Choose password at next login"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Closed Captioning"
+msgstr ""
+
+msgid "Color"
+msgstr ""
+
+msgid "Color Effects"
+msgstr ""
+
+msgid "Color Effects:"
+msgstr ""
+
+msgid "Color management settings"
+msgstr ""
+
+msgid "Color:"
+msgstr ""
+
+msgid "Color;ICC;Profile;Calibrate;Printer;Display;"
+msgstr ""
+
+msgid "Colors & Gradients"
+msgstr ""
+
+msgctxt "Colorspace fallback"
+msgid "Default CMYK"
+msgstr ""
+
+msgctxt "Colorspace fallback"
+msgid "Default Gray"
+msgstr ""
+
+msgctxt "Colorspace fallback"
+msgid "Default RGB"
+msgstr ""
+
+msgid "Colorspace: "
+msgstr ""
+
+msgid "Coming _events from Evolution Calendar"
+msgstr ""
+
+msgid "Compose Key"
+msgstr ""
+
+msgid "Computer"
+msgstr ""
+
+msgid "Configuration failed"
+msgstr ""
+
+msgid "Configure Bluetooth settings"
+msgstr ""
+
+msgid "Connected"
+msgstr ""
+
+msgid "Connected Devices"
+msgstr ""
+
+msgid "Connecting"
+msgstr ""
+
+msgid "Connecting to '%s'..."
+msgstr ""
+
+msgid "Connection"
+msgstr ""
+
+msgid "Connection dependency failed"
+msgstr ""
+
+msgid "Connection disappeared"
+msgstr ""
+
+msgid "Connection failed"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Contrast:"
+msgstr ""
+
+msgid "Control Center"
+msgstr ""
+
+msgid "Control the pointer using the keypad"
+msgstr ""
+
+msgid "Control the pointer using the video camera."
+msgstr ""
+
+msgid "Convert to PS level 1"
+msgstr ""
+
+msgid "Convert to PS level 2"
+msgstr ""
+
+msgid "Copy Settings"
+msgstr ""
+
+msgid "Copy Settings..."
+msgstr ""
+
+msgid "Copy a screenshot of a window to clipboard"
+msgstr ""
+
+msgid "Copy a screenshot of an area to clipboard"
+msgstr ""
+
+msgid "Copy a screenshot to clipboard"
+msgstr ""
+
+msgid "Could not access '%s' device"
+msgstr ""
+
+msgid "Could not access any fingerprint readers"
+msgstr ""
+
+msgid "Could not detect displays"
+msgstr ""
+
+msgid "Could not get screen information"
+msgstr ""
+
+msgid "Could not load ui: %s"
+msgstr ""
+
+msgid "Could not save the monitor configuration"
+msgstr ""
+
+msgid "Could not start finger capture on '%s' device"
+msgstr ""
+
+msgid "Couldn't connect to the %s domain: %s"
+msgstr ""
+
+msgid "Create a color profile for the selected device"
+msgstr ""
+
+msgid "Create a user account"
+msgstr ""
+
+msgid "Create virtual device"
+msgstr ""
+
+msgid "Crosshairs"
+msgstr ""
+
+msgid "Crosshairs:"
+msgstr ""
+
+msgid "Ctrl+Alt+Shift+Space"
+msgstr ""
+
+msgid "Ctrl+Alt+Space"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Current _password"
+msgstr ""
+
+msgid "Current background"
+msgstr ""
+
+msgid "Cursor Blinking"
+msgstr ""
+
+msgid "Cursor _blinks in text fields"
+msgstr ""
+
+msgid "Cursor blink speed"
+msgstr ""
+
+msgid "Custom"
+msgstr ""
+
+msgid "Custom PIN:"
+msgstr ""
+
+msgid "Custom Shortcut"
+msgstr ""
+
+msgid "Custom Shortcuts"
+msgstr ""
+
+msgid "DHCP client error"
+msgstr ""
+
+msgid "DHCP client failed"
+msgstr ""
+
+msgid "DHCP client failed to start"
+msgstr ""
+
+msgid "DNS"
+msgstr ""
+
+msgid "D_elay:"
+msgstr ""
+
+msgid "Dates"
+msgstr ""
+
+msgid "Decrease text size"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Default Applications"
+msgstr ""
+
+msgid "Default Route"
+msgstr ""
+
+msgid "Default: "
+msgstr ""
+
+msgid "Delete device"
+msgstr ""
+
+msgid "Delete registered fingerprints?"
+msgstr ""
+
+msgid "Delete the selected user account"
+msgstr ""
+
+msgid ""
+"Deleting a user while they are logged in can leave the system in an "
+"inconsistent state."
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Device Search"
+msgstr ""
+
+msgid "Device Setup"
+msgstr ""
+
+msgid "Device _category:"
+msgstr ""
+
+msgid "Device _type:"
+msgstr ""
+
+msgctxt "Device kind"
+msgid "Camera"
+msgstr ""
+
+msgctxt "Device kind"
+msgid "Display"
+msgstr ""
+
+msgctxt "Device kind"
+msgid "Printer"
+msgstr ""
+
+msgctxt "Device kind"
+msgid "Scanner"
+msgstr ""
+
+msgctxt "Device kind"
+msgid "Webcam"
+msgstr ""
+
+msgid "Device name"
+msgstr ""
+
+msgid "Device type:"
+msgstr ""
+
+msgid "Devices"
+msgstr ""
+
+msgid "Dialing attempt failed"
+msgstr ""
+
+msgid "Dialing request timed out"
+msgstr ""
+
+msgid "Disable image"
+msgstr ""
+
+msgid "Disable this account"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Disconnecting"
+msgstr ""
+
+msgid "Disk"
+msgstr ""
+
+msgid "Display Mapping"
+msgstr ""
+
+msgid "Display a textual description of speech and sounds"
+msgstr ""
+
+msgid "Display language:"
+msgstr ""
+
+msgid "Display with largest controls"
+msgstr ""
+
+msgid "Display with smallest controls"
+msgstr ""
+
+msgid "Displayed on mouse hovering"
+msgstr ""
+
+msgid "Displays"
+msgstr ""
+
+msgctxt "Distance"
+msgid "Long"
+msgstr ""
+
+msgctxt "Distance"
+msgid "Short"
+msgstr ""
+
+msgctxt "Distance"
+msgid "¼ Screen"
+msgstr ""
+
+msgctxt "Distance"
+msgid "½ Screen"
+msgstr ""
+
+msgctxt "Distance"
+msgid "¾ Screen"
+msgstr ""
+
+msgid "Do not pair"
+msgstr ""
+
+msgid "Do nothing"
+msgstr ""
+
+msgid ""
+"Do you want to delete your registered fingerprints so fingerprint login is "
+"disabled?"
+msgstr ""
+
+msgid "Do you want to keep %s's files?"
+msgstr ""
+
+msgid "Does not match"
+msgstr ""
+
+msgid "Domain Administrator Login"
+msgstr ""
+
+msgid "Don't lock when at home"
+msgstr ""
+
+msgid "Don't suspend"
+msgstr ""
+
+msgid "Done!"
+msgstr ""
+
+msgid "Double click, middle button"
+msgstr ""
+
+msgid "Double click, primary button"
+msgstr ""
+
+msgid "Double click, secondary button"
+msgstr ""
+
+msgid "Double-click timeout"
+msgstr ""
+
+msgid "Drag to change primary display."
+msgstr ""
+
+msgid "Drivers"
+msgstr ""
+
+msgid "Each device needs an up to date color profile to be color managed."
+msgstr ""
+
+msgid "Eject"
+msgstr ""
+
+msgid "Embed GhostScript fonts only"
+msgstr ""
+
+msgid "Empty"
+msgstr ""
+
+msgid "Enable Fingerprint Login"
+msgstr ""
+
+msgid "Enable by Keyboard"
+msgstr ""
+
+msgid "Enable this account"
+msgstr ""
+
+msgid "Enable verbose mode"
+msgstr ""
+
+msgid "Enable workspaces"
+msgstr ""
+
+msgid "Enabled"
+msgstr ""
+
+msgid "Enrolling fingerprints"
+msgstr ""
+
+msgid "Enterprise"
+msgstr ""
+
+msgid "Eraser Pressure Feel"
+msgstr ""
+
+msgid "Error removing account"
+msgstr ""
+
+msgid "Examples"
+msgstr ""
+
+msgid "Existing connection was assumed"
+msgstr ""
+
+msgid "Failed to add account"
+msgstr ""
+
+msgid "Failed to add new printer."
+msgstr ""
+
+msgid "Failed to apply configuration: %s"
+msgstr ""
+
+msgid "Failed to contact the accounts service"
+msgstr ""
+
+msgid "Failed to delete user"
+msgstr ""
+
+msgid "Failed to join domain"
+msgstr ""
+
+msgid "Failed to log into domain"
+msgstr ""
+
+msgid "Failed to register account"
+msgstr ""
+
+msgid "Failed to register with the requested network"
+msgstr ""
+
+msgid "Failed to select the specified APN"
+msgstr ""
+
+msgid "Fast"
+msgstr ""
+
+msgid "Fill"
+msgstr ""
+
+msgid "Finishing Setup"
+msgstr ""
+
+msgid "Firm"
+msgstr ""
+
+msgid "Firmware for the device may be missing"
+msgstr ""
+
+msgid "Firmware missing"
+msgstr ""
+
+msgid "Five clicks, GEGL time!"
+msgstr ""
+
+msgid "Fixed PIN"
+msgstr ""
+
+msgid "Flash the entire screen"
+msgstr ""
+
+msgid "Flash the window title"
+msgstr ""
+
+msgid "Flickr"
+msgstr ""
+
+msgid "Follow mouse cursor"
+msgstr ""
+
+msgid "Format:"
+msgstr ""
+
+msgid "Formats"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "France"
+msgstr ""
+
+msgid "From theme"
+msgstr ""
+
+msgid "Full Screen"
+msgstr ""
+
+msgid "GOK"
+msgstr ""
+
+msgid "Gallery"
+msgstr ""
+
+msgid "Gateway"
+msgstr ""
+
+msgid "General"
+msgstr ""
+
+msgid "General options"
+msgstr ""
+
+msgid "Generate a password"
+msgstr ""
+
+msgid "Germany"
+msgstr ""
+
+msgid "GhostScript pre-filtering"
+msgstr ""
+
+msgid "Graphics"
+msgstr ""
+
+msgid "Group Name"
+msgstr ""
+
+msgid "Group Password"
+msgstr ""
+
+msgid "HD DVD video disc"
+msgstr ""
+
+msgid "H_TTPS Proxy"
+msgstr ""
+
+msgid "Hardware Address"
+msgstr ""
+
+msgid "Headphones"
+msgstr ""
+
+msgid "Headphones, headsets and other audio devices"
+msgstr ""
+
+msgid "Headset"
+msgstr ""
+
+msgid "Hearing"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "High Contrast"
+msgstr ""
+
+msgid "High contrast on or off"
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Home folder"
+msgstr ""
+
+msgid "Horizontal Gradient"
+msgstr ""
+
+msgid "Horizontally"
+msgstr ""
+
+msgid "Hover Click"
+msgstr ""
+
+msgid "How to choose a strong password"
+msgstr ""
+
+msgid "IMEI"
+msgstr ""
+
+msgid "IP Address"
+msgstr ""
+
+msgid "IP configuration expired"
+msgstr ""
+
+msgid "IP configuration failed"
+msgstr ""
+
+msgid "IPv4 Address"
+msgstr ""
+
+msgid "IPv6 Address"
+msgstr ""
+
+msgid "If you reassign the shortcut to \"%s\", the \"%s\" shortcut will be disabled."
+msgstr ""
+
+msgid ""
+"If you remove the device, you will have to set it up again before next use."
+msgstr ""
+
+msgid "Ignores fast duplicate keypresses"
+msgstr ""
+
+msgid ""
+"Image files can be dragged on this window to auto-complete the above fields."
+msgstr ""
+
+msgid "Imperial"
+msgstr ""
+
+msgid ""
+"In order to use enterprise logins, this computer needs to be\n"
+"enrolled in the domain. Please have your network administrator\n"
+"type their domain password here."
+msgstr ""
+
+msgid "In the clock, show:"
+msgstr ""
+
+msgid "In the clock’s menu, show:"
+msgstr ""
+
+msgid "In the menu bar"
+msgstr ""
+
+msgid "In the window's title bar"
+msgstr ""
+
+msgid "Include week num_bers"
+msgstr ""
+
+msgid "Increase text size"
+msgstr ""
+
+msgid "Infrastructure"
+msgstr ""
+
+msgid "Ink Level"
+msgstr ""
+
+msgid "Input"
+msgstr ""
+
+msgid "Input Source Settings"
+msgstr ""
+
+msgid "Input Sources"
+msgstr ""
+
+msgid "Input devices (mice, keyboards, etc.)"
+msgstr ""
+
+msgid "Input level:"
+msgstr ""
+
+msgid "Input source:"
+msgstr ""
+
+msgid "Input sources to use:"
+msgstr ""
+
+msgid "Install Updates"
+msgstr ""
+
+msgid "Install languages..."
+msgstr ""
+
+msgid "Invalid password, please try again"
+msgstr ""
+
+msgid ""
+"It is possible to keep the home directory, mail spool and temporary files "
+"around when deleting a user account."
+msgstr ""
+
+msgid "Job State"
+msgstr ""
+
+msgid "Job Title"
+msgstr ""
+
+msgid "Jobs"
+msgstr ""
+
+msgid "Joypad"
+msgstr ""
+
+msgid "Keep aspect ratio (letterbox):"
+msgstr ""
+
+msgid "Keep magnifier cursor centered"
+msgstr ""
+
+msgid "Key presses _repeat when key is held down"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Keyboard Settings"
+msgstr ""
+
+msgid "Keyboard Settings..."
+msgstr ""
+
+msgid ""
+"Keyboard;Mouse;a11y;Accessibility;Contrast;Zoom;Screen "
+"Reader;text;font;size;AccessX;Sticky Keys;Slow Keys;Bounce Keys;Mouse Keys;"
+msgstr ""
+
+msgid "L_auncher placement"
+msgstr ""
+
+msgid "Landscape"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Language;Layout;Keyboard;Input Method;Text Entry;"
+msgstr ""
+
+msgid "Large"
+msgstr ""
+
+msgid "Large Text"
+msgstr ""
+
+msgid "Last Login"
+msgstr ""
+
+msgid "Last Week"
+msgstr ""
+
+msgid "Last used"
+msgstr ""
+
+msgid "Launch calculator"
+msgstr ""
+
+msgid "Launch email client"
+msgstr ""
+
+msgid "Launch help browser"
+msgstr ""
+
+msgid "Launch media player"
+msgstr ""
+
+msgid "Launch terminal"
+msgstr ""
+
+msgid "Launch web browser"
+msgstr ""
+
+msgid "Launchers"
+msgstr ""
+
+msgid "Learn more"
+msgstr ""
+
+msgid "Learn more about color management"
+msgstr ""
+
+msgid "Left Button #%d"
+msgstr ""
+
+msgid "Left Half"
+msgstr ""
+
+msgid "Left Mouse Button Click"
+msgstr ""
+
+msgid "Left Ring"
+msgstr ""
+
+msgid "Left Ring Mode #%d"
+msgstr ""
+
+msgid "Left Touchring Mode Switch"
+msgstr ""
+
+msgid "Left Touchstrip"
+msgstr ""
+
+msgid "Left Touchstrip Mode #%d"
+msgstr ""
+
+msgid "Left Touchstrip Mode Switch"
+msgstr ""
+
+msgid "Left little finger"
+msgstr ""
+
+msgid "Left middle finger"
+msgstr ""
+
+msgid "Left ring finger"
+msgstr ""
+
+msgid "Left side"
+msgstr ""
+
+msgid "Left thumb"
+msgstr ""
+
+msgid "Left-Handed Orientation"
+msgstr ""
+
+msgid "Legal Notice"
+msgstr ""
+
+msgid "Length:"
+msgstr ""
+
+msgid "Less than 1 week"
+msgstr ""
+
+msgid "Line busy"
+msgstr ""
+
+msgid "Link speed"
+msgstr ""
+
+msgid "Loading drivers database..."
+msgstr ""
+
+msgid "Loading options..."
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Locations"
+msgstr ""
+
+msgid "Locations..."
+msgstr ""
+
+msgid "Lock"
+msgstr ""
+
+msgid "Lock screen"
+msgstr ""
+
+msgid "Lock to prevent further changes"
+msgstr ""
+
+msgid "Log in without a password"
+msgstr ""
+
+msgid "Log out"
+msgstr ""
+
+msgid "Logged in"
+msgstr ""
+
+msgid "Login History"
+msgstr ""
+
+msgid "Login Options"
+msgstr ""
+
+msgid "Login;Name;Fingerprint;Avatar;Logo;Face;Password;"
+msgstr ""
+
+msgid "Long"
+msgstr ""
+
+msgid "Long Edge (Standard)"
+msgstr ""
+
+msgid "Look"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "Low on a marker supply"
+msgstr ""
+
+msgid "Low on developer"
+msgstr ""
+
+msgid "Low on paper"
+msgstr ""
+
+msgid "Low on toner"
+msgstr ""
+
+msgid "Lower Button"
+msgstr ""
+
+msgid "M_usic"
+msgstr ""
+
+msgid "Magnification:"
+msgstr ""
+
+msgid "Magnifier"
+msgstr ""
+
+msgid "Magnifier Position:"
+msgstr ""
+
+msgid "Magnifier cursor moves with contents"
+msgstr ""
+
+msgid "Magnifier cursor pushes contents around"
+msgstr ""
+
+msgid "Magnifier extends outside of screen"
+msgstr ""
+
+msgid "Manage user accounts"
+msgstr ""
+
+msgid "Manufacturer:"
+msgstr ""
+
+msgid "Manufacturers"
+msgstr ""
+
+msgid "Map Buttons"
+msgstr ""
+
+msgid "Map Buttons…"
+msgstr ""
+
+msgid "Map buttons to functions"
+msgstr ""
+
+msgid "Map to Monitor…"
+msgstr ""
+
+msgid "Map to single monitor"
+msgstr ""
+
+msgid "Matches"
+msgstr ""
+
+msgid "Measurement"
+msgstr ""
+
+msgid "Media player"
+msgstr ""
+
+msgid "Memory"
+msgstr ""
+
+msgid "Metric"
+msgstr ""
+
+msgid "Middle Mouse Button Click"
+msgstr ""
+
+msgid "Mirrored Displays"
+msgstr ""
+
+msgid "Mis-click detected, restarting..."
+msgstr ""
+
+msgid "Mode Switch #%d"
+msgstr ""
+
+msgid "Mode:"
+msgstr ""
+
+msgid "Model"
+msgstr ""
+
+msgid "Model:"
+msgstr ""
+
+msgid "Modem"
+msgstr ""
+
+msgid "Modem initialization failed"
+msgstr ""
+
+msgid "Modem not found"
+msgstr ""
+
+msgid "Monitor"
+msgstr ""
+
+msgid "Motion _threshold:"
+msgstr ""
+
+msgid "Mouse"
+msgstr ""
+
+msgid "Mouse & Touchpad"
+msgstr ""
+
+msgid "Mouse Keys"
+msgstr ""
+
+msgid "Mouse Preferences"
+msgstr ""
+
+msgid "Mouse Settings"
+msgstr ""
+
+msgid "Mouse and Touchpad Settings"
+msgstr ""
+
+msgid "Move Input Source Down"
+msgstr ""
+
+msgid "Move Input Source Up"
+msgstr ""
+
+msgid "Mute"
+msgstr ""
+
+msgid "My Account"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Network"
+msgstr ""
+
+msgid "Network Name"
+msgstr ""
+
+msgid "Network proxy"
+msgstr ""
+
+msgid "Network registration denied"
+msgstr ""
+
+msgid "Network registration timed out"
+msgstr ""
+
+msgid "Network settings"
+msgstr ""
+
+msgid "Network;Wireless;IP;LAN;Proxy;"
+msgstr ""
+
+msgid "Never"
+msgstr ""
+
+msgid "New accelerator…"
+msgstr ""
+
+msgid "New windows use the current source"
+msgstr ""
+
+msgid "New windows use the default source"
+msgstr ""
+
+msgid "Next Week"
+msgstr ""
+
+msgid "Next track"
+msgstr ""
+
+msgid "Next week"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "No Action"
+msgstr ""
+
+msgid "No Bluetooth adapters found"
+msgstr ""
+
+msgid "No Desktop Background"
+msgstr ""
+
+msgid "No adapters available"
+msgstr ""
+
+msgid "No application is currently playing or recording audio."
+msgstr ""
+
+msgid "No carrier could be established"
+msgstr ""
+
+msgid "No devices supporting color management detected"
+msgstr ""
+
+msgid "No dial tone"
+msgstr ""
+
+msgid "No internet connection — connect to set up new online accounts"
+msgstr ""
+
+msgid "No pre-filtering"
+msgstr ""
+
+msgid "No printers available"
+msgstr ""
+
+msgid "No printers detected."
+msgstr ""
+
+msgid "No profile"
+msgstr ""
+
+msgid "No shortcut set"
+msgstr ""
+
+msgid "No such domain or realm found"
+msgstr ""
+
+msgid "No suitable driver found"
+msgstr ""
+
+msgid "No supported way to authenticate with this domain"
+msgstr ""
+
+msgid "No tablet detected"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Not connected"
+msgstr ""
+
+msgid "Not paired or trusted"
+msgstr ""
+
+msgid "Not searching for networks"
+msgstr ""
+
+msgid "Not specified"
+msgstr ""
+
+msgid "Note: may limit resolution options"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
+
+msgid "OS type"
+msgstr ""
+
+msgid "On Screen Keyboard"
+msgstr ""
+
+msgid "On battery power"
+msgstr ""
+
+msgid "On screen keyboard"
+msgstr ""
+
+msgid "OnBoard"
+msgstr ""
+
+msgid "One Sided"
+msgstr ""
+
+msgctxt "Online Account"
+msgid "Other"
+msgstr ""
+
+msgid "Open cover"
+msgstr ""
+
+msgid "Open door"
+msgstr ""
+
+msgid "Open folder"
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Options..."
+msgstr ""
+
+msgid "Orientation"
+msgstr ""
+
+msgid "Other Accounts"
+msgstr ""
+
+msgid "Other Media"
+msgstr ""
+
+msgid "Other profile…"
+msgstr ""
+
+msgid "Other reveal option"
+msgstr ""
+
+msgid "Out of a marker supply"
+msgstr ""
+
+msgid "Out of developer"
+msgstr ""
+
+msgid "Out of paper"
+msgstr ""
+
+msgid "Out of toner"
+msgstr ""
+
+msgid "Output"
+msgstr ""
+
+msgid "Output Tray"
+msgstr ""
+
+msgid "Output:"
+msgstr ""
+
+msgid "Overlaps mouse cursor"
+msgstr ""
+
+msgid "Overview"
+msgstr ""
+
+msgid "PIN Options"
+msgstr ""
+
+msgid "PIN _options..."
+msgstr ""
+
+msgid "PIN check failed"
+msgstr ""
+
+msgid "PPP failed"
+msgstr ""
+
+msgid "PPP service disconnected"
+msgstr ""
+
+msgid "PPP service failed to start"
+msgstr ""
+
+msgid "Pages per side"
+msgstr ""
+
+msgid "Paired"
+msgstr ""
+
+msgid "Paired or trusted"
+msgstr ""
+
+msgid "Pairing with '%s' cancelled"
+msgstr ""
+
+msgid "Panel to display"
+msgstr ""
+
+msgid "Panel;Projector;xrandr;Screen;Resolution;Refresh;"
+msgstr ""
+
+msgid "Paper Source"
+msgstr ""
+
+msgid "Paper Type"
+msgstr ""
+
+msgid "Password could not be changed"
+msgstr ""
+
+msgctxt "Password mode"
+msgid "Account disabled"
+msgstr ""
+
+msgctxt "Password mode"
+msgid "None"
+msgstr ""
+
+msgctxt "Password mode"
+msgid "To be set at next login"
+msgstr ""
+
+msgctxt "Password strength"
+msgid "Fair"
+msgstr ""
+
+msgctxt "Password strength"
+msgid "Good"
+msgstr ""
+
+msgctxt "Password strength"
+msgid "Not good enough"
+msgstr ""
+
+msgctxt "Password strength"
+msgid "Strong"
+msgstr ""
+
+msgctxt "Password strength"
+msgid "Too short"
+msgstr ""
+
+msgctxt "Password strength"
+msgid "Weak"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Pause Printing"
+msgstr ""
+
+msgid "Pause playback"
+msgstr ""
+
+msgid "Peak detect"
+msgstr ""
+
+msgid "Personal digital assistant"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Photograph"
+msgstr ""
+
+msgid "Picture CD"
+msgstr ""
+
+msgid "Pictures Folder"
+msgstr ""
+
+msgid "Play (or play/pause)"
+msgstr ""
+
+msgid "Play sound through"
+msgstr ""
+
+msgid "Please choose another password."
+msgstr ""
+
+msgid "Please confirm that the PIN displayed on '%s' matches this one."
+msgstr ""
+
+msgid "Please contact your system administrator for help."
+msgstr ""
+
+msgid ""
+"Please enter the following PIN on '%s' and press “Enter” on the keyboard:"
+msgstr ""
+
+msgid "Please enter the following PIN on '%s':"
+msgstr ""
+
+msgid "Please make sure that the AccountService is installed and enabled."
+msgstr ""
+
+msgid "Please move the joystick of your iCade in the following directions:"
+msgstr ""
+
+msgid "Please plug in or turn on your Wacom tablet"
+msgstr ""
+
+msgid ""
+"Please tap the target markers as they appear on screen to calibrate the "
+"tablet."
+msgstr ""
+
+msgid "Please type your current password again."
+msgstr ""
+
+msgid "Please wait while finishing setup on device '%s'..."
+msgstr ""
+
+msgid "Pointing and Clicking"
+msgstr ""
+
+msgid "Portrait"
+msgstr ""
+
+msgid ""
+"PostScript Printer Description files (*.ppd, *.PPD, *.ppd.gz, *.PPD.gz, "
+"*.PPD.GZ)"
+msgstr ""
+
+msgid "Power"
+msgstr ""
+
+msgctxt "Power"
+msgid "Bluetooth"
+msgstr ""
+
+msgid "Power management settings"
+msgstr ""
+
+msgid "Power;Sleep;Suspend;Hibernate;Battery;"
+msgstr ""
+
+msgid "Preferences;Settings;"
+msgstr ""
+
+msgid "Previous Week"
+msgstr ""
+
+msgid "Previous track"
+msgstr ""
+
+msgid "Primary _button"
+msgstr ""
+
+msgid "Print _Test Page"
+msgstr ""
+
+msgid "Printer"
+msgstr ""
+
+msgid "Printer Default"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Advanced"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Color"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Finishing"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "General"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Image Quality"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Installable Options"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Job"
+msgstr ""
+
+msgctxt "Printer Option Group"
+msgid "Page Setup"
+msgstr ""
+
+msgid "Printer;Queue;Print;Paper;Ink;Toner;"
+msgstr ""
+
+msgid "Printers"
+msgstr ""
+
+msgid "Processor"
+msgstr ""
+
+msgid "Profiles"
+msgstr ""
+
+msgid "Provide PPD File..."
+msgstr ""
+
+msgid "Provider"
+msgstr ""
+
+msgid "Proxy"
+msgstr ""
+
+msgid "Puts a delay between when a key is pressed and when it is accepted"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "R_otation"
+msgstr ""
+
+msgid "Record sound from"
+msgstr ""
+
+msgid "Region and Language"
+msgstr ""
+
+msgid "Removable Media"
+msgstr ""
+
+msgid "Remove '%s' from the list of devices?"
+msgstr ""
+
+msgid "Remove Account"
+msgstr ""
+
+msgid "Remove Device"
+msgstr ""
+
+msgid "Remove Input Source"
+msgstr ""
+
+msgid "Remove Printer"
+msgstr ""
+
+msgid "Remove Region"
+msgstr ""
+
+msgid "Remove Shortcut"
+msgstr ""
+
+msgid "Remove This Location"
+msgstr ""
+
+msgid "Remove User Account"
+msgstr ""
+
+msgid "Remove a device"
+msgstr ""
+
+msgid "Remove profile"
+msgstr ""
+
+msgid "Remove wallpaper"
+msgstr ""
+
+msgid "Repeat Keys"
+msgstr ""
+
+msgid "Repeat keys speed"
+msgstr ""
+
+msgid "Require my password when waking from suspend"
+msgstr ""
+
+msgid "Resolution"
+msgstr ""
+
+msgid "Restore Behavior Settings"
+msgstr ""
+
+msgid "Resume Printing"
+msgstr ""
+
+msgid "Reveal location:"
+msgstr ""
+
+msgid "Reveal sensitivity"
+msgstr ""
+
+msgid "Reverse landscape"
+msgstr ""
+
+msgid "Reverse portrait"
+msgstr ""
+
+msgid "Right Button #%d"
+msgstr ""
+
+msgid "Right Half"
+msgstr ""
+
+msgid "Right Mouse Button Click"
+msgstr ""
+
+msgid "Right Ring"
+msgstr ""
+
+msgid "Right Ring Mode #%d"
+msgstr ""
+
+msgid "Right Touchring Mode Switch"
+msgstr ""
+
+msgid "Right Touchstrip"
+msgstr ""
+
+msgid "Right Touchstrip Mode #%d"
+msgstr ""
+
+msgid "Right Touchstrip Mode Switch"
+msgstr ""
+
+msgid "Right little finger"
+msgstr ""
+
+msgid "Right middle finger"
+msgstr ""
+
+msgid "Right ring finger"
+msgstr ""
+
+msgid "Right thumb"
+msgstr ""
+
+msgid "SIM Card not inserted"
+msgstr ""
+
+msgid "SIM Pin required"
+msgstr ""
+
+msgid "SIM Puk required"
+msgstr ""
+
+msgid "SIM wrong"
+msgstr ""
+
+msgid "S_peed:"
+msgstr ""
+
+msgid "S_ticky edges"
+msgstr ""
+
+msgid "Scale"
+msgstr ""
+
+msgid "Scale all window _contents to match:"
+msgstr ""
+
+msgid "Scale for menu and title bars:"
+msgstr ""
+
+msgid "Screen Calibration"
+msgstr ""
+
+msgid "Screen Reader"
+msgstr ""
+
+msgid "Screen brightness and lock settings"
+msgstr ""
+
+msgid "Screen part:"
+msgstr ""
+
+msgid "Screen turns off"
+msgstr ""
+
+msgid "Screenshots"
+msgstr ""
+
+msgid "Scroll Down"
+msgstr ""
+
+msgid "Scroll Left"
+msgstr ""
+
+msgid "Scroll Right"
+msgstr ""
+
+msgid "Scroll Up"
+msgstr ""
+
+msgid "Search"
+msgstr ""
+
+msgid "Search for network printers or filter result"
+msgstr ""
+
+msgid "Search for the string"
+msgstr ""
+
+msgid "Searching for devices..."
+msgstr ""
+
+msgid "Searching for preferred drivers..."
+msgstr ""
+
+msgid "Seco_nds"
+msgstr ""
+
+msgid "Secondary click delay"
+msgstr ""
+
+msgid "Secrets were required, but not provided"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Security"
+msgstr ""
+
+msgid "Security type"
+msgstr ""
+
+msgid "Seeing"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Select ICC Profile File"
+msgstr ""
+
+msgid "Select PPD File"
+msgstr ""
+
+msgid "Select Printer Driver"
+msgstr ""
+
+msgid ""
+"Select a display language (change will be applied next time you log in)"
+msgstr ""
+
+msgid "Select a language"
+msgstr ""
+
+msgid ""
+"Select a monitor to change its properties; drag it to rearrange its "
+"placement."
+msgstr ""
+
+msgid "Select a region"
+msgstr ""
+
+msgid "Select a region (change will be applied the next time you log in)"
+msgstr ""
+
+msgid "Select an application for audio CDs"
+msgstr ""
+
+msgid "Select an application for software CDs"
+msgstr ""
+
+msgid "Select an application for video DVDs"
+msgstr ""
+
+msgid "Select an application to run when a camera is connected"
+msgstr ""
+
+msgid "Select an application to run when a music player is connected"
+msgstr ""
+
+msgid "Select an input source to add"
+msgstr ""
+
+msgid "Select from database..."
+msgstr ""
+
+msgid "Select how media should be handled"
+msgstr ""
+
+msgid "Select how other media should be handled"
+msgstr ""
+
+msgid "Select keyboards or other input sources"
+msgstr ""
+
+msgid "Select the additional services you want to use with your device:"
+msgstr ""
+
+msgid "Select the device category to filter"
+msgstr ""
+
+msgid "Select the device type to filter"
+msgstr ""
+
+msgid "Selecting finger"
+msgstr ""
+
+msgid "Send Files…"
+msgstr ""
+
+msgid "Session Ended"
+msgstr ""
+
+msgid "Session Started"
+msgstr ""
+
+msgid "Set Up New Device"
+msgstr ""
+
+msgid "Set a password now"
+msgstr ""
+
+msgid "Set button mappings and adjust stylus sensitivity for graphics tablets"
+msgstr ""
+
+msgid "Set for all users"
+msgstr ""
+
+msgid "Set the time:"
+msgstr ""
+
+msgid "Set this profile for all users on this computer"
+msgstr ""
+
+msgid "Set your mouse and touchpad preferences"
+msgstr ""
+
+msgid "Setting new driver..."
+msgstr ""
+
+msgid "Setting up '%s' failed"
+msgstr ""
+
+msgid "Settings for %s"
+msgstr ""
+
+msgid "Settings for the selected device"
+msgstr ""
+
+msgid "Setup Summary"
+msgstr ""
+
+msgid "Shared connection service failed"
+msgstr ""
+
+msgid "Shared connection service failed to start"
+msgstr ""
+
+msgid "Short"
+msgstr ""
+
+msgid "Short Edge (Flip)"
+msgstr ""
+
+msgid "Shortcut Settings"
+msgstr ""
+
+msgid "Shortcut;Repeat;Blink;"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show Keyboard Layout"
+msgstr ""
+
+msgid "Show accessibility profiles indicator"
+msgstr ""
+
+msgid "Show battery status in the _menu bar"
+msgstr ""
+
+msgid "Show current input source in the menu bar"
+msgstr ""
+
+msgid "Show help options"
+msgstr ""
+
+msgid "Show input candidates:"
+msgstr ""
+
+msgid "Show sound volume in the menu bar"
+msgstr ""
+
+msgid "Show the overview"
+msgstr ""
+
+msgid "Show:"
+msgstr ""
+
+msgctxt "Signal strength"
+msgid "Excellent"
+msgstr ""
+
+msgctxt "Signal strength"
+msgid "Good"
+msgstr ""
+
+msgctxt "Signal strength"
+msgid "None"
+msgstr ""
+
+msgctxt "Signal strength"
+msgid "Ok"
+msgstr ""
+
+msgctxt "Signal strength"
+msgid "Weak"
+msgstr ""
+
+msgid "Simulated Secondary Click"
+msgstr ""
+
+msgid "Single click, middle button"
+msgstr ""
+
+msgid "Single click, primary button"
+msgstr ""
+
+msgid "Single click, secondary button"
+msgstr ""
+
+msgid "Slow"
+msgstr ""
+
+msgid "Slow Keys"
+msgstr ""
+
+msgid "Slow keys typing delay"
+msgstr ""
+
+msgid "Small"
+msgstr ""
+
+msgid "Soft"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Solid Color"
+msgstr ""
+
+msgid ""
+"Some settings have been overriden by an external program, press \"Restore "
+"Default Behaviors\"  to reset the behavior and return control to this panel."
+msgstr ""
+
+msgid ""
+"Sorry! The system printing service\n"
+"doesn't seem to be available."
+msgstr ""
+
+msgid "Sort by _Name"
+msgstr ""
+
+msgid "Sort by _Time"
+msgstr ""
+
+msgid "Sound"
+msgstr ""
+
+msgid "Sound Effects"
+msgstr ""
+
+msgid "Sound Preferences"
+msgstr ""
+
+msgid "Sound Settings"
+msgstr ""
+
+msgid "Sound and Media"
+msgstr ""
+
+msgid "Spain"
+msgstr ""
+
+msgid "Span"
+msgstr ""
+
+msgid "Speaker Testing for %s"
+msgstr ""
+
+msgid "Status unknown"
+msgstr ""
+
+msgid "Status unknown (missing)"
+msgstr ""
+
+msgid "Sticky Keys"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Stop hotspot and disconnect any users?"
+msgstr ""
+
+msgid "Stop playback"
+msgstr ""
+
+msgid "Stylus"
+msgstr ""
+
+msgid "Subwoofer"
+msgstr ""
+
+msgid "Successfully set up new device '%s'"
+msgstr ""
+
+msgid "Summary"
+msgstr ""
+
+msgid "Super Video CD"
+msgstr ""
+
+msgid "Supply"
+msgstr ""
+
+msgid "Supply Level"
+msgstr ""
+
+msgid "Supported ICC profiles"
+msgstr ""
+
+msgid "Suspend"
+msgstr ""
+
+msgid "Suspend when inactive for"
+msgstr ""
+
+msgid "Switch Modes"
+msgstr ""
+
+msgid "Switch to next source"
+msgstr ""
+
+msgid "Switch to next source using:"
+msgstr ""
+
+msgid "Switch to previous source"
+msgstr ""
+
+msgid "Switch to previous source using:"
+msgstr ""
+
+msgid "Switching on the wireless hotspot will disconnect you from <b>%s</b>."
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "System Information"
+msgstr ""
+
+msgid "System Settings"
+msgstr ""
+
+msgid "System Sounds"
+msgstr ""
+
+msgid "System Up-To-Date"
+msgstr ""
+
+msgid "System settings"
+msgstr ""
+
+msgid "Tablet"
+msgstr ""
+
+msgid "Tablet (absolute)"
+msgstr ""
+
+msgid "Tablet Preferences"
+msgstr ""
+
+msgid "Tablet;Wacom;Stylus;Eraser;Mouse;"
+msgstr ""
+
+msgid "Take a photograph"
+msgstr ""
+
+msgid "Take a photo…"
+msgstr ""
+
+msgid "Take a screenshot"
+msgstr ""
+
+msgid "Take a screenshot of a window"
+msgstr ""
+
+msgid "Take a screenshot of an area"
+msgstr ""
+
+msgid "Tap to _click"
+msgstr ""
+
+msgid "Test"
+msgstr ""
+
+msgid "Test Sound"
+msgstr ""
+
+msgid "Test page"
+msgstr ""
+
+msgid "Test profile: "
+msgstr ""
+
+msgid "Testing event sound"
+msgstr ""
+
+msgid "Text Entry"
+msgstr ""
+
+msgid ""
+"The control center is Unity’s main interface for configuration of various "
+"aspects of your desktop."
+msgstr ""
+
+msgid "The current password is not correct"
+msgstr ""
+
+msgid "The device is already in use."
+msgstr ""
+
+msgid "The device type is not currently supported."
+msgstr ""
+
+msgid ""
+"The login screen, system accounts and new user accounts use the system-wide "
+"Region and Language settings."
+msgstr ""
+
+msgid ""
+"The login screen, system accounts and new user accounts use the system-wide "
+"Region and Language settings. You may change the system settings to match "
+"yours."
+msgstr ""
+
+msgid "The measuring instrument does not support printer profiling."
+msgstr ""
+
+msgid ""
+"The measuring instrument is not detected. Please check it is turned on and "
+"correctly connected."
+msgstr ""
+
+msgid "The new password does not contain enough different characters"
+msgstr ""
+
+msgid "The new password has already been used recently."
+msgstr ""
+
+msgid "The new password is not strong enough"
+msgstr ""
+
+msgid "The new password is too short"
+msgstr ""
+
+msgid "The new password is too simple"
+msgstr ""
+
+msgid "The new password must contain numeric or special characters"
+msgstr ""
+
+msgid "The old and new passwords are the same"
+msgstr ""
+
+msgid "The old and new passwords are too similar"
+msgstr ""
+
+msgid "The optical photo conductor is near end of life"
+msgstr ""
+
+msgid "The optical photo conductor is no longer functioning"
+msgstr ""
+
+msgid "The passwords do not match"
+msgstr ""
+
+msgid ""
+"The shortcut \"%s\" cannot be used because it will become impossible to type using this key.\n"
+"Please try with a key such as Control, Alt or Shift at the same time."
+msgstr ""
+
+msgid ""
+"The shortcut \"%s\" is already used for\n"
+"\"%s\""
+msgstr ""
+
+msgid "The username cannot start with a '-'"
+msgstr ""
+
+msgid "The username is too long"
+msgstr ""
+
+msgid ""
+"The username must only consist of:\n"
+" ➣ lowercase letters from the English alphabet\n"
+" ➣ digits\n"
+" ➣ any of the characters '.', '-' and '_'"
+msgstr ""
+
+msgid "Thick"
+msgstr ""
+
+msgid "Thickness:"
+msgstr ""
+
+msgid "Thin"
+msgstr ""
+
+msgid "This Week"
+msgstr ""
+
+msgid ""
+"This device does not have a profile suitable for whole-screen color "
+"correction."
+msgstr ""
+
+msgid "This device has an old profile that may no longer be accurate."
+msgstr ""
+
+msgid "This device is not color managed."
+msgstr ""
+
+msgid "This device is using manufacturing calibrated data."
+msgstr ""
+
+msgid ""
+"This hint may be displayed at the login screen.  It will be visible to all "
+"users of this system.  Do <b>not</b> include the password here."
+msgstr ""
+
+msgid "This is not recommended for untrusted public networks."
+msgstr ""
+
+msgid "Tile"
+msgstr ""
+
+msgid "Tim_e:"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Time & Date"
+msgstr ""
+
+msgid "Time in _auto-detected location"
+msgstr ""
+
+msgid "Time in _other locations"
+msgstr ""
+
+msgid "Times"
+msgstr ""
+
+msgid "Tip Pressure Feel"
+msgstr ""
+
+msgid ""
+"Tip: <a href=\"screen\">screen brightness</a> affects how much power is used"
+msgstr ""
+
+msgid "Tip: Enterprise domain or realm name"
+msgstr ""
+
+msgid "To change time or date settings, you need to authenticate."
+msgstr ""
+
+msgid ""
+"To create a user account,\n"
+"click the * icon first"
+msgstr ""
+
+msgid ""
+"To delete the selected user account,\n"
+"click the * icon first"
+msgstr ""
+
+msgid ""
+"To edit a shortcut, click the row and hold down the new keys or press "
+"Backspace to clear."
+msgstr ""
+
+msgid ""
+"To enable fingerprint login, you need to save one of your fingerprints, "
+"using the '%s' device."
+msgstr ""
+
+msgid ""
+"To make changes,\n"
+"click the * icon first"
+msgstr ""
+
+msgid "Today"
+msgstr ""
+
+msgid "Toner Level"
+msgstr ""
+
+msgid "Top Button"
+msgstr ""
+
+msgid "Top Button #%d"
+msgstr ""
+
+msgid "Top Half"
+msgstr ""
+
+msgid "Top left corner"
+msgstr ""
+
+msgid "Touchpad"
+msgstr ""
+
+msgid "Touchpad (relative)"
+msgstr ""
+
+msgid "Tracking Mode"
+msgstr ""
+
+msgid "Trackpad;Pointer;Click;Tap;Double;Button;Trackball;"
+msgstr ""
+
+msgid "Treats a sequence of modifier keys as a key combination"
+msgstr ""
+
+msgid "Trigger a click when the pointer hovers"
+msgstr ""
+
+msgid "Trigger a secondary click by holding down the primary button"
+msgstr ""
+
+msgid "Trusted"
+msgstr ""
+
+msgid "Try clicking, double clicking, scrolling"
+msgstr ""
+
+msgid "Turn accessibility features on and off using the keyboard"
+msgstr ""
+
+msgid "Turn on or off:"
+msgstr ""
+
+msgid "Turn on-screen keyboard on or off"
+msgstr ""
+
+msgid "Turn screen reader on or off"
+msgstr ""
+
+msgid "Turn zoom on or off"
+msgstr ""
+
+msgid "Two Sided"
+msgstr ""
+
+msgid "Two _finger scroll"
+msgstr ""
+
+msgid "Two-sided"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Typing"
+msgstr ""
+
+msgid "Unavailable"
+msgstr ""
+
+msgid "Uncalibrated"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "Uninterruptible power supply"
+msgstr ""
+
+msgid "United States"
+msgstr ""
+
+msgid "Unity Control Center"
+msgstr ""
+
+msgid "Universal Access"
+msgstr ""
+
+msgid "Universal Access Preferences"
+msgstr ""
+
+msgid "Unknown"
+msgstr ""
+
+msgid "Unknown error"
+msgstr ""
+
+msgid "Unknown time"
+msgstr ""
+
+msgid "Unlock to change these settings"
+msgstr ""
+
+msgid "Unmanaged"
+msgstr ""
+
+msgid "Unspecified"
+msgstr ""
+
+msgid "Use a visual indication when an alert sound occurs"
+msgstr ""
+
+msgid "Use the same source for all windows"
+msgstr ""
+
+msgid "Used by %s"
+msgstr ""
+
+msgid "User Accounts"
+msgstr ""
+
+msgid "User Icon"
+msgstr ""
+
+msgid "User interface scale factor"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Using UPS power"
+msgstr ""
+
+msgid "Using UPS power - %s remaining"
+msgstr ""
+
+msgid "Using battery power"
+msgstr ""
+
+msgid "Using battery power - %s remaining"
+msgstr ""
+
+msgid "Using custom font:"
+msgstr ""
+
+msgid "Utilities to configure the Unity desktop"
+msgstr ""
+
+msgid "VPN Type"
+msgstr ""
+
+msgid "Version %s"
+msgstr ""
+
+msgid "Vertical Gradient"
+msgstr ""
+
+msgid "Vertically"
+msgstr ""
+
+msgid "Video CD"
+msgstr ""
+
+msgid "Video Mouse"
+msgstr ""
+
+msgid "Video device"
+msgstr ""
+
+msgid "View details"
+msgstr ""
+
+msgid "Visibility"
+msgstr ""
+
+msgid "Visibility of “%s”"
+msgstr ""
+
+msgid "Visual Alerts"
+msgstr ""
+
+msgid "Visual effects:"
+msgstr ""
+
+msgid "Volume down"
+msgstr ""
+
+msgid "Volume mute"
+msgstr ""
+
+msgid "Volume up"
+msgstr ""
+
+msgid "WEP"
+msgstr ""
+
+msgid "WPA"
+msgstr ""
+
+msgid "WPA2"
+msgstr ""
+
+msgid "Wacom Tablet"
+msgstr ""
+
+msgctxt "Wacom action-type"
+msgid "None"
+msgstr ""
+
+msgctxt "Wacom action-type"
+msgid "Send Keystroke"
+msgstr ""
+
+msgctxt "Wacom action-type"
+msgid "Show On-Screen Help"
+msgstr ""
+
+msgctxt "Wacom action-type"
+msgid "Switch Monitor"
+msgstr ""
+
+msgctxt "Wacom tablet button"
+msgid "Down"
+msgstr ""
+
+msgctxt "Wacom tablet button"
+msgid "Up"
+msgstr ""
+
+msgid ""
+"Wallpaper;Background;Screen;Desktop;Theme;Appearance;Launcher;Unity;Menus;"
+msgstr ""
+
+msgid "Wallpapers"
+msgstr ""
+
+msgid "Waste receptacle almost full"
+msgstr ""
+
+msgid "Waste receptacle full"
+msgstr ""
+
+msgid ""
+"Web Proxy Autodiscovery is used when a Configuration URL is not provided."
+msgstr ""
+
+msgid "When battery is charging/in use"
+msgstr ""
+
+msgid "When battery is present"
+msgstr ""
+
+msgid "When plugged in"
+msgstr ""
+
+msgid "When the lid is closed"
+msgstr ""
+
+msgid "White on black:"
+msgstr ""
+
+msgctxt "Wifi security"
+msgid "None"
+msgstr ""
+
+msgid "Windows software"
+msgstr ""
+
+msgid "Wireless keyboard"
+msgstr ""
+
+msgid "Wireless mouse"
+msgstr ""
+
+msgid "Wrong password"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Yesterday"
+msgstr ""
+
+msgid ""
+"You are not allowed to access the device. Contact your system administrator."
+msgstr ""
+
+msgid "You cannot delete your own account."
+msgstr ""
+
+msgid "You need to choose a location to change the time zone."
+msgstr ""
+
+msgid "You need to complete this location for it to appear in the menu."
+msgstr ""
+
+msgid "You need to confirm the password"
+msgstr ""
+
+msgid "You need to enter a new password"
+msgstr ""
+
+msgid "You need to enter your current password"
+msgstr ""
+
+msgid ""
+"Your fingerprint was successfully saved. You should now be able to log in "
+"using your fingerprint reader."
+msgstr ""
+
+msgid "Your password has been changed since you initially authenticated!"
+msgstr ""
+
+msgid "Your secondary battery is empty"
+msgstr ""
+
+msgid "Your secondary battery is fully charged"
+msgstr ""
+
+msgid "Your settings"
+msgstr ""
+
+msgid "Zoom"
+msgstr ""
+
+msgctxt "Zoom Grayscale"
+msgid "Color"
+msgstr ""
+
+msgctxt "Zoom Grayscale"
+msgid "Full"
+msgstr ""
+
+msgctxt "Zoom Grayscale"
+msgid "None"
+msgstr ""
+
+msgid "Zoom Options"
+msgstr ""
+
+msgid "Zoom in"
+msgstr ""
+
+msgid "Zoom in:"
+msgstr ""
+
+msgid "Zoom out"
+msgstr ""
+
+msgid "Zoom out:"
+msgstr ""
+
+msgid "[PANEL] [ARGUMENT…]"
+msgstr ""
+
+msgid "_12-hour time"
+msgstr ""
+
+msgid "_24-hour time"
+msgstr ""
+
+msgid "_Action"
+msgstr ""
+
+msgid "_Action:"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Alert volume:"
+msgstr ""
+
+msgid "_All Settings"
+msgstr ""
+
+msgid "_Automatic PIN selection"
+msgstr ""
+
+msgid "_Automatically from the Internet"
+msgstr ""
+
+msgid "_Balance:"
+msgstr ""
+
+msgid "_Calendar"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Clock"
+msgstr ""
+
+msgid "_Close"
+msgstr ""
+
+msgid "_Configuration URL"
+msgstr ""
+
+msgid "_DVD video"
+msgstr ""
+
+msgid "_Date and month"
+msgstr ""
+
+msgid "_Date:"
+msgstr ""
+
+msgid "_Default"
+msgstr ""
+
+msgid "_Delay:"
+msgstr ""
+
+msgid "_Delete Files"
+msgstr ""
+
+msgid "_Delete Fingerprints"
+msgstr ""
+
+msgid "_Detect Displays"
+msgstr ""
+
+msgid "_Dim screen to save power"
+msgstr ""
+
+msgid "_Disable if two keys are pressed together"
+msgstr ""
+
+msgid "_Domain"
+msgstr ""
+
+msgid "_Double-click"
+msgstr ""
+
+msgid "_Enterprise Login"
+msgstr ""
+
+msgid "_FTP Proxy"
+msgstr ""
+
+msgid "_Fade:"
+msgstr ""
+
+msgid "_Fingerprint Login"
+msgstr ""
+
+msgid "_Full name"
+msgstr ""
+
+msgid "_Generate a password"
+msgstr ""
+
+msgid "_HTTP Proxy"
+msgstr ""
+
+msgid "_Hint"
+msgstr ""
+
+msgid "_Import"
+msgstr ""
+
+msgid "_Input volume:"
+msgstr ""
+
+msgid "_Keep Files"
+msgstr ""
+
+msgid "_Language"
+msgstr ""
+
+msgid "_Left"
+msgstr ""
+
+msgid "_Left index finger"
+msgstr ""
+
+msgid "_Local Account"
+msgstr ""
+
+msgid "_Location:"
+msgstr ""
+
+msgid "_Lock screen after:"
+msgstr ""
+
+msgid "_Login Name"
+msgstr ""
+
+msgid "_Mail"
+msgstr ""
+
+msgid "_Manually"
+msgstr ""
+
+msgid "_Method"
+msgstr ""
+
+msgid "_Mirror displays"
+msgstr ""
+
+msgid "_Monthly calendar"
+msgstr ""
+
+msgid "_Music player"
+msgstr ""
+
+msgid "_Name:"
+msgstr ""
+
+msgid "_Natural scrolling"
+msgstr ""
+
+msgid "_Never prompt or start programs on media insertion"
+msgstr ""
+
+msgid "_New password"
+msgstr ""
+
+msgid "_Open"
+msgstr ""
+
+msgid "_Options"
+msgstr ""
+
+msgid "_Options..."
+msgstr ""
+
+msgid "_Other Media…"
+msgstr ""
+
+msgid "_Other finger:"
+msgstr ""
+
+msgid "_Output volume:"
+msgstr ""
+
+msgid "_Password"
+msgstr ""
+
+msgid "_Photos"
+msgstr ""
+
+msgid "_Pointer speed"
+msgstr ""
+
+msgid "_Profile:"
+msgstr ""
+
+msgid "_Quit"
+msgstr ""
+
+msgid "_Reassign"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Resolution"
+msgstr ""
+
+msgid "_Right"
+msgstr ""
+
+msgid "_Right index finger"
+msgstr ""
+
+msgid "_Select"
+msgstr ""
+
+msgid "_Show"
+msgstr ""
+
+msgid "_Show Bluetooth status in the menu bar"
+msgstr ""
+
+msgid "_Show a clock in the menu bar"
+msgstr ""
+
+msgid "_Show my login name in the menu bar"
+msgstr ""
+
+msgid "_Show password"
+msgstr ""
+
+msgid "_Socks Host"
+msgstr ""
+
+msgid "_Software"
+msgstr ""
+
+msgid "_Speed:"
+msgstr ""
+
+msgid "_Stop Hotspot"
+msgstr ""
+
+msgid "_Subwoofer:"
+msgstr ""
+
+msgid "_Test Your Settings"
+msgstr ""
+
+msgid "_Test flash"
+msgstr ""
+
+msgid "_Time & Date"
+msgstr ""
+
+msgid "_Try Again"
+msgstr ""
+
+msgid "_Turn On"
+msgstr ""
+
+msgid "_Turn screen off when inactive for:"
+msgstr ""
+
+msgid "_Type:"
+msgstr ""
+
+msgid "_Username"
+msgstr ""
+
+msgid "_Video"
+msgstr ""
+
+msgid "_Web"
+msgstr ""
+
+msgid "_Weekday"
+msgstr ""
+
+msgid "_Year"
+msgstr ""
+
+msgid "accepted"
+msgstr ""
+
+msgid "audio DVD"
+msgstr ""
+
+msgctxt "balance"
+msgid "Front"
+msgstr ""
+
+msgctxt "balance"
+msgid "Left"
+msgstr ""
+
+msgctxt "balance"
+msgid "Maximum"
+msgstr ""
+
+msgctxt "balance"
+msgid "Minimum"
+msgstr ""
+
+msgctxt "balance"
+msgid "Rear"
+msgstr ""
+
+msgctxt "balance"
+msgid "Right"
+msgstr ""
+
+msgid "blank Blu-ray disc"
+msgstr ""
+
+msgid "blank CD disc"
+msgstr ""
+
+msgid "blank DVD disc"
+msgstr ""
+
+msgid "blank HD DVD disc"
+msgstr ""
+
+msgid "default"
+msgstr ""
+
+msgid ""
+"device;system;information;memory;processor;version;default;application;preferred;cd;dvd;usb;audio;video;disc;removable;media;autorun;"
+msgstr ""
+
+msgctxt "display panel, rotation"
+msgid "180 Degrees"
+msgstr ""
+
+msgctxt "display panel, rotation"
+msgid "Clockwise"
+msgstr ""
+
+msgctxt "display panel, rotation"
+msgid "Counterclockwise"
+msgstr ""
+
+msgctxt "display panel, rotation"
+msgid "Normal"
+msgstr ""
+
+msgid "e-book reader"
+msgstr ""
+
+msgid "hour"
+msgid_plural "hours"
+msgstr[0] ""
+
+msgid "label"
+msgstr ""
+
+msgctxt "login date-time"
+msgid "%k:%M"
+msgstr ""
+
+msgctxt "login date-time"
+msgid "%s, %s"
+msgstr ""
+
+msgctxt "login history week label"
+msgid "%b %e"
+msgstr ""
+
+msgctxt "login history week label"
+msgid "%b %e, %Y"
+msgstr ""
+
+msgctxt "login history week label"
+msgid "%s - %s"
+msgstr ""
+
+msgid "minute"
+msgid_plural "minutes"
+msgstr[0] ""
+
+msgid "multiple sizes"
+msgstr ""
+
+msgid "never"
+msgstr ""
+
+msgid "page 1"
+msgstr ""
+
+msgid "page 2"
+msgstr ""
+
+msgid "page 3"
+msgstr ""
+
+msgid "pressed"
+msgstr ""
+
+msgctxt "print job"
+msgid "Aborted"
+msgstr ""
+
+msgctxt "print job"
+msgid "Canceled"
+msgstr ""
+
+msgctxt "print job"
+msgid "Completed"
+msgstr ""
+
+msgctxt "print job"
+msgid "Held"
+msgstr ""
+
+msgctxt "print job"
+msgid "Pending"
+msgstr ""
+
+msgctxt "print job"
+msgid "Processing"
+msgstr ""
+
+msgctxt "print job"
+msgid "Stopped"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Configuring"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Installing"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Offline"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Paused"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Processing"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Ready"
+msgstr ""
+
+msgctxt "printer state"
+msgid "Stopped"
+msgstr ""
+
+msgctxt "proxy method"
+msgid "Automatic"
+msgstr ""
+
+msgctxt "proxy method"
+msgid "Manual"
+msgstr ""
+
+msgctxt "proxy method"
+msgid "None"
+msgstr ""
+
+msgid "rejected"
+msgstr ""
+
+msgid "today"
+msgstr ""
+
+msgctxt "universal access, contrast"
+msgid "High"
+msgstr ""
+
+msgctxt "universal access, contrast"
+msgid "High/Inverse"
+msgstr ""
+
+msgctxt "universal access, contrast"
+msgid "Low"
+msgstr ""
+
+msgctxt "universal access, contrast"
+msgid "Normal"
+msgstr ""
+
+msgctxt "universal access, text size"
+msgid "Large"
+msgstr ""
+
+msgctxt "universal access, text size"
+msgid "Larger"
+msgstr ""
+
+msgctxt "universal access, text size"
+msgid "Normal"
+msgstr ""
+
+msgctxt "universal access, text size"
+msgid "Small"
+msgstr ""
+
+msgctxt "universal access, zoom"
+msgid "Zoom"
+msgstr ""
+
+msgctxt "volume"
+msgid "100%"
+msgstr ""
+
+msgctxt "volume"
+msgid "Unamplified"
+msgstr ""
+
+msgid "yesterday"
+msgstr ""

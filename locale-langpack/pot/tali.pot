@@ -1,0 +1,299 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-games master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=tali&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-06 03:21+0000\n"
+"Last-Translator: Mandy Wang <Unknown>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 20:22+0000\n"
+
+msgid "%s wins the game with %d point"
+msgid_plural "%s wins the game with %d points"
+msgstr[0] ""
+
+msgid "%s! – You’re up."
+msgstr ""
+
+msgid "1s [total of 1s]"
+msgstr ""
+
+msgid "2 pair Same Color [total]"
+msgstr ""
+
+msgid "2s [total of 2s]"
+msgstr ""
+
+msgid "3 of a Kind [total]"
+msgstr ""
+
+msgid "3s [total of 3s]"
+msgstr ""
+
+msgid "4 of a Kind [25 + total]"
+msgstr ""
+
+msgid "4 of a Kind [total]"
+msgstr ""
+
+msgid "4s [total of 4s]"
+msgstr ""
+
+msgid "5 of a Kind [50 + total]"
+msgstr ""
+
+msgid "5 of a Kind [50]"
+msgstr ""
+
+msgid "5 of a Kind [total]"
+msgstr ""
+
+msgid "5s [total of 5s]"
+msgstr ""
+
+msgid "6s [total of 6s]"
+msgstr ""
+
+msgid ""
+"A variation on poker with dice and less money, this game is a family "
+"classic. Throw the dice three times in a row, holding back the ones you "
+"like, in order to make the best possible hand. You can also play a lesser-"
+"known variant with colored dice."
+msgstr ""
+
+msgid "A variation on poker with dice and less money."
+msgstr ""
+
+msgid "Already used! Where do you want to put that?"
+msgstr ""
+
+msgid "Beat the odds in a poker-style dice game"
+msgstr ""
+
+msgid "Bonus if >62"
+msgstr ""
+
+msgid "Chance [total]"
+msgstr ""
+
+msgid "Choose a score slot."
+msgstr ""
+
+msgid "Colors game and multi-level AI (2006):"
+msgstr ""
+
+msgid "Computer Opponents"
+msgstr ""
+
+msgid "Computer playing for %s"
+msgstr ""
+
+msgid "Congratulations!"
+msgstr ""
+
+msgid "Console version (1992):"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Delay between rolls"
+msgstr ""
+
+msgid "Delay computer moves"
+msgstr ""
+
+msgid "Display computer thoughts"
+msgstr ""
+
+msgid "Field used"
+msgstr ""
+
+msgid "Flush (all same color) [35]"
+msgstr ""
+
+msgid "Full House Same Color [20 + total]"
+msgstr ""
+
+msgid "Full House [15 + total]"
+msgstr ""
+
+msgid "Full House [25]"
+msgstr ""
+
+msgid "GNOME version (1998):"
+msgstr ""
+
+msgid "Game Type"
+msgstr ""
+
+msgid "Game choice: Regular or Colors"
+msgstr ""
+
+msgid "Game over!"
+msgstr ""
+
+msgctxt "GameType"
+msgid "'Regular'"
+msgstr ""
+
+msgid "Grand Total"
+msgstr ""
+
+msgid "Human"
+msgstr ""
+
+msgid "Human Players"
+msgstr ""
+
+msgid "Large Straight [40]"
+msgstr ""
+
+msgid "Lower Total"
+msgstr ""
+
+msgid "NUMBER"
+msgstr ""
+
+msgid "N_umber of opponents:"
+msgstr ""
+
+msgid "New Game"
+msgstr ""
+
+msgid "Number of computer opponents"
+msgstr ""
+
+msgid "Number of computer-only games to play"
+msgstr ""
+
+msgid "Number of human opponents"
+msgstr ""
+
+msgid "Number of trials for each roll for the computer"
+msgstr ""
+
+msgid "Play between one and five opponents at three difficulty levels."
+msgstr ""
+
+msgid "Player Names"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Preferences will be updated in the next game."
+msgstr ""
+
+msgid "Roll"
+msgstr ""
+
+msgid "Roll all!"
+msgstr ""
+
+msgid "Roll dice and score points"
+msgstr ""
+
+msgid "Roll!"
+msgstr ""
+
+msgid "STRING"
+msgstr ""
+
+msgid "Score: %d"
+msgstr ""
+
+msgid "Select dice to roll or choose a score slot."
+msgstr ""
+
+msgid "Small Straight [30]"
+msgstr ""
+
+msgid "Tali"
+msgstr ""
+
+msgid "Tali Scores"
+msgstr ""
+
+msgid "The game is a draw!"
+msgstr ""
+
+msgid "Undo your most recent move"
+msgstr ""
+
+msgid "Upper total"
+msgstr ""
+
+msgid "You are only allowed three rolls. Choose a score slot."
+msgstr ""
+
+msgid "Your score has made the top ten."
+msgstr ""
+
+msgid "Your score is the best!"
+msgstr ""
+
+msgid "_Delay between rolls"
+msgstr ""
+
+msgid "_Difficulty:"
+msgstr ""
+
+msgid "_Help"
+msgstr ""
+
+msgid "_New Game"
+msgstr ""
+
+msgid "_Number of players:"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Scores"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Easy"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Hard"
+msgstr ""
+
+msgctxt "difficulty"
+msgid "Medium"
+msgstr ""
+
+msgctxt "game type"
+msgid "Colors"
+msgstr ""
+
+msgctxt "game type"
+msgid "Regular"
+msgstr ""
+
+msgctxt "score-dialog"
+msgid "%1$dm %2$ds"
+msgstr ""
+
+msgctxt "score-dialog"
+msgid "Score"
+msgstr ""
+
+msgctxt "score-dialog"
+msgid "Time"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "yahtzee;"
+msgstr ""

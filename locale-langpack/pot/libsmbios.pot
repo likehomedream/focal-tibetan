@@ -1,0 +1,74 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: libsmbios 2.2.0\n"
+"Report-Msgid-Bugs-To: libsmbios-devel@lists.us.dell.com\n"
+"PO-Revision-Date: 2018-02-23 09:42+0000\n"
+"Last-Translator: Michael Brown <Michael_E_Brown@dell.com>\n"
+"Language-Team: Chinese (simplified)\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:27+0000\n"
+
+msgid "ASCII"
+msgstr ""
+
+msgid "Admin password"
+msgstr ""
+
+msgid "BIOS Version"
+msgstr ""
+
+msgid "Current tag value:"
+msgstr ""
+
+msgid "ERROR: Could not parse system SMBIOS table."
+msgstr ""
+
+msgid "Keyboard Scancodes"
+msgstr ""
+
+msgid "Libsmbios version"
+msgstr ""
+
+msgid "Owner password"
+msgstr ""
+
+msgid "Product Name"
+msgstr ""
+
+msgid "Service Tag"
+msgstr ""
+
+msgid "Setting new tag value: %s"
+msgstr ""
+
+msgid "Show or set asset tag"
+msgstr ""
+
+msgid "Show or set service tag"
+msgstr ""
+
+msgid "Show password information"
+msgstr ""
+
+msgid "System ID"
+msgstr ""
+
+msgid "The error message was: %s"
+msgstr ""
+
+msgid "The smbios library returned this error:"
+msgstr ""
+
+msgid "User password"
+msgstr ""
+
+msgid "Vendor"
+msgstr ""
+
+msgid "unknown"
+msgstr ""

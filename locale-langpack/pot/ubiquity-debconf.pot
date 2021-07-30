@@ -1,0 +1,998 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: debian-installer\n"
+"Report-Msgid-Bugs-To: ubiquity@packages.debian.org\n"
+"PO-Revision-Date: 2020-04-15 02:29+0000\n"
+"Last-Translator: YunQiang Su <wzssyqa@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 18:31+0000\n"
+
+msgid ""
+"%d partitions will be deleted, use the <a href=\"\">advanced partitioning "
+"tool</a> for more control"
+msgstr ""
+
+msgid ""
+"&lt;small&gt;Enter the same password twice, so that it can be checked for "
+"typing errors.&lt;/small&gt;"
+msgstr ""
+
+msgid ""
+"&lt;small&gt;If more than one person will use this computer, you can set up "
+"multiple accounts after installation.&lt;/small&gt;"
+msgstr ""
+
+msgid ""
+"1 partition will be deleted, use the <a href=\"\">advanced partitioning "
+"tool</a> for more control"
+msgstr ""
+
+msgid ""
+"<small>%d smaller partitions are hidden, use the <a href=\"\">advanced "
+"partitioning tool</a> for more control</small>"
+msgstr ""
+
+msgid ""
+"<small>1 smaller partition is hidden, use the <a href=\"\">advanced "
+"partitioning tool</a> for more control</small>"
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning:</span> If you lose this security key, "
+"all data will be lost. If you need to, write down your key and keep it in a "
+"safe place elsewhere."
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning:</span> This will delete all of your "
+"${OS} programs, documents, photos, music, and any other files."
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning:</span> This will delete all your "
+"${CURDISTRO} programs, documents, photos, music, and any other files."
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning:</span> This will delete all your "
+"programs, documents, photos, music, and any other files in all operating "
+"systems."
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning:</span> This will delete all your "
+"programs, documents, photos, music, and other files in both ${OS} and "
+"${CURDISTRO}."
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning:</span> This will delete any files on "
+"the disk."
+msgstr ""
+
+msgid ""
+"<span foreground=\"darkred\">Warning</span>: If you choose not to install "
+"these drivers, or if you proceed but do not confirm the password upon "
+"reboot, Ubuntu will still be able to boot on your system but these third-"
+"party drivers will not be available for your hardware."
+msgstr ""
+
+msgid "Add..."
+msgstr ""
+
+msgid "After:"
+msgstr ""
+
+msgid "Allocate drive space by dragging the divider below:"
+msgstr ""
+
+msgid "Almost finished copying files..."
+msgstr ""
+
+msgid ""
+"An error occurred while copying the bluetooth settings.  The installation "
+"will continue, but the bluetooth configuration will have to be set up again "
+"in the installed system."
+msgstr ""
+
+msgid ""
+"An error occurred while copying the network settings.  The installation will"
+" continue, but the network configuration will have to be set up again in the"
+" installed system."
+msgstr ""
+
+msgid "An error occurred while installing packages:"
+msgstr ""
+
+msgid "An error occurred while removing packages:"
+msgstr ""
+
+msgid ""
+"An error occurred while restoring previously-installed applications.  The "
+"installation will continue, but you may have to manually reinstall some "
+"applications after the computer reboots."
+msgstr ""
+
+msgid "Any files outside of ${RELEASE} will not be encrypted."
+msgstr ""
+
+msgid "Before:"
+msgstr ""
+
+msgid "Beginning of this space"
+msgstr ""
+
+msgid "Below is an image of your current layout:"
+msgstr ""
+
+msgid "Boot loader"
+msgstr ""
+
+msgid "Bootloader install failed"
+msgstr ""
+
+msgid "CD"
+msgstr ""
+
+msgid "Calculating files to skip copying..."
+msgstr ""
+
+msgid "Cancel the installation."
+msgstr ""
+
+msgid "Change..."
+msgstr ""
+
+msgid "Checking for installer updates"
+msgstr ""
+
+msgid "Checking for packages to install..."
+msgstr ""
+
+msgid "Checking for packages to remove..."
+msgstr ""
+
+msgid "Choose a different device to install the bootloader on:"
+msgstr ""
+
+msgid "Choose a password:"
+msgstr ""
+
+msgid "Choose a security key:"
+msgstr ""
+
+msgid "Choose your keyboard layout:"
+msgstr ""
+
+msgid "Configuring apt..."
+msgstr ""
+
+msgid "Configuring boot loader..."
+msgstr ""
+
+msgid "Configuring hardware..."
+msgstr ""
+
+msgid "Configuring keyboard..."
+msgstr ""
+
+msgid "Configuring network..."
+msgstr ""
+
+msgid "Configuring system locales..."
+msgstr ""
+
+msgid "Configuring target system..."
+msgstr ""
+
+msgid "Configuring time zone..."
+msgstr ""
+
+msgid "Confirm password"
+msgstr ""
+
+msgid "Confirm the security key:"
+msgstr ""
+
+msgid "Confirm your password:"
+msgstr ""
+
+msgid "Connect"
+msgstr ""
+
+msgid "Connect to this network"
+msgstr ""
+
+msgid "Connected."
+msgstr ""
+
+msgid ""
+"Connecting this computer to a wi-fi network allows you to install third-"
+"party software, download updates, automatically detect your timezone, and "
+"install full support for your language."
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+msgid "Connection failed."
+msgstr ""
+
+msgid "Continue"
+msgstr ""
+
+msgid "Continue Testing"
+msgstr ""
+
+msgid "Continue in UEFI mode"
+msgstr ""
+
+msgid "Continue without a bootloader."
+msgstr ""
+
+msgid "Copying files..."
+msgstr ""
+
+msgid "Copying installation logs..."
+msgstr ""
+
+msgid "Create partition"
+msgstr ""
+
+msgid "Creating user..."
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Detect Keyboard Layout"
+msgstr ""
+
+msgid "Detect Keyboard Layout..."
+msgstr ""
+
+msgid "Device"
+msgstr ""
+
+msgid "Disk Setup"
+msgstr ""
+
+msgid ""
+"Disk encryption protects your files in case you lose your computer. It "
+"requires you to enter a security key each time the computer starts up."
+msgstr ""
+
+msgid "Display password"
+msgstr ""
+
+msgid "Do you really want to quit the installation now?"
+msgstr ""
+
+msgid "Do you want to return to the partitioner?"
+msgstr ""
+
+msgid ""
+"Documents, music, and other personal files will be kept. Installed software "
+"will be kept where possible. System-wide settings will be cleared."
+msgstr ""
+
+msgid ""
+"Documents, music, and other personal files will be kept. You can choose "
+"which operating system you want each time the computer starts up."
+msgstr ""
+
+msgid "Download updates while installing ${RELEASE}"
+msgstr ""
+
+msgid "Downloading language packs (${TIME} remaining)..."
+msgstr ""
+
+msgid "Downloading package lists (${TIME} remaining)..."
+msgstr ""
+
+msgid "Downloading package lists..."
+msgstr ""
+
+msgid "Downloading packages (${TIME} remaining)..."
+msgstr ""
+
+msgid "Edit a partition"
+msgstr ""
+
+msgid "Edit partition"
+msgstr ""
+
+msgid "Encrypt the new ${RELEASE} installation for security"
+msgstr ""
+
+msgid "Encrypt this partition (LUKS)"
+msgstr ""
+
+msgid "Encryption Options"
+msgstr ""
+
+msgid "Encryption options..."
+msgstr ""
+
+msgid "End of this space"
+msgstr ""
+
+msgid "Erase ${CURDISTRO} and reinstall"
+msgstr ""
+
+msgid "Erase disk and install ${DISTRO}"
+msgstr ""
+
+msgid "Erase everything and reinstall"
+msgstr ""
+
+msgid "Error copying bluetooth configuration"
+msgstr ""
+
+msgid "Error copying network configuration"
+msgstr ""
+
+msgid "Error installing ${PACKAGE}"
+msgstr ""
+
+msgid "Error removing ${PACKAGE}"
+msgstr ""
+
+msgid "Error restoring installed applications"
+msgstr ""
+
+msgid "Error updating installer"
+msgstr ""
+
+msgid "Error while installing packages"
+msgstr ""
+
+msgid "Error while removing packages"
+msgstr ""
+
+msgid "Failed to unmount partitions"
+msgstr ""
+
+msgid "Fair password"
+msgstr ""
+
+msgid "File ${INDEX} of ${TOTAL}"
+msgstr ""
+
+msgid "File ${INDEX} of ${TOTAL} at ${SPEED}/s"
+msgstr ""
+
+msgid "Files (${SIZE})"
+msgstr ""
+
+msgid "Finding the distribution to copy..."
+msgstr ""
+
+msgid "For best results, please ensure that this computer:"
+msgstr ""
+
+msgid "For more security:"
+msgstr ""
+
+msgid "Format?"
+msgstr ""
+
+msgid "Go Back"
+msgstr ""
+
+msgid "Good password"
+msgstr ""
+
+msgid "How would you like to proceed?"
+msgstr ""
+
+msgid "I don't want to connect to a wi-fi network right now"
+msgstr ""
+
+msgid ""
+"If you do not go back to the partitioner and increase the size of these "
+"partitions, the installation may fail."
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Install ${DISTRO} ${VER} alongside ${CURDISTRO}"
+msgstr ""
+
+msgid "Install ${DISTRO} alongside ${OS}"
+msgstr ""
+
+msgid "Install ${DISTRO} alongside them"
+msgstr ""
+
+msgid "Install ${DISTRO} inside ${OS}"
+msgstr ""
+
+msgid "Install ${RELEASE}"
+msgstr ""
+
+msgid "Install (OEM mode, for manufacturers only)"
+msgstr ""
+
+msgid ""
+"Install third-party software for graphics and Wi-Fi hardware and additional "
+"media formats"
+msgstr ""
+
+msgid "Installation Complete"
+msgstr ""
+
+msgid "Installation Failed"
+msgstr ""
+
+msgid "Installation failed"
+msgstr ""
+
+msgid ""
+"Installation has finished.  You can continue testing ${RELEASE} now, but "
+"until you restart the computer, any changes you make or documents you save "
+"will not be preserved."
+msgstr ""
+
+msgid ""
+"Installation is complete. You need to restart the computer in order to use "
+"the new installation."
+msgstr ""
+
+msgid "Installation type"
+msgstr ""
+
+msgid "Installer crashed"
+msgstr ""
+
+msgid "Installing additional packages..."
+msgstr ""
+
+msgid "Installing language packs"
+msgstr ""
+
+msgid "Installing system"
+msgstr ""
+
+msgid "Installing third-party software..."
+msgstr ""
+
+msgid "Installing update"
+msgstr ""
+
+msgid "Is the following key present on your keyboard?"
+msgstr ""
+
+msgid "Keyboard"
+msgstr ""
+
+msgid "Keyboard layout"
+msgstr ""
+
+msgid "LVM..."
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Layout:"
+msgstr ""
+
+msgid "Log in automatically"
+msgstr ""
+
+msgid "Logical"
+msgstr ""
+
+msgid "Logical Volume Management"
+msgstr ""
+
+msgid ""
+"Logical Volume Management (LVM) lets ${RELEASE} treat multiple physical "
+"volumes as a single volume."
+msgstr ""
+
+msgid "MB"
+msgstr ""
+
+msgid "May not start or end with a dot, or contain the sequence \"..\"."
+msgstr ""
+
+msgid "May not start or end with a hyphen."
+msgstr ""
+
+msgid "May only contain letters, digits, hyphens, and dots."
+msgstr ""
+
+msgid "May only contain lower-case letters, digits, hyphens, and underscores."
+msgstr ""
+
+msgid "Minimal installation"
+msgstr ""
+
+msgid "Mount point"
+msgstr ""
+
+msgid "Must be between 1 and 63 characters long."
+msgstr ""
+
+msgid "Must start with a lower-case letter."
+msgstr ""
+
+msgid "Network configuration"
+msgstr ""
+
+msgid "New Partition Table..."
+msgstr ""
+
+msgid "Normal installation"
+msgstr ""
+
+msgid "Not available because there is no Internet connection."
+msgstr ""
+
+msgid "OEM mode (for manufacturers only)"
+msgstr ""
+
+msgid ""
+"Once the system is configured to your satisfaction, run 'oem-config-"
+"prepare'. This will cause the system to delete the temporary 'oem' user and "
+"ask the end user various configuration questions the next time it boots."
+msgstr ""
+
+msgid ""
+"Or if you're ready, you can install ${RELEASE} alongside (or instead of) "
+"your current operating system.  This shouldn't take too long."
+msgstr ""
+
+msgid "Other options"
+msgstr ""
+
+msgid "Overwrite empty disk space"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password:"
+msgstr ""
+
+msgid "Passwords do not match"
+msgstr ""
+
+msgid "Physical volumes:"
+msgstr ""
+
+msgid "Pick a username:"
+msgstr ""
+
+msgid ""
+"Please choose the language to use for the install process. This language "
+"will be the default language for this computer."
+msgstr ""
+
+msgid ""
+"Please choose the language used for the configuration process. This language"
+" will be the default language for this computer."
+msgstr ""
+
+msgid "Please close any applications using these mount points."
+msgstr ""
+
+msgid "Please press one of the following keys:"
+msgstr ""
+
+msgid "Prepare for OEM configuration"
+msgstr ""
+
+msgid "Prepare partitions"
+msgstr ""
+
+msgid "Preparing for OEM configuration..."
+msgstr ""
+
+msgid "Primary"
+msgstr ""
+
+msgid "Quit the installation?"
+msgstr ""
+
+msgid "Reading package information"
+msgstr ""
+
+msgid "Ready for OEM configuration"
+msgstr ""
+
+msgid "Recalculating partitions..."
+msgstr ""
+
+msgid "Region:"
+msgstr ""
+
+msgid "Reinstall ${CURDISTRO}"
+msgstr ""
+
+msgid "Removing extra packages..."
+msgstr ""
+
+msgid "Removing packages"
+msgstr ""
+
+msgid "Replace ${OS} with ${DISTRO}"
+msgstr ""
+
+msgid "Require my password to log in"
+msgstr ""
+
+msgid "Restart Now"
+msgstr ""
+
+msgid "Restart to Continue"
+msgstr ""
+
+msgid "Restoring previously installed packages..."
+msgstr ""
+
+msgid "Revert"
+msgstr ""
+
+msgid "Saving installed packages..."
+msgstr ""
+
+msgid "SecureBoot key for MokPW"
+msgstr ""
+
+msgid "Select drive:"
+msgstr ""
+
+msgid ""
+"Select your location, so that the system can use appropriate display "
+"conventions for your country, fetch updates from sites close to you, and set"
+" the clock to the correct local time."
+msgstr ""
+
+msgid "Short password"
+msgstr ""
+
+msgid "Shutdown Now"
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Size:"
+msgstr ""
+
+msgid "Skip"
+msgstr ""
+
+msgid "Software"
+msgstr ""
+
+msgid "Software selection"
+msgstr ""
+
+msgid ""
+"Some of the partitions you created are too small.  Please make the following"
+" partitions at least this large:"
+msgstr ""
+
+msgid "Something else"
+msgstr ""
+
+msgid "Sorry"
+msgstr ""
+
+msgid ""
+"Sorry, an error occurred and it was not possible to install the bootloader "
+"at the specified location."
+msgstr ""
+
+msgid "Split Largest Partition"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Strong password"
+msgstr ""
+
+msgid "System"
+msgstr ""
+
+msgid "System Configuration"
+msgstr ""
+
+msgid "The entire disk will be used:"
+msgstr ""
+
+msgid "The following file did not match its source copy on the CD/DVD:"
+msgstr ""
+
+msgid "The following packages are in a broken state:"
+msgstr ""
+
+msgid "The installation may take much longer."
+msgstr ""
+
+msgid "The installer encountered an error copying files to the hard disk:"
+msgstr ""
+
+msgid "The installer encountered an error while trying to update itself:"
+msgstr ""
+
+msgid "The installer encountered an unrecoverable error and will now reboot."
+msgstr ""
+
+msgid ""
+"The installer encountered an unrecoverable error.  A desktop session will "
+"now be run so that you may investigate the problem or try installing again."
+msgstr ""
+
+msgid ""
+"The installer needs to commit changes to partition tables, but cannot do so "
+"because partitions on the following mount points could not be unmounted:"
+msgstr ""
+
+msgid "The name it uses when it talks to other computers."
+msgstr ""
+
+msgid ""
+"This computer currently has ${OS1} and ${OS2} on it. What would you like to "
+"do?"
+msgstr ""
+
+msgid "This computer currently has ${OS} on it. What would you like to do?"
+msgstr ""
+
+msgid ""
+"This computer currently has multiple operating systems on it. What would you"
+" like to do?"
+msgstr ""
+
+msgid ""
+"This computer currently has no detected operating systems. What would you "
+"like to do?"
+msgstr ""
+
+msgid "This computer has only ${SIZE}."
+msgstr ""
+
+msgid ""
+"This is due to there being insufficient disk space for the install to "
+"complete on the target partition.  Please run the installer again and select"
+" a larger partition to install into."
+msgstr ""
+
+msgid ""
+"This is often due to a faulty CD/DVD disk or drive, or a faulty hard disk. "
+"It may help to clean the CD/DVD, to burn the CD/DVD at a lower speed, to "
+"clean the CD/DVD drive lens (cleaning kits are often available from "
+"electronics suppliers), to check whether the hard disk is old and in need of"
+" replacement, or to move the system to a cooler environment."
+msgstr ""
+
+msgid ""
+"This is often due to a faulty CD/DVD disk or drive. It may help to clean the"
+" CD/DVD, to burn the CD/DVD at a lower speed, or to clean the CD/DVD drive "
+"lens (cleaning kits are often available from electronics suppliers)."
+msgstr ""
+
+msgid ""
+"This is often due to a faulty hard disk. It may help to check whether the "
+"hard disk is old and in need of replacement, or to move the system to a "
+"cooler environment."
+msgstr ""
+
+msgid ""
+"This may be due to using an old installer image, or it may be due to a bug "
+"in some of the packages listed above. More details may be found in "
+"/var/log/syslog. The installer will try to continue anyway, but may fail at "
+"a later point, and will not be able to install or remove other packages "
+"(possibly including itself) from the installed system. You should first look"
+" for newer versions of your installer image, or failing that report the "
+"problem to your distributor."
+msgstr ""
+
+msgid "This may leave your computer unable to boot."
+msgstr ""
+
+msgid "This saves time after installation."
+msgstr ""
+
+msgid ""
+"This software is subject to license terms included with its documentation. "
+"Some is proprietary."
+msgstr ""
+
+msgid ""
+"This will set up Logical Volume Management. It allows taking snapshots and "
+"easier partition resizing."
+msgstr ""
+
+msgid "Time Zone:"
+msgstr ""
+
+msgid "Timezone"
+msgstr ""
+
+msgid "Try ${RELEASE}"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Type here to test your keyboard"
+msgstr ""
+
+msgid "UEFI Secure Boot"
+msgstr ""
+
+msgid "USB disk"
+msgstr ""
+
+msgid "Updates and other software"
+msgstr ""
+
+msgid "Updating package information"
+msgstr ""
+
+msgid "Use LVM with the new ${RELEASE} installation"
+msgstr ""
+
+msgid "Used"
+msgstr ""
+
+msgid "User Info"
+msgstr ""
+
+msgid "Variant:"
+msgstr ""
+
+msgid "Verifying the installation configuration..."
+msgstr ""
+
+msgid "Volume groups:"
+msgstr ""
+
+msgid ""
+"We're sorry; the installer crashed. After you close this window, we'll allow"
+" you to file a bug report using the integrated bug reporting tool. This will"
+" gather information about your system and your installation process. The "
+"details will be sent to our bug tracker and a developer will attend to the "
+"problem as soon as possible."
+msgstr ""
+
+msgid "Weak password"
+msgstr ""
+
+msgid "Web browser and basic utilities."
+msgstr ""
+
+msgid "Web browser plus basic utilities and applications."
+msgstr ""
+
+msgid "Web browser, utilities, office software, games, and media players."
+msgstr ""
+
+msgid ""
+"Web browser, utilities, office software, plus additional internet "
+"applications and media players."
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "What apps would you like to install to start with?"
+msgstr ""
+
+msgid ""
+"When you boot into the new system, you will be able to log in as the 'oem' "
+"user with the password you selected earlier; this user also has "
+"administrative privileges using 'sudo'. You will then be able to make any "
+"additional modifications you require to the system."
+msgstr ""
+
+msgid "Where are you?"
+msgstr ""
+
+msgid "Where would you like to install Kubuntu?"
+msgstr ""
+
+msgid "Which applications would you like to start with?"
+msgstr ""
+
+msgid "Who are you?"
+msgstr ""
+
+msgid "Wireless"
+msgstr ""
+
+msgid "Would you like the installer to try to unmount these partitions again?"
+msgstr ""
+
+msgid ""
+"You are installing in system manufacturer mode. Please enter a unique name "
+"for this batch of systems. This name will be saved on the installed system "
+"and can be used to help with bug reports."
+msgstr ""
+
+msgid "You are running in debugging mode. Do not use a valuable password!"
+msgstr ""
+
+msgid ""
+"You can create or resize partitions yourself, or choose multiple partitions "
+"for ${DISTRO}."
+msgstr ""
+
+msgid ""
+"You can try ${RELEASE} without making any changes to your computer, directly"
+" from this ${MEDIUM}."
+msgstr ""
+
+msgid "You may wish to <a href=\"update\">update this installer</a>."
+msgstr ""
+
+msgid ""
+"You may wish to read the <a href=\"release-notes\">release notes</a> or <a "
+"href=\"update\">update this installer</a>."
+msgstr ""
+
+msgid "You may wish to read the <a href=\"release-notes\">release notes</a>."
+msgstr ""
+
+msgid "You need at least ${SIZE} disk space to install ${RELEASE}."
+msgstr ""
+
+msgid "You will choose a security key in the next step."
+msgstr ""
+
+msgid ""
+"You will need to manually install a bootloader in order to start ${RELEASE}."
+msgstr ""
+
+msgid "Your computer's name:"
+msgstr ""
+
+msgid "Your name:"
+msgstr ""
+
+msgid "[type here to change]"
+msgstr ""
+
+msgid "_High Contrast"
+msgstr ""
+
+msgid "_Install Now[ action ]"
+msgstr ""
+
+msgid "_Keyboard Modifiers"
+msgstr ""
+
+msgid "_On-screen Keyboard"
+msgstr ""
+
+msgid "_Screen Reader"
+msgstr ""
+
+msgid "free space"
+msgstr ""
+
+msgid "installation process"
+msgstr ""
+
+msgid "is connected to the Internet"
+msgstr ""
+
+msgid "is plugged in to a power source"
+msgstr ""
+
+msgid "unknown"
+msgstr ""

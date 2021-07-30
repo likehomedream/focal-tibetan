@@ -1,0 +1,430 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: update-manager HEAD\n"
+"Report-Msgid-Bugs-To: sebastian.heinlein@web.de\n"
+"PO-Revision-Date: 2020-04-16 10:19+0000\n"
+"Last-Translator: Yiding He <yiding.he@gmail.com>\n"
+"Language-Team: Chinese (simplified) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 17:52+0000\n"
+
+msgid "%(size).0f kB"
+msgid_plural "%(size).0f kB"
+msgstr[0] ""
+
+msgid "%.1f MB"
+msgstr ""
+
+msgid "%d Livepatch update applied since the last restart."
+msgid_plural "%d Livepatch updates applied since the last restart."
+msgstr[0] ""
+
+msgid "%d Livepatch update failed to apply since the last restart."
+msgid_plural "%d Livepatch updates failed to apply since the last restart."
+msgstr[0] ""
+
+msgid "%i obsolete entries in the status file"
+msgstr ""
+
+msgid "%s base"
+msgstr ""
+
+msgid "%s needs to be marked as manually installed."
+msgstr ""
+
+msgid "%s will be downloaded."
+msgstr ""
+
+msgid ".deb package"
+msgstr ""
+
+msgid "A file on disk"
+msgstr ""
+
+msgid ""
+"An unresolvable problem occurred while calculating the upgrade.\n"
+"\n"
+"Please report this bug against the 'update-manager' package and include the following error message:\n"
+msgstr ""
+
+msgid ""
+"An unresolvable problem occurred while initializing the package information.\n"
+"\n"
+"Please report this bug against the 'update-manager' package and include the following error message:\n"
+msgstr ""
+
+msgid "Changes"
+msgstr ""
+
+msgid ""
+"Changes for %s versions:\n"
+"Installed version: %s\n"
+"Available version: %s\n"
+"\n"
+msgstr ""
+
+msgid "Check if a new Ubuntu release is available"
+msgstr ""
+
+msgid "Checking for updates…"
+msgstr ""
+
+msgid "Community"
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+msgid "Copy Link to Clipboard"
+msgstr ""
+
+msgid "Could not calculate the upgrade"
+msgstr ""
+
+msgid "Could not initialize the package information"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Details of updates"
+msgstr ""
+
+msgid "Directory that contains the data files"
+msgstr ""
+
+msgid "Do not check for updates when starting"
+msgstr ""
+
+msgid "Do not focus on map when starting"
+msgstr ""
+
+msgid "Download"
+msgstr ""
+
+msgid "Downloading list of changes..."
+msgstr ""
+
+msgid ""
+"Empty your trash and remove temporary packages of former installations using"
+" 'sudo apt clean'."
+msgstr ""
+
+msgid ""
+"Failed to download the list of changes. \n"
+"Please check your Internet connection."
+msgstr ""
+
+msgid "However, %s %s is now available (you have %s)."
+msgstr ""
+
+msgid ""
+"If using the latest supported release, upgrade to the development release"
+msgstr ""
+
+msgid "Install All Available Updates"
+msgstr ""
+
+msgid "Install Now"
+msgstr ""
+
+msgid "Install missing package."
+msgstr ""
+
+msgid "Install or remove"
+msgstr ""
+
+msgid "Installing updates…"
+msgstr ""
+
+msgid ""
+"It is impossible to install or remove any software. Please use the package "
+"manager \"Synaptic\" or run \"sudo apt-get install -f\" in a terminal to fix"
+" this issue at first."
+msgstr ""
+
+msgid "It’s safer to connect the computer to AC power before updating."
+msgstr ""
+
+msgid "New important security and hardware support update."
+msgstr ""
+
+msgid "No longer downloadable:"
+msgstr ""
+
+msgid ""
+"No network connection detected, you can not download changelog information."
+msgstr ""
+
+msgid "No software updates are available."
+msgstr ""
+
+msgid "Not all updates can be installed"
+msgstr ""
+
+msgid "Not enough free disk space"
+msgstr ""
+
+msgid "Obsolete dpkg status entries"
+msgstr ""
+
+msgid "Obsolete entries in dpkg status"
+msgstr ""
+
+msgid "Open Link in Browser"
+msgstr ""
+
+msgid "Other updates"
+msgstr ""
+
+msgid "Package %s should be installed."
+msgstr ""
+
+msgid "Please wait, this can take some time."
+msgstr ""
+
+msgid "Reboot to clean up files in /tmp."
+msgstr ""
+
+msgid ""
+"Remove lilo since grub is also installed.(See bug #314004 for details.)"
+msgstr ""
+
+msgid ""
+"Remove temporary packages of former installations using 'sudo apt clean'."
+msgstr ""
+
+msgid "Restart _Later"
+msgstr ""
+
+msgid ""
+"Run a partial upgrade, to install as many updates as possible.\n"
+"\n"
+"    This can be caused by:\n"
+"     * A previous upgrade which didn't complete\n"
+"     * Problems with some of the installed software\n"
+"     * Unofficial software packages not provided by Ubuntu\n"
+"     * Normal changes of a pre-release version of Ubuntu"
+msgstr ""
+
+msgid ""
+"Run with --show-unsupported, --show-supported or --show-all to see more "
+"details"
+msgstr ""
+
+msgid "Security updates"
+msgstr ""
+
+msgid "Select _All"
+msgstr ""
+
+msgid "Settings…"
+msgstr ""
+
+msgid "Show all packages in a list"
+msgstr ""
+
+msgid "Show all packages with their status"
+msgstr ""
+
+msgid "Show and install available updates"
+msgstr ""
+
+msgid "Show debug messages"
+msgstr ""
+
+msgid "Show supported packages on this machine"
+msgstr ""
+
+msgid "Show unsupported packages on this machine"
+msgstr ""
+
+msgid "Show version and exit"
+msgstr ""
+
+msgid "Software Updater"
+msgstr ""
+
+msgid ""
+"Software Updater checks for updates using apt and let you choose which "
+"updates to install."
+msgstr ""
+
+msgid "Software Updates"
+msgstr ""
+
+msgid "Software index is broken"
+msgstr ""
+
+msgid "Software updates are no longer provided for %s %s."
+msgstr ""
+
+msgid "Some software couldn’t be checked for updates."
+msgstr ""
+
+msgid "Support status summary of '%s':"
+msgstr ""
+
+msgid "Supported until %s:"
+msgstr ""
+
+msgid "Technical description"
+msgstr ""
+
+msgid ""
+"The changelog does not contain any relevant changes.\n"
+"\n"
+"Please use http://launchpad.net/ubuntu/+source/%s/%s/+changelog\n"
+"until the changes become available or try again later."
+msgstr ""
+
+msgid ""
+"The computer also needs to restart to finish installing previous updates."
+msgstr ""
+
+msgid "The computer needs to restart to finish installing updates."
+msgstr ""
+
+msgid "The computer will need to restart."
+msgstr ""
+
+msgid ""
+"The list of changes is not available yet.\n"
+"\n"
+"Please use http://launchpad.net/ubuntu/+source/%s/%s/+changelog\n"
+"until the changes become available or try again later."
+msgstr ""
+
+msgid "The software on this computer is up to date."
+msgstr ""
+
+msgid "The update has already been downloaded."
+msgid_plural "The updates have already been downloaded."
+msgstr[0] ""
+
+msgid ""
+"The upgrade needs a total of %s free space on disk '%s'. Please free at "
+"least an additional %s of disk space on '%s'. %s"
+msgstr ""
+
+msgid "There are no updates to install."
+msgstr ""
+
+msgid "This update does not come from a source that supports changelogs."
+msgstr ""
+
+msgid "To stay secure, you should upgrade to %s %s."
+msgstr ""
+
+msgid "Unimplemented method: %s"
+msgstr ""
+
+msgid "Unknown download size."
+msgstr ""
+
+msgid "Unsupported"
+msgstr ""
+
+msgid "Unsupported: "
+msgstr ""
+
+msgid "Unused kernel updates to be removed"
+msgstr ""
+
+msgid "Update is complete"
+msgstr ""
+
+msgid ""
+"Updated software has been issued since %s %s was released. Do you want to "
+"install it now?"
+msgstr ""
+
+msgid ""
+"Updated software is available for this computer. Do you want to install it "
+"now?"
+msgstr ""
+
+msgid "Updated software is available from a previous check."
+msgstr ""
+
+msgid "Updates"
+msgstr ""
+
+msgid "Upgrade using the latest proposed version of the release upgrader"
+msgstr ""
+
+msgid "Upgrade…"
+msgstr ""
+
+msgid "Version %s: \n"
+msgstr ""
+
+msgid ""
+"When upgrading, if kdelibs4-dev is installed, kdelibs5-dev needs to be "
+"installed. See bugs.launchpad.net, bug #279621 for details."
+msgstr ""
+
+msgid ""
+"You are connected via roaming and may be charged for the data consumed by "
+"this update."
+msgstr ""
+
+msgid ""
+"You can remove old kernels using 'sudo apt autoremove', and you could also "
+"set COMPRESS=xz in /etc/initramfs-tools/initramfs.conf to reduce the size of"
+" your initramfs."
+msgstr ""
+
+msgid "You have %(num)s packages (%(percent).1f%%) supported until %(time)s"
+msgstr ""
+
+msgid "You have %(num)s packages (%(percent).1f%%) that are unsupported"
+msgstr ""
+
+msgid ""
+"You have %(num)s packages (%(percent).1f%%) that can not/no-longer be "
+"downloaded"
+msgstr ""
+
+msgid "You may not be able to check for updates or download new updates."
+msgstr ""
+
+msgid ""
+"You may want to wait until you’re not using a mobile broadband connection."
+msgstr ""
+
+msgid "You stopped the check for updates."
+msgstr ""
+
+msgid "_Check Again"
+msgstr ""
+
+msgid "_Continue"
+msgstr ""
+
+msgid "_Deselect All"
+msgstr ""
+
+msgid "_Install…"
+msgstr ""
+
+msgid "_Partial Upgrade"
+msgstr ""
+
+msgid "_Remind Me Later"
+msgstr ""
+
+msgid "_Restart Now"
+msgstr ""
+
+msgid "_Try Again"
+msgstr ""
+
+msgid "updates"
+msgstr ""

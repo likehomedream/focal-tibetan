@@ -1,0 +1,217 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gnome-utils master\n"
+"Report-Msgid-Bugs-To: http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-font-viewer&keywords=I18N+L10N&component=general\n"
+"PO-Revision-Date: 2020-04-03 14:07+0000\n"
+"Last-Translator: Cheng Lu <chenglu1990@gmail.com>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:49+0000\n"
+
+msgid "%s %g — %g, default %g"
+msgstr ""
+
+msgid "About Fonts"
+msgstr ""
+
+msgid "All Fonts"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Copyright"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Designer"
+msgstr ""
+
+msgid "FONT-FILE OUTPUT-FILE"
+msgstr ""
+
+msgid "Fonts"
+msgstr ""
+
+msgid "GNOME Fonts"
+msgstr ""
+
+msgid ""
+"GNOME Fonts also supports installing new font files downloaded in the .ttf "
+"and other formats. Fonts may be installed only for your use or made "
+"available to all users on the computer."
+msgstr ""
+
+msgid ""
+"GNOME Fonts shows you the fonts installed on your computer for your use as "
+"thumbnails. Selecting any thumbnails shows the full view of how the font "
+"would look under various sizes."
+msgstr ""
+
+msgid "Glyph Count"
+msgstr ""
+
+msgid "Info"
+msgstr ""
+
+msgid "Install"
+msgstr ""
+
+msgid "Installed"
+msgstr ""
+
+msgid "Instance %d"
+msgstr ""
+
+msgid "License"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Manufacturer"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Capital Spacing"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Case-Sensitive Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Contextual Alternates"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Contextual Ligatures"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Contextual Swash"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Denominators"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Discretionary Ligatures"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Expert Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Fractions"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Full Widths"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Halant Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Half Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Half Widths"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Hangul"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Historical Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Initial Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Isolated Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Italics"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Kerning"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Left Bounds"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Terminal Forms"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Terminal Forms #2"
+msgstr ""
+
+msgctxt "OpenType layout"
+msgid "Terminal Forms #3"
+msgstr ""
+
+msgid "SIZE"
+msgstr ""
+
+msgid "Show the application's version"
+msgstr ""
+
+msgid "Style"
+msgstr ""
+
+msgid "TEXT"
+msgstr ""
+
+msgid "Text to thumbnail (default: Aa)"
+msgstr ""
+
+msgid "This font could not be displayed."
+msgstr ""
+
+msgid "Thumbnail size (default: 128)"
+msgstr ""
+
+msgid "Type"
+msgstr ""
+
+msgid "Version"
+msgstr ""
+
+msgid "View fonts on your system"
+msgstr ""
+
+msgid "fonts;fontface;"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "yes"
+msgstr ""

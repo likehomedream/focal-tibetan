@@ -1,0 +1,1112 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: gitg master\n"
+"Report-Msgid-Bugs-To: https://bugzilla.gnome.org/enter_bug.cgi?product=gitg&keywords=I18N+L10N&component=gitg\n"
+"PO-Revision-Date: 2020-04-05 10:51+0000\n"
+"Last-Translator: Jeff Bai <jeffbai@aosc.xyz>\n"
+"Language-Team: Chinese (China) <i18n-zh@googlegroups.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 19:15+0000\n"
+
+msgid "%s at %s"
+msgstr ""
+
+msgid "%zu ahead"
+msgstr ""
+
+msgid "%zu ahead, %zu behind"
+msgstr ""
+
+msgid "%zu behind"
+msgstr ""
+
+msgid "A day ago"
+msgid_plural "%d days ago"
+msgstr[0] ""
+
+msgid "A minute ago"
+msgid_plural "%d minutes ago"
+msgstr[0] ""
+
+msgctxt "Activity"
+msgid "Commit"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Add Repository"
+msgstr ""
+
+msgid "Add _signed-off-by signature"
+msgstr ""
+
+msgid "Add repository"
+msgstr ""
+
+msgid "All branches"
+msgstr ""
+
+msgid "All commits"
+msgstr ""
+
+msgid "An hour ago"
+msgid_plural "%d hours ago"
+msgstr[0] ""
+
+msgid "Are you sure that you want to permanently delete the branch %s?"
+msgstr ""
+
+msgid "Are you sure that you want to permanently delete the remote branch %s?"
+msgstr ""
+
+msgid "Are you sure that you want to permanently delete the tag %s?"
+msgstr ""
+
+msgid "Are you sure you want to permanently discard the selected changes?"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Author Details"
+msgstr ""
+
+msgid "Automatically update when external changes to .git are detected"
+msgstr ""
+
+msgid "Avatars"
+msgstr ""
+
+msgid "Bare repository"
+msgstr ""
+
+msgid "Branch _name:"
+msgstr ""
+
+msgid "Branches"
+msgstr ""
+
+msgid "C_ommit"
+msgstr ""
+
+msgid "C_reate"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Cannot set spell checking language: %s"
+msgstr ""
+
+msgid "Checkout"
+msgstr ""
+
+msgid "Checkout %s"
+msgstr ""
+
+msgid "Checkout the selected reference"
+msgstr ""
+
+msgid "Cherry pick %s onto %s"
+msgstr ""
+
+msgid "Cherry pick failed with conflicts"
+msgstr ""
+
+msgid "Cherry pick finished with conflicts in working directory"
+msgstr ""
+
+msgid "Cherry pick has conflicts"
+msgstr ""
+
+msgid "Cherry pick onto"
+msgstr ""
+
+msgid "Cherry pick onto %s"
+msgstr ""
+
+msgid "Cherry pick this commit onto a branch"
+msgstr ""
+
+msgid "Cl_one"
+msgstr ""
+
+msgid "Clone"
+msgstr ""
+
+msgid "Clone Repository"
+msgstr ""
+
+msgid "Clone repository"
+msgstr ""
+
+msgid "Cloning…"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Collapse all"
+msgstr ""
+
+msgid "Collapse inactive lanes"
+msgstr ""
+
+msgid "Column at Which Right Margin is Shown"
+msgstr ""
+
+msgid "Column at Which Subject Margin is Shown"
+msgstr ""
+
+msgid "Commit"
+msgstr ""
+
+msgid "Commit Message"
+msgstr ""
+
+msgid "Commits"
+msgstr ""
+
+msgid "Committed by %s"
+msgstr ""
+
+msgid "Context:"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
+msgid "Copy the name of the reference to the clipboard"
+msgstr ""
+
+msgid "Could not parse XML from stream"
+msgstr ""
+
+msgid "Could not read commit message after running commit-msg hook: %s"
+msgstr ""
+
+msgid "Create Branch"
+msgstr ""
+
+msgctxt "Create Dialog"
+msgid "Commit"
+msgstr ""
+
+msgid "Create Tag"
+msgstr ""
+
+msgid "Create a new branch at the selected commit"
+msgstr ""
+
+msgid "Create a new tag at the selected commit"
+msgstr ""
+
+msgid "Create a patch from the selected commit"
+msgstr ""
+
+msgid "Create branch"
+msgstr ""
+
+msgid "Create new commits and manage the staging area"
+msgstr ""
+
+msgid "Create new repository"
+msgstr ""
+
+msgid "Create patch"
+msgstr ""
+
+msgid "Create repository"
+msgstr ""
+
+msgid "Create tag"
+msgstr ""
+
+msgid "Current branch"
+msgstr ""
+
+msgid "D_elete file"
+msgid_plural "D_elete files"
+msgstr[0] ""
+
+msgid "D_iscard selection"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Default Activity"
+msgstr ""
+
+msgid "Default Clone Directory"
+msgstr ""
+
+msgid "Default details used for all repositories"
+msgstr ""
+
+msgid "Default selection"
+msgstr ""
+
+msgid "Default selection of the history activity"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Delete branch %s"
+msgstr ""
+
+msgid "Delete file"
+msgid_plural "Delete files"
+msgstr[0] ""
+
+msgid "Delete remote branch %s"
+msgstr ""
+
+msgid "Delete tag %s"
+msgstr ""
+
+msgid "Delete the selected reference"
+msgstr ""
+
+msgid ""
+"Determines whether to also show the upstream (remote) tracking branch when "
+"selecting a local branch in the history view."
+msgstr ""
+
+msgid "Diff"
+msgstr ""
+
+msgid "Difference"
+msgstr ""
+
+msgid "Discard"
+msgstr ""
+
+msgid "Discard changes"
+msgstr ""
+
+msgid "Display _subject margin at column:"
+msgstr ""
+
+msgid "Display right _margin at column:"
+msgstr ""
+
+msgid "Do not try to load a repository from the current working directory"
+msgstr ""
+
+msgid "E-mail:"
+msgstr ""
+
+msgid "Early"
+msgstr ""
+
+msgid "Enable Diff Highlighting"
+msgstr ""
+
+msgid "Enable Monitoring"
+msgstr ""
+
+msgid "Enable Spell Checking"
+msgstr ""
+
+msgid "Enable spell checking"
+msgstr ""
+
+msgid "Enable syntax highlighting of source code in diff views"
+msgstr ""
+
+msgid "Enable the use of gravatar to display user avatars."
+msgstr ""
+
+msgid "Enter default details used for all repositories:"
+msgstr ""
+
+msgid "Examine the history of the repository"
+msgstr ""
+
+msgid "Expand all"
+msgstr ""
+
+msgid "Failed to add repository"
+msgstr ""
+
+msgid "Failed to checkout branch: %s"
+msgstr ""
+
+msgid "Failed to checkout conflicts: %s"
+msgstr ""
+
+msgid "Failed to checkout index: %s"
+msgstr ""
+
+msgid "Failed to cherry-pick the commit: %s"
+msgstr ""
+
+msgid "Failed to clone repository"
+msgstr ""
+
+msgid "Failed to commit"
+msgstr ""
+
+msgid "Failed to create branch"
+msgstr ""
+
+msgid "Failed to create commit: %s"
+msgstr ""
+
+msgid "Failed to create patch"
+msgstr ""
+
+msgid "Failed to create repository"
+msgstr ""
+
+msgid "Failed to create tag"
+msgstr ""
+
+msgid "Failed to delete branch %s"
+msgstr ""
+
+msgid "Failed to delete files"
+msgstr ""
+
+msgid "Failed to delete tag %s"
+msgstr ""
+
+msgid "Failed to discard changes"
+msgstr ""
+
+msgid "Failed to discard selection"
+msgstr ""
+
+msgid "Failed to fetch from %s: %s"
+msgstr ""
+
+msgid "Failed to lookup commit: %s"
+msgstr ""
+
+msgid "Failed to lookup our commit: %s"
+msgstr ""
+
+msgid "Failed to lookup tag"
+msgstr ""
+
+msgid "Failed to lookup the commit for branch %s: %s"
+msgstr ""
+
+msgid "Failed to lookup their commit: %s"
+msgstr ""
+
+msgid "Failed to merge commits: %s"
+msgstr ""
+
+msgid "Failed to obtain author details"
+msgstr ""
+
+msgid "Failed to pass pre-commit"
+msgstr ""
+
+msgid "Failed to rename"
+msgstr ""
+
+msgid "Failed to set Git user config."
+msgstr ""
+
+msgid "Failed to stage selection"
+msgstr ""
+
+msgid "Failed to stash changes: %s"
+msgstr ""
+
+msgid "Failed to unstage selection"
+msgstr ""
+
+msgid "Failed to update HEAD: %s"
+msgstr ""
+
+msgid "Failed with conflicts"
+msgstr ""
+
+msgid "Fetch from %s"
+msgstr ""
+
+msgid "Fetch remote objects from %s"
+msgstr ""
+
+msgid "Fetched from %s: %s"
+msgstr ""
+
+msgid "Fetched from %s: everything is up to date"
+msgstr ""
+
+msgid "Fetching from %s"
+msgstr ""
+
+msgid "Files"
+msgstr ""
+
+msgid "Find a word or phrase"
+msgstr ""
+
+msgid "Finished merge with conflicts in working directory"
+msgstr ""
+
+msgid "Forget password _immediately"
+msgstr ""
+
+msgid "General settings and options"
+msgstr ""
+
+msgid "Git repository browser"
+msgstr ""
+
+msgid "Half an hour ago"
+msgstr ""
+
+msgid ""
+"Highlight the subject text of the commit message when it passes the margin "
+"specified by subject-margin-position."
+msgstr ""
+
+msgid "History"
+msgstr ""
+
+msgid "Ignore Whitespace Changes"
+msgstr ""
+
+msgid "Ignore whitespace:"
+msgstr ""
+
+msgid "In the mean time, you may want to %sset up your git profile%s."
+msgstr ""
+
+msgid "Interface"
+msgstr ""
+
+msgid "Invalid name"
+msgstr ""
+
+msgid "Late"
+msgstr ""
+
+msgid "Layout"
+msgstr ""
+
+msgid "Mainline"
+msgstr ""
+
+msgid "Mainline Head"
+msgstr ""
+
+msgid "Merge %s into %s"
+msgstr ""
+
+msgid "Merge %s into branch %s"
+msgstr ""
+
+msgid "Merge another branch into branch %s"
+msgstr ""
+
+msgid "Merge failed with conflicts"
+msgstr ""
+
+msgid "Merge has conflicts"
+msgstr ""
+
+msgid "Merge into %s"
+msgstr ""
+
+msgid "Missing author details"
+msgstr ""
+
+msgid "Monitoring"
+msgstr ""
+
+msgid "Name:"
+msgstr ""
+
+msgid "No dirty submodules"
+msgstr ""
+
+msgid ""
+"No repositories have been added yet. To get started, you can add an existing"
+" repository or clone a new one."
+msgstr ""
+
+msgid "No staged files"
+msgstr ""
+
+msgid "No unstaged files"
+msgstr ""
+
+msgid "No untracked files"
+msgstr ""
+
+msgid "Now"
+msgstr ""
+
+msgid "Number of Before/After Context Lines"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open containing _folder"
+msgstr ""
+
+msgid "Orientation of the main interface (vertical or horizontal)"
+msgstr ""
+
+msgid "Overlay"
+msgstr ""
+
+msgid "Parents"
+msgstr ""
+
+msgid "Password required for %s"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgctxt "Preferences"
+msgid "Commit"
+msgstr ""
+
+msgid "Preserve mainline for currently checked out branch"
+msgstr ""
+
+msgid "Projects"
+msgstr ""
+
+msgid "Provide a message to create an annotated tag"
+msgstr ""
+
+msgid "REFERENCE"
+msgstr ""
+
+msgid "Reference Sort Order"
+msgstr ""
+
+msgid "References"
+msgstr ""
+
+msgid "Remember _forever"
+msgstr ""
+
+msgid "Remember password until you _logout"
+msgstr ""
+
+msgid "Remote _URL:"
+msgstr ""
+
+msgid "Remotes"
+msgstr ""
+
+msgid ""
+"Remove the repository from the list (does not delete the repository from "
+"disk)"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Rename the selected reference"
+msgstr ""
+
+msgid "Rendered Width of a Tab Character"
+msgstr ""
+
+msgid "S_tage selection"
+msgstr ""
+
+msgid "Save Patch File"
+msgstr ""
+
+msgid "Scanning for repositories in %s"
+msgstr ""
+
+msgid "Select all branches by default in the history activity"
+msgstr ""
+
+msgid "Select all commits by default in the history activity"
+msgstr ""
+
+msgid "Select all remotes by default in the history activity"
+msgstr ""
+
+msgid "Select all tags by default in the history activity"
+msgstr ""
+
+msgid "Select and manage projects"
+msgstr ""
+
+msgid "Select items"
+msgstr ""
+
+msgid "Select location…"
+msgstr ""
+
+msgid "Select the specified reference by default in the history activity"
+msgstr ""
+
+msgid ""
+"Setting that determines how many lines of context (before and after) should "
+"be shown when showing the diff of a commit."
+msgstr ""
+
+msgid ""
+"Setting that determines how many lines of context (before and after) should "
+"be shown when showing the diff to be staged/unstaged in the commit area."
+msgstr ""
+
+msgid ""
+"Setting that determines how much space a tab character should occupy when "
+"showing the diff of a commit."
+msgstr ""
+
+msgid ""
+"Setting that determines the default selection on startup of the history "
+"activity."
+msgstr ""
+
+msgid ""
+"Setting that determines whether to enable syntax highlighting in diff views."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether changes within lines should be shown inline."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to always preserve a mainline in the history "
+"for the current HEAD."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to collapse history lanes which do not show "
+"activity. Enabling this can provide a cleaner history view when there is a "
+"lot of parallel development. See collapse-inactive-lanes to control when "
+"lanes should be collapsed."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to ignore whitespace changes when showing the"
+" diff of a commit."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to show a virtual item for the currently "
+"staged changes in the history."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to show a virtual item for the currently "
+"unstaged changes in the history."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to show items for the stash in the history."
+msgstr ""
+
+msgid ""
+"Setting that indicates whether to show the history in topological order."
+msgstr ""
+
+msgid "Setting that sets the orientation of the main interface."
+msgstr ""
+
+msgid ""
+"Setting which determines whether or not spell checking is enabled when "
+"writing a commit message."
+msgstr ""
+
+msgid "Show Changes Inline"
+msgstr ""
+
+msgid "Show History in Topological Order"
+msgstr ""
+
+msgid "Show Right Margin in Commit Message View"
+msgstr ""
+
+msgid "Show Staged Changes"
+msgstr ""
+
+msgid "Show Stashed Changes"
+msgstr ""
+
+msgid "Show Subject Margin in Commit Message View"
+msgstr ""
+
+msgid "Show Unstaged Changes"
+msgstr ""
+
+msgid "Show Upstream With Branch"
+msgstr ""
+
+msgid ""
+"Show a right margin indicator in the commit message view. This can be used "
+"to easily see where to break the commit message at a particular column."
+msgstr ""
+
+msgid "Show history in topological order"
+msgstr ""
+
+msgid "Show markup"
+msgstr ""
+
+msgid "Show the changes introduced by the selected commit"
+msgstr ""
+
+msgid "Show the files in the tree of the selected commit"
+msgstr ""
+
+msgid "Show the list of recently used repositories"
+msgstr ""
+
+msgid "Show upstream (remote) branch when selecting a local branch"
+msgstr ""
+
+msgid "Side by side"
+msgstr ""
+
+msgid "Skip commit _hooks"
+msgstr ""
+
+msgid "Slider"
+msgstr ""
+
+msgid "Sort references in the sidebar by latest activity"
+msgstr ""
+
+msgid "Spacing"
+msgstr ""
+
+msgid "Spell Checking Language"
+msgstr ""
+
+msgid "Staged"
+msgstr ""
+
+msgid "Staged:"
+msgstr ""
+
+msgid "Start gitg with a particular activity"
+msgstr ""
+
+msgid "Start gitg with the commit activity (shorthand for --activity commit)"
+msgstr ""
+
+msgid "Start with activity:"
+msgstr ""
+
+msgid "Startup"
+msgstr ""
+
+msgid "Stash changes"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Submodule"
+msgstr ""
+
+msgid "Successfully checked out branch to working directory"
+msgstr ""
+
+msgid "Successfully cherry picked"
+msgstr ""
+
+msgid "Successfully merged %s into %s"
+msgstr ""
+
+msgid "Tab width:"
+msgstr ""
+
+msgid "Tag _name:"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
+msgid "The URL introduced is not supported"
+msgstr ""
+
+msgid "The activity which gitg activates by default when first launched."
+msgstr ""
+
+msgid "The branch %s could not be deleted: %s"
+msgstr ""
+
+msgid ""
+"The cherry pick of %s onto %s has caused conflicts, would you like to "
+"checkout branch %s with the cherry pick to your working directory to resolve"
+" the conflicts?"
+msgstr ""
+
+msgid ""
+"The cherry-pick of %s onto %s has caused conflicts, would you like to "
+"checkout the cherry pick to your working directory to resolve the conflicts?"
+msgstr ""
+
+msgid ""
+"The column at which the right margin is shown if the show-right-margin "
+"preference is set to TRUE."
+msgstr ""
+
+msgid ""
+"The column at which the subject margin is shown if the show-subject-margin "
+"preference is set to TRUE."
+msgstr ""
+
+msgid ""
+"The default directory in which new repositories should be suggested to be "
+"cloned."
+msgstr ""
+
+msgid ""
+"The language to use when spell checking is enabled for writing a commit "
+"message."
+msgstr ""
+
+msgid ""
+"The location <i>%s</i> does not appear to be a valid git repository. Would "
+"you like to initialize a new git repository at this location?"
+msgstr ""
+
+msgid ""
+"The merge of %s into %s has caused conflicts, would you like to checkout "
+"branch %s with the merge to your working directory to resolve the conflicts?"
+msgstr ""
+
+msgid ""
+"The merge of %s into %s has caused conflicts, would you like to checkout the"
+" merge to your working directory to resolve the conflicts?"
+msgstr ""
+
+msgid "The order by which references in the history sidebar should be sorted."
+msgstr ""
+
+msgid ""
+"The previous attempt to authenticate has failed, please provide your user "
+"name and password and try again."
+msgstr ""
+
+msgid ""
+"The submodule is in a dirty state and has staged and/or unstaged changes "
+"that are not yet committed as shown below."
+msgstr ""
+
+msgid "The tag %s could not be deleted: %s"
+msgstr ""
+
+msgid "There are no changes to be committed"
+msgstr ""
+
+msgid "Unable to display changes for binary file"
+msgstr ""
+
+msgid "Unstaged"
+msgstr ""
+
+msgid "Unstaged changes"
+msgstr ""
+
+msgid "Unstaged:"
+msgstr ""
+
+msgid "Untracked"
+msgstr ""
+
+msgid "Use Gravatar"
+msgstr ""
+
+msgid "Use amend to change the commit message of the previous commit"
+msgstr ""
+
+msgid "Use gravatar service to provide user avatars"
+msgstr ""
+
+msgid "Use horizontal layout"
+msgstr ""
+
+msgid "We can also %sscan your home directory%s for git repositories."
+msgstr ""
+
+msgid "When to Collapse Inactive Lanes"
+msgstr ""
+
+msgid "Wrap"
+msgstr ""
+
+msgid "Wrap lines."
+msgstr ""
+
+msgid "Wrap lines:"
+msgstr ""
+
+msgid ""
+"You appear to have unstaged changes in your working directory. Would you "
+"like to stash the changes before the checkout?"
+msgstr ""
+
+msgid ""
+"Your email is not configured yet. Please go to the user configuration and "
+"provide your email."
+msgstr ""
+
+msgid ""
+"Your user name and email are not configured yet. Please go to the user "
+"configuration and provide your name and email."
+msgstr ""
+
+msgid ""
+"Your user name is not configured yet. Please go to the user configuration "
+"and provide your name."
+msgstr ""
+
+msgid "_About"
+msgstr ""
+
+msgid "_Add"
+msgstr ""
+
+msgid "_Amend previous commit"
+msgstr ""
+
+msgid "_Authenticate"
+msgstr ""
+
+msgid "_Author Details"
+msgstr ""
+
+msgid "_Cancel"
+msgstr ""
+
+msgid "_Copy file path"
+msgstr ""
+
+msgid "_Discard changes"
+msgstr ""
+
+msgid "_Edit file"
+msgstr ""
+
+msgid "_Keyboard Shortcuts"
+msgstr ""
+
+msgid "_Local Folder:"
+msgstr ""
+
+msgid "_New Window"
+msgstr ""
+
+msgid "_Open file"
+msgstr ""
+
+msgid "_Password:"
+msgstr ""
+
+msgid "_Preferences"
+msgstr ""
+
+msgid "_Reload"
+msgstr ""
+
+msgid "_Remove"
+msgstr ""
+
+msgid "_Save"
+msgstr ""
+
+msgid "_Save Patch"
+msgstr ""
+
+msgid "_Scan for all git repositories from this directory"
+msgstr ""
+
+msgid "_Stage changes"
+msgstr ""
+
+msgid "_Stage selection"
+msgstr ""
+
+msgid "_Unstage changes"
+msgstr ""
+
+msgid "_Unstage selection"
+msgstr ""
+
+msgid "_Username:"
+msgstr ""
+
+msgid "added (%s)"
+msgstr ""
+
+msgid "after (%s)"
+msgstr ""
+
+msgid "at %s"
+msgstr ""
+
+msgid "before (%s)"
+msgstr ""
+
+msgid "gitg"
+msgstr ""
+
+msgid "gitg homepage"
+msgstr ""
+
+msgid "new"
+msgstr ""
+
+msgid "removed (%s)"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Close the active window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Find"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a new window"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open a repository"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open the help"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Open the window menu"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Quit the application"
+msgstr ""
+
+msgctxt "shortcut window"
+msgid "Windows"
+msgstr ""
+
+msgid "translator-credits"
+msgstr ""
+
+msgid "updated"
+msgstr ""

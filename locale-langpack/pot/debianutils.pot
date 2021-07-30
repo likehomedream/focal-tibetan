@@ -1,0 +1,284 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: debianutils\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2008-10-19 10:45+0000\n"
+"Last-Translator: Chen Ming <Unknown>\n"
+"Language-Team: Simplified Chinese <zh_CN@li.org>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Launchpad (build 2e26c9bbd21cdca248baaea29aeffb920afcc32a)\n"
+"X-Launchpad-Export-Date: 2020-04-16 16:54+0000\n"
+
+msgid "1)"
+msgstr ""
+
+msgid "2)"
+msgstr ""
+
+msgid "3)"
+msgstr ""
+
+msgid "4)"
+msgstr ""
+
+msgid "5)"
+msgstr ""
+
+msgid "7 Apr 2005"
+msgstr ""
+
+msgid "7 Jan 2001"
+msgstr ""
+
+msgid "ADD-SHELL"
+msgstr ""
+
+msgid "B<-->"
+msgstr ""
+
+msgid "B<--exit-on-error>"
+msgstr ""
+
+msgid "B<--help>"
+msgstr ""
+
+msgid "B<--list>"
+msgstr ""
+
+msgid "B<--lsbsysinit>"
+msgstr ""
+
+msgid "B<--new-session>"
+msgstr ""
+
+msgid "B<--regex=>I<RE>"
+msgstr ""
+
+msgid "B<--report>"
+msgstr ""
+
+msgid "B<--reverse>"
+msgstr ""
+
+msgid "B<--test>"
+msgstr ""
+
+msgid "B<--version>"
+msgstr ""
+
+msgid "B<-C>"
+msgstr ""
+
+msgid "B<-D dateformat>"
+msgstr ""
+
+msgid "B<-V, --version>"
+msgstr ""
+
+msgid "B<-a, --arg=>I<argument>"
+msgstr ""
+
+msgid "B<-a>"
+msgstr ""
+
+msgid "B<-c cycle>"
+msgstr ""
+
+msgid "B<-d, --directory >I<DIR>"
+msgstr ""
+
+msgid "B<-d>"
+msgstr ""
+
+msgid "B<-g group>"
+msgstr ""
+
+msgid "B<-h, --help>"
+msgstr ""
+
+msgid "B<-j>"
+msgstr ""
+
+msgid "B<-l>"
+msgstr ""
+
+msgid "B<-m mode>"
+msgstr ""
+
+msgid "B<-m, --mode >I<MODE>"
+msgstr ""
+
+msgid "B<-n, --name >I<FILE>"
+msgstr ""
+
+msgid "B<-n>"
+msgstr ""
+
+msgid "B<-p, --prefix >I<STRING>"
+msgstr ""
+
+msgid "B<-p>"
+msgstr ""
+
+msgid "B<-q>"
+msgstr ""
+
+msgid "B<-r>"
+msgstr ""
+
+msgid "B<-s, --suffix >I<STRING>"
+msgstr ""
+
+msgid "B<-t>"
+msgstr ""
+
+msgid "B<-u user>"
+msgstr ""
+
+msgid "B<-u, --umask=>I<umask>"
+msgstr ""
+
+msgid "B<-v, --verbose>"
+msgstr ""
+
+msgid "B<0>"
+msgstr ""
+
+msgid "B<1>"
+msgstr ""
+
+msgid "B<2>"
+msgstr ""
+
+msgid "B<add-shell> I<shellname> [I<shellname>...]"
+msgstr ""
+
+msgid "B<installkernel >I<version zImage System.map [directory]>"
+msgstr ""
+
+msgid "B<remove-shell> I<shellname> [I<shellname>...]"
+msgstr ""
+
+msgid "B<run-parts> -V"
+msgstr ""
+
+msgid ""
+"B<run-parts> [--test] [--verbose] [--report] [--lsbsysinit] [--regex=RE] "
+"[--umask=umask] [--arg=argument] [--exit-on-error] [--help] [--version] "
+"[--list] [--reverse] [--] DIRECTORY"
+msgstr ""
+
+msgid "B<shells>(5)"
+msgstr ""
+
+msgid "BUGS"
+msgstr ""
+
+msgid "COPYRIGHT"
+msgstr ""
+
+msgid "Copyright (C) 1994 Ian Jackson."
+msgstr ""
+
+msgid "Copyright (C) 1996 Jeff Noxon."
+msgstr ""
+
+msgid "Copyright (C) 1996, 1997, 1998 Guy Maor"
+msgstr ""
+
+msgid "DESCRIPTION"
+msgstr ""
+
+msgid "Debian"
+msgstr ""
+
+msgid "Debian Linux"
+msgstr ""
+
+msgid "EXAMPLE"
+msgstr ""
+
+msgid "EXAMPLES"
+msgstr ""
+
+msgid "EXIT STATUS"
+msgstr ""
+
+msgid "INSTALLKERNEL"
+msgstr ""
+
+msgid "NAME"
+msgstr ""
+
+msgid "OPTIONS"
+msgstr ""
+
+msgid "REMOVE-SHELL"
+msgstr ""
+
+msgid "RETURN VALUES"
+msgstr ""
+
+msgid "RUN-PARTS"
+msgstr ""
+
+msgid "SAVELOG"
+msgstr ""
+
+msgid "SEE ALSO"
+msgstr ""
+
+msgid "SYNOPSIS"
+msgstr ""
+
+msgid "TEMPFILE"
+msgstr ""
+
+msgid "The shells must be provided by their full pathnames."
+msgstr ""
+
+msgid "WHICH"
+msgstr ""
+
+msgid "a)"
+msgstr ""
+
+msgid "add-shell - add shells to the list of valid login shells"
+msgstr ""
+
+msgid "b)"
+msgstr ""
+
+msgid "be quiet"
+msgstr ""
+
+msgid "c)"
+msgstr ""
+
+msgid "display version and copyright and exit."
+msgstr ""
+
+msgid "installkernel - install a new kernel image"
+msgstr ""
+
+msgid "remove-shell - remove shells from the list of valid login shells"
+msgstr ""
+
+msgid "run-parts - run scripts or programs in a directory"
+msgstr ""
+
+msgid "run-parts --list --regex \\[aq]^p.*d$\\[aq] /etc"
+msgstr ""
+
+msgid "savelog - save a log file"
+msgstr ""
+
+msgid "which - locate a command"
+msgstr ""
+
+msgid "which [-a] filename ..."
+msgstr ""
