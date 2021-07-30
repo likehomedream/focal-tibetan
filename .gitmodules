@@ -1,0 +1,3 @@
+[submodule "xenial-tibetan"]
+	path = xenial-tibetan
+	url = https://github.com/ubuntukylin-weblate/xenial-tibetan.git
