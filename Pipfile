@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 polib = "*"
 typer = "*"
+sqlalchemy = "*"
+pydantic = "*"
 
 [dev-packages]
 
