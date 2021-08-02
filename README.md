@@ -14,7 +14,7 @@ git submodule init
 git submodule update
 ```
 
-## Data
+## Translation Data
 
 We use PostgreSQL to manage translation data that from the scratch, and though Weblate to promote the translation  work.
 
@@ -41,11 +41,34 @@ We have defined a global table to store all translations.
 
 Similarly, another Chinese tuple is constructed by `msg_id` and `msg_str_zh_CN`.
 
-We simply import the translation data to PostgreSQL database with `bin/msg2sql.py`.
+We simply import the translation data(gettext PO format) to PostgreSQL database with `bin/msg2sql.py`.
 
 ```shell
 # Import Chinese data
  DATABASE_URI='postgresql+pg8000://focal-tibetan:focal-tibetan@127.0.0.1:5432/focal-tibetan' python bin/msg2sql.py locale-langpack/zh_CN/LC_MESSAGES/*
 # Import Tibetan(China) data
  DATABASE_URI='postgresql+pg8000://focal-tibetan:focal-tibetan@127.0.0.1:5432/focal-tibetan' python bin/msg2sql.py xenial-tibetan/locale-langpack/bo_CN/LC_MESSAGES/*
+```
+
+And another script named `bin/ts2sql.py` is used to import the translation data(Qt Translation Format) to PostgreSQL database.
+
+```shell
+DATABASE_URI='postgresql+pg8000://focal-tibetan:focal-tibetan@127.0.0.1:5432/focal-tibetan' python bin/ts2sql.py $(find ./ -type f -name "*zh_CN.ts")
+```
+
+## File Operations
+
+This project current support some operations of the PO and TS files.
+
+### PO/POT
+
+It is a script `bin/msgfile.py` to support compile, decompile and generate template(POT) from a PO file.
+
+```shell
+# compile .po to .mo (in-place)
+python bin/msgfile.py compress locale-langpack/zh_CN/LC_MESSAGES/*.po
+# decompile .mo to .po (in-place)
+python bin/msgfile.py compress locale-langpack/zh_CN/LC_MESSAGES/*.mo
+# create .pot from .po to specified directory
+python bin/msgfile.py generate-template locale-langpack/zh_CN/LC_MESSAGES/*.po locale-langpack/pot/
 ```
