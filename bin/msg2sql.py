@@ -1,13 +1,17 @@
+import os
+import sys
+
+sys.path.append(os.path.join(sys.path[0], os.pardir))
+
 from enum import Enum, auto
 from pathlib import Path
 from typing import List
 
-from polib import pofile, POFile, POEntry
+from polib import pofile, POEntry
 from typer import Typer
 
 from msg.database import engine, session, Base
 from msg.models import MSG
-
 
 manage = Typer()
 db = session()
@@ -21,12 +25,19 @@ class MSGType(Enum):
 
 
 def db_import_msg(msg_id: str = "", msg_str_bo_cn: str = "", msg_str_zh_cn: str = ""):
-    msg = MSG(
-        msg_id=msg_id,
-        msg_str_bo_CN=msg_str_bo_cn,
-        msg_str_zh_CN=msg_str_zh_cn,
-    )
-    db.add(msg)
+    result = db.query(MSG).filter(MSG.msg_id == msg_id).first()
+    if result:
+        if msg_str_zh_cn != "" and bool(result.msg_str_zh_CN) is False:
+            result.msg_str_zh_CN = msg_str_zh_cn
+        if msg_str_bo_cn != "" and bool(result.msg_str_bo_CN) is False:
+            result.msg_str_bo_CN = msg_str_bo_cn
+    else:
+        msg = MSG(
+            msg_id=msg_id,
+            msg_str_bo_CN=msg_str_bo_cn,
+            msg_str_zh_CN=msg_str_zh_cn,
+        )
+        db.add(msg)
 
 
 def db_import_entry(entry: POEntry, entry_type: MSGType):
@@ -50,7 +61,7 @@ def import_po(files: List[Path]):
             if po.metadata['Language'] == 'zh_CN':
                 po_type = MSGType.zh_CN
             elif po.metadata['Language'] == 'bo_CN':
-                po_type = MSGType.zh_CN
+                po_type = MSGType.bo_CN
             else:
                 po_type = MSGType.invalid
             for entry in po:
@@ -61,5 +72,4 @@ def import_po(files: List[Path]):
 
 
 if __name__ == '__main__':
-    Base.metadata.create_all(bind=engine)
     manage()
