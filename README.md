@@ -72,3 +72,14 @@ python bin/msgfile.py compress locale-langpack/zh_CN/LC_MESSAGES/*.mo
 # create .pot from .po to specified directory
 python bin/msgfile.py generate-template locale-langpack/zh_CN/LC_MESSAGES/*.po locale-langpack/pot/
 ```
+
+And another script named `bin/tsfile.py` provides support of compile, decompile TS or QM file.  And support generate an empty bo_CN TS file too.  These operations are all in-place.
+
+```shell
+# compile .ts to .qm
+python bin/tsfile.py compress kylin-calculator/translations/kylin-calculator_zh_CN.ts # to kylin-calculator/translations/kylin-calculator_zh_CN.qm
+# decompile .qm to .ts
+python bin/tsfile.py compress kylin-calculator/translations/kylin-calculator_zh_CN.qm # to kylin-calculator/translations/kylin-calculator_zh_CN.ts
+# generate an empty bo_CN translation file.
+python bin/tsfile.py generate-bo-cn-empty-template kylin-calculator/translations/kylin-calculator_zh_CN.ts # to kylin-calculator/translations/kylin-calculator_bo_CN.ts
+```
