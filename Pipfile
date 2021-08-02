@@ -8,6 +8,7 @@ polib = "*"
 typer = "*"
 sqlalchemy = "*"
 pydantic = "*"
+lxml = "*"
 
 [dev-packages]
 
