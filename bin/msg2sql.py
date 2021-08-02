@@ -8,12 +8,11 @@ from pathlib import Path
 from typing import List
 
 from polib import pofile, POEntry
-from typer import Typer
+from typer import run
 
 from msg.database import engine, session, Base
 from msg.models import MSG
 
-manage = Typer()
 db = session()
 
 
@@ -53,7 +52,6 @@ def db_import_entry(entry: POEntry, entry_type: MSGType):
             db_import_msg(msg_id=entry.msgid, msg_str_bo_cn=entry.msgstr)
 
 
-@manage.command()
 def import_po(files: List[Path]):
     for file in files:
         if file.exists() and file.suffix == ".po":
@@ -72,4 +70,4 @@ def import_po(files: List[Path]):
 
 
 if __name__ == '__main__':
-    manage()
+    run(import_po)
