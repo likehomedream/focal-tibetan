@@ -3,7 +3,7 @@ import sys
 from enum import Enum, auto
 from pathlib import Path
 from typing import List, NamedTuple
-from xml.etree.ElementTree import parse
+from lxml.etree import parse
 
 from typer import run
 
@@ -60,7 +60,7 @@ def import_ts(files: List[Path]):
                 lang_type = TSLangType.bo_CN
             else:
                 lang_type = TSLangType.invalid
-            tree = parse(file)
+            tree = parse(str(file))
             root = tree.getroot()
             for context in root:
                 for message in context:
