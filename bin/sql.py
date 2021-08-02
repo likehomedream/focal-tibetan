@@ -1,13 +1,11 @@
 import os
 import sys
 
-sys.path.append(os.path.join(sys.path[0], os.pardir))
-
 from typer import Typer
 
-from msg.database import engine, session, Base
-from msg.models import MSG
+sys.path.append(os.path.join(sys.path[0], os.pardir))
 
+from msg.database import engine, session, Base
 
 manage = Typer()
 db = session()

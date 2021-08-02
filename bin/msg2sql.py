@@ -1,8 +1,5 @@
 import os
 import sys
-
-sys.path.append(os.path.join(sys.path[0], os.pardir))
-
 from enum import Enum, auto
 from pathlib import Path
 from typing import List
@@ -10,7 +7,9 @@ from typing import List
 from polib import pofile, POEntry
 from typer import run
 
-from msg.database import engine, session, Base
+sys.path.append(os.path.join(sys.path[0], os.pardir))
+
+from msg.database import session
 from msg.models import MSG
 
 db = session()
