@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: unity-scope-calculator\n"
@@ -5,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2014-04-10 14:07+0000\n"
 "Last-Translator: Luo Lei <robert165@163.com>\n"
 "Language-Team: Chinese (Simplified) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"

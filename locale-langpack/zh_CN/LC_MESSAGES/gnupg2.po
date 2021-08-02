@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: GNU gnupg 2.3.0-beta485\n"

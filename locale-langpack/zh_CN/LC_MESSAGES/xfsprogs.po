@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: xfsprogs\n"
@@ -5,6 +6,7 @@ msgstr ""
 "PO-Revision-Date: 2008-02-02 18:18+0000\n"
 "Last-Translator: Tao Wei <weitao1979@gmail.com>\n"
 "Language-Team: Chinese (China) <zh_CN@li.org>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
