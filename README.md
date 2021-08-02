@@ -60,7 +60,7 @@ DATABASE_URI='postgresql+pg8000://focal-tibetan:focal-tibetan@127.0.0.1:5432/foc
 
 This project current support some operations of the PO and TS files.
 
-### PO/POT
+### PO/POT(Gettext PO/Template File)
 
 It is a script `bin/msgfile.py` to support compile, decompile and generate template(POT) from a PO file.
 
@@ -72,6 +72,8 @@ python bin/msgfile.py compress locale-langpack/zh_CN/LC_MESSAGES/*.mo
 # create .pot from .po to specified directory
 python bin/msgfile.py generate-template locale-langpack/zh_CN/LC_MESSAGES/*.po locale-langpack/pot/
 ```
+
+### TS(Qt Translation File)
 
 And another script named `bin/tsfile.py` provides support of compile, decompile TS or QM file.  And support generate an empty bo_CN TS file too.  These operations are all in-place.
 
