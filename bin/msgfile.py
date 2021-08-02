@@ -36,7 +36,7 @@ def generate_template(files: List[Path], directory: str):
         if file.exists() and file.suffix == ".po":
             pot_file = Path(directory) / file.with_suffix(".pot").name
             pot = pofile(str(file))
-            pot.metadata['Language'] = "en_US"
+            pot.metadata.clear()
             for entry in pot:
                 if entry.msgid_plural:
                     for i in range(0, len(entry.msgstr_plural)):
